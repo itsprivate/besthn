@@ -1,0 +1,74 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "👋 Best HN!",
+    "home_page_url": "https://besthn.buzzing.cc",
+    "feed_url": "https://besthn.buzzing.cc/feed.json",
+    "description": "用中文浏览Hacker News 热门文章",
+    "icon": "http://example.com/image.png",
+    "author": {
+        "name": "Buzzing",
+        "url": "https://besthn.buzzing.cc"
+    },
+    "items": [
+        {
+            "id": "https://news.ycombinator.com/item?id=30392227",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30392227",
+            "title": "Grist--Airtable和Google Sheets的开放核心替代方案",
+            "summary": "Grist – Open core alternative to Airtable and Google Sheets",
+            "date_modified": "2022-02-18T22:51:59.000Z",
+            "author": {
+                "name": "paulfitz",
+                "url": "https://news.ycombinator.com/user?id=paulfitz"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30391724",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30391724",
+            "title": "我们为什么禁止使用乐高积木 (2006)",
+            "summary": "Why We Banned Legos (2006)",
+            "date_modified": "2022-02-18T22:04:36.000Z",
+            "author": {
+                "name": "ColinWright",
+                "url": "https://news.ycombinator.com/user?id=ColinWright"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30389335",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30389335",
+            "title": "LTE上行链路的解调",
+            "summary": "Demodulation of the LTE uplink",
+            "date_modified": "2022-02-18T18:32:19.000Z",
+            "author": {
+                "name": "picture",
+                "url": "https://news.ycombinator.com/user?id=picture"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30388127",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30388127",
+            "title": "对大石油公司 \"洗绿 \"的指责是有根据的",
+            "summary": "Accusations of 'greenwashing' by big oil companies are well-founded",
+            "date_modified": "2022-02-18T16:54:48.000Z",
+            "author": {
+                "name": "daviddisco",
+                "url": "https://news.ycombinator.com/user?id=daviddisco"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30384121",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30384121",
+            "title": "尼克斯。一个时代已经到来的想法",
+            "summary": "Nix: An idea whose time has come",
+            "date_modified": "2022-02-18T10:31:07.000Z",
+            "author": {
+                "name": "susam",
+                "url": "https://news.ycombinator.com/user?id=susam"
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://besthn.buzzing.cc</id>
+    <title>👋 Best HN!</title>
+    <updated>2022-02-19T03:23:24.334Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Buzzing</name>
+        <email>hello@buzzing.cc</email>
+        <uri>https://besthn.buzzing.cc</uri>
+    </author>
+    <link rel="alternate" href="https://besthn.buzzing.cc"/>
+    <link rel="self" href="https://besthn.buzzing.cc/atom.xml"/>
+    <subtitle>用中文浏览Hacker News 热门文章</subtitle>
+    <logo>http://example.com/image.png</logo>
+    <icon>https://besthn.buzzing.cc/favicon.ico</icon>
+    <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Grist--Airtable和Google Sheets的開放核心替代方案]]></title>
+        <id>https://news.ycombinator.com/item?id=30392227</id>
+        <link href="https://news.ycombinator.com/item?id=30392227"/>
+        <updated>2022-02-18T22:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Grist – Open core alternative to Airtable and Google Sheets]]></summary>
+        <author>
+            <name>paulfitz</name>
+            <uri>https://news.ycombinator.com/user?id=paulfitz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們為什麼禁止使用樂高積木 (2006)]]></title>
+        <id>https://news.ycombinator.com/item?id=30391724</id>
+        <link href="https://news.ycombinator.com/item?id=30391724"/>
+        <updated>2022-02-18T22:04:36.000Z</updated>
+        <summary type="html"><![CDATA[Why We Banned Legos (2006)]]></summary>
+        <author>
+            <name>ColinWright</name>
+            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LTE上行鏈路的解調]]></title>
+        <id>https://news.ycombinator.com/item?id=30389335</id>
+        <link href="https://news.ycombinator.com/item?id=30389335"/>
+        <updated>2022-02-18T18:32:19.000Z</updated>
+        <summary type="html"><![CDATA[Demodulation of the LTE uplink]]></summary>
+        <author>
+            <name>picture</name>
+            <uri>https://news.ycombinator.com/user?id=picture</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[對大石油公司 "洗綠 "的指責是有根據的]]></title>
+        <id>https://news.ycombinator.com/item?id=30388127</id>
+        <link href="https://news.ycombinator.com/item?id=30388127"/>
+        <updated>2022-02-18T16:54:48.000Z</updated>
+        <summary type="html"><![CDATA[Accusations of 'greenwashing' by big oil companies are well-founded]]></summary>
+        <author>
+            <name>daviddisco</name>
+            <uri>https://news.ycombinator.com/user?id=daviddisco</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尼克斯。一個時代已經到來的想法]]></title>
+        <id>https://news.ycombinator.com/item?id=30384121</id>
+        <link href="https://news.ycombinator.com/item?id=30384121"/>
+        <updated>2022-02-18T10:31:07.000Z</updated>
+        <summary type="html"><![CDATA[Nix: An idea whose time has come]]></summary>
+        <author>
+            <name>susam</name>
+            <uri>https://news.ycombinator.com/user?id=susam</uri>
+        </author>
+    </entry>
+</feed>
