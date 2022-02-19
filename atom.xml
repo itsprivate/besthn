@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-19T12:17:48.214Z</updated>
+    <updated>2022-02-19T21:53:15.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你觉得在大型分布式系统上工作很累吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30396454</id>
+        <link href="https://news.ycombinator.com/item?id=30396454"/>
+        <updated>2022-02-19T11:58:46.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Do you find working on large distributed systems exhausting?]]></summary>
+        <author>
+            <name>wreath</name>
+            <uri>https://news.ycombinator.com/user?id=wreath</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一名沙特妇女的iPhone暴露了世界各地的黑客行为]]></title>
         <id>https://news.ycombinator.com/item?id=30393530</id>
