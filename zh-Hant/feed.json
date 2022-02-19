@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30389355",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30389355",
+            "title": "解開的蘋果-1序列號之謎",
+            "summary": "The solved riddle of the Apple-1 serial number",
+            "date_modified": "2022-02-18T18:33:49.000Z",
+            "author": {
+                "name": "DamnInteresting",
+                "url": "https://news.ycombinator.com/user?id=DamnInteresting"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30392227",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30392227",
