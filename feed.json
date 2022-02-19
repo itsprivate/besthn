@@ -11,6 +11,462 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30376777",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30376777",
+            "title": "1型糖尿病的不合理的数学问题",
+            "summary": "The Unreasonable Math of Type 1 Diabetes",
+            "date_modified": "2022-02-17T18:33:20.000Z",
+            "author": {
+                "name": "grahar64",
+                "url": "https://news.ycombinator.com/user?id=grahar64"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30376140",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30376140",
+            "title": "静态B型树。一种用于快速二进制搜索的数据结构",
+            "summary": "Static B-Trees: A data structure for faster binary search",
+            "date_modified": "2022-02-17T17:42:37.000Z",
+            "author": {
+                "name": "sereja",
+                "url": "https://news.ycombinator.com/user?id=sereja"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30374905",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30374905",
+            "title": "阻止和删除来自DuckDuckGo、Google和其他山寨网站的过滤器。",
+            "summary": "Filters to block and remove copycat-websites from DuckDuckGo, Google and other",
+            "date_modified": "2022-02-17T16:27:51.000Z",
+            "author": {
+                "name": "gleb_the_human",
+                "url": "https://news.ycombinator.com/user?id=gleb_the_human"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30374372",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30374372",
+            "title": "投资者在2021年购买的美国房屋份额创下新高",
+            "summary": "Investors bought a record share of U.S. homes in 2021",
+            "date_modified": "2022-02-17T15:51:53.000Z",
+            "author": {
+                "name": "danso",
+                "url": "https://news.ycombinator.com/user?id=danso"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30374040",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30374040",
+            "title": "主持黑客新闻的孤独工作(2019)",
+            "summary": "The Lonely Work of Moderating Hacker News (2019)",
+            "date_modified": "2022-02-17T15:24:35.000Z",
+            "author": {
+                "name": "nicolast",
+                "url": "https://news.ycombinator.com/user?id=nicolast"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30373342",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30373342",
+            "title": "Quordle。四个字合二为一",
+            "summary": "Quordle: Four Wordles in One",
+            "date_modified": "2022-02-17T14:24:13.000Z",
+            "author": {
+                "name": "a-bit-of-code",
+                "url": "https://news.ycombinator.com/user?id=a-bit-of-code"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30373279",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30373279",
+            "title": "一个13岁的孩子用我的人造鼻子来诊断肺炎",
+            "summary": "A 13-year-old used my artificial nose to diagnose pneumonia",
+            "date_modified": "2022-02-17T14:18:48.000Z",
+            "author": {
+                "name": "kartben_",
+                "url": "https://news.ycombinator.com/user?id=kartben_"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30372750",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30372750",
+            "title": "PostgreSQL的内部结构",
+            "summary": "The Internals of PostgreSQL",
+            "date_modified": "2022-02-17T13:22:02.000Z",
+            "author": {
+                "name": "hjnkk",
+                "url": "https://news.ycombinator.com/user?id=hjnkk"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30372741",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30372741",
+            "title": "谁在抢占IPv4地址？",
+            "summary": "Who is squatting IPv4 addresses?",
+            "date_modified": "2022-02-17T13:21:14.000Z",
+            "author": {
+                "name": "todsacerdoti",
+                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30371604",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30371604",
+            "title": "AWS S3。有时你应该按下10万美元的按钮",
+            "summary": "AWS S3: Sometimes you should press the $100k button",
+            "date_modified": "2022-02-17T10:32:28.000Z",
+            "author": {
+                "name": "korostelevm",
+                "url": "https://news.ycombinator.com/user?id=korostelevm"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30370637",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30370637",
+            "title": "国家安全局的PX1000-Cr的后门",
+            "summary": "NSA's Backdoor of the PX1000-Cr",
+            "date_modified": "2022-02-17T08:09:44.000Z",
+            "author": {
+                "name": "sohkamyung",
+                "url": "https://news.ycombinator.com/user?id=sohkamyung"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30370551",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30370551",
+            "title": "苹果的定制NVMs速度惊人--如果你不关心数据完整性的话",
+            "summary": "Apple's custom NVMes are amazingly fast – if you don't care about data integrity",
+            "date_modified": "2022-02-17T07:54:10.000Z",
+            "author": {
+                "name": "omnibrain",
+                "url": "https://news.ycombinator.com/user?id=omnibrain"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30369402",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30369402",
+            "title": "Reddit无法建立一个更好的搜索引擎",
+            "summary": "Reddit can't build a better search engine",
+            "date_modified": "2022-02-17T04:05:11.000Z",
+            "author": {
+                "name": "rukshn",
+                "url": "https://news.ycombinator.com/user?id=rukshn"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30367906",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30367906",
+            "title": "世界乐",
+            "summary": "Worldle",
+            "date_modified": "2022-02-17T00:29:56.000Z",
+            "author": {
+                "name": "infiniteseries",
+                "url": "https://news.ycombinator.com/user?id=infiniteseries"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30367781",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30367781",
+            "title": "为99%的开发者建设",
+            "summary": "Building for the 99% Developers",
+            "date_modified": "2022-02-17T00:19:16.000Z",
+            "author": {
+                "name": "bdburns",
+                "url": "https://news.ycombinator.com/user?id=bdburns"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30364669",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30364669",
+            "title": "纽约正在使用带有麦克风的摄像机对吵闹的汽车开罚单",
+            "summary": "New York is using cameras with microphones to ticket loud cars",
+            "date_modified": "2022-02-16T19:38:14.000Z",
+            "author": {
+                "name": "KoftaBob",
+                "url": "https://news.ycombinator.com/user?id=KoftaBob"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30364337",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30364337",
+            "title": "新一波的Linux应用",
+            "summary": "A new wave of Linux applications",
+            "date_modified": "2022-02-16T19:10:32.000Z",
+            "author": {
+                "name": "Vinnl",
+                "url": "https://news.ycombinator.com/user?id=Vinnl"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30363506",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30363506",
+            "title": "纯粹的Bash圣经--外部进程的纯粹Bash替代品的集合",
+            "summary": "Pure Bash Bible – A collection of pure bash alternatives to external processes",
+            "date_modified": "2022-02-16T18:14:51.000Z",
+            "author": {
+                "name": "rrampage",
+                "url": "https://news.ycombinator.com/user?id=rrampage"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30362112",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30362112",
+            "title": "hue.tools - 开源的颜色工具箱",
+            "summary": "Show HN: hue.tools – open-source toolbox for colors",
+            "date_modified": "2022-02-16T16:35:07.000Z",
+            "author": {
+                "name": "pabue",
+                "url": "https://news.ycombinator.com/user?id=pabue"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30361850",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30361850",
+            "title": "密码",
+            "summary": "Passwordle",
+            "date_modified": "2022-02-16T16:13:06.000Z",
+            "author": {
+                "name": "snthueoa",
+                "url": "https://news.ycombinator.com/user?id=snthueoa"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30359430",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30359430",
+            "title": "1Password for SSH and Git (Beta)",
+            "summary": "1Password for SSH and Git (Beta)",
+            "date_modified": "2022-02-16T13:01:17.000Z",
+            "author": {
+                "name": "lkurtz",
+                "url": "https://news.ycombinator.com/user?id=lkurtz"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30359309",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30359309",
+            "title": "只在周五语法正确的Perl代码",
+            "summary": "Perl code that is syntactically correct only on Fridays",
+            "date_modified": "2022-02-16T12:46:30.000Z",
+            "author": {
+                "name": "pabs3",
+                "url": "https://news.ycombinator.com/user?id=pabs3"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30358903",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30358903",
+            "title": "书呆子的音乐理论 (2016)",
+            "summary": "Music theory for nerds (2016)",
+            "date_modified": "2022-02-16T11:58:55.000Z",
+            "author": {
+                "name": "marianoguerra",
+                "url": "https://news.ycombinator.com/user?id=marianoguerra"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30357788",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30357788",
+            "title": "2021年JavaScript的现状",
+            "summary": "State of JavaScript 2021",
+            "date_modified": "2022-02-16T09:05:57.000Z",
+            "author": {
+                "name": "kumartarun",
+                "url": "https://news.ycombinator.com/user?id=kumartarun"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30357192",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30357192",
+            "title": "我辞去工作，制作免费网络工具",
+            "summary": "I quit my job to make free web tools",
+            "date_modified": "2022-02-16T07:18:58.000Z",
+            "author": {
+                "name": "pul",
+                "url": "https://news.ycombinator.com/user?id=pul"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30356944",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30356944",
+            "title": "我花了12年时间创建的开放核心图标集",
+            "summary": "Show HN: Open-core icon sets that took me 12 years to create",
+            "date_modified": "2022-02-16T06:28:46.000Z",
+            "author": {
+                "name": "vincent-lemoign",
+                "url": "https://news.ycombinator.com/user?id=vincent-lemoign"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30356312",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30356312",
+            "title": "你怎么能被U+202E的把戏所蒙蔽？(2013)",
+            "summary": "How can you be fooled by the U+202E trick? (2013)",
+            "date_modified": "2022-02-16T04:20:17.000Z",
+            "author": {
+                "name": "behnamoh",
+                "url": "https://news.ycombinator.com/user?id=behnamoh"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30356177",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30356177",
+            "title": "不要立即指出错误的东西",
+            "summary": "Don’t point out something wrong immediately",
+            "date_modified": "2022-02-16T03:56:36.000Z",
+            "author": {
+                "name": "uvdn7",
+                "url": "https://news.ycombinator.com/user?id=uvdn7"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30356020",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30356020",
+            "title": "LibreOffice通过WebAssembly在浏览器中原生运行",
+            "summary": "LibreOffice running natively in the browser via WebAssembly",
+            "date_modified": "2022-02-16T03:25:47.000Z",
+            "author": {
+                "name": "syrusakbary",
+                "url": "https://news.ycombinator.com/user?id=syrusakbary"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30355738",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30355738",
+            "title": "脸书员工现在被称为 \"Metamates\"",
+            "summary": "Facebook staff now to be known as “Metamates”",
+            "date_modified": "2022-02-16T02:37:41.000Z",
+            "author": {
+                "name": "thereare5lights",
+                "url": "https://news.ycombinator.com/user?id=thereare5lights"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30354976",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30354976",
+            "title": "人们常说，分析引擎是在它的时代之前。",
+            "summary": "It's often said that the Analytical Engine was before its time",
+            "date_modified": "2022-02-16T00:41:07.000Z",
+            "author": {
+                "name": "luu",
+                "url": "https://news.ycombinator.com/user?id=luu"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30354410",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30354410",
+            "title": "你们公司的反价值是什么？",
+            "summary": "What are your company's anti-values?",
+            "date_modified": "2022-02-15T23:30:46.000Z",
+            "author": {
+                "name": "willsewell",
+                "url": "https://news.ycombinator.com/user?id=willsewell"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30354391",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30354391",
+            "title": "DC、BC、EQN的作者Lorinda Cherry已经去世。",
+            "summary": "Lorinda Cherry, author of dc, bc, eqn has died",
+            "date_modified": "2022-02-15T23:29:25.000Z",
+            "author": {
+                "name": "ggm",
+                "url": "https://news.ycombinator.com/user?id=ggm"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30354150",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30354150",
+            "title": "新蛋公司的丑闻有点大了",
+            "summary": "Newegg has a bit of a scandal on its hands",
+            "date_modified": "2022-02-15T23:07:15.000Z",
+            "author": {
+                "name": "gautamcgoel",
+                "url": "https://news.ycombinator.com/user?id=gautamcgoel"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30353709",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30353709",
+            "title": "没有人关心我的电子表格",
+            "summary": "No one cared about my spreadsheets",
+            "date_modified": "2022-02-15T22:26:15.000Z",
+            "author": {
+                "name": "jseliger",
+                "url": "https://news.ycombinator.com/user?id=jseliger"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30352772",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30352772",
+            "title": "Akamai将收购Linode",
+            "summary": "Akamai to Acquire Linode",
+            "date_modified": "2022-02-15T21:10:56.000Z",
+            "author": {
+                "name": "nycdatasci",
+                "url": "https://news.ycombinator.com/user?id=nycdatasci"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30352207",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30352207",
+            "title": "PDf、ePub、mobi格式的免费公共领域电子书",
+            "summary": "Free public domain ebooks in PDf, ePub, mobi formats",
+            "date_modified": "2022-02-15T20:29:00.000Z",
+            "author": {
+                "name": "notanexpert",
+                "url": "https://news.ycombinator.com/user?id=notanexpert"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30351968",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30351968",
+            "title": "DuckDuckGo \\u202E",
+            "summary": "DuckDuckGo \\u202E",
+            "date_modified": "2022-02-15T20:11:01.000Z",
+            "author": {
+                "name": "zeepzeep",
+                "url": "https://news.ycombinator.com/user?id=zeepzeep"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30389355",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30389355",

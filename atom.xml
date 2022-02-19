@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-19T03:33:49.636Z</updated>
+    <updated>2022-02-19T04:21:15.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,424 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[1型糖尿病的不合理的数学问题]]></title>
+        <id>https://news.ycombinator.com/item?id=30376777</id>
+        <link href="https://news.ycombinator.com/item?id=30376777"/>
+        <updated>2022-02-17T18:33:20.000Z</updated>
+        <summary type="html"><![CDATA[The Unreasonable Math of Type 1 Diabetes]]></summary>
+        <author>
+            <name>grahar64</name>
+            <uri>https://news.ycombinator.com/user?id=grahar64</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[静态B型树。一种用于快速二进制搜索的数据结构]]></title>
+        <id>https://news.ycombinator.com/item?id=30376140</id>
+        <link href="https://news.ycombinator.com/item?id=30376140"/>
+        <updated>2022-02-17T17:42:37.000Z</updated>
+        <summary type="html"><![CDATA[Static B-Trees: A data structure for faster binary search]]></summary>
+        <author>
+            <name>sereja</name>
+            <uri>https://news.ycombinator.com/user?id=sereja</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阻止和删除来自DuckDuckGo、Google和其他山寨网站的过滤器。]]></title>
+        <id>https://news.ycombinator.com/item?id=30374905</id>
+        <link href="https://news.ycombinator.com/item?id=30374905"/>
+        <updated>2022-02-17T16:27:51.000Z</updated>
+        <summary type="html"><![CDATA[Filters to block and remove copycat-websites from DuckDuckGo, Google and other]]></summary>
+        <author>
+            <name>gleb_the_human</name>
+            <uri>https://news.ycombinator.com/user?id=gleb_the_human</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[投资者在2021年购买的美国房屋份额创下新高]]></title>
+        <id>https://news.ycombinator.com/item?id=30374372</id>
+        <link href="https://news.ycombinator.com/item?id=30374372"/>
+        <updated>2022-02-17T15:51:53.000Z</updated>
+        <summary type="html"><![CDATA[Investors bought a record share of U.S. homes in 2021]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[主持黑客新闻的孤独工作(2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=30374040</id>
+        <link href="https://news.ycombinator.com/item?id=30374040"/>
+        <updated>2022-02-17T15:24:35.000Z</updated>
+        <summary type="html"><![CDATA[The Lonely Work of Moderating Hacker News (2019)]]></summary>
+        <author>
+            <name>nicolast</name>
+            <uri>https://news.ycombinator.com/user?id=nicolast</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quordle。四个字合二为一]]></title>
+        <id>https://news.ycombinator.com/item?id=30373342</id>
+        <link href="https://news.ycombinator.com/item?id=30373342"/>
+        <updated>2022-02-17T14:24:13.000Z</updated>
+        <summary type="html"><![CDATA[Quordle: Four Wordles in One]]></summary>
+        <author>
+            <name>a-bit-of-code</name>
+            <uri>https://news.ycombinator.com/user?id=a-bit-of-code</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个13岁的孩子用我的人造鼻子来诊断肺炎]]></title>
+        <id>https://news.ycombinator.com/item?id=30373279</id>
+        <link href="https://news.ycombinator.com/item?id=30373279"/>
+        <updated>2022-02-17T14:18:48.000Z</updated>
+        <summary type="html"><![CDATA[A 13-year-old used my artificial nose to diagnose pneumonia]]></summary>
+        <author>
+            <name>kartben_</name>
+            <uri>https://news.ycombinator.com/user?id=kartben_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL的内部结构]]></title>
+        <id>https://news.ycombinator.com/item?id=30372750</id>
+        <link href="https://news.ycombinator.com/item?id=30372750"/>
+        <updated>2022-02-17T13:22:02.000Z</updated>
+        <summary type="html"><![CDATA[The Internals of PostgreSQL]]></summary>
+        <author>
+            <name>hjnkk</name>
+            <uri>https://news.ycombinator.com/user?id=hjnkk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁在抢占IPv4地址？]]></title>
+        <id>https://news.ycombinator.com/item?id=30372741</id>
+        <link href="https://news.ycombinator.com/item?id=30372741"/>
+        <updated>2022-02-17T13:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Who is squatting IPv4 addresses?]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS S3。有时你应该按下10万美元的按钮]]></title>
+        <id>https://news.ycombinator.com/item?id=30371604</id>
+        <link href="https://news.ycombinator.com/item?id=30371604"/>
+        <updated>2022-02-17T10:32:28.000Z</updated>
+        <summary type="html"><![CDATA[AWS S3: Sometimes you should press the $100k button]]></summary>
+        <author>
+            <name>korostelevm</name>
+            <uri>https://news.ycombinator.com/user?id=korostelevm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家安全局的PX1000-Cr的后门]]></title>
+        <id>https://news.ycombinator.com/item?id=30370637</id>
+        <link href="https://news.ycombinator.com/item?id=30370637"/>
+        <updated>2022-02-17T08:09:44.000Z</updated>
+        <summary type="html"><![CDATA[NSA's Backdoor of the PX1000-Cr]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果的定制NVMs速度惊人--如果你不关心数据完整性的话]]></title>
+        <id>https://news.ycombinator.com/item?id=30370551</id>
+        <link href="https://news.ycombinator.com/item?id=30370551"/>
+        <updated>2022-02-17T07:54:10.000Z</updated>
+        <summary type="html"><![CDATA[Apple's custom NVMes are amazingly fast – if you don't care about data integrity]]></summary>
+        <author>
+            <name>omnibrain</name>
+            <uri>https://news.ycombinator.com/user?id=omnibrain</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit无法建立一个更好的搜索引擎]]></title>
+        <id>https://news.ycombinator.com/item?id=30369402</id>
+        <link href="https://news.ycombinator.com/item?id=30369402"/>
+        <updated>2022-02-17T04:05:11.000Z</updated>
+        <summary type="html"><![CDATA[Reddit can't build a better search engine]]></summary>
+        <author>
+            <name>rukshn</name>
+            <uri>https://news.ycombinator.com/user?id=rukshn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界乐]]></title>
+        <id>https://news.ycombinator.com/item?id=30367906</id>
+        <link href="https://news.ycombinator.com/item?id=30367906"/>
+        <updated>2022-02-17T00:29:56.000Z</updated>
+        <summary type="html"><![CDATA[Worldle]]></summary>
+        <author>
+            <name>infiniteseries</name>
+            <uri>https://news.ycombinator.com/user?id=infiniteseries</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为99%的开发者建设]]></title>
+        <id>https://news.ycombinator.com/item?id=30367781</id>
+        <link href="https://news.ycombinator.com/item?id=30367781"/>
+        <updated>2022-02-17T00:19:16.000Z</updated>
+        <summary type="html"><![CDATA[Building for the 99% Developers]]></summary>
+        <author>
+            <name>bdburns</name>
+            <uri>https://news.ycombinator.com/user?id=bdburns</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纽约正在使用带有麦克风的摄像机对吵闹的汽车开罚单]]></title>
+        <id>https://news.ycombinator.com/item?id=30364669</id>
+        <link href="https://news.ycombinator.com/item?id=30364669"/>
+        <updated>2022-02-16T19:38:14.000Z</updated>
+        <summary type="html"><![CDATA[New York is using cameras with microphones to ticket loud cars]]></summary>
+        <author>
+            <name>KoftaBob</name>
+            <uri>https://news.ycombinator.com/user?id=KoftaBob</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新一波的Linux应用]]></title>
+        <id>https://news.ycombinator.com/item?id=30364337</id>
+        <link href="https://news.ycombinator.com/item?id=30364337"/>
+        <updated>2022-02-16T19:10:32.000Z</updated>
+        <summary type="html"><![CDATA[A new wave of Linux applications]]></summary>
+        <author>
+            <name>Vinnl</name>
+            <uri>https://news.ycombinator.com/user?id=Vinnl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纯粹的Bash圣经--外部进程的纯粹Bash替代品的集合]]></title>
+        <id>https://news.ycombinator.com/item?id=30363506</id>
+        <link href="https://news.ycombinator.com/item?id=30363506"/>
+        <updated>2022-02-16T18:14:51.000Z</updated>
+        <summary type="html"><![CDATA[Pure Bash Bible – A collection of pure bash alternatives to external processes]]></summary>
+        <author>
+            <name>rrampage</name>
+            <uri>https://news.ycombinator.com/user?id=rrampage</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hue.tools - 开源的颜色工具箱]]></title>
+        <id>https://news.ycombinator.com/item?id=30362112</id>
+        <link href="https://news.ycombinator.com/item?id=30362112"/>
+        <updated>2022-02-16T16:35:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: hue.tools – open-source toolbox for colors]]></summary>
+        <author>
+            <name>pabue</name>
+            <uri>https://news.ycombinator.com/user?id=pabue</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[密码]]></title>
+        <id>https://news.ycombinator.com/item?id=30361850</id>
+        <link href="https://news.ycombinator.com/item?id=30361850"/>
+        <updated>2022-02-16T16:13:06.000Z</updated>
+        <summary type="html"><![CDATA[Passwordle]]></summary>
+        <author>
+            <name>snthueoa</name>
+            <uri>https://news.ycombinator.com/user?id=snthueoa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1Password for SSH and Git (Beta)]]></title>
+        <id>https://news.ycombinator.com/item?id=30359430</id>
+        <link href="https://news.ycombinator.com/item?id=30359430"/>
+        <updated>2022-02-16T13:01:17.000Z</updated>
+        <summary type="html"><![CDATA[1Password for SSH and Git (Beta)]]></summary>
+        <author>
+            <name>lkurtz</name>
+            <uri>https://news.ycombinator.com/user?id=lkurtz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[只在周五语法正确的Perl代码]]></title>
+        <id>https://news.ycombinator.com/item?id=30359309</id>
+        <link href="https://news.ycombinator.com/item?id=30359309"/>
+        <updated>2022-02-16T12:46:30.000Z</updated>
+        <summary type="html"><![CDATA[Perl code that is syntactically correct only on Fridays]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[书呆子的音乐理论 (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=30358903</id>
+        <link href="https://news.ycombinator.com/item?id=30358903"/>
+        <updated>2022-02-16T11:58:55.000Z</updated>
+        <summary type="html"><![CDATA[Music theory for nerds (2016)]]></summary>
+        <author>
+            <name>marianoguerra</name>
+            <uri>https://news.ycombinator.com/user?id=marianoguerra</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年JavaScript的现状]]></title>
+        <id>https://news.ycombinator.com/item?id=30357788</id>
+        <link href="https://news.ycombinator.com/item?id=30357788"/>
+        <updated>2022-02-16T09:05:57.000Z</updated>
+        <summary type="html"><![CDATA[State of JavaScript 2021]]></summary>
+        <author>
+            <name>kumartarun</name>
+            <uri>https://news.ycombinator.com/user?id=kumartarun</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我辞去工作，制作免费网络工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30357192</id>
+        <link href="https://news.ycombinator.com/item?id=30357192"/>
+        <updated>2022-02-16T07:18:58.000Z</updated>
+        <summary type="html"><![CDATA[I quit my job to make free web tools]]></summary>
+        <author>
+            <name>pul</name>
+            <uri>https://news.ycombinator.com/user?id=pul</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我花了12年时间创建的开放核心图标集]]></title>
+        <id>https://news.ycombinator.com/item?id=30356944</id>
+        <link href="https://news.ycombinator.com/item?id=30356944"/>
+        <updated>2022-02-16T06:28:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-core icon sets that took me 12 years to create]]></summary>
+        <author>
+            <name>vincent-lemoign</name>
+            <uri>https://news.ycombinator.com/user?id=vincent-lemoign</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你怎么能被U+202E的把戏所蒙蔽？(2013)]]></title>
+        <id>https://news.ycombinator.com/item?id=30356312</id>
+        <link href="https://news.ycombinator.com/item?id=30356312"/>
+        <updated>2022-02-16T04:20:17.000Z</updated>
+        <summary type="html"><![CDATA[How can you be fooled by the U+202E trick? (2013)]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不要立即指出错误的东西]]></title>
+        <id>https://news.ycombinator.com/item?id=30356177</id>
+        <link href="https://news.ycombinator.com/item?id=30356177"/>
+        <updated>2022-02-16T03:56:36.000Z</updated>
+        <summary type="html"><![CDATA[Don’t point out something wrong immediately]]></summary>
+        <author>
+            <name>uvdn7</name>
+            <uri>https://news.ycombinator.com/user?id=uvdn7</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreOffice通过WebAssembly在浏览器中原生运行]]></title>
+        <id>https://news.ycombinator.com/item?id=30356020</id>
+        <link href="https://news.ycombinator.com/item?id=30356020"/>
+        <updated>2022-02-16T03:25:47.000Z</updated>
+        <summary type="html"><![CDATA[LibreOffice running natively in the browser via WebAssembly]]></summary>
+        <author>
+            <name>syrusakbary</name>
+            <uri>https://news.ycombinator.com/user?id=syrusakbary</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脸书员工现在被称为 "Metamates"]]></title>
+        <id>https://news.ycombinator.com/item?id=30355738</id>
+        <link href="https://news.ycombinator.com/item?id=30355738"/>
+        <updated>2022-02-16T02:37:41.000Z</updated>
+        <summary type="html"><![CDATA[Facebook staff now to be known as “Metamates”]]></summary>
+        <author>
+            <name>thereare5lights</name>
+            <uri>https://news.ycombinator.com/user?id=thereare5lights</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人们常说，分析引擎是在它的时代之前。]]></title>
+        <id>https://news.ycombinator.com/item?id=30354976</id>
+        <link href="https://news.ycombinator.com/item?id=30354976"/>
+        <updated>2022-02-16T00:41:07.000Z</updated>
+        <summary type="html"><![CDATA[It's often said that the Analytical Engine was before its time]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你们公司的反价值是什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30354410</id>
+        <link href="https://news.ycombinator.com/item?id=30354410"/>
+        <updated>2022-02-15T23:30:46.000Z</updated>
+        <summary type="html"><![CDATA[What are your company's anti-values?]]></summary>
+        <author>
+            <name>willsewell</name>
+            <uri>https://news.ycombinator.com/user?id=willsewell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DC、BC、EQN的作者Lorinda Cherry已经去世。]]></title>
+        <id>https://news.ycombinator.com/item?id=30354391</id>
+        <link href="https://news.ycombinator.com/item?id=30354391"/>
+        <updated>2022-02-15T23:29:25.000Z</updated>
+        <summary type="html"><![CDATA[Lorinda Cherry, author of dc, bc, eqn has died]]></summary>
+        <author>
+            <name>ggm</name>
+            <uri>https://news.ycombinator.com/user?id=ggm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新蛋公司的丑闻有点大了]]></title>
+        <id>https://news.ycombinator.com/item?id=30354150</id>
+        <link href="https://news.ycombinator.com/item?id=30354150"/>
+        <updated>2022-02-15T23:07:15.000Z</updated>
+        <summary type="html"><![CDATA[Newegg has a bit of a scandal on its hands]]></summary>
+        <author>
+            <name>gautamcgoel</name>
+            <uri>https://news.ycombinator.com/user?id=gautamcgoel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没有人关心我的电子表格]]></title>
+        <id>https://news.ycombinator.com/item?id=30353709</id>
+        <link href="https://news.ycombinator.com/item?id=30353709"/>
+        <updated>2022-02-15T22:26:15.000Z</updated>
+        <summary type="html"><![CDATA[No one cared about my spreadsheets]]></summary>
+        <author>
+            <name>jseliger</name>
+            <uri>https://news.ycombinator.com/user?id=jseliger</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akamai将收购Linode]]></title>
+        <id>https://news.ycombinator.com/item?id=30352772</id>
+        <link href="https://news.ycombinator.com/item?id=30352772"/>
+        <updated>2022-02-15T21:10:56.000Z</updated>
+        <summary type="html"><![CDATA[Akamai to Acquire Linode]]></summary>
+        <author>
+            <name>nycdatasci</name>
+            <uri>https://news.ycombinator.com/user?id=nycdatasci</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PDf、ePub、mobi格式的免费公共领域电子书]]></title>
+        <id>https://news.ycombinator.com/item?id=30352207</id>
+        <link href="https://news.ycombinator.com/item?id=30352207"/>
+        <updated>2022-02-15T20:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Free public domain ebooks in PDf, ePub, mobi formats]]></summary>
+        <author>
+            <name>notanexpert</name>
+            <uri>https://news.ycombinator.com/user?id=notanexpert</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DuckDuckGo \u202E]]></title>
+        <id>https://news.ycombinator.com/item?id=30351968</id>
+        <link href="https://news.ycombinator.com/item?id=30351968"/>
+        <updated>2022-02-15T20:11:01.000Z</updated>
+        <summary type="html"><![CDATA[DuckDuckGo \u202E]]></summary>
+        <author>
+            <name>zeepzeep</name>
+            <uri>https://news.ycombinator.com/user?id=zeepzeep</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解开的苹果-1序列号之谜]]></title>
         <id>https://news.ycombinator.com/item?id=30389355</id>
