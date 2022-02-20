@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30398603",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30398603",
+            "title": "魁北克省費蒙市的 \"牆 \"住房結構",
+            "summary": "“The Wall” Housing Structure In Fermont, Quebec",
+            "date_modified": "2022-02-19T17:10:28.000Z",
+            "author": {
+                "name": "asyncscrum",
+                "url": "https://news.ycombinator.com/user?id=asyncscrum"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30406201",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30406201",

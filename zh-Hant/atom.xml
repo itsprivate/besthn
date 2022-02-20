@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-20T20:32:48.796Z</updated>
+    <updated>2022-02-20T21:28:34.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[魁北克省費蒙市的 "牆 "住房結構]]></title>
+        <id>https://news.ycombinator.com/item?id=30398603</id>
+        <link href="https://news.ycombinator.com/item?id=30398603"/>
+        <updated>2022-02-19T17:10:28.000Z</updated>
+        <summary type="html"><![CDATA[“The Wall” Housing Structure In Fermont, Quebec]]></summary>
+        <author>
+            <name>asyncscrum</name>
+            <uri>https://news.ycombinator.com/user?id=asyncscrum</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[過去很難的事情，現在很容易了]]></title>
         <id>https://news.ycombinator.com/item?id=30406201</id>

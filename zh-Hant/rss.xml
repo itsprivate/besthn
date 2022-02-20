@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 20 Feb 2022 20:32:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 21:28:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[魁北克省費蒙市的 "牆 "住房結構]]></title>
+            <link>https://news.ycombinator.com/item?id=30398603</link>
+            <guid>https://news.ycombinator.com/item?id=30398603</guid>
+            <pubDate>Sat, 19 Feb 2022 17:10:28 GMT</pubDate>
+            <description><![CDATA[“The Wall” Housing Structure In Fermont, Quebec]]></description>
+        </item>
         <item>
             <title><![CDATA[過去很難的事情，現在很容易了]]></title>
             <link>https://news.ycombinator.com/item?id=30406201</link>
