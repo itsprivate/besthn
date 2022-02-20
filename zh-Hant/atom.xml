@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-20T18:37:21.146Z</updated>
+    <updated>2022-02-20T18:48:28.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[嬰兒在頭三個月為什麼哭，如何區分，以及如何做]]></title>
+        <id>https://news.ycombinator.com/item?id=30401882</id>
+        <link href="https://news.ycombinator.com/item?id=30401882"/>
+        <updated>2022-02-20T00:18:59.000Z</updated>
+        <summary type="html"><![CDATA[Why babies cry in the first three months, how to tell them apart, and what to do]]></summary>
+        <author>
+            <name>ibobev</name>
+            <uri>https://news.ycombinator.com/user?id=ibobev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[服務器發送的事件、WebSockets和HTTP]]></title>
         <id>https://news.ycombinator.com/item?id=30403438</id>

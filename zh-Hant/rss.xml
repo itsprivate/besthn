@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 20 Feb 2022 18:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 18:48:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[嬰兒在頭三個月為什麼哭，如何區分，以及如何做]]></title>
+            <link>https://news.ycombinator.com/item?id=30401882</link>
+            <guid>https://news.ycombinator.com/item?id=30401882</guid>
+            <pubDate>Sun, 20 Feb 2022 00:18:59 GMT</pubDate>
+            <description><![CDATA[Why babies cry in the first three months, how to tell them apart, and what to do]]></description>
+        </item>
         <item>
             <title><![CDATA[服務器發送的事件、WebSockets和HTTP]]></title>
             <link>https://news.ycombinator.com/item?id=30403438</link>
