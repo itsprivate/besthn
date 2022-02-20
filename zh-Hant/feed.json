@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30402407",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30402407",
+            "title": "遊戲男孩Wordle克隆：如何將12972個五個字母的單詞壓縮到17871字節中",
+            "summary": "Game Boy Wordle clone: How to compress 12972 five-letter words to 17871 bytes",
+            "date_modified": "2022-02-20T01:41:27.000Z",
+            "author": {
+                "name": "cubefox",
+                "url": "https://news.ycombinator.com/user?id=cubefox"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30402624",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30402624",
