@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-20T00:39:57.832Z</updated>
+    <updated>2022-02-20T13:37:15.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[文明的陨落》播客。南印度最后的皇帝--维贾亚纳加拉]]></title>
+        <id>https://news.ycombinator.com/item?id=30402624</id>
+        <link href="https://news.ycombinator.com/item?id=30402624"/>
+        <updated>2022-02-20T02:17:19.000Z</updated>
+        <summary type="html"><![CDATA[Fall of Civilizations Podcast: Vijayanagara – The Last Emperors of South India]]></summary>
+        <author>
+            <name>startblue</name>
+            <uri>https://news.ycombinator.com/user?id=startblue</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告诉HN：YouTube和我妻子如何失去7年的工作]]></title>
         <id>https://news.ycombinator.com/item?id=30401241</id>

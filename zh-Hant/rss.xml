@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 20 Feb 2022 00:39:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 13:37:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[文明的隕落》播客。南印度最後的皇帝--維賈亞納加拉]]></title>
+            <link>https://news.ycombinator.com/item?id=30402624</link>
+            <guid>https://news.ycombinator.com/item?id=30402624</guid>
+            <pubDate>Sun, 20 Feb 2022 02:17:19 GMT</pubDate>
+            <description><![CDATA[Fall of Civilizations Podcast: Vijayanagara – The Last Emperors of South India]]></description>
+        </item>
         <item>
             <title><![CDATA[告訴HN：YouTube和我妻子如何失去7年的工作]]></title>
             <link>https://news.ycombinator.com/item?id=30401241</link>
