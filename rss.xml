@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 20 Feb 2022 14:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 18:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[最快的GIF并不存在]]></title>
+            <link>https://news.ycombinator.com/item?id=30405815</link>
+            <guid>https://news.ycombinator.com/item?id=30405815</guid>
+            <pubDate>Sun, 20 Feb 2022 14:11:14 GMT</pubDate>
+            <description><![CDATA[The fastest GIF does not exist]]></description>
+        </item>
         <item>
             <title><![CDATA[游戏男孩Wordle克隆：如何将12972个五个字母的单词压缩到17871字节中]]></title>
             <link>https://news.ycombinator.com/item?id=30402407</link>
