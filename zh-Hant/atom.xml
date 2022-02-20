@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-20T18:14:21.050Z</updated>
+    <updated>2022-02-20T18:37:21.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[服務器發送的事件、WebSockets和HTTP]]></title>
+        <id>https://news.ycombinator.com/item?id=30403438</id>
+        <link href="https://news.ycombinator.com/item?id=30403438"/>
+        <updated>2022-02-20T05:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Server-sent events, WebSockets, and HTTP]]></summary>
+        <author>
+            <name>grappler</name>
+            <uri>https://news.ycombinator.com/user?id=grappler</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最快的GIF並不存在]]></title>
         <id>https://news.ycombinator.com/item?id=30405815</id>
