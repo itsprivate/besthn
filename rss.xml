@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 21 Feb 2022 05:42:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 13:36:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[告诉HN：Airbnb刚刚偷走了我5分钟的时间，加入了骰子]]></title>
+            <link>https://news.ycombinator.com/item?id=30413228</link>
+            <guid>https://news.ycombinator.com/item?id=30413228</guid>
+            <pubDate>Mon, 21 Feb 2022 08:27:12 GMT</pubDate>
+            <description><![CDATA[Tell HN: Airbnb just stole me 5 minutes of my time adding dices]]></description>
+        </item>
         <item>
             <title><![CDATA[我的第一个80天VR锻炼法]]></title>
             <link>https://news.ycombinator.com/item?id=30402020</link>
