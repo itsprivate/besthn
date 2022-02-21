@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30416558",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30416558",
+            "title": "Vim 9將被獻給Sven Guckes",
+            "summary": "Vim 9 will be dedicated to Sven Guckes",
+            "date_modified": "2022-02-21T14:59:11.000Z",
+            "author": {
+                "name": "rffn",
+                "url": "https://news.ycombinator.com/user?id=rffn"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30410856",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30410856",

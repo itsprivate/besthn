@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-21T15:36:35.272Z</updated>
+    <updated>2022-02-21T17:41:31.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Vim 9将被献给Sven Guckes]]></title>
+        <id>https://news.ycombinator.com/item?id=30416558</id>
+        <link href="https://news.ycombinator.com/item?id=30416558"/>
+        <updated>2022-02-21T14:59:11.000Z</updated>
+        <summary type="html"><![CDATA[Vim 9 will be dedicated to Sven Guckes]]></summary>
+        <author>
+            <name>rffn</name>
+            <uri>https://news.ycombinator.com/user?id=rffn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[现在对程序员来说，时代是伟大的。它是如何结束的？]]></title>
         <id>https://news.ycombinator.com/item?id=30410856</id>
