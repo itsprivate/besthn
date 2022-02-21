@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30399576",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30399576",
+            "title": "Oilslick - 顯示地形細部的高程地圖",
+            "summary": "Oilslick – an elevation map showing fine detail in terrain",
+            "date_modified": "2022-02-19T19:06:30.000Z",
+            "author": {
+                "name": "mleonhard",
+                "url": "https://news.ycombinator.com/user?id=mleonhard"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30413228",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30413228",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-21T13:36:53.724Z</updated>
+    <updated>2022-02-21T15:18:01.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Oilslick - 显示地形细部的高程地图]]></title>
+        <id>https://news.ycombinator.com/item?id=30399576</id>
+        <link href="https://news.ycombinator.com/item?id=30399576"/>
+        <updated>2022-02-19T19:06:30.000Z</updated>
+        <summary type="html"><![CDATA[Oilslick – an elevation map showing fine detail in terrain]]></summary>
+        <author>
+            <name>mleonhard</name>
+            <uri>https://news.ycombinator.com/user?id=mleonhard</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告诉HN：Airbnb刚刚偷走了我5分钟的时间，加入了骰子]]></title>
         <id>https://news.ycombinator.com/item?id=30413228</id>
