@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30419618",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30419618",
+            "title": "我測試了四家供應商的NVMe固態硬盤--一半在斷電時丟失FLUSH的數據",
+            "summary": "I tested four NVMe SSDs from four vendors – half lose FLUSH’d data on power loss",
+            "date_modified": "2022-02-21T19:29:37.000Z",
+            "author": {
+                "name": "ahachete",
+                "url": "https://news.ycombinator.com/user?id=ahachete"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30412550",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30412550",
+            "title": "Automerge。一個類似於JSON的數據結構（一個CRDT），可以被併發修改",
+            "summary": "Automerge: A JSON-like data structure (a CRDT) that can be modified concurrently",
+            "date_modified": "2022-02-21T06:35:17.000Z",
+            "author": {
+                "name": "yamrzou",
+                "url": "https://news.ycombinator.com/user?id=yamrzou"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30394701",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30394701",

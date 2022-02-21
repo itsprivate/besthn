@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-21T21:29:39.618Z</updated>
+    <updated>2022-02-21T22:52:32.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我測試了四家供應商的NVMe固態硬盤--一半在斷電時丟失FLUSH的數據]]></title>
+        <id>https://news.ycombinator.com/item?id=30419618</id>
+        <link href="https://news.ycombinator.com/item?id=30419618"/>
+        <updated>2022-02-21T19:29:37.000Z</updated>
+        <summary type="html"><![CDATA[I tested four NVMe SSDs from four vendors – half lose FLUSH’d data on power loss]]></summary>
+        <author>
+            <name>ahachete</name>
+            <uri>https://news.ycombinator.com/user?id=ahachete</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automerge。一個類似於JSON的數據結構（一個CRDT），可以被併發修改]]></title>
+        <id>https://news.ycombinator.com/item?id=30412550</id>
+        <link href="https://news.ycombinator.com/item?id=30412550"/>
+        <updated>2022-02-21T06:35:17.000Z</updated>
+        <summary type="html"><![CDATA[Automerge: A JSON-like data structure (a CRDT) that can be modified concurrently]]></summary>
+        <author>
+            <name>yamrzou</name>
+            <uri>https://news.ycombinator.com/user?id=yamrzou</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關係滿意度如何在你的一生中變化]]></title>
         <id>https://news.ycombinator.com/item?id=30394701</id>
