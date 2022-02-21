@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-21T15:18:01.218Z</updated>
+    <updated>2022-02-21T15:36:35.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[现在对程序员来说，时代是伟大的。它是如何结束的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30410856</id>
+        <link href="https://news.ycombinator.com/item?id=30410856"/>
+        <updated>2022-02-21T01:06:27.000Z</updated>
+        <summary type="html"><![CDATA[Times are great for programmers now. How does it end?]]></summary>
+        <author>
+            <name>vaghetti</name>
+            <uri>https://news.ycombinator.com/user?id=vaghetti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oilslick - 显示地形细部的高程地图]]></title>
         <id>https://news.ycombinator.com/item?id=30399576</id>
