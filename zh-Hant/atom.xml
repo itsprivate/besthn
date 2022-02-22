@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-22T11:53:14.577Z</updated>
+    <updated>2022-02-22T13:09:51.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[績優者有一種超能力：幸福感]]></title>
+        <id>https://news.ycombinator.com/item?id=30424181</id>
+        <link href="https://news.ycombinator.com/item?id=30424181"/>
+        <updated>2022-02-22T05:03:43.000Z</updated>
+        <summary type="html"><![CDATA[Top Performers Have a Superpower: Happiness]]></summary>
+        <author>
+            <name>pella</name>
+            <uri>https://news.ycombinator.com/user?id=pella</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌硬盤用戶被macOS的".DS_Store "版權侵權問題刺傷]]></title>
+        <id>https://news.ycombinator.com/item?id=30404587</id>
+        <link href="https://news.ycombinator.com/item?id=30404587"/>
+        <updated>2022-02-20T10:02:12.000Z</updated>
+        <summary type="html"><![CDATA[Google Drive users stung by macOS '.DS_Store' copyright infringement issue]]></summary>
+        <author>
+            <name>laktak</name>
+            <uri>https://news.ycombinator.com/user?id=laktak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Penpot: 開源設計和原型設計平臺]]></title>
         <id>https://news.ycombinator.com/item?id=30407913</id>
