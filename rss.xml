@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 22 Feb 2022 17:06:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 18:41:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[尝试Clojure - 浏览器中的互动教程]]></title>
+            <link>https://news.ycombinator.com/item?id=30423856</link>
+            <guid>https://news.ycombinator.com/item?id=30423856</guid>
+            <pubDate>Tue, 22 Feb 2022 04:02:17 GMT</pubDate>
+            <description><![CDATA[Try Clojure – An interactive tutorial in the browser]]></description>
+        </item>
         <item>
             <title><![CDATA[部分用户的Slack出现故障]]></title>
             <link>https://news.ycombinator.com/item?id=30428788</link>

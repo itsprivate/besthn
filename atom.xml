@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-22T17:06:06.010Z</updated>
+    <updated>2022-02-22T18:41:20.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[尝试Clojure - 浏览器中的互动教程]]></title>
+        <id>https://news.ycombinator.com/item?id=30423856</id>
+        <link href="https://news.ycombinator.com/item?id=30423856"/>
+        <updated>2022-02-22T04:02:17.000Z</updated>
+        <summary type="html"><![CDATA[Try Clojure – An interactive tutorial in the browser]]></summary>
+        <author>
+            <name>elias94</name>
+            <uri>https://news.ycombinator.com/user?id=elias94</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[部分用户的Slack出现故障]]></title>
         <id>https://news.ycombinator.com/item?id=30428788</id>
