@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 22 Feb 2022 19:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 20:36:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[神經網絡不是 "略帶意識"，人工智能公關可以少點炒作]]></title>
+            <link>https://news.ycombinator.com/item?id=30408924</link>
+            <guid>https://news.ycombinator.com/item?id=30408924</guid>
+            <pubDate>Sun, 20 Feb 2022 20:16:28 GMT</pubDate>
+            <description><![CDATA[Neural nets are not “slightly conscious,” and AI PR can do with less hype]]></description>
+        </item>
         <item>
             <title><![CDATA[烏克蘭衝突實時地圖]]></title>
             <link>https://news.ycombinator.com/item?id=30429192</link>
