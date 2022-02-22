@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 22 Feb 2022 16:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 17:06:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[部分用户的Slack出现故障]]></title>
+            <link>https://news.ycombinator.com/item?id=30428788</link>
+            <guid>https://news.ycombinator.com/item?id=30428788</guid>
+            <pubDate>Tue, 22 Feb 2022 15:05:17 GMT</pubDate>
+            <description><![CDATA[Slack is down for some users]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一个终结职业生涯的错误]]></title>
+            <link>https://news.ycombinator.com/item?id=30428602</link>
+            <guid>https://news.ycombinator.com/item?id=30428602</guid>
+            <pubDate>Tue, 22 Feb 2022 14:52:18 GMT</pubDate>
+            <description><![CDATA[A career ending mistake]]></description>
+        </item>
         <item>
             <title><![CDATA[机器学习算法小抄]]></title>
             <link>https://news.ycombinator.com/item?id=30401043</link>
