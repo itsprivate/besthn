@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30429779",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30429779",
+            "title": "密苏里州长办公室对教师数据泄露负有责任",
+            "summary": "Missouri governor’s office responsible for teacher data leak",
+            "date_modified": "2022-02-22T16:23:25.000Z",
+            "author": {
+                "name": "todsacerdoti",
+                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30408924",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30408924",
