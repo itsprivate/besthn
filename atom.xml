@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-22T14:14:23.820Z</updated>
+    <updated>2022-02-22T14:53:28.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[真实的我和虚假的我]]></title>
+        <id>https://news.ycombinator.com/item?id=30404943</id>
+        <link href="https://news.ycombinator.com/item?id=30404943"/>
+        <updated>2022-02-20T11:31:15.000Z</updated>
+        <summary type="html"><![CDATA[Real Me and Fake Me]]></summary>
+        <author>
+            <name>ColinWright</name>
+            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notepad++中的查找/替换框是图灵完成的]]></title>
         <id>https://news.ycombinator.com/item?id=30425280</id>
