@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30423815",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30423815",
+            "title": "為什麼我永遠不會再購買三星設備",
+            "summary": "Why I will never buy another Samsung device",
+            "date_modified": "2022-02-22T03:52:45.000Z",
+            "author": {
+                "name": "farmerbb",
+                "url": "https://news.ycombinator.com/user?id=farmerbb"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30417411",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30417411",
