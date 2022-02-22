@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 22 Feb 2022 15:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 16:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[机器学习算法小抄]]></title>
+            <link>https://news.ycombinator.com/item?id=30401043</link>
+            <guid>https://news.ycombinator.com/item?id=30401043</guid>
+            <pubDate>Sat, 19 Feb 2022 22:15:46 GMT</pubDate>
+            <description><![CDATA[Machine Learning Algorithms Cheat Sheet]]></description>
+        </item>
         <item>
             <title><![CDATA[德国搁置北溪2号管线]]></title>
             <link>https://news.ycombinator.com/item?id=30426934</link>
