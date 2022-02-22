@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 22 Feb 2022 00:36:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 01:47:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Coinbase首席執行官在推特上寫道，他們是如何想出超級碗廣告的，併為此撒了謊]]></title>
+            <link>https://news.ycombinator.com/item?id=30420990</link>
+            <guid>https://news.ycombinator.com/item?id=30420990</guid>
+            <pubDate>Mon, 21 Feb 2022 21:41:29 GMT</pubDate>
+            <description><![CDATA[Coinbase CEO tweets how they came up with Super Bowl ad, lied about it]]></description>
+        </item>
+        <item>
+            <title><![CDATA[過去50年中最重要的統計思想是什麼？]]></title>
+            <link>https://news.ycombinator.com/item?id=30417811</link>
+            <guid>https://news.ycombinator.com/item?id=30417811</guid>
+            <pubDate>Mon, 21 Feb 2022 16:46:13 GMT</pubDate>
+            <description><![CDATA[What are the most important statistical ideas of the past 50 years?]]></description>
+        </item>
         <item>
             <title><![CDATA[我沒有帽鎖，我必須尖叫]]></title>
             <link>https://news.ycombinator.com/item?id=30421399</link>

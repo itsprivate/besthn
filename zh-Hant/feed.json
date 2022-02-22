@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30420990",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30420990",
+            "title": "Coinbase首席執行官在推特上寫道，他們是如何想出超級碗廣告的，併為此撒了謊",
+            "summary": "Coinbase CEO tweets how they came up with Super Bowl ad, lied about it",
+            "date_modified": "2022-02-21T21:41:29.000Z",
+            "author": {
+                "name": "MBCook",
+                "url": "https://news.ycombinator.com/user?id=MBCook"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30417811",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30417811",
+            "title": "過去50年中最重要的統計思想是什麼？",
+            "summary": "What are the most important statistical ideas of the past 50 years?",
+            "date_modified": "2022-02-21T16:46:13.000Z",
+            "author": {
+                "name": "Anon84",
+                "url": "https://news.ycombinator.com/user?id=Anon84"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30421399",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30421399",
