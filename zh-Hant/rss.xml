@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 22 Feb 2022 22:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 23:40:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Flutter是最流行的跨平臺移動SDK]]></title>
+            <link>https://news.ycombinator.com/item?id=30425988</link>
+            <guid>https://news.ycombinator.com/item?id=30425988</guid>
+            <pubDate>Tue, 22 Feb 2022 10:02:26 GMT</pubDate>
+            <description><![CDATA[Flutter is the most popular cross-platform mobile SDK]]></description>
+        </item>
         <item>
             <title><![CDATA[車隊鎮壓--有權不經審判或法律追訴而凍結銀行賬戶]]></title>
             <link>https://news.ycombinator.com/item?id=30431820</link>
