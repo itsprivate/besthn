@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-23T08:37:59.769Z</updated>
+    <updated>2022-02-23T09:29:29.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[避免Nginx配置的首要錯誤]]></title>
+        <id>https://news.ycombinator.com/item?id=30435282</id>
+        <link href="https://news.ycombinator.com/item?id=30435282"/>
+        <updated>2022-02-22T23:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Avoiding the top Nginx configuration mistakes]]></summary>
+        <author>
+            <name>anotherevan</name>
+            <uri>https://news.ycombinator.com/user?id=anotherevan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[遼寧省商務廳]]></title>
+        <id>https://news.ycombinator.com/item?id=30430594</id>
+        <link href="https://news.ycombinator.com/item?id=30430594"/>
+        <updated>2022-02-22T17:17:53.000Z</updated>
+        <summary type="html"><![CDATA[Linux Sysops Handbook]]></summary>
+        <author>
+            <name>abarrak</name>
+            <uri>https://news.ycombinator.com/user?id=abarrak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wordle在許多微妙的方面都非常聰明]]></title>
         <id>https://news.ycombinator.com/item?id=30435522</id>
