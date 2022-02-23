@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-22T23:40:44.685Z</updated>
+    <updated>2022-02-23T00:41:01.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[國稅局將採用Login.gov作為用戶認證工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30430851</id>
+        <link href="https://news.ycombinator.com/item?id=30430851"/>
+        <updated>2022-02-22T17:39:35.000Z</updated>
+        <summary type="html"><![CDATA[IRS to adopt Login.gov as user authentication tool]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flutter是最流行的跨平臺移動SDK]]></title>
         <id>https://news.ycombinator.com/item?id=30425988</id>
