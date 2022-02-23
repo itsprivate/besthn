@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-23T10:51:46.788Z</updated>
+    <updated>2022-02-23T12:52:57.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Windows 8早期构建中坐在栅栏上的猫咪]]></title>
+        <id>https://news.ycombinator.com/item?id=30438296</id>
+        <link href="https://news.ycombinator.com/item?id=30438296"/>
+        <updated>2022-02-23T06:26:02.000Z</updated>
+        <summary type="html"><![CDATA[The cats sitting on a fence in early builds of Windows 8]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我写了一个程序，当我在电脑前伤心时，会向我的手机发送猫咪。]]></title>
         <id>https://news.ycombinator.com/item?id=30433477</id>

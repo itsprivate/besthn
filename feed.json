@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30438296",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30438296",
+            "title": "在Windows 8早期构建中坐在栅栏上的猫咪",
+            "summary": "The cats sitting on a fence in early builds of Windows 8",
+            "date_modified": "2022-02-23T06:26:02.000Z",
+            "author": {
+                "name": "luu",
+                "url": "https://news.ycombinator.com/user?id=luu"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30433477",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30433477",
