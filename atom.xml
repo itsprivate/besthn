@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-23T00:41:01.592Z</updated>
+    <updated>2022-02-23T02:05:14.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在我们的无现金社会，我们需要认真对待数字监狱]]></title>
+        <id>https://news.ycombinator.com/item?id=30435215</id>
+        <link href="https://news.ycombinator.com/item?id=30435215"/>
+        <updated>2022-02-22T23:14:09.000Z</updated>
+        <summary type="html"><![CDATA[In our cashless society, we need to take digital jail seriously]]></summary>
+        <author>
+            <name>busymom0</name>
+            <uri>https://news.ycombinator.com/user?id=busymom0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[波德曼4.0]]></title>
+        <id>https://news.ycombinator.com/item?id=30433518</id>
+        <link href="https://news.ycombinator.com/item?id=30433518"/>
+        <updated>2022-02-22T20:47:15.000Z</updated>
+        <summary type="html"><![CDATA[Podman 4.0]]></summary>
+        <author>
+            <name>smbv</name>
+            <uri>https://news.ycombinator.com/user?id=smbv</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日落的Bethesda.net启动器和迁移到Steam上]]></title>
+        <id>https://news.ycombinator.com/item?id=30432321</id>
+        <link href="https://news.ycombinator.com/item?id=30432321"/>
+        <updated>2022-02-22T19:21:42.000Z</updated>
+        <summary type="html"><![CDATA[Sunsetting the Bethesda.net launcher and migrating to Steam]]></summary>
+        <author>
+            <name>alexrustic</name>
+            <uri>https://news.ycombinator.com/user?id=alexrustic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将 "框架 "笔记本电脑带给世界上更多的人]]></title>
+        <id>https://news.ycombinator.com/item?id=30430300</id>
+        <link href="https://news.ycombinator.com/item?id=30430300"/>
+        <updated>2022-02-22T16:56:52.000Z</updated>
+        <summary type="html"><![CDATA[Bringing the Framework Laptop to more of the world]]></summary>
+        <author>
+            <name>m6w6</name>
+            <uri>https://news.ycombinator.com/user?id=m6w6</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国税局将采用Login.gov作为用户认证工具]]></title>
         <id>https://news.ycombinator.com/item?id=30430851</id>
