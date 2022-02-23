@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 23 Feb 2022 15:39:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 18:41:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我从美国联合航空公司的439MB的iOS应用程序中删除了187MB]]></title>
+            <link>https://news.ycombinator.com/item?id=30442529</link>
+            <guid>https://news.ycombinator.com/item?id=30442529</guid>
+            <pubDate>Wed, 23 Feb 2022 16:04:28 GMT</pubDate>
+            <description><![CDATA[I shaved 187MB off United Airlines' 439MB iOS app]]></description>
+        </item>
         <item>
             <title><![CDATA[欧盟将强制要求所有招聘信息公开化 [pdf]]]></title>
             <link>https://news.ycombinator.com/item?id=30440211</link>
