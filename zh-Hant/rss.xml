@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 23 Feb 2022 18:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 18:57:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Simula One - 便攜式Linux VR計算機]]></title>
+            <link>https://news.ycombinator.com/item?id=30440828</link>
+            <guid>https://news.ycombinator.com/item?id=30440828</guid>
+            <pubDate>Wed, 23 Feb 2022 13:42:15 GMT</pubDate>
+            <description><![CDATA[Show HN: Simula One – Portable Linux VR Computer]]></description>
+        </item>
         <item>
             <title><![CDATA[我從美國聯合航空公司的439MB的iOS應用程序中刪除了187MB]]></title>
             <link>https://news.ycombinator.com/item?id=30442529</link>
