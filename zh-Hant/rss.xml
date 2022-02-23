@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 23 Feb 2022 02:05:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 08:37:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Wordle在許多微妙的方面都非常聰明]]></title>
+            <link>https://news.ycombinator.com/item?id=30435522</link>
+            <guid>https://news.ycombinator.com/item?id=30435522</guid>
+            <pubDate>Tue, 22 Feb 2022 23:48:47 GMT</pubDate>
+            <description><![CDATA[Wordle is pretty damn smart in many subtle ways]]></description>
+        </item>
         <item>
             <title><![CDATA[在我們的無現金社會，我們需要認真對待數字監獄]]></title>
             <link>https://news.ycombinator.com/item?id=30435215</link>
