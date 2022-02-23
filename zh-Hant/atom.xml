@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-23T12:52:57.963Z</updated>
+    <updated>2022-02-23T15:39:13.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[歐盟將強制要求所有招聘信息公開化 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30440211</id>
+        <link href="https://news.ycombinator.com/item?id=30440211"/>
+        <updated>2022-02-23T12:11:27.000Z</updated>
+        <summary type="html"><![CDATA[EU to mandate public salary information for all job postings [pdf]]]></summary>
+        <author>
+            <name>pimterry</name>
+            <uri>https://news.ycombinator.com/user?id=pimterry</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Windows 8早期構建中坐在柵欄上的貓咪]]></title>
         <id>https://news.ycombinator.com/item?id=30438296</id>
