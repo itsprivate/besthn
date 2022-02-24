@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-24T17:22:50.996Z</updated>
+    <updated>2022-02-24T17:35:25.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[核聚變反應堆打破了能源記錄]]></title>
+        <id>https://news.ycombinator.com/item?id=30450941</id>
+        <link href="https://news.ycombinator.com/item?id=30450941"/>
+        <updated>2022-02-24T05:50:54.000Z</updated>
+        <summary type="html"><![CDATA[Nuclear-fusion reactor smashes energy record]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國消費最廣泛的食用油導致大腦中的基因變化]]></title>
         <id>https://news.ycombinator.com/item?id=30456358</id>
