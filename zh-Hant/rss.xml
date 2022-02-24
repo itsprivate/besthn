@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 24 Feb 2022 02:00:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 03:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[FAA稱5G可能影響大多數波音737飛機的無線電高度計]]></title>
+            <link>https://news.ycombinator.com/item?id=30444284</link>
+            <guid>https://news.ycombinator.com/item?id=30444284</guid>
+            <pubDate>Wed, 23 Feb 2022 18:12:13 GMT</pubDate>
+            <description><![CDATA[FAA says 5G could impact radio altimeters on most Boeing 737s]]></description>
+        </item>
         <item>
             <title><![CDATA[PeerTube。免費軟件奪回你的視頻控制權]]></title>
             <link>https://news.ycombinator.com/item?id=30445497</link>
