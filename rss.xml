@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 24 Feb 2022 23:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 23:34:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[将Linux内核转移到现代C语言]]></title>
+            <link>https://news.ycombinator.com/item?id=30459634</link>
+            <guid>https://news.ycombinator.com/item?id=30459634</guid>
+            <pubDate>Thu, 24 Feb 2022 20:10:33 GMT</pubDate>
+            <description><![CDATA[Moving the Linux Kernel to Modern C]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Elevator.js (2015)]]></title>
+            <link>https://news.ycombinator.com/item?id=30458167</link>
+            <guid>https://news.ycombinator.com/item?id=30458167</guid>
+            <pubDate>Thu, 24 Feb 2022 18:15:25 GMT</pubDate>
+            <description><![CDATA[Elevator.js (2015)]]></description>
+        </item>
         <item>
             <title><![CDATA[洛杉矶为安置一个无家可归者花费高达83.7万美元]]></title>
             <link>https://news.ycombinator.com/item?id=30456510</link>

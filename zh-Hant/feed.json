@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30459634",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30459634",
+            "title": "將Linux內核轉移到現代C語言",
+            "summary": "Moving the Linux Kernel to Modern C",
+            "date_modified": "2022-02-24T20:10:33.000Z",
+            "author": {
+                "name": "chmaynard",
+                "url": "https://news.ycombinator.com/user?id=chmaynard"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30458167",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30458167",
+            "title": "Elevator.js (2015)",
+            "summary": "Elevator.js (2015)",
+            "date_modified": "2022-02-24T18:15:25.000Z",
+            "author": {
+                "name": "susam",
+                "url": "https://news.ycombinator.com/user?id=susam"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30456510",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30456510",
