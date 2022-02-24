@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 24 Feb 2022 03:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 03:32:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Pornhub内部]]></title>
+            <link>https://news.ycombinator.com/item?id=30441276</link>
+            <guid>https://news.ycombinator.com/item?id=30441276</guid>
+            <pubDate>Wed, 23 Feb 2022 14:26:36 GMT</pubDate>
+            <description><![CDATA[Inside Pornhub]]></description>
+        </item>
         <item>
             <title><![CDATA[FAA称5G可能影响大多数波音737飞机的无线电高度计]]></title>
             <link>https://news.ycombinator.com/item?id=30444284</link>
