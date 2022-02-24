@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 24 Feb 2022 21:54:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 22:36:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你在互聯網上遇到的最獨特的網站是什麼？]]></title>
+            <link>https://news.ycombinator.com/item?id=30440123</link>
+            <guid>https://news.ycombinator.com/item?id=30440123</guid>
+            <pubDate>Wed, 23 Feb 2022 11:55:41 GMT</pubDate>
+            <description><![CDATA[Ask HN: What is the most unique website you’ve come across on the internet?]]></description>
+        </item>
         <item>
             <title><![CDATA[作為JetBrains，我們譴責正在發生的襲擊事件]]></title>
             <link>https://news.ycombinator.com/item?id=30459985</link>
