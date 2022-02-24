@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 24 Feb 2022 17:35:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 18:39:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[基于Twitter的俄罗斯部队移动地图]]></title>
+            <link>https://news.ycombinator.com/item?id=30452685</link>
+            <guid>https://news.ycombinator.com/item?id=30452685</guid>
+            <pubDate>Thu, 24 Feb 2022 09:29:28 GMT</pubDate>
+            <description><![CDATA[Twitter based map of Russian troop movements]]></description>
+        </item>
         <item>
             <title><![CDATA[核聚变反应堆打破了能源记录]]></title>
             <link>https://news.ycombinator.com/item?id=30450941</link>
