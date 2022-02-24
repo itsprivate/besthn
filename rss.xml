@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 24 Feb 2022 16:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 17:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美国消费最广泛的食用油导致大脑中的基因变化]]></title>
+            <link>https://news.ycombinator.com/item?id=30456358</link>
+            <guid>https://news.ycombinator.com/item?id=30456358</guid>
+            <pubDate>Thu, 24 Feb 2022 16:09:08 GMT</pubDate>
+            <description><![CDATA[America’s most widely consumed cooking oil causes genetic changes in the brain]]></description>
+        </item>
         <item>
             <title><![CDATA[斯巴鲁、起亚关闭部分汽车功能而不遵守 "维修权]]></title>
             <link>https://news.ycombinator.com/item?id=30444549</link>

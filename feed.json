@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30456358",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30456358",
+            "title": "美国消费最广泛的食用油导致大脑中的基因变化",
+            "summary": "America’s most widely consumed cooking oil causes genetic changes in the brain",
+            "date_modified": "2022-02-24T16:09:08.000Z",
+            "author": {
+                "name": "whalesalad",
+                "url": "https://news.ycombinator.com/user?id=whalesalad"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30444549",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30444549",
