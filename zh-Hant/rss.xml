@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 24 Feb 2022 03:32:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 05:31:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[普京下令進攻，俄軍入侵烏克蘭]]></title>
+            <link>https://news.ycombinator.com/item?id=30450336</link>
+            <guid>https://news.ycombinator.com/item?id=30450336</guid>
+            <pubDate>Thu, 24 Feb 2022 04:38:23 GMT</pubDate>
+            <description><![CDATA[Russian forces invade Ukraine after Putin orders attack]]></description>
+        </item>
         <item>
             <title><![CDATA[Pornhub內部]]></title>
             <link>https://news.ycombinator.com/item?id=30441276</link>
