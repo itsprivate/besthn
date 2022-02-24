@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-24T19:12:12.885Z</updated>
+    <updated>2022-02-24T19:27:01.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[自定義JavaScript控件無法捕捉表單字段的細微差別(2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=30454881</id>
+        <link href="https://news.ycombinator.com/item?id=30454881"/>
+        <updated>2022-02-24T14:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Custom JavaScript controls can't capture the nuance of form fields (2021)]]></summary>
+        <author>
+            <name>nitsky</name>
+            <uri>https://news.ycombinator.com/user?id=nitsky</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烏克蘭是霓虹燈氣體的主要生產國，對用於芯片製造的激光器至關重要。]]></title>
         <id>https://news.ycombinator.com/item?id=30457490</id>
