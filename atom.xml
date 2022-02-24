@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-24T19:57:18.289Z</updated>
+    <updated>2022-02-24T21:13:30.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[切尔诺贝利电厂被俄罗斯军队占领]]></title>
+        <id>https://news.ycombinator.com/item?id=30458277</id>
+        <link href="https://news.ycombinator.com/item?id=30458277"/>
+        <updated>2022-02-24T18:23:37.000Z</updated>
+        <summary type="html"><![CDATA[Chernobyl power plant captured by Russian forces]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD现在的价值超过了英特尔]]></title>
         <id>https://news.ycombinator.com/item?id=30454707</id>
