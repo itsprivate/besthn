@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 24 Feb 2022 11:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 11:54:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我设计并建造了一辆电动自行车]]></title>
+            <link>https://news.ycombinator.com/item?id=30446960</link>
+            <guid>https://news.ycombinator.com/item?id=30446960</guid>
+            <pubDate>Wed, 23 Feb 2022 21:46:01 GMT</pubDate>
+            <description><![CDATA[Show HN: I Designed and Built an eBike]]></description>
+        </item>
         <item>
             <title><![CDATA[NewPipe。安卓系统的轻量级YouTube体验]]></title>
             <link>https://news.ycombinator.com/item?id=30449570</link>
