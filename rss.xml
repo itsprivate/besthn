@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 24 Feb 2022 19:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 19:57:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[AMD现在的价值超过了英特尔]]></title>
+            <link>https://news.ycombinator.com/item?id=30454707</link>
+            <guid>https://news.ycombinator.com/item?id=30454707</guid>
+            <pubDate>Thu, 24 Feb 2022 13:59:12 GMT</pubDate>
+            <description><![CDATA[AMD is now worth more than Intel]]></description>
+        </item>
         <item>
             <title><![CDATA[自定义JavaScript控件无法捕捉表单字段的细微差别(2021)]]></title>
             <link>https://news.ycombinator.com/item?id=30454881</link>

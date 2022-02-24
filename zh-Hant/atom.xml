@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-24T19:27:01.530Z</updated>
+    <updated>2022-02-24T19:57:18.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AMD現在的價值超過了英特爾]]></title>
+        <id>https://news.ycombinator.com/item?id=30454707</id>
+        <link href="https://news.ycombinator.com/item?id=30454707"/>
+        <updated>2022-02-24T13:59:12.000Z</updated>
+        <summary type="html"><![CDATA[AMD is now worth more than Intel]]></summary>
+        <author>
+            <name>akvadrako</name>
+            <uri>https://news.ycombinator.com/user?id=akvadrako</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自定義JavaScript控件無法捕捉表單字段的細微差別(2021)]]></title>
         <id>https://news.ycombinator.com/item?id=30454881</id>
