@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 24 Feb 2022 12:54:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 13:36:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[矮人要塞》蒸汽版更新--发布路线图]]></title>
+            <link>https://news.ycombinator.com/item?id=30447186</link>
+            <guid>https://news.ycombinator.com/item?id=30447186</guid>
+            <pubDate>Wed, 23 Feb 2022 22:04:34 GMT</pubDate>
+            <description><![CDATA[Dwarf Fortress Steam Updates – Release Roadmap]]></description>
+        </item>
         <item>
             <title><![CDATA[一份50万美元的拨款提案是什么样子]]></title>
             <link>https://news.ycombinator.com/item?id=30418562</link>

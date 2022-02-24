@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-24T12:54:14.004Z</updated>
+    <updated>2022-02-24T13:36:55.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[矮人要塞》蒸汽版更新--發佈路線圖]]></title>
+        <id>https://news.ycombinator.com/item?id=30447186</id>
+        <link href="https://news.ycombinator.com/item?id=30447186"/>
+        <updated>2022-02-23T22:04:34.000Z</updated>
+        <summary type="html"><![CDATA[Dwarf Fortress Steam Updates – Release Roadmap]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一份50萬美元的撥款提案是什麼樣子]]></title>
         <id>https://news.ycombinator.com/item?id=30418562</id>
