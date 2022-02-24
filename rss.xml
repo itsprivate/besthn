@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 24 Feb 2022 18:39:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 19:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[乌克兰是霓虹灯气体的主要生产国，对用于芯片制造的激光器至关重要。]]></title>
+            <link>https://news.ycombinator.com/item?id=30457490</link>
+            <guid>https://news.ycombinator.com/item?id=30457490</guid>
+            <pubDate>Thu, 24 Feb 2022 17:22:04 GMT</pubDate>
+            <description><![CDATA[Ukraine is a major producer of neon gas, critical for lasers used in chipmaking]]></description>
+        </item>
         <item>
             <title><![CDATA[基于Twitter的俄罗斯部队移动地图]]></title>
             <link>https://news.ycombinator.com/item?id=30452685</link>
