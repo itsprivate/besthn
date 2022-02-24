@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-23T23:34:18.748Z</updated>
+    <updated>2022-02-24T02:00:15.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PeerTube。免費軟件奪回你的視頻控制權]]></title>
+        <id>https://news.ycombinator.com/item?id=30445497</id>
+        <link href="https://news.ycombinator.com/item?id=30445497"/>
+        <updated>2022-02-23T19:51:31.000Z</updated>
+        <summary type="html"><![CDATA[PeerTube: Free software to take back control of your videos]]></summary>
+        <author>
+            <name>pmoriarty</name>
+            <uri>https://news.ycombinator.com/user?id=pmoriarty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[啟動HN：Hydra（YC W22）--通過Postgres查詢任何數據庫]]></title>
         <id>https://news.ycombinator.com/item?id=30442718</id>
