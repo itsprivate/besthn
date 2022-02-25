@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 25 Feb 2022 11:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 13:52:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[关于移除 "活着回来 "的问题]]></title>
+            <link>https://news.ycombinator.com/item?id=30465654</link>
+            <guid>https://news.ycombinator.com/item?id=30465654</guid>
+            <pubDate>Fri, 25 Feb 2022 10:17:37 GMT</pubDate>
+            <description><![CDATA[On the removal of Come Back Alive]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Heroku倒下了]]></title>
+            <link>https://news.ycombinator.com/item?id=30456688</link>
+            <guid>https://news.ycombinator.com/item?id=30456688</guid>
+            <pubDate>Thu, 24 Feb 2022 16:33:29 GMT</pubDate>
+            <description><![CDATA[Heroku was Down]]></description>
+        </item>
         <item>
             <title><![CDATA[了解乌克兰的战争]]></title>
             <link>https://news.ycombinator.com/item?id=30464286</link>
