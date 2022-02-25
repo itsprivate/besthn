@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30456026",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30456026",
+            "title": "簡要介紹一下什麼是SWIFT以及它為什麼重要",
+            "summary": "A quick breakdown of what SWIFT is and why it matters",
+            "date_modified": "2022-02-24T15:47:50.000Z",
+            "author": {
+                "name": "tosh",
+                "url": "https://news.ycombinator.com/user?id=tosh"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30467597",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30467597",
