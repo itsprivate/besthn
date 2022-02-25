@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-25T00:39:23.374Z</updated>
+    <updated>2022-02-25T04:15:18.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[烏克蘭呼籲地下黑客抵制俄羅斯]]></title>
+        <id>https://news.ycombinator.com/item?id=30462219</id>
+        <link href="https://news.ycombinator.com/item?id=30462219"/>
+        <updated>2022-02-25T00:20:04.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine calls on hacker underground to defend against Russia]]></summary>
+        <author>
+            <name>NN88</name>
+            <uri>https://news.ycombinator.com/user?id=NN88</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三分之一的年輕人說他們在閉關期間感到更快樂]]></title>
         <id>https://news.ycombinator.com/item?id=30455168</id>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 25 Feb 2022 00:39:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 04:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[烏克蘭呼籲地下黑客抵制俄羅斯]]></title>
+            <link>https://news.ycombinator.com/item?id=30462219</link>
+            <guid>https://news.ycombinator.com/item?id=30462219</guid>
+            <pubDate>Fri, 25 Feb 2022 00:20:04 GMT</pubDate>
+            <description><![CDATA[Ukraine calls on hacker underground to defend against Russia]]></description>
+        </item>
         <item>
             <title><![CDATA[三分之一的年輕人說他們在閉關期間感到更快樂]]></title>
             <link>https://news.ycombinator.com/item?id=30455168</link>

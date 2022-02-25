@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30462219",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30462219",
+            "title": "烏克蘭呼籲地下黑客抵制俄羅斯",
+            "summary": "Ukraine calls on hacker underground to defend against Russia",
+            "date_modified": "2022-02-25T00:20:04.000Z",
+            "author": {
+                "name": "NN88",
+                "url": "https://news.ycombinator.com/user?id=NN88"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30455168",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30455168",
