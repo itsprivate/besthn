@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30464286",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30464286",
+            "title": "了解乌克兰的战争",
+            "summary": "Understanding the War in Ukraine",
+            "date_modified": "2022-02-25T06:36:38.000Z",
+            "author": {
+                "name": "picture",
+                "url": "https://news.ycombinator.com/user?id=picture"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30462219",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30462219",
