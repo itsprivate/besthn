@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30455168",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30455168",
+            "title": "三分之一的年輕人說他們在閉關期間感到更快樂",
+            "summary": "One in three young people say they felt happier during lockdown",
+            "date_modified": "2022-02-24T14:35:02.000Z",
+            "author": {
+                "name": "vanilla-almond",
+                "url": "https://news.ycombinator.com/user?id=vanilla-almond"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30459634",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30459634",
