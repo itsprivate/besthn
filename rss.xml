@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 25 Feb 2022 22:42:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 23:32:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Grammarly是一个键盘记录器吗？你能做些什么呢？]]></title>
+            <link>https://news.ycombinator.com/item?id=30470457</link>
+            <guid>https://news.ycombinator.com/item?id=30470457</guid>
+            <pubDate>Fri, 25 Feb 2022 18:28:02 GMT</pubDate>
+            <description><![CDATA[Is Grammarly a keylogger? What can you do about it?]]></description>
+        </item>
         <item>
             <title><![CDATA[欧伯龙项目]]></title>
             <link>https://news.ycombinator.com/item?id=30467122</link>

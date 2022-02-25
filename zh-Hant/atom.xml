@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-25T22:42:55.328Z</updated>
+    <updated>2022-02-25T23:32:42.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Grammarly是一個鍵盤記錄器嗎？你能做些什麼呢？]]></title>
+        <id>https://news.ycombinator.com/item?id=30470457</id>
+        <link href="https://news.ycombinator.com/item?id=30470457"/>
+        <updated>2022-02-25T18:28:02.000Z</updated>
+        <summary type="html"><![CDATA[Is Grammarly a keylogger? What can you do about it?]]></summary>
+        <author>
+            <name>terracatta</name>
+            <uri>https://news.ycombinator.com/user?id=terracatta</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歐伯龍項目]]></title>
         <id>https://news.ycombinator.com/item?id=30467122</id>
