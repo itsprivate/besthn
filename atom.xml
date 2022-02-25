@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-25T15:54:02.815Z</updated>
+    <updated>2022-02-25T17:05:40.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通过编写一个小的操作系统来学习Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=30467572</id>
+        <link href="https://news.ycombinator.com/item?id=30467572"/>
+        <updated>2022-02-25T14:22:30.000Z</updated>
+        <summary type="html"><![CDATA[Learn Rust by writing a small OS]]></summary>
+        <author>
+            <name>elamje</name>
+            <uri>https://news.ycombinator.com/user?id=elamje</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告诉HN：YouTube正在禁止支持乌克兰的账户]]></title>
         <id>https://news.ycombinator.com/item?id=30467384</id>
