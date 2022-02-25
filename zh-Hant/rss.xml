@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 25 Feb 2022 17:05:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 18:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我在12個月內學會了法語]]></title>
+            <link>https://news.ycombinator.com/item?id=30467597</link>
+            <guid>https://news.ycombinator.com/item?id=30467597</guid>
+            <pubDate>Fri, 25 Feb 2022 14:24:37 GMT</pubDate>
+            <description><![CDATA[I Learned French in 12 Months]]></description>
+        </item>
+        <item>
+            <title><![CDATA[PostgreSQL模式改變指南]]></title>
+            <link>https://news.ycombinator.com/item?id=30458580</link>
+            <guid>https://news.ycombinator.com/item?id=30458580</guid>
+            <pubDate>Thu, 24 Feb 2022 18:47:44 GMT</pubDate>
+            <description><![CDATA[PostgreSQL Schema Change Guide]]></description>
+        </item>
         <item>
             <title><![CDATA[通過編寫一個小的操作系統來學習Rust]]></title>
             <link>https://news.ycombinator.com/item?id=30467572</link>

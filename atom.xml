@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-25T17:05:40.911Z</updated>
+    <updated>2022-02-25T18:16:18.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在12个月内学会了法语]]></title>
+        <id>https://news.ycombinator.com/item?id=30467597</id>
+        <link href="https://news.ycombinator.com/item?id=30467597"/>
+        <updated>2022-02-25T14:24:37.000Z</updated>
+        <summary type="html"><![CDATA[I Learned French in 12 Months]]></summary>
+        <author>
+            <name>elamje</name>
+            <uri>https://news.ycombinator.com/user?id=elamje</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL模式改变指南]]></title>
+        <id>https://news.ycombinator.com/item?id=30458580</id>
+        <link href="https://news.ycombinator.com/item?id=30458580"/>
+        <updated>2022-02-24T18:47:44.000Z</updated>
+        <summary type="html"><![CDATA[PostgreSQL Schema Change Guide]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通过编写一个小的操作系统来学习Rust]]></title>
         <id>https://news.ycombinator.com/item?id=30467572</id>
