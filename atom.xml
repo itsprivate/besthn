@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-25T20:41:13.261Z</updated>
+    <updated>2022-02-25T21:11:50.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[西方国家为何不愿拒绝俄罗斯银行接入SWIFT？]]></title>
+        <id>https://news.ycombinator.com/item?id=30467919</id>
+        <link href="https://news.ycombinator.com/item?id=30467919"/>
+        <updated>2022-02-25T14:58:52.000Z</updated>
+        <summary type="html"><![CDATA[Why the West is reluctant to deny Russian banks access to SWIFT]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[简要介绍一下什么是SWIFT以及它为什么重要]]></title>
         <id>https://news.ycombinator.com/item?id=30456026</id>
