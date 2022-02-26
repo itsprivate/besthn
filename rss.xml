@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 25 Feb 2022 23:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 09:31:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Supernotes 2 - 一个快速的、用于记事和分享的Markdown笔记应用程序]]></title>
+            <link>https://news.ycombinator.com/item?id=30440275</link>
+            <guid>https://news.ycombinator.com/item?id=30440275</guid>
+            <pubDate>Wed, 23 Feb 2022 12:23:59 GMT</pubDate>
+            <description><![CDATA[Show HN: Supernotes 2 – a fast, Markdown notes app for journalling and sharing]]></description>
+        </item>
         <item>
             <title><![CDATA[Grammarly是一个键盘记录器吗？你能做些什么呢？]]></title>
             <link>https://news.ycombinator.com/item?id=30470457</link>

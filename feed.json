@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30440275",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30440275",
+            "title": "Supernotes 2 - 一个快速的、用于记事和分享的Markdown笔记应用程序",
+            "summary": "Show HN: Supernotes 2 – a fast, Markdown notes app for journalling and sharing",
+            "date_modified": "2022-02-23T12:23:59.000Z",
+            "author": {
+                "name": "fastball",
+                "url": "https://news.ycombinator.com/user?id=fastball"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30470457",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30470457",
