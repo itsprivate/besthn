@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 26 Feb 2022 09:51:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 10:34:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[讓Linux看起來像Windows 95]]></title>
+            <link>https://news.ycombinator.com/item?id=30474690</link>
+            <guid>https://news.ycombinator.com/item?id=30474690</guid>
+            <pubDate>Sat, 26 Feb 2022 02:08:29 GMT</pubDate>
+            <description><![CDATA[Make Linux look like Windows 95]]></description>
+        </item>
         <item>
             <title><![CDATA[這裡有誰有好的材料來學習如何從頭開始畫素描？]]></title>
             <link>https://news.ycombinator.com/item?id=30469036</link>

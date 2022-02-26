@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30474690",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30474690",
+            "title": "讓Linux看起來像Windows 95",
+            "summary": "Make Linux look like Windows 95",
+            "date_modified": "2022-02-26T02:08:29.000Z",
+            "author": {
+                "name": "iio7",
+                "url": "https://news.ycombinator.com/user?id=iio7"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30469036",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30469036",
