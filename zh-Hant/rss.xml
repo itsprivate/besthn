@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 26 Feb 2022 19:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 19:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[當Steam接受比特幣時，50%的Steam比特幣交易是欺詐性的]]></title>
+            <link>https://news.ycombinator.com/item?id=30478262</link>
+            <guid>https://news.ycombinator.com/item?id=30478262</guid>
+            <pubDate>Sat, 26 Feb 2022 15:23:25 GMT</pubDate>
+            <description><![CDATA[50% of Steam Bitcoin transactions were fraudulent when Steam accepted Bitcoin]]></description>
+        </item>
         <item>
             <title><![CDATA[BitConnect創始人在全球24億美元的加密貨幣計劃中被起訴]]></title>
             <link>https://news.ycombinator.com/item?id=30477364</link>

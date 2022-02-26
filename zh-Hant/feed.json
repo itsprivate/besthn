@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30478262",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30478262",
+            "title": "當Steam接受比特幣時，50%的Steam比特幣交易是欺詐性的",
+            "summary": "50% of Steam Bitcoin transactions were fraudulent when Steam accepted Bitcoin",
+            "date_modified": "2022-02-26T15:23:25.000Z",
+            "author": {
+                "name": "mrkramer",
+                "url": "https://news.ycombinator.com/user?id=mrkramer"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30477364",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30477364",
