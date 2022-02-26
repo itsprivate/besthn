@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 26 Feb 2022 21:53:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 23:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[来自现代城市战争史的防御战术]]></title>
+            <link>https://news.ycombinator.com/item?id=30480307</link>
+            <guid>https://news.ycombinator.com/item?id=30480307</guid>
+            <pubDate>Sat, 26 Feb 2022 18:33:33 GMT</pubDate>
+            <description><![CDATA[Defensive tactics from the modern history of urban warfare]]></description>
+        </item>
         <item>
             <title><![CDATA[向我解释一下Twitter的源代码的前10行]]></title>
             <link>https://news.ycombinator.com/item?id=30468793</link>
