@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-26T12:48:04.372Z</updated>
+    <updated>2022-02-26T13:24:54.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[葡萄牙宣布立即向乌克兰难民发放签证]]></title>
+        <id>https://news.ycombinator.com/item?id=30476621</id>
+        <link href="https://news.ycombinator.com/item?id=30476621"/>
+        <updated>2022-02-26T10:51:21.000Z</updated>
+        <summary type="html"><![CDATA[Portugal announces immediate granting of visas for Ukrainian refugees]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[声称的效应大小比合理的要高十万倍。]]></title>
         <id>https://news.ycombinator.com/item?id=30472947</id>
