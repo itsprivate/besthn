@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 26 Feb 2022 18:56:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 19:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[BitConnect創始人在全球24億美元的加密貨幣計劃中被起訴]]></title>
+            <link>https://news.ycombinator.com/item?id=30477364</link>
+            <guid>https://news.ycombinator.com/item?id=30477364</guid>
+            <pubDate>Sat, 26 Feb 2022 13:28:31 GMT</pubDate>
+            <description><![CDATA[BitConnect Founder Indicted in Global $2.4B Cryptocurrency Scheme]]></description>
+        </item>
         <item>
             <title><![CDATA[火星上的 "好奇號 "探測器捕捉到奇怪的植物狀結構]]></title>
             <link>https://news.ycombinator.com/item?id=30476002</link>
