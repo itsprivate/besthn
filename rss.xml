@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 26 Feb 2022 19:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 21:53:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[向我解释一下Twitter的源代码的前10行]]></title>
+            <link>https://news.ycombinator.com/item?id=30468793</link>
+            <guid>https://news.ycombinator.com/item?id=30468793</guid>
+            <pubDate>Fri, 25 Feb 2022 16:11:51 GMT</pubDate>
+            <description><![CDATA[Explain the first 10 lines of Twitter's source code to me]]></description>
+        </item>
         <item>
             <title><![CDATA[当Steam接受比特币时，50%的Steam比特币交易是欺诈性的]]></title>
             <link>https://news.ycombinator.com/item?id=30478262</link>
