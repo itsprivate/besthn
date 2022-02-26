@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 26 Feb 2022 09:31:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 09:51:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[这里有谁有好的材料来学习如何从头开始画素描？]]></title>
+            <link>https://news.ycombinator.com/item?id=30469036</link>
+            <guid>https://news.ycombinator.com/item?id=30469036</guid>
+            <pubDate>Fri, 25 Feb 2022 16:32:38 GMT</pubDate>
+            <description><![CDATA[Ask HN: Anyone here have good material for learning how to sketch from scratch?]]></description>
+        </item>
         <item>
             <title><![CDATA[Supernotes 2 - 一个快速的、用于记事和分享的Markdown笔记应用程序]]></title>
             <link>https://news.ycombinator.com/item?id=30440275</link>
