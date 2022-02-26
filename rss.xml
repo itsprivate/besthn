@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 26 Feb 2022 14:29:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 16:48:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为初创企业争取谷歌工作空间的实用指南]]></title>
+            <link>https://news.ycombinator.com/item?id=30469652</link>
+            <guid>https://news.ycombinator.com/item?id=30469652</guid>
+            <pubDate>Fri, 25 Feb 2022 17:23:28 GMT</pubDate>
+            <description><![CDATA[A practical guide to securing Google Workspace for a startup]]></description>
+        </item>
         <item>
             <title><![CDATA[如果你钻得够深，你可以到处都有地热发电]]></title>
             <link>https://news.ycombinator.com/item?id=30465227</link>
