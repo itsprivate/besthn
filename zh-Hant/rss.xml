@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 27 Feb 2022 06:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 06:37:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GitHub的安全顧問數據庫現已開放源代碼]]></title>
+            <link>https://news.ycombinator.com/item?id=30480862</link>
+            <guid>https://news.ycombinator.com/item?id=30480862</guid>
+            <pubDate>Sat, 26 Feb 2022 19:22:43 GMT</pubDate>
+            <description><![CDATA[GitHub’s database of security advisories is now open source]]></description>
+        </item>
         <item>
             <title><![CDATA[不需要顏色]]></title>
             <link>https://news.ycombinator.com/item?id=30483417</link>

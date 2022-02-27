@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30480862",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30480862",
+            "title": "GitHub的安全顧問數據庫現已開放源代碼",
+            "summary": "GitHub’s database of security advisories is now open source",
+            "date_modified": "2022-02-26T19:22:43.000Z",
+            "author": {
+                "name": "greysteil",
+                "url": "https://news.ycombinator.com/user?id=greysteil"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30483417",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30483417",
