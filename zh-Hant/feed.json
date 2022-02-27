@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30482565",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30482565",
+            "title": "就切斷俄羅斯與SWIFT的聯繫達成全面共識，進程已經開始",
+            "summary": "Full consensus for disconnecting Russia from SWIFT achieved, process has begun",
+            "date_modified": "2022-02-26T22:24:34.000Z",
+            "author": {
+                "name": "grecy",
+                "url": "https://news.ycombinator.com/user?id=grecy"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30480307",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30480307",
