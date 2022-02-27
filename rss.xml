@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 27 Feb 2022 06:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 09:31:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[MetalNES：晶体管级NES模拟]]></title>
+            <link>https://news.ycombinator.com/item?id=30481762</link>
+            <guid>https://news.ycombinator.com/item?id=30481762</guid>
+            <pubDate>Sat, 26 Feb 2022 20:41:59 GMT</pubDate>
+            <description><![CDATA[MetalNES: Transistor Level NES Simulation]]></description>
+        </item>
         <item>
             <title><![CDATA[GitHub的安全顾问数据库现已开放源代码]]></title>
             <link>https://news.ycombinator.com/item?id=30480862</link>
