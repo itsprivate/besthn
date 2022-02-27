@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-27T10:52:48.172Z</updated>
+    <updated>2022-02-27T15:13:37.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SQLite 3.38.0中新的JSON查詢操作符]]></title>
+        <id>https://news.ycombinator.com/item?id=30486052</id>
+        <link href="https://news.ycombinator.com/item?id=30486052"/>
+        <updated>2022-02-27T06:57:37.000Z</updated>
+        <summary type="html"><![CDATA[New JSON query operators in SQLite 3.38.0]]></summary>
+        <author>
+            <name>xtreak29</name>
+            <uri>https://news.ycombinator.com/user?id=xtreak29</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gitlab關鍵安全發佈]]></title>
         <id>https://news.ycombinator.com/item?id=30478636</id>

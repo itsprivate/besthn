@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30486052",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30486052",
+            "title": "SQLite 3.38.0中新的JSON查询操作符",
+            "summary": "New JSON query operators in SQLite 3.38.0",
+            "date_modified": "2022-02-27T06:57:37.000Z",
+            "author": {
+                "name": "xtreak29",
+                "url": "https://news.ycombinator.com/user?id=xtreak29"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30478636",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30478636",
