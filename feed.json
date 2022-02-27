@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30483417",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30483417",
+            "title": "不需要颜色",
+            "summary": "No_color",
+            "date_modified": "2022-02-26T23:51:57.000Z",
+            "author": {
+                "name": "ducaale",
+                "url": "https://news.ycombinator.com/user?id=ducaale"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30476396",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30476396",
