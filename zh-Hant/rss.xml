@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 27 Feb 2022 09:31:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 10:52:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Gitlab關鍵安全發佈]]></title>
+            <link>https://news.ycombinator.com/item?id=30478636</link>
+            <guid>https://news.ycombinator.com/item?id=30478636</guid>
+            <pubDate>Sat, 26 Feb 2022 16:01:24 GMT</pubDate>
+            <description><![CDATA[Gitlab Critical Security Release]]></description>
+        </item>
         <item>
             <title><![CDATA[MetalNES：晶體管級NES模擬]]></title>
             <link>https://news.ycombinator.com/item?id=30481762</link>
