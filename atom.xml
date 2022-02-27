@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-27T22:53:20.166Z</updated>
+    <updated>2022-02-27T23:31:20.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英国石油公司在乌克兰入侵后退出俄罗斯，受到高达250亿美元的打击]]></title>
+        <id>https://news.ycombinator.com/item?id=30491179</id>
+        <link href="https://news.ycombinator.com/item?id=30491179"/>
+        <updated>2022-02-27T18:42:25.000Z</updated>
+        <summary type="html"><![CDATA[BP quits Russia in up to $25B hit after Ukraine invasion]]></summary>
+        <author>
+            <name>vitabenes</name>
+            <uri>https://news.ycombinator.com/user?id=vitabenes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全球芯片短缺可能很快转变成供过于求的危机]]></title>
         <id>https://news.ycombinator.com/item?id=30489538</id>

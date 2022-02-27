@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30491179",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30491179",
+            "title": "英國石油公司在烏克蘭入侵後退出俄羅斯，受到高達250億美元的打擊",
+            "summary": "BP quits Russia in up to $25B hit after Ukraine invasion",
+            "date_modified": "2022-02-27T18:42:25.000Z",
+            "author": {
+                "name": "vitabenes",
+                "url": "https://news.ycombinator.com/user?id=vitabenes"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30489538",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30489538",
