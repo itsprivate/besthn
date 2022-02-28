@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30503532",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30503532",
+            "title": "要求招聘信息包括工资的法案在华盛顿州参议院获得通过",
+            "summary": "Bill to require job postings to include salaries passes Washington Senate",
+            "date_modified": "2022-02-28T18:56:27.000Z",
+            "author": {
+                "name": "caust1c",
+                "url": "https://news.ycombinator.com/user?id=caust1c"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30502098",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30502098",

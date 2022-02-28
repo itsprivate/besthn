@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 28 Feb 2022 20:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 21:54:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[要求招聘信息包括工資的法案在華盛頓州參議院獲得通過]]></title>
+            <link>https://news.ycombinator.com/item?id=30503532</link>
+            <guid>https://news.ycombinator.com/item?id=30503532</guid>
+            <pubDate>Mon, 28 Feb 2022 18:56:27 GMT</pubDate>
+            <description><![CDATA[Bill to require job postings to include salaries passes Washington Senate]]></description>
+        </item>
         <item>
             <title><![CDATA[我很普通，花了150英鎊去嘗試一家米其林星級餐廳]]></title>
             <link>https://news.ycombinator.com/item?id=30502098</link>
