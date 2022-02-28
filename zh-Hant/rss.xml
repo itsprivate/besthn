@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 28 Feb 2022 18:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 20:36:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我很普通，花了150英鎊去嘗試一家米其林星級餐廳]]></title>
+            <link>https://news.ycombinator.com/item?id=30502098</link>
+            <guid>https://news.ycombinator.com/item?id=30502098</guid>
+            <pubDate>Mon, 28 Feb 2022 17:01:02 GMT</pubDate>
+            <description><![CDATA[I'm common as muck and spent £150 to try a Michelin star restaurant]]></description>
+        </item>
         <item>
             <title><![CDATA[從SWE轉型為SWE管理時要讀的書？]]></title>
             <link>https://news.ycombinator.com/item?id=30497703</link>

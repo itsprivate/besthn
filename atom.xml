@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-28T18:18:28.494Z</updated>
+    <updated>2022-02-28T20:36:18.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我很普通，花了150英镑去尝试一家米其林星级餐厅]]></title>
+        <id>https://news.ycombinator.com/item?id=30502098</id>
+        <link href="https://news.ycombinator.com/item?id=30502098"/>
+        <updated>2022-02-28T17:01:02.000Z</updated>
+        <summary type="html"><![CDATA[I'm common as muck and spent £150 to try a Michelin star restaurant]]></summary>
+        <author>
+            <name>NaOH</name>
+            <uri>https://news.ycombinator.com/user?id=NaOH</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从SWE转型为SWE管理时要读的书？]]></title>
         <id>https://news.ycombinator.com/item?id=30497703</id>
