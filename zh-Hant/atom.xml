@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-28T14:25:06.821Z</updated>
+    <updated>2022-02-28T14:59:34.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Hoppscotch: Postman的開源替代品]]></title>
+        <id>https://news.ycombinator.com/item?id=30498072</id>
+        <link href="https://news.ycombinator.com/item?id=30498072"/>
+        <updated>2022-02-28T09:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Hoppscotch: Open-Source Alternative to Postman]]></summary>
+        <author>
+            <name>MarcellusDrum</name>
+            <uri>https://news.ycombinator.com/user?id=MarcellusDrum</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[流行的SaaS產品的開源替代品]]></title>
+        <id>https://news.ycombinator.com/item?id=30492519</id>
+        <link href="https://news.ycombinator.com/item?id=30492519"/>
+        <updated>2022-02-27T21:09:11.000Z</updated>
+        <summary type="html"><![CDATA[Open source alternatives to popular SaaS products]]></summary>
+        <author>
+            <name>caaqil</name>
+            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼不僱用兼職開發人員？]]></title>
+        <id>https://news.ycombinator.com/item?id=30490563</id>
+        <link href="https://news.ycombinator.com/item?id=30490563"/>
+        <updated>2022-02-27T17:40:49.000Z</updated>
+        <summary type="html"><![CDATA[Why not hire part-time developers?]]></summary>
+        <author>
+            <name>prohobo</name>
+            <uri>https://news.ycombinator.com/user?id=prohobo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[長壽的常見問題。長壽研究的初學者指南]]></title>
+        <id>https://news.ycombinator.com/item?id=30486656</id>
+        <link href="https://news.ycombinator.com/item?id=30486656"/>
+        <updated>2022-02-27T09:20:42.000Z</updated>
+        <summary type="html"><![CDATA[Longevity FAQ: A beginner's guide to longevity research]]></summary>
+        <author>
+            <name>mxschumacher</name>
+            <uri>https://news.ycombinator.com/user?id=mxschumacher</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[也許有人應該成立一家明亮的家庭照明公司（2019年）。]]></title>
         <id>https://news.ycombinator.com/item?id=30496842</id>
