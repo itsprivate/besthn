@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-28T21:54:11.901Z</updated>
+    <updated>2022-02-28T23:34:32.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在GitHub上为别人的工作邀功？]]></title>
+        <id>https://news.ycombinator.com/item?id=30503148</id>
+        <link href="https://news.ycombinator.com/item?id=30503148"/>
+        <updated>2022-02-28T18:25:10.000Z</updated>
+        <summary type="html"><![CDATA[How to take credit for someone else's work on GitHub]]></summary>
+        <author>
+            <name>arraypad</name>
+            <uri>https://news.ycombinator.com/user?id=arraypad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[要求招聘信息包括工资的法案在华盛顿州参议院获得通过]]></title>
         <id>https://news.ycombinator.com/item?id=30503532</id>
