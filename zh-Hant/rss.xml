@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 28 Feb 2022 23:34:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 23:42:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Namecheap: 俄羅斯服務終止]]></title>
+            <link>https://news.ycombinator.com/item?id=30504812</link>
+            <guid>https://news.ycombinator.com/item?id=30504812</guid>
+            <pubDate>Mon, 28 Feb 2022 20:38:16 GMT</pubDate>
+            <description><![CDATA[Namecheap: Russia Service Termination]]></description>
+        </item>
         <item>
             <title><![CDATA[如何在GitHub上為別人的工作邀功？]]></title>
             <link>https://news.ycombinator.com/item?id=30503148</link>

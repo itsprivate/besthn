@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30504812",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30504812",
+            "title": "Namecheap: 俄羅斯服務終止",
+            "summary": "Namecheap: Russia Service Termination",
+            "date_modified": "2022-02-28T20:38:16.000Z",
+            "author": {
+                "name": "exizt88",
+                "url": "https://news.ycombinator.com/user?id=exizt88"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30503148",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30503148",
