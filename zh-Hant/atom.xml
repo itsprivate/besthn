@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-28T02:55:02.657Z</updated>
+    <updated>2022-02-28T14:25:06.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[也許有人應該成立一家明亮的家庭照明公司（2019年）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30496842</id>
+        <link href="https://news.ycombinator.com/item?id=30496842"/>
+        <updated>2022-02-28T05:53:55.000Z</updated>
+        <summary type="html"><![CDATA[Someone should probably start a bright home lighting company (2019)]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從零開始的Linux]]></title>
+        <id>https://news.ycombinator.com/item?id=30496018</id>
+        <link href="https://news.ycombinator.com/item?id=30496018"/>
+        <updated>2022-02-28T03:23:58.000Z</updated>
+        <summary type="html"><![CDATA[Linux from Scratch]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[痛苦的害羞的開發者為更好的工作建立聯繫的指南(2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=30495342</id>
+        <link href="https://news.ycombinator.com/item?id=30495342"/>
+        <updated>2022-02-28T01:58:49.000Z</updated>
+        <summary type="html"><![CDATA[The painfully shy developer's guide to networking for a better job (2017)]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄羅斯盧布剛剛貶值了~30%。]]></title>
+        <id>https://news.ycombinator.com/item?id=30494626</id>
+        <link href="https://news.ycombinator.com/item?id=30494626"/>
+        <updated>2022-02-28T00:41:02.000Z</updated>
+        <summary type="html"><![CDATA[Russian Ruble just lost ~30% of its value]]></summary>
+        <author>
+            <name>eifec</name>
+            <uri>https://news.ycombinator.com/user?id=eifec</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[400字節的蘭姆達微積分]]></title>
+        <id>https://news.ycombinator.com/item?id=30493713</id>
+        <link href="https://news.ycombinator.com/item?id=30493713"/>
+        <updated>2022-02-27T23:01:06.000Z</updated>
+        <summary type="html"><![CDATA[Lambda Calculus in 400 Bytes]]></summary>
+        <author>
+            <name>mmphosis</name>
+            <uri>https://news.ycombinator.com/user?id=mmphosis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加州理工學院的CS面試準備課程]]></title>
+        <id>https://news.ycombinator.com/item?id=30492262</id>
+        <link href="https://news.ycombinator.com/item?id=30492262"/>
+        <updated>2022-02-27T20:38:38.000Z</updated>
+        <summary type="html"><![CDATA[Caltech's CS interview prep course]]></summary>
+        <author>
+            <name>b8</name>
+            <uri>https://news.ycombinator.com/user?id=b8</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Win32是穩定的Linux用戶區ABI（和後果）。]]></title>
         <id>https://news.ycombinator.com/item?id=30490570</id>
