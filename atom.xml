@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-02-28T16:21:25.605Z</updated>
+    <updated>2022-02-28T18:18:28.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从SWE转型为SWE管理时要读的书？]]></title>
+        <id>https://news.ycombinator.com/item?id=30497703</id>
+        <link href="https://news.ycombinator.com/item?id=30497703"/>
+        <updated>2022-02-28T08:37:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Books to read when you transform from SWE into SWE Management?]]></summary>
+        <author>
+            <name>DDerTyp</name>
+            <uri>https://news.ycombinator.com/user?id=DDerTyp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["哦，非常抱歉。我需要更多的时间。我的国家在保卫俄罗斯的入侵"]]></title>
         <id>https://news.ycombinator.com/item?id=30500669</id>
