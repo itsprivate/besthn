@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 01 Mar 2022 21:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 21:54:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GNU Taler。一个使用现代密码学的匿名、应税支付系统]]></title>
+            <link>https://news.ycombinator.com/item?id=30514122</link>
+            <guid>https://news.ycombinator.com/item?id=30514122</guid>
+            <pubDate>Tue, 01 Mar 2022 13:55:24 GMT</pubDate>
+            <description><![CDATA[GNU Taler: An anonymous, taxable payment system using modern cryptography]]></description>
+        </item>
+        <item>
+            <title><![CDATA[大卫-博格斯已经去世]]></title>
+            <link>https://news.ycombinator.com/item?id=30513041</link>
+            <guid>https://news.ycombinator.com/item?id=30513041</guid>
+            <pubDate>Tue, 01 Mar 2022 11:55:36 GMT</pubDate>
+            <description><![CDATA[David Boggs has died]]></description>
+        </item>
         <item>
             <title><![CDATA[RISC-V正在获得成功]]></title>
             <link>https://news.ycombinator.com/item?id=30515014</link>

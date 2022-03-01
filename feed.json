@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30514122",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30514122",
+            "title": "GNU Taler。一个使用现代密码学的匿名、应税支付系统",
+            "summary": "GNU Taler: An anonymous, taxable payment system using modern cryptography",
+            "date_modified": "2022-03-01T13:55:24.000Z",
+            "author": {
+                "name": "harporoeder",
+                "url": "https://news.ycombinator.com/user?id=harporoeder"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30513041",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30513041",
+            "title": "大卫-博格斯已经去世",
+            "summary": "David Boggs has died",
+            "date_modified": "2022-03-01T11:55:36.000Z",
+            "author": {
+                "name": "rbanffy",
+                "url": "https://news.ycombinator.com/user?id=rbanffy"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30515014",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30515014",
