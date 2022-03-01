@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-01T08:17:23.190Z</updated>
+    <updated>2022-03-01T09:33:43.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Solid.js感覺就像我一直希望的React一樣]]></title>
+        <id>https://news.ycombinator.com/item?id=30508524</id>
+        <link href="https://news.ycombinator.com/item?id=30508524"/>
+        <updated>2022-03-01T02:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Solid.js feels like what I always wanted React to be]]></summary>
+        <author>
+            <name>jamghee</name>
+            <uri>https://news.ycombinator.com/user?id=jamghee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告訴HN：如果你在俄羅斯]]></title>
         <id>https://news.ycombinator.com/item?id=30508314</id>
