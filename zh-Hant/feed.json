@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30497616",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30497616",
+            "title": "聯想發佈首款基於Arm的ThinkPad",
+            "summary": "Lenovo announces the first Arm-based ThinkPad",
+            "date_modified": "2022-02-28T08:23:21.000Z",
+            "author": {
+                "name": "gripfx",
+                "url": "https://news.ycombinator.com/user?id=gripfx"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30506413",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30506413",
