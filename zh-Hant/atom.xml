@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-01T21:54:28.546Z</updated>
+    <updated>2022-03-01T22:13:49.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mozilla Hubs]]></title>
+        <id>https://news.ycombinator.com/item?id=30515097</id>
+        <link href="https://news.ycombinator.com/item?id=30515097"/>
+        <updated>2022-03-01T15:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla Hubs]]></summary>
+        <author>
+            <name>amar-laksh</name>
+            <uri>https://news.ycombinator.com/user?id=amar-laksh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GNU Taler。一個使用現代密碼學的匿名、應稅支付系統]]></title>
         <id>https://news.ycombinator.com/item?id=30514122</id>
