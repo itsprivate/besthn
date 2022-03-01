@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-01T22:13:49.332Z</updated>
+    <updated>2022-03-01T23:13:56.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[薩提亞-納德拉的兒子扎因-納德拉去世，享年26歲]]></title>
+        <id>https://news.ycombinator.com/item?id=30517049</id>
+        <link href="https://news.ycombinator.com/item?id=30517049"/>
+        <updated>2022-03-01T17:29:15.000Z</updated>
+        <summary type="html"><![CDATA[Zain Nadella, Satya Nadella's son, dies at 26]]></summary>
+        <author>
+            <name>softwarebeware</name>
+            <uri>https://news.ycombinator.com/user?id=softwarebeware</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[華為MatePad Paper - eInk平板電腦]]></title>
+        <id>https://news.ycombinator.com/item?id=30512486</id>
+        <link href="https://news.ycombinator.com/item?id=30512486"/>
+        <updated>2022-03-01T10:49:40.000Z</updated>
+        <summary type="html"><![CDATA[Huawei MatePad Paper – eInk Tablet]]></summary>
+        <author>
+            <name>gadders</name>
+            <uri>https://news.ycombinator.com/user?id=gadders</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mozilla Hubs]]></title>
         <id>https://news.ycombinator.com/item?id=30515097</id>

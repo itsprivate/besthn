@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30517049",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30517049",
+            "title": "薩提亞-納德拉的兒子扎因-納德拉去世，享年26歲",
+            "summary": "Zain Nadella, Satya Nadella's son, dies at 26",
+            "date_modified": "2022-03-01T17:29:15.000Z",
+            "author": {
+                "name": "softwarebeware",
+                "url": "https://news.ycombinator.com/user?id=softwarebeware"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30512486",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30512486",
+            "title": "華為MatePad Paper - eInk平板電腦",
+            "summary": "Huawei MatePad Paper – eInk Tablet",
+            "date_modified": "2022-03-01T10:49:40.000Z",
+            "author": {
+                "name": "gadders",
+                "url": "https://news.ycombinator.com/user?id=gadders"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30515097",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30515097",

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 01 Mar 2022 22:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 23:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[薩提亞-納德拉的兒子扎因-納德拉去世，享年26歲]]></title>
+            <link>https://news.ycombinator.com/item?id=30517049</link>
+            <guid>https://news.ycombinator.com/item?id=30517049</guid>
+            <pubDate>Tue, 01 Mar 2022 17:29:15 GMT</pubDate>
+            <description><![CDATA[Zain Nadella, Satya Nadella's son, dies at 26]]></description>
+        </item>
+        <item>
+            <title><![CDATA[華為MatePad Paper - eInk平板電腦]]></title>
+            <link>https://news.ycombinator.com/item?id=30512486</link>
+            <guid>https://news.ycombinator.com/item?id=30512486</guid>
+            <pubDate>Tue, 01 Mar 2022 10:49:40 GMT</pubDate>
+            <description><![CDATA[Huawei MatePad Paper – eInk Tablet]]></description>
+        </item>
         <item>
             <title><![CDATA[Mozilla Hubs]]></title>
             <link>https://news.ycombinator.com/item?id=30515097</link>
