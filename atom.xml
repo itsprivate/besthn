@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-01T19:20:28.799Z</updated>
+    <updated>2022-03-01T21:14:39.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[RISC-V正在获得成功]]></title>
+        <id>https://news.ycombinator.com/item?id=30515014</id>
+        <link href="https://news.ycombinator.com/item?id=30515014"/>
+        <updated>2022-03-01T15:05:23.000Z</updated>
+        <summary type="html"><![CDATA[RISC-V is succeeding]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你不需要JavaScript的事情]]></title>
         <id>https://news.ycombinator.com/item?id=30512512</id>
