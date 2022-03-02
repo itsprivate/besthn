@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30528473",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30528473",
+            "title": "SPA是個錯誤",
+            "summary": "SPAs Were a Mistake",
+            "date_modified": "2022-03-02T15:35:37.000Z",
+            "author": {
+                "name": "andrei_says_",
+                "url": "https://news.ycombinator.com/user?id=andrei_says_"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30529780",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30529780",
