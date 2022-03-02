@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 02 Mar 2022 07:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 07:39:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一个网页游戏，叫作 "Almost Pong"。]]></title>
+            <link>https://news.ycombinator.com/item?id=30517626</link>
+            <guid>https://news.ycombinator.com/item?id=30517626</guid>
+            <pubDate>Tue, 01 Mar 2022 18:09:25 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a web game called Almost Pong]]></description>
+        </item>
         <item>
             <title><![CDATA[Go 1.18中是如何实现泛型的？]]></title>
             <link>https://news.ycombinator.com/item?id=30518094</link>
