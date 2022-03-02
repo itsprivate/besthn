@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30518094",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30518094",
+            "title": "Go 1.18中是如何实现泛型的？",
+            "summary": "How generics are implemented in Go 1.18",
+            "date_modified": "2022-03-01T18:39:13.000Z",
+            "author": {
+                "name": "komuW",
+                "url": "https://news.ycombinator.com/user?id=komuW"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30521545",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30521545",
