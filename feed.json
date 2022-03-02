@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30521927",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30521927",
+            "title": "违反科罗拉多州非竞争法的雇主面临严厉的新处罚",
+            "summary": "Employers who violate Colorado’s non-compete laws face stiff new penalties",
+            "date_modified": "2022-03-02T00:20:22.000Z",
+            "author": {
+                "name": "mooreds",
+                "url": "https://news.ycombinator.com/user?id=mooreds"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30485709",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30485709",
