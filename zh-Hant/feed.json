@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30485709",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30485709",
+            "title": "通往成功的道路是由拒絕信鋪就的",
+            "summary": "The road to success is paved with rejection letters",
+            "date_modified": "2022-02-27T05:36:56.000Z",
+            "author": {
+                "name": "cloudedcordial",
+                "url": "https://news.ycombinator.com/user?id=cloudedcordial"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30523203",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30523203",
