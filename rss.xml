@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 02 Mar 2022 17:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 18:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[单一文件：将一个完整的网页保存为单一的HTML文件]]></title>
+            <link>https://news.ycombinator.com/item?id=30527999</link>
+            <guid>https://news.ycombinator.com/item?id=30527999</guid>
+            <pubDate>Wed, 02 Mar 2022 14:55:17 GMT</pubDate>
+            <description><![CDATA[SingleFile: Save a complete web page into a single HTML file]]></description>
+        </item>
         <item>
             <title><![CDATA[脑电图猫耳]]></title>
             <link>https://news.ycombinator.com/item?id=30526065</link>

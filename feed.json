@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30527999",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30527999",
+            "title": "单一文件：将一个完整的网页保存为单一的HTML文件",
+            "summary": "SingleFile: Save a complete web page into a single HTML file",
+            "date_modified": "2022-03-02T14:55:17.000Z",
+            "author": {
+                "name": "crbelaus",
+                "url": "https://news.ycombinator.com/user?id=crbelaus"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30526065",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30526065",
