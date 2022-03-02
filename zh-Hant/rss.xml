@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 02 Mar 2022 18:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 19:28:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Epic Games收購了Bandcamp]]></title>
+            <link>https://news.ycombinator.com/item?id=30529780</link>
+            <guid>https://news.ycombinator.com/item?id=30529780</guid>
+            <pubDate>Wed, 02 Mar 2022 17:14:18 GMT</pubDate>
+            <description><![CDATA[Epic Games acquires Bandcamp]]></description>
+        </item>
         <item>
             <title><![CDATA[單一文件：將一個完整的網頁保存為單一的HTML文件]]></title>
             <link>https://news.ycombinator.com/item?id=30527999</link>

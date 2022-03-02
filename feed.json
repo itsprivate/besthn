@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30529780",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30529780",
+            "title": "Epic Games收购了Bandcamp",
+            "summary": "Epic Games acquires Bandcamp",
+            "date_modified": "2022-03-02T17:14:18.000Z",
+            "author": {
+                "name": "kylestetz",
+                "url": "https://news.ycombinator.com/user?id=kylestetz"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30527999",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30527999",
