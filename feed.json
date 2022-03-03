@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30529470",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30529470",
+            "title": "俄罗斯的空军怎么了？美国官员和专家感到困惑",
+            "summary": "What happened to Russias Air Force? U.S. officials, experts stumped",
+            "date_modified": "2022-03-02T16:52:44.000Z",
+            "author": {
+                "name": "mrep",
+                "url": "https://news.ycombinator.com/user?id=mrep"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30529262",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30529262",
+            "title": "Huemint - 颜色设计的机器学习",
+            "summary": "Show HN: Huemint – Machine learning for color design",
+            "date_modified": "2022-03-02T16:38:43.000Z",
+            "author": {
+                "name": "Jack000",
+                "url": "https://news.ycombinator.com/user?id=Jack000"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30527692",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30527692",
+            "title": "透视在图片中是如何运作的？",
+            "summary": "How does perspective work in pictures?",
+            "date_modified": "2022-03-02T14:31:17.000Z",
+            "author": {
+                "name": "todsacerdoti",
+                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30533540",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30533540",

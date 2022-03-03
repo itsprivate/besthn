@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-03T00:40:26.450Z</updated>
+    <updated>2022-03-03T02:12:38.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯的空军怎么了？美国官员和专家感到困惑]]></title>
+        <id>https://news.ycombinator.com/item?id=30529470</id>
+        <link href="https://news.ycombinator.com/item?id=30529470"/>
+        <updated>2022-03-02T16:52:44.000Z</updated>
+        <summary type="html"><![CDATA[What happened to Russias Air Force? U.S. officials, experts stumped]]></summary>
+        <author>
+            <name>mrep</name>
+            <uri>https://news.ycombinator.com/user?id=mrep</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huemint - 颜色设计的机器学习]]></title>
+        <id>https://news.ycombinator.com/item?id=30529262</id>
+        <link href="https://news.ycombinator.com/item?id=30529262"/>
+        <updated>2022-03-02T16:38:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Huemint – Machine learning for color design]]></summary>
+        <author>
+            <name>Jack000</name>
+            <uri>https://news.ycombinator.com/user?id=Jack000</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[透视在图片中是如何运作的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30527692</id>
+        <link href="https://news.ycombinator.com/item?id=30527692"/>
+        <updated>2022-03-02T14:31:17.000Z</updated>
+        <summary type="html"><![CDATA[How does perspective work in pictures?]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌规定工人从4月4日起返回硅谷和其他办公室]]></title>
         <id>https://news.ycombinator.com/item?id=30533540</id>
