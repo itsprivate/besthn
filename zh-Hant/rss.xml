@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 02 Mar 2022 20:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 00:40:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谷歌規定工人從4月4日起返回硅谷和其他辦公室]]></title>
+            <link>https://news.ycombinator.com/item?id=30533540</link>
+            <guid>https://news.ycombinator.com/item?id=30533540</guid>
+            <pubDate>Wed, 02 Mar 2022 21:38:02 GMT</pubDate>
+            <description><![CDATA[Google mandates workers back to Silicon Valley, other offices from April 4]]></description>
+        </item>
+        <item>
+            <title><![CDATA[拜登官員稱中國要求俄羅斯將戰爭推遲到奧運會之後]]></title>
+            <link>https://news.ycombinator.com/item?id=30532935</link>
+            <guid>https://news.ycombinator.com/item?id=30532935</guid>
+            <pubDate>Wed, 02 Mar 2022 20:51:01 GMT</pubDate>
+            <description><![CDATA[China asked Russia to delay war until after Olympics, Biden officials say]]></description>
+        </item>
+        <item>
+            <title><![CDATA[冰淇淋機黑客起訴麥當勞]]></title>
+            <link>https://news.ycombinator.com/item?id=30527939</link>
+            <guid>https://news.ycombinator.com/item?id=30527939</guid>
+            <pubDate>Wed, 02 Mar 2022 14:51:04 GMT</pubDate>
+            <description><![CDATA[Ice cream machine hackers sue McDonald's]]></description>
+        </item>
         <item>
             <title><![CDATA[SPA是個錯誤]]></title>
             <link>https://news.ycombinator.com/item?id=30528473</link>
