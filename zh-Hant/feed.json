@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30535572",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30535572",
+            "title": "我的Stripe稅務故事",
+            "summary": "My Stripe Tax Story",
+            "date_modified": "2022-03-03T00:38:43.000Z",
+            "author": {
+                "name": "kareemm",
+                "url": "https://news.ycombinator.com/user?id=kareemm"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30531762",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30531762",
