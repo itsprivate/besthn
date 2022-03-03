@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-03T19:29:32.423Z</updated>
+    <updated>2022-03-03T22:16:54.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯将对有关乌克兰战争的 "假新闻 "处以15年监禁]]></title>
+        <id>https://news.ycombinator.com/item?id=30542596</id>
+        <link href="https://news.ycombinator.com/item?id=30542596"/>
+        <updated>2022-03-03T15:55:39.000Z</updated>
+        <summary type="html"><![CDATA[Russia to punish ‘fake news’ about Ukraine war with 15 years’ jail]]></summary>
+        <author>
+            <name>simontheowl</name>
+            <uri>https://news.ycombinator.com/user?id=simontheowl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不存在的城市]]></title>
+        <id>https://news.ycombinator.com/item?id=30539445</id>
+        <link href="https://news.ycombinator.com/item?id=30539445"/>
+        <updated>2022-03-03T10:51:20.000Z</updated>
+        <summary type="html"><![CDATA[City Does Not Exist]]></summary>
+        <author>
+            <name>chippy</name>
+            <uri>https://news.ycombinator.com/user?id=chippy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现在是你的错，他们不知道这件事]]></title>
+        <id>https://news.ycombinator.com/item?id=30542528</id>
+        <link href="https://news.ycombinator.com/item?id=30542528"/>
+        <updated>2022-03-03T15:51:46.000Z</updated>
+        <summary type="html"><![CDATA[It's now your fault they don't know about it]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[43公里的视线与USB WiFi棒（2005）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30541576</id>
+        <link href="https://news.ycombinator.com/item?id=30541576"/>
+        <updated>2022-03-03T14:38:35.000Z</updated>
+        <summary type="html"><![CDATA[43 km line of sight with USB WiFi stick (2005)]]></summary>
+        <author>
+            <name>NotAWorkNick</name>
+            <uri>https://news.ycombinator.com/user?id=NotAWorkNick</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧洲的姓氏地图]]></title>
         <id>https://news.ycombinator.com/item?id=30539693</id>
