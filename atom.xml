@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-03T05:51:57.090Z</updated>
+    <updated>2022-03-03T17:54:48.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ICANN拒绝乌克兰将俄罗斯从互联网上切断的请求[pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=30540188</id>
+        <link href="https://news.ycombinator.com/item?id=30540188"/>
+        <updated>2022-03-03T12:45:45.000Z</updated>
+        <summary type="html"><![CDATA[ICANN's rejection of Ukraine's request to sever Russia from the internet [pdf]]]></summary>
+        <author>
+            <name>0xedb</name>
+            <uri>https://news.ycombinator.com/user?id=0xedb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雨果很厉害，它的文档却不怎么样]]></title>
+        <id>https://news.ycombinator.com/item?id=30527884</id>
+        <link href="https://news.ycombinator.com/item?id=30527884"/>
+        <updated>2022-03-02T14:47:05.000Z</updated>
+        <summary type="html"><![CDATA[Hugo is awesome, its documentation is not]]></summary>
+        <author>
+            <name>KlatchianMist</name>
+            <uri>https://news.ycombinator.com/user?id=KlatchianMist</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在国际上转移资金]]></title>
+        <id>https://news.ycombinator.com/item?id=30535225</id>
+        <link href="https://news.ycombinator.com/item?id=30535225"/>
+        <updated>2022-03-02T23:54:57.000Z</updated>
+        <summary type="html"><![CDATA[Moving money internationally]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的Stripe税务故事]]></title>
         <id>https://news.ycombinator.com/item?id=30535572</id>

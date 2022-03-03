@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 03 Mar 2022 05:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 17:54:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[ICANN拒絕烏克蘭將俄羅斯從互聯網上切斷的請求[pdf]]]></title>
+            <link>https://news.ycombinator.com/item?id=30540188</link>
+            <guid>https://news.ycombinator.com/item?id=30540188</guid>
+            <pubDate>Thu, 03 Mar 2022 12:45:45 GMT</pubDate>
+            <description><![CDATA[ICANN's rejection of Ukraine's request to sever Russia from the internet [pdf]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[雨果很厲害，它的文檔卻不怎麼樣]]></title>
+            <link>https://news.ycombinator.com/item?id=30527884</link>
+            <guid>https://news.ycombinator.com/item?id=30527884</guid>
+            <pubDate>Wed, 02 Mar 2022 14:47:05 GMT</pubDate>
+            <description><![CDATA[Hugo is awesome, its documentation is not]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在國際上轉移資金]]></title>
+            <link>https://news.ycombinator.com/item?id=30535225</link>
+            <guid>https://news.ycombinator.com/item?id=30535225</guid>
+            <pubDate>Wed, 02 Mar 2022 23:54:57 GMT</pubDate>
+            <description><![CDATA[Moving money internationally]]></description>
+        </item>
         <item>
             <title><![CDATA[我的Stripe稅務故事]]></title>
             <link>https://news.ycombinator.com/item?id=30535572</link>

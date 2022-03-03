@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30540188",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30540188",
+            "title": "ICANN拒絕烏克蘭將俄羅斯從互聯網上切斷的請求[pdf]",
+            "summary": "ICANN's rejection of Ukraine's request to sever Russia from the internet [pdf]",
+            "date_modified": "2022-03-03T12:45:45.000Z",
+            "author": {
+                "name": "0xedb",
+                "url": "https://news.ycombinator.com/user?id=0xedb"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30527884",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30527884",
+            "title": "雨果很厲害，它的文檔卻不怎麼樣",
+            "summary": "Hugo is awesome, its documentation is not",
+            "date_modified": "2022-03-02T14:47:05.000Z",
+            "author": {
+                "name": "KlatchianMist",
+                "url": "https://news.ycombinator.com/user?id=KlatchianMist"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30535225",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30535225",
+            "title": "在國際上轉移資金",
+            "summary": "Moving money internationally",
+            "date_modified": "2022-03-02T23:54:57.000Z",
+            "author": {
+                "name": "mooreds",
+                "url": "https://news.ycombinator.com/user?id=mooreds"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30535572",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30535572",
