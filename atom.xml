@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-04T13:56:07.404Z</updated>
+    <updated>2022-03-04T14:35:01.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对资优教育的战争]]></title>
+        <id>https://news.ycombinator.com/item?id=30544484</id>
+        <link href="https://news.ycombinator.com/item?id=30544484"/>
+        <updated>2022-03-03T18:09:35.000Z</updated>
+        <summary type="html"><![CDATA[The war on gifted education]]></summary>
+        <author>
+            <name>paulpauper</name>
+            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么我的在线账户总是被禁止？]]></title>
         <id>https://news.ycombinator.com/item?id=30542953</id>
