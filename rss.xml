@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 03 Mar 2022 22:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 00:42:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[1990-2020年，"每个人都应该知道的延迟数字 "是如何减少的]]></title>
+            <link>https://news.ycombinator.com/item?id=30546995</link>
+            <guid>https://news.ycombinator.com/item?id=30546995</guid>
+            <pubDate>Thu, 03 Mar 2022 21:06:40 GMT</pubDate>
+            <description><![CDATA[How “latency numbers everybody should know” decreased from 1990–2020]]></description>
+        </item>
         <item>
             <title><![CDATA[俄罗斯将对有关乌克兰战争的 "假新闻 "处以15年监禁]]></title>
             <link>https://news.ycombinator.com/item?id=30542596</link>

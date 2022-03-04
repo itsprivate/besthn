@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-03T22:16:54.254Z</updated>
+    <updated>2022-03-04T00:42:47.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[1990-2020年，"每個人都應該知道的延遲數字 "是如何減少的]]></title>
+        <id>https://news.ycombinator.com/item?id=30546995</id>
+        <link href="https://news.ycombinator.com/item?id=30546995"/>
+        <updated>2022-03-03T21:06:40.000Z</updated>
+        <summary type="html"><![CDATA[How “latency numbers everybody should know” decreased from 1990–2020]]></summary>
+        <author>
+            <name>isaacimagine</name>
+            <uri>https://news.ycombinator.com/user?id=isaacimagine</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯將對有關烏克蘭戰爭的 "假新聞 "處以15年監禁]]></title>
         <id>https://news.ycombinator.com/item?id=30542596</id>

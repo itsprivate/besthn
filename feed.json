@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30546995",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30546995",
+            "title": "1990-2020年，\"每个人都应该知道的延迟数字 \"是如何减少的",
+            "summary": "How “latency numbers everybody should know” decreased from 1990–2020",
+            "date_modified": "2022-03-03T21:06:40.000Z",
+            "author": {
+                "name": "isaacimagine",
+                "url": "https://news.ycombinator.com/user?id=isaacimagine"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30542596",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30542596",
