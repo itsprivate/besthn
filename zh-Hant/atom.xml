@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-04T17:53:08.265Z</updated>
+    <updated>2022-03-04T18:39:41.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果密碼是強大的、獨特的、沒有被破壞的，就沒有必要改變密碼。]]></title>
+        <id>https://news.ycombinator.com/item?id=30554714</id>
+        <link href="https://news.ycombinator.com/item?id=30554714"/>
+        <updated>2022-03-04T13:53:43.000Z</updated>
+        <summary type="html"><![CDATA[There’s no need to change passwords if they're robust, unique and not breached]]></summary>
+        <author>
+            <name>abzug</name>
+            <uri>https://news.ycombinator.com/user?id=abzug</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界上唯一的一架安-225被俄羅斯空襲摧毀]]></title>
         <id>https://news.ycombinator.com/item?id=30552270</id>

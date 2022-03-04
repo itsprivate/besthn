@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30554714",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30554714",
+            "title": "如果密碼是強大的、獨特的、沒有被破壞的，就沒有必要改變密碼。",
+            "summary": "There’s no need to change passwords if they're robust, unique and not breached",
+            "date_modified": "2022-03-04T13:53:43.000Z",
+            "author": {
+                "name": "abzug",
+                "url": "https://news.ycombinator.com/user?id=abzug"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30552270",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30552270",
