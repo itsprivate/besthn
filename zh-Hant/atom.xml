@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-05T06:57:48.441Z</updated>
+    <updated>2022-03-05T08:15:41.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[可能的BGP劫持]]></title>
+        <id>https://news.ycombinator.com/item?id=30561518</id>
+        <link href="https://news.ycombinator.com/item?id=30561518"/>
+        <updated>2022-03-04T22:34:17.000Z</updated>
+        <summary type="html"><![CDATA[Possible BGP hijack]]></summary>
+        <author>
+            <name>caaqil</name>
+            <uri>https://news.ycombinator.com/user?id=caaqil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘑菇。環保包裝、建築方面的下一個大事件？]]></title>
         <id>https://news.ycombinator.com/item?id=30557088</id>
