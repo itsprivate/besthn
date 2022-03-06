@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-06T17:02:29.496Z</updated>
+    <updated>2022-03-06T22:34:08.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼UberEats上有一個TikTok跟蹤像素，這是什麼垃圾？]]></title>
+        <id>https://news.ycombinator.com/item?id=30579320</id>
+        <link href="https://news.ycombinator.com/item?id=30579320"/>
+        <updated>2022-03-06T17:45:26.000Z</updated>
+        <summary type="html"><![CDATA[Why is there a TikTok tracking pixel on UberEats what is this crap?]]></summary>
+        <author>
+            <name>cmoog</name>
+            <uri>https://news.ycombinator.com/user?id=cmoog</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通過CAPTCHA檢索你的瀏覽歷史]]></title>
         <id>https://news.ycombinator.com/item?id=30569396</id>
