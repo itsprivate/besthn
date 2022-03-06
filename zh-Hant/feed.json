@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30576285",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30576285",
+            "title": "IBM開放全功能樂高顯微鏡設計來源（2020年）",
+            "summary": "IBM open sources fully-functional Lego microscope design (2020)",
+            "date_modified": "2022-03-06T09:41:24.000Z",
+            "author": {
+                "name": "Tomte",
+                "url": "https://news.ycombinator.com/user?id=Tomte"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30566111",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30566111",
