@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30559520",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30559520",
+            "title": "繞過付費牆：一個瀏覽器擴展，幫助繞過選定網站的付費牆。",
+            "summary": "Bypass Paywalls: a browser extension to help bypass paywalls for selected sites",
+            "date_modified": "2022-03-04T19:52:00.000Z",
+            "author": {
+                "name": "zikohh",
+                "url": "https://news.ycombinator.com/user?id=zikohh"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30573660",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30573660",
