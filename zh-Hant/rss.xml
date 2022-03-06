@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 06 Mar 2022 10:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 12:49:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我寫過的最難的程序 (2015)]]></title>
+            <link>https://news.ycombinator.com/item?id=30566111</link>
+            <guid>https://news.ycombinator.com/item?id=30566111</guid>
+            <pubDate>Sat, 05 Mar 2022 10:06:36 GMT</pubDate>
+            <description><![CDATA[The hardest program I've ever written (2015)]]></description>
+        </item>
         <item>
             <title><![CDATA[繞過付費牆：一個瀏覽器擴展，幫助繞過選定網站的付費牆。]]></title>
             <link>https://news.ycombinator.com/item?id=30559520</link>
