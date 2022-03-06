@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-06T16:51:24.584Z</updated>
+    <updated>2022-03-06T17:02:29.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通过CAPTCHA检索你的浏览历史]]></title>
+        <id>https://news.ycombinator.com/item?id=30569396</id>
+        <link href="https://news.ycombinator.com/item?id=30569396"/>
+        <updated>2022-03-05T17:12:39.000Z</updated>
+        <summary type="html"><![CDATA[Retrieving your browsing history through a CAPTCHA]]></summary>
+        <author>
+            <name>varun_ch</name>
+            <uri>https://news.ycombinator.com/user?id=varun_ch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[莫斯科警察拦下人们，要求他们的手机阅读他们的信息]]></title>
         <id>https://news.ycombinator.com/item?id=30578125</id>
