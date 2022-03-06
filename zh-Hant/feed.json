@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30573660",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30573660",
+            "title": "數學上正確的早餐：如何將一個百吉餅切成兩個相連的部分",
+            "summary": "Mathematically correct breakfast: How to slice a bagel into two linked halves",
+            "date_modified": "2022-03-06T00:39:32.000Z",
+            "author": {
+                "name": "graderjs",
+                "url": "https://news.ycombinator.com/user?id=graderjs"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30572290",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30572290",
