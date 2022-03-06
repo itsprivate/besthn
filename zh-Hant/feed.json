@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30580444",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30580444",
+            "title": "Windows Defender已經足夠了，如果你對它進行加固的話",
+            "summary": "Windows Defender is enough, if you harden it",
+            "date_modified": "2022-03-06T19:37:32.000Z",
+            "author": {
+                "name": "h0ek",
+                "url": "https://news.ycombinator.com/user?id=h0ek"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30579320",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30579320",
