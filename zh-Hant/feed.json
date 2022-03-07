@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30584649",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30584649",
+            "title": "做到這一點 (2004)",
+            "summary": "Do It (2004)",
+            "date_modified": "2022-03-07T06:04:21.000Z",
+            "author": {
+                "name": "kristianp",
+                "url": "https://news.ycombinator.com/user?id=kristianp"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30583720",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30583720",
