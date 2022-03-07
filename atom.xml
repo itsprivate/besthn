@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-07T15:56:44.576Z</updated>
+    <updated>2022-03-07T16:17:06.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[零卢比纸币（2015年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30583720</id>
+        <link href="https://news.ycombinator.com/item?id=30583720"/>
+        <updated>2022-03-07T02:54:13.000Z</updated>
+        <summary type="html"><![CDATA[Zero rupee note (2015)]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯将使软件盗版合法化]]></title>
         <id>https://news.ycombinator.com/item?id=30586211</id>

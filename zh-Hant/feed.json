@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30583720",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30583720",
+            "title": "零盧比紙幣（2015年）",
+            "summary": "Zero rupee note (2015)",
+            "date_modified": "2022-03-07T02:54:13.000Z",
+            "author": {
+                "name": "PaulHoule",
+                "url": "https://news.ycombinator.com/user?id=PaulHoule"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30586211",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30586211",
