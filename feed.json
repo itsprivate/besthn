@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30579884",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30579884",
+            "title": "C++小抄",
+            "summary": "C++ Cheat Sheets",
+            "date_modified": "2022-03-06T18:41:19.000Z",
+            "author": {
+                "name": "ibobev",
+                "url": "https://news.ycombinator.com/user?id=ibobev"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30582986",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30582986",
