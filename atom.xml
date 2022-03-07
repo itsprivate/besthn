@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-06T23:51:34.360Z</updated>
+    <updated>2022-03-07T03:04:14.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的蜥蜴大脑比不上无限的滚动]]></title>
+        <id>https://news.ycombinator.com/item?id=30582202</id>
+        <link href="https://news.ycombinator.com/item?id=30582202"/>
+        <updated>2022-03-06T23:09:06.000Z</updated>
+        <summary type="html"><![CDATA[My lizard brain is no match for infinite scroll]]></summary>
+        <author>
+            <name>otras</name>
+            <uri>https://news.ycombinator.com/user?id=otras</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows Defender已经足够了，如果你对它进行加固的话]]></title>
         <id>https://news.ycombinator.com/item?id=30580444</id>
