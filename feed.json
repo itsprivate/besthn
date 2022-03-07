@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30586740",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30586740",
+            "title": "肮脏的管道漏洞",
+            "summary": "The Dirty Pipe Vulnerability",
+            "date_modified": "2022-03-07T12:01:43.000Z",
+            "author": {
+                "name": "max_k",
+                "url": "https://news.ycombinator.com/user?id=max_k"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30583808",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30583808",
+            "title": "现代硬件的算法",
+            "summary": "Algorithms for Modern Hardware",
+            "date_modified": "2022-03-07T03:09:30.000Z",
+            "author": {
+                "name": "mooreds",
+                "url": "https://news.ycombinator.com/user?id=mooreds"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30572581",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30572581",

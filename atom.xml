@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-07T14:56:30.840Z</updated>
+    <updated>2022-03-07T15:37:01.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[肮脏的管道漏洞]]></title>
+        <id>https://news.ycombinator.com/item?id=30586740</id>
+        <link href="https://news.ycombinator.com/item?id=30586740"/>
+        <updated>2022-03-07T12:01:43.000Z</updated>
+        <summary type="html"><![CDATA[The Dirty Pipe Vulnerability]]></summary>
+        <author>
+            <name>max_k</name>
+            <uri>https://news.ycombinator.com/user?id=max_k</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现代硬件的算法]]></title>
+        <id>https://news.ycombinator.com/item?id=30583808</id>
+        <link href="https://news.ycombinator.com/item?id=30583808"/>
+        <updated>2022-03-07T03:09:30.000Z</updated>
+        <summary type="html"><![CDATA[Algorithms for Modern Hardware]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[万事达卡暂停在俄罗斯的所有服务]]></title>
         <id>https://news.ycombinator.com/item?id=30572581</id>
