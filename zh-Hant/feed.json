@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30600539",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30600539",
+            "title": "上世紀的鉛暴露使一半美國人的智商分數縮水",
+            "summary": "Lead exposure in last century shrunk IQ scores of half of Americans",
+            "date_modified": "2022-03-08T14:54:14.000Z",
+            "author": {
+                "name": "gmays",
+                "url": "https://news.ycombinator.com/user?id=gmays"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30588089",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30588089",

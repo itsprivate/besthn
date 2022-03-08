@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-08T18:43:04.790Z</updated>
+    <updated>2022-03-08T19:31:01.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[上世纪的铅暴露使一半美国人的智商分数缩水]]></title>
+        <id>https://news.ycombinator.com/item?id=30600539</id>
+        <link href="https://news.ycombinator.com/item?id=30600539"/>
+        <updated>2022-03-08T14:54:14.000Z</updated>
+        <summary type="html"><![CDATA[Lead exposure in last century shrunk IQ scores of half of Americans]]></summary>
+        <author>
+            <name>gmays</name>
+            <uri>https://news.ycombinator.com/user?id=gmays</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[所有的桌面软件计算器都是错误的，所以我不得不建立自己的]]></title>
         <id>https://news.ycombinator.com/item?id=30588089</id>
