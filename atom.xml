@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-07T23:19:03.776Z</updated>
+    <updated>2022-03-08T02:06:20.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[威胁形势的最新情况]]></title>
+        <id>https://news.ycombinator.com/item?id=30594042</id>
+        <link href="https://news.ycombinator.com/item?id=30594042"/>
+        <updated>2022-03-07T22:13:45.000Z</updated>
+        <summary type="html"><![CDATA[An update on the threat landscape]]></summary>
+        <author>
+            <name>arkadiyt</name>
+            <uri>https://news.ycombinator.com/user?id=arkadiyt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲受到攻击的SATCOM终端：一个合理的分析]]></title>
+        <id>https://news.ycombinator.com/item?id=30589212</id>
+        <link href="https://news.ycombinator.com/item?id=30589212"/>
+        <updated>2022-03-07T15:52:31.000Z</updated>
+        <summary type="html"><![CDATA[SATCOM terminals under attack in Europe: a plausible analysis]]></summary>
+        <author>
+            <name>mritzmann</name>
+            <uri>https://news.ycombinator.com/user?id=mritzmann</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[星象仪]]></title>
+        <id>https://news.ycombinator.com/item?id=30574809</id>
+        <link href="https://news.ycombinator.com/item?id=30574809"/>
+        <updated>2022-03-06T03:36:22.000Z</updated>
+        <summary type="html"><![CDATA[Stellarium]]></summary>
+        <author>
+            <name>throwoutway</name>
+            <uri>https://news.ycombinator.com/user?id=throwoutway</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[所以你想学习数学]]></title>
         <id>https://news.ycombinator.com/item?id=30591177</id>
