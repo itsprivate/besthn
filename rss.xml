@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 08 Mar 2022 07:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 09:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[www.userfriendly.org 似乎已经消失了，RIP Erwin, Dust Puppy and Co :(]]></title>
+            <link>https://news.ycombinator.com/item?id=30591269</link>
+            <guid>https://news.ycombinator.com/item?id=30591269</guid>
+            <pubDate>Mon, 07 Mar 2022 18:13:05 GMT</pubDate>
+            <description><![CDATA[www.userfriendly.org seems to be gone, RIP Erwin, Dust Puppy and Co :(]]></description>
+        </item>
         <item>
             <title><![CDATA[神经网络可以计算任何函数的直观证明]]></title>
             <link>https://news.ycombinator.com/item?id=30576943</link>

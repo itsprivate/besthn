@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30591269",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30591269",
+            "title": "www.userfriendly.org 似乎已经消失了，RIP Erwin, Dust Puppy and Co :(",
+            "summary": "www.userfriendly.org seems to be gone, RIP Erwin, Dust Puppy and Co :(",
+            "date_modified": "2022-03-07T18:13:05.000Z",
+            "author": {
+                "name": "hougaard",
+                "url": "https://news.ycombinator.com/user?id=hougaard"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30576943",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30576943",
