@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-08T13:39:14.853Z</updated>
+    <updated>2022-03-08T18:18:27.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌將收購Mandiant]]></title>
+        <id>https://news.ycombinator.com/item?id=30598841</id>
+        <link href="https://news.ycombinator.com/item?id=30598841"/>
+        <updated>2022-03-08T11:39:50.000Z</updated>
+        <summary type="html"><![CDATA[Google to Acquire Mandiant]]></summary>
+        <author>
+            <name>ideksec</name>
+            <uri>https://news.ycombinator.com/user?id=ideksec</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何製作(幾乎)任何東西(2020年)]]></title>
         <id>https://news.ycombinator.com/item?id=30589109</id>
