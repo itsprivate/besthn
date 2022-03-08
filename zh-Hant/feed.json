@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30597187",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30597187",
+            "title": "我是我認識的最健康的人，而我卻得了癌症",
+            "summary": "I am the healthiest person I know, and I got cancer",
+            "date_modified": "2022-03-08T07:00:04.000Z",
+            "author": {
+                "name": "codetiger",
+                "url": "https://news.ycombinator.com/user?id=codetiger"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30591269",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30591269",
