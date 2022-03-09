@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-09T12:02:03.175Z</updated>
+    <updated>2022-03-09T12:23:01.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果發佈27英寸5K工作室顯示器]]></title>
+        <id>https://news.ycombinator.com/item?id=30604375</id>
+        <link href="https://news.ycombinator.com/item?id=30604375"/>
+        <updated>2022-03-08T18:56:42.000Z</updated>
+        <summary type="html"><![CDATA[Apple announces 27-inch 5K Studio Display]]></summary>
+        <author>
+            <name>sparshgupta</name>
+            <uri>https://news.ycombinator.com/user?id=sparshgupta</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebGPU - 所有的核心，沒有畫布]]></title>
+        <id>https://news.ycombinator.com/item?id=30600525</id>
+        <link href="https://news.ycombinator.com/item?id=30600525"/>
+        <updated>2022-03-08T14:53:43.000Z</updated>
+        <summary type="html"><![CDATA[WebGPU – All of the cores, none of the canvas]]></summary>
+        <author>
+            <name>jasim</name>
+            <uri>https://news.ycombinator.com/user?id=jasim</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘋果M1 Ultra]]></title>
+        <id>https://news.ycombinator.com/item?id=30604470</id>
+        <link href="https://news.ycombinator.com/item?id=30604470"/>
+        <updated>2022-03-08T19:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Apple M1 Ultra]]></summary>
+        <author>
+            <name>davidbarker</name>
+            <uri>https://news.ycombinator.com/user?id=davidbarker</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘋果Mac工作室]]></title>
+        <id>https://news.ycombinator.com/item?id=30604447</id>
+        <link href="https://news.ycombinator.com/item?id=30604447"/>
+        <updated>2022-03-08T18:59:05.000Z</updated>
+        <summary type="html"><![CDATA[Apple Mac Studio]]></summary>
+        <author>
+            <name>0xedb</name>
+            <uri>https://news.ycombinator.com/user?id=0xedb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的沉默的大多數。不發推特的人]]></title>
+        <id>https://news.ycombinator.com/item?id=30603801</id>
+        <link href="https://news.ycombinator.com/item?id=30603801"/>
+        <updated>2022-03-08T18:30:49.000Z</updated>
+        <summary type="html"><![CDATA[The new silent majority: People who don't tweet]]></summary>
+        <author>
+            <name>laurex</name>
+            <uri>https://news.ycombinator.com/user?id=laurex</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以色列4歲兒童小兒麻痺症檢測呈陽性，為1989年以來首例]]></title>
+        <id>https://news.ycombinator.com/item?id=30583059</id>
+        <link href="https://news.ycombinator.com/item?id=30583059"/>
+        <updated>2022-03-07T01:17:57.000Z</updated>
+        <summary type="html"><![CDATA[Four-year-old Israeli child tests positive for polio, first case since 1989]]></summary>
+        <author>
+            <name>wslh</name>
+            <uri>https://news.ycombinator.com/user?id=wslh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上世紀的鉛暴露使一半美國人的智商分數縮水]]></title>
         <id>https://news.ycombinator.com/item?id=30600539</id>

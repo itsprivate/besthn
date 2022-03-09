@@ -11,6 +11,78 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30604375",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30604375",
+            "title": "蘋果發佈27英寸5K工作室顯示器",
+            "summary": "Apple announces 27-inch 5K Studio Display",
+            "date_modified": "2022-03-08T18:56:42.000Z",
+            "author": {
+                "name": "sparshgupta",
+                "url": "https://news.ycombinator.com/user?id=sparshgupta"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30600525",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30600525",
+            "title": "WebGPU - 所有的核心，沒有畫布",
+            "summary": "WebGPU – All of the cores, none of the canvas",
+            "date_modified": "2022-03-08T14:53:43.000Z",
+            "author": {
+                "name": "jasim",
+                "url": "https://news.ycombinator.com/user?id=jasim"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30604470",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30604470",
+            "title": "蘋果M1 Ultra",
+            "summary": "Apple M1 Ultra",
+            "date_modified": "2022-03-08T19:00:14.000Z",
+            "author": {
+                "name": "davidbarker",
+                "url": "https://news.ycombinator.com/user?id=davidbarker"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30604447",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30604447",
+            "title": "蘋果Mac工作室",
+            "summary": "Apple Mac Studio",
+            "date_modified": "2022-03-08T18:59:05.000Z",
+            "author": {
+                "name": "0xedb",
+                "url": "https://news.ycombinator.com/user?id=0xedb"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30603801",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30603801",
+            "title": "新的沉默的大多數。不發推特的人",
+            "summary": "The new silent majority: People who don't tweet",
+            "date_modified": "2022-03-08T18:30:49.000Z",
+            "author": {
+                "name": "laurex",
+                "url": "https://news.ycombinator.com/user?id=laurex"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30583059",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30583059",
+            "title": "以色列4歲兒童小兒麻痺症檢測呈陽性，為1989年以來首例",
+            "summary": "Four-year-old Israeli child tests positive for polio, first case since 1989",
+            "date_modified": "2022-03-07T01:17:57.000Z",
+            "author": {
+                "name": "wslh",
+                "url": "https://news.ycombinator.com/user?id=wslh"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30600539",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30600539",
