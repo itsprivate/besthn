@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-10T09:54:56.656Z</updated>
+    <updated>2022-03-10T17:25:02.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[f.lux]]></title>
+        <id>https://news.ycombinator.com/item?id=30626803</id>
+        <link href="https://news.ycombinator.com/item?id=30626803"/>
+        <updated>2022-03-10T13:46:41.000Z</updated>
+        <summary type="html"><![CDATA[f.lux]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有什么奇怪的减肥技巧吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30617118</id>
+        <link href="https://news.ycombinator.com/item?id=30617118"/>
+        <updated>2022-03-09T17:15:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Any weird tips for weight loss?]]></summary>
+        <author>
+            <name>fatmoron</name>
+            <uri>https://news.ycombinator.com/user?id=fatmoron</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泄愤不起作用]]></title>
+        <id>https://news.ycombinator.com/item?id=30601594</id>
+        <link href="https://news.ycombinator.com/item?id=30601594"/>
+        <updated>2022-03-08T16:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Venting doesn’t work]]></summary>
+        <author>
+            <name>miobrien</name>
+            <uri>https://news.ycombinator.com/user?id=miobrien</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PipeWire: A year in review and a look ahead]]></title>
         <id>https://news.ycombinator.com/item?id=30611794</id>

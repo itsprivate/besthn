@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30626803",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30626803",
+            "title": "f.lux",
+            "summary": "f.lux",
+            "date_modified": "2022-03-10T13:46:41.000Z",
+            "author": {
+                "name": "graderjs",
+                "url": "https://news.ycombinator.com/user?id=graderjs"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30617118",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30617118",
+            "title": "有什麼奇怪的減肥技巧嗎？",
+            "summary": "Ask HN: Any weird tips for weight loss?",
+            "date_modified": "2022-03-09T17:15:06.000Z",
+            "author": {
+                "name": "fatmoron",
+                "url": "https://news.ycombinator.com/user?id=fatmoron"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30601594",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30601594",
+            "title": "洩憤不起作用",
+            "summary": "Venting doesn’t work",
+            "date_modified": "2022-03-08T16:15:45.000Z",
+            "author": {
+                "name": "miobrien",
+                "url": "https://news.ycombinator.com/user?id=miobrien"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30611794",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30611794",
