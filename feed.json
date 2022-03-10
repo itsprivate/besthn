@@ -11,6 +11,258 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30621809",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30621809",
+            "title": "Appeal to Ruby Community from Kharkiv Rubyist",
+            "summary": "Appeal to Ruby Community from Kharkiv Rubyist",
+            "date_modified": "2022-03-10T00:28:04.000Z",
+            "author": {
+                "name": "stanislavb",
+                "url": "https://news.ycombinator.com/user?id=stanislavb"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30620802",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30620802",
+            "title": "Barcode Detection API",
+            "summary": "Barcode Detection API",
+            "date_modified": "2022-03-09T22:26:05.000Z",
+            "author": {
+                "name": "addcninblue",
+                "url": "https://news.ycombinator.com/user?id=addcninblue"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30617812",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30617812",
+            "title": "Amazon lied about using seller data, lawmakers say, urging DOJ investigation",
+            "summary": "Amazon lied about using seller data, lawmakers say, urging DOJ investigation",
+            "date_modified": "2022-03-09T17:57:36.000Z",
+            "author": {
+                "name": "ProAm",
+                "url": "https://news.ycombinator.com/user?id=ProAm"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30617723",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30617723",
+            "title": "Blender 3.1",
+            "summary": "Blender 3.1",
+            "date_modified": "2022-03-09T17:52:11.000Z",
+            "author": {
+                "name": "mkaic",
+                "url": "https://news.ycombinator.com/user?id=mkaic"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30615637",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30615637",
+            "title": "M",
+            "summary": "Man given genetically modified pig heart dies",
+            "date_modified": "2022-03-09T15:39:38.000Z",
+            "author": {
+                "name": "otoolep",
+                "url": "https://news.ycombinator.com/user?id=otoolep"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30615470",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30615470",
+            "title": "Postgres Auditing in 150 lines of SQL",
+            "summary": "Postgres Auditing in 150 lines of SQL",
+            "date_modified": "2022-03-09T15:26:35.000Z",
+            "author": {
+                "name": "oliverrice",
+                "url": "https://news.ycombinator.com/user?id=oliverrice"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30615114",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30615114",
+            "title": "Death by PowerPoint: the slide that killed seven people (2019)",
+            "summary": "Death by PowerPoint: the slide that killed seven people (2019)",
+            "date_modified": "2022-03-09T15:01:09.000Z",
+            "author": {
+                "name": "tk75x",
+                "url": "https://news.ycombinator.com/user?id=tk75x"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30614987",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30614987",
+            "title": "Twitter is now available on Tor",
+            "summary": "Twitter is now available on Tor",
+            "date_modified": "2022-03-09T14:50:28.000Z",
+            "author": {
+                "name": "pcaversaccio",
+                "url": "https://news.ycombinator.com/user?id=pcaversaccio"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30614623",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30614623",
+            "title": "我写过的一些微小的个人程序",
+            "summary": "Some tiny personal programs I've written",
+            "date_modified": "2022-03-09T14:19:07.000Z",
+            "author": {
+                "name": "atg_abhishek",
+                "url": "https://news.ycombinator.com/user?id=atg_abhishek"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30614251",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30614251",
+            "title": "中国的国家媒体购买了Meta广告，推动俄罗斯的路线。",
+            "summary": "China's state media buys Meta ads pushing Russia's line on war",
+            "date_modified": "2022-03-09T13:37:26.000Z",
+            "author": {
+                "name": "sofixa",
+                "url": "https://news.ycombinator.com/user?id=sofixa"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30613967",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30613967",
+            "title": "史蒂夫-乔布斯在一次主题演讲中诋毁我的那一天（2010年）",
+            "summary": "The day Steve Jobs dissed me in a keynote (2010)",
+            "date_modified": "2022-03-09T13:03:56.000Z",
+            "author": {
+                "name": "graderjs",
+                "url": "https://news.ycombinator.com/user?id=graderjs"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30611859",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30611859",
+            "title": "ǞǞǞ [...] ",
+            "summary": "Endurance: Shackleton's lost ship is found in Antarctic",
+            "date_modified": "2022-03-09T07:30:56.000Z",
+            "author": {
+                "name": "0xedb",
+                "url": "https://news.ycombinator.com/user?id=0xedb"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30611748",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30611748",
+            "title": "Elementary OS is imploding",
+            "summary": "Elementary OS is imploding",
+            "date_modified": "2022-03-09T07:13:26.000Z",
+            "author": {
+                "name": "josteink",
+                "url": "https://news.ycombinator.com/user?id=josteink"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30600304",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30600304",
+            "title": "聪明的开发商做出错误战略决策的一种方式",
+            "summary": "One Way Smart Developers Make Bad Strategic Decisions",
+            "date_modified": "2022-03-08T14:35:45.000Z",
+            "author": {
+                "name": "ScottWRobinson",
+                "url": "https://news.ycombinator.com/user?id=ScottWRobinson"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30594233",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30594233",
+            "title": "How does database indexing work? (2008)",
+            "summary": "How does database indexing work? (2008)",
+            "date_modified": "2022-03-07T22:30:40.000Z",
+            "author": {
+                "name": "luu",
+                "url": "https://news.ycombinator.com/user?id=luu"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30593164",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30593164",
+            "title": "How to get the most out of your 1:1s",
+            "summary": "How to get the most out of your 1:1s",
+            "date_modified": "2022-03-07T20:50:52.000Z",
+            "author": {
+                "name": "erikwiffin",
+                "url": "https://news.ycombinator.com/user?id=erikwiffin"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30611367",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30611367",
+            "title": "Hello World中的错误",
+            "summary": "Bugs in Hello World",
+            "date_modified": "2022-03-09T05:59:32.000Z",
+            "author": {
+                "name": "sizediterable",
+                "url": "https://news.ycombinator.com/user?id=sizediterable"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30605356",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30605356",
+            "title": "把它放在一个iO_uring上。利用Linux的内核",
+            "summary": "Put an io_uring on it: Exploiting the Linux kernel",
+            "date_modified": "2022-03-08T19:35:54.000Z",
+            "author": {
+                "name": "blopeur",
+                "url": "https://news.ycombinator.com/user?id=blopeur"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30603605",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30603605",
+            "title": "新款iPhone SE",
+            "summary": "New iPhone SE",
+            "date_modified": "2022-03-08T18:21:30.000Z",
+            "author": {
+                "name": "0xedb",
+                "url": "https://news.ycombinator.com/user?id=0xedb"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30605252",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30605252",
+            "title": "静态洪流网站，通过BitTorrent对200万条记录进行点对点查询",
+            "summary": "Static torrent website with peer-to-peer queries over BitTorrent on 2M records",
+            "date_modified": "2022-03-08T19:32:09.000Z",
+            "author": {
+                "name": "voigt",
+                "url": "https://news.ycombinator.com/user?id=voigt"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30602060",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30602060",
+            "title": "美国生产的石油足以满足其需求，那么我们为什么要进口原油？",
+            "summary": "America produces enough oil to meet its needs, so why do we import crude?",
+            "date_modified": "2022-03-08T16:47:02.000Z",
+            "author": {
+                "name": "DocFeind",
+                "url": "https://news.ycombinator.com/user?id=DocFeind"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30604375",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30604375",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-09T12:23:01.013Z</updated>
+    <updated>2022-03-10T09:35:43.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,237 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Appeal to Ruby Community from Kharkiv Rubyist]]></title>
+        <id>https://news.ycombinator.com/item?id=30621809</id>
+        <link href="https://news.ycombinator.com/item?id=30621809"/>
+        <updated>2022-03-10T00:28:04.000Z</updated>
+        <summary type="html"><![CDATA[Appeal to Ruby Community from Kharkiv Rubyist]]></summary>
+        <author>
+            <name>stanislavb</name>
+            <uri>https://news.ycombinator.com/user?id=stanislavb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barcode Detection API]]></title>
+        <id>https://news.ycombinator.com/item?id=30620802</id>
+        <link href="https://news.ycombinator.com/item?id=30620802"/>
+        <updated>2022-03-09T22:26:05.000Z</updated>
+        <summary type="html"><![CDATA[Barcode Detection API]]></summary>
+        <author>
+            <name>addcninblue</name>
+            <uri>https://news.ycombinator.com/user?id=addcninblue</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon lied about using seller data, lawmakers say, urging DOJ investigation]]></title>
+        <id>https://news.ycombinator.com/item?id=30617812</id>
+        <link href="https://news.ycombinator.com/item?id=30617812"/>
+        <updated>2022-03-09T17:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Amazon lied about using seller data, lawmakers say, urging DOJ investigation]]></summary>
+        <author>
+            <name>ProAm</name>
+            <uri>https://news.ycombinator.com/user?id=ProAm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender 3.1]]></title>
+        <id>https://news.ycombinator.com/item?id=30617723</id>
+        <link href="https://news.ycombinator.com/item?id=30617723"/>
+        <updated>2022-03-09T17:52:11.000Z</updated>
+        <summary type="html"><![CDATA[Blender 3.1]]></summary>
+        <author>
+            <name>mkaic</name>
+            <uri>https://news.ycombinator.com/user?id=mkaic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M]]></title>
+        <id>https://news.ycombinator.com/item?id=30615637</id>
+        <link href="https://news.ycombinator.com/item?id=30615637"/>
+        <updated>2022-03-09T15:39:38.000Z</updated>
+        <summary type="html"><![CDATA[Man given genetically modified pig heart dies]]></summary>
+        <author>
+            <name>otoolep</name>
+            <uri>https://news.ycombinator.com/user?id=otoolep</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postgres Auditing in 150 lines of SQL]]></title>
+        <id>https://news.ycombinator.com/item?id=30615470</id>
+        <link href="https://news.ycombinator.com/item?id=30615470"/>
+        <updated>2022-03-09T15:26:35.000Z</updated>
+        <summary type="html"><![CDATA[Postgres Auditing in 150 lines of SQL]]></summary>
+        <author>
+            <name>oliverrice</name>
+            <uri>https://news.ycombinator.com/user?id=oliverrice</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Death by PowerPoint: the slide that killed seven people (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=30615114</id>
+        <link href="https://news.ycombinator.com/item?id=30615114"/>
+        <updated>2022-03-09T15:01:09.000Z</updated>
+        <summary type="html"><![CDATA[Death by PowerPoint: the slide that killed seven people (2019)]]></summary>
+        <author>
+            <name>tk75x</name>
+            <uri>https://news.ycombinator.com/user?id=tk75x</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter is now available on Tor]]></title>
+        <id>https://news.ycombinator.com/item?id=30614987</id>
+        <link href="https://news.ycombinator.com/item?id=30614987"/>
+        <updated>2022-03-09T14:50:28.000Z</updated>
+        <summary type="html"><![CDATA[Twitter is now available on Tor]]></summary>
+        <author>
+            <name>pcaversaccio</name>
+            <uri>https://news.ycombinator.com/user?id=pcaversaccio</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我写过的一些微小的个人程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30614623</id>
+        <link href="https://news.ycombinator.com/item?id=30614623"/>
+        <updated>2022-03-09T14:19:07.000Z</updated>
+        <summary type="html"><![CDATA[Some tiny personal programs I've written]]></summary>
+        <author>
+            <name>atg_abhishek</name>
+            <uri>https://news.ycombinator.com/user?id=atg_abhishek</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国的国家媒体购买了Meta广告，推动俄罗斯的路线。]]></title>
+        <id>https://news.ycombinator.com/item?id=30614251</id>
+        <link href="https://news.ycombinator.com/item?id=30614251"/>
+        <updated>2022-03-09T13:37:26.000Z</updated>
+        <summary type="html"><![CDATA[China's state media buys Meta ads pushing Russia's line on war]]></summary>
+        <author>
+            <name>sofixa</name>
+            <uri>https://news.ycombinator.com/user?id=sofixa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[史蒂夫-乔布斯在一次主题演讲中诋毁我的那一天（2010年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30613967</id>
+        <link href="https://news.ycombinator.com/item?id=30613967"/>
+        <updated>2022-03-09T13:03:56.000Z</updated>
+        <summary type="html"><![CDATA[The day Steve Jobs dissed me in a keynote (2010)]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ǞǞǞ [...] ]]></title>
+        <id>https://news.ycombinator.com/item?id=30611859</id>
+        <link href="https://news.ycombinator.com/item?id=30611859"/>
+        <updated>2022-03-09T07:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Endurance: Shackleton's lost ship is found in Antarctic]]></summary>
+        <author>
+            <name>0xedb</name>
+            <uri>https://news.ycombinator.com/user?id=0xedb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elementary OS is imploding]]></title>
+        <id>https://news.ycombinator.com/item?id=30611748</id>
+        <link href="https://news.ycombinator.com/item?id=30611748"/>
+        <updated>2022-03-09T07:13:26.000Z</updated>
+        <summary type="html"><![CDATA[Elementary OS is imploding]]></summary>
+        <author>
+            <name>josteink</name>
+            <uri>https://news.ycombinator.com/user?id=josteink</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聪明的开发商做出错误战略决策的一种方式]]></title>
+        <id>https://news.ycombinator.com/item?id=30600304</id>
+        <link href="https://news.ycombinator.com/item?id=30600304"/>
+        <updated>2022-03-08T14:35:45.000Z</updated>
+        <summary type="html"><![CDATA[One Way Smart Developers Make Bad Strategic Decisions]]></summary>
+        <author>
+            <name>ScottWRobinson</name>
+            <uri>https://news.ycombinator.com/user?id=ScottWRobinson</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How does database indexing work? (2008)]]></title>
+        <id>https://news.ycombinator.com/item?id=30594233</id>
+        <link href="https://news.ycombinator.com/item?id=30594233"/>
+        <updated>2022-03-07T22:30:40.000Z</updated>
+        <summary type="html"><![CDATA[How does database indexing work? (2008)]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get the most out of your 1:1s]]></title>
+        <id>https://news.ycombinator.com/item?id=30593164</id>
+        <link href="https://news.ycombinator.com/item?id=30593164"/>
+        <updated>2022-03-07T20:50:52.000Z</updated>
+        <summary type="html"><![CDATA[How to get the most out of your 1:1s]]></summary>
+        <author>
+            <name>erikwiffin</name>
+            <uri>https://news.ycombinator.com/user?id=erikwiffin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello World中的错误]]></title>
+        <id>https://news.ycombinator.com/item?id=30611367</id>
+        <link href="https://news.ycombinator.com/item?id=30611367"/>
+        <updated>2022-03-09T05:59:32.000Z</updated>
+        <summary type="html"><![CDATA[Bugs in Hello World]]></summary>
+        <author>
+            <name>sizediterable</name>
+            <uri>https://news.ycombinator.com/user?id=sizediterable</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把它放在一个iO_uring上。利用Linux的内核]]></title>
+        <id>https://news.ycombinator.com/item?id=30605356</id>
+        <link href="https://news.ycombinator.com/item?id=30605356"/>
+        <updated>2022-03-08T19:35:54.000Z</updated>
+        <summary type="html"><![CDATA[Put an io_uring on it: Exploiting the Linux kernel]]></summary>
+        <author>
+            <name>blopeur</name>
+            <uri>https://news.ycombinator.com/user?id=blopeur</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新款iPhone SE]]></title>
+        <id>https://news.ycombinator.com/item?id=30603605</id>
+        <link href="https://news.ycombinator.com/item?id=30603605"/>
+        <updated>2022-03-08T18:21:30.000Z</updated>
+        <summary type="html"><![CDATA[New iPhone SE]]></summary>
+        <author>
+            <name>0xedb</name>
+            <uri>https://news.ycombinator.com/user?id=0xedb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[静态洪流网站，通过BitTorrent对200万条记录进行点对点查询]]></title>
+        <id>https://news.ycombinator.com/item?id=30605252</id>
+        <link href="https://news.ycombinator.com/item?id=30605252"/>
+        <updated>2022-03-08T19:32:09.000Z</updated>
+        <summary type="html"><![CDATA[Static torrent website with peer-to-peer queries over BitTorrent on 2M records]]></summary>
+        <author>
+            <name>voigt</name>
+            <uri>https://news.ycombinator.com/user?id=voigt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国生产的石油足以满足其需求，那么我们为什么要进口原油？]]></title>
+        <id>https://news.ycombinator.com/item?id=30602060</id>
+        <link href="https://news.ycombinator.com/item?id=30602060"/>
+        <updated>2022-03-08T16:47:02.000Z</updated>
+        <summary type="html"><![CDATA[America produces enough oil to meet its needs, so why do we import crude?]]></summary>
+        <author>
+            <name>DocFeind</name>
+            <uri>https://news.ycombinator.com/user?id=DocFeind</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果发布27英寸5K工作室显示器]]></title>
         <id>https://news.ycombinator.com/item?id=30604375</id>
