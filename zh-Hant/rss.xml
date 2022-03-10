@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 10 Mar 2022 19:40:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 21:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[820GB的Roskomnadzor（俄羅斯政府審查組織）的數據庫傾倒。]]></title>
+            <link>https://news.ycombinator.com/item?id=30630666</link>
+            <guid>https://news.ycombinator.com/item?id=30630666</guid>
+            <pubDate>Thu, 10 Mar 2022 18:39:52 GMT</pubDate>
+            <description><![CDATA[820GB Database Dump of Roskomnadzor (Russian Government Censorship Organization)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[DuckDuckGo "降低與俄羅斯虛假信息有關的網站排名"]]></title>
+            <link>https://news.ycombinator.com/item?id=30627892</link>
+            <guid>https://news.ycombinator.com/item?id=30627892</guid>
+            <pubDate>Thu, 10 Mar 2022 15:22:34 GMT</pubDate>
+            <description><![CDATA[DuckDuckGo “down-rank sites associated with Russian disinformation”]]></description>
+        </item>
         <item>
             <title><![CDATA[Stripe Crypto]]></title>
             <link>https://news.ycombinator.com/item?id=30628677</link>

@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30630666",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30630666",
+            "title": "820GB的Roskomnadzor（俄罗斯政府审查组织）的数据库倾倒。",
+            "summary": "820GB Database Dump of Roskomnadzor (Russian Government Censorship Organization)",
+            "date_modified": "2022-03-10T18:39:52.000Z",
+            "author": {
+                "name": "chockchocschoir",
+                "url": "https://news.ycombinator.com/user?id=chockchocschoir"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30627892",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30627892",
+            "title": "DuckDuckGo \"降低与俄罗斯虚假信息有关的网站排名\"",
+            "summary": "DuckDuckGo “down-rank sites associated with Russian disinformation”",
+            "date_modified": "2022-03-10T15:22:34.000Z",
+            "author": {
+                "name": "thallium205",
+                "url": "https://news.ycombinator.com/user?id=thallium205"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30628677",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30628677",
