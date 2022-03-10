@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-10T09:35:43.533Z</updated>
+    <updated>2022-03-10T09:54:56.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PipeWire: A year in review and a look ahead]]></title>
+        <id>https://news.ycombinator.com/item?id=30611794</id>
+        <link href="https://news.ycombinator.com/item?id=30611794"/>
+        <updated>2022-03-09T07:20:30.000Z</updated>
+        <summary type="html"><![CDATA[PipeWire: A year in review and a look ahead]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Appeal to Ruby Community from Kharkiv Rubyist]]></title>
         <id>https://news.ycombinator.com/item?id=30621809</id>
