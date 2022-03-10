@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-10T17:25:02.269Z</updated>
+    <updated>2022-03-10T17:48:19.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[值得学习的Python内置程序(2019年)]]></title>
+        <id>https://news.ycombinator.com/item?id=30621552</id>
+        <link href="https://news.ycombinator.com/item?id=30621552"/>
+        <updated>2022-03-09T23:53:37.000Z</updated>
+        <summary type="html"><![CDATA[Python built-ins worth learning (2019)]]></summary>
+        <author>
+            <name>type0</name>
+            <uri>https://news.ycombinator.com/user?id=type0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[f.lux]]></title>
         <id>https://news.ycombinator.com/item?id=30626803</id>
