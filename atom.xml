@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-10T18:58:44.252Z</updated>
+    <updated>2022-03-10T19:40:59.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Stripe Crypto]]></title>
+        <id>https://news.ycombinator.com/item?id=30628677</id>
+        <link href="https://news.ycombinator.com/item?id=30628677"/>
+        <updated>2022-03-10T16:24:27.000Z</updated>
+        <summary type="html"><![CDATA[Stripe Crypto]]></summary>
+        <author>
+            <name>seabj0rn</name>
+            <uri>https://news.ycombinator.com/user?id=seabj0rn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[红宝石在一起]]></title>
         <id>https://news.ycombinator.com/item?id=30622186</id>
