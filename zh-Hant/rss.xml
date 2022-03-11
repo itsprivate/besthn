@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 11 Mar 2022 16:52:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 22:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美國取消了對完全自動駕駛汽車的人為控制要求]]></title>
+            <link>https://news.ycombinator.com/item?id=30640947</link>
+            <guid>https://news.ycombinator.com/item?id=30640947</guid>
+            <pubDate>Fri, 11 Mar 2022 15:20:45 GMT</pubDate>
+            <description><![CDATA[U.S. eliminates human controls requirement for fully automated vehicles]]></description>
+        </item>
+        <item>
+            <title><![CDATA[HeyWhatsThat - 計算地球上任何一點的視線範圍和全景圖]]></title>
+            <link>https://news.ycombinator.com/item?id=30640846</link>
+            <guid>https://news.ycombinator.com/item?id=30640846</guid>
+            <pubDate>Fri, 11 Mar 2022 15:12:50 GMT</pubDate>
+            <description><![CDATA[HeyWhatsThat – Calculate viewshed and panorama for any point on Earth]]></description>
+        </item>
         <item>
             <title><![CDATA[uBlock Origin成為火狐瀏覽器的頂級附加組件]]></title>
             <link>https://news.ycombinator.com/item?id=30641159</link>

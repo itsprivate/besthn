@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-11T16:52:17.750Z</updated>
+    <updated>2022-03-11T22:15:34.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國取消了對完全自動駕駛汽車的人為控制要求]]></title>
+        <id>https://news.ycombinator.com/item?id=30640947</id>
+        <link href="https://news.ycombinator.com/item?id=30640947"/>
+        <updated>2022-03-11T15:20:45.000Z</updated>
+        <summary type="html"><![CDATA[U.S. eliminates human controls requirement for fully automated vehicles]]></summary>
+        <author>
+            <name>ra7</name>
+            <uri>https://news.ycombinator.com/user?id=ra7</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HeyWhatsThat - 計算地球上任何一點的視線範圍和全景圖]]></title>
+        <id>https://news.ycombinator.com/item?id=30640846</id>
+        <link href="https://news.ycombinator.com/item?id=30640846"/>
+        <updated>2022-03-11T15:12:50.000Z</updated>
+        <summary type="html"><![CDATA[HeyWhatsThat – Calculate viewshed and panorama for any point on Earth]]></summary>
+        <author>
+            <name>Rygian</name>
+            <uri>https://news.ycombinator.com/user?id=Rygian</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[uBlock Origin成為火狐瀏覽器的頂級附加組件]]></title>
         <id>https://news.ycombinator.com/item?id=30641159</id>
