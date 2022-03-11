@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-11T14:13:23.850Z</updated>
+    <updated>2022-03-11T14:31:31.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推特让人更难选择老式的反向编排饲料]]></title>
+        <id>https://news.ycombinator.com/item?id=30635426</id>
+        <link href="https://news.ycombinator.com/item?id=30635426"/>
+        <updated>2022-03-11T02:29:02.000Z</updated>
+        <summary type="html"><![CDATA[Twitter makes it harder to choose the old reverse-chronological feed]]></summary>
+        <author>
+            <name>Yaina</name>
+            <uri>https://news.ycombinator.com/user?id=Yaina</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以色列议会通过禁止巴勒斯坦配偶的法律]]></title>
         <id>https://news.ycombinator.com/item?id=30639159</id>

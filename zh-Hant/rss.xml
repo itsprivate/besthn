@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 11 Mar 2022 14:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 14:31:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[推特讓人更難選擇老式的反向編排飼料]]></title>
+            <link>https://news.ycombinator.com/item?id=30635426</link>
+            <guid>https://news.ycombinator.com/item?id=30635426</guid>
+            <pubDate>Fri, 11 Mar 2022 02:29:02 GMT</pubDate>
+            <description><![CDATA[Twitter makes it harder to choose the old reverse-chronological feed]]></description>
+        </item>
         <item>
             <title><![CDATA[以色列議會通過禁止巴勒斯坦配偶的法律]]></title>
             <link>https://news.ycombinator.com/item?id=30639159</link>
