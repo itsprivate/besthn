@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30615959",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30615959",
+            "title": "波克特。一個微小的、強大的、模塊化的計算機[視頻]",
+            "summary": "Pockit: A tiny, powerful, modular computer [video]",
+            "date_modified": "2022-03-09T16:04:13.000Z",
+            "author": {
+                "name": "rayrag",
+                "url": "https://news.ycombinator.com/user?id=rayrag"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30632952",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30632952",

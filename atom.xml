@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-11T07:41:42.503Z</updated>
+    <updated>2022-03-11T11:37:11.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[波克特。一个微小的、强大的、模块化的计算机[视频]]]></title>
+        <id>https://news.ycombinator.com/item?id=30615959</id>
+        <link href="https://news.ycombinator.com/item?id=30615959"/>
+        <updated>2022-03-09T16:04:13.000Z</updated>
+        <summary type="html"><![CDATA[Pockit: A tiny, powerful, modular computer [video]]]></summary>
+        <author>
+            <name>rayrag</name>
+            <uri>https://news.ycombinator.com/user?id=rayrag</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们是Substack的创始人，我们刚刚推出了一个iOS应用程序。友联]]></title>
         <id>https://news.ycombinator.com/item?id=30632952</id>
