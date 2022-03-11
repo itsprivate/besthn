@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30634245",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30634245",
+            "title": "对中央银行数字货币说不",
+            "summary": "Just Say No to Central Bank Digital Currencies",
+            "date_modified": "2022-03-10T23:49:20.000Z",
+            "author": {
+                "name": "mortenjorck",
+                "url": "https://news.ycombinator.com/user?id=mortenjorck"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30615959",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30615959",

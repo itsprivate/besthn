@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-11T11:37:11.884Z</updated>
+    <updated>2022-03-11T12:53:40.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對中央銀行數字貨幣說不]]></title>
+        <id>https://news.ycombinator.com/item?id=30634245</id>
+        <link href="https://news.ycombinator.com/item?id=30634245"/>
+        <updated>2022-03-10T23:49:20.000Z</updated>
+        <summary type="html"><![CDATA[Just Say No to Central Bank Digital Currencies]]></summary>
+        <author>
+            <name>mortenjorck</name>
+            <uri>https://news.ycombinator.com/user?id=mortenjorck</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[波克特。一個微小的、強大的、模塊化的計算機[視頻]]]></title>
         <id>https://news.ycombinator.com/item?id=30615959</id>
