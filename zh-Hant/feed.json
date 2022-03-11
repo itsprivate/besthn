@@ -11,6 +11,102 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30632952",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30632952",
+            "title": "我們是Substack的創始人，我們剛剛推出了一個iOS應用程序。友聯",
+            "summary": "We’re the founders of Substack, we just launched an iOS app. AUA",
+            "date_modified": "2022-03-10T21:51:23.000Z",
+            "author": {
+                "name": "internet_jockey",
+                "url": "https://news.ycombinator.com/user?id=internet_jockey"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30629430",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30629430",
+            "title": "只有Postgres開發者才會使用的一個詞",
+            "summary": "A word used only by Postgres developers",
+            "date_modified": "2022-03-10T17:17:01.000Z",
+            "author": {
+                "name": "ccleve",
+                "url": "https://news.ycombinator.com/user?id=ccleve"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30627784",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30627784",
+            "title": "101國道上的收費標誌報告你的應答器設置",
+            "summary": "Toll signs on 101 report your transponder setting",
+            "date_modified": "2022-03-10T15:13:17.000Z",
+            "author": {
+                "name": "zdw",
+                "url": "https://news.ycombinator.com/user?id=zdw"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30632568",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30632568",
+            "title": "蘋果AirTags耗盡附近設備的電池",
+            "summary": "Apple AirTags draining battery of devices close by",
+            "date_modified": "2022-03-10T21:16:27.000Z",
+            "author": {
+                "name": "dewey",
+                "url": "https://news.ycombinator.com/user?id=dewey"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30634872",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30634872",
+            "title": "Earn-IT威脅到加密，從而威脅到用戶的自由",
+            "summary": "Earn-IT threatens encryption and therefore user freedom",
+            "date_modified": "2022-03-11T01:02:29.000Z",
+            "author": {
+                "name": "lelf",
+                "url": "https://news.ycombinator.com/user?id=lelf"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30627495",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30627495",
+            "title": "CXX - Rust和C++之間的安全互操作",
+            "summary": "CXX – safe interop between Rust and C++",
+            "date_modified": "2022-03-10T14:47:23.000Z",
+            "author": {
+                "name": "synergy20",
+                "url": "https://news.ycombinator.com/user?id=synergy20"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30630918",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30630918",
+            "title": "貿發局",
+            "summary": "Tradle",
+            "date_modified": "2022-03-10T18:57:47.000Z",
+            "author": {
+                "name": "tantalor",
+                "url": "https://news.ycombinator.com/user?id=tantalor"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30627418",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30627418",
+            "title": "啟動HN：微肉（YC S21）--規模化栽培肉的技術",
+            "summary": "Launch HN: Micro Meat (YC S21) – Technology for scaling cultivated meat",
+            "date_modified": "2022-03-10T14:40:48.000Z",
+            "author": {
+                "name": "asmertgen",
+                "url": "https://news.ycombinator.com/user?id=asmertgen"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30630666",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30630666",

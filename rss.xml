@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 10 Mar 2022 21:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 07:41:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,62 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们是Substack的创始人，我们刚刚推出了一个iOS应用程序。友联]]></title>
+            <link>https://news.ycombinator.com/item?id=30632952</link>
+            <guid>https://news.ycombinator.com/item?id=30632952</guid>
+            <pubDate>Thu, 10 Mar 2022 21:51:23 GMT</pubDate>
+            <description><![CDATA[We’re the founders of Substack, we just launched an iOS app. AUA]]></description>
+        </item>
+        <item>
+            <title><![CDATA[只有Postgres开发者才会使用的一个词]]></title>
+            <link>https://news.ycombinator.com/item?id=30629430</link>
+            <guid>https://news.ycombinator.com/item?id=30629430</guid>
+            <pubDate>Thu, 10 Mar 2022 17:17:01 GMT</pubDate>
+            <description><![CDATA[A word used only by Postgres developers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[101国道上的收费标志报告你的应答器设置]]></title>
+            <link>https://news.ycombinator.com/item?id=30627784</link>
+            <guid>https://news.ycombinator.com/item?id=30627784</guid>
+            <pubDate>Thu, 10 Mar 2022 15:13:17 GMT</pubDate>
+            <description><![CDATA[Toll signs on 101 report your transponder setting]]></description>
+        </item>
+        <item>
+            <title><![CDATA[苹果AirTags耗尽附近设备的电池]]></title>
+            <link>https://news.ycombinator.com/item?id=30632568</link>
+            <guid>https://news.ycombinator.com/item?id=30632568</guid>
+            <pubDate>Thu, 10 Mar 2022 21:16:27 GMT</pubDate>
+            <description><![CDATA[Apple AirTags draining battery of devices close by]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Earn-IT威胁到加密，从而威胁到用户的自由]]></title>
+            <link>https://news.ycombinator.com/item?id=30634872</link>
+            <guid>https://news.ycombinator.com/item?id=30634872</guid>
+            <pubDate>Fri, 11 Mar 2022 01:02:29 GMT</pubDate>
+            <description><![CDATA[Earn-IT threatens encryption and therefore user freedom]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CXX - Rust和C++之间的安全互操作]]></title>
+            <link>https://news.ycombinator.com/item?id=30627495</link>
+            <guid>https://news.ycombinator.com/item?id=30627495</guid>
+            <pubDate>Thu, 10 Mar 2022 14:47:23 GMT</pubDate>
+            <description><![CDATA[CXX – safe interop between Rust and C++]]></description>
+        </item>
+        <item>
+            <title><![CDATA[贸发局]]></title>
+            <link>https://news.ycombinator.com/item?id=30630918</link>
+            <guid>https://news.ycombinator.com/item?id=30630918</guid>
+            <pubDate>Thu, 10 Mar 2022 18:57:47 GMT</pubDate>
+            <description><![CDATA[Tradle]]></description>
+        </item>
+        <item>
+            <title><![CDATA[启动HN：微肉（YC S21）--规模化栽培肉的技术]]></title>
+            <link>https://news.ycombinator.com/item?id=30627418</link>
+            <guid>https://news.ycombinator.com/item?id=30627418</guid>
+            <pubDate>Thu, 10 Mar 2022 14:40:48 GMT</pubDate>
+            <description><![CDATA[Launch HN: Micro Meat (YC S21) – Technology for scaling cultivated meat]]></description>
+        </item>
         <item>
             <title><![CDATA[820GB的Roskomnadzor（俄罗斯政府审查组织）的数据库倾倒。]]></title>
             <link>https://news.ycombinator.com/item?id=30630666</link>

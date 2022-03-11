@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-10T21:16:26.135Z</updated>
+    <updated>2022-03-11T07:41:42.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,94 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们是Substack的创始人，我们刚刚推出了一个iOS应用程序。友联]]></title>
+        <id>https://news.ycombinator.com/item?id=30632952</id>
+        <link href="https://news.ycombinator.com/item?id=30632952"/>
+        <updated>2022-03-10T21:51:23.000Z</updated>
+        <summary type="html"><![CDATA[We’re the founders of Substack, we just launched an iOS app. AUA]]></summary>
+        <author>
+            <name>internet_jockey</name>
+            <uri>https://news.ycombinator.com/user?id=internet_jockey</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[只有Postgres开发者才会使用的一个词]]></title>
+        <id>https://news.ycombinator.com/item?id=30629430</id>
+        <link href="https://news.ycombinator.com/item?id=30629430"/>
+        <updated>2022-03-10T17:17:01.000Z</updated>
+        <summary type="html"><![CDATA[A word used only by Postgres developers]]></summary>
+        <author>
+            <name>ccleve</name>
+            <uri>https://news.ycombinator.com/user?id=ccleve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[101国道上的收费标志报告你的应答器设置]]></title>
+        <id>https://news.ycombinator.com/item?id=30627784</id>
+        <link href="https://news.ycombinator.com/item?id=30627784"/>
+        <updated>2022-03-10T15:13:17.000Z</updated>
+        <summary type="html"><![CDATA[Toll signs on 101 report your transponder setting]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果AirTags耗尽附近设备的电池]]></title>
+        <id>https://news.ycombinator.com/item?id=30632568</id>
+        <link href="https://news.ycombinator.com/item?id=30632568"/>
+        <updated>2022-03-10T21:16:27.000Z</updated>
+        <summary type="html"><![CDATA[Apple AirTags draining battery of devices close by]]></summary>
+        <author>
+            <name>dewey</name>
+            <uri>https://news.ycombinator.com/user?id=dewey</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Earn-IT威胁到加密，从而威胁到用户的自由]]></title>
+        <id>https://news.ycombinator.com/item?id=30634872</id>
+        <link href="https://news.ycombinator.com/item?id=30634872"/>
+        <updated>2022-03-11T01:02:29.000Z</updated>
+        <summary type="html"><![CDATA[Earn-IT threatens encryption and therefore user freedom]]></summary>
+        <author>
+            <name>lelf</name>
+            <uri>https://news.ycombinator.com/user?id=lelf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CXX - Rust和C++之间的安全互操作]]></title>
+        <id>https://news.ycombinator.com/item?id=30627495</id>
+        <link href="https://news.ycombinator.com/item?id=30627495"/>
+        <updated>2022-03-10T14:47:23.000Z</updated>
+        <summary type="html"><![CDATA[CXX – safe interop between Rust and C++]]></summary>
+        <author>
+            <name>synergy20</name>
+            <uri>https://news.ycombinator.com/user?id=synergy20</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贸发局]]></title>
+        <id>https://news.ycombinator.com/item?id=30630918</id>
+        <link href="https://news.ycombinator.com/item?id=30630918"/>
+        <updated>2022-03-10T18:57:47.000Z</updated>
+        <summary type="html"><![CDATA[Tradle]]></summary>
+        <author>
+            <name>tantalor</name>
+            <uri>https://news.ycombinator.com/user?id=tantalor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[启动HN：微肉（YC S21）--规模化栽培肉的技术]]></title>
+        <id>https://news.ycombinator.com/item?id=30627418</id>
+        <link href="https://news.ycombinator.com/item?id=30627418"/>
+        <updated>2022-03-10T14:40:48.000Z</updated>
+        <summary type="html"><![CDATA[Launch HN: Micro Meat (YC S21) – Technology for scaling cultivated meat]]></summary>
+        <author>
+            <name>asmertgen</name>
+            <uri>https://news.ycombinator.com/user?id=asmertgen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[820GB的Roskomnadzor（俄罗斯政府审查组织）的数据库倾倒。]]></title>
         <id>https://news.ycombinator.com/item?id=30630666</id>
