@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30649814",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30649814",
+            "title": "現代電影給我們帶來了可怕的教訓[視頻]",
+            "summary": "Modern movies teach us awful lessons [video]",
+            "date_modified": "2022-03-12T08:00:46.000Z",
+            "author": {
+                "name": "jdkee",
+                "url": "https://news.ycombinator.com/user?id=jdkee"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30650238",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30650238",

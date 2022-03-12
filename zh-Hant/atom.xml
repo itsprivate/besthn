@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-12T15:44:19.929Z</updated>
+    <updated>2022-03-12T17:02:08.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[現代電影給我們帶來了可怕的教訓[視頻]]]></title>
+        <id>https://news.ycombinator.com/item?id=30649814</id>
+        <link href="https://news.ycombinator.com/item?id=30649814"/>
+        <updated>2022-03-12T08:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Modern movies teach us awful lessons [video]]]></summary>
+        <author>
+            <name>jdkee</name>
+            <uri>https://news.ycombinator.com/user?id=jdkee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今天是Y Combinator的17歲生日]]></title>
         <id>https://news.ycombinator.com/item?id=30650238</id>
