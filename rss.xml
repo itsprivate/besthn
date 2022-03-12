@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 12 Mar 2022 02:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 05:52:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在MacOS中检查网页视图]]></title>
+            <link>https://news.ycombinator.com/item?id=30648424</link>
+            <guid>https://news.ycombinator.com/item?id=30648424</guid>
+            <pubDate>Sat, 12 Mar 2022 02:27:09 GMT</pubDate>
+            <description><![CDATA[Inspecting Web Views in macOS]]></description>
+        </item>
         <item>
             <title><![CDATA[你永远不会拥有一辆电动汽车]]></title>
             <link>https://news.ycombinator.com/item?id=30637725</link>
