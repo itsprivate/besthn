@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-12T18:13:51.967Z</updated>
+    <updated>2022-03-12T20:51:33.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[芬蘭啟動拖延已久的核電站，給電力市場帶來喘息機會]]></title>
+        <id>https://news.ycombinator.com/item?id=30653220</id>
+        <link href="https://news.ycombinator.com/item?id=30653220"/>
+        <updated>2022-03-12T17:51:52.000Z</updated>
+        <summary type="html"><![CDATA[Finland starts much-delayed nuclear plant, brings respite to power market]]></summary>
+        <author>
+            <name>hhs</name>
+            <uri>https://news.ycombinator.com/user?id=hhs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與一家銀行的簡短對話]]></title>
         <id>https://news.ycombinator.com/item?id=30631728</id>

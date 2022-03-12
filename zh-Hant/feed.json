@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30653220",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30653220",
+            "title": "芬蘭啟動拖延已久的核電站，給電力市場帶來喘息機會",
+            "summary": "Finland starts much-delayed nuclear plant, brings respite to power market",
+            "date_modified": "2022-03-12T17:51:52.000Z",
+            "author": {
+                "name": "hhs",
+                "url": "https://news.ycombinator.com/user?id=hhs"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30631728",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30631728",
