@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 12 Mar 2022 17:52:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 18:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[与一家银行的简短对话]]></title>
+            <link>https://news.ycombinator.com/item?id=30631728</link>
+            <guid>https://news.ycombinator.com/item?id=30631728</guid>
+            <pubDate>Thu, 10 Mar 2022 20:04:09 GMT</pubDate>
+            <description><![CDATA[A short conversation with a bank]]></description>
+        </item>
         <item>
             <title><![CDATA[教学是一个缓慢的过程，成为你讨厌的一切]]></title>
             <link>https://news.ycombinator.com/item?id=30651720</link>
