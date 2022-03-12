@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 11 Mar 2022 22:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 00:35:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[羅蘭50工作室]]></title>
+            <link>https://news.ycombinator.com/item?id=30638634</link>
+            <guid>https://news.ycombinator.com/item?id=30638634</guid>
+            <pubDate>Fri, 11 Mar 2022 11:29:05 GMT</pubDate>
+            <description><![CDATA[Roland 50 Studio]]></description>
+        </item>
         <item>
             <title><![CDATA[美國取消了對完全自動駕駛汽車的人為控制要求]]></title>
             <link>https://news.ycombinator.com/item?id=30640947</link>
