@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-12T06:38:14.575Z</updated>
+    <updated>2022-03-12T08:52:00.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何設計更好的API]]></title>
+        <id>https://news.ycombinator.com/item?id=30647784</id>
+        <link href="https://news.ycombinator.com/item?id=30647784"/>
+        <updated>2022-03-12T00:25:16.000Z</updated>
+        <summary type="html"><![CDATA[How to Design Better APIs]]></summary>
+        <author>
+            <name>adrianomartins</name>
+            <uri>https://news.ycombinator.com/user?id=adrianomartins</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Goldilocks Zone Finder - 找到你的理想氣候]]></title>
         <id>https://news.ycombinator.com/item?id=30642612</id>

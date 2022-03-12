@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30647784",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30647784",
+            "title": "如何設計更好的API",
+            "summary": "How to Design Better APIs",
+            "date_modified": "2022-03-12T00:25:16.000Z",
+            "author": {
+                "name": "adrianomartins",
+                "url": "https://news.ycombinator.com/user?id=adrianomartins"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30642612",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30642612",
