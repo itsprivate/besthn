@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30651720",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30651720",
+            "title": "教学是一个缓慢的过程，成为你讨厌的一切",
+            "summary": "Teaching is a slow process of becoming everything you hate",
+            "date_modified": "2022-03-12T14:47:41.000Z",
+            "author": {
+                "name": "dynm",
+                "url": "https://news.ycombinator.com/user?id=dynm"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30649814",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30649814",
