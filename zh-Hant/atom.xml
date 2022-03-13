@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-13T13:33:50.944Z</updated>
+    <updated>2022-03-13T15:33:50.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[歐盟將強制要求在家用物品中使用客戶可更換的電池]]></title>
+        <id>https://news.ycombinator.com/item?id=30660953</id>
+        <link href="https://news.ycombinator.com/item?id=30660953"/>
+        <updated>2022-03-13T13:14:13.000Z</updated>
+        <summary type="html"><![CDATA[EU to make it mandatory to use customer-replaceable batteries in household items]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼要提供洋蔥地址，而不是僅僅鼓勵在Tor上瀏覽？]]></title>
         <id>https://news.ycombinator.com/item?id=30624154</id>
