@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-13T16:48:42.114Z</updated>
+    <updated>2022-03-13T21:13:12.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：中国正在进入封锁状态]]></title>
+        <id>https://news.ycombinator.com/item?id=30658886</id>
+        <link href="https://news.ycombinator.com/item?id=30658886"/>
+        <updated>2022-03-13T07:34:49.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: China Is Entering Lockdown]]></summary>
+        <author>
+            <name>user_named</name>
+            <uri>https://news.ycombinator.com/user?id=user_named</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们必须回到以创新为动力的经济，而不是颠覆。]]></title>
         <id>https://news.ycombinator.com/item?id=30658835</id>
