@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-13T10:14:24.046Z</updated>
+    <updated>2022-03-13T11:11:27.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[电磁炉烹饪的案例]]></title>
+        <id>https://news.ycombinator.com/item?id=30654693</id>
+        <link href="https://news.ycombinator.com/item?id=30654693"/>
+        <updated>2022-03-12T20:40:34.000Z</updated>
+        <summary type="html"><![CDATA[The case for induction cooking]]></summary>
+        <author>
+            <name>mathieutd</name>
+            <uri>https://news.ycombinator.com/user?id=mathieutd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我用Phaser 3把我的个人网站做成了口袋妖怪式的迷你游戏]]></title>
         <id>https://news.ycombinator.com/item?id=30656961</id>

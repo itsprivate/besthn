@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30654693",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30654693",
+            "title": "電磁爐烹飪的案例",
+            "summary": "The case for induction cooking",
+            "date_modified": "2022-03-12T20:40:34.000Z",
+            "author": {
+                "name": "mathieutd",
+                "url": "https://news.ycombinator.com/user?id=mathieutd"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30656961",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30656961",
