@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-13T11:11:27.390Z</updated>
+    <updated>2022-03-13T13:33:50.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么要提供洋葱地址，而不是仅仅鼓励在Tor上浏览？]]></title>
+        <id>https://news.ycombinator.com/item?id=30624154</id>
+        <link href="https://news.ycombinator.com/item?id=30624154"/>
+        <updated>2022-03-10T07:32:40.000Z</updated>
+        <summary type="html"><![CDATA[Why offer an Onion Address rather than just encourage browsing-over-Tor?]]></summary>
+        <author>
+            <name>kettunen</name>
+            <uri>https://news.ycombinator.com/user?id=kettunen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[电磁炉烹饪的案例]]></title>
         <id>https://news.ycombinator.com/item?id=30654693</id>

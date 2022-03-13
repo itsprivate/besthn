@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 13 Mar 2022 11:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 13:33:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼要提供洋蔥地址，而不是僅僅鼓勵在Tor上瀏覽？]]></title>
+            <link>https://news.ycombinator.com/item?id=30624154</link>
+            <guid>https://news.ycombinator.com/item?id=30624154</guid>
+            <pubDate>Thu, 10 Mar 2022 07:32:40 GMT</pubDate>
+            <description><![CDATA[Why offer an Onion Address rather than just encourage browsing-over-Tor?]]></description>
+        </item>
         <item>
             <title><![CDATA[電磁爐烹飪的案例]]></title>
             <link>https://news.ycombinator.com/item?id=30654693</link>
