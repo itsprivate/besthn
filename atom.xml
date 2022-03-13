@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-13T08:14:15.668Z</updated>
+    <updated>2022-03-13T08:51:26.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[揭开.NET的神秘面纱]]></title>
+        <id>https://news.ycombinator.com/item?id=30654114</id>
+        <link href="https://news.ycombinator.com/item?id=30654114"/>
+        <updated>2022-03-12T19:30:06.000Z</updated>
+        <summary type="html"><![CDATA[.NET Myths Dispelled]]></summary>
+        <author>
+            <name>geekydev</name>
+            <uri>https://news.ycombinator.com/user?id=geekydev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[将curl命令转换为几种语言的代码]]></title>
         <id>https://news.ycombinator.com/item?id=30642281</id>
