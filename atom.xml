@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-13T21:13:12.906Z</updated>
+    <updated>2022-03-13T21:37:10.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在2022年的火狐浏览器基本修复]]></title>
+        <id>https://news.ycombinator.com/item?id=30663266</id>
+        <link href="https://news.ycombinator.com/item?id=30663266"/>
+        <updated>2022-03-13T17:06:47.000Z</updated>
+        <summary type="html"><![CDATA[My essential Firefox fixes in 2022]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告诉HN：中国正在进入封锁状态]]></title>
         <id>https://news.ycombinator.com/item?id=30658886</id>
