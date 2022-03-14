@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 14 Mar 2022 19:28:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 20:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[微软正在测试Windows 11文件管理器中的广告]]></title>
+            <link>https://news.ycombinator.com/item?id=30675908</link>
+            <guid>https://news.ycombinator.com/item?id=30675908</guid>
+            <pubDate>Mon, 14 Mar 2022 18:14:15 GMT</pubDate>
+            <description><![CDATA[Microsoft is testing ads in the Windows 11 File Explorer]]></description>
+        </item>
         <item>
             <title><![CDATA[启动HN：活碳（YC W20）--能捕获和储存更多碳的树木]]></title>
             <link>https://news.ycombinator.com/item?id=30672841</link>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-14T19:28:02.041Z</updated>
+    <updated>2022-03-14T20:14:55.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[微軟正在測試Windows 11文件管理器中的廣告]]></title>
+        <id>https://news.ycombinator.com/item?id=30675908</id>
+        <link href="https://news.ycombinator.com/item?id=30675908"/>
+        <updated>2022-03-14T18:14:15.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft is testing ads in the Windows 11 File Explorer]]></summary>
+        <author>
+            <name>DemiGuru</name>
+            <uri>https://news.ycombinator.com/user?id=DemiGuru</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[啟動HN：活碳（YC W20）--能捕獲和儲存更多碳的樹木]]></title>
         <id>https://news.ycombinator.com/item?id=30672841</id>
