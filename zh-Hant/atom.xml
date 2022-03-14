@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-14T02:07:26.995Z</updated>
+    <updated>2022-03-14T03:23:21.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Vanced已經停產]]></title>
+        <id>https://news.ycombinator.com/item?id=30663739</id>
+        <link href="https://news.ycombinator.com/item?id=30663739"/>
+        <updated>2022-03-13T17:42:41.000Z</updated>
+        <summary type="html"><![CDATA[Vanced has been discontinued]]></summary>
+        <author>
+            <name>nixass</name>
+            <uri>https://news.ycombinator.com/user?id=nixass</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[託卡馬克能源公司在商業核聚變公司中創造了溫度記錄]]></title>
         <id>https://news.ycombinator.com/item?id=30665140</id>
