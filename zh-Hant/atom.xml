@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-13T21:37:10.429Z</updated>
+    <updated>2022-03-14T02:07:26.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[託卡馬克能源公司在商業核聚變公司中創造了溫度記錄]]></title>
+        <id>https://news.ycombinator.com/item?id=30665140</id>
+        <link href="https://news.ycombinator.com/item?id=30665140"/>
+        <updated>2022-03-13T20:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Tokamak Energy sets a temperature record among commercial fusion companies]]></summary>
+        <author>
+            <name>geox</name>
+            <uri>https://news.ycombinator.com/user?id=geox</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python設計模式 (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=30649470</id>
+        <link href="https://news.ycombinator.com/item?id=30649470"/>
+        <updated>2022-03-12T06:43:27.000Z</updated>
+        <summary type="html"><![CDATA[Python Design Patterns (2018)]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何做得更少]]></title>
+        <id>https://news.ycombinator.com/item?id=30642596</id>
+        <link href="https://news.ycombinator.com/item?id=30642596"/>
+        <updated>2022-03-11T17:06:00.000Z</updated>
+        <summary type="html"><![CDATA[How to Do Less]]></summary>
+        <author>
+            <name>ggoodale</name>
+            <uri>https://news.ycombinator.com/user?id=ggoodale</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在2022年的火狐瀏覽器基本修復]]></title>
         <id>https://news.ycombinator.com/item?id=30663266</id>

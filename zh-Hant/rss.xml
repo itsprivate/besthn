@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 13 Mar 2022 21:37:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 02:07:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[託卡馬克能源公司在商業核聚變公司中創造了溫度記錄]]></title>
+            <link>https://news.ycombinator.com/item?id=30665140</link>
+            <guid>https://news.ycombinator.com/item?id=30665140</guid>
+            <pubDate>Sun, 13 Mar 2022 20:01:15 GMT</pubDate>
+            <description><![CDATA[Tokamak Energy sets a temperature record among commercial fusion companies]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Python設計模式 (2018)]]></title>
+            <link>https://news.ycombinator.com/item?id=30649470</link>
+            <guid>https://news.ycombinator.com/item?id=30649470</guid>
+            <pubDate>Sat, 12 Mar 2022 06:43:27 GMT</pubDate>
+            <description><![CDATA[Python Design Patterns (2018)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何做得更少]]></title>
+            <link>https://news.ycombinator.com/item?id=30642596</link>
+            <guid>https://news.ycombinator.com/item?id=30642596</guid>
+            <pubDate>Fri, 11 Mar 2022 17:06:00 GMT</pubDate>
+            <description><![CDATA[How to Do Less]]></description>
+        </item>
         <item>
             <title><![CDATA[我在2022年的火狐瀏覽器基本修復]]></title>
             <link>https://news.ycombinator.com/item?id=30663266</link>

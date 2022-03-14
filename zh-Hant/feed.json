@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30665140",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30665140",
+            "title": "託卡馬克能源公司在商業核聚變公司中創造了溫度記錄",
+            "summary": "Tokamak Energy sets a temperature record among commercial fusion companies",
+            "date_modified": "2022-03-13T20:01:15.000Z",
+            "author": {
+                "name": "geox",
+                "url": "https://news.ycombinator.com/user?id=geox"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30649470",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30649470",
+            "title": "Python設計模式 (2018)",
+            "summary": "Python Design Patterns (2018)",
+            "date_modified": "2022-03-12T06:43:27.000Z",
+            "author": {
+                "name": "luu",
+                "url": "https://news.ycombinator.com/user?id=luu"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30642596",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30642596",
+            "title": "如何做得更少",
+            "summary": "How to Do Less",
+            "date_modified": "2022-03-11T17:06:00.000Z",
+            "author": {
+                "name": "ggoodale",
+                "url": "https://news.ycombinator.com/user?id=ggoodale"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30663266",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30663266",
