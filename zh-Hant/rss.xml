@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 14 Mar 2022 17:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 19:28:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[啟動HN：活碳（YC W20）--能捕獲和儲存更多碳的樹木]]></title>
+            <link>https://news.ycombinator.com/item?id=30672841</link>
+            <guid>https://news.ycombinator.com/item?id=30672841</guid>
+            <pubDate>Mon, 14 Mar 2022 14:28:58 GMT</pubDate>
+            <description><![CDATA[Launch HN: Living Carbon (YC W20) – Trees that capture and store more carbon]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌從餐館 "劫持了數百萬客戶和訂單"--訴訟案]]></title>
             <link>https://news.ycombinator.com/item?id=30672021</link>

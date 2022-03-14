@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-14T17:04:56.115Z</updated>
+    <updated>2022-03-14T19:28:02.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[啟動HN：活碳（YC W20）--能捕獲和儲存更多碳的樹木]]></title>
+        <id>https://news.ycombinator.com/item?id=30672841</id>
+        <link href="https://news.ycombinator.com/item?id=30672841"/>
+        <updated>2022-03-14T14:28:58.000Z</updated>
+        <summary type="html"><![CDATA[Launch HN: Living Carbon (YC W20) – Trees that capture and store more carbon]]></summary>
+        <author>
+            <name>maddiehalla</name>
+            <uri>https://news.ycombinator.com/user?id=maddiehalla</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌從餐館 "劫持了數百萬客戶和訂單"--訴訟案]]></title>
         <id>https://news.ycombinator.com/item?id=30672021</id>
