@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30667022",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30667022",
+            "title": "Veloren是一個用Rust編寫的多人體素RPG遊戲。",
+            "summary": "Veloren is a multiplayer voxel RPG written in Rust",
+            "date_modified": "2022-03-13T23:57:00.000Z",
+            "author": {
+                "name": "albertzeyer",
+                "url": "https://news.ycombinator.com/user?id=albertzeyer"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30663739",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30663739",

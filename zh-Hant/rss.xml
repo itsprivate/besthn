@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 14 Mar 2022 03:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 04:52:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Veloren是一個用Rust編寫的多人體素RPG遊戲。]]></title>
+            <link>https://news.ycombinator.com/item?id=30667022</link>
+            <guid>https://news.ycombinator.com/item?id=30667022</guid>
+            <pubDate>Sun, 13 Mar 2022 23:57:00 GMT</pubDate>
+            <description><![CDATA[Veloren is a multiplayer voxel RPG written in Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[Vanced已經停產]]></title>
             <link>https://news.ycombinator.com/item?id=30663739</link>
