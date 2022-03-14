@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-14T20:14:55.096Z</updated>
+    <updated>2022-03-14T20:35:26.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[醫學生通過手術將藍牙植入自己的耳朵以在決賽中作弊]]></title>
+        <id>https://news.ycombinator.com/item?id=30675666</id>
+        <link href="https://news.ycombinator.com/item?id=30675666"/>
+        <updated>2022-03-14T17:57:06.000Z</updated>
+        <summary type="html"><![CDATA[Medical student surgically implants Bluetooth into own ear to cheat in final]]></summary>
+        <author>
+            <name>softwarebeware</name>
+            <uri>https://news.ycombinator.com/user?id=softwarebeware</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[更新谷歌雲的基礎設施能力和定價]]></title>
+        <id>https://news.ycombinator.com/item?id=30671997</id>
+        <link href="https://news.ycombinator.com/item?id=30671997"/>
+        <updated>2022-03-14T13:11:43.000Z</updated>
+        <summary type="html"><![CDATA[Updates to Google Cloud’s infrastructure capabilities and pricing]]></summary>
+        <author>
+            <name>TangerineDream</name>
+            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微軟正在測試Windows 11文件管理器中的廣告]]></title>
         <id>https://news.ycombinator.com/item?id=30675908</id>
