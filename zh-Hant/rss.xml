@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 14 Mar 2022 20:35:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 23:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我的谷歌賬戶被黑了，谷歌說他們幫不上忙]]></title>
+            <link>https://news.ycombinator.com/item?id=30677471</link>
+            <guid>https://news.ycombinator.com/item?id=30677471</guid>
+            <pubDate>Mon, 14 Mar 2022 20:02:36 GMT</pubDate>
+            <description><![CDATA[Ask HN: My Google account was hacked, Google says they can't help]]></description>
+        </item>
         <item>
             <title><![CDATA[醫學生通過手術將藍牙植入自己的耳朵以在決賽中作弊]]></title>
             <link>https://news.ycombinator.com/item?id=30675666</link>
