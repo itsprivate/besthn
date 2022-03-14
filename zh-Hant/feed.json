@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30668506",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30668506",
+            "title": "我是如此孤獨",
+            "summary": "Ask HN: I'm So Lonely",
+            "date_modified": "2022-03-14T04:24:48.000Z",
+            "author": {
+                "name": "DevToRecruiter",
+                "url": "https://news.ycombinator.com/user?id=DevToRecruiter"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30667022",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30667022",
