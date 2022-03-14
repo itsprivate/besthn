@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30668137",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30668137",
+            "title": "357字節的HN頭像",
+            "summary": "Show HN: HN Avatars in 357 bytes",
+            "date_modified": "2022-03-14T03:08:25.000Z",
+            "author": {
+                "name": "tomxor",
+                "url": "https://news.ycombinator.com/user?id=tomxor"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30668506",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30668506",
