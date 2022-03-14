@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30668973",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30668973",
+            "title": "花更多的錢留住開發人員，減少你僱用開發人員的成本",
+            "summary": "Spending more on retaining developers reduces your cost of hiring developers",
+            "date_modified": "2022-03-14T06:01:26.000Z",
+            "author": {
+                "name": "signa11",
+                "url": "https://news.ycombinator.com/user?id=signa11"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30668137",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30668137",
