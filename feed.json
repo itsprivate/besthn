@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30685587",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30685587",
+            "title": "光线模式，黑暗模式，以及Gen-Z模式？",
+            "summary": "Light mode, Dark mode, and Gen-Z mode?",
+            "date_modified": "2022-03-15T14:16:51.000Z",
+            "author": {
+                "name": "beweinreich",
+                "url": "https://news.ycombinator.com/user?id=beweinreich"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30683879",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30683879",

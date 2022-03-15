@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-15T16:49:55.175Z</updated>
+    <updated>2022-03-15T17:23:31.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[光线模式，黑暗模式，以及Gen-Z模式？]]></title>
+        <id>https://news.ycombinator.com/item?id=30685587</id>
+        <link href="https://news.ycombinator.com/item?id=30685587"/>
+        <updated>2022-03-15T14:16:51.000Z</updated>
+        <summary type="html"><![CDATA[Light mode, Dark mode, and Gen-Z mode?]]></summary>
+        <author>
+            <name>beweinreich</name>
+            <uri>https://news.ycombinator.com/user?id=beweinreich</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arti - Tor的实现，在Rust中。]]></title>
         <id>https://news.ycombinator.com/item?id=30683879</id>

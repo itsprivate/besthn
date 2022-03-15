@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 15 Mar 2022 16:49:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 17:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[光线模式，黑暗模式，以及Gen-Z模式？]]></title>
+            <link>https://news.ycombinator.com/item?id=30685587</link>
+            <guid>https://news.ycombinator.com/item?id=30685587</guid>
+            <pubDate>Tue, 15 Mar 2022 14:16:51 GMT</pubDate>
+            <description><![CDATA[Light mode, Dark mode, and Gen-Z mode?]]></description>
+        </item>
         <item>
             <title><![CDATA[Arti - Tor的实现，在Rust中。]]></title>
             <link>https://news.ycombinator.com/item?id=30683879</link>
