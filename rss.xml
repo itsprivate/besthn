@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 15 Mar 2022 15:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 16:49:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Arti - Tor的实现，在Rust中。]]></title>
+            <link>https://news.ycombinator.com/item?id=30683879</link>
+            <guid>https://news.ycombinator.com/item?id=30683879</guid>
+            <pubDate>Tue, 15 Mar 2022 11:02:26 GMT</pubDate>
+            <description><![CDATA[Arti – An implementation of Tor, in Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[CSS-Tricks已被DigitalOcean收购。]]></title>
             <link>https://news.ycombinator.com/item?id=30684594</link>

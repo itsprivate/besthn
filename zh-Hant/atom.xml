@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-15T15:14:55.234Z</updated>
+    <updated>2022-03-15T16:49:55.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Arti - Tor的實現，在Rust中。]]></title>
+        <id>https://news.ycombinator.com/item?id=30683879</id>
+        <link href="https://news.ycombinator.com/item?id=30683879"/>
+        <updated>2022-03-15T11:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Arti – An implementation of Tor, in Rust]]></summary>
+        <author>
+            <name>solanav</name>
+            <uri>https://news.ycombinator.com/user?id=solanav</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS-Tricks已被DigitalOcean收購。]]></title>
         <id>https://news.ycombinator.com/item?id=30684594</id>
