@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-15T17:39:34.168Z</updated>
+    <updated>2022-03-15T19:28:02.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[參議院一致投票通過法案，使夏令時成為永久性時間]]></title>
+        <id>https://news.ycombinator.com/item?id=30689221</id>
+        <link href="https://news.ycombinator.com/item?id=30689221"/>
+        <updated>2022-03-15T18:41:23.000Z</updated>
+        <summary type="html"><![CDATA[Senate votes unanimously to pass bill making Daylight Savings Time permanent]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中情局黑窩點被拘留者被當作訓練道具傳授酷刑技巧]]></title>
         <id>https://news.ycombinator.com/item?id=30685066</id>
