@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30672939",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30672939",
+            "title": "火狐删除Yandex搜索选项",
+            "summary": "Firefox removed Yandex search option",
+            "date_modified": "2022-03-14T14:37:31.000Z",
+            "author": {
+                "name": "leosarev",
+                "url": "https://news.ycombinator.com/user?id=leosarev"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30672527",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30672527",
+            "title": "RP2040厄运",
+            "summary": "RP2040 Doom",
+            "date_modified": "2022-03-14T13:59:45.000Z",
+            "author": {
+                "name": "xkriva11",
+                "url": "https://news.ycombinator.com/user?id=xkriva11"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30677471",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30677471",
