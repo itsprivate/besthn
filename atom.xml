@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-16T07:38:35.879Z</updated>
+    <updated>2022-03-16T09:31:34.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[系统 - 一个旨在解释世界上一切事物之间关系的资源。]]></title>
+        <id>https://news.ycombinator.com/item?id=30670612</id>
+        <link href="https://news.ycombinator.com/item?id=30670612"/>
+        <updated>2022-03-14T10:23:06.000Z</updated>
+        <summary type="html"><![CDATA[System – A resource that aims to explain how everything in the world is related]]></summary>
+        <author>
+            <name>daniellenewnham</name>
+            <uri>https://news.ycombinator.com/user?id=daniellenewnham</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[热狗Linux - 可怕的过时的字体和可怕的屏幕上的图形]]></title>
         <id>https://news.ycombinator.com/item?id=30693301</id>
