@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 16 Mar 2022 02:59:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 03:52:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[第一臺RISC-V便攜式計算機現已上市]]></title>
+            <link>https://news.ycombinator.com/item?id=30689030</link>
+            <guid>https://news.ycombinator.com/item?id=30689030</guid>
+            <pubDate>Tue, 15 Mar 2022 18:28:20 GMT</pubDate>
+            <description><![CDATA[The first RISC-V portable computer is now available]]></description>
+        </item>
+        <item>
+            <title><![CDATA[局部執行者。通過探索LLVM中的所有執行來減少WebAssembly的大小]]></title>
+            <link>https://news.ycombinator.com/item?id=30686919</link>
+            <guid>https://news.ycombinator.com/item?id=30686919</guid>
+            <pubDate>Tue, 15 Mar 2022 15:57:36 GMT</pubDate>
+            <description><![CDATA[PartialExecuter: Reducing WebAssembly size by exploring all executions in LLVM]]></description>
+        </item>
         <item>
             <title><![CDATA[K-Means聚類法簡介]]></title>
             <link>https://news.ycombinator.com/item?id=30673364</link>

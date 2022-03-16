@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30689030",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30689030",
+            "title": "第一臺RISC-V便攜式計算機現已上市",
+            "summary": "The first RISC-V portable computer is now available",
+            "date_modified": "2022-03-15T18:28:20.000Z",
+            "author": {
+                "name": "josteink",
+                "url": "https://news.ycombinator.com/user?id=josteink"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30686919",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30686919",
+            "title": "局部執行者。通過探索LLVM中的所有執行來減少WebAssembly的大小",
+            "summary": "PartialExecuter: Reducing WebAssembly size by exploring all executions in LLVM",
+            "date_modified": "2022-03-15T15:57:36.000Z",
+            "author": {
+                "name": "apignotti",
+                "url": "https://news.ycombinator.com/user?id=apignotti"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30673364",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30673364",
