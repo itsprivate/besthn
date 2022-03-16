@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30682841",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30682841",
+            "title": "Osm.el - Emacs的OpenStreetMap瀏覽器",
+            "summary": "Osm.el – OpenStreetMap Viewer for Emacs",
+            "date_modified": "2022-03-15T08:22:16.000Z",
+            "author": {
+                "name": "okasaki",
+                "url": "https://news.ycombinator.com/user?id=okasaki"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30698803",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30698803",
