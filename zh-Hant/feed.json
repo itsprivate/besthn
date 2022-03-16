@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30698624",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30698624",
+            "title": "過去的天才們受到貴族式的輔導",
+            "summary": "Geniuses of the past were aristocratically tutored",
+            "date_modified": "2022-03-16T13:36:30.000Z",
+            "author": {
+                "name": "nahuel0x",
+                "url": "https://news.ycombinator.com/user?id=nahuel0x"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30702507",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30702507",
