@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-16T05:11:56.362Z</updated>
+    <updated>2022-03-16T07:38:35.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[热狗Linux - 可怕的过时的字体和可怕的屏幕上的图形]]></title>
+        <id>https://news.ycombinator.com/item?id=30693301</id>
+        <link href="https://news.ycombinator.com/item?id=30693301"/>
+        <updated>2022-03-15T23:26:29.000Z</updated>
+        <summary type="html"><![CDATA[Hot Dog Linux – Horrible Obsolete Typeface and Dreadful Onscreen Graphics]]></summary>
+        <author>
+            <name>Epiphany21</name>
+            <uri>https://news.ycombinator.com/user?id=Epiphany21</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TinyRenderer - OpenGL的工作原理：500行代码的软件渲染]]></title>
         <id>https://news.ycombinator.com/item?id=30686163</id>
