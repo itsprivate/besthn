@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30686163",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30686163",
+            "title": "TinyRenderer - OpenGL的工作原理：500行代碼的軟件渲染",
+            "summary": "TinyRenderer – how OpenGL works: software rendering in 500 lines of code",
+            "date_modified": "2022-03-15T14:59:56.000Z",
+            "author": {
+                "name": "graderjs",
+                "url": "https://news.ycombinator.com/user?id=graderjs"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30688691",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30688691",

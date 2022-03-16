@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-16T04:39:47.990Z</updated>
+    <updated>2022-03-16T05:11:56.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TinyRenderer - OpenGL的工作原理：500行代碼的軟件渲染]]></title>
+        <id>https://news.ycombinator.com/item?id=30686163</id>
+        <link href="https://news.ycombinator.com/item?id=30686163"/>
+        <updated>2022-03-15T14:59:56.000Z</updated>
+        <summary type="html"><![CDATA[TinyRenderer – how OpenGL works: software rendering in 500 lines of code]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了Devzat - 它就像discord，但在終端，通過SSH。]]></title>
         <id>https://news.ycombinator.com/item?id=30688691</id>

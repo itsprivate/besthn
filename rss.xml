@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 16 Mar 2022 04:39:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 05:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[TinyRenderer - OpenGL的工作原理：500行代码的软件渲染]]></title>
+            <link>https://news.ycombinator.com/item?id=30686163</link>
+            <guid>https://news.ycombinator.com/item?id=30686163</guid>
+            <pubDate>Tue, 15 Mar 2022 14:59:56 GMT</pubDate>
+            <description><![CDATA[TinyRenderer – how OpenGL works: software rendering in 500 lines of code]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了Devzat - 它就像discord，但在终端，通过SSH。]]></title>
             <link>https://news.ycombinator.com/item?id=30688691</link>
