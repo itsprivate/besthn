@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 16 Mar 2022 03:52:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 04:39:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了Devzat - 它就像discord，但在終端，通過SSH。]]></title>
+            <link>https://news.ycombinator.com/item?id=30688691</link>
+            <guid>https://news.ycombinator.com/item?id=30688691</guid>
+            <pubDate>Tue, 15 Mar 2022 18:02:45 GMT</pubDate>
+            <description><![CDATA[Show HN: I made Devzat – It's like discord but in the terminal, over SSH]]></description>
+        </item>
         <item>
             <title><![CDATA[第一臺RISC-V便攜式計算機現已上市]]></title>
             <link>https://news.ycombinator.com/item?id=30689030</link>
