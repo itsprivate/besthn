@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30708505",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30708505",
+            "title": "Lapce - 快速的開源代碼編輯器",
+            "summary": "Lapce – Fast open-source code editor",
+            "date_modified": "2022-03-17T07:26:46.000Z",
+            "author": {
+                "name": "maximilianroos",
+                "url": "https://news.ycombinator.com/user?id=maximilianroos"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30704642",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30704642",
