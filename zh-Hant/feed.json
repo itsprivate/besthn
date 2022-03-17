@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30702319",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30702319",
+            "title": "證據表明，著名的海軍UFO視頻是攝像機的眩光",
+            "summary": "Famous Navy UFO video was camera glare, evidence suggests",
+            "date_modified": "2022-03-16T18:31:58.000Z",
+            "author": {
+                "name": "mromanuk",
+                "url": "https://news.ycombinator.com/user?id=mromanuk"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30702823",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30702823",

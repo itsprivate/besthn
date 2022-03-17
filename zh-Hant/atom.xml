@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-16T21:52:24.063Z</updated>
+    <updated>2022-03-17T02:10:26.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[證據表明，著名的海軍UFO視頻是攝像機的眩光]]></title>
+        <id>https://news.ycombinator.com/item?id=30702319</id>
+        <link href="https://news.ycombinator.com/item?id=30702319"/>
+        <updated>2022-03-16T18:31:58.000Z</updated>
+        <summary type="html"><![CDATA[Famous Navy UFO video was camera glare, evidence suggests]]></summary>
+        <author>
+            <name>mromanuk</name>
+            <uri>https://news.ycombinator.com/user?id=mromanuk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美聯儲加息25個基點，2018年以來首次加息]]></title>
         <id>https://news.ycombinator.com/item?id=30702823</id>
