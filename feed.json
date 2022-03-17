@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30703531",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30703531",
+            "title": "德诺是韦比",
+            "summary": "Deno Is Webby",
+            "date_modified": "2022-03-16T20:21:09.000Z",
+            "author": {
+                "name": "todsacerdoti",
+                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30702117",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30702117",
+            "title": "美国版权局拒绝了以人工智能算法为作者的申请",
+            "summary": "US Copyright Office refuses application with AI algorithm named as author",
+            "date_modified": "2022-03-16T18:13:27.000Z",
+            "author": {
+                "name": "ilamont",
+                "url": "https://news.ycombinator.com/user?id=ilamont"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30702319",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30702319",

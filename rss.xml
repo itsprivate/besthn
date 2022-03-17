@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 17 Mar 2022 02:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 02:53:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[德诺是韦比]]></title>
+            <link>https://news.ycombinator.com/item?id=30703531</link>
+            <guid>https://news.ycombinator.com/item?id=30703531</guid>
+            <pubDate>Wed, 16 Mar 2022 20:21:09 GMT</pubDate>
+            <description><![CDATA[Deno Is Webby]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国版权局拒绝了以人工智能算法为作者的申请]]></title>
+            <link>https://news.ycombinator.com/item?id=30702117</link>
+            <guid>https://news.ycombinator.com/item?id=30702117</guid>
+            <pubDate>Wed, 16 Mar 2022 18:13:27 GMT</pubDate>
+            <description><![CDATA[US Copyright Office refuses application with AI algorithm named as author]]></description>
+        </item>
         <item>
             <title><![CDATA[证据表明，著名的海军UFO视频是摄像机的眩光]]></title>
             <link>https://news.ycombinator.com/item?id=30702319</link>
