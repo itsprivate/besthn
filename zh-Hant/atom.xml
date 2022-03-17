@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-17T02:53:27.280Z</updated>
+    <updated>2022-03-17T03:44:52.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我作為一個開放源碼開發者的界限]]></title>
+        <id>https://news.ycombinator.com/item?id=30701251</id>
+        <link href="https://news.ycombinator.com/item?id=30701251"/>
+        <updated>2022-03-16T16:57:20.000Z</updated>
+        <summary type="html"><![CDATA[My boundaries as an open source developer]]></summary>
+        <author>
+            <name>cakeplease</name>
+            <uri>https://news.ycombinator.com/user?id=cakeplease</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德諾是韋比]]></title>
         <id>https://news.ycombinator.com/item?id=30703531</id>

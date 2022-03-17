@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30701251",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30701251",
+            "title": "我作为一个开放源码开发者的界限",
+            "summary": "My boundaries as an open source developer",
+            "date_modified": "2022-03-16T16:57:20.000Z",
+            "author": {
+                "name": "cakeplease",
+                "url": "https://news.ycombinator.com/user?id=cakeplease"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30703531",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30703531",

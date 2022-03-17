@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 17 Mar 2022 02:53:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 03:44:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我作为一个开放源码开发者的界限]]></title>
+            <link>https://news.ycombinator.com/item?id=30701251</link>
+            <guid>https://news.ycombinator.com/item?id=30701251</guid>
+            <pubDate>Wed, 16 Mar 2022 16:57:20 GMT</pubDate>
+            <description><![CDATA[My boundaries as an open source developer]]></description>
+        </item>
         <item>
             <title><![CDATA[德诺是韦比]]></title>
             <link>https://news.ycombinator.com/item?id=30703531</link>
