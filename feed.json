@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30712215",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30712215",
+            "title": "法院发现称不是开源的东西是虚假广告",
+            "summary": "Court finds calling stuff open source when it's not is false advertising",
+            "date_modified": "2022-03-17T15:30:35.000Z",
+            "author": {
+                "name": "webmink",
+                "url": "https://news.ycombinator.com/user?id=webmink"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30710574",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30710574",
