@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30706014",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30706014",
+            "title": "我發現了一個競爭對手的安全問題，被解僱並被送上傳票",
+            "summary": "I found a security issue on a competitor, got fired and served a summons",
+            "date_modified": "2022-03-17T00:28:40.000Z",
+            "author": {
+                "name": "accidhacker",
+                "url": "https://news.ycombinator.com/user?id=accidhacker"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30701251",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30701251",
