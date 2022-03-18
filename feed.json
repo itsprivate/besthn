@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30714506",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30714506",
+            "title": "谷歌开源的太阳能大气水发生器",
+            "summary": "Google open sources solar atmospheric water generator",
+            "date_modified": "2022-03-17T18:42:30.000Z",
+            "author": {
+                "name": "johmathe",
+                "url": "https://news.ycombinator.com/user?id=johmathe"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30711269",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30711269",
