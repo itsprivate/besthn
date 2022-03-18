@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 18 Mar 2022 02:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 02:58:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[MaskerAid的iOS應用程序]]></title>
+            <link>https://news.ycombinator.com/item?id=30710501</link>
+            <guid>https://news.ycombinator.com/item?id=30710501</guid>
+            <pubDate>Thu, 17 Mar 2022 12:42:41 GMT</pubDate>
+            <description><![CDATA[MaskerAid iOS App]]></description>
+        </item>
         <item>
             <title><![CDATA[每個火狐瀏覽器的下載都有一個獨特的標識符]]></title>
             <link>https://news.ycombinator.com/item?id=30715163</link>
