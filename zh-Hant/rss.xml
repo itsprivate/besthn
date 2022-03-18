@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 18 Mar 2022 13:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 14:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[M1 Mac上的Linux]]></title>
+            <link>https://news.ycombinator.com/item?id=30717758</link>
+            <guid>https://news.ycombinator.com/item?id=30717758</guid>
+            <pubDate>Fri, 18 Mar 2022 01:31:31 GMT</pubDate>
+            <description><![CDATA[Linux on an M1 Mac]]></description>
+        </item>
         <item>
             <title><![CDATA[英特爾金融化，失去了在半導體制造領域的領導地位（2021年）。]]></title>
             <link>https://news.ycombinator.com/item?id=30715268</link>
