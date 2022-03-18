@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30720995",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30720995",
+            "title": "戰爭期間，哈爾科夫紅寶石組織。我們還在這裡",
+            "summary": "Kharkiv Rubyist during the war: We are still here",
+            "date_modified": "2022-03-18T11:53:16.000Z",
+            "author": {
+                "name": "pabs3",
+                "url": "https://news.ycombinator.com/user?id=pabs3"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30717758",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30717758",
