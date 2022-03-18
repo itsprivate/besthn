@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-18T06:37:39.179Z</updated>
+    <updated>2022-03-18T13:21:27.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英特爾金融化，失去了在半導體制造領域的領導地位（2021年）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30715268</id>
+        <link href="https://news.ycombinator.com/item?id=30715268"/>
+        <updated>2022-03-17T19:59:12.000Z</updated>
+        <summary type="html"><![CDATA[Intel financialized and lost leadership in semiconductor fabrication (2021)]]></summary>
+        <author>
+            <name>kloch</name>
+            <uri>https://news.ycombinator.com/user?id=kloch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[食品包裝]]></title>
         <id>https://news.ycombinator.com/item?id=30717785</id>
