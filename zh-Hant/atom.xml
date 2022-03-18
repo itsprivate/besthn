@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-18T00:41:02.249Z</updated>
+    <updated>2022-03-18T02:15:55.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每個火狐瀏覽器的下載都有一個獨特的標識符]]></title>
+        <id>https://news.ycombinator.com/item?id=30715163</id>
+        <link href="https://news.ycombinator.com/item?id=30715163"/>
+        <updated>2022-03-17T19:48:16.000Z</updated>
+        <summary type="html"><![CDATA[Each Firefox download has a unique identifier]]></summary>
+        <author>
+            <name>gslin</name>
+            <uri>https://news.ycombinator.com/user?id=gslin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌開源的太陽能大氣水發生器]]></title>
         <id>https://news.ycombinator.com/item?id=30714506</id>
