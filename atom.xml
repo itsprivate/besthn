@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-19T13:08:32.212Z</updated>
+    <updated>2022-03-19T15:44:33.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果谷歌很糟糕，那么为什么每个人都还在使用它？]]></title>
+        <id>https://news.ycombinator.com/item?id=30725933</id>
+        <link href="https://news.ycombinator.com/item?id=30725933"/>
+        <updated>2022-03-18T18:43:47.000Z</updated>
+        <summary type="html"><![CDATA[If Google sucks then why is everyone still using it?]]></summary>
+        <author>
+            <name>abhinavsharma</name>
+            <uri>https://news.ycombinator.com/user?id=abhinavsharma</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亚历山大搜索]]></title>
         <id>https://news.ycombinator.com/item?id=30724592</id>
