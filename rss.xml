@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 18 Mar 2022 14:53:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 10:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,83 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Asahi Linux alpha release]]></title>
+            <link>https://news.ycombinator.com/item?id=30729212</link>
+            <guid>https://news.ycombinator.com/item?id=30729212</guid>
+            <pubDate>Fri, 18 Mar 2022 23:55:53 GMT</pubDate>
+            <description><![CDATA[Asahi Linux alpha release]]></description>
+        </item>
+        <item>
+            <title><![CDATA[詹姆斯-韦伯望远镜的首批图像超出预期]]></title>
+            <link>https://news.ycombinator.com/item?id=30729109</link>
+            <guid>https://news.ycombinator.com/item?id=30729109</guid>
+            <pubDate>Fri, 18 Mar 2022 23:44:25 GMT</pubDate>
+            <description><![CDATA[First images from James Webb telescope exceed expectations]]></description>
+        </item>
+        <item>
+            <title><![CDATA[加密货币是一个非生产性的泡沫]]></title>
+            <link>https://news.ycombinator.com/item?id=30728856</link>
+            <guid>https://news.ycombinator.com/item?id=30728856</guid>
+            <pubDate>Fri, 18 Mar 2022 23:16:19 GMT</pubDate>
+            <description><![CDATA[Crypto is an unproductive bubble]]></description>
+        </item>
+        <item>
+            <title><![CDATA[普京的寡头们如何买下伦敦]]></title>
+            <link>https://news.ycombinator.com/item?id=30728110</link>
+            <guid>https://news.ycombinator.com/item?id=30728110</guid>
+            <pubDate>Fri, 18 Mar 2022 22:02:40 GMT</pubDate>
+            <description><![CDATA[How Putin’s Oligarchs Bought London]]></description>
+        </item>
+        <item>
+            <title><![CDATA[克里斯托弗-亚历山大已经去世]]></title>
+            <link>https://news.ycombinator.com/item?id=30727052</link>
+            <guid>https://news.ycombinator.com/item?id=30727052</guid>
+            <pubDate>Fri, 18 Mar 2022 20:24:07 GMT</pubDate>
+            <description><![CDATA[Christopher Alexander has died]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我是如何学会停止担心并将所有写作结构化为清单的？]]></title>
+            <link>https://news.ycombinator.com/item?id=30725804</link>
+            <guid>https://news.ycombinator.com/item?id=30725804</guid>
+            <pubDate>Fri, 18 Mar 2022 18:31:19 GMT</pubDate>
+            <description><![CDATA[How I learned to stop worrying and structure all writing as a list]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国学校可以以低于柴油的价格订购电动巴士车队]]></title>
+            <link>https://news.ycombinator.com/item?id=30725604</link>
+            <guid>https://news.ycombinator.com/item?id=30725604</guid>
+            <pubDate>Fri, 18 Mar 2022 18:12:59 GMT</pubDate>
+            <description><![CDATA[US schools can subscribe to an electric bus fleet at lower prices than diesel]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Zillow的购房计划如何损失8.81亿美元]]></title>
+            <link>https://news.ycombinator.com/item?id=30723890</link>
+            <guid>https://news.ycombinator.com/item?id=30723890</guid>
+            <pubDate>Fri, 18 Mar 2022 16:00:30 GMT</pubDate>
+            <description><![CDATA[How Zillow's homebuying scheme lost $881M]]></description>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊在秘密项目中故意让人难以取消Prime套餐]]></title>
+            <link>https://news.ycombinator.com/item?id=30723461</link>
+            <guid>https://news.ycombinator.com/item?id=30723461</guid>
+            <pubDate>Fri, 18 Mar 2022 15:25:09 GMT</pubDate>
+            <description><![CDATA[Amazon intentionally made it hard to cancel Prime subscription in secret project]]></description>
+        </item>
+        <item>
+            <title><![CDATA[死亡之线 (2017)]]></title>
+            <link>https://news.ycombinator.com/item?id=30721728</link>
+            <guid>https://news.ycombinator.com/item?id=30721728</guid>
+            <pubDate>Fri, 18 Mar 2022 13:10:20 GMT</pubDate>
+            <description><![CDATA[The Line of Death (2017)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[LibreWolf - Firefox的分叉，专注于隐私、安全和自由]]></title>
+            <link>https://news.ycombinator.com/item?id=30720301</link>
+            <guid>https://news.ycombinator.com/item?id=30720301</guid>
+            <pubDate>Fri, 18 Mar 2022 10:05:28 GMT</pubDate>
+            <description><![CDATA[LibreWolf – A fork of Firefox, focused on privacy, security and freedom]]></description>
+        </item>
         <item>
             <title><![CDATA[战争期间，哈尔科夫红宝石组织。我们还在这里]]></title>
             <link>https://news.ycombinator.com/item?id=30720995</link>

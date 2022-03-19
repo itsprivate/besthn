@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-18T14:53:34.097Z</updated>
+    <updated>2022-03-19T10:13:08.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,127 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Asahi Linux alpha release]]></title>
+        <id>https://news.ycombinator.com/item?id=30729212</id>
+        <link href="https://news.ycombinator.com/item?id=30729212"/>
+        <updated>2022-03-18T23:55:53.000Z</updated>
+        <summary type="html"><![CDATA[Asahi Linux alpha release]]></summary>
+        <author>
+            <name>robbiet480</name>
+            <uri>https://news.ycombinator.com/user?id=robbiet480</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[詹姆斯-韦伯望远镜的首批图像超出预期]]></title>
+        <id>https://news.ycombinator.com/item?id=30729109</id>
+        <link href="https://news.ycombinator.com/item?id=30729109"/>
+        <updated>2022-03-18T23:44:25.000Z</updated>
+        <summary type="html"><![CDATA[First images from James Webb telescope exceed expectations]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密货币是一个非生产性的泡沫]]></title>
+        <id>https://news.ycombinator.com/item?id=30728856</id>
+        <link href="https://news.ycombinator.com/item?id=30728856"/>
+        <updated>2022-03-18T23:16:19.000Z</updated>
+        <summary type="html"><![CDATA[Crypto is an unproductive bubble]]></summary>
+        <author>
+            <name>kolchinski</name>
+            <uri>https://news.ycombinator.com/user?id=kolchinski</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普京的寡头们如何买下伦敦]]></title>
+        <id>https://news.ycombinator.com/item?id=30728110</id>
+        <link href="https://news.ycombinator.com/item?id=30728110"/>
+        <updated>2022-03-18T22:02:40.000Z</updated>
+        <summary type="html"><![CDATA[How Putin’s Oligarchs Bought London]]></summary>
+        <author>
+            <name>null_object</name>
+            <uri>https://news.ycombinator.com/user?id=null_object</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[克里斯托弗-亚历山大已经去世]]></title>
+        <id>https://news.ycombinator.com/item?id=30727052</id>
+        <link href="https://news.ycombinator.com/item?id=30727052"/>
+        <updated>2022-03-18T20:24:07.000Z</updated>
+        <summary type="html"><![CDATA[Christopher Alexander has died]]></summary>
+        <author>
+            <name>voisin</name>
+            <uri>https://news.ycombinator.com/user?id=voisin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我是如何学会停止担心并将所有写作结构化为清单的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30725804</id>
+        <link href="https://news.ycombinator.com/item?id=30725804"/>
+        <updated>2022-03-18T18:31:19.000Z</updated>
+        <summary type="html"><![CDATA[How I learned to stop worrying and structure all writing as a list]]></summary>
+        <author>
+            <name>Naac</name>
+            <uri>https://news.ycombinator.com/user?id=Naac</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国学校可以以低于柴油的价格订购电动巴士车队]]></title>
+        <id>https://news.ycombinator.com/item?id=30725604</id>
+        <link href="https://news.ycombinator.com/item?id=30725604"/>
+        <updated>2022-03-18T18:12:59.000Z</updated>
+        <summary type="html"><![CDATA[US schools can subscribe to an electric bus fleet at lower prices than diesel]]></summary>
+        <author>
+            <name>orangebanana1</name>
+            <uri>https://news.ycombinator.com/user?id=orangebanana1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zillow的购房计划如何损失8.81亿美元]]></title>
+        <id>https://news.ycombinator.com/item?id=30723890</id>
+        <link href="https://news.ycombinator.com/item?id=30723890"/>
+        <updated>2022-03-18T16:00:30.000Z</updated>
+        <summary type="html"><![CDATA[How Zillow's homebuying scheme lost $881M]]></summary>
+        <author>
+            <name>spansoa</name>
+            <uri>https://news.ycombinator.com/user?id=spansoa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊在秘密项目中故意让人难以取消Prime套餐]]></title>
+        <id>https://news.ycombinator.com/item?id=30723461</id>
+        <link href="https://news.ycombinator.com/item?id=30723461"/>
+        <updated>2022-03-18T15:25:09.000Z</updated>
+        <summary type="html"><![CDATA[Amazon intentionally made it hard to cancel Prime subscription in secret project]]></summary>
+        <author>
+            <name>green-eclipse</name>
+            <uri>https://news.ycombinator.com/user?id=green-eclipse</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[死亡之线 (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=30721728</id>
+        <link href="https://news.ycombinator.com/item?id=30721728"/>
+        <updated>2022-03-18T13:10:20.000Z</updated>
+        <summary type="html"><![CDATA[The Line of Death (2017)]]></summary>
+        <author>
+            <name>Natfan</name>
+            <uri>https://news.ycombinator.com/user?id=Natfan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreWolf - Firefox的分叉，专注于隐私、安全和自由]]></title>
+        <id>https://news.ycombinator.com/item?id=30720301</id>
+        <link href="https://news.ycombinator.com/item?id=30720301"/>
+        <updated>2022-03-18T10:05:28.000Z</updated>
+        <summary type="html"><![CDATA[LibreWolf – A fork of Firefox, focused on privacy, security and freedom]]></summary>
+        <author>
+            <name>gizzlon</name>
+            <uri>https://news.ycombinator.com/user?id=gizzlon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[战争期间，哈尔科夫红宝石组织。我们还在这里]]></title>
         <id>https://news.ycombinator.com/item?id=30720995</id>

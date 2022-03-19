@@ -11,6 +11,138 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30729212",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30729212",
+            "title": "Asahi Linux alpha release",
+            "summary": "Asahi Linux alpha release",
+            "date_modified": "2022-03-18T23:55:53.000Z",
+            "author": {
+                "name": "robbiet480",
+                "url": "https://news.ycombinator.com/user?id=robbiet480"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30729109",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30729109",
+            "title": "詹姆斯-韋伯望遠鏡的首批圖像超出預期",
+            "summary": "First images from James Webb telescope exceed expectations",
+            "date_modified": "2022-03-18T23:44:25.000Z",
+            "author": {
+                "name": "mooreds",
+                "url": "https://news.ycombinator.com/user?id=mooreds"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30728856",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30728856",
+            "title": "加密貨幣是一個非生產性的泡沫",
+            "summary": "Crypto is an unproductive bubble",
+            "date_modified": "2022-03-18T23:16:19.000Z",
+            "author": {
+                "name": "kolchinski",
+                "url": "https://news.ycombinator.com/user?id=kolchinski"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30728110",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30728110",
+            "title": "普京的寡頭們如何買下倫敦",
+            "summary": "How Putin’s Oligarchs Bought London",
+            "date_modified": "2022-03-18T22:02:40.000Z",
+            "author": {
+                "name": "null_object",
+                "url": "https://news.ycombinator.com/user?id=null_object"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30727052",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30727052",
+            "title": "克里斯托弗-亞歷山大已經去世",
+            "summary": "Christopher Alexander has died",
+            "date_modified": "2022-03-18T20:24:07.000Z",
+            "author": {
+                "name": "voisin",
+                "url": "https://news.ycombinator.com/user?id=voisin"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30725804",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30725804",
+            "title": "我是如何學會停止擔心並將所有寫作結構化為清單的？",
+            "summary": "How I learned to stop worrying and structure all writing as a list",
+            "date_modified": "2022-03-18T18:31:19.000Z",
+            "author": {
+                "name": "Naac",
+                "url": "https://news.ycombinator.com/user?id=Naac"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30725604",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30725604",
+            "title": "美國學校可以以低於柴油的價格訂購電動巴士車隊",
+            "summary": "US schools can subscribe to an electric bus fleet at lower prices than diesel",
+            "date_modified": "2022-03-18T18:12:59.000Z",
+            "author": {
+                "name": "orangebanana1",
+                "url": "https://news.ycombinator.com/user?id=orangebanana1"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30723890",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30723890",
+            "title": "Zillow的購房計劃如何損失8.81億美元",
+            "summary": "How Zillow's homebuying scheme lost $881M",
+            "date_modified": "2022-03-18T16:00:30.000Z",
+            "author": {
+                "name": "spansoa",
+                "url": "https://news.ycombinator.com/user?id=spansoa"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30723461",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30723461",
+            "title": "亞馬遜在秘密項目中故意讓人難以取消Prime套餐",
+            "summary": "Amazon intentionally made it hard to cancel Prime subscription in secret project",
+            "date_modified": "2022-03-18T15:25:09.000Z",
+            "author": {
+                "name": "green-eclipse",
+                "url": "https://news.ycombinator.com/user?id=green-eclipse"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30721728",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30721728",
+            "title": "死亡之線 (2017)",
+            "summary": "The Line of Death (2017)",
+            "date_modified": "2022-03-18T13:10:20.000Z",
+            "author": {
+                "name": "Natfan",
+                "url": "https://news.ycombinator.com/user?id=Natfan"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30720301",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30720301",
+            "title": "LibreWolf - Firefox的分叉，專注於隱私、安全和自由",
+            "summary": "LibreWolf – A fork of Firefox, focused on privacy, security and freedom",
+            "date_modified": "2022-03-18T10:05:28.000Z",
+            "author": {
+                "name": "gizzlon",
+                "url": "https://news.ycombinator.com/user?id=gizzlon"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30720995",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30720995",
