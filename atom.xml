@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-19T17:17:52.205Z</updated>
+    <updated>2022-03-19T20:32:18.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个测试你对当地了解程度的游戏]]></title>
+        <id>https://news.ycombinator.com/item?id=30733339</id>
+        <link href="https://news.ycombinator.com/item?id=30733339"/>
+        <updated>2022-03-19T12:50:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A game that tests how well you know your local area]]></summary>
+        <author>
+            <name>adamlynch</name>
+            <uri>https://news.ycombinator.com/user?id=adamlynch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马里乌波尔的破坏。美联社记者记录战争的代价]]></title>
         <id>https://news.ycombinator.com/item?id=30725463</id>
