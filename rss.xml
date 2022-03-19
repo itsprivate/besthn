@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 19 Mar 2022 10:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 11:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[进入机械键盘的兔子洞]]></title>
+            <link>https://news.ycombinator.com/item?id=30719263</link>
+            <guid>https://news.ycombinator.com/item?id=30719263</guid>
+            <pubDate>Fri, 18 Mar 2022 06:37:38 GMT</pubDate>
+            <description><![CDATA[Down the mechanical keyboard rabbit hole]]></description>
+        </item>
+        <item>
+            <title><![CDATA[浏览器中的浏览器（BITB）攻击]]></title>
+            <link>https://news.ycombinator.com/item?id=30697329</link>
+            <guid>https://news.ycombinator.com/item?id=30697329</guid>
+            <pubDate>Wed, 16 Mar 2022 10:59:16 GMT</pubDate>
+            <description><![CDATA[Browser in the Browser (BITB) Attack]]></description>
+        </item>
         <item>
             <title><![CDATA[Asahi Linux alpha release]]></title>
             <link>https://news.ycombinator.com/item?id=30729212</link>

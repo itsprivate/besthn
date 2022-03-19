@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-19T10:13:08.851Z</updated>
+    <updated>2022-03-19T11:09:51.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[進入機械鍵盤的兔子洞]]></title>
+        <id>https://news.ycombinator.com/item?id=30719263</id>
+        <link href="https://news.ycombinator.com/item?id=30719263"/>
+        <updated>2022-03-18T06:37:38.000Z</updated>
+        <summary type="html"><![CDATA[Down the mechanical keyboard rabbit hole]]></summary>
+        <author>
+            <name>fowlie</name>
+            <uri>https://news.ycombinator.com/user?id=fowlie</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瀏覽器中的瀏覽器（BITB）攻擊]]></title>
+        <id>https://news.ycombinator.com/item?id=30697329</id>
+        <link href="https://news.ycombinator.com/item?id=30697329"/>
+        <updated>2022-03-16T10:59:16.000Z</updated>
+        <summary type="html"><![CDATA[Browser in the Browser (BITB) Attack]]></summary>
+        <author>
+            <name>jcynix</name>
+            <uri>https://news.ycombinator.com/user?id=jcynix</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Asahi Linux alpha release]]></title>
         <id>https://news.ycombinator.com/item?id=30729212</id>
