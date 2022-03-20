@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30726288",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30726288",
+            "title": "調查顯示：員工準備以較低的薪水工作，甚至辭職，他們只想做WFH。",
+            "summary": "Ready to Work at Lesser Salaries or Even Quit, Employees Want Only WFH: Survey",
+            "date_modified": "2022-03-18T19:12:24.000Z",
+            "author": {
+                "name": "rustoo",
+                "url": "https://news.ycombinator.com/user?id=rustoo"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30737311",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30737311",

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 19 Mar 2022 23:31:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 02:51:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[调查显示：员工准备以较低的薪水工作，甚至辞职，他们只想做WFH。]]></title>
+            <link>https://news.ycombinator.com/item?id=30726288</link>
+            <guid>https://news.ycombinator.com/item?id=30726288</guid>
+            <pubDate>Fri, 18 Mar 2022 19:12:24 GMT</pubDate>
+            <description><![CDATA[Ready to Work at Lesser Salaries or Even Quit, Employees Want Only WFH: Survey]]></description>
+        </item>
         <item>
             <title><![CDATA[亚利桑那州采取行动禁止录制警察视频]]></title>
             <link>https://news.ycombinator.com/item?id=30737311</link>

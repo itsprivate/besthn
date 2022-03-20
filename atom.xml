@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-19T23:31:52.239Z</updated>
+    <updated>2022-03-20T02:51:13.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[调查显示：员工准备以较低的薪水工作，甚至辞职，他们只想做WFH。]]></title>
+        <id>https://news.ycombinator.com/item?id=30726288</id>
+        <link href="https://news.ycombinator.com/item?id=30726288"/>
+        <updated>2022-03-18T19:12:24.000Z</updated>
+        <summary type="html"><![CDATA[Ready to Work at Lesser Salaries or Even Quit, Employees Want Only WFH: Survey]]></summary>
+        <author>
+            <name>rustoo</name>
+            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亚利桑那州采取行动禁止录制警察视频]]></title>
         <id>https://news.ycombinator.com/item?id=30737311</id>
