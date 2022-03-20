@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-20T07:11:44.107Z</updated>
+    <updated>2022-03-20T13:34:24.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[纽约市允许市民举报空驶车辆，以换取罚款的分成]]></title>
+        <id>https://news.ycombinator.com/item?id=30738715</id>
+        <link href="https://news.ycombinator.com/item?id=30738715"/>
+        <updated>2022-03-20T00:02:41.000Z</updated>
+        <summary type="html"><![CDATA[NYC allows citizens to report idling vehicles in exchange for a cut of the fines]]></summary>
+        <author>
+            <name>robszumski</name>
+            <uri>https://news.ycombinator.com/user?id=robszumski</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[波希米亚式的恐怖 "艾尔登环]]></title>
         <id>https://news.ycombinator.com/item?id=30733108</id>

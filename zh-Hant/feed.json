@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30738715",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30738715",
+            "title": "紐約市允許市民舉報空駛車輛，以換取罰款的分成",
+            "summary": "NYC allows citizens to report idling vehicles in exchange for a cut of the fines",
+            "date_modified": "2022-03-20T00:02:41.000Z",
+            "author": {
+                "name": "robszumski",
+                "url": "https://news.ycombinator.com/user?id=robszumski"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30733108",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30733108",
