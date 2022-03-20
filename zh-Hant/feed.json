@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30743371",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30743371",
+            "title": "維密歐。\"我們是一個B2B解決方案，而不是獨立版的YouTube\"。",
+            "summary": "Vimeo: “We are a B2B solution, not the indie version of YouTube.”",
+            "date_modified": "2022-03-20T15:24:03.000Z",
+            "author": {
+                "name": "bobitsaboy",
+                "url": "https://news.ycombinator.com/user?id=bobitsaboy"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30738715",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30738715",
