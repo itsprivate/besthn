@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-20T04:43:29.949Z</updated>
+    <updated>2022-03-20T07:11:44.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[波希米亞式的恐怖 "艾爾登環]]></title>
+        <id>https://news.ycombinator.com/item?id=30733108</id>
+        <link href="https://news.ycombinator.com/item?id=30733108"/>
+        <updated>2022-03-19T12:03:01.000Z</updated>
+        <summary type="html"><![CDATA[The Boschian Horror of ‘Elden Ring’]]></summary>
+        <author>
+            <name>keiferski</name>
+            <uri>https://news.ycombinator.com/user?id=keiferski</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什麼書改變了你的生活？]]></title>
         <id>https://news.ycombinator.com/item?id=30734709</id>
