@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30731983",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30731983",
+            "title": "苹果公司的通用控制",
+            "summary": "Apple’s Universal Control",
+            "date_modified": "2022-03-19T07:45:12.000Z",
+            "author": {
+                "name": "imartin2k",
+                "url": "https://news.ycombinator.com/user?id=imartin2k"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30749134",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30749134",
