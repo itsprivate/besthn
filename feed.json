@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30752942",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30752942",
+            "title": "苏美尔人的狗笑话，或翻译死人语言的难度",
+            "summary": "Sumerian dog jokes, or the difficulty of translating dead languages",
+            "date_modified": "2022-03-21T11:48:08.000Z",
+            "author": {
+                "name": "jsnell",
+                "url": "https://news.ycombinator.com/user?id=jsnell"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30750710",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30750710",
