@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 20 Mar 2022 22:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 02:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Windows操作系統需要改變優先次序]]></title>
+            <link>https://news.ycombinator.com/item?id=30747332</link>
+            <guid>https://news.ycombinator.com/item?id=30747332</guid>
+            <pubDate>Sun, 20 Mar 2022 22:24:22 GMT</pubDate>
+            <description><![CDATA[The Windows OS needs a change in priorities]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我認為美國大學教育比表面上更接近於崩潰]]></title>
+            <link>https://news.ycombinator.com/item?id=30744925</link>
+            <guid>https://news.ycombinator.com/item?id=30744925</guid>
+            <pubDate>Sun, 20 Mar 2022 17:56:55 GMT</pubDate>
+            <description><![CDATA[I think US college education is nearer to collapsing than it appears]]></description>
+        </item>
         <item>
             <title><![CDATA[Meld是一個針對開發者的可視化差異和合並工具。]]></title>
             <link>https://news.ycombinator.com/item?id=30741123</link>

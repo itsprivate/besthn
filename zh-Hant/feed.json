@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30747332",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30747332",
+            "title": "Windows操作系統需要改變優先次序",
+            "summary": "The Windows OS needs a change in priorities",
+            "date_modified": "2022-03-20T22:24:22.000Z",
+            "author": {
+                "name": "dend",
+                "url": "https://news.ycombinator.com/user?id=dend"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30744925",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30744925",
+            "title": "我認為美國大學教育比表面上更接近於崩潰",
+            "summary": "I think US college education is nearer to collapsing than it appears",
+            "date_modified": "2022-03-20T17:56:55.000Z",
+            "author": {
+                "name": "jger15",
+                "url": "https://news.ycombinator.com/user?id=jger15"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30741123",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30741123",

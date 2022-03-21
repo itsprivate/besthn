@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-20T22:11:55.370Z</updated>
+    <updated>2022-03-21T02:21:07.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Windows操作系統需要改變優先次序]]></title>
+        <id>https://news.ycombinator.com/item?id=30747332</id>
+        <link href="https://news.ycombinator.com/item?id=30747332"/>
+        <updated>2022-03-20T22:24:22.000Z</updated>
+        <summary type="html"><![CDATA[The Windows OS needs a change in priorities]]></summary>
+        <author>
+            <name>dend</name>
+            <uri>https://news.ycombinator.com/user?id=dend</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我認為美國大學教育比表面上更接近於崩潰]]></title>
+        <id>https://news.ycombinator.com/item?id=30744925</id>
+        <link href="https://news.ycombinator.com/item?id=30744925"/>
+        <updated>2022-03-20T17:56:55.000Z</updated>
+        <summary type="html"><![CDATA[I think US college education is nearer to collapsing than it appears]]></summary>
+        <author>
+            <name>jger15</name>
+            <uri>https://news.ycombinator.com/user?id=jger15</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meld是一個針對開發者的可視化差異和合並工具。]]></title>
         <id>https://news.ycombinator.com/item?id=30741123</id>
