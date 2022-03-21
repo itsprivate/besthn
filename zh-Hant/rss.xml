@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 21 Mar 2022 21:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 21:31:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[添加CSS的！！！重要的原因只有一個]]></title>
+            <link>https://news.ycombinator.com/item?id=30757259</link>
+            <guid>https://news.ycombinator.com/item?id=30757259</guid>
+            <pubDate>Mon, 21 Mar 2022 17:40:06 GMT</pubDate>
+            <description><![CDATA[CSS's !important was added for one reason only]]></description>
+        </item>
         <item>
             <title><![CDATA[OneWeb將恢復衛星發射，由SpaceX作為發射供應商]]></title>
             <link>https://news.ycombinator.com/item?id=30755077</link>
