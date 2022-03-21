@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-21T02:21:07.129Z</updated>
+    <updated>2022-03-21T05:52:17.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Cool-retro-term: 一个模仿老式阴极显示器的终端仿真器]]></title>
+        <id>https://news.ycombinator.com/item?id=30734137</id>
+        <link href="https://news.ycombinator.com/item?id=30734137"/>
+        <updated>2022-03-19T14:44:42.000Z</updated>
+        <summary type="html"><![CDATA[Cool-retro-term: A terminal emulator which mimics the old cathode display]]></summary>
+        <author>
+            <name>marcodiego</name>
+            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows操作系统需要改变优先次序]]></title>
         <id>https://news.ycombinator.com/item?id=30747332</id>
