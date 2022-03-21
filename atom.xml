@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-21T15:56:59.467Z</updated>
+    <updated>2022-03-21T21:13:02.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[OneWeb将恢复卫星发射，由SpaceX作为发射供应商]]></title>
+        <id>https://news.ycombinator.com/item?id=30755077</id>
+        <link href="https://news.ycombinator.com/item?id=30755077"/>
+        <updated>2022-03-21T15:19:18.000Z</updated>
+        <summary type="html"><![CDATA[OneWeb will resume satellite launches with SpaceX as the launch provider]]></summary>
+        <author>
+            <name>MPSimmons</name>
+            <uri>https://news.ycombinator.com/user?id=MPSimmons</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苏美尔人的狗笑话，或翻译死人语言的难度]]></title>
         <id>https://news.ycombinator.com/item?id=30752942</id>

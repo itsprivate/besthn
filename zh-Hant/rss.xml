@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 21 Mar 2022 15:56:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 21:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[OneWeb將恢復衛星發射，由SpaceX作為發射供應商]]></title>
+            <link>https://news.ycombinator.com/item?id=30755077</link>
+            <guid>https://news.ycombinator.com/item?id=30755077</guid>
+            <pubDate>Mon, 21 Mar 2022 15:19:18 GMT</pubDate>
+            <description><![CDATA[OneWeb will resume satellite launches with SpaceX as the launch provider]]></description>
+        </item>
         <item>
             <title><![CDATA[蘇美爾人的狗笑話，或翻譯死人語言的難度]]></title>
             <link>https://news.ycombinator.com/item?id=30752942</link>
