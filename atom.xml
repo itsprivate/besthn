@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-21T21:31:59.585Z</updated>
+    <updated>2022-03-22T00:39:03.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[纯文本体育]]></title>
+        <id>https://news.ycombinator.com/item?id=30754064</id>
+        <link href="https://news.ycombinator.com/item?id=30754064"/>
+        <updated>2022-03-21T13:47:29.000Z</updated>
+        <summary type="html"><![CDATA[Plain Text Sports]]></summary>
+        <author>
+            <name>abzug</name>
+            <uri>https://news.ycombinator.com/user?id=abzug</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[添加CSS的！！！重要的原因只有一个]]></title>
         <id>https://news.ycombinator.com/item?id=30757259</id>
