@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 22 Mar 2022 20:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 21:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Okta关于Lapsus$的最新声明]]></title>
+            <link>https://news.ycombinator.com/item?id=30769537</link>
+            <guid>https://news.ycombinator.com/item?id=30769537</guid>
+            <pubDate>Tue, 22 Mar 2022 18:19:49 GMT</pubDate>
+            <description><![CDATA[Updated Okta Statement on Lapsus$]]></description>
+        </item>
         <item>
             <title><![CDATA[谁会在没有集装箱的情况下进行大规模运营？]]></title>
             <link>https://news.ycombinator.com/item?id=30767393</link>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-22T20:33:59.209Z</updated>
+    <updated>2022-03-22T21:13:42.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Okta关于Lapsus$的最新声明]]></title>
+        <id>https://news.ycombinator.com/item?id=30769537</id>
+        <link href="https://news.ycombinator.com/item?id=30769537"/>
+        <updated>2022-03-22T18:19:49.000Z</updated>
+        <summary type="html"><![CDATA[Updated Okta Statement on Lapsus$]]></summary>
+        <author>
+            <name>rcoppolo</name>
+            <uri>https://news.ycombinator.com/user?id=rcoppolo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谁会在没有集装箱的情况下进行大规模运营？]]></title>
         <id>https://news.ycombinator.com/item?id=30767393</id>
