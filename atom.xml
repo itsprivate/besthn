@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-22T07:38:43.202Z</updated>
+    <updated>2022-03-22T08:53:15.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lanai，LLVM中神秘的CPU架构]]></title>
+        <id>https://news.ycombinator.com/item?id=30757889</id>
+        <link href="https://news.ycombinator.com/item?id=30757889"/>
+        <updated>2022-03-21T18:31:10.000Z</updated>
+        <summary type="html"><![CDATA[Lanai, the mystery CPU architecture in LLVM]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微服务。我们为什么要这样做？]]></title>
         <id>https://news.ycombinator.com/item?id=30758723</id>
