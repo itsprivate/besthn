@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30753127",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30753127",
+            "title": "被認為是有害的鉤子",
+            "summary": "Hooks Considered Harmful",
+            "date_modified": "2022-03-21T12:11:29.000Z",
+            "author": {
+                "name": "smtx",
+                "url": "https://news.ycombinator.com/user?id=smtx"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30755861",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30755861",
