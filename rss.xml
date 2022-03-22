@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 22 Mar 2022 19:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 20:33:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谁会在没有集装箱的情况下进行大规模运营？]]></title>
+            <link>https://news.ycombinator.com/item?id=30767393</link>
+            <guid>https://news.ycombinator.com/item?id=30767393</guid>
+            <pubDate>Tue, 22 Mar 2022 15:37:32 GMT</pubDate>
+            <description><![CDATA[Ask HN: Who operates at scale without containers?]]></description>
+        </item>
         <item>
             <title><![CDATA[托尔金的绘画作品]]></title>
             <link>https://news.ycombinator.com/item?id=30764886</link>

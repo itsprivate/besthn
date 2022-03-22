@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-22T19:27:59.383Z</updated>
+    <updated>2022-03-22T20:33:59.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谁会在没有集装箱的情况下进行大规模运营？]]></title>
+        <id>https://news.ycombinator.com/item?id=30767393</id>
+        <link href="https://news.ycombinator.com/item?id=30767393"/>
+        <updated>2022-03-22T15:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who operates at scale without containers?]]></summary>
+        <author>
+            <name>disintegore</name>
+            <uri>https://news.ycombinator.com/user?id=disintegore</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[托尔金的绘画作品]]></title>
         <id>https://news.ycombinator.com/item?id=30764886</id>
