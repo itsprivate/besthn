@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30770206",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30770206",
+            "title": "我们有羞辱和顺从《纽约时报》的基本权利",
+            "summary": "Our Fundamental Right to Shame and Shun the New York Times",
+            "date_modified": "2022-03-22T19:14:08.000Z",
+            "author": {
+                "name": "tptacek",
+                "url": "https://news.ycombinator.com/user?id=tptacek"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30760923",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30760923",
