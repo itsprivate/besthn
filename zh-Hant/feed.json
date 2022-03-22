@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30763522",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30763522",
+            "title": "奔馳公司在Drive Pilot激活時接受對車輛的法律責任",
+            "summary": "Mercedes to accept legal responsibility for a vehicle when Drive Pilot is active",
+            "date_modified": "2022-03-22T07:31:44.000Z",
+            "author": {
+                "name": "gscott",
+                "url": "https://news.ycombinator.com/user?id=gscott"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30763464",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30763464",
