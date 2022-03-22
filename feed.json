@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30755861",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30755861",
+            "title": "你为什么不使用",
+            "summary": "Why Don't You Use",
+            "date_modified": "2022-03-21T16:16:56.000Z",
+            "author": {
+                "name": "janvdberg",
+                "url": "https://news.ycombinator.com/user?id=janvdberg"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30758811",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30758811",
