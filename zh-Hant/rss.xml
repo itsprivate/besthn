@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 22 Mar 2022 14:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 15:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我在編程20年後的指導原則（2020年）]]></title>
+            <link>https://news.ycombinator.com/item?id=30763516</link>
+            <guid>https://news.ycombinator.com/item?id=30763516</guid>
+            <pubDate>Tue, 22 Mar 2022 07:30:15 GMT</pubDate>
+            <description><![CDATA[My guiding principles after 20 years of programming (2020)]]></description>
+        </item>
         <item>
             <title><![CDATA[Cloudflare使我無法取消對營銷郵件的訂閱]]></title>
             <link>https://news.ycombinator.com/item?id=30764757</link>
