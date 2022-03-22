@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-22T11:12:24.605Z</updated>
+    <updated>2022-03-22T11:37:17.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果公司倒下了嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30756636</id>
+        <link href="https://news.ycombinator.com/item?id=30756636"/>
+        <updated>2022-03-21T17:03:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is Apple down?]]></summary>
+        <author>
+            <name>crgt</name>
+            <uri>https://news.ycombinator.com/user?id=crgt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[奔馳公司在Drive Pilot激活時接受對車輛的法律責任]]></title>
         <id>https://news.ycombinator.com/item?id=30763522</id>
