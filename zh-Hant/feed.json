@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30781536",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30781536",
+            "title": "開始自我託管",
+            "summary": "Start Self Hosting",
+            "date_modified": "2022-03-23T18:16:24.000Z",
+            "author": {
+                "name": "quaintdev",
+                "url": "https://news.ycombinator.com/user?id=quaintdev"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30776808",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30776808",
