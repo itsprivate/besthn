@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30766650",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30766650",
+            "title": "Java 18 / JDK 18：全面上市",
+            "summary": "Java 18 / JDK 18: General Availability",
+            "date_modified": "2022-03-22T14:41:15.000Z",
+            "author": {
+                "name": "todsacerdoti",
+                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30774457",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30774457",
