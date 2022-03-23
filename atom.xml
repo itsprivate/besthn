@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-23T05:51:17.182Z</updated>
+    <updated>2022-03-23T06:15:23.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Appwrite - 开源和自我托管的Firebase替代品]]></title>
+        <id>https://news.ycombinator.com/item?id=30769044</id>
+        <link href="https://news.ycombinator.com/item?id=30769044"/>
+        <updated>2022-03-22T17:37:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Appwrite – Open-Source and Self Hosted Firebase Alternative]]></summary>
+        <author>
+            <name>christyjacob4</name>
+            <uri>https://news.ycombinator.com/user?id=christyjacob4</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nvidia Hopper GPU架构和H100加速器]]></title>
         <id>https://news.ycombinator.com/item?id=30767586</id>
