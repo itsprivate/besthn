@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30775433",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30775433",
+            "title": "斯維奇內核中百萬分之一的錯誤",
+            "summary": "A one in a million bug in Switch kernel",
+            "date_modified": "2022-03-23T05:57:03.000Z",
+            "author": {
+                "name": "vedanshbhartia",
+                "url": "https://news.ycombinator.com/user?id=vedanshbhartia"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30766650",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30766650",
