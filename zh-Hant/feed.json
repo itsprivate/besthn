@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30774406",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30774406",
+            "title": "DEV-0537 (LAPSUS$) 針對組織的犯罪行為人",
+            "summary": "DEV-0537 (LAPSUS$) Criminal actor targeting organizations",
+            "date_modified": "2022-03-23T03:05:53.000Z",
+            "author": {
+                "name": "Hawxy",
+                "url": "https://news.ycombinator.com/user?id=Hawxy"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30775433",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30775433",
