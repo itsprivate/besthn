@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 23 Mar 2022 20:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 21:52:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GitHub事件 2022-03-23]]></title>
+            <link>https://news.ycombinator.com/item?id=30779046</link>
+            <guid>https://news.ycombinator.com/item?id=30779046</guid>
+            <pubDate>Wed, 23 Mar 2022 14:51:45 GMT</pubDate>
+            <description><![CDATA[GitHub incident 2022-03-23]]></description>
+        </item>
         <item>
             <title><![CDATA[开始自我托管]]></title>
             <link>https://news.ycombinator.com/item?id=30781536</link>
