@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-23T06:15:23.085Z</updated>
+    <updated>2022-03-23T06:39:13.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Web3是集中式的（而且效率不高）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30774457</id>
+        <link href="https://news.ycombinator.com/item?id=30774457"/>
+        <updated>2022-03-23T03:12:40.000Z</updated>
+        <summary type="html"><![CDATA[Web3 Is Centralized (and Inefficient)]]></summary>
+        <author>
+            <name>neelc</name>
+            <uri>https://news.ycombinator.com/user?id=neelc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Appwrite - 開源和自我託管的Firebase替代品]]></title>
         <id>https://news.ycombinator.com/item?id=30769044</id>
