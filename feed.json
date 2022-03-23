@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30776808",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30776808",
+            "title": "谢谢你，HN",
+            "summary": "Thank You HN",
+            "date_modified": "2022-03-23T09:59:43.000Z",
+            "author": {
+                "name": "vitalipom",
+                "url": "https://news.ycombinator.com/user?id=vitalipom"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30775180",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30775180",
+            "title": "Okta对2022年1月妥协事件的调查",
+            "summary": "Okta’s Investigation of the January 2022 Compromise",
+            "date_modified": "2022-03-23T05:08:59.000Z",
+            "author": {
+                "name": "photon12",
+                "url": "https://news.ycombinator.com/user?id=photon12"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30774724",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30774724",
+            "title": "由于我对Emacs的贡献，我获得了FSF颁发的奖项",
+            "summary": "I won an award from the FSF for my contributions to Emacs",
+            "date_modified": "2022-03-23T03:50:53.000Z",
+            "author": {
+                "name": "codingquark",
+                "url": "https://news.ycombinator.com/user?id=codingquark"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30774406",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30774406",
