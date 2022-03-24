@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-24T16:42:23.230Z</updated>
+    <updated>2022-03-24T17:43:37.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果你不使用SSH證書，你就做錯了SSH (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=30788544</id>
+        <link href="https://news.ycombinator.com/item?id=30788544"/>
+        <updated>2022-03-24T11:46:33.000Z</updated>
+        <summary type="html"><![CDATA[If you’re not using SSH certificates you’re doing SSH wrong (2019)]]></summary>
+        <author>
+            <name>noyesno</name>
+            <uri>https://news.ycombinator.com/user?id=noyesno</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告訴HN：需要有一個 "與人交談的權利"]]></title>
         <id>https://news.ycombinator.com/item?id=30788681</id>
