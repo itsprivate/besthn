@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30771149",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30771149",
+            "title": "Kubernetes中 \"優雅關機 \"的問題（2019年）",
+            "summary": "Problems with “graceful shutdown” in Kubernetes (2019)",
+            "date_modified": "2022-03-22T20:34:35.000Z",
+            "author": {
+                "name": "richardfey",
+                "url": "https://news.ycombinator.com/user?id=richardfey"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30783051",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30783051",
