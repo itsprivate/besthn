@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30789387",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30789387",
+            "title": "開放式高爾夫：用C語言編寫的跨平臺迷你高爾夫遊戲",
+            "summary": "Open Golf: A cross-platform minigolf game written in C",
+            "date_modified": "2022-03-24T13:23:43.000Z",
+            "author": {
+                "name": "10000truths",
+                "url": "https://news.ycombinator.com/user?id=10000truths"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30792365",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30792365",
