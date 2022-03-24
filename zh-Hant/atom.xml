@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-24T20:14:19.477Z</updated>
+    <updated>2022-03-24T21:34:04.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[烏鴉知道自己知道什麼，可以思考自己的思想內容]]></title>
+        <id>https://news.ycombinator.com/item?id=30792057</id>
+        <link href="https://news.ycombinator.com/item?id=30792057"/>
+        <updated>2022-03-24T16:23:05.000Z</updated>
+        <summary type="html"><![CDATA[Crows know what they know and can ponder the content of their own minds]]></summary>
+        <author>
+            <name>SubiculumCode</name>
+            <uri>https://news.ycombinator.com/user?id=SubiculumCode</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我成為世界上最多產的DJ，使用代碼]]></title>
+        <id>https://news.ycombinator.com/item?id=30789308</id>
+        <link href="https://news.ycombinator.com/item?id=30789308"/>
+        <updated>2022-03-24T13:17:24.000Z</updated>
+        <summary type="html"><![CDATA[I became the world's most prolific DJ, using code]]></summary>
+        <author>
+            <name>redcodenl</name>
+            <uri>https://news.ycombinator.com/user?id=redcodenl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在其推出近37年後，有人在Windows 1.0中發現了一個復活節彩蛋]]></title>
+        <id>https://news.ycombinator.com/item?id=30777228</id>
+        <link href="https://news.ycombinator.com/item?id=30777228"/>
+        <updated>2022-03-23T11:12:32.000Z</updated>
+        <summary type="html"><![CDATA[Almost 37 years after its launch, someone found an Easter egg in Windows 1.0]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[開放式高爾夫：用C語言編寫的跨平臺迷你高爾夫遊戲]]></title>
         <id>https://news.ycombinator.com/item?id=30789387</id>

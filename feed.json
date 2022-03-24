@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30792057",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30792057",
+            "title": "乌鸦知道自己知道什么，可以思考自己的思想内容",
+            "summary": "Crows know what they know and can ponder the content of their own minds",
+            "date_modified": "2022-03-24T16:23:05.000Z",
+            "author": {
+                "name": "SubiculumCode",
+                "url": "https://news.ycombinator.com/user?id=SubiculumCode"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30789308",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30789308",
+            "title": "我成为世界上最多产的DJ，使用代码",
+            "summary": "I became the world's most prolific DJ, using code",
+            "date_modified": "2022-03-24T13:17:24.000Z",
+            "author": {
+                "name": "redcodenl",
+                "url": "https://news.ycombinator.com/user?id=redcodenl"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30777228",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30777228",
+            "title": "在其推出近37年后，有人在Windows 1.0中发现了一个复活节彩蛋",
+            "summary": "Almost 37 years after its launch, someone found an Easter egg in Windows 1.0",
+            "date_modified": "2022-03-23T11:12:32.000Z",
+            "author": {
+                "name": "rbanffy",
+                "url": "https://news.ycombinator.com/user?id=rbanffy"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30789387",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30789387",
