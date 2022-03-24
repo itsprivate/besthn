@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 24 Mar 2022 03:54:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 06:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[圖示。Lucidchart的開源替代品]]></title>
+            <link>https://news.ycombinator.com/item?id=30780108</link>
+            <guid>https://news.ycombinator.com/item?id=30780108</guid>
+            <pubDate>Wed, 23 Mar 2022 16:22:17 GMT</pubDate>
+            <description><![CDATA[Diagrams: Open-Source Alternative to Lucidchart]]></description>
+        </item>
         <item>
             <title><![CDATA[但生活有其他計劃]]></title>
             <link>https://news.ycombinator.com/item?id=30784939</link>
