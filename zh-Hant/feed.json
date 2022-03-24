@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30795015",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30795015",
+            "title": "Applebee's執行總裁敦促利用高油價推動降低工資，引發罷工事件",
+            "summary": "Applebee’s exec urges using high gas prices to push lower wages, sparks walkout",
+            "date_modified": "2022-03-24T20:33:18.000Z",
+            "author": {
+                "name": "Geekette",
+                "url": "https://news.ycombinator.com/user?id=Geekette"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30792057",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30792057",

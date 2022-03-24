@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 24 Mar 2022 21:34:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 22:51:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Applebee's執行總裁敦促利用高油價推動降低工資，引發罷工事件]]></title>
+            <link>https://news.ycombinator.com/item?id=30795015</link>
+            <guid>https://news.ycombinator.com/item?id=30795015</guid>
+            <pubDate>Thu, 24 Mar 2022 20:33:18 GMT</pubDate>
+            <description><![CDATA[Applebee’s exec urges using high gas prices to push lower wages, sparks walkout]]></description>
+        </item>
         <item>
             <title><![CDATA[烏鴉知道自己知道什麼，可以思考自己的思想內容]]></title>
             <link>https://news.ycombinator.com/item?id=30792057</link>
