@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-25T09:13:12.745Z</updated>
+    <updated>2022-03-25T13:29:34.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[所以，你想成为一个暗网大毒枭]]></title>
+        <id>https://news.ycombinator.com/item?id=30788530</id>
+        <link href="https://news.ycombinator.com/item?id=30788530"/>
+        <updated>2022-03-24T11:45:14.000Z</updated>
+        <summary type="html"><![CDATA[So, you want to be a darknet drug lord]]></summary>
+        <author>
+            <name>davikr</name>
+            <uri>https://news.ycombinator.com/user?id=davikr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[循证医学的幻觉]]></title>
         <id>https://news.ycombinator.com/item?id=30793352</id>
