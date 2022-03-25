@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-24T22:51:21.126Z</updated>
+    <updated>2022-03-25T00:37:06.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在收到6.9万美元的医院账单后，YouTuber建立了自己的X光机（2021年）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30789046</id>
+        <link href="https://news.ycombinator.com/item?id=30789046"/>
+        <updated>2022-03-24T12:52:14.000Z</updated>
+        <summary type="html"><![CDATA[YouTuber builds his own x-ray machine after $69k hospital bill (2021)]]></summary>
+        <author>
+            <name>ck2</name>
+            <uri>https://news.ycombinator.com/user?id=ck2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Applebee's执行总裁敦促利用高油价推动降低工资，引发罢工事件]]></title>
         <id>https://news.ycombinator.com/item?id=30795015</id>

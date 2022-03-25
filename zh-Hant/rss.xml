@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 24 Mar 2022 22:51:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 00:37:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在收到6.9萬美元的醫院賬單後，YouTuber建立了自己的X光機（2021年）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30789046</link>
+            <guid>https://news.ycombinator.com/item?id=30789046</guid>
+            <pubDate>Thu, 24 Mar 2022 12:52:14 GMT</pubDate>
+            <description><![CDATA[YouTuber builds his own x-ray machine after $69k hospital bill (2021)]]></description>
+        </item>
         <item>
             <title><![CDATA[Applebee's執行總裁敦促利用高油價推動降低工資，引發罷工事件]]></title>
             <link>https://news.ycombinator.com/item?id=30795015</link>
