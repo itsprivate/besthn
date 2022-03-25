@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30803589",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30803589",
+            "title": "我为GitHub问题建立了一个收据打印机",
+            "summary": "I built a receipt printer for GitHub issues",
+            "date_modified": "2022-03-25T15:49:18.000Z",
+            "author": {
+                "name": "horsellama",
+                "url": "https://news.ycombinator.com/user?id=horsellama"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30800715",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30800715",
