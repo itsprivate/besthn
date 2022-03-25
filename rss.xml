@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 25 Mar 2022 00:37:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 02:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[漂亮的GTK按钮的结束]]></title>
+            <link>https://news.ycombinator.com/item?id=30795846</link>
+            <guid>https://news.ycombinator.com/item?id=30795846</guid>
+            <pubDate>Thu, 24 Mar 2022 21:58:13 GMT</pubDate>
+            <description><![CDATA[The end of the nice GTK button]]></description>
+        </item>
         <item>
             <title><![CDATA[在收到6.9万美元的医院账单后，YouTuber建立了自己的X光机（2021年）。]]></title>
             <link>https://news.ycombinator.com/item?id=30789046</link>
