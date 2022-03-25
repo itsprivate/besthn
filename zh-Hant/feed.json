@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30790964",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30790964",
+            "title": "為什麼開發者不再製作桌面應用程序了？",
+            "summary": "Ask HN: Why aren't devs making desktop apps any more?",
+            "date_modified": "2022-03-24T15:09:34.000Z",
+            "author": {
+                "name": "sirjaz",
+                "url": "https://news.ycombinator.com/user?id=sirjaz"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30801912",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30801912",
