@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 25 Mar 2022 05:51:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 07:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[立方体规则]]></title>
+            <link>https://news.ycombinator.com/item?id=30793622</link>
+            <guid>https://news.ycombinator.com/item?id=30793622</guid>
+            <pubDate>Thu, 24 Mar 2022 18:27:18 GMT</pubDate>
+            <description><![CDATA[The Cube Rule]]></description>
+        </item>
         <item>
             <title><![CDATA[费曼物理学讲座》（1964年）]]></title>
             <link>https://news.ycombinator.com/item?id=30792902</link>
