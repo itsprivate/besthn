@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-25T02:14:33.437Z</updated>
+    <updated>2022-03-25T02:59:32.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[A.out的出路]]></title>
+        <id>https://news.ycombinator.com/item?id=30792059</id>
+        <link href="https://news.ycombinator.com/item?id=30792059"/>
+        <updated>2022-03-24T16:23:18.000Z</updated>
+        <summary type="html"><![CDATA[A Way Out for A.out]]></summary>
+        <author>
+            <name>bitcharmer</name>
+            <uri>https://news.ycombinator.com/user?id=bitcharmer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[漂亮的GTK按钮的结束]]></title>
         <id>https://news.ycombinator.com/item?id=30795846</id>
