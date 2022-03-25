@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30792902",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30792902",
+            "title": "費曼物理學講座》（1964年）",
+            "summary": "The Feynman Lectures on Physics (1964)",
+            "date_modified": "2022-03-24T17:27:31.000Z",
+            "author": {
+                "name": "simplicialset",
+                "url": "https://news.ycombinator.com/user?id=simplicialset"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30794308",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30794308",
