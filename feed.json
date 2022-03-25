@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30798274",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30798274",
+            "title": "波斯蒂科。适用于Mac的现代PostgreSQL客户端",
+            "summary": "Postico: A Modern PostgreSQL Client for the Mac",
+            "date_modified": "2022-03-25T03:16:33.000Z",
+            "author": {
+                "name": "modinfo",
+                "url": "https://news.ycombinator.com/user?id=modinfo"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30788530",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30788530",
