@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-25T07:12:20.719Z</updated>
+    <updated>2022-03-25T09:13:12.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[循证医学的幻觉]]></title>
+        <id>https://news.ycombinator.com/item?id=30793352</id>
+        <link href="https://news.ycombinator.com/item?id=30793352"/>
+        <updated>2022-03-24T17:59:44.000Z</updated>
+        <summary type="html"><![CDATA[The illusion of evidence based medicine]]></summary>
+        <author>
+            <name>pueblito</name>
+            <uri>https://news.ycombinator.com/user?id=pueblito</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[立方体规则]]></title>
         <id>https://news.ycombinator.com/item?id=30793622</id>
