@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-26T04:40:08.432Z</updated>
+    <updated>2022-03-26T04:58:21.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[经编辑的后进者的加密货币指南]]></title>
+        <id>https://news.ycombinator.com/item?id=30804984</id>
+        <link href="https://news.ycombinator.com/item?id=30804984"/>
+        <updated>2022-03-25T17:32:21.000Z</updated>
+        <summary type="html"><![CDATA[The Edited Latecomer’s Guide to Crypto]]></summary>
+        <author>
+            <name>colesantiago</name>
+            <uri>https://news.ycombinator.com/user?id=colesantiago</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[约翰-罗梅罗在冗长的事后谈话中透露了《狼人杀3D》的秘密]]></title>
         <id>https://news.ycombinator.com/item?id=30788475</id>
