@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-26T02:16:10.582Z</updated>
+    <updated>2022-03-26T04:14:16.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[貓咪打印機]]></title>
+        <id>https://news.ycombinator.com/item?id=30804204</id>
+        <link href="https://news.ycombinator.com/item?id=30804204"/>
+        <updated>2022-03-25T16:34:12.000Z</updated>
+        <summary type="html"><![CDATA[Cat Printer]]></summary>
+        <author>
+            <name>newman314</name>
+            <uri>https://news.ycombinator.com/user?id=newman314</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[皮欽語。通用的聊天客戶端]]></title>
+        <id>https://news.ycombinator.com/item?id=30802832</id>
+        <link href="https://news.ycombinator.com/item?id=30802832"/>
+        <updated>2022-03-25T14:49:24.000Z</updated>
+        <summary type="html"><![CDATA[Pidgin: The Universal Chat Client]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nvidia的研究在眨眼間將2D照片變成3D場景的AI]]></title>
         <id>https://news.ycombinator.com/item?id=30806925</id>
