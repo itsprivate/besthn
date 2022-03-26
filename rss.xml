@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 26 Mar 2022 04:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 04:40:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[约翰-罗梅罗在冗长的事后谈话中透露了《狼人杀3D》的秘密]]></title>
+            <link>https://news.ycombinator.com/item?id=30788475</link>
+            <guid>https://news.ycombinator.com/item?id=30788475</guid>
+            <pubDate>Thu, 24 Mar 2022 11:37:31 GMT</pubDate>
+            <description><![CDATA[Wolfenstein 3D secrets revealed by John Romero in lengthy post-mortem chat]]></description>
+        </item>
         <item>
             <title><![CDATA[猫咪打印机]]></title>
             <link>https://news.ycombinator.com/item?id=30804204</link>
