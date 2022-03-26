@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30806925",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30806925",
+            "title": "Nvidia的研究在眨眼间将2D照片变成3D场景的AI",
+            "summary": "Nvidia Research Turns 2D Photos into 3D Scenes in the Blink of an AI",
+            "date_modified": "2022-03-25T20:51:04.000Z",
+            "author": {
+                "name": "bcaulfield",
+                "url": "https://news.ycombinator.com/user?id=bcaulfield"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30804702",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30804702",

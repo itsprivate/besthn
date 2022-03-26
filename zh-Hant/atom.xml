@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-25T22:42:27.779Z</updated>
+    <updated>2022-03-26T02:16:10.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Nvidia的研究在眨眼間將2D照片變成3D場景的AI]]></title>
+        <id>https://news.ycombinator.com/item?id=30806925</id>
+        <link href="https://news.ycombinator.com/item?id=30806925"/>
+        <updated>2022-03-25T20:51:04.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia Research Turns 2D Photos into 3D Scenes in the Blink of an AI]]></summary>
+        <author>
+            <name>bcaulfield</name>
+            <uri>https://news.ycombinator.com/user?id=bcaulfield</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本田的各種車輛在每次打開車門時都會發送相同的、未加密的射頻信號。]]></title>
         <id>https://news.ycombinator.com/item?id=30804702</id>
