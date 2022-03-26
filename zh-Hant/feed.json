@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30803165",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30803165",
+            "title": "研究發現，半數婦女會得到假陽性的3D乳房X光檢查結果",
+            "summary": "Half of women will get a false positive 3D mammogram, study finds",
+            "date_modified": "2022-03-25T15:15:45.000Z",
+            "author": {
+                "name": "samizdis",
+                "url": "https://news.ycombinator.com/user?id=samizdis"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30811187",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30811187",
