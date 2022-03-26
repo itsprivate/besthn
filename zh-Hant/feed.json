@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30811297",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30811297",
+            "title": "谷歌摧毀了我的Play開發者賬戶和我過去2年的工作",
+            "summary": "Google destroyed my Play Developer Account and my work for the last 2 years",
+            "date_modified": "2022-03-26T12:31:11.000Z",
+            "author": {
+                "name": "miphik",
+                "url": "https://news.ycombinator.com/user?id=miphik"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30803165",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30803165",
