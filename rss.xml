@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 27 Mar 2022 05:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 10:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[网络浏览器中的Python 3.11]]></title>
+            <link>https://news.ycombinator.com/item?id=30815122</link>
+            <guid>https://news.ycombinator.com/item?id=30815122</guid>
+            <pubDate>Sat, 26 Mar 2022 20:35:40 GMT</pubDate>
+            <description><![CDATA[Python 3.11 in the Web Browser]]></description>
+        </item>
         <item>
             <title><![CDATA[Postgres.js - 用于Node和Deno的最快速的全功能PostgreSQL客户端]]></title>
             <link>https://news.ycombinator.com/item?id=30794332</link>
