@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-27T19:11:09.918Z</updated>
+    <updated>2022-03-27T19:37:03.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[双75"4K电视地面计算]]></title>
+        <id>https://news.ycombinator.com/item?id=30820072</id>
+        <link href="https://news.ycombinator.com/item?id=30820072"/>
+        <updated>2022-03-27T13:28:31.000Z</updated>
+        <summary type="html"><![CDATA[Dual 75“ 4K TV Floor Computing]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从亚马逊获取我的个人数据是几周的混乱和乏味]]></title>
         <id>https://news.ycombinator.com/item?id=30820424</id>

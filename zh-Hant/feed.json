@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30820072",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30820072",
+            "title": "雙75\"4K電視地面計算",
+            "summary": "Dual 75“ 4K TV Floor Computing",
+            "date_modified": "2022-03-27T13:28:31.000Z",
+            "author": {
+                "name": "walterbell",
+                "url": "https://news.ycombinator.com/user?id=walterbell"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30820424",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30820424",
