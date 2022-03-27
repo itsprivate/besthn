@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30820424",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30820424",
+            "title": "從亞馬遜獲取我的個人數據是幾周的混亂和乏味",
+            "summary": "Getting my personal data from Amazon was weeks of confusion and tedium",
+            "date_modified": "2022-03-27T14:17:09.000Z",
+            "author": {
+                "name": "Ansil849",
+                "url": "https://news.ycombinator.com/user?id=Ansil849"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30818895",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30818895",
