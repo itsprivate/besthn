@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30823872",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30823872",
+            "title": "谷歌取消Google Play出版商賬戶，終止家庭收入來源",
+            "summary": "Google cancels Google Play publisher account and ends family’s source of income",
+            "date_modified": "2022-03-27T20:39:02.000Z",
+            "author": {
+                "name": "heavyset_go",
+                "url": "https://news.ycombinator.com/user?id=heavyset_go"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30820894",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30820894",
