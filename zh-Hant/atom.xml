@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-28T02:28:45.817Z</updated>
+    <updated>2022-03-28T08:40:35.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[錢到底是什麼？]]></title>
+        <id>https://news.ycombinator.com/item?id=30825505</id>
+        <link href="https://news.ycombinator.com/item?id=30825505"/>
+        <updated>2022-03-28T00:09:00.000Z</updated>
+        <summary type="html"><![CDATA[What is money, anyway?]]></summary>
+        <author>
+            <name>cyber_kinetist</name>
+            <uri>https://news.ycombinator.com/user?id=cyber_kinetist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我正在寫一本名為《計算機網絡從零開始》的免費書籍]]></title>
         <id>https://news.ycombinator.com/item?id=30824357</id>
