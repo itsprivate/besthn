@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 28 Mar 2022 17:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 17:53:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[麻省理工學院恢復其SAT/ACT要求]]></title>
+            <link>https://news.ycombinator.com/item?id=30832350</link>
+            <guid>https://news.ycombinator.com/item?id=30832350</guid>
+            <pubDate>Mon, 28 Mar 2022 16:35:29 GMT</pubDate>
+            <description><![CDATA[MIT reinstates its SAT/ACT requirement]]></description>
+        </item>
         <item>
             <title><![CDATA[福島事件後日本大多數人首次支持核電]]></title>
             <link>https://news.ycombinator.com/item?id=30831485</link>
