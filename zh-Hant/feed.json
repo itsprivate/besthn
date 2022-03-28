@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30831688",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30831688",
+            "title": "我在一個奇妙的創業想法上浪費了4萬美元（2020年）。",
+            "summary": "I wasted $40k on a fantastic startup idea (2020)",
+            "date_modified": "2022-03-28T15:41:52.000Z",
+            "author": {
+                "name": "webmaven",
+                "url": "https://news.ycombinator.com/user?id=webmaven"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30832350",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30832350",
