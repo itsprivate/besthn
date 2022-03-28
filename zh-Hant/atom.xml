@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-28T16:51:05.633Z</updated>
+    <updated>2022-03-28T17:09:13.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[福島事件後日本大多數人首次支持核電]]></title>
+        <id>https://news.ycombinator.com/item?id=30831485</id>
+        <link href="https://news.ycombinator.com/item?id=30831485"/>
+        <updated>2022-03-28T15:24:25.000Z</updated>
+        <summary type="html"><![CDATA[Majority in Japan backs nuclear power for first time since Fukushima]]></summary>
+        <author>
+            <name>karaokeyoga</name>
+            <uri>https://news.ycombinator.com/user?id=karaokeyoga</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼你也許不應該如此努力工作]]></title>
         <id>https://news.ycombinator.com/item?id=30829243</id>

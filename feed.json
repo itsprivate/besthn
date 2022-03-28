@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30831485",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30831485",
+            "title": "福岛事件后日本大多数人首次支持核电",
+            "summary": "Majority in Japan backs nuclear power for first time since Fukushima",
+            "date_modified": "2022-03-28T15:24:25.000Z",
+            "author": {
+                "name": "karaokeyoga",
+                "url": "https://news.ycombinator.com/user?id=karaokeyoga"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30829243",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30829243",
