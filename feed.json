@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30828884",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30828884",
+            "title": "我手腕上的氧化物 PineTime上的傲慢是最好最坏的想法",
+            "summary": "Oxide on My Wrist: Hubris on PineTime was the best worst idea",
+            "date_modified": "2022-03-28T09:51:18.000Z",
+            "author": {
+                "name": "todsacerdoti",
+                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30831386",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30831386",
