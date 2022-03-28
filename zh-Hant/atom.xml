@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-28T14:53:00.327Z</updated>
+    <updated>2022-03-28T16:14:55.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在一小時內用tre-sitter編寫一個linter]]></title>
+        <id>https://news.ycombinator.com/item?id=30822544</id>
+        <link href="https://news.ycombinator.com/item?id=30822544"/>
+        <updated>2022-03-27T18:13:26.000Z</updated>
+        <summary type="html"><![CDATA[How to write a linter using tree-sitter in an hour]]></summary>
+        <author>
+            <name>siraben</name>
+            <uri>https://news.ycombinator.com/user?id=siraben</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我討厭視頻遊戲變成這樣]]></title>
         <id>https://news.ycombinator.com/item?id=30825405</id>
