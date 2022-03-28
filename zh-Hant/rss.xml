@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 27 Mar 2022 23:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 02:28:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,41 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我正在寫一本名為《計算機網絡從零開始》的免費書籍]]></title>
+            <link>https://news.ycombinator.com/item?id=30824357</link>
+            <guid>https://news.ycombinator.com/item?id=30824357</guid>
+            <pubDate>Sun, 27 Mar 2022 21:32:10 GMT</pubDate>
+            <description><![CDATA[Show HN: I'm writing a free book called Computer Networks from Scratch]]></description>
+        </item>
+        <item>
+            <title><![CDATA[應對來自北朝鮮的威脅]]></title>
+            <link>https://news.ycombinator.com/item?id=30822370</link>
+            <guid>https://news.ycombinator.com/item?id=30822370</guid>
+            <pubDate>Sun, 27 Mar 2022 17:56:50 GMT</pubDate>
+            <description><![CDATA[Countering threats from North Korea]]></description>
+        </item>
+        <item>
+            <title><![CDATA[哪本書能吸引任何人走向你的研究領域？]]></title>
+            <link>https://news.ycombinator.com/item?id=30822339</link>
+            <guid>https://news.ycombinator.com/item?id=30822339</guid>
+            <pubDate>Sun, 27 Mar 2022 17:54:09 GMT</pubDate>
+            <description><![CDATA[Ask HN: Which book can attract anyone towards your field of study?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CVE-2022-1096的Chrome 0day現在被利用了，立即更新]]></title>
+            <link>https://news.ycombinator.com/item?id=30813779</link>
+            <guid>https://news.ycombinator.com/item?id=30813779</guid>
+            <pubDate>Sat, 26 Mar 2022 17:45:45 GMT</pubDate>
+            <description><![CDATA[Chrome 0day is being exploited now for CVE-2022-1096; update immediately]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Raygui - 一個簡單而易用的即時模式GUI庫]]></title>
+            <link>https://news.ycombinator.com/item?id=30813000</link>
+            <guid>https://news.ycombinator.com/item?id=30813000</guid>
+            <pubDate>Sat, 26 Mar 2022 16:00:25 GMT</pubDate>
+            <description><![CDATA[Raygui – A simple and easy-to-use immediate-mode GUI library]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌取消Google Play出版商賬戶，終止家庭收入來源]]></title>
             <link>https://news.ycombinator.com/item?id=30823872</link>

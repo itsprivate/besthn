@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-27T23:42:04.222Z</updated>
+    <updated>2022-03-28T02:28:45.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我正在写一本名为《计算机网络从零开始》的免费书籍]]></title>
+        <id>https://news.ycombinator.com/item?id=30824357</id>
+        <link href="https://news.ycombinator.com/item?id=30824357"/>
+        <updated>2022-03-27T21:32:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I'm writing a free book called Computer Networks from Scratch]]></summary>
+        <author>
+            <name>sarchertech</name>
+            <uri>https://news.ycombinator.com/user?id=sarchertech</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[应对来自北朝鲜的威胁]]></title>
+        <id>https://news.ycombinator.com/item?id=30822370</id>
+        <link href="https://news.ycombinator.com/item?id=30822370"/>
+        <updated>2022-03-27T17:56:50.000Z</updated>
+        <summary type="html"><![CDATA[Countering threats from North Korea]]></summary>
+        <author>
+            <name>arkadiyt</name>
+            <uri>https://news.ycombinator.com/user?id=arkadiyt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪本书能吸引任何人走向你的研究领域？]]></title>
+        <id>https://news.ycombinator.com/item?id=30822339</id>
+        <link href="https://news.ycombinator.com/item?id=30822339"/>
+        <updated>2022-03-27T17:54:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Which book can attract anyone towards your field of study?]]></summary>
+        <author>
+            <name>debanjan16</name>
+            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CVE-2022-1096的Chrome 0day现在被利用了，立即更新]]></title>
+        <id>https://news.ycombinator.com/item?id=30813779</id>
+        <link href="https://news.ycombinator.com/item?id=30813779"/>
+        <updated>2022-03-26T17:45:45.000Z</updated>
+        <summary type="html"><![CDATA[Chrome 0day is being exploited now for CVE-2022-1096; update immediately]]></summary>
+        <author>
+            <name>gargarplex</name>
+            <uri>https://news.ycombinator.com/user?id=gargarplex</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raygui - 一个简单而易用的即时模式GUI库]]></title>
+        <id>https://news.ycombinator.com/item?id=30813000</id>
+        <link href="https://news.ycombinator.com/item?id=30813000"/>
+        <updated>2022-03-26T16:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Raygui – A simple and easy-to-use immediate-mode GUI library]]></summary>
+        <author>
+            <name>maydemir</name>
+            <uri>https://news.ycombinator.com/user?id=maydemir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌取消Google Play出版商账户，终止家庭收入来源]]></title>
         <id>https://news.ycombinator.com/item?id=30823872</id>
