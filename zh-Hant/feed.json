@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30844002",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30844002",
+            "title": "USWDS: 美國的網頁設計系統",
+            "summary": "USWDS: The United States Web Design System",
+            "date_modified": "2022-03-29T15:37:09.000Z",
+            "author": {
+                "name": "jakelazaroff",
+                "url": "https://news.ycombinator.com/user?id=jakelazaroff"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30818253",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30818253",
+            "title": "東京Technicolor",
+            "summary": "Technicolor Tokyo",
+            "date_modified": "2022-03-27T06:41:36.000Z",
+            "author": {
+                "name": "keiferski",
+                "url": "https://news.ycombinator.com/user?id=keiferski"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30846884",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30846884",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "luu",
                 "url": "https://news.ycombinator.com/user?id=luu"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30354410",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30354410",
-            "title": "你們公司的反價值是什麼？",
-            "summary": "What are your company's anti-values?",
-            "date_modified": "2022-02-15T23:30:46.000Z",
-            "author": {
-                "name": "willsewell",
-                "url": "https://news.ycombinator.com/user?id=willsewell"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30354391",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30354391",
-            "title": "DC、BC、EQN的作者Lorinda Cherry已經去世。",
-            "summary": "Lorinda Cherry, author of dc, bc, eqn has died",
-            "date_modified": "2022-02-15T23:29:25.000Z",
-            "author": {
-                "name": "ggm",
-                "url": "https://news.ycombinator.com/user?id=ggm"
             }
         }
     ]

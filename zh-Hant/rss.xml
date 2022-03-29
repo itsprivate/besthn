@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 29 Mar 2022 21:41:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 22:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[USWDS: 美國的網頁設計系統]]></title>
+            <link>https://news.ycombinator.com/item?id=30844002</link>
+            <guid>https://news.ycombinator.com/item?id=30844002</guid>
+            <pubDate>Tue, 29 Mar 2022 15:37:09 GMT</pubDate>
+            <description><![CDATA[USWDS: The United States Web Design System]]></description>
+        </item>
+        <item>
+            <title><![CDATA[東京Technicolor]]></title>
+            <link>https://news.ycombinator.com/item?id=30818253</link>
+            <guid>https://news.ycombinator.com/item?id=30818253</guid>
+            <pubDate>Sun, 27 Mar 2022 06:41:36 GMT</pubDate>
+            <description><![CDATA[Technicolor Tokyo]]></description>
+        </item>
         <item>
             <title><![CDATA[美國聯邦貿易委員會起訴Intuit公司，要求停止聲稱TurboTax免費的 "欺騙性 "廣告]]></title>
             <link>https://news.ycombinator.com/item?id=30846884</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30354976</guid>
             <pubDate>Wed, 16 Feb 2022 00:41:07 GMT</pubDate>
             <description><![CDATA[It's often said that the Analytical Engine was before its time]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你們公司的反價值是什麼？]]></title>
-            <link>https://news.ycombinator.com/item?id=30354410</link>
-            <guid>https://news.ycombinator.com/item?id=30354410</guid>
-            <pubDate>Tue, 15 Feb 2022 23:30:46 GMT</pubDate>
-            <description><![CDATA[What are your company's anti-values?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DC、BC、EQN的作者Lorinda Cherry已經去世。]]></title>
-            <link>https://news.ycombinator.com/item?id=30354391</link>
-            <guid>https://news.ycombinator.com/item?id=30354391</guid>
-            <pubDate>Tue, 15 Feb 2022 23:29:25 GMT</pubDate>
-            <description><![CDATA[Lorinda Cherry, author of dc, bc, eqn has died]]></description>
         </item>
     </channel>
 </rss>
