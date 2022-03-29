@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-29T18:15:36.021Z</updated>
+    <updated>2022-03-29T18:39:54.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑客通過偽造的 "緊急數據請求 "獲得傳票權]]></title>
+        <id>https://news.ycombinator.com/item?id=30842757</id>
+        <link href="https://news.ycombinator.com/item?id=30842757"/>
+        <updated>2022-03-29T14:11:59.000Z</updated>
+        <summary type="html"><![CDATA[Hackers Gaining Power of Subpoena via Fake “Emergency Data Requests”]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[史蒂文斯大法官閱讀了細小的字體]]></title>
+        <id>https://news.ycombinator.com/item?id=30838572</id>
+        <link href="https://news.ycombinator.com/item?id=30838572"/>
+        <updated>2022-03-29T03:52:29.000Z</updated>
+        <summary type="html"><![CDATA[Justice Stevens reads the fine print]]></summary>
+        <author>
+            <name>zacwest</name>
+            <uri>https://news.ycombinator.com/user?id=zacwest</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[價值6.25億美元的ETH在Axie Infinity的Ronin網絡上流走了]]></title>
         <id>https://news.ycombinator.com/item?id=30844334</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>notanexpert</name>
             <uri>https://news.ycombinator.com/user?id=notanexpert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DuckDuckGo \u202E]]></title>
-        <id>https://news.ycombinator.com/item?id=30351968</id>
-        <link href="https://news.ycombinator.com/item?id=30351968"/>
-        <updated>2022-02-15T20:11:01.000Z</updated>
-        <summary type="html"><![CDATA[DuckDuckGo \u202E]]></summary>
-        <author>
-            <name>zeepzeep</name>
-            <uri>https://news.ycombinator.com/user?id=zeepzeep</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解開的蘋果-1序列號之謎]]></title>
-        <id>https://news.ycombinator.com/item?id=30389355</id>
-        <link href="https://news.ycombinator.com/item?id=30389355"/>
-        <updated>2022-02-18T18:33:49.000Z</updated>
-        <summary type="html"><![CDATA[The solved riddle of the Apple-1 serial number]]></summary>
-        <author>
-            <name>DamnInteresting</name>
-            <uri>https://news.ycombinator.com/user?id=DamnInteresting</uri>
         </author>
     </entry>
 </feed>

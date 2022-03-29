@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30842757",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30842757",
+            "title": "黑客通過偽造的 \"緊急數據請求 \"獲得傳票權",
+            "summary": "Hackers Gaining Power of Subpoena via Fake “Emergency Data Requests”",
+            "date_modified": "2022-03-29T14:11:59.000Z",
+            "author": {
+                "name": "todsacerdoti",
+                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30838572",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30838572",
+            "title": "史蒂文斯大法官閱讀了細小的字體",
+            "summary": "Justice Stevens reads the fine print",
+            "date_modified": "2022-03-29T03:52:29.000Z",
+            "author": {
+                "name": "zacwest",
+                "url": "https://news.ycombinator.com/user?id=zacwest"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30844334",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30844334",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "notanexpert",
                 "url": "https://news.ycombinator.com/user?id=notanexpert"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30351968",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30351968",
-            "title": "DuckDuckGo \\u202E",
-            "summary": "DuckDuckGo \\u202E",
-            "date_modified": "2022-02-15T20:11:01.000Z",
-            "author": {
-                "name": "zeepzeep",
-                "url": "https://news.ycombinator.com/user?id=zeepzeep"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30389355",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30389355",
-            "title": "解開的蘋果-1序列號之謎",
-            "summary": "The solved riddle of the Apple-1 serial number",
-            "date_modified": "2022-02-18T18:33:49.000Z",
-            "author": {
-                "name": "DamnInteresting",
-                "url": "https://news.ycombinator.com/user?id=DamnInteresting"
             }
         }
     ]
