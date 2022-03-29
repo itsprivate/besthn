@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-29T19:52:38.175Z</updated>
+    <updated>2022-03-29T21:41:04.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國聯邦貿易委員會起訴Intuit公司，要求停止聲稱TurboTax免費的 "欺騙性 "廣告]]></title>
+        <id>https://news.ycombinator.com/item?id=30846884</id>
+        <link href="https://news.ycombinator.com/item?id=30846884"/>
+        <updated>2022-03-29T18:59:20.000Z</updated>
+        <summary type="html"><![CDATA[FTC sues Intuit in bid to stop “deceptive” ads that claim TurboTax is free]]></summary>
+        <author>
+            <name>nevir</name>
+            <uri>https://news.ycombinator.com/user?id=nevir</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zulip 5.0: 線程化的開源團隊聊天]]></title>
+        <id>https://news.ycombinator.com/item?id=30846659</id>
+        <link href="https://news.ycombinator.com/item?id=30846659"/>
+        <updated>2022-03-29T18:40:09.000Z</updated>
+        <summary type="html"><![CDATA[Zulip 5.0: Threaded open-source team chat]]></summary>
+        <author>
+            <name>srijan4</name>
+            <uri>https://news.ycombinator.com/user?id=srijan4</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Visa的營銷選擇功能已經關閉了一個多星期。這是一個法律問題嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=30845335</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ggm</name>
             <uri>https://news.ycombinator.com/user?id=ggm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新蛋公司的醜聞有點大了]]></title>
-        <id>https://news.ycombinator.com/item?id=30354150</id>
-        <link href="https://news.ycombinator.com/item?id=30354150"/>
-        <updated>2022-02-15T23:07:15.000Z</updated>
-        <summary type="html"><![CDATA[Newegg has a bit of a scandal on its hands]]></summary>
-        <author>
-            <name>gautamcgoel</name>
-            <uri>https://news.ycombinator.com/user?id=gautamcgoel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沒有人關心我的電子表格]]></title>
-        <id>https://news.ycombinator.com/item?id=30353709</id>
-        <link href="https://news.ycombinator.com/item?id=30353709"/>
-        <updated>2022-02-15T22:26:15.000Z</updated>
-        <summary type="html"><![CDATA[No one cared about my spreadsheets]]></summary>
-        <author>
-            <name>jseliger</name>
-            <uri>https://news.ycombinator.com/user?id=jseliger</uri>
         </author>
     </entry>
 </feed>

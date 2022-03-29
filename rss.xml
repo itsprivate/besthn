@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 29 Mar 2022 19:52:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 21:41:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美国联邦贸易委员会起诉Intuit公司，要求停止声称TurboTax免费的 "欺骗性 "广告]]></title>
+            <link>https://news.ycombinator.com/item?id=30846884</link>
+            <guid>https://news.ycombinator.com/item?id=30846884</guid>
+            <pubDate>Tue, 29 Mar 2022 18:59:20 GMT</pubDate>
+            <description><![CDATA[FTC sues Intuit in bid to stop “deceptive” ads that claim TurboTax is free]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Zulip 5.0: 线程化的开源团队聊天]]></title>
+            <link>https://news.ycombinator.com/item?id=30846659</link>
+            <guid>https://news.ycombinator.com/item?id=30846659</guid>
+            <pubDate>Tue, 29 Mar 2022 18:40:09 GMT</pubDate>
+            <description><![CDATA[Zulip 5.0: Threaded open-source team chat]]></description>
+        </item>
         <item>
             <title><![CDATA[Visa的营销选择功能已经关闭了一个多星期。这是一个法律问题吗？]]></title>
             <link>https://news.ycombinator.com/item?id=30845335</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30354391</guid>
             <pubDate>Tue, 15 Feb 2022 23:29:25 GMT</pubDate>
             <description><![CDATA[Lorinda Cherry, author of dc, bc, eqn has died]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新蛋公司的丑闻有点大了]]></title>
-            <link>https://news.ycombinator.com/item?id=30354150</link>
-            <guid>https://news.ycombinator.com/item?id=30354150</guid>
-            <pubDate>Tue, 15 Feb 2022 23:07:15 GMT</pubDate>
-            <description><![CDATA[Newegg has a bit of a scandal on its hands]]></description>
-        </item>
-        <item>
-            <title><![CDATA[没有人关心我的电子表格]]></title>
-            <link>https://news.ycombinator.com/item?id=30353709</link>
-            <guid>https://news.ycombinator.com/item?id=30353709</guid>
-            <pubDate>Tue, 15 Feb 2022 22:26:15 GMT</pubDate>
-            <description><![CDATA[No one cared about my spreadsheets]]></description>
         </item>
     </channel>
 </rss>
