@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-29T10:43:09.641Z</updated>
+    <updated>2022-03-29T13:48:37.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[今天，谷歌正在為許多之前關閉了追蹤功能的用戶開啟追蹤功能]]></title>
+        <id>https://news.ycombinator.com/item?id=30841320</id>
+        <link href="https://news.ycombinator.com/item?id=30841320"/>
+        <updated>2022-03-29T11:47:55.000Z</updated>
+        <summary type="html"><![CDATA[Today Google is turning on tracking for many users that previously turned it off]]></summary>
+        <author>
+            <name>starsep</name>
+            <uri>https://news.ycombinator.com/user?id=starsep</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推出HN：Andi (YC W22) - 基於問答、無廣告、反垃圾郵件的搜索引擎]]></title>
         <id>https://news.ycombinator.com/item?id=30832589</id>

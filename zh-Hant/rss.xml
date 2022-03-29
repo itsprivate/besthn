@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 29 Mar 2022 10:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 13:48:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[今天，谷歌正在為許多之前關閉了追蹤功能的用戶開啟追蹤功能]]></title>
+            <link>https://news.ycombinator.com/item?id=30841320</link>
+            <guid>https://news.ycombinator.com/item?id=30841320</guid>
+            <pubDate>Tue, 29 Mar 2022 11:47:55 GMT</pubDate>
+            <description><![CDATA[Today Google is turning on tracking for many users that previously turned it off]]></description>
+        </item>
         <item>
             <title><![CDATA[推出HN：Andi (YC W22) - 基於問答、無廣告、反垃圾郵件的搜索引擎]]></title>
             <link>https://news.ycombinator.com/item?id=30832589</link>
