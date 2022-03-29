@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 29 Mar 2022 15:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 17:38:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我們可以做得更好，而不是 "相同，但電動"。]]></title>
+            <link>https://news.ycombinator.com/item?id=30838132</link>
+            <guid>https://news.ycombinator.com/item?id=30838132</guid>
+            <pubDate>Tue, 29 Mar 2022 02:40:23 GMT</pubDate>
+            <description><![CDATA[We can do better than “same, but electric”]]></description>
+        </item>
         <item>
             <title><![CDATA[我自己的電話號碼現在是垃圾郵件，給我發短信]]></title>
             <link>https://news.ycombinator.com/item?id=30838564</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30391724</guid>
             <pubDate>Fri, 18 Feb 2022 22:04:36 GMT</pubDate>
             <description><![CDATA[Why We Banned Legos (2006)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[LTE上行鏈路的解調]]></title>
-            <link>https://news.ycombinator.com/item?id=30389335</link>
-            <guid>https://news.ycombinator.com/item?id=30389335</guid>
-            <pubDate>Fri, 18 Feb 2022 18:32:19 GMT</pubDate>
-            <description><![CDATA[Demodulation of the LTE uplink]]></description>
         </item>
     </channel>
 </rss>
