@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-29T17:38:59.259Z</updated>
+    <updated>2022-03-29T17:45:25.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[卡巴斯基被宣佈為美國國家安全威脅並被聯邦通信委員會禁止使用]]></title>
+        <id>https://news.ycombinator.com/item?id=30842511</id>
+        <link href="https://news.ycombinator.com/item?id=30842511"/>
+        <updated>2022-03-29T13:51:41.000Z</updated>
+        <summary type="html"><![CDATA[Kaspersky is declared a US national security threat and is banned by the FCC]]></summary>
+        <author>
+            <name>DocFeind</name>
+            <uri>https://news.ycombinator.com/user?id=DocFeind</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們可以做得更好，而不是 "相同，但電動"。]]></title>
         <id>https://news.ycombinator.com/item?id=30838132</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>paulfitz</name>
             <uri>https://news.ycombinator.com/user?id=paulfitz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們為什麼禁止使用樂高積木 (2006)]]></title>
-        <id>https://news.ycombinator.com/item?id=30391724</id>
-        <link href="https://news.ycombinator.com/item?id=30391724"/>
-        <updated>2022-02-18T22:04:36.000Z</updated>
-        <summary type="html"><![CDATA[Why We Banned Legos (2006)]]></summary>
-        <author>
-            <name>ColinWright</name>
-            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
         </author>
     </entry>
 </feed>
