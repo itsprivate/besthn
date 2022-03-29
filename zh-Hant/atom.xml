@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-29T22:14:19.092Z</updated>
+    <updated>2022-03-29T22:33:54.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[聯邦貿易委員會起訴Intuit公司的欺騙性Turbotax "免費 "申報活動]]></title>
+        <id>https://news.ycombinator.com/item?id=30846071</id>
+        <link href="https://news.ycombinator.com/item?id=30846071"/>
+        <updated>2022-03-29T17:53:42.000Z</updated>
+        <summary type="html"><![CDATA[FTC Sues Intuit for Its Deceptive Turbotax “Free” Filing Campaign]]></summary>
+        <author>
+            <name>Kesseki</name>
+            <uri>https://news.ycombinator.com/user?id=Kesseki</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[USWDS: 美國的網頁設計系統]]></title>
         <id>https://news.ycombinator.com/item?id=30844002</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>thereare5lights</name>
             <uri>https://news.ycombinator.com/user?id=thereare5lights</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人們常說，分析引擎是在它的時代之前。]]></title>
-        <id>https://news.ycombinator.com/item?id=30354976</id>
-        <link href="https://news.ycombinator.com/item?id=30354976"/>
-        <updated>2022-02-16T00:41:07.000Z</updated>
-        <summary type="html"><![CDATA[It's often said that the Analytical Engine was before its time]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
