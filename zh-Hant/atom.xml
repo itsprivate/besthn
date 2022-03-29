@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-29T17:45:25.073Z</updated>
+    <updated>2022-03-29T18:15:36.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[價值6.25億美元的ETH在Axie Infinity的Ronin網絡上流走了]]></title>
+        <id>https://news.ycombinator.com/item?id=30844334</id>
+        <link href="https://news.ycombinator.com/item?id=30844334"/>
+        <updated>2022-03-29T16:05:03.000Z</updated>
+        <summary type="html"><![CDATA[$625M worth of ETH drained on Axie Infinity's Ronin Network]]></summary>
+        <author>
+            <name>colesantiago</name>
+            <uri>https://news.ycombinator.com/user?id=colesantiago</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卡巴斯基被宣佈為美國國家安全威脅並被聯邦通信委員會禁止使用]]></title>
         <id>https://news.ycombinator.com/item?id=30842511</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>DamnInteresting</name>
             <uri>https://news.ycombinator.com/user?id=DamnInteresting</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grist--Airtable和Google Sheets的開放核心替代方案]]></title>
-        <id>https://news.ycombinator.com/item?id=30392227</id>
-        <link href="https://news.ycombinator.com/item?id=30392227"/>
-        <updated>2022-02-18T22:51:59.000Z</updated>
-        <summary type="html"><![CDATA[Grist – Open core alternative to Airtable and Google Sheets]]></summary>
-        <author>
-            <name>paulfitz</name>
-            <uri>https://news.ycombinator.com/user?id=paulfitz</uri>
         </author>
     </entry>
 </feed>

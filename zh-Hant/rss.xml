@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 29 Mar 2022 17:45:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 18:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[價值6.25億美元的ETH在Axie Infinity的Ronin網絡上流走了]]></title>
+            <link>https://news.ycombinator.com/item?id=30844334</link>
+            <guid>https://news.ycombinator.com/item?id=30844334</guid>
+            <pubDate>Tue, 29 Mar 2022 16:05:03 GMT</pubDate>
+            <description><![CDATA[$625M worth of ETH drained on Axie Infinity's Ronin Network]]></description>
+        </item>
         <item>
             <title><![CDATA[卡巴斯基被宣佈為美國國家安全威脅並被聯邦通信委員會禁止使用]]></title>
             <link>https://news.ycombinator.com/item?id=30842511</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30389355</guid>
             <pubDate>Fri, 18 Feb 2022 18:33:49 GMT</pubDate>
             <description><![CDATA[The solved riddle of the Apple-1 serial number]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Grist--Airtable和Google Sheets的開放核心替代方案]]></title>
-            <link>https://news.ycombinator.com/item?id=30392227</link>
-            <guid>https://news.ycombinator.com/item?id=30392227</guid>
-            <pubDate>Fri, 18 Feb 2022 22:51:59 GMT</pubDate>
-            <description><![CDATA[Grist – Open core alternative to Airtable and Google Sheets]]></description>
         </item>
     </channel>
 </rss>
