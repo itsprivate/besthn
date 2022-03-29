@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30834885",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30834885",
+            "title": "Twilio员工及相关人员被美国证券交易委员会指控从事内幕交易",
+            "summary": "Twilio employees, associates charged with insider trading by SEC",
+            "date_modified": "2022-03-28T19:59:20.000Z",
+            "author": {
+                "name": "pcbro141",
+                "url": "https://news.ycombinator.com/user?id=pcbro141"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30832465",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30832465",
+            "title": "开放式人工智能通过雇佣一支人类大军来修复GPT的错误答案，从而使GPT-3得以运行",
+            "summary": "Open AI gets GPT-3 to work by hiring an army of humans to fix GPT’s bad answers",
+            "date_modified": "2022-03-28T16:44:02.000Z",
+            "author": {
+                "name": "agnosticmantis",
+                "url": "https://news.ycombinator.com/user?id=agnosticmantis"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30829593",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30829593",

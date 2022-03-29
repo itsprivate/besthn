@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-28T23:13:03.366Z</updated>
+    <updated>2022-03-29T03:18:06.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Twilio員工及相關人員被美國證券交易委員會指控從事內幕交易]]></title>
+        <id>https://news.ycombinator.com/item?id=30834885</id>
+        <link href="https://news.ycombinator.com/item?id=30834885"/>
+        <updated>2022-03-28T19:59:20.000Z</updated>
+        <summary type="html"><![CDATA[Twilio employees, associates charged with insider trading by SEC]]></summary>
+        <author>
+            <name>pcbro141</name>
+            <uri>https://news.ycombinator.com/user?id=pcbro141</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開放式人工智能通過僱傭一支人類大軍來修復GPT的錯誤答案，從而使GPT-3得以運行]]></title>
+        <id>https://news.ycombinator.com/item?id=30832465</id>
+        <link href="https://news.ycombinator.com/item?id=30832465"/>
+        <updated>2022-03-28T16:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Open AI gets GPT-3 to work by hiring an army of humans to fix GPT’s bad answers]]></summary>
+        <author>
+            <name>agnosticmantis</name>
+            <uri>https://news.ycombinator.com/user?id=agnosticmantis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[瘋狂的艾迪：騙取美國的流行電子產品連鎖店]]></title>
         <id>https://news.ycombinator.com/item?id=30829593</id>

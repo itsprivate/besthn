@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 28 Mar 2022 23:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 03:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Twilio員工及相關人員被美國證券交易委員會指控從事內幕交易]]></title>
+            <link>https://news.ycombinator.com/item?id=30834885</link>
+            <guid>https://news.ycombinator.com/item?id=30834885</guid>
+            <pubDate>Mon, 28 Mar 2022 19:59:20 GMT</pubDate>
+            <description><![CDATA[Twilio employees, associates charged with insider trading by SEC]]></description>
+        </item>
+        <item>
+            <title><![CDATA[開放式人工智能通過僱傭一支人類大軍來修復GPT的錯誤答案，從而使GPT-3得以運行]]></title>
+            <link>https://news.ycombinator.com/item?id=30832465</link>
+            <guid>https://news.ycombinator.com/item?id=30832465</guid>
+            <pubDate>Mon, 28 Mar 2022 16:44:02 GMT</pubDate>
+            <description><![CDATA[Open AI gets GPT-3 to work by hiring an army of humans to fix GPT’s bad answers]]></description>
+        </item>
         <item>
             <title><![CDATA[瘋狂的艾迪：騙取美國的流行電子產品連鎖店]]></title>
             <link>https://news.ycombinator.com/item?id=30829593</link>
