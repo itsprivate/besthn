@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 29 Mar 2022 14:52:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 15:37:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我自己的電話號碼現在是垃圾郵件，給我發短信]]></title>
+            <link>https://news.ycombinator.com/item?id=30838564</link>
+            <guid>https://news.ycombinator.com/item?id=30838564</guid>
+            <pubDate>Tue, 29 Mar 2022 03:50:51 GMT</pubDate>
+            <description><![CDATA[My own phone number is now spam texting me]]></description>
+        </item>
+        <item>
+            <title><![CDATA[訊飛。nf_tables中的漏洞導致權限升級和信息洩露]]></title>
+            <link>https://news.ycombinator.com/item?id=30838037</link>
+            <guid>https://news.ycombinator.com/item?id=30838037</guid>
+            <pubDate>Tue, 29 Mar 2022 02:23:35 GMT</pubDate>
+            <description><![CDATA[Linux: Vulnerabilities in nf_tables cause privilege escalation, information leak]]></description>
+        </item>
         <item>
             <title><![CDATA[差異巨大。一個理解語法的差異]]></title>
             <link>https://news.ycombinator.com/item?id=30841244</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30389335</guid>
             <pubDate>Fri, 18 Feb 2022 18:32:19 GMT</pubDate>
             <description><![CDATA[Demodulation of the LTE uplink]]></description>
-        </item>
-        <item>
-            <title><![CDATA[對大石油公司 "洗綠 "的指責是有根據的]]></title>
-            <link>https://news.ycombinator.com/item?id=30388127</link>
-            <guid>https://news.ycombinator.com/item?id=30388127</guid>
-            <pubDate>Fri, 18 Feb 2022 16:54:48 GMT</pubDate>
-            <description><![CDATA[Accusations of 'greenwashing' by big oil companies are well-founded]]></description>
-        </item>
-        <item>
-            <title><![CDATA[尼克斯。一個時代已經到來的想法]]></title>
-            <link>https://news.ycombinator.com/item?id=30384121</link>
-            <guid>https://news.ycombinator.com/item?id=30384121</guid>
-            <pubDate>Fri, 18 Feb 2022 10:31:07 GMT</pubDate>
-            <description><![CDATA[Nix: An idea whose time has come]]></description>
         </item>
     </channel>
 </rss>
