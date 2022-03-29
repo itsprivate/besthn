@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-29T09:32:21.390Z</updated>
+    <updated>2022-03-29T09:43:08.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[屏蔽一条推文、其作者和每个喜欢它的人]]></title>
+        <id>https://news.ycombinator.com/item?id=30836879</id>
+        <link href="https://news.ycombinator.com/item?id=30836879"/>
+        <updated>2022-03-28T23:31:43.000Z</updated>
+        <summary type="html"><![CDATA[Block a tweet, its author, and every single person who liked it]]></summary>
+        <author>
+            <name>panarky</name>
+            <uri>https://news.ycombinator.com/user?id=panarky</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[支持者汽车上的神秘GPS追踪器]]></title>
+        <id>https://news.ycombinator.com/item?id=30833566</id>
+        <link href="https://news.ycombinator.com/item?id=30833566"/>
+        <updated>2022-03-28T18:05:11.000Z</updated>
+        <summary type="html"><![CDATA[Mystery GPS Tracker on a Supporter’s Car]]></summary>
+        <author>
+            <name>cooperq</name>
+            <uri>https://news.ycombinator.com/user?id=cooperq</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在我的浏览器桌面环境中的WebAssembly]]></title>
         <id>https://news.ycombinator.com/item?id=30827497</id>
