@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-29T09:43:08.908Z</updated>
+    <updated>2022-03-29T10:43:09.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推出HN：Andi (YC W22) - 基於問答、無廣告、反垃圾郵件的搜索引擎]]></title>
+        <id>https://news.ycombinator.com/item?id=30832589</id>
+        <link href="https://news.ycombinator.com/item?id=30832589"/>
+        <updated>2022-03-28T16:52:50.000Z</updated>
+        <summary type="html"><![CDATA[Launch HN: Andi (YC W22) – Q&A based, ad-free, anti-spam search engine]]></summary>
+        <author>
+            <name>jedwhite</name>
+            <uri>https://news.ycombinator.com/user?id=jedwhite</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[屏蔽一條推文、其作者和每個喜歡它的人]]></title>
         <id>https://news.ycombinator.com/item?id=30836879</id>
