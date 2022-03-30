@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-30T15:56:34.547Z</updated>
+    <updated>2022-03-30T17:52:43.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Waymo开始在旧金山进行无人驾驶骑行]]></title>
+        <id>https://news.ycombinator.com/item?id=30855624</id>
+        <link href="https://news.ycombinator.com/item?id=30855624"/>
+        <updated>2022-03-30T14:24:22.000Z</updated>
+        <summary type="html"><![CDATA[Waymo begins driverless rides in San Francisco]]></summary>
+        <author>
+            <name>ra7</name>
+            <uri>https://news.ycombinator.com/user?id=ra7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[脸书付钱给共和党战略公司恶意攻击TikTok]]></title>
         <id>https://news.ycombinator.com/item?id=30853836</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lkurtz</name>
             <uri>https://news.ycombinator.com/user?id=lkurtz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只在周五语法正确的Perl代码]]></title>
-        <id>https://news.ycombinator.com/item?id=30359309</id>
-        <link href="https://news.ycombinator.com/item?id=30359309"/>
-        <updated>2022-02-16T12:46:30.000Z</updated>
-        <summary type="html"><![CDATA[Perl code that is syntactically correct only on Fridays]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>
