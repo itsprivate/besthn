@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-30T04:41:39.585Z</updated>
+    <updated>2022-03-30T08:38:08.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GPT-3可以运行代码]]></title>
+        <id>https://news.ycombinator.com/item?id=30843922</id>
+        <link href="https://news.ycombinator.com/item?id=30843922"/>
+        <updated>2022-03-29T15:31:21.000Z</updated>
+        <summary type="html"><![CDATA[GPT-3 can run code]]></summary>
+        <author>
+            <name>maytc</name>
+            <uri>https://news.ycombinator.com/user?id=maytc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[博客的搜索引擎]]></title>
         <id>https://news.ycombinator.com/item?id=30844149</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>behnamoh</name>
             <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要立即指出错误的东西]]></title>
-        <id>https://news.ycombinator.com/item?id=30356177</id>
-        <link href="https://news.ycombinator.com/item?id=30356177"/>
-        <updated>2022-02-16T03:56:36.000Z</updated>
-        <summary type="html"><![CDATA[Don’t point out something wrong immediately]]></summary>
-        <author>
-            <name>uvdn7</name>
-            <uri>https://news.ycombinator.com/user?id=uvdn7</uri>
         </author>
     </entry>
 </feed>

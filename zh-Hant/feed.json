@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30843922",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30843922",
+            "title": "GPT-3可以運行代碼",
+            "summary": "GPT-3 can run code",
+            "date_modified": "2022-03-29T15:31:21.000Z",
+            "author": {
+                "name": "maytc",
+                "url": "https://news.ycombinator.com/user?id=maytc"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30844149",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30844149",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "behnamoh",
                 "url": "https://news.ycombinator.com/user?id=behnamoh"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30356177",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30356177",
-            "title": "不要立即指出錯誤的東西",
-            "summary": "Don’t point out something wrong immediately",
-            "date_modified": "2022-02-16T03:56:36.000Z",
-            "author": {
-                "name": "uvdn7",
-                "url": "https://news.ycombinator.com/user?id=uvdn7"
             }
         }
     ]

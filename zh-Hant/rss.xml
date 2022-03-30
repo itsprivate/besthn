@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 30 Mar 2022 04:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 08:38:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GPT-3可以運行代碼]]></title>
+            <link>https://news.ycombinator.com/item?id=30843922</link>
+            <guid>https://news.ycombinator.com/item?id=30843922</guid>
+            <pubDate>Tue, 29 Mar 2022 15:31:21 GMT</pubDate>
+            <description><![CDATA[GPT-3 can run code]]></description>
+        </item>
         <item>
             <title><![CDATA[博客的搜索引擎]]></title>
             <link>https://news.ycombinator.com/item?id=30844149</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30356312</guid>
             <pubDate>Wed, 16 Feb 2022 04:20:17 GMT</pubDate>
             <description><![CDATA[How can you be fooled by the U+202E trick? (2013)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不要立即指出錯誤的東西]]></title>
-            <link>https://news.ycombinator.com/item?id=30356177</link>
-            <guid>https://news.ycombinator.com/item?id=30356177</guid>
-            <pubDate>Wed, 16 Feb 2022 03:56:36 GMT</pubDate>
-            <description><![CDATA[Don’t point out something wrong immediately]]></description>
         </item>
     </channel>
 </rss>
