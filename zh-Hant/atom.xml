@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-30T20:36:16.290Z</updated>
+    <updated>2022-03-30T21:13:49.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SerenityOS瀏覽器現在通過了Acid3測試]]></title>
+        <id>https://news.ycombinator.com/item?id=30853392</id>
+        <link href="https://news.ycombinator.com/item?id=30853392"/>
+        <updated>2022-03-30T10:30:22.000Z</updated>
+        <summary type="html"><![CDATA[SerenityOS Browser now passes the Acid3 test]]></summary>
+        <author>
+            <name>andreafeletto</name>
+            <uri>https://news.ycombinator.com/user?id=andreafeletto</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苯腎上腺素的無用性]]></title>
         <id>https://news.ycombinator.com/item?id=30858202</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>KoftaBob</name>
             <uri>https://news.ycombinator.com/user?id=KoftaBob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新一波的Linux應用]]></title>
-        <id>https://news.ycombinator.com/item?id=30364337</id>
-        <link href="https://news.ycombinator.com/item?id=30364337"/>
-        <updated>2022-02-16T19:10:32.000Z</updated>
-        <summary type="html"><![CDATA[A new wave of Linux applications]]></summary>
-        <author>
-            <name>Vinnl</name>
-            <uri>https://news.ycombinator.com/user?id=Vinnl</uri>
         </author>
     </entry>
 </feed>

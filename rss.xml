@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 30 Mar 2022 20:36:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 21:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[SerenityOS浏览器现在通过了Acid3测试]]></title>
+            <link>https://news.ycombinator.com/item?id=30853392</link>
+            <guid>https://news.ycombinator.com/item?id=30853392</guid>
+            <pubDate>Wed, 30 Mar 2022 10:30:22 GMT</pubDate>
+            <description><![CDATA[SerenityOS Browser now passes the Acid3 test]]></description>
+        </item>
         <item>
             <title><![CDATA[苯肾上腺素的无用性]]></title>
             <link>https://news.ycombinator.com/item?id=30858202</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30364669</guid>
             <pubDate>Wed, 16 Feb 2022 19:38:14 GMT</pubDate>
             <description><![CDATA[New York is using cameras with microphones to ticket loud cars]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新一波的Linux应用]]></title>
-            <link>https://news.ycombinator.com/item?id=30364337</link>
-            <guid>https://news.ycombinator.com/item?id=30364337</guid>
-            <pubDate>Wed, 16 Feb 2022 19:10:32 GMT</pubDate>
-            <description><![CDATA[A new wave of Linux applications]]></description>
         </item>
     </channel>
 </rss>
