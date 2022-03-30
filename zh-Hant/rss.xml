@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 30 Mar 2022 08:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 11:30:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[10萬個星星Chrome瀏覽器的虛擬化實驗]]></title>
+            <link>https://news.ycombinator.com/item?id=30850625</link>
+            <guid>https://news.ycombinator.com/item?id=30850625</guid>
+            <pubDate>Wed, 30 Mar 2022 01:45:17 GMT</pubDate>
+            <description><![CDATA[100k Stars Chrome virtualization experiment]]></description>
+        </item>
         <item>
             <title><![CDATA[GPT-3可以運行代碼]]></title>
             <link>https://news.ycombinator.com/item?id=30843922</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30356944</guid>
             <pubDate>Wed, 16 Feb 2022 06:28:46 GMT</pubDate>
             <description><![CDATA[Show HN: Open-core icon sets that took me 12 years to create]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你怎麼能被U+202E的把戲所矇蔽？(2013)]]></title>
-            <link>https://news.ycombinator.com/item?id=30356312</link>
-            <guid>https://news.ycombinator.com/item?id=30356312</guid>
-            <pubDate>Wed, 16 Feb 2022 04:20:17 GMT</pubDate>
-            <description><![CDATA[How can you be fooled by the U+202E trick? (2013)]]></description>
         </item>
     </channel>
 </rss>
