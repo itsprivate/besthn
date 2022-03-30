@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30856804",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30856804",
+            "title": "泛型可以使你的Go代碼更慢",
+            "summary": "Generics can make your Go code slower",
+            "date_modified": "2022-03-30T15:47:52.000Z",
+            "author": {
+                "name": "tanoku",
+                "url": "https://news.ycombinator.com/user?id=tanoku"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30853807",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30853807",
+            "title": "哪些比特的基本知識是生產力的倍增器？",
+            "summary": "Ask HN: What bits of fundamental knowledge are productivity multipliers?",
+            "date_modified": "2022-03-30T11:40:41.000Z",
+            "author": {
+                "name": "stardustpie",
+                "url": "https://news.ycombinator.com/user?id=stardustpie"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30856968",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30856968",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "rrampage",
                 "url": "https://news.ycombinator.com/user?id=rrampage"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30362112",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30362112",
-            "title": "hue.tools - 開源的顏色工具箱",
-            "summary": "Show HN: hue.tools – open-source toolbox for colors",
-            "date_modified": "2022-02-16T16:35:07.000Z",
-            "author": {
-                "name": "pabue",
-                "url": "https://news.ycombinator.com/user?id=pabue"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30361850",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30361850",
-            "title": "密碼",
-            "summary": "Passwordle",
-            "date_modified": "2022-02-16T16:13:06.000Z",
-            "author": {
-                "name": "snthueoa",
-                "url": "https://news.ycombinator.com/user?id=snthueoa"
             }
         }
     ]

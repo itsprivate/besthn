@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 30 Mar 2022 18:57:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 20:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[泛型可以使你的Go代碼更慢]]></title>
+            <link>https://news.ycombinator.com/item?id=30856804</link>
+            <guid>https://news.ycombinator.com/item?id=30856804</guid>
+            <pubDate>Wed, 30 Mar 2022 15:47:52 GMT</pubDate>
+            <description><![CDATA[Generics can make your Go code slower]]></description>
+        </item>
+        <item>
+            <title><![CDATA[哪些比特的基本知識是生產力的倍增器？]]></title>
+            <link>https://news.ycombinator.com/item?id=30853807</link>
+            <guid>https://news.ycombinator.com/item?id=30853807</guid>
+            <pubDate>Wed, 30 Mar 2022 11:40:41 GMT</pubDate>
+            <description><![CDATA[Ask HN: What bits of fundamental knowledge are productivity multipliers?]]></description>
+        </item>
         <item>
             <title><![CDATA[報稅可以是免費和簡單的。H&R Block和Intuit公司遊說反對 (2017)]]></title>
             <link>https://news.ycombinator.com/item?id=30856968</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30363506</guid>
             <pubDate>Wed, 16 Feb 2022 18:14:51 GMT</pubDate>
             <description><![CDATA[Pure Bash Bible – A collection of pure bash alternatives to external processes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[hue.tools - 開源的顏色工具箱]]></title>
-            <link>https://news.ycombinator.com/item?id=30362112</link>
-            <guid>https://news.ycombinator.com/item?id=30362112</guid>
-            <pubDate>Wed, 16 Feb 2022 16:35:07 GMT</pubDate>
-            <description><![CDATA[Show HN: hue.tools – open-source toolbox for colors]]></description>
-        </item>
-        <item>
-            <title><![CDATA[密碼]]></title>
-            <link>https://news.ycombinator.com/item?id=30361850</link>
-            <guid>https://news.ycombinator.com/item?id=30361850</guid>
-            <pubDate>Wed, 16 Feb 2022 16:13:06 GMT</pubDate>
-            <description><![CDATA[Passwordle]]></description>
         </item>
     </channel>
 </rss>
