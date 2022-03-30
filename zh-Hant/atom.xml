@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-30T20:14:19.409Z</updated>
+    <updated>2022-03-30T20:36:16.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苯腎上腺素的無用性]]></title>
+        <id>https://news.ycombinator.com/item?id=30858202</id>
+        <link href="https://news.ycombinator.com/item?id=30858202"/>
+        <updated>2022-03-30T17:26:47.000Z</updated>
+        <summary type="html"><![CDATA[The Uselessness of Phenylephrine]]></summary>
+        <author>
+            <name>hprotagonist</name>
+            <uri>https://news.ycombinator.com/user?id=hprotagonist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[泛型可以使你的Go代碼更慢]]></title>
         <id>https://news.ycombinator.com/item?id=30856804</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Vinnl</name>
             <uri>https://news.ycombinator.com/user?id=Vinnl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[純粹的Bash聖經--外部進程的純粹Bash替代品的集合]]></title>
-        <id>https://news.ycombinator.com/item?id=30363506</id>
-        <link href="https://news.ycombinator.com/item?id=30363506"/>
-        <updated>2022-02-16T18:14:51.000Z</updated>
-        <summary type="html"><![CDATA[Pure Bash Bible – A collection of pure bash alternatives to external processes]]></summary>
-        <author>
-            <name>rrampage</name>
-            <uri>https://news.ycombinator.com/user?id=rrampage</uri>
         </author>
     </entry>
 </feed>
