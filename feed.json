@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30854526",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30854526",
+            "title": "杰克-东加拉荣获图灵奖",
+            "summary": "Jack Dongarra wins Turing Award",
+            "date_modified": "2022-03-30T12:57:10.000Z",
+            "author": {
+                "name": "ketanmaheshwari",
+                "url": "https://news.ycombinator.com/user?id=ketanmaheshwari"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30853392",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30853392",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "bdburns",
                 "url": "https://news.ycombinator.com/user?id=bdburns"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30364669",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30364669",
-            "title": "纽约正在使用带有麦克风的摄像机对吵闹的汽车开罚单",
-            "summary": "New York is using cameras with microphones to ticket loud cars",
-            "date_modified": "2022-02-16T19:38:14.000Z",
-            "author": {
-                "name": "KoftaBob",
-                "url": "https://news.ycombinator.com/user?id=KoftaBob"
             }
         }
     ]

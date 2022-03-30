@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 30 Mar 2022 21:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 22:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[傑克-東加拉榮獲圖靈獎]]></title>
+            <link>https://news.ycombinator.com/item?id=30854526</link>
+            <guid>https://news.ycombinator.com/item?id=30854526</guid>
+            <pubDate>Wed, 30 Mar 2022 12:57:10 GMT</pubDate>
+            <description><![CDATA[Jack Dongarra wins Turing Award]]></description>
+        </item>
         <item>
             <title><![CDATA[SerenityOS瀏覽器現在通過了Acid3測試]]></title>
             <link>https://news.ycombinator.com/item?id=30853392</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30367781</guid>
             <pubDate>Thu, 17 Feb 2022 00:19:16 GMT</pubDate>
             <description><![CDATA[Building for the 99% Developers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[紐約正在使用帶有麥克風的攝像機對吵鬧的汽車開罰單]]></title>
-            <link>https://news.ycombinator.com/item?id=30364669</link>
-            <guid>https://news.ycombinator.com/item?id=30364669</guid>
-            <pubDate>Wed, 16 Feb 2022 19:38:14 GMT</pubDate>
-            <description><![CDATA[New York is using cameras with microphones to ticket loud cars]]></description>
         </item>
     </channel>
 </rss>
