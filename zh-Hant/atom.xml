@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-30T17:52:43.666Z</updated>
+    <updated>2022-03-30T18:57:24.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[報稅可以是免費和簡單的。H&R Block和Intuit公司遊說反對 (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=30856968</id>
+        <link href="https://news.ycombinator.com/item?id=30856968"/>
+        <updated>2022-03-30T15:57:53.000Z</updated>
+        <summary type="html"><![CDATA[Filing Taxes Could Be Free & Simple. H&R Block & Intuit Lobby Against It (2017)]]></summary>
+        <author>
+            <name>KerryJones</name>
+            <uri>https://news.ycombinator.com/user?id=KerryJones</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waymo開始在舊金山進行無人駕駛騎行]]></title>
         <id>https://news.ycombinator.com/item?id=30855624</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>snthueoa</name>
             <uri>https://news.ycombinator.com/user?id=snthueoa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1Password for SSH and Git (Beta)]]></title>
-        <id>https://news.ycombinator.com/item?id=30359430</id>
-        <link href="https://news.ycombinator.com/item?id=30359430"/>
-        <updated>2022-02-16T13:01:17.000Z</updated>
-        <summary type="html"><![CDATA[1Password for SSH and Git (Beta)]]></summary>
-        <author>
-            <name>lkurtz</name>
-            <uri>https://news.ycombinator.com/user?id=lkurtz</uri>
         </author>
     </entry>
 </feed>
