@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-30T22:13:57.980Z</updated>
+    <updated>2022-03-30T23:13:01.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開發人員把大部分時間花在了摸索系統上]]></title>
+        <id>https://news.ycombinator.com/item?id=30858311</id>
+        <link href="https://news.ycombinator.com/item?id=30858311"/>
+        <updated>2022-03-30T17:34:52.000Z</updated>
+        <summary type="html"><![CDATA[Developers spend most of their time figuring the system out]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[傑克-東加拉榮獲圖靈獎]]></title>
         <id>https://news.ycombinator.com/item?id=30854526</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>infiniteseries</name>
             <uri>https://news.ycombinator.com/user?id=infiniteseries</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為99%的開發者建設]]></title>
-        <id>https://news.ycombinator.com/item?id=30367781</id>
-        <link href="https://news.ycombinator.com/item?id=30367781"/>
-        <updated>2022-02-17T00:19:16.000Z</updated>
-        <summary type="html"><![CDATA[Building for the 99% Developers]]></summary>
-        <author>
-            <name>bdburns</name>
-            <uri>https://news.ycombinator.com/user?id=bdburns</uri>
         </author>
     </entry>
 </feed>
