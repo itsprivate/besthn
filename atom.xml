@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-30T14:53:04.400Z</updated>
+    <updated>2022-03-30T15:56:34.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[脸书付钱给共和党战略公司恶意攻击TikTok]]></title>
+        <id>https://news.ycombinator.com/item?id=30853836</id>
+        <link href="https://news.ycombinator.com/item?id=30853836"/>
+        <updated>2022-03-30T11:44:56.000Z</updated>
+        <summary type="html"><![CDATA[Facebook paid Republican strategy firm to malign TikTok]]></summary>
+        <author>
+            <name>elsewhen</name>
+            <uri>https://news.ycombinator.com/user?id=elsewhen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌终止了我们的开发者账户，说是 "相关"。]]></title>
         <id>https://news.ycombinator.com/item?id=30855065</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pabs3</name>
             <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[书呆子的音乐理论 (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=30358903</id>
-        <link href="https://news.ycombinator.com/item?id=30358903"/>
-        <updated>2022-02-16T11:58:55.000Z</updated>
-        <summary type="html"><![CDATA[Music theory for nerds (2016)]]></summary>
-        <author>
-            <name>marianoguerra</name>
-            <uri>https://news.ycombinator.com/user?id=marianoguerra</uri>
         </author>
     </entry>
 </feed>
