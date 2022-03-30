@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 30 Mar 2022 11:30:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 14:30:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用C語言從頭開始實現餘弦（2020）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30844872</link>
+            <guid>https://news.ycombinator.com/item?id=30844872</guid>
+            <pubDate>Tue, 29 Mar 2022 16:38:41 GMT</pubDate>
+            <description><![CDATA[Implementing Cosine in C from Scratch (2020)]]></description>
+        </item>
         <item>
             <title><![CDATA[10萬個星星Chrome瀏覽器的虛擬化實驗]]></title>
             <link>https://news.ycombinator.com/item?id=30850625</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30357192</guid>
             <pubDate>Wed, 16 Feb 2022 07:18:58 GMT</pubDate>
             <description><![CDATA[I quit my job to make free web tools]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我花了12年時間創建的開放核心圖標集]]></title>
-            <link>https://news.ycombinator.com/item?id=30356944</link>
-            <guid>https://news.ycombinator.com/item?id=30356944</guid>
-            <pubDate>Wed, 16 Feb 2022 06:28:46 GMT</pubDate>
-            <description><![CDATA[Show HN: Open-core icon sets that took me 12 years to create]]></description>
         </item>
     </channel>
 </rss>

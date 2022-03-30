@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-30T11:30:24.549Z</updated>
+    <updated>2022-03-30T14:30:18.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用C語言從頭開始實現餘弦（2020）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30844872</id>
+        <link href="https://news.ycombinator.com/item?id=30844872"/>
+        <updated>2022-03-29T16:38:41.000Z</updated>
+        <summary type="html"><![CDATA[Implementing Cosine in C from Scratch (2020)]]></summary>
+        <author>
+            <name>signa11</name>
+            <uri>https://news.ycombinator.com/user?id=signa11</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10萬個星星Chrome瀏覽器的虛擬化實驗]]></title>
         <id>https://news.ycombinator.com/item?id=30850625</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pul</name>
             <uri>https://news.ycombinator.com/user?id=pul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我花了12年時間創建的開放核心圖標集]]></title>
-        <id>https://news.ycombinator.com/item?id=30356944</id>
-        <link href="https://news.ycombinator.com/item?id=30356944"/>
-        <updated>2022-02-16T06:28:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Open-core icon sets that took me 12 years to create]]></summary>
-        <author>
-            <name>vincent-lemoign</name>
-            <uri>https://news.ycombinator.com/user?id=vincent-lemoign</uri>
         </author>
     </entry>
 </feed>
