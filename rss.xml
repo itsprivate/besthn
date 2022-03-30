@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 29 Mar 2022 22:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 03:59:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Ubiquiti正在起诉Brian Krebs，因为他报道了他们的漏洞。]]></title>
+            <link>https://news.ycombinator.com/item?id=30850416</link>
+            <guid>https://news.ycombinator.com/item?id=30850416</guid>
+            <pubDate>Wed, 30 Mar 2022 01:10:32 GMT</pubDate>
+            <description><![CDATA[Ubiquiti is suing Brian Krebs for his reporting on their breach]]></description>
+        </item>
         <item>
             <title><![CDATA[联邦贸易委员会起诉Intuit公司的欺骗性Turbotax "免费 "申报活动]]></title>
             <link>https://news.ycombinator.com/item?id=30846071</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30356020</guid>
             <pubDate>Wed, 16 Feb 2022 03:25:47 GMT</pubDate>
             <description><![CDATA[LibreOffice running natively in the browser via WebAssembly]]></description>
-        </item>
-        <item>
-            <title><![CDATA[脸书员工现在被称为 "Metamates"]]></title>
-            <link>https://news.ycombinator.com/item?id=30355738</link>
-            <guid>https://news.ycombinator.com/item?id=30355738</guid>
-            <pubDate>Wed, 16 Feb 2022 02:37:41 GMT</pubDate>
-            <description><![CDATA[Facebook staff now to be known as “Metamates”]]></description>
         </item>
     </channel>
 </rss>
