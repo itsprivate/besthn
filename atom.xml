@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-31T22:12:38.471Z</updated>
+    <updated>2022-03-31T23:14:10.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[非C类操作系统的狂野世界]]></title>
+        <id>https://news.ycombinator.com/item?id=30851955</id>
+        <link href="https://news.ycombinator.com/item?id=30851955"/>
+        <updated>2022-03-30T06:07:34.000Z</updated>
+        <summary type="html"><![CDATA[The wild world of non-C operating systems]]></summary>
+        <author>
+            <name>dharmatech</name>
+            <uri>https://news.ycombinator.com/user?id=dharmatech</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么是triald，为什么它占用这么多的磁盘空间？]]></title>
         <id>https://news.ycombinator.com/item?id=30864613</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gleb_the_human</name>
             <uri>https://news.ycombinator.com/user?id=gleb_the_human</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[投资者在2021年购买的美国房屋份额创下新高]]></title>
-        <id>https://news.ycombinator.com/item?id=30374372</id>
-        <link href="https://news.ycombinator.com/item?id=30374372"/>
-        <updated>2022-02-17T15:51:53.000Z</updated>
-        <summary type="html"><![CDATA[Investors bought a record share of U.S. homes in 2021]]></summary>
-        <author>
-            <name>danso</name>
-            <uri>https://news.ycombinator.com/user?id=danso</uri>
         </author>
     </entry>
 </feed>
