@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-31T07:52:27.229Z</updated>
+    <updated>2022-03-31T09:34:18.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Grafana Mimir - 用于Prometheus的横向可扩展长期存储]]></title>
+        <id>https://news.ycombinator.com/item?id=30854734</id>
+        <link href="https://news.ycombinator.com/item?id=30854734"/>
+        <updated>2022-03-30T13:13:14.000Z</updated>
+        <summary type="html"><![CDATA[Grafana Mimir – Horizontally scalable long-term storage for Prometheus]]></summary>
+        <author>
+            <name>devsecopsify</name>
+            <uri>https://news.ycombinator.com/user?id=devsecopsify</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[牧羊犬3.5]]></title>
         <id>https://news.ycombinator.com/item?id=30862612</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>korostelevm</name>
             <uri>https://news.ycombinator.com/user?id=korostelevm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国家安全局的PX1000-Cr的后门]]></title>
-        <id>https://news.ycombinator.com/item?id=30370637</id>
-        <link href="https://news.ycombinator.com/item?id=30370637"/>
-        <updated>2022-02-17T08:09:44.000Z</updated>
-        <summary type="html"><![CDATA[NSA's Backdoor of the PX1000-Cr]]></summary>
-        <author>
-            <name>sohkamyung</name>
-            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
         </author>
     </entry>
 </feed>

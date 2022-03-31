@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 31 Mar 2022 07:52:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 09:34:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Grafana Mimir - 用於Prometheus的橫向可擴展長期存儲]]></title>
+            <link>https://news.ycombinator.com/item?id=30854734</link>
+            <guid>https://news.ycombinator.com/item?id=30854734</guid>
+            <pubDate>Wed, 30 Mar 2022 13:13:14 GMT</pubDate>
+            <description><![CDATA[Grafana Mimir – Horizontally scalable long-term storage for Prometheus]]></description>
+        </item>
         <item>
             <title><![CDATA[牧羊犬3.5]]></title>
             <link>https://news.ycombinator.com/item?id=30862612</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30371604</guid>
             <pubDate>Thu, 17 Feb 2022 10:32:28 GMT</pubDate>
             <description><![CDATA[AWS S3: Sometimes you should press the $100k button]]></description>
-        </item>
-        <item>
-            <title><![CDATA[國家安全局的PX1000-Cr的後門]]></title>
-            <link>https://news.ycombinator.com/item?id=30370637</link>
-            <guid>https://news.ycombinator.com/item?id=30370637</guid>
-            <pubDate>Thu, 17 Feb 2022 08:09:44 GMT</pubDate>
-            <description><![CDATA[NSA's Backdoor of the PX1000-Cr]]></description>
         </item>
     </channel>
 </rss>
