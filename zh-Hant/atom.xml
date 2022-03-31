@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-31T15:38:09.218Z</updated>
+    <updated>2022-03-31T17:09:15.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Ubiquiti與Krebs]]></title>
+        <id>https://news.ycombinator.com/item?id=30866597</id>
+        <link href="https://news.ycombinator.com/item?id=30866597"/>
+        <updated>2022-03-31T12:51:10.000Z</updated>
+        <summary type="html"><![CDATA[Ubiquiti vs. Krebs]]></summary>
+        <author>
+            <name>ghostoftiber</name>
+            <uri>https://news.ycombinator.com/user?id=ghostoftiber</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[把你的手機變成一個空間監測工具]]></title>
         <id>https://news.ycombinator.com/item?id=30864470</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kartben_</name>
             <uri>https://news.ycombinator.com/user?id=kartben_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PostgreSQL的內部結構]]></title>
-        <id>https://news.ycombinator.com/item?id=30372750</id>
-        <link href="https://news.ycombinator.com/item?id=30372750"/>
-        <updated>2022-02-17T13:22:02.000Z</updated>
-        <summary type="html"><![CDATA[The Internals of PostgreSQL]]></summary>
-        <author>
-            <name>hjnkk</name>
-            <uri>https://news.ycombinator.com/user?id=hjnkk</uri>
         </author>
     </entry>
 </feed>
