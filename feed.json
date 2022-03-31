@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30860817",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30860817",
+            "title": "偶像的话语",
+            "summary": "Idol Words",
+            "date_modified": "2022-03-30T21:10:30.000Z",
+            "author": {
+                "name": "andromaton",
+                "url": "https://news.ycombinator.com/user?id=andromaton"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30851955",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30851955",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "sereja",
                 "url": "https://news.ycombinator.com/user?id=sereja"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30374905",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30374905",
-            "title": "阻止和删除来自DuckDuckGo、Google和其他山寨网站的过滤器。",
-            "summary": "Filters to block and remove copycat-websites from DuckDuckGo, Google and other",
-            "date_modified": "2022-02-17T16:27:51.000Z",
-            "author": {
-                "name": "gleb_the_human",
-                "url": "https://news.ycombinator.com/user?id=gleb_the_human"
             }
         }
     ]
