@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-03-31T17:09:15.122Z</updated>
+    <updated>2022-03-31T18:15:59.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[史上最小、最差的HDMI显示器]]></title>
+        <id>https://news.ycombinator.com/item?id=30869140</id>
+        <link href="https://news.ycombinator.com/item?id=30869140"/>
+        <updated>2022-03-31T16:31:17.000Z</updated>
+        <summary type="html"><![CDATA[The smallest and worst HDMI display ever]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ubiquiti与Krebs]]></title>
         <id>https://news.ycombinator.com/item?id=30866597</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>a-bit-of-code</name>
             <uri>https://news.ycombinator.com/user?id=a-bit-of-code</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个13岁的孩子用我的人造鼻子来诊断肺炎]]></title>
-        <id>https://news.ycombinator.com/item?id=30373279</id>
-        <link href="https://news.ycombinator.com/item?id=30373279"/>
-        <updated>2022-02-17T14:18:48.000Z</updated>
-        <summary type="html"><![CDATA[A 13-year-old used my artificial nose to diagnose pneumonia]]></summary>
-        <author>
-            <name>kartben_</name>
-            <uri>https://news.ycombinator.com/user?id=kartben_</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 31 Mar 2022 17:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 18:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[史上最小、最差的HDMI显示器]]></title>
+            <link>https://news.ycombinator.com/item?id=30869140</link>
+            <guid>https://news.ycombinator.com/item?id=30869140</guid>
+            <pubDate>Thu, 31 Mar 2022 16:31:17 GMT</pubDate>
+            <description><![CDATA[The smallest and worst HDMI display ever]]></description>
+        </item>
         <item>
             <title><![CDATA[Ubiquiti与Krebs]]></title>
             <link>https://news.ycombinator.com/item?id=30866597</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30373342</guid>
             <pubDate>Thu, 17 Feb 2022 14:24:13 GMT</pubDate>
             <description><![CDATA[Quordle: Four Wordles in One]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个13岁的孩子用我的人造鼻子来诊断肺炎]]></title>
-            <link>https://news.ycombinator.com/item?id=30373279</link>
-            <guid>https://news.ycombinator.com/item?id=30373279</guid>
-            <pubDate>Thu, 17 Feb 2022 14:18:48 GMT</pubDate>
-            <description><![CDATA[A 13-year-old used my artificial nose to diagnose pneumonia]]></description>
         </item>
     </channel>
 </rss>
