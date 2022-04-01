@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 01 Apr 2022 07:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 13:04:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼雌性動物會進化出如此狂野的生殖器？]]></title>
+            <link>https://news.ycombinator.com/item?id=30874206</link>
+            <guid>https://news.ycombinator.com/item?id=30874206</guid>
+            <pubDate>Fri, 01 Apr 2022 01:24:12 GMT</pubDate>
+            <description><![CDATA[Why have female animals evolved such wild genitals?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[線性代數的直觀指南]]></title>
+            <link>https://news.ycombinator.com/item?id=30866244</link>
+            <guid>https://news.ycombinator.com/item?id=30866244</guid>
+            <pubDate>Thu, 31 Mar 2022 12:03:52 GMT</pubDate>
+            <description><![CDATA[An Intuitive Guide to Linear Algebra]]></description>
+        </item>
         <item>
             <title><![CDATA[Linux的筆和平板電腦]]></title>
             <link>https://news.ycombinator.com/item?id=30874256</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30401241</guid>
             <pubDate>Sat, 19 Feb 2022 22:45:05 GMT</pubDate>
             <description><![CDATA[Tell HN: YouTube and how my wife lost 7 years of work]]></description>
-        </item>
-        <item>
-            <title><![CDATA[對6.3億個美國法院案件進行全文檢索]]></title>
-            <link>https://news.ycombinator.com/item?id=30399881</link>
-            <guid>https://news.ycombinator.com/item?id=30399881</guid>
-            <pubDate>Sat, 19 Feb 2022 19:45:31 GMT</pubDate>
-            <description><![CDATA[Show HN: Full text search on 630M US court cases]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jujutsu - 一個與Git兼容的DVCS，既簡單又強大]]></title>
-            <link>https://news.ycombinator.com/item?id=30398662</link>
-            <guid>https://news.ycombinator.com/item?id=30398662</guid>
-            <pubDate>Sat, 19 Feb 2022 17:17:09 GMT</pubDate>
-            <description><![CDATA[Jujutsu – A Git-compatible DVCS that is both simple and powerful]]></description>
         </item>
     </channel>
 </rss>
