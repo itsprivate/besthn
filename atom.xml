@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-01T16:16:33.751Z</updated>
+    <updated>2022-04-01T16:53:40.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Gov.uk设计系统现已上线]]></title>
+        <id>https://news.ycombinator.com/item?id=30877049</id>
+        <link href="https://news.ycombinator.com/item?id=30877049"/>
+        <updated>2022-04-01T11:16:44.000Z</updated>
+        <summary type="html"><![CDATA[The Gov.uk Design System is now live]]></summary>
+        <author>
+            <name>open-source-ux</name>
+            <uri>https://news.ycombinator.com/user?id=open-source-ux</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迫害：沙盒逃亡]]></title>
+        <id>https://news.ycombinator.com/item?id=30868724</id>
+        <link href="https://news.ycombinator.com/item?id=30868724"/>
+        <updated>2022-03-31T16:05:43.000Z</updated>
+        <summary type="html"><![CDATA[FORCEDENTRY: Sandbox Escape]]></summary>
+        <author>
+            <name>ivank</name>
+            <uri>https://news.ycombinator.com/user?id=ivank</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在偷窃我的914之前需要知道的几件事]]></title>
         <id>https://news.ycombinator.com/item?id=30878489</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[游戏男孩Wordle克隆：如何将12972个五个字母的单词压缩到17871字节中]]></title>
-        <id>https://news.ycombinator.com/item?id=30402407</id>
-        <link href="https://news.ycombinator.com/item?id=30402407"/>
-        <updated>2022-02-20T01:41:27.000Z</updated>
-        <summary type="html"><![CDATA[Game Boy Wordle clone: How to compress 12972 five-letter words to 17871 bytes]]></summary>
-        <author>
-            <name>cubefox</name>
-            <uri>https://news.ycombinator.com/user?id=cubefox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文明的陨落》播客。南印度最后的皇帝--维贾亚纳加拉]]></title>
-        <id>https://news.ycombinator.com/item?id=30402624</id>
-        <link href="https://news.ycombinator.com/item?id=30402624"/>
-        <updated>2022-02-20T02:17:19.000Z</updated>
-        <summary type="html"><![CDATA[Fall of Civilizations Podcast: Vijayanagara – The Last Emperors of South India]]></summary>
-        <author>
-            <name>startblue</name>
-            <uri>https://news.ycombinator.com/user?id=startblue</uri>
         </author>
     </entry>
 </feed>

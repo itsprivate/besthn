@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 01 Apr 2022 16:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 16:53:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Gov.uk设计系统现已上线]]></title>
+            <link>https://news.ycombinator.com/item?id=30877049</link>
+            <guid>https://news.ycombinator.com/item?id=30877049</guid>
+            <pubDate>Fri, 01 Apr 2022 11:16:44 GMT</pubDate>
+            <description><![CDATA[The Gov.uk Design System is now live]]></description>
+        </item>
+        <item>
+            <title><![CDATA[迫害：沙盒逃亡]]></title>
+            <link>https://news.ycombinator.com/item?id=30868724</link>
+            <guid>https://news.ycombinator.com/item?id=30868724</guid>
+            <pubDate>Thu, 31 Mar 2022 16:05:43 GMT</pubDate>
+            <description><![CDATA[FORCEDENTRY: Sandbox Escape]]></description>
+        </item>
         <item>
             <title><![CDATA[在偷窃我的914之前需要知道的几件事]]></title>
             <link>https://news.ycombinator.com/item?id=30878489</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30405815</guid>
             <pubDate>Sun, 20 Feb 2022 14:11:14 GMT</pubDate>
             <description><![CDATA[The fastest GIF does not exist]]></description>
-        </item>
-        <item>
-            <title><![CDATA[游戏男孩Wordle克隆：如何将12972个五个字母的单词压缩到17871字节中]]></title>
-            <link>https://news.ycombinator.com/item?id=30402407</link>
-            <guid>https://news.ycombinator.com/item?id=30402407</guid>
-            <pubDate>Sun, 20 Feb 2022 01:41:27 GMT</pubDate>
-            <description><![CDATA[Game Boy Wordle clone: How to compress 12972 five-letter words to 17871 bytes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[文明的陨落》播客。南印度最后的皇帝--维贾亚纳加拉]]></title>
-            <link>https://news.ycombinator.com/item?id=30402624</link>
-            <guid>https://news.ycombinator.com/item?id=30402624</guid>
-            <pubDate>Sun, 20 Feb 2022 02:17:19 GMT</pubDate>
-            <description><![CDATA[Fall of Civilizations Podcast: Vijayanagara – The Last Emperors of South India]]></description>
         </item>
     </channel>
 </rss>
