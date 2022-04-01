@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 31 Mar 2022 23:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 04:45:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Go如何減輕供應鏈攻擊]]></title>
+            <link>https://news.ycombinator.com/item?id=30869261</link>
+            <guid>https://news.ycombinator.com/item?id=30869261</guid>
+            <pubDate>Thu, 31 Mar 2022 16:38:38 GMT</pubDate>
+            <description><![CDATA[How Go mitigates supply chain attacks]]></description>
+        </item>
         <item>
             <title><![CDATA[偶像的話語]]></title>
             <link>https://news.ycombinator.com/item?id=30860817</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30376777</guid>
             <pubDate>Thu, 17 Feb 2022 18:33:20 GMT</pubDate>
             <description><![CDATA[The Unreasonable Math of Type 1 Diabetes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[靜態B型樹。一種用於快速二進制搜索的數據結構]]></title>
-            <link>https://news.ycombinator.com/item?id=30376140</link>
-            <guid>https://news.ycombinator.com/item?id=30376140</guid>
-            <pubDate>Thu, 17 Feb 2022 17:42:37 GMT</pubDate>
-            <description><![CDATA[Static B-Trees: A data structure for faster binary search]]></description>
         </item>
     </channel>
 </rss>
