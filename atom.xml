@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-01T06:58:12.843Z</updated>
+    <updated>2022-04-01T07:41:29.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Linux的笔和平板电脑]]></title>
+        <id>https://news.ycombinator.com/item?id=30874256</id>
+        <link href="https://news.ycombinator.com/item?id=30874256"/>
+        <updated>2022-04-01T01:34:14.000Z</updated>
+        <summary type="html"><![CDATA[Pens and Tablets for Linux]]></summary>
+        <author>
+            <name>tux1968</name>
+            <uri>https://news.ycombinator.com/user?id=tux1968</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["这不应该发生"。猎杀病毒的非营利组织生态健康联盟的内部情况]]></title>
         <id>https://news.ycombinator.com/item?id=30870435</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rolisz</name>
             <uri>https://news.ycombinator.com/user?id=rolisz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你觉得在大型分布式系统上工作很累吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30396454</id>
-        <link href="https://news.ycombinator.com/item?id=30396454"/>
-        <updated>2022-02-19T11:58:46.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you find working on large distributed systems exhausting?]]></summary>
-        <author>
-            <name>wreath</name>
-            <uri>https://news.ycombinator.com/user?id=wreath</uri>
         </author>
     </entry>
 </feed>

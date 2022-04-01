@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 01 Apr 2022 06:58:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 07:41:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Linux的笔和平板电脑]]></title>
+            <link>https://news.ycombinator.com/item?id=30874256</link>
+            <guid>https://news.ycombinator.com/item?id=30874256</guid>
+            <pubDate>Fri, 01 Apr 2022 01:34:14 GMT</pubDate>
+            <description><![CDATA[Pens and Tablets for Linux]]></description>
+        </item>
         <item>
             <title><![CDATA["这不应该发生"。猎杀病毒的非营利组织生态健康联盟的内部情况]]></title>
             <link>https://news.ycombinator.com/item?id=30870435</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30398662</guid>
             <pubDate>Sat, 19 Feb 2022 17:17:09 GMT</pubDate>
             <description><![CDATA[Jujutsu – A Git-compatible DVCS that is both simple and powerful]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你觉得在大型分布式系统上工作很累吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30396454</link>
-            <guid>https://news.ycombinator.com/item?id=30396454</guid>
-            <pubDate>Sat, 19 Feb 2022 11:58:46 GMT</pubDate>
-            <description><![CDATA[Ask HN: Do you find working on large distributed systems exhausting?]]></description>
         </item>
     </channel>
 </rss>
