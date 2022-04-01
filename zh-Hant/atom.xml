@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-01T13:04:10.984Z</updated>
+    <updated>2022-04-01T16:16:33.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在偷竊我的914之前需要知道的幾件事]]></title>
+        <id>https://news.ycombinator.com/item?id=30878489</id>
+        <link href="https://news.ycombinator.com/item?id=30878489"/>
+        <updated>2022-04-01T14:40:16.000Z</updated>
+        <summary type="html"><![CDATA[A few things to know before stealing my 914]]></summary>
+        <author>
+            <name>garrepi</name>
+            <uri>https://news.ycombinator.com/user?id=garrepi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼雌性動物會進化出如此狂野的生殖器？]]></title>
         <id>https://news.ycombinator.com/item?id=30874206</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>startblue</name>
             <uri>https://news.ycombinator.com/user?id=startblue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告訴HN：YouTube和我妻子如何失去7年的工作]]></title>
-        <id>https://news.ycombinator.com/item?id=30401241</id>
-        <link href="https://news.ycombinator.com/item?id=30401241"/>
-        <updated>2022-02-19T22:45:05.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: YouTube and how my wife lost 7 years of work]]></summary>
-        <author>
-            <name>jdhendrickson</name>
-            <uri>https://news.ycombinator.com/user?id=jdhendrickson</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 01 Apr 2022 13:04:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 16:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在偷竊我的914之前需要知道的幾件事]]></title>
+            <link>https://news.ycombinator.com/item?id=30878489</link>
+            <guid>https://news.ycombinator.com/item?id=30878489</guid>
+            <pubDate>Fri, 01 Apr 2022 14:40:16 GMT</pubDate>
+            <description><![CDATA[A few things to know before stealing my 914]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼雌性動物會進化出如此狂野的生殖器？]]></title>
             <link>https://news.ycombinator.com/item?id=30874206</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30402624</guid>
             <pubDate>Sun, 20 Feb 2022 02:17:19 GMT</pubDate>
             <description><![CDATA[Fall of Civilizations Podcast: Vijayanagara – The Last Emperors of South India]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告訴HN：YouTube和我妻子如何失去7年的工作]]></title>
-            <link>https://news.ycombinator.com/item?id=30401241</link>
-            <guid>https://news.ycombinator.com/item?id=30401241</guid>
-            <pubDate>Sat, 19 Feb 2022 22:45:05 GMT</pubDate>
-            <description><![CDATA[Tell HN: YouTube and how my wife lost 7 years of work]]></description>
         </item>
     </channel>
 </rss>
