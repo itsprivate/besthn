@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 01 Apr 2022 22:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 23:43:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[英国推特用户被判处150小时的社区服务]]></title>
+            <link>https://news.ycombinator.com/item?id=30876490</link>
+            <guid>https://news.ycombinator.com/item?id=30876490</guid>
+            <pubDate>Fri, 01 Apr 2022 09:28:45 GMT</pubDate>
+            <description><![CDATA[Twitter user sentenced to 150 hours of community service in UK]]></description>
+        </item>
         <item>
             <title><![CDATA[一个纯文本文件格式的工作日程和检查清单]]></title>
             <link>https://news.ycombinator.com/item?id=30879327</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30408434</guid>
             <pubDate>Sun, 20 Feb 2022 19:19:09 GMT</pubDate>
             <description><![CDATA[Show HN: Test your shape rotation skills]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们不应该把积极的心态推给那些贫困的人]]></title>
-            <link>https://news.ycombinator.com/item?id=30395256</link>
-            <guid>https://news.ycombinator.com/item?id=30395256</guid>
-            <pubDate>Sat, 19 Feb 2022 08:04:16 GMT</pubDate>
-            <description><![CDATA[We shouldn’t push a positive mindset on those in poverty]]></description>
         </item>
     </channel>
 </rss>
