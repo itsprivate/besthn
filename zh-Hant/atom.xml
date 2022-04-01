@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-01T04:45:52.898Z</updated>
+    <updated>2022-04-01T06:39:57.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Supabase邊緣功能]]></title>
+        <id>https://news.ycombinator.com/item?id=30868849</id>
+        <link href="https://news.ycombinator.com/item?id=30868849"/>
+        <updated>2022-03-31T16:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Supabase Edge Functions]]></summary>
+        <author>
+            <name>lightslit</name>
+            <uri>https://news.ycombinator.com/user?id=lightslit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go如何減輕供應鏈攻擊]]></title>
         <id>https://news.ycombinator.com/item?id=30869261</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>arunc</name>
             <uri>https://news.ycombinator.com/user?id=arunc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1型糖尿病的不合理的數學問題]]></title>
-        <id>https://news.ycombinator.com/item?id=30376777</id>
-        <link href="https://news.ycombinator.com/item?id=30376777"/>
-        <updated>2022-02-17T18:33:20.000Z</updated>
-        <summary type="html"><![CDATA[The Unreasonable Math of Type 1 Diabetes]]></summary>
-        <author>
-            <name>grahar64</name>
-            <uri>https://news.ycombinator.com/user?id=grahar64</uri>
         </author>
     </entry>
 </feed>
