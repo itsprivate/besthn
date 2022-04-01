@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-01T16:53:40.559Z</updated>
+    <updated>2022-04-01T18:41:23.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亚马逊工人投票决定成立工会，为有组织的劳工带来惊人的胜利]]></title>
+        <id>https://news.ycombinator.com/item?id=30880203</id>
+        <link href="https://news.ycombinator.com/item?id=30880203"/>
+        <updated>2022-04-01T16:40:46.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Workers Vote to Unionize in Stunning Win for Organized Labor]]></summary>
+        <author>
+            <name>jbegley</name>
+            <uri>https://news.ycombinator.com/user?id=jbegley</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客泄露Lichess源代码]]></title>
+        <id>https://news.ycombinator.com/item?id=30877087</id>
+        <link href="https://news.ycombinator.com/item?id=30877087"/>
+        <updated>2022-04-01T11:24:38.000Z</updated>
+        <summary type="html"><![CDATA[Hackers Leak Lichess Source Code]]></summary>
+        <author>
+            <name>yewenjie</name>
+            <uri>https://news.ycombinator.com/user?id=yewenjie</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无限的Mac。浏览器中即时启动的Quadra]]></title>
+        <id>https://news.ycombinator.com/item?id=30875259</id>
+        <link href="https://news.ycombinator.com/item?id=30875259"/>
+        <updated>2022-04-01T04:41:57.000Z</updated>
+        <summary type="html"><![CDATA[Infinite Mac: An Instant-Booting Quadra in the Browser]]></summary>
+        <author>
+            <name>jf</name>
+            <uri>https://news.ycombinator.com/user?id=jf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gov.uk设计系统现已上线]]></title>
         <id>https://news.ycombinator.com/item?id=30877049</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>pingiun</name>
             <uri>https://news.ycombinator.com/user?id=pingiun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[婴儿在头三个月为什么哭，如何区分，以及如何做]]></title>
-        <id>https://news.ycombinator.com/item?id=30401882</id>
-        <link href="https://news.ycombinator.com/item?id=30401882"/>
-        <updated>2022-02-20T00:18:59.000Z</updated>
-        <summary type="html"><![CDATA[Why babies cry in the first three months, how to tell them apart, and what to do]]></summary>
-        <author>
-            <name>ibobev</name>
-            <uri>https://news.ycombinator.com/user?id=ibobev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[服务器发送的事件、WebSockets和HTTP]]></title>
-        <id>https://news.ycombinator.com/item?id=30403438</id>
-        <link href="https://news.ycombinator.com/item?id=30403438"/>
-        <updated>2022-02-20T05:24:33.000Z</updated>
-        <summary type="html"><![CDATA[Server-sent events, WebSockets, and HTTP]]></summary>
-        <author>
-            <name>grappler</name>
-            <uri>https://news.ycombinator.com/user?id=grappler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最快的GIF并不存在]]></title>
-        <id>https://news.ycombinator.com/item?id=30405815</id>
-        <link href="https://news.ycombinator.com/item?id=30405815"/>
-        <updated>2022-02-20T14:11:14.000Z</updated>
-        <summary type="html"><![CDATA[The fastest GIF does not exist]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>

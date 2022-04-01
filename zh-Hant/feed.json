@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30880203",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30880203",
+            "title": "亞馬遜工人投票決定成立工會，為有組織的勞工帶來驚人的勝利",
+            "summary": "Amazon Workers Vote to Unionize in Stunning Win for Organized Labor",
+            "date_modified": "2022-04-01T16:40:46.000Z",
+            "author": {
+                "name": "jbegley",
+                "url": "https://news.ycombinator.com/user?id=jbegley"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30877087",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30877087",
+            "title": "黑客洩露Lichess源代碼",
+            "summary": "Hackers Leak Lichess Source Code",
+            "date_modified": "2022-04-01T11:24:38.000Z",
+            "author": {
+                "name": "yewenjie",
+                "url": "https://news.ycombinator.com/user?id=yewenjie"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30875259",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30875259",
+            "title": "無限的Mac。瀏覽器中即時啟動的Quadra",
+            "summary": "Infinite Mac: An Instant-Booting Quadra in the Browser",
+            "date_modified": "2022-04-01T04:41:57.000Z",
+            "author": {
+                "name": "jf",
+                "url": "https://news.ycombinator.com/user?id=jf"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30877049",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30877049",
@@ -7172,42 +7208,6 @@
             "author": {
                 "name": "pingiun",
                 "url": "https://news.ycombinator.com/user?id=pingiun"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30401882",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30401882",
-            "title": "嬰兒在頭三個月為什麼哭，如何區分，以及如何做",
-            "summary": "Why babies cry in the first three months, how to tell them apart, and what to do",
-            "date_modified": "2022-02-20T00:18:59.000Z",
-            "author": {
-                "name": "ibobev",
-                "url": "https://news.ycombinator.com/user?id=ibobev"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30403438",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30403438",
-            "title": "服務器發送的事件、WebSockets和HTTP",
-            "summary": "Server-sent events, WebSockets, and HTTP",
-            "date_modified": "2022-02-20T05:24:33.000Z",
-            "author": {
-                "name": "grappler",
-                "url": "https://news.ycombinator.com/user?id=grappler"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30405815",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30405815",
-            "title": "最快的GIF並不存在",
-            "summary": "The fastest GIF does not exist",
-            "date_modified": "2022-02-20T14:11:14.000Z",
-            "author": {
-                "name": "todsacerdoti",
-                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
             }
         }
     ]
