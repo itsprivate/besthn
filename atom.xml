@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-01T18:58:17.284Z</updated>
+    <updated>2022-04-01T22:12:35.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个纯文本文件格式的工作日程和检查清单]]></title>
+        <id>https://news.ycombinator.com/item?id=30879327</id>
+        <link href="https://news.ycombinator.com/item?id=30879327"/>
+        <updated>2022-04-01T15:39:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A plain-text file format for todos and check lists]]></summary>
+        <author>
+            <name>jotaen</name>
+            <uri>https://news.ycombinator.com/user?id=jotaen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Flask和HTMx构建一个全栈式的应用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30843275</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>homarp</name>
             <uri>https://news.ycombinator.com/user?id=homarp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[魁北克省费蒙市的 "墙 "住房结构]]></title>
-        <id>https://news.ycombinator.com/item?id=30398603</id>
-        <link href="https://news.ycombinator.com/item?id=30398603"/>
-        <updated>2022-02-19T17:10:28.000Z</updated>
-        <summary type="html"><![CDATA[“The Wall” Housing Structure In Fermont, Quebec]]></summary>
-        <author>
-            <name>asyncscrum</name>
-            <uri>https://news.ycombinator.com/user?id=asyncscrum</uri>
         </author>
     </entry>
 </feed>
