@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-02T16:15:28.129Z</updated>
+    <updated>2022-04-02T19:27:49.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[问：7次采访何时成为 "正常"？]]></title>
+        <id>https://news.ycombinator.com/item?id=30889019</id>
+        <link href="https://news.ycombinator.com/item?id=30889019"/>
+        <updated>2022-04-02T15:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: ASK HN: When did 7 interviews become “normal”?]]></summary>
+        <author>
+            <name>geeky4qwerty</name>
+            <uri>https://news.ycombinator.com/user?id=geeky4qwerty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YouTube取消了我的Nextcloud安装方法]]></title>
         <id>https://news.ycombinator.com/item?id=30886834</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>JeanMarcS</name>
             <uri>https://news.ycombinator.com/user?id=JeanMarcS</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的第一个80天VR锻炼法]]></title>
-        <id>https://news.ycombinator.com/item?id=30402020</id>
-        <link href="https://news.ycombinator.com/item?id=30402020"/>
-        <updated>2022-02-20T00:40:25.000Z</updated>
-        <summary type="html"><![CDATA[My First 80 Days of VR for Exercise]]></summary>
-        <author>
-            <name>w1nter</name>
-            <uri>https://news.ycombinator.com/user?id=w1nter</uri>
         </author>
     </entry>
 </feed>
