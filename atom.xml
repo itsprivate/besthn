@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-02T02:23:46.628Z</updated>
+    <updated>2022-04-02T03:43:30.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年的数据库]]></title>
+        <id>https://news.ycombinator.com/item?id=30883015</id>
+        <link href="https://news.ycombinator.com/item?id=30883015"/>
+        <updated>2022-04-01T20:33:11.000Z</updated>
+        <summary type="html"><![CDATA[A database for 2022]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postgres wire兼容的SQLite代理]]></title>
+        <id>https://news.ycombinator.com/item?id=30875837</id>
+        <link href="https://news.ycombinator.com/item?id=30875837"/>
+        <updated>2022-04-01T06:58:02.000Z</updated>
+        <summary type="html"><![CDATA[Postgres wire compatible SQLite proxy]]></summary>
+        <author>
+            <name>ithkuil</name>
+            <uri>https://news.ycombinator.com/user?id=ithkuil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RFC 9225: 被认为是有害的软件缺陷]]></title>
         <id>https://news.ycombinator.com/item?id=30880769</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Jaruzel</name>
             <uri>https://news.ycombinator.com/user?id=Jaruzel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[匿名]]></title>
-        <id>https://news.ycombinator.com/item?id=30408236</id>
-        <link href="https://news.ycombinator.com/item?id=30408236"/>
-        <updated>2022-02-20T18:54:36.000Z</updated>
-        <summary type="html"><![CDATA[Be anonymous]]></summary>
-        <author>
-            <name>kashnote</name>
-            <uri>https://news.ycombinator.com/user?id=kashnote</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fengari - 浏览器的Lua]]></title>
-        <id>https://news.ycombinator.com/item?id=30404104</id>
-        <link href="https://news.ycombinator.com/item?id=30404104"/>
-        <updated>2022-02-20T08:06:24.000Z</updated>
-        <summary type="html"><![CDATA[Fengari – Lua for the Browser]]></summary>
-        <author>
-            <name>tsujp</name>
-            <uri>https://news.ycombinator.com/user?id=tsujp</uri>
         </author>
     </entry>
 </feed>

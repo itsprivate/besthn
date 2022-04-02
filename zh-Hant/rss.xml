@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 02 Apr 2022 02:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 03:43:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[2022年的數據庫]]></title>
+            <link>https://news.ycombinator.com/item?id=30883015</link>
+            <guid>https://news.ycombinator.com/item?id=30883015</guid>
+            <pubDate>Fri, 01 Apr 2022 20:33:11 GMT</pubDate>
+            <description><![CDATA[A database for 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Postgres wire兼容的SQLite代理]]></title>
+            <link>https://news.ycombinator.com/item?id=30875837</link>
+            <guid>https://news.ycombinator.com/item?id=30875837</guid>
+            <pubDate>Fri, 01 Apr 2022 06:58:02 GMT</pubDate>
+            <description><![CDATA[Postgres wire compatible SQLite proxy]]></description>
+        </item>
         <item>
             <title><![CDATA[RFC 9225: 被認為是有害的軟件缺陷]]></title>
             <link>https://news.ycombinator.com/item?id=30880769</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30405959</guid>
             <pubDate>Sun, 20 Feb 2022 14:27:59 GMT</pubDate>
             <description><![CDATA[A pentester gets root - step by step example]]></description>
-        </item>
-        <item>
-            <title><![CDATA[匿名]]></title>
-            <link>https://news.ycombinator.com/item?id=30408236</link>
-            <guid>https://news.ycombinator.com/item?id=30408236</guid>
-            <pubDate>Sun, 20 Feb 2022 18:54:36 GMT</pubDate>
-            <description><![CDATA[Be anonymous]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fengari - 瀏覽器的Lua]]></title>
-            <link>https://news.ycombinator.com/item?id=30404104</link>
-            <guid>https://news.ycombinator.com/item?id=30404104</guid>
-            <pubDate>Sun, 20 Feb 2022 08:06:24 GMT</pubDate>
-            <description><![CDATA[Fengari – Lua for the Browser]]></description>
         </item>
     </channel>
 </rss>
