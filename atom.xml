@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-02T19:27:49.036Z</updated>
+    <updated>2022-04-02T20:33:05.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人类基因组终于完成了]]></title>
+        <id>https://news.ycombinator.com/item?id=30888988</id>
+        <link href="https://news.ycombinator.com/item?id=30888988"/>
+        <updated>2022-04-02T15:34:21.000Z</updated>
+        <summary type="html"><![CDATA[The human genome is, at long last, complete]]></summary>
+        <author>
+            <name>marc__1</name>
+            <uri>https://news.ycombinator.com/user?id=marc__1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[问：7次采访何时成为 "正常"？]]></title>
         <id>https://news.ycombinator.com/item?id=30889019</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mleonhard</name>
             <uri>https://news.ycombinator.com/user?id=mleonhard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：Airbnb刚刚偷走了我5分钟的时间，加入了骰子]]></title>
-        <id>https://news.ycombinator.com/item?id=30413228</id>
-        <link href="https://news.ycombinator.com/item?id=30413228"/>
-        <updated>2022-02-21T08:27:12.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: Airbnb just stole me 5 minutes of my time adding dices]]></summary>
-        <author>
-            <name>JeanMarcS</name>
-            <uri>https://news.ycombinator.com/user?id=JeanMarcS</uri>
         </author>
     </entry>
 </feed>

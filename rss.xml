@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 02 Apr 2022 19:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 20:33:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[人类基因组终于完成了]]></title>
+            <link>https://news.ycombinator.com/item?id=30888988</link>
+            <guid>https://news.ycombinator.com/item?id=30888988</guid>
+            <pubDate>Sat, 02 Apr 2022 15:34:21 GMT</pubDate>
+            <description><![CDATA[The human genome is, at long last, complete]]></description>
+        </item>
         <item>
             <title><![CDATA[问：7次采访何时成为 "正常"？]]></title>
             <link>https://news.ycombinator.com/item?id=30889019</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30399576</guid>
             <pubDate>Sat, 19 Feb 2022 19:06:30 GMT</pubDate>
             <description><![CDATA[Oilslick – an elevation map showing fine detail in terrain]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告诉HN：Airbnb刚刚偷走了我5分钟的时间，加入了骰子]]></title>
-            <link>https://news.ycombinator.com/item?id=30413228</link>
-            <guid>https://news.ycombinator.com/item?id=30413228</guid>
-            <pubDate>Mon, 21 Feb 2022 08:27:12 GMT</pubDate>
-            <description><![CDATA[Tell HN: Airbnb just stole me 5 minutes of my time adding dices]]></description>
         </item>
     </channel>
 </rss>
