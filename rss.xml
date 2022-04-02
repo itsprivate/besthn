@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 02 Apr 2022 11:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 16:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[YouTube取消了我的Nextcloud安装方法]]></title>
+            <link>https://news.ycombinator.com/item?id=30886834</link>
+            <guid>https://news.ycombinator.com/item?id=30886834</guid>
+            <pubDate>Sat, 02 Apr 2022 08:58:41 GMT</pubDate>
+            <description><![CDATA[YouTube cancelled my Nextcloud installation how-to]]></description>
+        </item>
         <item>
             <title><![CDATA[明智地选择你的状态游戏]]></title>
             <link>https://news.ycombinator.com/item?id=30853985</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30402020</guid>
             <pubDate>Sun, 20 Feb 2022 00:40:25 GMT</pubDate>
             <description><![CDATA[My First 80 Days of VR for Exercise]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌标签管理器，新的反广告屏蔽武器]]></title>
-            <link>https://news.ycombinator.com/item?id=30411049</link>
-            <guid>https://news.ycombinator.com/item?id=30411049</guid>
-            <pubDate>Mon, 21 Feb 2022 01:41:03 GMT</pubDate>
-            <description><![CDATA[Google Tag Manager, the new anti-adblock weapon]]></description>
         </item>
     </channel>
 </rss>
