@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 03 Apr 2022 08:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 09:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[戰艦]]></title>
+            <link>https://news.ycombinator.com/item?id=30891626</link>
+            <guid>https://news.ycombinator.com/item?id=30891626</guid>
+            <pubDate>Sat, 02 Apr 2022 20:58:55 GMT</pubDate>
+            <description><![CDATA[Battleship]]></description>
+        </item>
         <item>
             <title><![CDATA[員工正在返回辦公室坐著放大電話]]></title>
             <link>https://news.ycombinator.com/item?id=30892485</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30412550</guid>
             <pubDate>Mon, 21 Feb 2022 06:35:17 GMT</pubDate>
             <description><![CDATA[Automerge: A JSON-like data structure (a CRDT) that can be modified concurrently]]></description>
-        </item>
-        <item>
-            <title><![CDATA[關係滿意度如何在你的一生中變化]]></title>
-            <link>https://news.ycombinator.com/item?id=30394701</link>
-            <guid>https://news.ycombinator.com/item?id=30394701</guid>
-            <pubDate>Sat, 19 Feb 2022 05:39:25 GMT</pubDate>
-            <description><![CDATA[How relationship satisfaction changes across your lifetime]]></description>
         </item>
     </channel>
 </rss>
