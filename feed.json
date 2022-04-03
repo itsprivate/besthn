@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30892081",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30892081",
+            "title": "阿尔比尼给涅槃乐队投球：\"我希望能像水管工一样得到报酬\"（1992年）。",
+            "summary": "Albini pitching Nirvana: “I would like to be paid like a plumber” (1992)",
+            "date_modified": "2022-04-02T22:06:15.000Z",
+            "author": {
+                "name": "sanj",
+                "url": "https://news.ycombinator.com/user?id=sanj"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30878761",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30878761",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "mrzool",
                 "url": "https://news.ycombinator.com/user?id=mrzool"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30419618",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30419618",
-            "title": "我测试了四家供应商的NVMe固态硬盘--一半在断电时丢失FLUSH的数据",
-            "summary": "I tested four NVMe SSDs from four vendors – half lose FLUSH’d data on power loss",
-            "date_modified": "2022-02-21T19:29:37.000Z",
-            "author": {
-                "name": "ahachete",
-                "url": "https://news.ycombinator.com/user?id=ahachete"
             }
         }
     ]

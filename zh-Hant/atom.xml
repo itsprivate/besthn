@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-03T10:14:53.889Z</updated>
+    <updated>2022-04-03T11:29:53.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[阿爾比尼給涅槃樂隊投球："我希望能像水管工一樣得到報酬"（1992年）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30892081</id>
+        <link href="https://news.ycombinator.com/item?id=30892081"/>
+        <updated>2022-04-02T22:06:15.000Z</updated>
+        <summary type="html"><![CDATA[Albini pitching Nirvana: “I would like to be paid like a plumber” (1992)]]></summary>
+        <author>
+            <name>sanj</name>
+            <uri>https://news.ycombinator.com/user?id=sanj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[誰在招聘？(2022年4月)]]></title>
         <id>https://news.ycombinator.com/item?id=30878761</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mrzool</name>
             <uri>https://news.ycombinator.com/user?id=mrzool</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我測試了四家供應商的NVMe固態硬盤--一半在斷電時丟失FLUSH的數據]]></title>
-        <id>https://news.ycombinator.com/item?id=30419618</id>
-        <link href="https://news.ycombinator.com/item?id=30419618"/>
-        <updated>2022-02-21T19:29:37.000Z</updated>
-        <summary type="html"><![CDATA[I tested four NVMe SSDs from four vendors – half lose FLUSH’d data on power loss]]></summary>
-        <author>
-            <name>ahachete</name>
-            <uri>https://news.ycombinator.com/user?id=ahachete</uri>
         </author>
     </entry>
 </feed>
