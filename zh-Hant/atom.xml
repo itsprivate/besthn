@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-03T07:38:00.315Z</updated>
+    <updated>2022-04-03T08:52:48.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[員工正在返回辦公室坐著放大電話]]></title>
+        <id>https://news.ycombinator.com/item?id=30892485</id>
+        <link href="https://news.ycombinator.com/item?id=30892485"/>
+        <updated>2022-04-02T23:07:38.000Z</updated>
+        <summary type="html"><![CDATA[Employees are returning to the office to sit on zoom calls]]></summary>
+        <author>
+            <name>thereare5lights</name>
+            <uri>https://news.ycombinator.com/user?id=thereare5lights</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[處理音樂時的可怕的邊緣案例]]></title>
         <id>https://news.ycombinator.com/item?id=30892811</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>terrycody</name>
             <uri>https://news.ycombinator.com/user?id=terrycody</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[克里斯-拉特納離開斯威夫特核心團隊]]></title>
-        <id>https://news.ycombinator.com/item?id=30416070</id>
-        <link href="https://news.ycombinator.com/item?id=30416070"/>
-        <updated>2022-02-21T14:13:54.000Z</updated>
-        <summary type="html"><![CDATA[Chris Lattner left Swift core team]]></summary>
-        <author>
-            <name>rayx2022</name>
-            <uri>https://news.ycombinator.com/user?id=rayx2022</uri>
         </author>
     </entry>
 </feed>
