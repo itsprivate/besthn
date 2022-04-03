@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-03T17:44:08.701Z</updated>
+    <updated>2022-04-03T18:37:37.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國幾個城市的年輕女性收入高於年輕男性]]></title>
+        <id>https://news.ycombinator.com/item?id=30897937</id>
+        <link href="https://news.ycombinator.com/item?id=30897937"/>
+        <updated>2022-04-03T16:04:48.000Z</updated>
+        <summary type="html"><![CDATA[Young women earn more than young men in several U.S. cities]]></summary>
+        <author>
+            <name>elsewhen</name>
+            <uri>https://news.ycombinator.com/user?id=elsewhen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mataroa博客 - 極簡主義者的裸體博客平臺]]></title>
         <id>https://news.ycombinator.com/item?id=30896661</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lastdong</name>
             <uri>https://news.ycombinator.com/user?id=lastdong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼我永遠不會再購買三星設備]]></title>
-        <id>https://news.ycombinator.com/item?id=30423815</id>
-        <link href="https://news.ycombinator.com/item?id=30423815"/>
-        <updated>2022-02-22T03:52:45.000Z</updated>
-        <summary type="html"><![CDATA[Why I will never buy another Samsung device]]></summary>
-        <author>
-            <name>farmerbb</name>
-            <uri>https://news.ycombinator.com/user?id=farmerbb</uri>
         </author>
     </entry>
 </feed>
