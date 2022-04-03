@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 03 Apr 2022 11:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 13:52:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你在做什麼，WordPress.com？]]></title>
+            <link>https://news.ycombinator.com/item?id=30894980</link>
+            <guid>https://news.ycombinator.com/item?id=30894980</guid>
+            <pubDate>Sun, 03 Apr 2022 06:46:53 GMT</pubDate>
+            <description><![CDATA[What are you doing, WordPress.com?]]></description>
+        </item>
         <item>
             <title><![CDATA[阿爾比尼給涅槃樂隊投球："我希望能像水管工一樣得到報酬"（1992年）。]]></title>
             <link>https://news.ycombinator.com/item?id=30892081</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30417811</guid>
             <pubDate>Mon, 21 Feb 2022 16:46:13 GMT</pubDate>
             <description><![CDATA[What are the most important statistical ideas of the past 50 years?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我沒有帽鎖，我必須尖叫]]></title>
-            <link>https://news.ycombinator.com/item?id=30421399</link>
-            <guid>https://news.ycombinator.com/item?id=30421399</guid>
-            <pubDate>Mon, 21 Feb 2022 22:17:13 GMT</pubDate>
-            <description><![CDATA[I have no capslock and I must scream]]></description>
         </item>
     </channel>
 </rss>
