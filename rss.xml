@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 03 Apr 2022 03:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 07:38:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[处理音乐时的可怕的边缘案例]]></title>
+            <link>https://news.ycombinator.com/item?id=30892811</link>
+            <guid>https://news.ycombinator.com/item?id=30892811</guid>
+            <pubDate>Sun, 03 Apr 2022 00:04:17 GMT</pubDate>
+            <description><![CDATA[Horrible edge cases when dealing with music]]></description>
+        </item>
         <item>
             <title><![CDATA[Vizio电视现在在直播电视上显示横幅广告]]></title>
             <link>https://news.ycombinator.com/item?id=30893349</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30416070</guid>
             <pubDate>Mon, 21 Feb 2022 14:13:54 GMT</pubDate>
             <description><![CDATA[Chris Lattner left Swift core team]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Vim 9将被献给Sven Guckes]]></title>
-            <link>https://news.ycombinator.com/item?id=30416558</link>
-            <guid>https://news.ycombinator.com/item?id=30416558</guid>
-            <pubDate>Mon, 21 Feb 2022 14:59:11 GMT</pubDate>
-            <description><![CDATA[Vim 9 will be dedicated to Sven Guckes]]></description>
         </item>
     </channel>
 </rss>
