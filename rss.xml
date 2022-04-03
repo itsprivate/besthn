@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 03 Apr 2022 18:37:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 19:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用Nginx、Letsencrypt和SSH反向隧道推出自己的Ngrok]]></title>
+            <link>https://news.ycombinator.com/item?id=30891494</link>
+            <guid>https://news.ycombinator.com/item?id=30891494</guid>
+            <pubDate>Sat, 02 Apr 2022 20:41:17 GMT</pubDate>
+            <description><![CDATA[Roll your own Ngrok with Nginx, Letsencrypt, and SSH reverse tunnelling]]></description>
+        </item>
         <item>
             <title><![CDATA[美国几个城市的年轻女性收入高于年轻男性]]></title>
             <link>https://news.ycombinator.com/item?id=30897937</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30404587</guid>
             <pubDate>Sun, 20 Feb 2022 10:02:12 GMT</pubDate>
             <description><![CDATA[Google Drive users stung by macOS '.DS_Store' copyright infringement issue]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Penpot: 开源设计和原型设计平台]]></title>
-            <link>https://news.ycombinator.com/item?id=30407913</link>
-            <guid>https://news.ycombinator.com/item?id=30407913</guid>
-            <pubDate>Sun, 20 Feb 2022 18:21:43 GMT</pubDate>
-            <description><![CDATA[Penpot: Open-source design and prototyping platform]]></description>
         </item>
     </channel>
 </rss>
