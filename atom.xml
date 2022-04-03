@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-03T02:24:28.769Z</updated>
+    <updated>2022-04-03T03:42:32.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Vizio电视现在在直播电视上显示横幅广告]]></title>
+        <id>https://news.ycombinator.com/item?id=30893349</id>
+        <link href="https://news.ycombinator.com/item?id=30893349"/>
+        <updated>2022-04-03T01:28:26.000Z</updated>
+        <summary type="html"><![CDATA[Vizio TVs are now showing banner ads over live TV]]></summary>
+        <author>
+            <name>woldemariam</name>
+            <uri>https://news.ycombinator.com/user?id=woldemariam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[好吧，朋友，让我们建造一些经济适用房吧。]]></title>
         <id>https://news.ycombinator.com/item?id=30891217</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rffn</name>
             <uri>https://news.ycombinator.com/user?id=rffn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现在对程序员来说，时代是伟大的。它是如何结束的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30410856</id>
-        <link href="https://news.ycombinator.com/item?id=30410856"/>
-        <updated>2022-02-21T01:06:27.000Z</updated>
-        <summary type="html"><![CDATA[Times are great for programmers now. How does it end?]]></summary>
-        <author>
-            <name>vaghetti</name>
-            <uri>https://news.ycombinator.com/user?id=vaghetti</uri>
         </author>
     </entry>
 </feed>
