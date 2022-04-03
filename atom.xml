@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-03T09:13:01.400Z</updated>
+    <updated>2022-04-03T10:14:53.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谁在招聘？(2022年4月)]]></title>
+        <id>https://news.ycombinator.com/item?id=30878761</id>
+        <link href="https://news.ycombinator.com/item?id=30878761"/>
+        <updated>2022-04-01T15:02:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who is hiring? (April 2022)]]></summary>
+        <author>
+            <name>whoishiring</name>
+            <uri>https://news.ycombinator.com/user?id=whoishiring</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[战舰]]></title>
         <id>https://news.ycombinator.com/item?id=30891626</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ahachete</name>
             <uri>https://news.ycombinator.com/user?id=ahachete</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automerge。一个类似于JSON的数据结构（一个CRDT），可以被并发修改]]></title>
-        <id>https://news.ycombinator.com/item?id=30412550</id>
-        <link href="https://news.ycombinator.com/item?id=30412550"/>
-        <updated>2022-02-21T06:35:17.000Z</updated>
-        <summary type="html"><![CDATA[Automerge: A JSON-like data structure (a CRDT) that can be modified concurrently]]></summary>
-        <author>
-            <name>yamrzou</name>
-            <uri>https://news.ycombinator.com/user?id=yamrzou</uri>
         </author>
     </entry>
 </feed>
