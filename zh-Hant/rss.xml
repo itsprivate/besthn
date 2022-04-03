@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 02 Apr 2022 20:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 02:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[好吧，朋友，讓我們建造一些經濟適用房吧。]]></title>
+            <link>https://news.ycombinator.com/item?id=30891217</link>
+            <guid>https://news.ycombinator.com/item?id=30891217</guid>
+            <pubDate>Sat, 02 Apr 2022 20:01:03 GMT</pubDate>
+            <description><![CDATA[Alright, amigo, let's build some affordable housing]]></description>
+        </item>
         <item>
             <title><![CDATA[人類基因組終於完成了]]></title>
             <link>https://news.ycombinator.com/item?id=30888988</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30410856</guid>
             <pubDate>Mon, 21 Feb 2022 01:06:27 GMT</pubDate>
             <description><![CDATA[Times are great for programmers now. How does it end?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Oilslick - 顯示地形細部的高程地圖]]></title>
-            <link>https://news.ycombinator.com/item?id=30399576</link>
-            <guid>https://news.ycombinator.com/item?id=30399576</guid>
-            <pubDate>Sat, 19 Feb 2022 19:06:30 GMT</pubDate>
-            <description><![CDATA[Oilslick – an elevation map showing fine detail in terrain]]></description>
         </item>
     </channel>
 </rss>

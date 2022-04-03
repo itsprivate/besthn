@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30891217",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30891217",
+            "title": "好吧，朋友，讓我們建造一些經濟適用房吧。",
+            "summary": "Alright, amigo, let's build some affordable housing",
+            "date_modified": "2022-04-02T20:01:03.000Z",
+            "author": {
+                "name": "rmason",
+                "url": "https://news.ycombinator.com/user?id=rmason"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30888988",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30888988",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "vaghetti",
                 "url": "https://news.ycombinator.com/user?id=vaghetti"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30399576",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30399576",
-            "title": "Oilslick - 顯示地形細部的高程地圖",
-            "summary": "Oilslick – an elevation map showing fine detail in terrain",
-            "date_modified": "2022-02-19T19:06:30.000Z",
-            "author": {
-                "name": "mleonhard",
-                "url": "https://news.ycombinator.com/user?id=mleonhard"
             }
         }
     ]
