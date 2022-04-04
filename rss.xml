@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 04 Apr 2022 13:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 14:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[由于有了新的光线追踪模型，"它能否运行Doom "将不再是一个问题了]]></title>
+            <link>https://news.ycombinator.com/item?id=30901247</link>
+            <guid>https://news.ycombinator.com/item?id=30901247</guid>
+            <pubDate>Sun, 03 Apr 2022 22:14:18 GMT</pubDate>
+            <description><![CDATA[“Can it run Doom” will never be the same, thanks to new ray-tracing mod]]></description>
+        </item>
+        <item>
+            <title><![CDATA[由YC支持的uBiome基本上是Theranos的精简版]]></title>
+            <link>https://news.ycombinator.com/item?id=30899352</link>
+            <guid>https://news.ycombinator.com/item?id=30899352</guid>
+            <pubDate>Sun, 03 Apr 2022 18:27:57 GMT</pubDate>
+            <description><![CDATA[YC-backed uBiome is basically Theranos-lite]]></description>
+        </item>
         <item>
             <title><![CDATA[Jd]]></title>
             <link>https://news.ycombinator.com/item?id=30905662</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30423856</guid>
             <pubDate>Tue, 22 Feb 2022 04:02:17 GMT</pubDate>
             <description><![CDATA[Try Clojure – An interactive tutorial in the browser]]></description>
-        </item>
-        <item>
-            <title><![CDATA[部分用户的Slack出现故障]]></title>
-            <link>https://news.ycombinator.com/item?id=30428788</link>
-            <guid>https://news.ycombinator.com/item?id=30428788</guid>
-            <pubDate>Tue, 22 Feb 2022 15:05:17 GMT</pubDate>
-            <description><![CDATA[Slack is down for some users]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个终结职业生涯的错误]]></title>
-            <link>https://news.ycombinator.com/item?id=30428602</link>
-            <guid>https://news.ycombinator.com/item?id=30428602</guid>
-            <pubDate>Tue, 22 Feb 2022 14:52:18 GMT</pubDate>
-            <description><![CDATA[A career ending mistake]]></description>
         </item>
     </channel>
 </rss>

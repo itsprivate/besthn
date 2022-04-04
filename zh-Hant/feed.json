@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30901247",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30901247",
+            "title": "由於有了新的光線追蹤模型，\"它能否運行Doom \"將不再是一個問題了",
+            "summary": "“Can it run Doom” will never be the same, thanks to new ray-tracing mod",
+            "date_modified": "2022-04-03T22:14:18.000Z",
+            "author": {
+                "name": "jay_kyburz",
+                "url": "https://news.ycombinator.com/user?id=jay_kyburz"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30899352",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30899352",
+            "title": "由YC支持的uBiome基本上是Theranos的精簡版",
+            "summary": "YC-backed uBiome is basically Theranos-lite",
+            "date_modified": "2022-04-03T18:27:57.000Z",
+            "author": {
+                "name": "donsupreme",
+                "url": "https://news.ycombinator.com/user?id=donsupreme"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30905662",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30905662",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "elias94",
                 "url": "https://news.ycombinator.com/user?id=elias94"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30428788",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30428788",
-            "title": "部分用戶的Slack出現故障",
-            "summary": "Slack is down for some users",
-            "date_modified": "2022-02-22T15:05:17.000Z",
-            "author": {
-                "name": "mrpadie",
-                "url": "https://news.ycombinator.com/user?id=mrpadie"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30428602",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30428602",
-            "title": "一個終結職業生涯的錯誤",
-            "summary": "A career ending mistake",
-            "date_modified": "2022-02-22T14:52:18.000Z",
-            "author": {
-                "name": "ramimac",
-                "url": "https://news.ycombinator.com/user?id=ramimac"
             }
         }
     ]
