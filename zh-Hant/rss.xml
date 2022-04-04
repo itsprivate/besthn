@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 04 Apr 2022 19:29:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 19:37:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[作為自學成才的物理學家的僱傭顧問，我學到了什麼（2016年）]]></title>
+            <link>https://news.ycombinator.com/item?id=30908084</link>
+            <guid>https://news.ycombinator.com/item?id=30908084</guid>
+            <pubDate>Mon, 04 Apr 2022 15:51:42 GMT</pubDate>
+            <description><![CDATA[What I learned as a hired consultant to autodidact physicists (2016)]]></description>
+        </item>
         <item>
             <title><![CDATA[你是一個嬰兒嗎？一個試金石測試]]></title>
             <link>https://news.ycombinator.com/item?id=30906621</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30431820</guid>
             <pubDate>Tue, 22 Feb 2022 18:46:58 GMT</pubDate>
             <description><![CDATA[Convoy Crackdown – power to freeze bank accounts without trial or legal recourse]]></description>
-        </item>
-        <item>
-            <title><![CDATA[密蘇里州長辦公室對教師數據洩露負有責任]]></title>
-            <link>https://news.ycombinator.com/item?id=30429779</link>
-            <guid>https://news.ycombinator.com/item?id=30429779</guid>
-            <pubDate>Tue, 22 Feb 2022 16:23:25 GMT</pubDate>
-            <description><![CDATA[Missouri governor’s office responsible for teacher data leak]]></description>
         </item>
     </channel>
 </rss>
