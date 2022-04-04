@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-04T02:32:30.088Z</updated>
+    <updated>2022-04-04T04:41:24.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[由于IT系统的故障，今天不可能运行任何列车。]]></title>
+        <id>https://news.ycombinator.com/item?id=30901009</id>
+        <link href="https://news.ycombinator.com/item?id=30901009"/>
+        <updated>2022-04-03T21:44:10.000Z</updated>
+        <summary type="html"><![CDATA[Due to failure in the IT system, it is not possible to run any trains today]]></summary>
+        <author>
+            <name>ar0</name>
+            <uri>https://news.ycombinator.com/user?id=ar0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们不使用暂存环境]]></title>
         <id>https://news.ycombinator.com/item?id=30899362</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真实的我和虚假的我]]></title>
-        <id>https://news.ycombinator.com/item?id=30404943</id>
-        <link href="https://news.ycombinator.com/item?id=30404943"/>
-        <updated>2022-02-20T11:31:15.000Z</updated>
-        <summary type="html"><![CDATA[Real Me and Fake Me]]></summary>
-        <author>
-            <name>ColinWright</name>
-            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
         </author>
     </entry>
 </feed>
