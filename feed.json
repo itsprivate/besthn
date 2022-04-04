@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30899362",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30899362",
+            "title": "我们不使用暂存环境",
+            "summary": "We don’t use a staging environment",
+            "date_modified": "2022-04-03T18:28:42.000Z",
+            "author": {
+                "name": "Chris86",
+                "url": "https://news.ycombinator.com/user?id=Chris86"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30898803",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30898803",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "ColinWright",
                 "url": "https://news.ycombinator.com/user?id=ColinWright"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30425280",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30425280",
-            "title": "Notepad++中的查找/替换框是图灵完成的",
-            "summary": "The find/replace box in Notepad++ is Turing Complete",
-            "date_modified": "2022-02-22T08:18:35.000Z",
-            "author": {
-                "name": "MarcellusDrum",
-                "url": "https://news.ycombinator.com/user?id=MarcellusDrum"
             }
         }
     ]

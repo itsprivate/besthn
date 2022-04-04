@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 03 Apr 2022 23:32:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 02:32:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们不使用暂存环境]]></title>
+            <link>https://news.ycombinator.com/item?id=30899362</link>
+            <guid>https://news.ycombinator.com/item?id=30899362</guid>
+            <pubDate>Sun, 03 Apr 2022 18:28:42 GMT</pubDate>
+            <description><![CDATA[We don’t use a staging environment]]></description>
+        </item>
         <item>
             <title><![CDATA[一个有一个11000行代码文件的项目]]></title>
             <link>https://news.ycombinator.com/item?id=30898803</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30404943</guid>
             <pubDate>Sun, 20 Feb 2022 11:31:15 GMT</pubDate>
             <description><![CDATA[Real Me and Fake Me]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Notepad++中的查找/替换框是图灵完成的]]></title>
-            <link>https://news.ycombinator.com/item?id=30425280</link>
-            <guid>https://news.ycombinator.com/item?id=30425280</guid>
-            <pubDate>Tue, 22 Feb 2022 08:18:35 GMT</pubDate>
-            <description><![CDATA[The find/replace box in Notepad++ is Turing Complete]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-03T23:32:19.909Z</updated>
+    <updated>2022-04-04T02:32:30.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们不使用暂存环境]]></title>
+        <id>https://news.ycombinator.com/item?id=30899362</id>
+        <link href="https://news.ycombinator.com/item?id=30899362"/>
+        <updated>2022-04-03T18:28:42.000Z</updated>
+        <summary type="html"><![CDATA[We don’t use a staging environment]]></summary>
+        <author>
+            <name>Chris86</name>
+            <uri>https://news.ycombinator.com/user?id=Chris86</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个有一个11000行代码文件的项目]]></title>
         <id>https://news.ycombinator.com/item?id=30898803</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ColinWright</name>
             <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notepad++中的查找/替换框是图灵完成的]]></title>
-        <id>https://news.ycombinator.com/item?id=30425280</id>
-        <link href="https://news.ycombinator.com/item?id=30425280"/>
-        <updated>2022-02-22T08:18:35.000Z</updated>
-        <summary type="html"><![CDATA[The find/replace box in Notepad++ is Turing Complete]]></summary>
-        <author>
-            <name>MarcellusDrum</name>
-            <uri>https://news.ycombinator.com/user?id=MarcellusDrum</uri>
         </author>
     </entry>
 </feed>
