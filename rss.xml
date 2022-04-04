@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 04 Apr 2022 19:52:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 21:39:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[离职面谈是一个陷阱]]></title>
+            <link>https://news.ycombinator.com/item?id=30908551</link>
+            <guid>https://news.ycombinator.com/item?id=30908551</guid>
+            <pubDate>Mon, 04 Apr 2022 16:28:52 GMT</pubDate>
+            <description><![CDATA[Exit interviews are a trap]]></description>
+        </item>
         <item>
             <title><![CDATA[我为什么要加入陆军预备役--为我的科技界朋友们做个解释]]></title>
             <link>https://news.ycombinator.com/item?id=30906879</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30430851</guid>
             <pubDate>Tue, 22 Feb 2022 17:39:35 GMT</pubDate>
             <description><![CDATA[IRS to adopt Login.gov as user authentication tool]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Flutter是最流行的跨平台移动SDK]]></title>
-            <link>https://news.ycombinator.com/item?id=30425988</link>
-            <guid>https://news.ycombinator.com/item?id=30425988</guid>
-            <pubDate>Tue, 22 Feb 2022 10:02:26 GMT</pubDate>
-            <description><![CDATA[Flutter is the most popular cross-platform mobile SDK]]></description>
         </item>
     </channel>
 </rss>
