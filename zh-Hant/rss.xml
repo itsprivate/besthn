@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 04 Apr 2022 21:39:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 22:34:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[USB-C集線器和我慢慢陷入瘋狂的狀態]]></title>
+            <link>https://news.ycombinator.com/item?id=30911598</link>
+            <guid>https://news.ycombinator.com/item?id=30911598</guid>
+            <pubDate>Mon, 04 Apr 2022 20:29:43 GMT</pubDate>
+            <description><![CDATA[USB-C hubs and my slow descent into madness]]></description>
+        </item>
         <item>
             <title><![CDATA[離職面談是一個陷阱]]></title>
             <link>https://news.ycombinator.com/item?id=30908551</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30430300</guid>
             <pubDate>Tue, 22 Feb 2022 16:56:52 GMT</pubDate>
             <description><![CDATA[Bringing the Framework Laptop to more of the world]]></description>
-        </item>
-        <item>
-            <title><![CDATA[國稅局將採用Login.gov作為用戶認證工具]]></title>
-            <link>https://news.ycombinator.com/item?id=30430851</link>
-            <guid>https://news.ycombinator.com/item?id=30430851</guid>
-            <pubDate>Tue, 22 Feb 2022 17:39:35 GMT</pubDate>
-            <description><![CDATA[IRS to adopt Login.gov as user authentication tool]]></description>
         </item>
     </channel>
 </rss>
