@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-04T14:39:55.008Z</updated>
+    <updated>2022-04-04T14:53:39.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么要在多年的数据共享后关心隐私问题？]]></title>
+        <id>https://news.ycombinator.com/item?id=30896837</id>
+        <link href="https://news.ycombinator.com/item?id=30896837"/>
+        <updated>2022-04-03T13:40:18.000Z</updated>
+        <summary type="html"><![CDATA[Why to care about privacy after years of sharing data]]></summary>
+        <author>
+            <name>Bright_Machine</name>
+            <uri>https://news.ycombinator.com/user?id=Bright_Machine</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[那些你从不使用的HTML属性]]></title>
+        <id>https://news.ycombinator.com/item?id=30887445</id>
+        <link href="https://news.ycombinator.com/item?id=30887445"/>
+        <updated>2022-04-02T11:38:59.000Z</updated>
+        <summary type="html"><![CDATA[Those HTML attributes you never use]]></summary>
+        <author>
+            <name>makaimc</name>
+            <uri>https://news.ycombinator.com/user?id=makaimc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃隆-马斯克拥有9.2%的Twitter股份]]></title>
         <id>https://news.ycombinator.com/item?id=30904988</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>andreyk</name>
             <uri>https://news.ycombinator.com/user?id=andreyk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰冲突实时地图]]></title>
-        <id>https://news.ycombinator.com/item?id=30429192</id>
-        <link href="https://news.ycombinator.com/item?id=30429192"/>
-        <updated>2022-02-22T15:36:20.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine Conflict Live Map]]></summary>
-        <author>
-            <name>journey_16162</name>
-            <uri>https://news.ycombinator.com/user?id=journey_16162</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当你退出新闻时，你注意到的事情 (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=30430041</id>
-        <link href="https://news.ycombinator.com/item?id=30430041"/>
-        <updated>2022-02-22T16:41:33.000Z</updated>
-        <summary type="html"><![CDATA[Things you notice when you quit the news (2016)]]></summary>
-        <author>
-            <name>abhiminator</name>
-            <uri>https://news.ycombinator.com/user?id=abhiminator</uri>
         </author>
     </entry>
 </feed>
