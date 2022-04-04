@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-04T14:14:20.276Z</updated>
+    <updated>2022-04-04T14:39:55.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃隆-馬斯克擁有9.2%的Twitter股份]]></title>
+        <id>https://news.ycombinator.com/item?id=30904988</id>
+        <link href="https://news.ycombinator.com/item?id=30904988"/>
+        <updated>2022-04-04T10:25:48.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk owns 9.2% of Twitter]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[由於有了新的光線追蹤模型，"它能否運行Doom "將不再是一個問題了]]></title>
         <id>https://news.ycombinator.com/item?id=30901247</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>abhiminator</name>
             <uri>https://news.ycombinator.com/user?id=abhiminator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[嘗試Clojure - 瀏覽器中的互動教程]]></title>
-        <id>https://news.ycombinator.com/item?id=30423856</id>
-        <link href="https://news.ycombinator.com/item?id=30423856"/>
-        <updated>2022-02-22T04:02:17.000Z</updated>
-        <summary type="html"><![CDATA[Try Clojure – An interactive tutorial in the browser]]></summary>
-        <author>
-            <name>elias94</name>
-            <uri>https://news.ycombinator.com/user?id=elias94</uri>
         </author>
     </entry>
 </feed>
