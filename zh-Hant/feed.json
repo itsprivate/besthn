@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30911623",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30911623",
+            "title": "告訴HN：我孩子的學校安裝了間諜軟件，我無法將其刪除",
+            "summary": "Tell HN: My kid's school installed spyware and I can't remove it",
+            "date_modified": "2022-04-04T20:32:18.000Z",
+            "author": {
+                "name": "ccleve",
+                "url": "https://news.ycombinator.com/user?id=ccleve"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30905584",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30905584",
+            "title": "谷歌硬盤上沒有辦法報告垃圾郵件",
+            "summary": "There's no way to report spam on Google Drive",
+            "date_modified": "2022-04-04T11:54:27.000Z",
+            "author": {
+                "name": "edent",
+                "url": "https://news.ycombinator.com/user?id=edent"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30911598",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30911598",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "smbv",
                 "url": "https://news.ycombinator.com/user?id=smbv"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30432321",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30432321",
-            "title": "日落的Bethesda.net啟動器和遷移到Steam上",
-            "summary": "Sunsetting the Bethesda.net launcher and migrating to Steam",
-            "date_modified": "2022-02-22T19:21:42.000Z",
-            "author": {
-                "name": "alexrustic",
-                "url": "https://news.ycombinator.com/user?id=alexrustic"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30430300",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30430300",
-            "title": "將 \"框架 \"筆記本電腦帶給世界上更多的人",
-            "summary": "Bringing the Framework Laptop to more of the world",
-            "date_modified": "2022-02-22T16:56:52.000Z",
-            "author": {
-                "name": "m6w6",
-                "url": "https://news.ycombinator.com/user?id=m6w6"
             }
         }
     ]

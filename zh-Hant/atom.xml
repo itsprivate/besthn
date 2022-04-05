@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-04T22:34:39.458Z</updated>
+    <updated>2022-04-05T00:40:34.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告訴HN：我孩子的學校安裝了間諜軟件，我無法將其刪除]]></title>
+        <id>https://news.ycombinator.com/item?id=30911623</id>
+        <link href="https://news.ycombinator.com/item?id=30911623"/>
+        <updated>2022-04-04T20:32:18.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: My kid's school installed spyware and I can't remove it]]></summary>
+        <author>
+            <name>ccleve</name>
+            <uri>https://news.ycombinator.com/user?id=ccleve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌硬盤上沒有辦法報告垃圾郵件]]></title>
+        <id>https://news.ycombinator.com/item?id=30905584</id>
+        <link href="https://news.ycombinator.com/item?id=30905584"/>
+        <updated>2022-04-04T11:54:27.000Z</updated>
+        <summary type="html"><![CDATA[There's no way to report spam on Google Drive]]></summary>
+        <author>
+            <name>edent</name>
+            <uri>https://news.ycombinator.com/user?id=edent</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[USB-C集線器和我慢慢陷入瘋狂的狀態]]></title>
         <id>https://news.ycombinator.com/item?id=30911598</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>smbv</name>
             <uri>https://news.ycombinator.com/user?id=smbv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日落的Bethesda.net啟動器和遷移到Steam上]]></title>
-        <id>https://news.ycombinator.com/item?id=30432321</id>
-        <link href="https://news.ycombinator.com/item?id=30432321"/>
-        <updated>2022-02-22T19:21:42.000Z</updated>
-        <summary type="html"><![CDATA[Sunsetting the Bethesda.net launcher and migrating to Steam]]></summary>
-        <author>
-            <name>alexrustic</name>
-            <uri>https://news.ycombinator.com/user?id=alexrustic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將 "框架 "筆記本電腦帶給世界上更多的人]]></title>
-        <id>https://news.ycombinator.com/item?id=30430300</id>
-        <link href="https://news.ycombinator.com/item?id=30430300"/>
-        <updated>2022-02-22T16:56:52.000Z</updated>
-        <summary type="html"><![CDATA[Bringing the Framework Laptop to more of the world]]></summary>
-        <author>
-            <name>m6w6</name>
-            <uri>https://news.ycombinator.com/user?id=m6w6</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 04 Apr 2022 22:34:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 00:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[告诉HN：我孩子的学校安装了间谍软件，我无法将其删除]]></title>
+            <link>https://news.ycombinator.com/item?id=30911623</link>
+            <guid>https://news.ycombinator.com/item?id=30911623</guid>
+            <pubDate>Mon, 04 Apr 2022 20:32:18 GMT</pubDate>
+            <description><![CDATA[Tell HN: My kid's school installed spyware and I can't remove it]]></description>
+        </item>
+        <item>
+            <title><![CDATA[谷歌硬盘上没有办法报告垃圾邮件]]></title>
+            <link>https://news.ycombinator.com/item?id=30905584</link>
+            <guid>https://news.ycombinator.com/item?id=30905584</guid>
+            <pubDate>Mon, 04 Apr 2022 11:54:27 GMT</pubDate>
+            <description><![CDATA[There's no way to report spam on Google Drive]]></description>
+        </item>
         <item>
             <title><![CDATA[USB-C集线器和我慢慢陷入疯狂的状态]]></title>
             <link>https://news.ycombinator.com/item?id=30911598</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30433518</guid>
             <pubDate>Tue, 22 Feb 2022 20:47:15 GMT</pubDate>
             <description><![CDATA[Podman 4.0]]></description>
-        </item>
-        <item>
-            <title><![CDATA[日落的Bethesda.net启动器和迁移到Steam上]]></title>
-            <link>https://news.ycombinator.com/item?id=30432321</link>
-            <guid>https://news.ycombinator.com/item?id=30432321</guid>
-            <pubDate>Tue, 22 Feb 2022 19:21:42 GMT</pubDate>
-            <description><![CDATA[Sunsetting the Bethesda.net launcher and migrating to Steam]]></description>
-        </item>
-        <item>
-            <title><![CDATA[将 "框架 "笔记本电脑带给世界上更多的人]]></title>
-            <link>https://news.ycombinator.com/item?id=30430300</link>
-            <guid>https://news.ycombinator.com/item?id=30430300</guid>
-            <pubDate>Tue, 22 Feb 2022 16:56:52 GMT</pubDate>
-            <description><![CDATA[Bringing the Framework Laptop to more of the world]]></description>
         </item>
     </channel>
 </rss>
