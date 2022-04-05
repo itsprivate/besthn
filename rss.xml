@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 05 Apr 2022 13:50:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 15:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[从pyenv、rbenv、goenv和nvm切换到asdf]]></title>
+            <link>https://news.ycombinator.com/item?id=30917354</link>
+            <guid>https://news.ycombinator.com/item?id=30917354</guid>
+            <pubDate>Tue, 05 Apr 2022 10:42:00 GMT</pubDate>
+            <description><![CDATA[Switching from pyenv, rbenv, goenv and nvm to asdf]]></description>
+        </item>
         <item>
             <title><![CDATA[阿德雷德机场的后院接近照明]]></title>
             <link>https://news.ycombinator.com/item?id=30913534</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30440828</guid>
             <pubDate>Wed, 23 Feb 2022 13:42:15 GMT</pubDate>
             <description><![CDATA[Show HN: Simula One – Portable Linux VR Computer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我从美国联合航空公司的439MB的iOS应用程序中删除了187MB]]></title>
-            <link>https://news.ycombinator.com/item?id=30442529</link>
-            <guid>https://news.ycombinator.com/item?id=30442529</guid>
-            <pubDate>Wed, 23 Feb 2022 16:04:28 GMT</pubDate>
-            <description><![CDATA[I shaved 187MB off United Airlines' 439MB iOS app]]></description>
         </item>
     </channel>
 </rss>
