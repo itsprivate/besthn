@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-05T21:36:51.925Z</updated>
+    <updated>2022-04-05T22:33:27.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[300架無人機組成的二維碼，裡克在愚人節當天滾落達拉斯]]></title>
+        <id>https://news.ycombinator.com/item?id=30922808</id>
+        <link href="https://news.ycombinator.com/item?id=30922808"/>
+        <updated>2022-04-05T18:19:31.000Z</updated>
+        <summary type="html"><![CDATA[300 Drones Formed a QR Code That Rick Rolled Dallas on April Fools' Day]]></summary>
+        <author>
+            <name>jaboutboul</name>
+            <uri>https://news.ycombinator.com/user?id=jaboutboul</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[下一個谷歌]]></title>
         <id>https://news.ycombinator.com/item?id=30921628</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>JonathanBuchh</name>
             <uri>https://news.ycombinator.com/user?id=JonathanBuchh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanced。安卓版的YouTube廣告屏蔽器]]></title>
-        <id>https://news.ycombinator.com/item?id=30444648</id>
-        <link href="https://news.ycombinator.com/item?id=30444648"/>
-        <updated>2022-02-23T18:41:21.000Z</updated>
-        <summary type="html"><![CDATA[Vanced: YouTube adblocker for Android]]></summary>
-        <author>
-            <name>montenegrohugo</name>
-            <uri>https://news.ycombinator.com/user?id=montenegrohugo</uri>
         </author>
     </entry>
 </feed>
