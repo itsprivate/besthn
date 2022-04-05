@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-05T15:16:10.452Z</updated>
+    <updated>2022-04-05T17:09:02.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃隆-馬斯克將加入Twitter的董事會]]></title>
+        <id>https://news.ycombinator.com/item?id=30918534</id>
+        <link href="https://news.ycombinator.com/item?id=30918534"/>
+        <updated>2022-04-05T13:13:31.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk to join Twitter’s board of directors]]></summary>
+        <author>
+            <name>alexrustic</name>
+            <uri>https://news.ycombinator.com/user?id=alexrustic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從pyenv、rbenv、goenv和nvm切換到asdf]]></title>
         <id>https://news.ycombinator.com/item?id=30917354</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>coatue</name>
             <uri>https://news.ycombinator.com/user?id=coatue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simula One - 便攜式Linux VR計算機]]></title>
-        <id>https://news.ycombinator.com/item?id=30440828</id>
-        <link href="https://news.ycombinator.com/item?id=30440828"/>
-        <updated>2022-02-23T13:42:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Simula One – Portable Linux VR Computer]]></summary>
-        <author>
-            <name>georgewsinger</name>
-            <uri>https://news.ycombinator.com/user?id=georgewsinger</uri>
         </author>
     </entry>
 </feed>
