@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-05T21:27:35.724Z</updated>
+    <updated>2022-04-05T21:36:51.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[下一個谷歌]]></title>
+        <id>https://news.ycombinator.com/item?id=30921628</id>
+        <link href="https://news.ycombinator.com/item?id=30921628"/>
+        <updated>2022-04-05T17:03:25.000Z</updated>
+        <summary type="html"><![CDATA[The Next Google]]></summary>
+        <author>
+            <name>dbrereton</name>
+            <uri>https://news.ycombinator.com/user?id=dbrereton</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[虛幻引擎5現已上市]]></title>
         <id>https://news.ycombinator.com/item?id=30920345</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>montenegrohugo</name>
             <uri>https://news.ycombinator.com/user?id=montenegrohugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京下令進攻，俄軍入侵烏克蘭]]></title>
-        <id>https://news.ycombinator.com/item?id=30450336</id>
-        <link href="https://news.ycombinator.com/item?id=30450336"/>
-        <updated>2022-02-24T04:38:23.000Z</updated>
-        <summary type="html"><![CDATA[Russian forces invade Ukraine after Putin orders attack]]></summary>
-        <author>
-            <name>eis</name>
-            <uri>https://news.ycombinator.com/user?id=eis</uri>
         </author>
     </entry>
 </feed>
