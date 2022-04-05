@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 05 Apr 2022 02:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 03:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[疾病预防控制中心警告说，青少年心理健康状况急剧下降]]></title>
+            <link>https://news.ycombinator.com/item?id=30895331</link>
+            <guid>https://news.ycombinator.com/item?id=30895331</guid>
+            <pubDate>Sun, 03 Apr 2022 08:11:46 GMT</pubDate>
+            <description><![CDATA[CDC warns of a steep decline in teen mental health]]></description>
+        </item>
         <item>
             <title><![CDATA[亚马逊工人聊天软件将禁止使用 "工会"、"加薪"、"奴隶劳动 "等词汇]]></title>
             <link>https://news.ycombinator.com/item?id=30911297</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30430594</guid>
             <pubDate>Tue, 22 Feb 2022 17:17:53 GMT</pubDate>
             <description><![CDATA[Linux Sysops Handbook]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wordle在许多微妙的方面都非常聪明]]></title>
-            <link>https://news.ycombinator.com/item?id=30435522</link>
-            <guid>https://news.ycombinator.com/item?id=30435522</guid>
-            <pubDate>Tue, 22 Feb 2022 23:48:47 GMT</pubDate>
-            <description><![CDATA[Wordle is pretty damn smart in many subtle ways]]></description>
         </item>
     </channel>
 </rss>
