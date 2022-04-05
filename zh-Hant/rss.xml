@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 05 Apr 2022 20:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 20:34:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[德國已經奪取了Gazprom Germania的控制權]]></title>
+            <link>https://news.ycombinator.com/item?id=30917396</link>
+            <guid>https://news.ycombinator.com/item?id=30917396</guid>
+            <pubDate>Tue, 05 Apr 2022 10:48:37 GMT</pubDate>
+            <description><![CDATA[Germany has seized control of Gazprom Germania]]></description>
+        </item>
         <item>
             <title><![CDATA[神經舞者》對賽博朋克的影響]]></title>
             <link>https://news.ycombinator.com/item?id=30918411</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30441276</guid>
             <pubDate>Wed, 23 Feb 2022 14:26:36 GMT</pubDate>
             <description><![CDATA[Inside Pornhub]]></description>
-        </item>
-        <item>
-            <title><![CDATA[FAA稱5G可能影響大多數波音737飛機的無線電高度計]]></title>
-            <link>https://news.ycombinator.com/item?id=30444284</link>
-            <guid>https://news.ycombinator.com/item?id=30444284</guid>
-            <pubDate>Wed, 23 Feb 2022 18:12:13 GMT</pubDate>
-            <description><![CDATA[FAA says 5G could impact radio altimeters on most Boeing 737s]]></description>
         </item>
     </channel>
 </rss>
