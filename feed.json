@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30911297",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30911297",
+            "title": "亚马逊工人聊天软件将禁止使用 \"工会\"、\"加薪\"、\"奴隶劳动 \"等词汇",
+            "summary": "Amazon worker chat app to ban words such as “union”, “pay raise”, “slave labor”",
+            "date_modified": "2022-04-04T19:57:44.000Z",
+            "author": {
+                "name": "enraged_camel",
+                "url": "https://news.ycombinator.com/user?id=enraged_camel"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30909719",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30909719",
+            "title": "Tinygrad",
+            "summary": "Tinygrad",
+            "date_modified": "2022-04-04T17:48:22.000Z",
+            "author": {
+                "name": "tosh",
+                "url": "https://news.ycombinator.com/user?id=tosh"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30911623",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30911623",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "vaghetti",
                 "url": "https://news.ycombinator.com/user?id=vaghetti"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30435215",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30435215",
-            "title": "在我们的无现金社会，我们需要认真对待数字监狱",
-            "summary": "In our cashless society, we need to take digital jail seriously",
-            "date_modified": "2022-02-22T23:14:09.000Z",
-            "author": {
-                "name": "busymom0",
-                "url": "https://news.ycombinator.com/user?id=busymom0"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30433518",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30433518",
-            "title": "波德曼4.0",
-            "summary": "Podman 4.0",
-            "date_modified": "2022-02-22T20:47:15.000Z",
-            "author": {
-                "name": "smbv",
-                "url": "https://news.ycombinator.com/user?id=smbv"
             }
         }
     ]

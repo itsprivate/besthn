@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-05T00:40:34.299Z</updated>
+    <updated>2022-04-05T02:23:58.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亞馬遜工人聊天軟件將禁止使用 "工會"、"加薪"、"奴隸勞動 "等詞彙]]></title>
+        <id>https://news.ycombinator.com/item?id=30911297</id>
+        <link href="https://news.ycombinator.com/item?id=30911297"/>
+        <updated>2022-04-04T19:57:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon worker chat app to ban words such as “union”, “pay raise”, “slave labor”]]></summary>
+        <author>
+            <name>enraged_camel</name>
+            <uri>https://news.ycombinator.com/user?id=enraged_camel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tinygrad]]></title>
+        <id>https://news.ycombinator.com/item?id=30909719</id>
+        <link href="https://news.ycombinator.com/item?id=30909719"/>
+        <updated>2022-04-04T17:48:22.000Z</updated>
+        <summary type="html"><![CDATA[Tinygrad]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告訴HN：我孩子的學校安裝了間諜軟件，我無法將其刪除]]></title>
         <id>https://news.ycombinator.com/item?id=30911623</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>vaghetti</name>
             <uri>https://news.ycombinator.com/user?id=vaghetti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在我們的無現金社會，我們需要認真對待數字監獄]]></title>
-        <id>https://news.ycombinator.com/item?id=30435215</id>
-        <link href="https://news.ycombinator.com/item?id=30435215"/>
-        <updated>2022-02-22T23:14:09.000Z</updated>
-        <summary type="html"><![CDATA[In our cashless society, we need to take digital jail seriously]]></summary>
-        <author>
-            <name>busymom0</name>
-            <uri>https://news.ycombinator.com/user?id=busymom0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波德曼4.0]]></title>
-        <id>https://news.ycombinator.com/item?id=30433518</id>
-        <link href="https://news.ycombinator.com/item?id=30433518"/>
-        <updated>2022-02-22T20:47:15.000Z</updated>
-        <summary type="html"><![CDATA[Podman 4.0]]></summary>
-        <author>
-            <name>smbv</name>
-            <uri>https://news.ycombinator.com/user?id=smbv</uri>
         </author>
     </entry>
 </feed>
