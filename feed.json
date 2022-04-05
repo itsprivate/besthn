@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30918411",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30918411",
+            "title": "神经舞者》对赛博朋克的影响",
+            "summary": "The Influence of Neuromancer on Cyberpunk",
+            "date_modified": "2022-04-05T13:01:57.000Z",
+            "author": {
+                "name": "sebastianvoelkl",
+                "url": "https://news.ycombinator.com/user?id=sebastianvoelkl"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30921231",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30921231",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "pseudolus",
                 "url": "https://news.ycombinator.com/user?id=pseudolus"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30445497",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30445497",
-            "title": "PeerTube。免费软件夺回你的视频控制权",
-            "summary": "PeerTube: Free software to take back control of your videos",
-            "date_modified": "2022-02-23T19:51:31.000Z",
-            "author": {
-                "name": "pmoriarty",
-                "url": "https://news.ycombinator.com/user?id=pmoriarty"
             }
         }
     ]
