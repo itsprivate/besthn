@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-05T05:51:40.589Z</updated>
+    <updated>2022-04-05T12:18:13.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[意外地制作了一种语言，为一个引擎，为一个游戏。]]></title>
+        <id>https://news.ycombinator.com/item?id=30914148</id>
+        <link href="https://news.ycombinator.com/item?id=30914148"/>
+        <updated>2022-04-05T01:17:57.000Z</updated>
+        <summary type="html"><![CDATA[Accidentally making a language, for an engine, for a game]]></summary>
+        <author>
+            <name>markdog12</name>
+            <uri>https://news.ycombinator.com/user?id=markdog12</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RedwoodJS 1.0]]></title>
         <id>https://news.ycombinator.com/item?id=30907119</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>steventey</name>
             <uri>https://news.ycombinator.com/user?id=steventey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[避免Nginx配置的首要错误]]></title>
-        <id>https://news.ycombinator.com/item?id=30435282</id>
-        <link href="https://news.ycombinator.com/item?id=30435282"/>
-        <updated>2022-02-22T23:21:28.000Z</updated>
-        <summary type="html"><![CDATA[Avoiding the top Nginx configuration mistakes]]></summary>
-        <author>
-            <name>anotherevan</name>
-            <uri>https://news.ycombinator.com/user?id=anotherevan</uri>
         </author>
     </entry>
 </feed>
