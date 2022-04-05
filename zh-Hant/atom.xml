@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-05T03:10:04.059Z</updated>
+    <updated>2022-04-05T05:51:40.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[RedwoodJS 1.0]]></title>
+        <id>https://news.ycombinator.com/item?id=30907119</id>
+        <link href="https://news.ycombinator.com/item?id=30907119"/>
+        <updated>2022-04-04T14:36:43.000Z</updated>
+        <summary type="html"><![CDATA[RedwoodJS 1.0]]></summary>
+        <author>
+            <name>canyonero</name>
+            <uri>https://news.ycombinator.com/user?id=canyonero</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[疾病預防控制中心警告說，青少年心理健康狀況急劇下降]]></title>
         <id>https://news.ycombinator.com/item?id=30895331</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>anotherevan</name>
             <uri>https://news.ycombinator.com/user?id=anotherevan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遼寧省商務廳]]></title>
-        <id>https://news.ycombinator.com/item?id=30430594</id>
-        <link href="https://news.ycombinator.com/item?id=30430594"/>
-        <updated>2022-02-22T17:17:53.000Z</updated>
-        <summary type="html"><![CDATA[Linux Sysops Handbook]]></summary>
-        <author>
-            <name>abarrak</name>
-            <uri>https://news.ycombinator.com/user?id=abarrak</uri>
         </author>
     </entry>
 </feed>
