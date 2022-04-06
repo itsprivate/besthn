@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 06 Apr 2022 10:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 11:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我對這麼多學科感興趣，但我能用這些做什麼？]]></title>
+            <link>https://news.ycombinator.com/item?id=30928105</link>
+            <guid>https://news.ycombinator.com/item?id=30928105</guid>
+            <pubDate>Wed, 06 Apr 2022 03:18:17 GMT</pubDate>
+            <description><![CDATA[Ask HN: I'm interested in so many disciplines, but what can I do with that?]]></description>
+        </item>
         <item>
             <title><![CDATA[Twitter正在使用其嵌入式JavaScript來隱藏已被刪除的推文]]></title>
             <link>https://news.ycombinator.com/item?id=30928217</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30444549</guid>
             <pubDate>Wed, 23 Feb 2022 18:33:05 GMT</pubDate>
             <description><![CDATA[Subaru, Kia shut off some car features rather than adhere to 'right to repair']]></description>
-        </item>
-        <item>
-            <title><![CDATA[矮人要塞》蒸汽版更新--發佈路線圖]]></title>
-            <link>https://news.ycombinator.com/item?id=30447186</link>
-            <guid>https://news.ycombinator.com/item?id=30447186</guid>
-            <pubDate>Wed, 23 Feb 2022 22:04:34 GMT</pubDate>
-            <description><![CDATA[Dwarf Fortress Steam Updates – Release Roadmap]]></description>
         </item>
     </channel>
 </rss>
