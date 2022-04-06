@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-06T03:15:38.545Z</updated>
+    <updated>2022-04-06T09:33:10.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[法罗10]]></title>
+        <id>https://news.ycombinator.com/item?id=30917420</id>
+        <link href="https://news.ycombinator.com/item?id=30917420"/>
+        <updated>2022-04-05T10:52:35.000Z</updated>
+        <summary type="html"><![CDATA[Pharo 10]]></summary>
+        <author>
+            <name>xkriva11</name>
+            <uri>https://news.ycombinator.com/user?id=xkriva11</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Datagridxl2.js - 快速类似Excel的数据表库]]></title>
         <id>https://news.ycombinator.com/item?id=30919257</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>azhenley</name>
             <uri>https://news.ycombinator.com/user?id=azhenley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我设计并建造了一辆电动自行车]]></title>
-        <id>https://news.ycombinator.com/item?id=30446960</id>
-        <link href="https://news.ycombinator.com/item?id=30446960"/>
-        <updated>2022-02-23T21:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I Designed and Built an eBike]]></summary>
-        <author>
-            <name>gkasev</name>
-            <uri>https://news.ycombinator.com/user?id=gkasev</uri>
         </author>
     </entry>
 </feed>

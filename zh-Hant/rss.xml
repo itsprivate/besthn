@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 06 Apr 2022 03:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 09:33:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[法羅10]]></title>
+            <link>https://news.ycombinator.com/item?id=30917420</link>
+            <guid>https://news.ycombinator.com/item?id=30917420</guid>
+            <pubDate>Tue, 05 Apr 2022 10:52:35 GMT</pubDate>
+            <description><![CDATA[Pharo 10]]></description>
+        </item>
         <item>
             <title><![CDATA[Datagridxl2.js - 快速類似Excel的數據表庫]]></title>
             <link>https://news.ycombinator.com/item?id=30919257</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30418562</guid>
             <pubDate>Mon, 21 Feb 2022 17:51:19 GMT</pubDate>
             <description><![CDATA[What a $500k grant proposal looks like]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我設計並建造了一輛電動自行車]]></title>
-            <link>https://news.ycombinator.com/item?id=30446960</link>
-            <guid>https://news.ycombinator.com/item?id=30446960</guid>
-            <pubDate>Wed, 23 Feb 2022 21:46:01 GMT</pubDate>
-            <description><![CDATA[Show HN: I Designed and Built an eBike]]></description>
         </item>
     </channel>
 </rss>
