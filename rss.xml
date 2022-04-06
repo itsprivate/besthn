@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 06 Apr 2022 09:33:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 10:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Twitter正在使用其嵌入式JavaScript来隐藏已被删除的推文]]></title>
+            <link>https://news.ycombinator.com/item?id=30928217</link>
+            <guid>https://news.ycombinator.com/item?id=30928217</guid>
+            <pubDate>Wed, 06 Apr 2022 03:38:00 GMT</pubDate>
+            <description><![CDATA[Twitter is using its embedded JavaScript to hide tweets that have been deleted]]></description>
+        </item>
         <item>
             <title><![CDATA[法罗10]]></title>
             <link>https://news.ycombinator.com/item?id=30917420</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30447186</guid>
             <pubDate>Wed, 23 Feb 2022 22:04:34 GMT</pubDate>
             <description><![CDATA[Dwarf Fortress Steam Updates – Release Roadmap]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一份50万美元的拨款提案是什么样子]]></title>
-            <link>https://news.ycombinator.com/item?id=30418562</link>
-            <guid>https://news.ycombinator.com/item?id=30418562</guid>
-            <pubDate>Mon, 21 Feb 2022 17:51:19 GMT</pubDate>
-            <description><![CDATA[What a $500k grant proposal looks like]]></description>
         </item>
     </channel>
 </rss>

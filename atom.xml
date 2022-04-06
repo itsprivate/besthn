@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-06T09:33:10.969Z</updated>
+    <updated>2022-04-06T10:16:53.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Twitter正在使用其嵌入式JavaScript来隐藏已被删除的推文]]></title>
+        <id>https://news.ycombinator.com/item?id=30928217</id>
+        <link href="https://news.ycombinator.com/item?id=30928217"/>
+        <updated>2022-04-06T03:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitter is using its embedded JavaScript to hide tweets that have been deleted]]></summary>
+        <author>
+            <name>epeus</name>
+            <uri>https://news.ycombinator.com/user?id=epeus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[法罗10]]></title>
         <id>https://news.ycombinator.com/item?id=30917420</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>danso</name>
             <uri>https://news.ycombinator.com/user?id=danso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一份50万美元的拨款提案是什么样子]]></title>
-        <id>https://news.ycombinator.com/item?id=30418562</id>
-        <link href="https://news.ycombinator.com/item?id=30418562"/>
-        <updated>2022-02-21T17:51:19.000Z</updated>
-        <summary type="html"><![CDATA[What a $500k grant proposal looks like]]></summary>
-        <author>
-            <name>azhenley</name>
-            <uri>https://news.ycombinator.com/user?id=azhenley</uri>
         </author>
     </entry>
 </feed>

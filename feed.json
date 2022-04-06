@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30928217",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30928217",
+            "title": "Twitter正在使用其嵌入式JavaScript来隐藏已被删除的推文",
+            "summary": "Twitter is using its embedded JavaScript to hide tweets that have been deleted",
+            "date_modified": "2022-04-06T03:38:00.000Z",
+            "author": {
+                "name": "epeus",
+                "url": "https://news.ycombinator.com/user?id=epeus"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30917420",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30917420",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "danso",
                 "url": "https://news.ycombinator.com/user?id=danso"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30418562",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30418562",
-            "title": "一份50万美元的拨款提案是什么样子",
-            "summary": "What a $500k grant proposal looks like",
-            "date_modified": "2022-02-21T17:51:19.000Z",
-            "author": {
-                "name": "azhenley",
-                "url": "https://news.ycombinator.com/user?id=azhenley"
             }
         }
     ]
