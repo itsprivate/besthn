@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-06T22:52:03.694Z</updated>
+    <updated>2022-04-06T23:12:55.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[本网站的设计(2021年)]]></title>
+        <id>https://news.ycombinator.com/item?id=30928081</id>
+        <link href="https://news.ycombinator.com/item?id=30928081"/>
+        <updated>2022-04-06T03:15:02.000Z</updated>
+        <summary type="html"><![CDATA[Design of This Website (2021)]]></summary>
+        <author>
+            <name>harporoeder</name>
+            <uri>https://news.ycombinator.com/user?id=harporoeder</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英特尔的 "削弱AMD "功能（2019年）]]></title>
         <id>https://news.ycombinator.com/item?id=30935064</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>totaldude87</name>
             <uri>https://news.ycombinator.com/user?id=totaldude87</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你在互联网上遇到的最独特的网站是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30440123</id>
-        <link href="https://news.ycombinator.com/item?id=30440123"/>
-        <updated>2022-02-23T11:55:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is the most unique website you’ve come across on the internet?]]></summary>
-        <author>
-            <name>kandruszkow</name>
-            <uri>https://news.ycombinator.com/user?id=kandruszkow</uri>
         </author>
     </entry>
 </feed>

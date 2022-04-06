@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 06 Apr 2022 22:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 23:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[本网站的设计(2021年)]]></title>
+            <link>https://news.ycombinator.com/item?id=30928081</link>
+            <guid>https://news.ycombinator.com/item?id=30928081</guid>
+            <pubDate>Wed, 06 Apr 2022 03:15:02 GMT</pubDate>
+            <description><![CDATA[Design of This Website (2021)]]></description>
+        </item>
         <item>
             <title><![CDATA[英特尔的 "削弱AMD "功能（2019年）]]></title>
             <link>https://news.ycombinator.com/item?id=30935064</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30456510</guid>
             <pubDate>Thu, 24 Feb 2022 16:21:30 GMT</pubDate>
             <description><![CDATA[Los Angeles is spending up to $837k to house a single homeless person]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你在互联网上遇到的最独特的网站是什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30440123</link>
-            <guid>https://news.ycombinator.com/item?id=30440123</guid>
-            <pubDate>Wed, 23 Feb 2022 11:55:41 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is the most unique website you’ve come across on the internet?]]></description>
         </item>
     </channel>
 </rss>
