@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 06 Apr 2022 17:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 18:57:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[薩姆-奧特曼的Worldcoin承諾為他們提供免費的加密貨幣以進行眼球掃描]]></title>
+            <link>https://news.ycombinator.com/item?id=30931614</link>
+            <guid>https://news.ycombinator.com/item?id=30931614</guid>
+            <pubDate>Wed, 06 Apr 2022 13:17:46 GMT</pubDate>
+            <description><![CDATA[Sam Altman’s Worldcoin promised them free crypto for an eyeball scan]]></description>
+        </item>
         <item>
             <title><![CDATA[英特爾將AMD的Zen微架構介紹變成了一項專利]]></title>
             <link>https://news.ycombinator.com/item?id=30932201</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30457490</guid>
             <pubDate>Thu, 24 Feb 2022 17:22:04 GMT</pubDate>
             <description><![CDATA[Ukraine is a major producer of neon gas, critical for lasers used in chipmaking]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基於Twitter的俄羅斯部隊移動地圖]]></title>
-            <link>https://news.ycombinator.com/item?id=30452685</link>
-            <guid>https://news.ycombinator.com/item?id=30452685</guid>
-            <pubDate>Thu, 24 Feb 2022 09:29:28 GMT</pubDate>
-            <description><![CDATA[Twitter based map of Russian troop movements]]></description>
         </item>
     </channel>
 </rss>

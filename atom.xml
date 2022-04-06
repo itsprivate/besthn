@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-06T17:07:27.665Z</updated>
+    <updated>2022-04-06T18:57:09.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[萨姆-奥特曼的Worldcoin承诺为他们提供免费的加密货币以进行眼球扫描]]></title>
+        <id>https://news.ycombinator.com/item?id=30931614</id>
+        <link href="https://news.ycombinator.com/item?id=30931614"/>
+        <updated>2022-04-06T13:17:46.000Z</updated>
+        <summary type="html"><![CDATA[Sam Altman’s Worldcoin promised them free crypto for an eyeball scan]]></summary>
+        <author>
+            <name>donohoe</name>
+            <uri>https://news.ycombinator.com/user?id=donohoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英特尔将AMD的Zen微架构介绍变成了一项专利]]></title>
         <id>https://news.ycombinator.com/item?id=30932201</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>swores</name>
             <uri>https://news.ycombinator.com/user?id=swores</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于Twitter的俄罗斯部队移动地图]]></title>
-        <id>https://news.ycombinator.com/item?id=30452685</id>
-        <link href="https://news.ycombinator.com/item?id=30452685"/>
-        <updated>2022-02-24T09:29:28.000Z</updated>
-        <summary type="html"><![CDATA[Twitter based map of Russian troop movements]]></summary>
-        <author>
-            <name>jillesvangurp</name>
-            <uri>https://news.ycombinator.com/user?id=jillesvangurp</uri>
         </author>
     </entry>
 </feed>
