@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-05T23:13:34.976Z</updated>
+    <updated>2022-04-06T02:25:13.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[25年以上的個人知識管理]]></title>
+        <id>https://news.ycombinator.com/item?id=30903940</id>
+        <link href="https://news.ycombinator.com/item?id=30903940"/>
+        <updated>2022-04-04T06:54:25.000Z</updated>
+        <summary type="html"><![CDATA[25+ years of personal knowledge management]]></summary>
+        <author>
+            <name>dSebastien</name>
+            <uri>https://news.ycombinator.com/user?id=dSebastien</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的免費軟件攝影工作流程]]></title>
         <id>https://news.ycombinator.com/item?id=30904845</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>marcodiego</name>
             <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[愛沙尼亞和盟國將觸發北約第四條規定]]></title>
-        <id>https://news.ycombinator.com/item?id=30451110</id>
-        <link href="https://news.ycombinator.com/item?id=30451110"/>
-        <updated>2022-02-24T06:11:51.000Z</updated>
-        <summary type="html"><![CDATA[Estonia, allies to trigger NATO Article 4]]></summary>
-        <author>
-            <name>throwaway5752</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway5752</uri>
         </author>
     </entry>
 </feed>
