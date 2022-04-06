@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-06T16:52:09.216Z</updated>
+    <updated>2022-04-06T17:07:27.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英特尔将AMD的Zen微架构介绍变成了一项专利]]></title>
+        <id>https://news.ycombinator.com/item?id=30932201</id>
+        <link href="https://news.ycombinator.com/item?id=30932201"/>
+        <updated>2022-04-06T14:18:14.000Z</updated>
+        <summary type="html"><![CDATA[Intel took an AMD Zen microarchitecture presentation and turned it into a patent]]></summary>
+        <author>
+            <name>Parseus</name>
+            <uri>https://news.ycombinator.com/user?id=Parseus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Emacs 28.1有什么新内容？]]></title>
         <id>https://news.ycombinator.com/item?id=30930816</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jillesvangurp</name>
             <uri>https://news.ycombinator.com/user?id=jillesvangurp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[核聚变反应堆打破了能源记录]]></title>
-        <id>https://news.ycombinator.com/item?id=30450941</id>
-        <link href="https://news.ycombinator.com/item?id=30450941"/>
-        <updated>2022-02-24T05:50:54.000Z</updated>
-        <summary type="html"><![CDATA[Nuclear-fusion reactor smashes energy record]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
         </author>
     </entry>
 </feed>
