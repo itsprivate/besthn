@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-06T11:12:39.175Z</updated>
+    <updated>2022-04-06T15:56:59.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Dall-E 2]]></title>
+        <id>https://news.ycombinator.com/item?id=30932095</id>
+        <link href="https://news.ycombinator.com/item?id=30932095"/>
+        <updated>2022-04-06T14:09:04.000Z</updated>
+        <summary type="html"><![CDATA[Dall-E 2]]></summary>
+        <author>
+            <name>yigitdemirag</name>
+            <uri>https://news.ycombinator.com/user?id=yigitdemirag</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我對這麼多學科感興趣，但我能用這些做什麼？]]></title>
         <id>https://news.ycombinator.com/item?id=30928105</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>whalesalad</name>
             <uri>https://news.ycombinator.com/user?id=whalesalad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯巴魯、起亞關閉部分汽車功能而不遵守 "維修權]]></title>
-        <id>https://news.ycombinator.com/item?id=30444549</id>
-        <link href="https://news.ycombinator.com/item?id=30444549"/>
-        <updated>2022-02-23T18:33:05.000Z</updated>
-        <summary type="html"><![CDATA[Subaru, Kia shut off some car features rather than adhere to 'right to repair']]></summary>
-        <author>
-            <name>davidclark22</name>
-            <uri>https://news.ycombinator.com/user?id=davidclark22</uri>
         </author>
     </entry>
 </feed>

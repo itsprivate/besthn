@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 06 Apr 2022 11:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 15:56:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Dall-E 2]]></title>
+            <link>https://news.ycombinator.com/item?id=30932095</link>
+            <guid>https://news.ycombinator.com/item?id=30932095</guid>
+            <pubDate>Wed, 06 Apr 2022 14:09:04 GMT</pubDate>
+            <description><![CDATA[Dall-E 2]]></description>
+        </item>
         <item>
             <title><![CDATA[我對這麼多學科感興趣，但我能用這些做什麼？]]></title>
             <link>https://news.ycombinator.com/item?id=30928105</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30456358</guid>
             <pubDate>Thu, 24 Feb 2022 16:09:08 GMT</pubDate>
             <description><![CDATA[America’s most widely consumed cooking oil causes genetic changes in the brain]]></description>
-        </item>
-        <item>
-            <title><![CDATA[斯巴魯、起亞關閉部分汽車功能而不遵守 "維修權]]></title>
-            <link>https://news.ycombinator.com/item?id=30444549</link>
-            <guid>https://news.ycombinator.com/item?id=30444549</guid>
-            <pubDate>Wed, 23 Feb 2022 18:33:05 GMT</pubDate>
-            <description><![CDATA[Subaru, Kia shut off some car features rather than adhere to 'right to repair']]></description>
         </item>
     </channel>
 </rss>
