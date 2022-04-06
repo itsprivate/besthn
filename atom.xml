@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-06T18:57:09.165Z</updated>
+    <updated>2022-04-06T19:24:44.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从归属感到倦怠感，在Airbnb的五年]]></title>
+        <id>https://news.ycombinator.com/item?id=30926834</id>
+        <link href="https://news.ycombinator.com/item?id=30926834"/>
+        <updated>2022-04-06T00:17:10.000Z</updated>
+        <summary type="html"><![CDATA[From Belonging to Burnout, Five Years at Airbnb]]></summary>
+        <author>
+            <name>arciini</name>
+            <uri>https://news.ycombinator.com/user?id=arciini</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[萨姆-奥特曼的Worldcoin承诺为他们提供免费的加密货币以进行眼球扫描]]></title>
         <id>https://news.ycombinator.com/item?id=30931614</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nitsky</name>
             <uri>https://news.ycombinator.com/user?id=nitsky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰是霓虹灯气体的主要生产国，对用于芯片制造的激光器至关重要。]]></title>
-        <id>https://news.ycombinator.com/item?id=30457490</id>
-        <link href="https://news.ycombinator.com/item?id=30457490"/>
-        <updated>2022-02-24T17:22:04.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine is a major producer of neon gas, critical for lasers used in chipmaking]]></summary>
-        <author>
-            <name>swores</name>
-            <uri>https://news.ycombinator.com/user?id=swores</uri>
         </author>
     </entry>
 </feed>

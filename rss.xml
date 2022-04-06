@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 06 Apr 2022 18:57:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 19:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[从归属感到倦怠感，在Airbnb的五年]]></title>
+            <link>https://news.ycombinator.com/item?id=30926834</link>
+            <guid>https://news.ycombinator.com/item?id=30926834</guid>
+            <pubDate>Wed, 06 Apr 2022 00:17:10 GMT</pubDate>
+            <description><![CDATA[From Belonging to Burnout, Five Years at Airbnb]]></description>
+        </item>
         <item>
             <title><![CDATA[萨姆-奥特曼的Worldcoin承诺为他们提供免费的加密货币以进行眼球扫描]]></title>
             <link>https://news.ycombinator.com/item?id=30931614</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30454881</guid>
             <pubDate>Thu, 24 Feb 2022 14:12:15 GMT</pubDate>
             <description><![CDATA[Custom JavaScript controls can't capture the nuance of form fields (2021)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰是霓虹灯气体的主要生产国，对用于芯片制造的激光器至关重要。]]></title>
-            <link>https://news.ycombinator.com/item?id=30457490</link>
-            <guid>https://news.ycombinator.com/item?id=30457490</guid>
-            <pubDate>Thu, 24 Feb 2022 17:22:04 GMT</pubDate>
-            <description><![CDATA[Ukraine is a major producer of neon gas, critical for lasers used in chipmaking]]></description>
         </item>
     </channel>
 </rss>
