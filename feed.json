@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30931803",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30931803",
+            "title": "德国通过 \"几十年来最大的能源政策改革 \"促进可再生能源发展",
+            "summary": "Germany boosts renewables with “biggest energy policy reform in decades”",
+            "date_modified": "2022-04-06T13:38:02.000Z",
+            "author": {
+                "name": "martin_a",
+                "url": "https://news.ycombinator.com/user?id=martin_a"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30929101",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30929101",
+            "title": "我需要停止无聊",
+            "summary": "I need to stop being boring",
+            "date_modified": "2022-04-06T06:39:23.000Z",
+            "author": {
+                "name": "patrickz",
+                "url": "https://news.ycombinator.com/user?id=patrickz"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30926834",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30926834",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "tosh",
                 "url": "https://news.ycombinator.com/user?id=tosh"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30454707",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30454707",
-            "title": "AMD现在的价值超过了英特尔",
-            "summary": "AMD is now worth more than Intel",
-            "date_modified": "2022-02-24T13:59:12.000Z",
-            "author": {
-                "name": "akvadrako",
-                "url": "https://news.ycombinator.com/user?id=akvadrako"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30454881",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30454881",
-            "title": "自定义JavaScript控件无法捕捉表单字段的细微差别(2021)",
-            "summary": "Custom JavaScript controls can't capture the nuance of form fields (2021)",
-            "date_modified": "2022-02-24T14:12:15.000Z",
-            "author": {
-                "name": "nitsky",
-                "url": "https://news.ycombinator.com/user?id=nitsky"
             }
         }
     ]

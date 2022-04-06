@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 06 Apr 2022 19:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 21:41:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[德國通過 "幾十年來最大的能源政策改革 "促進可再生能源發展]]></title>
+            <link>https://news.ycombinator.com/item?id=30931803</link>
+            <guid>https://news.ycombinator.com/item?id=30931803</guid>
+            <pubDate>Wed, 06 Apr 2022 13:38:02 GMT</pubDate>
+            <description><![CDATA[Germany boosts renewables with “biggest energy policy reform in decades”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我需要停止無聊]]></title>
+            <link>https://news.ycombinator.com/item?id=30929101</link>
+            <guid>https://news.ycombinator.com/item?id=30929101</guid>
+            <pubDate>Wed, 06 Apr 2022 06:39:23 GMT</pubDate>
+            <description><![CDATA[I need to stop being boring]]></description>
+        </item>
         <item>
             <title><![CDATA[從歸屬感到倦怠感，在Airbnb的五年]]></title>
             <link>https://news.ycombinator.com/item?id=30926834</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30458277</guid>
             <pubDate>Thu, 24 Feb 2022 18:23:37 GMT</pubDate>
             <description><![CDATA[Chernobyl power plant captured by Russian forces]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AMD現在的價值超過了英特爾]]></title>
-            <link>https://news.ycombinator.com/item?id=30454707</link>
-            <guid>https://news.ycombinator.com/item?id=30454707</guid>
-            <pubDate>Thu, 24 Feb 2022 13:59:12 GMT</pubDate>
-            <description><![CDATA[AMD is now worth more than Intel]]></description>
-        </item>
-        <item>
-            <title><![CDATA[自定義JavaScript控件無法捕捉表單字段的細微差別(2021)]]></title>
-            <link>https://news.ycombinator.com/item?id=30454881</link>
-            <guid>https://news.ycombinator.com/item?id=30454881</guid>
-            <pubDate>Thu, 24 Feb 2022 14:12:15 GMT</pubDate>
-            <description><![CDATA[Custom JavaScript controls can't capture the nuance of form fields (2021)]]></description>
         </item>
     </channel>
 </rss>

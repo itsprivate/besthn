@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-06T19:24:44.282Z</updated>
+    <updated>2022-04-06T21:41:10.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[德國通過 "幾十年來最大的能源政策改革 "促進可再生能源發展]]></title>
+        <id>https://news.ycombinator.com/item?id=30931803</id>
+        <link href="https://news.ycombinator.com/item?id=30931803"/>
+        <updated>2022-04-06T13:38:02.000Z</updated>
+        <summary type="html"><![CDATA[Germany boosts renewables with “biggest energy policy reform in decades”]]></summary>
+        <author>
+            <name>martin_a</name>
+            <uri>https://news.ycombinator.com/user?id=martin_a</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我需要停止無聊]]></title>
+        <id>https://news.ycombinator.com/item?id=30929101</id>
+        <link href="https://news.ycombinator.com/item?id=30929101"/>
+        <updated>2022-04-06T06:39:23.000Z</updated>
+        <summary type="html"><![CDATA[I need to stop being boring]]></summary>
+        <author>
+            <name>patrickz</name>
+            <uri>https://news.ycombinator.com/user?id=patrickz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從歸屬感到倦怠感，在Airbnb的五年]]></title>
         <id>https://news.ycombinator.com/item?id=30926834</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD現在的價值超過了英特爾]]></title>
-        <id>https://news.ycombinator.com/item?id=30454707</id>
-        <link href="https://news.ycombinator.com/item?id=30454707"/>
-        <updated>2022-02-24T13:59:12.000Z</updated>
-        <summary type="html"><![CDATA[AMD is now worth more than Intel]]></summary>
-        <author>
-            <name>akvadrako</name>
-            <uri>https://news.ycombinator.com/user?id=akvadrako</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自定義JavaScript控件無法捕捉表單字段的細微差別(2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=30454881</id>
-        <link href="https://news.ycombinator.com/item?id=30454881"/>
-        <updated>2022-02-24T14:12:15.000Z</updated>
-        <summary type="html"><![CDATA[Custom JavaScript controls can't capture the nuance of form fields (2021)]]></summary>
-        <author>
-            <name>nitsky</name>
-            <uri>https://news.ycombinator.com/user?id=nitsky</uri>
         </author>
     </entry>
 </feed>
