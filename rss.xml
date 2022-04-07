@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 07 Apr 2022 16:52:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 17:06:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[所有苹果音乐文件中的0,5MB的空白（2020）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30943018</link>
+            <guid>https://news.ycombinator.com/item?id=30943018</guid>
+            <pubDate>Thu, 07 Apr 2022 11:17:14 GMT</pubDate>
+            <description><![CDATA[The 0,5 MB of nothing in all Apple Music files (2020)]]></description>
+        </item>
         <item>
             <title><![CDATA[告诉HN：招聘人员在远程职位上撒谎]]></title>
             <link>https://news.ycombinator.com/item?id=30945451</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30466684</guid>
             <pubDate>Fri, 25 Feb 2022 12:45:50 GMT</pubDate>
             <description><![CDATA[Radiation spikes in Chernobyl]]></description>
-        </item>
-        <item>
-            <title><![CDATA[西方国家为何不愿拒绝俄罗斯银行接入SWIFT？]]></title>
-            <link>https://news.ycombinator.com/item?id=30467919</link>
-            <guid>https://news.ycombinator.com/item?id=30467919</guid>
-            <pubDate>Fri, 25 Feb 2022 14:58:52 GMT</pubDate>
-            <description><![CDATA[Why the West is reluctant to deny Russian banks access to SWIFT]]></description>
         </item>
     </channel>
 </rss>

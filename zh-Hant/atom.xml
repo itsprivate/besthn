@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-07T16:52:29.038Z</updated>
+    <updated>2022-04-07T17:06:48.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[所有蘋果音樂文件中的0,5MB的空白（2020）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30943018</id>
+        <link href="https://news.ycombinator.com/item?id=30943018"/>
+        <updated>2022-04-07T11:17:14.000Z</updated>
+        <summary type="html"><![CDATA[The 0,5 MB of nothing in all Apple Music files (2020)]]></summary>
+        <author>
+            <name>mritzmann</name>
+            <uri>https://news.ycombinator.com/user?id=mritzmann</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告訴HN：招聘人員在遠程職位上撒謊]]></title>
         <id>https://news.ycombinator.com/item?id=30945451</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>stiray</name>
             <uri>https://news.ycombinator.com/user?id=stiray</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西方國家為何不願拒絕俄羅斯銀行接入SWIFT？]]></title>
-        <id>https://news.ycombinator.com/item?id=30467919</id>
-        <link href="https://news.ycombinator.com/item?id=30467919"/>
-        <updated>2022-02-25T14:58:52.000Z</updated>
-        <summary type="html"><![CDATA[Why the West is reluctant to deny Russian banks access to SWIFT]]></summary>
-        <author>
-            <name>doener</name>
-            <uri>https://news.ycombinator.com/user?id=doener</uri>
         </author>
     </entry>
 </feed>
