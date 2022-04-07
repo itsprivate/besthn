@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-07T15:58:04.390Z</updated>
+    <updated>2022-04-07T16:52:28.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：招聘人员在远程职位上撒谎]]></title>
+        <id>https://news.ycombinator.com/item?id=30945451</id>
+        <link href="https://news.ycombinator.com/item?id=30945451"/>
+        <updated>2022-04-07T15:09:35.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Recruiters are lying about remote positions]]></summary>
+        <author>
+            <name>nineplay</name>
+            <uri>https://news.ycombinator.com/user?id=nineplay</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我停止了各地的广告，但什么也没有发生]]></title>
+        <id>https://news.ycombinator.com/item?id=30944524</id>
+        <link href="https://news.ycombinator.com/item?id=30944524"/>
+        <updated>2022-04-07T14:01:03.000Z</updated>
+        <summary type="html"><![CDATA[I stopped advertising everywhere and nothing happened]]></summary>
+        <author>
+            <name>deeeej</name>
+            <uri>https://news.ycombinator.com/user?id=deeeej</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[正餐--20和30年代的食品]]></title>
+        <id>https://news.ycombinator.com/item?id=30939482</id>
+        <link href="https://news.ycombinator.com/item?id=30939482"/>
+        <updated>2022-04-07T01:10:01.000Z</updated>
+        <summary type="html"><![CDATA[A Square Meal – Foods of the ‘20s and ‘30s]]></summary>
+        <author>
+            <name>rshi</name>
+            <uri>https://news.ycombinator.com/user?id=rshi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欢迎来到 "世界报 "的英文网站]]></title>
         <id>https://news.ycombinator.com/item?id=30943238</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>doener</name>
             <uri>https://news.ycombinator.com/user?id=doener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简要介绍一下什么是SWIFT以及它为什么重要]]></title>
-        <id>https://news.ycombinator.com/item?id=30456026</id>
-        <link href="https://news.ycombinator.com/item?id=30456026"/>
-        <updated>2022-02-24T15:47:50.000Z</updated>
-        <summary type="html"><![CDATA[A quick breakdown of what SWIFT is and why it matters]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在12个月内学会了法语]]></title>
-        <id>https://news.ycombinator.com/item?id=30467597</id>
-        <link href="https://news.ycombinator.com/item?id=30467597"/>
-        <updated>2022-02-25T14:24:37.000Z</updated>
-        <summary type="html"><![CDATA[I Learned French in 12 Months]]></summary>
-        <author>
-            <name>elamje</name>
-            <uri>https://news.ycombinator.com/user?id=elamje</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PostgreSQL模式改变指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30458580</id>
-        <link href="https://news.ycombinator.com/item?id=30458580"/>
-        <updated>2022-02-24T18:47:44.000Z</updated>
-        <summary type="html"><![CDATA[PostgreSQL Schema Change Guide]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
