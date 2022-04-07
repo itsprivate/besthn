@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 07 Apr 2022 00:43:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 02:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為簡單架構辯護]]></title>
+            <link>https://news.ycombinator.com/item?id=30936189</link>
+            <guid>https://news.ycombinator.com/item?id=30936189</guid>
+            <pubDate>Wed, 06 Apr 2022 19:04:29 GMT</pubDate>
+            <description><![CDATA[In defense of simple architectures]]></description>
+        </item>
         <item>
             <title><![CDATA[真正的單向函數的存在取決於Kolmogorov複雜性]]></title>
             <link>https://news.ycombinator.com/item?id=30934721</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30459634</guid>
             <pubDate>Thu, 24 Feb 2022 20:10:33 GMT</pubDate>
             <description><![CDATA[Moving the Linux Kernel to Modern C]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Elevator.js (2015)]]></title>
-            <link>https://news.ycombinator.com/item?id=30458167</link>
-            <guid>https://news.ycombinator.com/item?id=30458167</guid>
-            <pubDate>Thu, 24 Feb 2022 18:15:25 GMT</pubDate>
-            <description><![CDATA[Elevator.js (2015)]]></description>
         </item>
     </channel>
 </rss>
