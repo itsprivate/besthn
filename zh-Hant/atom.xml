@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-07T07:13:54.847Z</updated>
+    <updated>2022-04-07T08:15:10.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你可以用一個空文件做很多事情]]></title>
+        <id>https://news.ycombinator.com/item?id=30936333</id>
+        <link href="https://news.ycombinator.com/item?id=30936333"/>
+        <updated>2022-04-06T19:16:37.000Z</updated>
+        <summary type="html"><![CDATA[You can do a lot with an empty file]]></summary>
+        <author>
+            <name>picture</name>
+            <uri>https://news.ycombinator.com/user?id=picture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Lambda函數的URL。內置HTTPS端點]]></title>
         <id>https://news.ycombinator.com/item?id=30937433</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>evvvvr</name>
             <uri>https://news.ycombinator.com/user?id=evvvvr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heroku倒下了]]></title>
-        <id>https://news.ycombinator.com/item?id=30456688</id>
-        <link href="https://news.ycombinator.com/item?id=30456688"/>
-        <updated>2022-02-24T16:33:29.000Z</updated>
-        <summary type="html"><![CDATA[Heroku was Down]]></summary>
-        <author>
-            <name>ericpauley</name>
-            <uri>https://news.ycombinator.com/user?id=ericpauley</uri>
         </author>
     </entry>
 </feed>
