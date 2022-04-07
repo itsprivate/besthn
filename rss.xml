@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 07 Apr 2022 19:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 19:52:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[1996年用于为《最终幻想7》做3D动画的计算机]]></title>
+            <link>https://news.ycombinator.com/item?id=30947153</link>
+            <guid>https://news.ycombinator.com/item?id=30947153</guid>
+            <pubDate>Thu, 07 Apr 2022 16:55:20 GMT</pubDate>
+            <description><![CDATA[The computers used to do 3D animation for Final Fantasy VII in 1996]]></description>
+        </item>
         <item>
             <title><![CDATA[在过去的50年里，核电帮助防止了~2M的死亡。]]></title>
             <link>https://news.ycombinator.com/item?id=30944707</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30469036</guid>
             <pubDate>Fri, 25 Feb 2022 16:32:38 GMT</pubDate>
             <description><![CDATA[Ask HN: Anyone here have good material for learning how to sketch from scratch?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Supernotes 2 - 一个快速的、用于记事和分享的Markdown笔记应用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30440275</link>
-            <guid>https://news.ycombinator.com/item?id=30440275</guid>
-            <pubDate>Wed, 23 Feb 2022 12:23:59 GMT</pubDate>
-            <description><![CDATA[Show HN: Supernotes 2 – a fast, Markdown notes app for journalling and sharing]]></description>
         </item>
     </channel>
 </rss>
