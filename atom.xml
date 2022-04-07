@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-07T17:06:47.961Z</updated>
+    <updated>2022-04-07T18:39:13.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[加拿大将禁止外国人买房]]></title>
+        <id>https://news.ycombinator.com/item?id=30945444</id>
+        <link href="https://news.ycombinator.com/item?id=30945444"/>
+        <updated>2022-04-07T15:09:12.000Z</updated>
+        <summary type="html"><![CDATA[Canada to ban foreigners from buying homes]]></summary>
+        <author>
+            <name>thazework</name>
+            <uri>https://news.ycombinator.com/user?id=thazework</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[所有苹果音乐文件中的0,5MB的空白（2020）。]]></title>
         <id>https://news.ycombinator.com/item?id=30943018</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Koshkin</name>
             <uri>https://news.ycombinator.com/user?id=Koshkin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[切尔诺贝利的辐射峰值]]></title>
-        <id>https://news.ycombinator.com/item?id=30466684</id>
-        <link href="https://news.ycombinator.com/item?id=30466684"/>
-        <updated>2022-02-25T12:45:50.000Z</updated>
-        <summary type="html"><![CDATA[Radiation spikes in Chernobyl]]></summary>
-        <author>
-            <name>stiray</name>
-            <uri>https://news.ycombinator.com/user?id=stiray</uri>
         </author>
     </entry>
 </feed>
