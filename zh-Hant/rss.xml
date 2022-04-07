@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 07 Apr 2022 02:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 03:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[分享你的個人網站]]></title>
+            <link>https://news.ycombinator.com/item?id=30934529</link>
+            <guid>https://news.ycombinator.com/item?id=30934529</guid>
+            <pubDate>Wed, 06 Apr 2022 16:48:33 GMT</pubDate>
+            <description><![CDATA[Ask HN: Share your personal site]]></description>
+        </item>
         <item>
             <title><![CDATA[為簡單架構辯護]]></title>
             <link>https://news.ycombinator.com/item?id=30936189</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30455168</guid>
             <pubDate>Thu, 24 Feb 2022 14:35:02 GMT</pubDate>
             <description><![CDATA[One in three young people say they felt happier during lockdown]]></description>
-        </item>
-        <item>
-            <title><![CDATA[將Linux內核轉移到現代C語言]]></title>
-            <link>https://news.ycombinator.com/item?id=30459634</link>
-            <guid>https://news.ycombinator.com/item?id=30459634</guid>
-            <pubDate>Thu, 24 Feb 2022 20:10:33 GMT</pubDate>
-            <description><![CDATA[Moving the Linux Kernel to Modern C]]></description>
         </item>
     </channel>
 </rss>
