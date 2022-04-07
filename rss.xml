@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 07 Apr 2022 03:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 03:58:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你的竞争对手写了你要竞标的征求意见书]]></title>
+            <link>https://news.ycombinator.com/item?id=30932596</link>
+            <guid>https://news.ycombinator.com/item?id=30932596</guid>
+            <pubDate>Wed, 06 Apr 2022 14:48:40 GMT</pubDate>
+            <description><![CDATA[Your competitor wrote the RFP you're bidding on]]></description>
+        </item>
         <item>
             <title><![CDATA[分享你的个人网站]]></title>
             <link>https://news.ycombinator.com/item?id=30934529</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30462219</guid>
             <pubDate>Fri, 25 Feb 2022 00:20:04 GMT</pubDate>
             <description><![CDATA[Ukraine calls on hacker underground to defend against Russia]]></description>
-        </item>
-        <item>
-            <title><![CDATA[三分之一的年轻人说他们在闭关期间感到更快乐]]></title>
-            <link>https://news.ycombinator.com/item?id=30455168</link>
-            <guid>https://news.ycombinator.com/item?id=30455168</guid>
-            <pubDate>Thu, 24 Feb 2022 14:35:02 GMT</pubDate>
-            <description><![CDATA[One in three young people say they felt happier during lockdown]]></description>
         </item>
     </channel>
 </rss>

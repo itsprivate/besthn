@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-07T03:09:18.037Z</updated>
+    <updated>2022-04-07T03:58:40.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的競爭對手寫了你要競標的徵求意見書]]></title>
+        <id>https://news.ycombinator.com/item?id=30932596</id>
+        <link href="https://news.ycombinator.com/item?id=30932596"/>
+        <updated>2022-04-06T14:48:40.000Z</updated>
+        <summary type="html"><![CDATA[Your competitor wrote the RFP you're bidding on]]></summary>
+        <author>
+            <name>asyncscrum</name>
+            <uri>https://news.ycombinator.com/user?id=asyncscrum</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分享你的個人網站]]></title>
         <id>https://news.ycombinator.com/item?id=30934529</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>NN88</name>
             <uri>https://news.ycombinator.com/user?id=NN88</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三分之一的年輕人說他們在閉關期間感到更快樂]]></title>
-        <id>https://news.ycombinator.com/item?id=30455168</id>
-        <link href="https://news.ycombinator.com/item?id=30455168"/>
-        <updated>2022-02-24T14:35:02.000Z</updated>
-        <summary type="html"><![CDATA[One in three young people say they felt happier during lockdown]]></summary>
-        <author>
-            <name>vanilla-almond</name>
-            <uri>https://news.ycombinator.com/user?id=vanilla-almond</uri>
         </author>
     </entry>
 </feed>
