@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-06T23:12:55.497Z</updated>
+    <updated>2022-04-07T00:43:47.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[真正的單向函數的存在取決於Kolmogorov複雜性]]></title>
+        <id>https://news.ycombinator.com/item?id=30934721</id>
+        <link href="https://news.ycombinator.com/item?id=30934721"/>
+        <updated>2022-04-06T17:01:46.000Z</updated>
+        <summary type="html"><![CDATA[The existence of true one-way functions depends on Kolmogorov complexity]]></summary>
+        <author>
+            <name>theafh</name>
+            <uri>https://news.ycombinator.com/user?id=theafh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本網站的設計(2021年)]]></title>
         <id>https://news.ycombinator.com/item?id=30928081</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>susam</name>
             <uri>https://news.ycombinator.com/user?id=susam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[洛杉磯為安置一個無家可歸者花費高達83.7萬美元]]></title>
-        <id>https://news.ycombinator.com/item?id=30456510</id>
-        <link href="https://news.ycombinator.com/item?id=30456510"/>
-        <updated>2022-02-24T16:21:30.000Z</updated>
-        <summary type="html"><![CDATA[Los Angeles is spending up to $837k to house a single homeless person]]></summary>
-        <author>
-            <name>totaldude87</name>
-            <uri>https://news.ycombinator.com/user?id=totaldude87</uri>
         </author>
     </entry>
 </feed>
