@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 07 Apr 2022 03:58:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 06:58:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[λ-2D：将绘画作为编程语言的探索]]></title>
+            <link>https://news.ycombinator.com/item?id=30932552</link>
+            <guid>https://news.ycombinator.com/item?id=30932552</guid>
+            <pubDate>Wed, 06 Apr 2022 14:44:41 GMT</pubDate>
+            <description><![CDATA[λ-2D: An exploration of drawing as programming language]]></description>
+        </item>
         <item>
             <title><![CDATA[你的竞争对手写了你要竞标的征求意见书]]></title>
             <link>https://news.ycombinator.com/item?id=30932596</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30464286</guid>
             <pubDate>Fri, 25 Feb 2022 06:36:38 GMT</pubDate>
             <description><![CDATA[Understanding the War in Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰呼吁地下黑客抵制俄罗斯]]></title>
-            <link>https://news.ycombinator.com/item?id=30462219</link>
-            <guid>https://news.ycombinator.com/item?id=30462219</guid>
-            <pubDate>Fri, 25 Feb 2022 00:20:04 GMT</pubDate>
-            <description><![CDATA[Ukraine calls on hacker underground to defend against Russia]]></description>
         </item>
     </channel>
 </rss>

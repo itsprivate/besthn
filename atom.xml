@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-07T03:58:40.514Z</updated>
+    <updated>2022-04-07T06:58:25.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[λ-2D：将绘画作为编程语言的探索]]></title>
+        <id>https://news.ycombinator.com/item?id=30932552</id>
+        <link href="https://news.ycombinator.com/item?id=30932552"/>
+        <updated>2022-04-06T14:44:41.000Z</updated>
+        <summary type="html"><![CDATA[λ-2D: An exploration of drawing as programming language]]></summary>
+        <author>
+            <name>ink404</name>
+            <uri>https://news.ycombinator.com/user?id=ink404</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的竞争对手写了你要竞标的征求意见书]]></title>
         <id>https://news.ycombinator.com/item?id=30932596</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>picture</name>
             <uri>https://news.ycombinator.com/user?id=picture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰呼吁地下黑客抵制俄罗斯]]></title>
-        <id>https://news.ycombinator.com/item?id=30462219</id>
-        <link href="https://news.ycombinator.com/item?id=30462219"/>
-        <updated>2022-02-25T00:20:04.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine calls on hacker underground to defend against Russia]]></summary>
-        <author>
-            <name>NN88</name>
-            <uri>https://news.ycombinator.com/user?id=NN88</uri>
         </author>
     </entry>
 </feed>
