@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-07T19:52:12.018Z</updated>
+    <updated>2022-04-07T21:52:18.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Redditle.com - 对于我们这些在每次谷歌搜索中添加 "Reddit "的人来说]]></title>
+        <id>https://news.ycombinator.com/item?id=30946792</id>
+        <link href="https://news.ycombinator.com/item?id=30946792"/>
+        <updated>2022-04-07T16:33:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Redditle.com – For those of us who add 'Reddit' to every Google search]]></summary>
+        <author>
+            <name>greentfrapp</name>
+            <uri>https://news.ycombinator.com/user?id=greentfrapp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1996年用于为《最终幻想7》做3D动画的计算机]]></title>
         <id>https://news.ycombinator.com/item?id=30947153</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>iio7</name>
             <uri>https://news.ycombinator.com/user?id=iio7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这里有谁有好的材料来学习如何从头开始画素描？]]></title>
-        <id>https://news.ycombinator.com/item?id=30469036</id>
-        <link href="https://news.ycombinator.com/item?id=30469036"/>
-        <updated>2022-02-25T16:32:38.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Anyone here have good material for learning how to sketch from scratch?]]></summary>
-        <author>
-            <name>autotune</name>
-            <uri>https://news.ycombinator.com/user?id=autotune</uri>
         </author>
     </entry>
 </feed>

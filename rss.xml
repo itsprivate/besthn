@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 07 Apr 2022 19:52:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 21:52:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Redditle.com - 对于我们这些在每次谷歌搜索中添加 "Reddit "的人来说]]></title>
+            <link>https://news.ycombinator.com/item?id=30946792</link>
+            <guid>https://news.ycombinator.com/item?id=30946792</guid>
+            <pubDate>Thu, 07 Apr 2022 16:33:15 GMT</pubDate>
+            <description><![CDATA[Show HN: Redditle.com – For those of us who add 'Reddit' to every Google search]]></description>
+        </item>
         <item>
             <title><![CDATA[1996年用于为《最终幻想7》做3D动画的计算机]]></title>
             <link>https://news.ycombinator.com/item?id=30947153</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30474690</guid>
             <pubDate>Sat, 26 Feb 2022 02:08:29 GMT</pubDate>
             <description><![CDATA[Make Linux look like Windows 95]]></description>
-        </item>
-        <item>
-            <title><![CDATA[这里有谁有好的材料来学习如何从头开始画素描？]]></title>
-            <link>https://news.ycombinator.com/item?id=30469036</link>
-            <guid>https://news.ycombinator.com/item?id=30469036</guid>
-            <pubDate>Fri, 25 Feb 2022 16:32:38 GMT</pubDate>
-            <description><![CDATA[Ask HN: Anyone here have good material for learning how to sketch from scratch?]]></description>
         </item>
     </channel>
 </rss>
