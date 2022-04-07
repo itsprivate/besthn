@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-07T06:58:25.133Z</updated>
+    <updated>2022-04-07T07:13:54.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda函数的URL。内置HTTPS端点]]></title>
+        <id>https://news.ycombinator.com/item?id=30937433</id>
+        <link href="https://news.ycombinator.com/item?id=30937433"/>
+        <updated>2022-04-06T21:07:47.000Z</updated>
+        <summary type="html"><![CDATA[AWS Lambda function URLs: Built-in HTTPS endpoints]]></summary>
+        <author>
+            <name>vvoyer</name>
+            <uri>https://news.ycombinator.com/user?id=vvoyer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[λ-2D：将绘画作为编程语言的探索]]></title>
         <id>https://news.ycombinator.com/item?id=30932552</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ericpauley</name>
             <uri>https://news.ycombinator.com/user?id=ericpauley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[了解乌克兰的战争]]></title>
-        <id>https://news.ycombinator.com/item?id=30464286</id>
-        <link href="https://news.ycombinator.com/item?id=30464286"/>
-        <updated>2022-02-25T06:36:38.000Z</updated>
-        <summary type="html"><![CDATA[Understanding the War in Ukraine]]></summary>
-        <author>
-            <name>picture</name>
-            <uri>https://news.ycombinator.com/user?id=picture</uri>
         </author>
     </entry>
 </feed>
