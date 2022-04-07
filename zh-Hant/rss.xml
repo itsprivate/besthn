@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 07 Apr 2022 21:52:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 22:51:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[軟件工程師可以從 "快速 "的快速崩潰中學習什麼？]]></title>
+            <link>https://news.ycombinator.com/item?id=30947595</link>
+            <guid>https://news.ycombinator.com/item?id=30947595</guid>
+            <pubDate>Thu, 07 Apr 2022 17:23:16 GMT</pubDate>
+            <description><![CDATA[What software engineers can learn from the rapid collapse of Fast]]></description>
+        </item>
         <item>
             <title><![CDATA[Redditle.com - 對於我們這些在每次谷歌搜索中添加 "Reddit "的人來說]]></title>
             <link>https://news.ycombinator.com/item?id=30946792</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30472947</guid>
             <pubDate>Fri, 25 Feb 2022 22:08:52 GMT</pubDate>
             <description><![CDATA[The claimed effect size is about a zillion times higher than is plausible]]></description>
-        </item>
-        <item>
-            <title><![CDATA[讓Linux看起來像Windows 95]]></title>
-            <link>https://news.ycombinator.com/item?id=30474690</link>
-            <guid>https://news.ycombinator.com/item?id=30474690</guid>
-            <pubDate>Sat, 26 Feb 2022 02:08:29 GMT</pubDate>
-            <description><![CDATA[Make Linux look like Windows 95]]></description>
         </item>
     </channel>
 </rss>

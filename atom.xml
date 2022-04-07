@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-07T21:52:18.336Z</updated>
+    <updated>2022-04-07T22:51:24.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[软件工程师可以从 "快速 "的快速崩溃中学习什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30947595</id>
+        <link href="https://news.ycombinator.com/item?id=30947595"/>
+        <updated>2022-04-07T17:23:16.000Z</updated>
+        <summary type="html"><![CDATA[What software engineers can learn from the rapid collapse of Fast]]></summary>
+        <author>
+            <name>gregdoesit</name>
+            <uri>https://news.ycombinator.com/user?id=gregdoesit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Redditle.com - 对于我们这些在每次谷歌搜索中添加 "Reddit "的人来说]]></title>
         <id>https://news.ycombinator.com/item?id=30946792</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>luu</name>
             <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让Linux看起来像Windows 95]]></title>
-        <id>https://news.ycombinator.com/item?id=30474690</id>
-        <link href="https://news.ycombinator.com/item?id=30474690"/>
-        <updated>2022-02-26T02:08:29.000Z</updated>
-        <summary type="html"><![CDATA[Make Linux look like Windows 95]]></summary>
-        <author>
-            <name>iio7</name>
-            <uri>https://news.ycombinator.com/user?id=iio7</uri>
         </author>
     </entry>
 </feed>
