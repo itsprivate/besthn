@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 07 Apr 2022 18:39:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 19:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在過去的50年裡，核電幫助防止了~2M的死亡。]]></title>
+            <link>https://news.ycombinator.com/item?id=30944707</link>
+            <guid>https://news.ycombinator.com/item?id=30944707</guid>
+            <pubDate>Thu, 07 Apr 2022 14:15:21 GMT</pubDate>
+            <description><![CDATA[Nuclear power helped prevent ~2M deaths in the last 50 years]]></description>
+        </item>
+        <item>
+            <title><![CDATA[FAA，做你該死的工作]]></title>
+            <link>https://news.ycombinator.com/item?id=30943466</link>
+            <guid>https://news.ycombinator.com/item?id=30943466</guid>
+            <pubDate>Thu, 07 Apr 2022 12:19:15 GMT</pubDate>
+            <description><![CDATA[FAA, do your damn job]]></description>
+        </item>
         <item>
             <title><![CDATA[加拿大將禁止外國人買房]]></title>
             <link>https://news.ycombinator.com/item?id=30945444</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30440275</guid>
             <pubDate>Wed, 23 Feb 2022 12:23:59 GMT</pubDate>
             <description><![CDATA[Show HN: Supernotes 2 – a fast, Markdown notes app for journalling and sharing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Grammarly是一個鍵盤記錄器嗎？你能做些什麼呢？]]></title>
-            <link>https://news.ycombinator.com/item?id=30470457</link>
-            <guid>https://news.ycombinator.com/item?id=30470457</guid>
-            <pubDate>Fri, 25 Feb 2022 18:28:02 GMT</pubDate>
-            <description><![CDATA[Is Grammarly a keylogger? What can you do about it?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[歐伯龍項目]]></title>
-            <link>https://news.ycombinator.com/item?id=30467122</link>
-            <guid>https://news.ycombinator.com/item?id=30467122</guid>
-            <pubDate>Fri, 25 Feb 2022 13:42:31 GMT</pubDate>
-            <description><![CDATA[Project Oberon]]></description>
         </item>
     </channel>
 </rss>
