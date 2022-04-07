@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 07 Apr 2022 13:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 15:58:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[欢迎来到 "世界报 "的英文网站]]></title>
+            <link>https://news.ycombinator.com/item?id=30943238</link>
+            <guid>https://news.ycombinator.com/item?id=30943238</guid>
+            <pubDate>Thu, 07 Apr 2022 11:49:28 GMT</pubDate>
+            <description><![CDATA[Welcome to 'Le Monde' in English]]></description>
+        </item>
         <item>
             <title><![CDATA[你不是谷歌 (2017)]]></title>
             <link>https://news.ycombinator.com/item?id=30931831</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30458580</guid>
             <pubDate>Thu, 24 Feb 2022 18:47:44 GMT</pubDate>
             <description><![CDATA[PostgreSQL Schema Change Guide]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通过编写一个小的操作系统来学习Rust]]></title>
-            <link>https://news.ycombinator.com/item?id=30467572</link>
-            <guid>https://news.ycombinator.com/item?id=30467572</guid>
-            <pubDate>Fri, 25 Feb 2022 14:22:30 GMT</pubDate>
-            <description><![CDATA[Learn Rust by writing a small OS]]></description>
         </item>
     </channel>
 </rss>
