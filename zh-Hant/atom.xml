@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-08T07:41:05.058Z</updated>
+    <updated>2022-04-08T10:37:44.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 和 Rust 一樣快。TypeScript++]]></title>
+        <id>https://news.ycombinator.com/item?id=30947680</id>
+        <link href="https://news.ycombinator.com/item?id=30947680"/>
+        <updated>2022-04-07T17:29:43.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript as fast as Rust: TypeScript++]]></summary>
+        <author>
+            <name>janpaul123</name>
+            <uri>https://news.ycombinator.com/user?id=janpaul123</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[扎斯編輯]]></title>
         <id>https://news.ycombinator.com/item?id=30952084</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ohjeez</name>
             <uri>https://news.ycombinator.com/user?id=ohjeez</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當Steam接受比特幣時，50%的Steam比特幣交易是欺詐性的]]></title>
-        <id>https://news.ycombinator.com/item?id=30478262</id>
-        <link href="https://news.ycombinator.com/item?id=30478262"/>
-        <updated>2022-02-26T15:23:25.000Z</updated>
-        <summary type="html"><![CDATA[50% of Steam Bitcoin transactions were fraudulent when Steam accepted Bitcoin]]></summary>
-        <author>
-            <name>mrkramer</name>
-            <uri>https://news.ycombinator.com/user?id=mrkramer</uri>
         </author>
     </entry>
 </feed>
