@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 08 Apr 2022 10:37:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 16:52:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[W玻色子質量的測量顯示與計算結果有7σ的偏差]]></title>
+            <link>https://news.ycombinator.com/item?id=30955033</link>
+            <guid>https://news.ycombinator.com/item?id=30955033</guid>
+            <pubDate>Fri, 08 Apr 2022 09:32:49 GMT</pubDate>
+            <description><![CDATA[Measurement of the W boson mass reveals 7σ deviation from calculations]]></description>
+        </item>
         <item>
             <title><![CDATA[TypeScript 和 Rust 一樣快。TypeScript++]]></title>
             <link>https://news.ycombinator.com/item?id=30947680</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30480307</guid>
             <pubDate>Sat, 26 Feb 2022 18:33:33 GMT</pubDate>
             <description><![CDATA[Defensive tactics from the modern history of urban warfare]]></description>
-        </item>
-        <item>
-            <title><![CDATA[向我解釋一下Twitter的源代碼的前10行]]></title>
-            <link>https://news.ycombinator.com/item?id=30468793</link>
-            <guid>https://news.ycombinator.com/item?id=30468793</guid>
-            <pubDate>Fri, 25 Feb 2022 16:11:51 GMT</pubDate>
-            <description><![CDATA[Explain the first 10 lines of Twitter's source code to me]]></description>
         </item>
     </channel>
 </rss>
