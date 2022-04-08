@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-08T22:12:57.341Z</updated>
+    <updated>2022-04-08T22:33:54.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Dall-E 2的推特简介插图]]></title>
+        <id>https://news.ycombinator.com/item?id=30961385</id>
+        <link href="https://news.ycombinator.com/item?id=30961385"/>
+        <updated>2022-04-08T19:20:58.000Z</updated>
+        <summary type="html"><![CDATA[Dall-E 2 illustrations of Twitter bios]]></summary>
+        <author>
+            <name>manesioz</name>
+            <uri>https://news.ycombinator.com/user?id=manesioz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记事本下一页。一个跨平台的Notepad++的重新实现]]></title>
+        <id>https://news.ycombinator.com/item?id=30959025</id>
+        <link href="https://news.ycombinator.com/item?id=30959025"/>
+        <updated>2022-04-08T16:14:16.000Z</updated>
+        <summary type="html"><![CDATA[NotepadNext: A cross-platform reimplementation of Notepad++]]></summary>
+        <author>
+            <name>Acrobatic_Road</name>
+            <uri>https://news.ycombinator.com/user?id=Acrobatic_Road</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你可能不需要Cloudflare Tunnel。Linux也可以]]></title>
         <id>https://news.ycombinator.com/item?id=30953744</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ingve</name>
             <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub的安全顾问数据库现已开放源代码]]></title>
-        <id>https://news.ycombinator.com/item?id=30480862</id>
-        <link href="https://news.ycombinator.com/item?id=30480862"/>
-        <updated>2022-02-26T19:22:43.000Z</updated>
-        <summary type="html"><![CDATA[GitHub’s database of security advisories is now open source]]></summary>
-        <author>
-            <name>greysteil</name>
-            <uri>https://news.ycombinator.com/user?id=greysteil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不需要颜色]]></title>
-        <id>https://news.ycombinator.com/item?id=30483417</id>
-        <link href="https://news.ycombinator.com/item?id=30483417"/>
-        <updated>2022-02-26T23:51:57.000Z</updated>
-        <summary type="html"><![CDATA[No_color]]></summary>
-        <author>
-            <name>ducaale</name>
-            <uri>https://news.ycombinator.com/user?id=ducaale</uri>
         </author>
     </entry>
 </feed>

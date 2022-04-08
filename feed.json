@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30961385",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30961385",
+            "title": "Dall-E 2的推特简介插图",
+            "summary": "Dall-E 2 illustrations of Twitter bios",
+            "date_modified": "2022-04-08T19:20:58.000Z",
+            "author": {
+                "name": "manesioz",
+                "url": "https://news.ycombinator.com/user?id=manesioz"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30959025",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30959025",
+            "title": "记事本下一页。一个跨平台的Notepad++的重新实现",
+            "summary": "NotepadNext: A cross-platform reimplementation of Notepad++",
+            "date_modified": "2022-04-08T16:14:16.000Z",
+            "author": {
+                "name": "Acrobatic_Road",
+                "url": "https://news.ycombinator.com/user?id=Acrobatic_Road"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30953744",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30953744",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "ingve",
                 "url": "https://news.ycombinator.com/user?id=ingve"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30480862",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30480862",
-            "title": "GitHub的安全顾问数据库现已开放源代码",
-            "summary": "GitHub’s database of security advisories is now open source",
-            "date_modified": "2022-02-26T19:22:43.000Z",
-            "author": {
-                "name": "greysteil",
-                "url": "https://news.ycombinator.com/user?id=greysteil"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30483417",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30483417",
-            "title": "不需要颜色",
-            "summary": "No_color",
-            "date_modified": "2022-02-26T23:51:57.000Z",
-            "author": {
-                "name": "ducaale",
-                "url": "https://news.ycombinator.com/user?id=ducaale"
             }
         }
     ]
