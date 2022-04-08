@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 08 Apr 2022 20:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 21:53:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我用HTML5做了一个益智游戏]]></title>
+            <link>https://news.ycombinator.com/item?id=30956775</link>
+            <guid>https://news.ycombinator.com/item?id=30956775</guid>
+            <pubDate>Fri, 08 Apr 2022 13:54:40 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a puzzle game in HTML5]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么我不会再使用Affirm]]></title>
             <link>https://news.ycombinator.com/item?id=30959322</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30476396</guid>
             <pubDate>Sat, 26 Feb 2022 09:46:39 GMT</pubDate>
             <description><![CDATA[Newly published 9/11 footage [video]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[就切断俄罗斯与SWIFT的联系达成全面共识，进程已经开始]]></title>
-            <link>https://news.ycombinator.com/item?id=30482565</link>
-            <guid>https://news.ycombinator.com/item?id=30482565</guid>
-            <pubDate>Sat, 26 Feb 2022 22:24:34 GMT</pubDate>
-            <description><![CDATA[Full consensus for disconnecting Russia from SWIFT achieved, process has begun]]></description>
         </item>
     </channel>
 </rss>
