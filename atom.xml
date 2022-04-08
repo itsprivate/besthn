@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-07T22:51:24.398Z</updated>
+    <updated>2022-04-08T02:29:53.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[支持WASM编译的Ruby 3.2预览版1]]></title>
+        <id>https://news.ycombinator.com/item?id=30947793</id>
+        <link href="https://news.ycombinator.com/item?id=30947793"/>
+        <updated>2022-04-07T17:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Ruby 3.2 preview 1 with support for WASM compilation]]></summary>
+        <author>
+            <name>pvsukale3</name>
+            <uri>https://news.ycombinator.com/user?id=pvsukale3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[软件工程师可以从 "快速 "的快速崩溃中学习什么？]]></title>
         <id>https://news.ycombinator.com/item?id=30947595</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>belter</name>
             <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[声称的效应大小比合理的要高十万倍。]]></title>
-        <id>https://news.ycombinator.com/item?id=30472947</id>
-        <link href="https://news.ycombinator.com/item?id=30472947"/>
-        <updated>2022-02-25T22:08:52.000Z</updated>
-        <summary type="html"><![CDATA[The claimed effect size is about a zillion times higher than is plausible]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
