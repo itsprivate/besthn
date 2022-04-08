@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 08 Apr 2022 03:54:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 06:40:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[推特上不断增加的围墙花园]]></title>
+            <link>https://news.ycombinator.com/item?id=30949048</link>
+            <guid>https://news.ycombinator.com/item?id=30949048</guid>
+            <pubDate>Thu, 07 Apr 2022 19:10:48 GMT</pubDate>
+            <description><![CDATA[The ever-increasing walled-gardeness of Twitter]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在人类活体肺部组织中发现微塑料]]></title>
+            <link>https://news.ycombinator.com/item?id=30945430</link>
+            <guid>https://news.ycombinator.com/item?id=30945430</guid>
+            <pubDate>Thu, 07 Apr 2022 15:08:07 GMT</pubDate>
+            <description><![CDATA[Microplastics found in live human lung tissue]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你有没有换过云？]]></title>
+            <link>https://news.ycombinator.com/item?id=30942698</link>
+            <guid>https://news.ycombinator.com/item?id=30942698</guid>
+            <pubDate>Thu, 07 Apr 2022 10:21:06 GMT</pubDate>
+            <description><![CDATA[Ask HN: Have you ever switched cloud?]]></description>
+        </item>
         <item>
             <title><![CDATA[在使用Linux 15年后使用Windows]]></title>
             <link>https://news.ycombinator.com/item?id=30944438</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30477364</guid>
             <pubDate>Sat, 26 Feb 2022 13:28:31 GMT</pubDate>
             <description><![CDATA[BitConnect Founder Indicted in Global $2.4B Cryptocurrency Scheme]]></description>
-        </item>
-        <item>
-            <title><![CDATA[火星上的 "好奇号 "探测器捕捉到奇怪的植物状结构]]></title>
-            <link>https://news.ycombinator.com/item?id=30476002</link>
-            <guid>https://news.ycombinator.com/item?id=30476002</guid>
-            <pubDate>Sat, 26 Feb 2022 08:13:11 GMT</pubDate>
-            <description><![CDATA[Strange plant-like formation captured by Curiosity rover on Mars]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有什么经过科学验证的提高注意力的技巧吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30473322</link>
-            <guid>https://news.ycombinator.com/item?id=30473322</guid>
-            <pubDate>Fri, 25 Feb 2022 22:47:25 GMT</pubDate>
-            <description><![CDATA[Ask HN: Any scientifically proven techniques to boost concentration?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为初创企业争取谷歌工作空间的实用指南]]></title>
-            <link>https://news.ycombinator.com/item?id=30469652</link>
-            <guid>https://news.ycombinator.com/item?id=30469652</guid>
-            <pubDate>Fri, 25 Feb 2022 17:23:28 GMT</pubDate>
-            <description><![CDATA[A practical guide to securing Google Workspace for a startup]]></description>
         </item>
     </channel>
 </rss>

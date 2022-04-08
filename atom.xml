@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-08T03:54:09.120Z</updated>
+    <updated>2022-04-08T06:40:05.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推特上不断增加的围墙花园]]></title>
+        <id>https://news.ycombinator.com/item?id=30949048</id>
+        <link href="https://news.ycombinator.com/item?id=30949048"/>
+        <updated>2022-04-07T19:10:48.000Z</updated>
+        <summary type="html"><![CDATA[The ever-increasing walled-gardeness of Twitter]]></summary>
+        <author>
+            <name>matrixagent</name>
+            <uri>https://news.ycombinator.com/user?id=matrixagent</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在人类活体肺部组织中发现微塑料]]></title>
+        <id>https://news.ycombinator.com/item?id=30945430</id>
+        <link href="https://news.ycombinator.com/item?id=30945430"/>
+        <updated>2022-04-07T15:08:07.000Z</updated>
+        <summary type="html"><![CDATA[Microplastics found in live human lung tissue]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你有没有换过云？]]></title>
+        <id>https://news.ycombinator.com/item?id=30942698</id>
+        <link href="https://news.ycombinator.com/item?id=30942698"/>
+        <updated>2022-04-07T10:21:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Have you ever switched cloud?]]></summary>
+        <author>
+            <name>dustinmoris</name>
+            <uri>https://news.ycombinator.com/user?id=dustinmoris</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在使用Linux 15年后使用Windows]]></title>
         <id>https://news.ycombinator.com/item?id=30944438</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>latexr</name>
             <uri>https://news.ycombinator.com/user?id=latexr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火星上的 "好奇号 "探测器捕捉到奇怪的植物状结构]]></title>
-        <id>https://news.ycombinator.com/item?id=30476002</id>
-        <link href="https://news.ycombinator.com/item?id=30476002"/>
-        <updated>2022-02-26T08:13:11.000Z</updated>
-        <summary type="html"><![CDATA[Strange plant-like formation captured by Curiosity rover on Mars]]></summary>
-        <author>
-            <name>dvh</name>
-            <uri>https://news.ycombinator.com/user?id=dvh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有什么经过科学验证的提高注意力的技巧吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=30473322</id>
-        <link href="https://news.ycombinator.com/item?id=30473322"/>
-        <updated>2022-02-25T22:47:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Any scientifically proven techniques to boost concentration?]]></summary>
-        <author>
-            <name>amznbyebyebye</name>
-            <uri>https://news.ycombinator.com/user?id=amznbyebyebye</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为初创企业争取谷歌工作空间的实用指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30469652</id>
-        <link href="https://news.ycombinator.com/item?id=30469652"/>
-        <updated>2022-02-25T17:23:28.000Z</updated>
-        <summary type="html"><![CDATA[A practical guide to securing Google Workspace for a startup]]></summary>
-        <author>
-            <name>gepeto42</name>
-            <uri>https://news.ycombinator.com/user?id=gepeto42</uri>
         </author>
     </entry>
 </feed>
