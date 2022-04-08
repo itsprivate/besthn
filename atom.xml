@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-08T02:29:53.107Z</updated>
+    <updated>2022-04-08T03:54:09.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在使用Linux 15年后使用Windows]]></title>
+        <id>https://news.ycombinator.com/item?id=30944438</id>
+        <link href="https://news.ycombinator.com/item?id=30944438"/>
+        <updated>2022-04-07T13:53:36.000Z</updated>
+        <summary type="html"><![CDATA[Using Windows after 15 years on Linux]]></summary>
+        <author>
+            <name>dflock</name>
+            <uri>https://news.ycombinator.com/user?id=dflock</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们有一个科学机会过剩。启动沃尔弗拉姆研究所]]></title>
+        <id>https://news.ycombinator.com/item?id=30940813</id>
+        <link href="https://news.ycombinator.com/item?id=30940813"/>
+        <updated>2022-04-07T05:08:26.000Z</updated>
+        <summary type="html"><![CDATA[We’ve got a science opportunity overload: Launching the Wolfram Institute]]></summary>
+        <author>
+            <name>nsoonhui</name>
+            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[支持WASM编译的Ruby 3.2预览版1]]></title>
         <id>https://news.ycombinator.com/item?id=30947793</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>gepeto42</name>
             <uri>https://news.ycombinator.com/user?id=gepeto42</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你钻得够深，你可以到处都有地热发电]]></title>
-        <id>https://news.ycombinator.com/item?id=30465227</id>
-        <link href="https://news.ycombinator.com/item?id=30465227"/>
-        <updated>2022-02-25T09:15:03.000Z</updated>
-        <summary type="html"><![CDATA[You can have geothermal power everywhere if you drill deep enough]]></summary>
-        <author>
-            <name>stareatgoats</name>
-            <uri>https://news.ycombinator.com/user?id=stareatgoats</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[葡萄牙宣布立即向乌克兰难民发放签证]]></title>
-        <id>https://news.ycombinator.com/item?id=30476621</id>
-        <link href="https://news.ycombinator.com/item?id=30476621"/>
-        <updated>2022-02-26T10:51:21.000Z</updated>
-        <summary type="html"><![CDATA[Portugal announces immediate granting of visas for Ukrainian refugees]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
         </author>
     </entry>
 </feed>

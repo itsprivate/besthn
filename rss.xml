@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 08 Apr 2022 02:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 03:54:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在使用Linux 15年后使用Windows]]></title>
+            <link>https://news.ycombinator.com/item?id=30944438</link>
+            <guid>https://news.ycombinator.com/item?id=30944438</guid>
+            <pubDate>Thu, 07 Apr 2022 13:53:36 GMT</pubDate>
+            <description><![CDATA[Using Windows after 15 years on Linux]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我们有一个科学机会过剩。启动沃尔弗拉姆研究所]]></title>
+            <link>https://news.ycombinator.com/item?id=30940813</link>
+            <guid>https://news.ycombinator.com/item?id=30940813</guid>
+            <pubDate>Thu, 07 Apr 2022 05:08:26 GMT</pubDate>
+            <description><![CDATA[We’ve got a science opportunity overload: Launching the Wolfram Institute]]></description>
+        </item>
         <item>
             <title><![CDATA[支持WASM编译的Ruby 3.2预览版1]]></title>
             <link>https://news.ycombinator.com/item?id=30947793</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30469652</guid>
             <pubDate>Fri, 25 Feb 2022 17:23:28 GMT</pubDate>
             <description><![CDATA[A practical guide to securing Google Workspace for a startup]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果你钻得够深，你可以到处都有地热发电]]></title>
-            <link>https://news.ycombinator.com/item?id=30465227</link>
-            <guid>https://news.ycombinator.com/item?id=30465227</guid>
-            <pubDate>Fri, 25 Feb 2022 09:15:03 GMT</pubDate>
-            <description><![CDATA[You can have geothermal power everywhere if you drill deep enough]]></description>
-        </item>
-        <item>
-            <title><![CDATA[葡萄牙宣布立即向乌克兰难民发放签证]]></title>
-            <link>https://news.ycombinator.com/item?id=30476621</link>
-            <guid>https://news.ycombinator.com/item?id=30476621</guid>
-            <pubDate>Sat, 26 Feb 2022 10:51:21 GMT</pubDate>
-            <description><![CDATA[Portugal announces immediate granting of visas for Ukrainian refugees]]></description>
         </item>
     </channel>
 </rss>
