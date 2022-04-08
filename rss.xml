@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 08 Apr 2022 16:52:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 20:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么我不会再使用Affirm]]></title>
+            <link>https://news.ycombinator.com/item?id=30959322</link>
+            <guid>https://news.ycombinator.com/item?id=30959322</guid>
+            <pubDate>Fri, 08 Apr 2022 16:38:25 GMT</pubDate>
+            <description><![CDATA[Why I'll never use Affirm again]]></description>
+        </item>
         <item>
             <title><![CDATA[W玻色子质量的测量显示与计算结果有7σ的偏差]]></title>
             <link>https://news.ycombinator.com/item?id=30955033</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30482565</guid>
             <pubDate>Sat, 26 Feb 2022 22:24:34 GMT</pubDate>
             <description><![CDATA[Full consensus for disconnecting Russia from SWIFT achieved, process has begun]]></description>
-        </item>
-        <item>
-            <title><![CDATA[来自现代城市战争史的防御战术]]></title>
-            <link>https://news.ycombinator.com/item?id=30480307</link>
-            <guid>https://news.ycombinator.com/item?id=30480307</guid>
-            <pubDate>Sat, 26 Feb 2022 18:33:33 GMT</pubDate>
-            <description><![CDATA[Defensive tactics from the modern history of urban warfare]]></description>
         </item>
     </channel>
 </rss>
