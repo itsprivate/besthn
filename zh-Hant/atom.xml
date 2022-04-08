@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-08T22:33:54.545Z</updated>
+    <updated>2022-04-08T23:12:45.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國數字軍團]]></title>
+        <id>https://news.ycombinator.com/item?id=30958919</id>
+        <link href="https://news.ycombinator.com/item?id=30958919"/>
+        <updated>2022-04-08T16:04:30.000Z</updated>
+        <summary type="html"><![CDATA[The United States Digital Corps]]></summary>
+        <author>
+            <name>tomrod</name>
+            <uri>https://news.ycombinator.com/user?id=tomrod</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dall-E 2的推特簡介插圖]]></title>
         <id>https://news.ycombinator.com/item?id=30961385</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sidcool</name>
             <uri>https://news.ycombinator.com/user?id=sidcool</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetalNES：晶體管級NES模擬]]></title>
-        <id>https://news.ycombinator.com/item?id=30481762</id>
-        <link href="https://news.ycombinator.com/item?id=30481762"/>
-        <updated>2022-02-26T20:41:59.000Z</updated>
-        <summary type="html"><![CDATA[MetalNES: Transistor Level NES Simulation]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
         </author>
     </entry>
 </feed>
