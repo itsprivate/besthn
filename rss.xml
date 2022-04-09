@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 09 Apr 2022 06:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 06:57:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[推特账户从用户名中删除".eth"。]]></title>
+            <link>https://news.ycombinator.com/item?id=30958870</link>
+            <guid>https://news.ycombinator.com/item?id=30958870</guid>
+            <pubDate>Fri, 08 Apr 2022 15:59:33 GMT</pubDate>
+            <description><![CDATA[Twitter accounts dropping “.eth” from usernames]]></description>
+        </item>
         <item>
             <title><![CDATA[Mozilla Thunderbird测试版现在支持矩阵聊天]]></title>
             <link>https://news.ycombinator.com/item?id=30963723</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30490570</guid>
             <pubDate>Sun, 27 Feb 2022 17:41:23 GMT</pubDate>
             <description><![CDATA[Win32 is the stable Linux userland ABI (and the consequences)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英国石油公司在乌克兰入侵后退出俄罗斯，受到高达250亿美元的打击]]></title>
-            <link>https://news.ycombinator.com/item?id=30491179</link>
-            <guid>https://news.ycombinator.com/item?id=30491179</guid>
-            <pubDate>Sun, 27 Feb 2022 18:42:25 GMT</pubDate>
-            <description><![CDATA[BP quits Russia in up to $25B hit after Ukraine invasion]]></description>
         </item>
     </channel>
 </rss>
