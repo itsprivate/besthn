@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-09T14:30:55.413Z</updated>
+    <updated>2022-04-09T15:35:05.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[麻省理工学院的研究生们投票决定成立工会]]></title>
+        <id>https://news.ycombinator.com/item?id=30967375</id>
+        <link href="https://news.ycombinator.com/item?id=30967375"/>
+        <updated>2022-04-09T12:15:25.000Z</updated>
+        <summary type="html"><![CDATA[MIT graduate students vote to unionize]]></summary>
+        <author>
+            <name>Metacelsus</name>
+            <uri>https://news.ycombinator.com/user?id=Metacelsus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于上海封锁的叙述]]></title>
         <id>https://news.ycombinator.com/item?id=30966378</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>eifec</name>
             <uri>https://news.ycombinator.com/user?id=eifec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[400字节的兰姆达微积分]]></title>
-        <id>https://news.ycombinator.com/item?id=30493713</id>
-        <link href="https://news.ycombinator.com/item?id=30493713"/>
-        <updated>2022-02-27T23:01:06.000Z</updated>
-        <summary type="html"><![CDATA[Lambda Calculus in 400 Bytes]]></summary>
-        <author>
-            <name>mmphosis</name>
-            <uri>https://news.ycombinator.com/user?id=mmphosis</uri>
         </author>
     </entry>
 </feed>
