@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-09T03:03:54.054Z</updated>
+    <updated>2022-04-09T04:58:22.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特斯拉工厂的无人机镜头]]></title>
+        <id>https://news.ycombinator.com/item?id=30961370</id>
+        <link href="https://news.ycombinator.com/item?id=30961370"/>
+        <updated>2022-04-08T19:19:26.000Z</updated>
+        <summary type="html"><![CDATA[Drone footage of Tesla factory]]></summary>
+        <author>
+            <name>gmays</name>
+            <uri>https://news.ycombinator.com/user?id=gmays</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让时间倒流。试验中人类皮肤细胞减龄30年]]></title>
+        <id>https://news.ycombinator.com/item?id=30960470</id>
+        <link href="https://news.ycombinator.com/item?id=30960470"/>
+        <updated>2022-04-08T18:03:35.000Z</updated>
+        <summary type="html"><![CDATA[Turning back the clock: Human skin cells de-aged by 30 years in trial]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[猴岛归来，2022年到来]]></title>
         <id>https://news.ycombinator.com/item?id=30957917</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>georgecmu</name>
             <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在数学和/或CS方面对你有帮助的书是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30485544</id>
-        <link href="https://news.ycombinator.com/item?id=30485544"/>
-        <updated>2022-02-27T04:55:31.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: The book that did it for you in math and/or CS?]]></summary>
-        <author>
-            <name>debanjan16</name>
-            <uri>https://news.ycombinator.com/user?id=debanjan16</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLite 3.38.0中新的JSON查询操作符]]></title>
-        <id>https://news.ycombinator.com/item?id=30486052</id>
-        <link href="https://news.ycombinator.com/item?id=30486052"/>
-        <updated>2022-02-27T06:57:37.000Z</updated>
-        <summary type="html"><![CDATA[New JSON query operators in SQLite 3.38.0]]></summary>
-        <author>
-            <name>xtreak29</name>
-            <uri>https://news.ycombinator.com/user?id=xtreak29</uri>
         </author>
     </entry>
 </feed>

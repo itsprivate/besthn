@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 09 Apr 2022 03:03:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 04:58:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[特斯拉工厂的无人机镜头]]></title>
+            <link>https://news.ycombinator.com/item?id=30961370</link>
+            <guid>https://news.ycombinator.com/item?id=30961370</guid>
+            <pubDate>Fri, 08 Apr 2022 19:19:26 GMT</pubDate>
+            <description><![CDATA[Drone footage of Tesla factory]]></description>
+        </item>
+        <item>
+            <title><![CDATA[让时间倒流。试验中人类皮肤细胞减龄30年]]></title>
+            <link>https://news.ycombinator.com/item?id=30960470</link>
+            <guid>https://news.ycombinator.com/item?id=30960470</guid>
+            <pubDate>Fri, 08 Apr 2022 18:03:35 GMT</pubDate>
+            <description><![CDATA[Turning back the clock: Human skin cells de-aged by 30 years in trial]]></description>
+        </item>
         <item>
             <title><![CDATA[猴岛归来，2022年到来]]></title>
             <link>https://news.ycombinator.com/item?id=30957917</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30483924</guid>
             <pubDate>Sun, 27 Feb 2022 00:38:25 GMT</pubDate>
             <description><![CDATA[Russian Offensive Campaign Assessment, Feb 26, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在数学和/或CS方面对你有帮助的书是什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30485544</link>
-            <guid>https://news.ycombinator.com/item?id=30485544</guid>
-            <pubDate>Sun, 27 Feb 2022 04:55:31 GMT</pubDate>
-            <description><![CDATA[Ask HN: The book that did it for you in math and/or CS?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SQLite 3.38.0中新的JSON查询操作符]]></title>
-            <link>https://news.ycombinator.com/item?id=30486052</link>
-            <guid>https://news.ycombinator.com/item?id=30486052</guid>
-            <pubDate>Sun, 27 Feb 2022 06:57:37 GMT</pubDate>
-            <description><![CDATA[New JSON query operators in SQLite 3.38.0]]></description>
         </item>
     </channel>
 </rss>
