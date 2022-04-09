@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 09 Apr 2022 09:41:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 14:30:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[關於上海封鎖的敘述]]></title>
+            <link>https://news.ycombinator.com/item?id=30966378</link>
+            <guid>https://news.ycombinator.com/item?id=30966378</guid>
+            <pubDate>Sat, 09 Apr 2022 09:04:28 GMT</pubDate>
+            <description><![CDATA[An Account of the Shanghai Lockdown]]></description>
+        </item>
         <item>
             <title><![CDATA[用WebGL渲染的古代波斯的波斯波利斯]]></title>
             <link>https://news.ycombinator.com/item?id=30965352</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30493713</guid>
             <pubDate>Sun, 27 Feb 2022 23:01:06 GMT</pubDate>
             <description><![CDATA[Lambda Calculus in 400 Bytes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[加州理工學院的CS面試準備課程]]></title>
-            <link>https://news.ycombinator.com/item?id=30492262</link>
-            <guid>https://news.ycombinator.com/item?id=30492262</guid>
-            <pubDate>Sun, 27 Feb 2022 20:38:38 GMT</pubDate>
-            <description><![CDATA[Caltech's CS interview prep course]]></description>
         </item>
     </channel>
 </rss>
