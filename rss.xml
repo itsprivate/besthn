@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 09 Apr 2022 06:57:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 09:41:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用WebGL渲染的古代波斯的波斯波利斯]]></title>
+            <link>https://news.ycombinator.com/item?id=30965352</link>
+            <guid>https://news.ycombinator.com/item?id=30965352</guid>
+            <pubDate>Sat, 09 Apr 2022 04:52:09 GMT</pubDate>
+            <description><![CDATA[Persepolis of ancient Persia rendered in WebGL]]></description>
+        </item>
         <item>
             <title><![CDATA[推特账户从用户名中删除".eth"。]]></title>
             <link>https://news.ycombinator.com/item?id=30958870</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30492262</guid>
             <pubDate>Sun, 27 Feb 2022 20:38:38 GMT</pubDate>
             <description><![CDATA[Caltech's CS interview prep course]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Win32是稳定的Linux用户区ABI（和后果）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30490570</link>
-            <guid>https://news.ycombinator.com/item?id=30490570</guid>
-            <pubDate>Sun, 27 Feb 2022 17:41:23 GMT</pubDate>
-            <description><![CDATA[Win32 is the stable Linux userland ABI (and the consequences)]]></description>
         </item>
     </channel>
 </rss>

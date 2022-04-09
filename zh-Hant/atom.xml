@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-09T06:57:26.955Z</updated>
+    <updated>2022-04-09T09:41:22.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用WebGL渲染的古代波斯的波斯波利斯]]></title>
+        <id>https://news.ycombinator.com/item?id=30965352</id>
+        <link href="https://news.ycombinator.com/item?id=30965352"/>
+        <updated>2022-04-09T04:52:09.000Z</updated>
+        <summary type="html"><![CDATA[Persepolis of ancient Persia rendered in WebGL]]></summary>
+        <author>
+            <name>avestura</name>
+            <uri>https://news.ycombinator.com/user?id=avestura</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推特賬戶從用戶名中刪除".eth"。]]></title>
         <id>https://news.ycombinator.com/item?id=30958870</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>b8</name>
             <uri>https://news.ycombinator.com/user?id=b8</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Win32是穩定的Linux用戶區ABI（和後果）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30490570</id>
-        <link href="https://news.ycombinator.com/item?id=30490570"/>
-        <updated>2022-02-27T17:41:23.000Z</updated>
-        <summary type="html"><![CDATA[Win32 is the stable Linux userland ABI (and the consequences)]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
