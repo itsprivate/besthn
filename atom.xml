@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-09T06:14:30.216Z</updated>
+    <updated>2022-04-09T06:38:37.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mozilla Thunderbird测试版现在支持矩阵聊天]]></title>
+        <id>https://news.ycombinator.com/item?id=30963723</id>
+        <link href="https://news.ycombinator.com/item?id=30963723"/>
+        <updated>2022-04-08T23:26:19.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla Thunderbird Beta now supports Matrix chat]]></summary>
+        <author>
+            <name>jakecopp</name>
+            <uri>https://news.ycombinator.com/user?id=jakecopp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iFixit和谷歌将推出Pixel正品零件计划]]></title>
         <id>https://news.ycombinator.com/item?id=30957977</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vitabenes</name>
             <uri>https://news.ycombinator.com/user?id=vitabenes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球芯片短缺可能很快转变成供过于求的危机]]></title>
-        <id>https://news.ycombinator.com/item?id=30489538</id>
-        <link href="https://news.ycombinator.com/item?id=30489538"/>
-        <updated>2022-02-27T15:56:11.000Z</updated>
-        <summary type="html"><![CDATA[Global chip shortage may soon turn into an oversupply crisis]]></summary>
-        <author>
-            <name>hhs</name>
-            <uri>https://news.ycombinator.com/user?id=hhs</uri>
         </author>
     </entry>
 </feed>
