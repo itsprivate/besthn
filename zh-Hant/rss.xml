@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 09 Apr 2022 16:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 00:40:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我需要找一間公寓]]></title>
+            <link>https://news.ycombinator.com/item?id=30968721</link>
+            <guid>https://news.ycombinator.com/item?id=30968721</guid>
+            <pubDate>Sat, 09 Apr 2022 15:13:49 GMT</pubDate>
+            <description><![CDATA[I need to find an apartment]]></description>
+        </item>
         <item>
             <title><![CDATA[在用戶離開頁面時可靠地發送HTTP請求]]></title>
             <link>https://news.ycombinator.com/item?id=30942555</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30496018</guid>
             <pubDate>Mon, 28 Feb 2022 03:23:58 GMT</pubDate>
             <description><![CDATA[Linux from Scratch]]></description>
-        </item>
-        <item>
-            <title><![CDATA[痛苦的害羞的開發者為更好的工作建立聯繫的指南(2017)]]></title>
-            <link>https://news.ycombinator.com/item?id=30495342</link>
-            <guid>https://news.ycombinator.com/item?id=30495342</guid>
-            <pubDate>Mon, 28 Feb 2022 01:58:49 GMT</pubDate>
-            <description><![CDATA[The painfully shy developer's guide to networking for a better job (2017)]]></description>
         </item>
     </channel>
 </rss>

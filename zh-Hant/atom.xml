@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-09T16:14:53.558Z</updated>
+    <updated>2022-04-10T00:40:52.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我需要找一間公寓]]></title>
+        <id>https://news.ycombinator.com/item?id=30968721</id>
+        <link href="https://news.ycombinator.com/item?id=30968721"/>
+        <updated>2022-04-09T15:13:49.000Z</updated>
+        <summary type="html"><![CDATA[I need to find an apartment]]></summary>
+        <author>
+            <name>mattrighetti</name>
+            <uri>https://news.ycombinator.com/user?id=mattrighetti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在用戶離開頁面時可靠地發送HTTP請求]]></title>
         <id>https://news.ycombinator.com/item?id=30942555</id>
@@ -6599,17 +6610,6 @@
         <link href="https://news.ycombinator.com/item?id=30496018"/>
         <updated>2022-02-28T03:23:58.000Z</updated>
         <summary type="html"><![CDATA[Linux from Scratch]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[痛苦的害羞的開發者為更好的工作建立聯繫的指南(2017)]]></title>
-        <id>https://news.ycombinator.com/item?id=30495342</id>
-        <link href="https://news.ycombinator.com/item?id=30495342"/>
-        <updated>2022-02-28T01:58:49.000Z</updated>
-        <summary type="html"><![CDATA[The painfully shy developer's guide to networking for a better job (2017)]]></summary>
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
