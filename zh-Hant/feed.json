@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=30977147",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30977147",
+            "title": "異端",
+            "summary": "Heresy",
+            "date_modified": "2022-04-10T14:25:02.000Z",
+            "author": {
+                "name": "prtkgpt",
+                "url": "https://news.ycombinator.com/user?id=prtkgpt"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30973808",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30973808",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "caaqil",
                 "url": "https://news.ycombinator.com/user?id=caaqil"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30490563",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30490563",
-            "title": "為什麼不僱用兼職開發人員？",
-            "summary": "Why not hire part-time developers?",
-            "date_modified": "2022-02-27T17:40:49.000Z",
-            "author": {
-                "name": "prohobo",
-                "url": "https://news.ycombinator.com/user?id=prohobo"
             }
         }
     ]
