@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-10T22:34:24.407Z</updated>
+    <updated>2022-04-10T23:42:19.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Bore。一個簡單的CLI工具，用於製作通往localhost的隧道]]></title>
+        <id>https://news.ycombinator.com/item?id=30970720</id>
+        <link href="https://news.ycombinator.com/item?id=30970720"/>
+        <updated>2022-04-09T18:38:49.000Z</updated>
+        <summary type="html"><![CDATA[Bore: A simple CLI tool for making tunnels to localhost]]></summary>
+        <author>
+            <name>willmorrison</name>
+            <uri>https://news.ycombinator.com/user?id=willmorrison</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果公司隱藏電子郵件的頌歌]]></title>
         <id>https://news.ycombinator.com/item?id=30979563</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>EdwinHoksberg</name>
             <uri>https://news.ycombinator.com/user?id=EdwinHoksberg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hoppscotch: Postman的開源替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=30498072</id>
-        <link href="https://news.ycombinator.com/item?id=30498072"/>
-        <updated>2022-02-28T09:38:36.000Z</updated>
-        <summary type="html"><![CDATA[Hoppscotch: Open-Source Alternative to Postman]]></summary>
-        <author>
-            <name>MarcellusDrum</name>
-            <uri>https://news.ycombinator.com/user?id=MarcellusDrum</uri>
         </author>
     </entry>
 </feed>

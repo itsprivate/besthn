@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 10 Apr 2022 22:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 23:42:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Bore。一个简单的CLI工具，用于制作通往localhost的隧道]]></title>
+            <link>https://news.ycombinator.com/item?id=30970720</link>
+            <guid>https://news.ycombinator.com/item?id=30970720</guid>
+            <pubDate>Sat, 09 Apr 2022 18:38:49 GMT</pubDate>
+            <description><![CDATA[Bore: A simple CLI tool for making tunnels to localhost]]></description>
+        </item>
         <item>
             <title><![CDATA[苹果公司隐藏电子邮件的颂歌]]></title>
             <link>https://news.ycombinator.com/item?id=30979563</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30500669</guid>
             <pubDate>Mon, 28 Feb 2022 15:14:26 GMT</pubDate>
             <description><![CDATA[“O, so sorry. I need more time. my country defending Russian invasion”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hoppscotch: Postman的开源替代品]]></title>
-            <link>https://news.ycombinator.com/item?id=30498072</link>
-            <guid>https://news.ycombinator.com/item?id=30498072</guid>
-            <pubDate>Mon, 28 Feb 2022 09:38:36 GMT</pubDate>
-            <description><![CDATA[Hoppscotch: Open-Source Alternative to Postman]]></description>
         </item>
     </channel>
 </rss>
