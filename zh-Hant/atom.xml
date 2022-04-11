@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-11T13:00:52.636Z</updated>
+    <updated>2022-04-11T13:52:51.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[聯邦調查局沒有敲開嫌疑人的門，因為 "那是一個富裕的社區]]></title>
+        <id>https://news.ycombinator.com/item?id=30984559</id>
+        <link href="https://news.ycombinator.com/item?id=30984559"/>
+        <updated>2022-04-11T04:09:31.000Z</updated>
+        <summary type="html"><![CDATA[FBI Didn't Knock Down a Suspect's Door Because 'It Was an Affluent Neighborhood']]></summary>
+        <author>
+            <name>fortran77</name>
+            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[貓有多聰明？(2004)]]></title>
+        <id>https://news.ycombinator.com/item?id=30975378</id>
+        <link href="https://news.ycombinator.com/item?id=30975378"/>
+        <updated>2022-04-10T08:41:23.000Z</updated>
+        <summary type="html"><![CDATA[How Intelligent Are Cats? (2004)]]></summary>
+        <author>
+            <name>maxmouchet</name>
+            <uri>https://news.ycombinator.com/user?id=maxmouchet</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我必須宣佈立即結束SSLPing的服務]]></title>
         <id>https://news.ycombinator.com/item?id=30985514</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>bnr</name>
             <uri>https://news.ycombinator.com/user?id=bnr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個更加社會化、不含亞馬遜的Goodreads替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=30503197</id>
-        <link href="https://news.ycombinator.com/item?id=30503197"/>
-        <updated>2022-02-28T18:29:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A more social, Amazon-free alternative to Goodreads]]></summary>
-        <author>
-            <name>justinberding</name>
-            <uri>https://news.ycombinator.com/user?id=justinberding</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fork()是邪惡的；vfork()是善良的；afork()會更好；clone()是愚蠢的。]]></title>
-        <id>https://news.ycombinator.com/item?id=30502392</id>
-        <link href="https://news.ycombinator.com/item?id=30502392"/>
-        <updated>2022-02-28T17:25:58.000Z</updated>
-        <summary type="html"><![CDATA[Fork() is evil; vfork() is goodness; afork() would be better; clone() is stupid]]></summary>
-        <author>
-            <name>__s</name>
-            <uri>https://news.ycombinator.com/user?id=__s</uri>
         </author>
     </entry>
 </feed>
