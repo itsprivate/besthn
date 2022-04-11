@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-10T23:42:19.254Z</updated>
+    <updated>2022-04-11T04:43:31.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[成就解锁：Rustc segfault]]></title>
+        <id>https://news.ycombinator.com/item?id=30980984</id>
+        <link href="https://news.ycombinator.com/item?id=30980984"/>
+        <updated>2022-04-10T19:47:23.000Z</updated>
+        <summary type="html"><![CDATA[Achievement unlocked: rustc segfault]]></summary>
+        <author>
+            <name>bcantrill</name>
+            <uri>https://news.ycombinator.com/user?id=bcantrill</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bore。一个简单的CLI工具，用于制作通往localhost的隧道]]></title>
         <id>https://news.ycombinator.com/item?id=30970720</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>DDerTyp</name>
             <uri>https://news.ycombinator.com/user?id=DDerTyp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["哦，非常抱歉。我需要更多的时间。我的国家在保卫俄罗斯的入侵"]]></title>
-        <id>https://news.ycombinator.com/item?id=30500669</id>
-        <link href="https://news.ycombinator.com/item?id=30500669"/>
-        <updated>2022-02-28T15:14:26.000Z</updated>
-        <summary type="html"><![CDATA[“O, so sorry. I need more time. my country defending Russian invasion”]]></summary>
-        <author>
-            <name>EdwinHoksberg</name>
-            <uri>https://news.ycombinator.com/user?id=EdwinHoksberg</uri>
         </author>
     </entry>
 </feed>

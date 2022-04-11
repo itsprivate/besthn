@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 10 Apr 2022 23:42:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 04:43:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[成就解锁：Rustc segfault]]></title>
+            <link>https://news.ycombinator.com/item?id=30980984</link>
+            <guid>https://news.ycombinator.com/item?id=30980984</guid>
+            <pubDate>Sun, 10 Apr 2022 19:47:23 GMT</pubDate>
+            <description><![CDATA[Achievement unlocked: rustc segfault]]></description>
+        </item>
         <item>
             <title><![CDATA[Bore。一个简单的CLI工具，用于制作通往localhost的隧道]]></title>
             <link>https://news.ycombinator.com/item?id=30970720</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30497703</guid>
             <pubDate>Mon, 28 Feb 2022 08:37:30 GMT</pubDate>
             <description><![CDATA[Ask HN: Books to read when you transform from SWE into SWE Management?]]></description>
-        </item>
-        <item>
-            <title><![CDATA["哦，非常抱歉。我需要更多的时间。我的国家在保卫俄罗斯的入侵"]]></title>
-            <link>https://news.ycombinator.com/item?id=30500669</link>
-            <guid>https://news.ycombinator.com/item?id=30500669</guid>
-            <pubDate>Mon, 28 Feb 2022 15:14:26 GMT</pubDate>
-            <description><![CDATA[“O, so sorry. I need more time. my country defending Russian invasion”]]></description>
         </item>
     </channel>
 </rss>
