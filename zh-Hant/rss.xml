@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 11 Apr 2022 04:43:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 06:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[噪聲汙染對心臟的傷害]]></title>
+            <link>https://news.ycombinator.com/item?id=30983274</link>
+            <guid>https://news.ycombinator.com/item?id=30983274</guid>
+            <pubDate>Mon, 11 Apr 2022 00:38:04 GMT</pubDate>
+            <description><![CDATA[Noise Pollution Hurts the Heart]]></description>
+        </item>
         <item>
             <title><![CDATA[成就解鎖：Rustc segfault]]></title>
             <link>https://news.ycombinator.com/item?id=30980984</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30502098</guid>
             <pubDate>Mon, 28 Feb 2022 17:01:02 GMT</pubDate>
             <description><![CDATA[I'm common as muck and spent £150 to try a Michelin star restaurant]]></description>
-        </item>
-        <item>
-            <title><![CDATA[從SWE轉型為SWE管理時要讀的書？]]></title>
-            <link>https://news.ycombinator.com/item?id=30497703</link>
-            <guid>https://news.ycombinator.com/item?id=30497703</guid>
-            <pubDate>Mon, 28 Feb 2022 08:37:30 GMT</pubDate>
-            <description><![CDATA[Ask HN: Books to read when you transform from SWE into SWE Management?]]></description>
         </item>
     </channel>
 </rss>
