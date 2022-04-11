@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 11 Apr 2022 15:55:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 16:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你喜歡哪些超關注的行業通訊？]]></title>
+            <link>https://news.ycombinator.com/item?id=30983517</link>
+            <guid>https://news.ycombinator.com/item?id=30983517</guid>
+            <pubDate>Mon, 11 Apr 2022 01:23:58 GMT</pubDate>
+            <description><![CDATA[Ask HN: What hyper-focused industry newsletters do you enjoy?]]></description>
+        </item>
         <item>
             <title><![CDATA[Node.js包不值得信任]]></title>
             <link>https://news.ycombinator.com/item?id=30988034</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30497616</guid>
             <pubDate>Mon, 28 Feb 2022 08:23:21 GMT</pubDate>
             <description><![CDATA[Lenovo announces the first Arm-based ThinkPad]]></description>
-        </item>
-        <item>
-            <title><![CDATA[F-Droid - 谷歌商店的替代品]]></title>
-            <link>https://news.ycombinator.com/item?id=30506413</link>
-            <guid>https://news.ycombinator.com/item?id=30506413</guid>
-            <pubDate>Mon, 28 Feb 2022 23:03:41 GMT</pubDate>
-            <description><![CDATA[F-Droid – alternative to Google Play store]]></description>
         </item>
     </channel>
 </rss>
