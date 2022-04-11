@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 11 Apr 2022 16:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 16:55:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我在哪裡可以看到許多真實公司的軟件架構的例子？]]></title>
+            <link>https://news.ycombinator.com/item?id=30986893</link>
+            <guid>https://news.ycombinator.com/item?id=30986893</guid>
+            <pubDate>Mon, 11 Apr 2022 10:39:25 GMT</pubDate>
+            <description><![CDATA[Ask HN: Where can I see many examples of real companies' software architecture?]]></description>
+        </item>
         <item>
             <title><![CDATA[你喜歡哪些超關注的行業通訊？]]></title>
             <link>https://news.ycombinator.com/item?id=30983517</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30508314</guid>
             <pubDate>Tue, 01 Mar 2022 02:01:14 GMT</pubDate>
             <description><![CDATA[Tell HN: If You Are in Russia]]></description>
-        </item>
-        <item>
-            <title><![CDATA[聯想發佈首款基於Arm的ThinkPad]]></title>
-            <link>https://news.ycombinator.com/item?id=30497616</link>
-            <guid>https://news.ycombinator.com/item?id=30497616</guid>
-            <pubDate>Mon, 28 Feb 2022 08:23:21 GMT</pubDate>
-            <description><![CDATA[Lenovo announces the first Arm-based ThinkPad]]></description>
         </item>
     </channel>
 </rss>

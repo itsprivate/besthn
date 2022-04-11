@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-11T16:18:51.656Z</updated>
+    <updated>2022-04-11T16:55:11.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在哪里可以看到许多真实公司的软件架构的例子？]]></title>
+        <id>https://news.ycombinator.com/item?id=30986893</id>
+        <link href="https://news.ycombinator.com/item?id=30986893"/>
+        <updated>2022-04-11T10:39:25.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where can I see many examples of real companies' software architecture?]]></summary>
+        <author>
+            <name>PeledYuval</name>
+            <uri>https://news.ycombinator.com/user?id=PeledYuval</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你喜欢哪些超关注的行业通讯？]]></title>
         <id>https://news.ycombinator.com/item?id=30983517</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jacquesm</name>
             <uri>https://news.ycombinator.com/user?id=jacquesm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联想发布首款基于Arm的ThinkPad]]></title>
-        <id>https://news.ycombinator.com/item?id=30497616</id>
-        <link href="https://news.ycombinator.com/item?id=30497616"/>
-        <updated>2022-02-28T08:23:21.000Z</updated>
-        <summary type="html"><![CDATA[Lenovo announces the first Arm-based ThinkPad]]></summary>
-        <author>
-            <name>gripfx</name>
-            <uri>https://news.ycombinator.com/user?id=gripfx</uri>
         </author>
     </entry>
 </feed>
