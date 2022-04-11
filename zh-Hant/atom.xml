@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-11T17:20:29.264Z</updated>
+    <updated>2022-04-11T18:16:16.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我喜歡碳抵消的想法，直到我試圖解釋它]]></title>
+        <id>https://news.ycombinator.com/item?id=30988390</id>
+        <link href="https://news.ycombinator.com/item?id=30988390"/>
+        <updated>2022-04-11T13:29:43.000Z</updated>
+        <summary type="html"><![CDATA[I liked the idea of carbon offsets until I tried to explain it]]></summary>
+        <author>
+            <name>gk1</name>
+            <uri>https://news.ycombinator.com/user?id=gk1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[艾特罷工]]></title>
         <id>https://news.ycombinator.com/item?id=30989344</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>PaulHoule</name>
             <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你不需要JavaScript的事情]]></title>
-        <id>https://news.ycombinator.com/item?id=30512512</id>
-        <link href="https://news.ycombinator.com/item?id=30512512"/>
-        <updated>2022-03-01T10:53:37.000Z</updated>
-        <summary type="html"><![CDATA[Things you don't need JavaScript for]]></summary>
-        <author>
-            <name>StevenWaterman</name>
-            <uri>https://news.ycombinator.com/user?id=StevenWaterman</uri>
         </author>
     </entry>
 </feed>

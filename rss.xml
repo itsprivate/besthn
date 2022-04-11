@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 11 Apr 2022 17:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 18:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我喜欢碳抵消的想法，直到我试图解释它]]></title>
+            <link>https://news.ycombinator.com/item?id=30988390</link>
+            <guid>https://news.ycombinator.com/item?id=30988390</guid>
+            <pubDate>Mon, 11 Apr 2022 13:29:43 GMT</pubDate>
+            <description><![CDATA[I liked the idea of carbon offsets until I tried to explain it]]></description>
+        </item>
         <item>
             <title><![CDATA[艾特罢工]]></title>
             <link>https://news.ycombinator.com/item?id=30989344</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30515014</guid>
             <pubDate>Tue, 01 Mar 2022 15:05:23 GMT</pubDate>
             <description><![CDATA[RISC-V is succeeding]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你不需要JavaScript的事情]]></title>
-            <link>https://news.ycombinator.com/item?id=30512512</link>
-            <guid>https://news.ycombinator.com/item?id=30512512</guid>
-            <pubDate>Tue, 01 Mar 2022 10:53:37 GMT</pubDate>
-            <description><![CDATA[Things you don't need JavaScript for]]></description>
         </item>
     </channel>
 </rss>
