@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 11 Apr 2022 13:52:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 15:55:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Node.js包不值得信任]]></title>
+            <link>https://news.ycombinator.com/item?id=30988034</link>
+            <guid>https://news.ycombinator.com/item?id=30988034</guid>
+            <pubDate>Mon, 11 Apr 2022 12:57:26 GMT</pubDate>
+            <description><![CDATA[Node.js packages don't deserve trust]]></description>
+        </item>
         <item>
             <title><![CDATA[联邦调查局没有敲开嫌疑人的门，因为 "那是一个富裕的社区]]></title>
             <link>https://news.ycombinator.com/item?id=30984559</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30506413</guid>
             <pubDate>Mon, 28 Feb 2022 23:03:41 GMT</pubDate>
             <description><![CDATA[F-Droid – alternative to Google Play store]]></description>
-        </item>
-        <item>
-            <title><![CDATA[没有用户账户，在设计上]]></title>
-            <link>https://news.ycombinator.com/item?id=30503482</link>
-            <guid>https://news.ycombinator.com/item?id=30503482</guid>
-            <pubDate>Mon, 28 Feb 2022 18:51:59 GMT</pubDate>
-            <description><![CDATA[No user accounts, by design]]></description>
         </item>
     </channel>
 </rss>

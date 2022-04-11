@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-11T13:52:51.404Z</updated>
+    <updated>2022-04-11T15:55:46.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Node.js包不值得信任]]></title>
+        <id>https://news.ycombinator.com/item?id=30988034</id>
+        <link href="https://news.ycombinator.com/item?id=30988034"/>
+        <updated>2022-04-11T12:57:26.000Z</updated>
+        <summary type="html"><![CDATA[Node.js packages don't deserve trust]]></summary>
+        <author>
+            <name>lewisjoe</name>
+            <uri>https://news.ycombinator.com/user?id=lewisjoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[聯邦調查局沒有敲開嫌疑人的門，因為 "那是一個富裕的社區]]></title>
         <id>https://news.ycombinator.com/item?id=30984559</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tomrod</name>
             <uri>https://news.ycombinator.com/user?id=tomrod</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沒有用戶賬戶，在設計上]]></title>
-        <id>https://news.ycombinator.com/item?id=30503482</id>
-        <link href="https://news.ycombinator.com/item?id=30503482"/>
-        <updated>2022-02-28T18:51:59.000Z</updated>
-        <summary type="html"><![CDATA[No user accounts, by design]]></summary>
-        <author>
-            <name>bnr</name>
-            <uri>https://news.ycombinator.com/user?id=bnr</uri>
         </author>
     </entry>
 </feed>
