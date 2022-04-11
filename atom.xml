@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-11T06:18:44.824Z</updated>
+    <updated>2022-04-11T06:40:33.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃隆已决定不加入我们的董事会]]></title>
+        <id>https://news.ycombinator.com/item?id=30984215</id>
+        <link href="https://news.ycombinator.com/item?id=30984215"/>
+        <updated>2022-04-11T03:18:42.000Z</updated>
+        <summary type="html"><![CDATA[Elon has decided not to join our board]]></summary>
+        <author>
+            <name>minimaxir</name>
+            <uri>https://news.ycombinator.com/user?id=minimaxir</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小项目的乐趣]]></title>
+        <id>https://news.ycombinator.com/item?id=30980307</id>
+        <link href="https://news.ycombinator.com/item?id=30980307"/>
+        <updated>2022-04-10T18:43:30.000Z</updated>
+        <summary type="html"><![CDATA[The Joy of Small Projects]]></summary>
+        <author>
+            <name>dschroer</name>
+            <uri>https://news.ycombinator.com/user?id=dschroer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[噪声污染对心脏的伤害]]></title>
         <id>https://news.ycombinator.com/item?id=30983274</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>arraypad</name>
             <uri>https://news.ycombinator.com/user?id=arraypad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[要求招聘信息包括工资的法案在华盛顿州参议院获得通过]]></title>
-        <id>https://news.ycombinator.com/item?id=30503532</id>
-        <link href="https://news.ycombinator.com/item?id=30503532"/>
-        <updated>2022-02-28T18:56:27.000Z</updated>
-        <summary type="html"><![CDATA[Bill to require job postings to include salaries passes Washington Senate]]></summary>
-        <author>
-            <name>caust1c</name>
-            <uri>https://news.ycombinator.com/user?id=caust1c</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我很普通，花了150英镑去尝试一家米其林星级餐厅]]></title>
-        <id>https://news.ycombinator.com/item?id=30502098</id>
-        <link href="https://news.ycombinator.com/item?id=30502098"/>
-        <updated>2022-02-28T17:01:02.000Z</updated>
-        <summary type="html"><![CDATA[I'm common as muck and spent £150 to try a Michelin star restaurant]]></summary>
-        <author>
-            <name>NaOH</name>
-            <uri>https://news.ycombinator.com/user?id=NaOH</uri>
         </author>
     </entry>
 </feed>

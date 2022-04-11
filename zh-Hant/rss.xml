@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 11 Apr 2022 06:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 06:40:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[埃隆已決定不加入我們的董事會]]></title>
+            <link>https://news.ycombinator.com/item?id=30984215</link>
+            <guid>https://news.ycombinator.com/item?id=30984215</guid>
+            <pubDate>Mon, 11 Apr 2022 03:18:42 GMT</pubDate>
+            <description><![CDATA[Elon has decided not to join our board]]></description>
+        </item>
+        <item>
+            <title><![CDATA[小項目的樂趣]]></title>
+            <link>https://news.ycombinator.com/item?id=30980307</link>
+            <guid>https://news.ycombinator.com/item?id=30980307</guid>
+            <pubDate>Sun, 10 Apr 2022 18:43:30 GMT</pubDate>
+            <description><![CDATA[The Joy of Small Projects]]></description>
+        </item>
         <item>
             <title><![CDATA[噪聲汙染對心臟的傷害]]></title>
             <link>https://news.ycombinator.com/item?id=30983274</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30503148</guid>
             <pubDate>Mon, 28 Feb 2022 18:25:10 GMT</pubDate>
             <description><![CDATA[How to take credit for someone else's work on GitHub]]></description>
-        </item>
-        <item>
-            <title><![CDATA[要求招聘信息包括工資的法案在華盛頓州參議院獲得通過]]></title>
-            <link>https://news.ycombinator.com/item?id=30503532</link>
-            <guid>https://news.ycombinator.com/item?id=30503532</guid>
-            <pubDate>Mon, 28 Feb 2022 18:56:27 GMT</pubDate>
-            <description><![CDATA[Bill to require job postings to include salaries passes Washington Senate]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我很普通，花了150英鎊去嘗試一家米其林星級餐廳]]></title>
-            <link>https://news.ycombinator.com/item?id=30502098</link>
-            <guid>https://news.ycombinator.com/item?id=30502098</guid>
-            <pubDate>Mon, 28 Feb 2022 17:01:02 GMT</pubDate>
-            <description><![CDATA[I'm common as muck and spent £150 to try a Michelin star restaurant]]></description>
         </item>
     </channel>
 </rss>
