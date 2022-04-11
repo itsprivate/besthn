@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 11 Apr 2022 22:43:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 23:34:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Intuit要求Mailchimp员工自掏腰包支付医疗费用]]></title>
+            <link>https://news.ycombinator.com/item?id=30992602</link>
+            <guid>https://news.ycombinator.com/item?id=30992602</guid>
+            <pubDate>Mon, 11 Apr 2022 18:16:32 GMT</pubDate>
+            <description><![CDATA[Intuit asked Mailchimp employees to pay medical costs out of pocket]]></description>
+        </item>
+        <item>
+            <title><![CDATA[苹果开始在印度生产iPhone 13]]></title>
+            <link>https://news.ycombinator.com/item?id=30989355</link>
+            <guid>https://news.ycombinator.com/item?id=30989355</guid>
+            <pubDate>Mon, 11 Apr 2022 14:36:36 GMT</pubDate>
+            <description><![CDATA[Apple starts manufacturing iPhone 13 in India]]></description>
+        </item>
         <item>
             <title><![CDATA[真实世界的推荐系统]]></title>
             <link>https://news.ycombinator.com/item?id=30991392</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30514280</guid>
             <pubDate>Tue, 01 Mar 2022 14:07:21 GMT</pubDate>
             <description><![CDATA[MDN Redesign]]></description>
-        </item>
-        <item>
-            <title><![CDATA[萨提亚-纳德拉的儿子扎因-纳德拉去世，享年26岁]]></title>
-            <link>https://news.ycombinator.com/item?id=30517049</link>
-            <guid>https://news.ycombinator.com/item?id=30517049</guid>
-            <pubDate>Tue, 01 Mar 2022 17:29:15 GMT</pubDate>
-            <description><![CDATA[Zain Nadella, Satya Nadella's son, dies at 26]]></description>
-        </item>
-        <item>
-            <title><![CDATA[华为MatePad Paper - eInk平板电脑]]></title>
-            <link>https://news.ycombinator.com/item?id=30512486</link>
-            <guid>https://news.ycombinator.com/item?id=30512486</guid>
-            <pubDate>Tue, 01 Mar 2022 10:49:40 GMT</pubDate>
-            <description><![CDATA[Huawei MatePad Paper – eInk Tablet]]></description>
         </item>
     </channel>
 </rss>
