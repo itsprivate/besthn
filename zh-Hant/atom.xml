@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-12T06:15:22.208Z</updated>
+    <updated>2022-04-12T07:51:37.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個首次使用Mac的用戶的印象]]></title>
+        <id>https://news.ycombinator.com/item?id=30993350</id>
+        <link href="https://news.ycombinator.com/item?id=30993350"/>
+        <updated>2022-04-11T19:15:04.000Z</updated>
+        <summary type="html"><![CDATA[Impressions from a first-time Mac user]]></summary>
+        <author>
+            <name>loganmarchione</name>
+            <uri>https://news.ycombinator.com/user?id=loganmarchione</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼過去10年的美國生活是獨一無二的愚蠢]]></title>
         <id>https://news.ycombinator.com/item?id=30992322</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Brajeshwar</name>
             <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[請刪除2月23日開戰以來的所有新地方]]></title>
-        <id>https://news.ycombinator.com/item?id=30516996</id>
-        <link href="https://news.ycombinator.com/item?id=30516996"/>
-        <updated>2022-03-01T17:26:18.000Z</updated>
-        <summary type="html"><![CDATA[Please, delete all new places since the start of war 23th of February]]></summary>
-        <author>
-            <name>ukrwantpiece</name>
-            <uri>https://news.ycombinator.com/user?id=ukrwantpiece</uri>
         </author>
     </entry>
 </feed>
