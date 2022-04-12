@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 12 Apr 2022 17:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 18:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[树莓的免费固件进展如何？]]></title>
+            <link>https://news.ycombinator.com/item?id=31000725</link>
+            <guid>https://news.ycombinator.com/item?id=31000725</guid>
+            <pubDate>Tue, 12 Apr 2022 10:23:23 GMT</pubDate>
+            <description><![CDATA[How is the free firmware for the Raspberry progressing?]]></description>
+        </item>
         <item>
             <title><![CDATA[人类大脑将工作记忆压缩成低分辨率的 "摘要"。]]></title>
             <link>https://news.ycombinator.com/item?id=31002179</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30521927</guid>
             <pubDate>Wed, 02 Mar 2022 00:20:22 GMT</pubDate>
             <description><![CDATA[Employers who violate Colorado’s non-compete laws face stiff new penalties]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通往成功的道路是由拒绝信铺就的]]></title>
-            <link>https://news.ycombinator.com/item?id=30485709</link>
-            <guid>https://news.ycombinator.com/item?id=30485709</guid>
-            <pubDate>Sun, 27 Feb 2022 05:36:56 GMT</pubDate>
-            <description><![CDATA[The road to success is paved with rejection letters]]></description>
         </item>
     </channel>
 </rss>
