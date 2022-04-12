@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 12 Apr 2022 21:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 21:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[伊甸园]]></title>
+            <link>https://news.ycombinator.com/item?id=31006003</link>
+            <guid>https://news.ycombinator.com/item?id=31006003</guid>
+            <pubDate>Tue, 12 Apr 2022 17:48:44 GMT</pubDate>
+            <description><![CDATA[Eden]]></description>
+        </item>
+        <item>
+            <title><![CDATA[什么时候科技不再那么酷了？]]></title>
+            <link>https://news.ycombinator.com/item?id=31001155</link>
+            <guid>https://news.ycombinator.com/item?id=31001155</guid>
+            <pubDate>Tue, 12 Apr 2022 11:31:36 GMT</pubDate>
+            <description><![CDATA[Ask HN: When did tech stop being cool?]]></description>
+        </item>
         <item>
             <title><![CDATA[Mullvad应用程序中提供WireGuard多跳功能]]></title>
             <link>https://news.ycombinator.com/item?id=31005209</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30529780</guid>
             <pubDate>Wed, 02 Mar 2022 17:14:18 GMT</pubDate>
             <description><![CDATA[Epic Games acquires Bandcamp]]></description>
-        </item>
-        <item>
-            <title><![CDATA[单一文件：将一个完整的网页保存为单一的HTML文件]]></title>
-            <link>https://news.ycombinator.com/item?id=30527999</link>
-            <guid>https://news.ycombinator.com/item?id=30527999</guid>
-            <pubDate>Wed, 02 Mar 2022 14:55:17 GMT</pubDate>
-            <description><![CDATA[SingleFile: Save a complete web page into a single HTML file]]></description>
-        </item>
-        <item>
-            <title><![CDATA[脑电图猫耳]]></title>
-            <link>https://news.ycombinator.com/item?id=30526065</link>
-            <guid>https://news.ycombinator.com/item?id=30526065</guid>
-            <pubDate>Wed, 02 Mar 2022 11:15:59 GMT</pubDate>
-            <description><![CDATA[EEG Cat Ears]]></description>
         </item>
     </channel>
 </rss>

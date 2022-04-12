@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-12T21:12:54.407Z</updated>
+    <updated>2022-04-12T21:33:44.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[伊甸園]]></title>
+        <id>https://news.ycombinator.com/item?id=31006003</id>
+        <link href="https://news.ycombinator.com/item?id=31006003"/>
+        <updated>2022-04-12T17:48:44.000Z</updated>
+        <summary type="html"><![CDATA[Eden]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什麼時候科技不再那麼酷了？]]></title>
+        <id>https://news.ycombinator.com/item?id=31001155</id>
+        <link href="https://news.ycombinator.com/item?id=31001155"/>
+        <updated>2022-04-12T11:31:36.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: When did tech stop being cool?]]></summary>
+        <author>
+            <name>dvh1990</name>
+            <uri>https://news.ycombinator.com/user?id=dvh1990</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mullvad應用程序中提供WireGuard多跳功能]]></title>
         <id>https://news.ycombinator.com/item?id=31005209</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>kylestetz</name>
             <uri>https://news.ycombinator.com/user?id=kylestetz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[單一文件：將一個完整的網頁保存為單一的HTML文件]]></title>
-        <id>https://news.ycombinator.com/item?id=30527999</id>
-        <link href="https://news.ycombinator.com/item?id=30527999"/>
-        <updated>2022-03-02T14:55:17.000Z</updated>
-        <summary type="html"><![CDATA[SingleFile: Save a complete web page into a single HTML file]]></summary>
-        <author>
-            <name>crbelaus</name>
-            <uri>https://news.ycombinator.com/user?id=crbelaus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腦電圖貓耳]]></title>
-        <id>https://news.ycombinator.com/item?id=30526065</id>
-        <link href="https://news.ycombinator.com/item?id=30526065"/>
-        <updated>2022-03-02T11:15:59.000Z</updated>
-        <summary type="html"><![CDATA[EEG Cat Ears]]></summary>
-        <author>
-            <name>searchableguy</name>
-            <uri>https://news.ycombinator.com/user?id=searchableguy</uri>
         </author>
     </entry>
 </feed>
