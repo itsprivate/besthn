@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 12 Apr 2022 10:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 13:50:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼Gov.uk設計系統團隊改變了數字的輸入類型（2020）？]]></title>
+            <link>https://news.ycombinator.com/item?id=30997822</link>
+            <guid>https://news.ycombinator.com/item?id=30997822</guid>
+            <pubDate>Tue, 12 Apr 2022 02:16:37 GMT</pubDate>
+            <description><![CDATA[Why the Gov.uk Design System team changed the input type for numbers (2020)]]></description>
+        </item>
         <item>
             <title><![CDATA[惡意溝通的結局]]></title>
             <link>https://news.ycombinator.com/item?id=30997666</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30517626</guid>
             <pubDate>Tue, 01 Mar 2022 18:09:25 GMT</pubDate>
             <description><![CDATA[Show HN: I made a web game called Almost Pong]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Go 1.18中是如何實現泛型的？]]></title>
-            <link>https://news.ycombinator.com/item?id=30518094</link>
-            <guid>https://news.ycombinator.com/item?id=30518094</guid>
-            <pubDate>Tue, 01 Mar 2022 18:39:13 GMT</pubDate>
-            <description><![CDATA[How generics are implemented in Go 1.18]]></description>
         </item>
     </channel>
 </rss>
