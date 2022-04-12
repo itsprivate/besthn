@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-12T08:16:28.187Z</updated>
+    <updated>2022-04-12T10:15:33.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[惡意溝通的結局]]></title>
+        <id>https://news.ycombinator.com/item?id=30997666</id>
+        <link href="https://news.ycombinator.com/item?id=30997666"/>
+        <updated>2022-04-12T01:53:39.000Z</updated>
+        <summary type="html"><![CDATA[The endgames of bad faith communication]]></summary>
+        <author>
+            <name>Thersites</name>
+            <uri>https://news.ycombinator.com/user?id=Thersites</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通過RFC 8555實現公共證書生命週期管理的自動化（ACME）]]></title>
         <id>https://news.ycombinator.com/item?id=30997735</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>komuW</name>
             <uri>https://news.ycombinator.com/user?id=komuW</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[編寫純文本文件]]></title>
-        <id>https://news.ycombinator.com/item?id=30521545</id>
-        <link href="https://news.ycombinator.com/item?id=30521545"/>
-        <updated>2022-03-01T23:35:03.000Z</updated>
-        <summary type="html"><![CDATA[Write plain text files]]></summary>
-        <author>
-            <name>sivers</name>
-            <uri>https://news.ycombinator.com/user?id=sivers</uri>
         </author>
     </entry>
 </feed>
