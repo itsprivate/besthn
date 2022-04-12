@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-12T13:50:26.381Z</updated>
+    <updated>2022-04-12T17:08:27.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人類大腦將工作記憶壓縮成低分辨率的 "摘要"。]]></title>
+        <id>https://news.ycombinator.com/item?id=31002179</id>
+        <link href="https://news.ycombinator.com/item?id=31002179"/>
+        <updated>2022-04-12T13:11:48.000Z</updated>
+        <summary type="html"><![CDATA[Human brain compresses working memories into low-res ‘summaries’]]></summary>
+        <author>
+            <name>nihkolberg</name>
+            <uri>https://news.ycombinator.com/user?id=nihkolberg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3月消費者價格上漲8.5%--1981年以來最高]]></title>
+        <id>https://news.ycombinator.com/item?id=31002002</id>
+        <link href="https://news.ycombinator.com/item?id=31002002"/>
+        <updated>2022-04-12T12:56:17.000Z</updated>
+        <summary type="html"><![CDATA[Consumer prices rose 8.5% in March – highest since 1981]]></summary>
+        <author>
+            <name>arbuge</name>
+            <uri>https://news.ycombinator.com/user?id=arbuge</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼Gov.uk設計系統團隊改變了數字的輸入類型（2020）？]]></title>
         <id>https://news.ycombinator.com/item?id=30997822</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>cloudedcordial</name>
             <uri>https://news.ycombinator.com/user?id=cloudedcordial</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亞裔美國人反擊學校歧視]]></title>
-        <id>https://news.ycombinator.com/item?id=30523203</id>
-        <link href="https://news.ycombinator.com/item?id=30523203"/>
-        <updated>2022-03-02T03:12:11.000Z</updated>
-        <summary type="html"><![CDATA[Asian-Americans fight back against school discrimination]]></summary>
-        <author>
-            <name>kerneloftruth</name>
-            <uri>https://news.ycombinator.com/user?id=kerneloftruth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個網頁遊戲，叫作 "Almost Pong"。]]></title>
-        <id>https://news.ycombinator.com/item?id=30517626</id>
-        <link href="https://news.ycombinator.com/item?id=30517626"/>
-        <updated>2022-03-01T18:09:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a web game called Almost Pong]]></summary>
-        <author>
-            <name>lessmilk</name>
-            <uri>https://news.ycombinator.com/user?id=lessmilk</uri>
         </author>
     </entry>
 </feed>

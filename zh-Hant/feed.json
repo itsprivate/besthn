@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31002179",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31002179",
+            "title": "人類大腦將工作記憶壓縮成低分辨率的 \"摘要\"。",
+            "summary": "Human brain compresses working memories into low-res ‘summaries’",
+            "date_modified": "2022-04-12T13:11:48.000Z",
+            "author": {
+                "name": "nihkolberg",
+                "url": "https://news.ycombinator.com/user?id=nihkolberg"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31002002",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31002002",
+            "title": "3月消費者價格上漲8.5%--1981年以來最高",
+            "summary": "Consumer prices rose 8.5% in March – highest since 1981",
+            "date_modified": "2022-04-12T12:56:17.000Z",
+            "author": {
+                "name": "arbuge",
+                "url": "https://news.ycombinator.com/user?id=arbuge"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=30997822",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=30997822",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "cloudedcordial",
                 "url": "https://news.ycombinator.com/user?id=cloudedcordial"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30523203",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30523203",
-            "title": "亞裔美國人反擊學校歧視",
-            "summary": "Asian-Americans fight back against school discrimination",
-            "date_modified": "2022-03-02T03:12:11.000Z",
-            "author": {
-                "name": "kerneloftruth",
-                "url": "https://news.ycombinator.com/user?id=kerneloftruth"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30517626",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30517626",
-            "title": "我做了一個網頁遊戲，叫作 \"Almost Pong\"。",
-            "summary": "Show HN: I made a web game called Almost Pong",
-            "date_modified": "2022-03-01T18:09:25.000Z",
-            "author": {
-                "name": "lessmilk",
-                "url": "https://news.ycombinator.com/user?id=lessmilk"
             }
         }
     ]
