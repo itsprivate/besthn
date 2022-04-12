@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 11 Apr 2022 23:34:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 04:02:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[卵石的成功与失败]]></title>
+            <link>https://news.ycombinator.com/item?id=30995487</link>
+            <guid>https://news.ycombinator.com/item?id=30995487</guid>
+            <pubDate>Mon, 11 Apr 2022 21:43:45 GMT</pubDate>
+            <description><![CDATA[Success and Failure at Pebble]]></description>
+        </item>
         <item>
             <title><![CDATA[Intuit要求Mailchimp员工自掏腰包支付医疗费用]]></title>
             <link>https://news.ycombinator.com/item?id=30992602</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30515750</guid>
             <pubDate>Tue, 01 Mar 2022 16:01:56 GMT</pubDate>
             <description><![CDATA[Ask HN: Who is hiring? (March 2022)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MDN的重新设计]]></title>
-            <link>https://news.ycombinator.com/item?id=30514280</link>
-            <guid>https://news.ycombinator.com/item?id=30514280</guid>
-            <pubDate>Tue, 01 Mar 2022 14:07:21 GMT</pubDate>
-            <description><![CDATA[MDN Redesign]]></description>
         </item>
     </channel>
 </rss>
