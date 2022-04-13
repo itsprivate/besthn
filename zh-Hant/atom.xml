@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-13T04:43:37.236Z</updated>
+    <updated>2022-04-13T05:12:34.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[RaidForums被突擊檢查，據稱管理員被捕]]></title>
+        <id>https://news.ycombinator.com/item?id=31005770</id>
+        <link href="https://news.ycombinator.com/item?id=31005770"/>
+        <updated>2022-04-12T17:32:55.000Z</updated>
+        <summary type="html"><![CDATA[RaidForums gets raided, alleged admin arrested]]></summary>
+        <author>
+            <name>picture</name>
+            <uri>https://news.ycombinator.com/user?id=picture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不要把本田元素的軟管拿出來]]></title>
         <id>https://news.ycombinator.com/item?id=31008275</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Jack000</name>
             <uri>https://news.ycombinator.com/user?id=Jack000</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[透視在圖片中是如何運作的？]]></title>
-        <id>https://news.ycombinator.com/item?id=30527692</id>
-        <link href="https://news.ycombinator.com/item?id=30527692"/>
-        <updated>2022-03-02T14:31:17.000Z</updated>
-        <summary type="html"><![CDATA[How does perspective work in pictures?]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
