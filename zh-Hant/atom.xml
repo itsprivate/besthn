@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-13T06:40:35.775Z</updated>
+    <updated>2022-04-13T08:40:21.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果推出具有故事板和魔幻電影功能的新版iMovie]]></title>
+        <id>https://news.ycombinator.com/item?id=31005399</id>
+        <link href="https://news.ycombinator.com/item?id=31005399"/>
+        <updated>2022-04-12T17:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple introduces new version of iMovie featuring Storyboards and Magic Movie]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我為你做了一個網站，以第一人稱POV的方式環遊世界]]></title>
         <id>https://news.ycombinator.com/item?id=30970911</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的Stripe稅務故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30535572</id>
-        <link href="https://news.ycombinator.com/item?id=30535572"/>
-        <updated>2022-03-03T00:38:43.000Z</updated>
-        <summary type="html"><![CDATA[My Stripe Tax Story]]></summary>
-        <author>
-            <name>kareemm</name>
-            <uri>https://news.ycombinator.com/user?id=kareemm</uri>
         </author>
     </entry>
 </feed>
