@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-13T14:19:46.532Z</updated>
+    <updated>2022-04-13T17:09:27.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在紙上創建手繪GIF]]></title>
+        <id>https://news.ycombinator.com/item?id=31012269</id>
+        <link href="https://news.ycombinator.com/item?id=31012269"/>
+        <updated>2022-04-13T08:12:14.000Z</updated>
+        <summary type="html"><![CDATA[Create hand-drawn GIFs on paper]]></summary>
+        <author>
+            <name>trueduke</name>
+            <uri>https://news.ycombinator.com/user?id=trueduke</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[維基百科停止接受加密貨幣的RFC以多數票通過]]></title>
         <id>https://news.ycombinator.com/item?id=31011083</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>chippy</name>
             <uri>https://news.ycombinator.com/user?id=chippy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[現在是你的錯，他們不知道這件事]]></title>
-        <id>https://news.ycombinator.com/item?id=30542528</id>
-        <link href="https://news.ycombinator.com/item?id=30542528"/>
-        <updated>2022-03-03T15:51:46.000Z</updated>
-        <summary type="html"><![CDATA[It's now your fault they don't know about it]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>
