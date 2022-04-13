@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 13 Apr 2022 02:34:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 03:30:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[新的（大约）命令行工具]]></title>
+            <link>https://news.ycombinator.com/item?id=31009313</link>
+            <guid>https://news.ycombinator.com/item?id=31009313</guid>
+            <pubDate>Tue, 12 Apr 2022 23:08:52 GMT</pubDate>
+            <description><![CDATA[New(ish) command line tools]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一个微小的Docker镜像，为静态网站提供服务]]></title>
+            <link>https://news.ycombinator.com/item?id=31003395</link>
+            <guid>https://news.ycombinator.com/item?id=31003395</guid>
+            <pubDate>Tue, 12 Apr 2022 14:42:46 GMT</pubDate>
+            <description><![CDATA[A tiny Docker image to serve static websites]]></description>
+        </item>
         <item>
             <title><![CDATA[顶级Mac应用商店开发者滥用免费与应用内购买的诱导性应用]]></title>
             <link>https://news.ycombinator.com/item?id=31005708</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30533540</guid>
             <pubDate>Wed, 02 Mar 2022 21:38:02 GMT</pubDate>
             <description><![CDATA[Google mandates workers back to Silicon Valley, other offices from April 4]]></description>
-        </item>
-        <item>
-            <title><![CDATA[拜登官员称中国要求俄罗斯将战争推迟到奥运会之后]]></title>
-            <link>https://news.ycombinator.com/item?id=30532935</link>
-            <guid>https://news.ycombinator.com/item?id=30532935</guid>
-            <pubDate>Wed, 02 Mar 2022 20:51:01 GMT</pubDate>
-            <description><![CDATA[China asked Russia to delay war until after Olympics, Biden officials say]]></description>
-        </item>
-        <item>
-            <title><![CDATA[冰淇淋机黑客起诉麦当劳]]></title>
-            <link>https://news.ycombinator.com/item?id=30527939</link>
-            <guid>https://news.ycombinator.com/item?id=30527939</guid>
-            <pubDate>Wed, 02 Mar 2022 14:51:04 GMT</pubDate>
-            <description><![CDATA[Ice cream machine hackers sue McDonald's]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-13T02:34:56.852Z</updated>
+    <updated>2022-04-13T03:30:27.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新的（大約）命令行工具]]></title>
+        <id>https://news.ycombinator.com/item?id=31009313</id>
+        <link href="https://news.ycombinator.com/item?id=31009313"/>
+        <updated>2022-04-12T23:08:52.000Z</updated>
+        <summary type="html"><![CDATA[New(ish) command line tools]]></summary>
+        <author>
+            <name>grappler</name>
+            <uri>https://news.ycombinator.com/user?id=grappler</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個微小的Docker鏡像，為靜態網站提供服務]]></title>
+        <id>https://news.ycombinator.com/item?id=31003395</id>
+        <link href="https://news.ycombinator.com/item?id=31003395"/>
+        <updated>2022-04-12T14:42:46.000Z</updated>
+        <summary type="html"><![CDATA[A tiny Docker image to serve static websites]]></summary>
+        <author>
+            <name>nilsandrey</name>
+            <uri>https://news.ycombinator.com/user?id=nilsandrey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[頂級Mac應用商店開發者濫用免費與應用內購買的誘導性應用]]></title>
         <id>https://news.ycombinator.com/item?id=31005708</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登官員稱中國要求俄羅斯將戰爭推遲到奧運會之後]]></title>
-        <id>https://news.ycombinator.com/item?id=30532935</id>
-        <link href="https://news.ycombinator.com/item?id=30532935"/>
-        <updated>2022-03-02T20:51:01.000Z</updated>
-        <summary type="html"><![CDATA[China asked Russia to delay war until after Olympics, Biden officials say]]></summary>
-        <author>
-            <name>neverminder</name>
-            <uri>https://news.ycombinator.com/user?id=neverminder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冰淇淋機黑客起訴麥當勞]]></title>
-        <id>https://news.ycombinator.com/item?id=30527939</id>
-        <link href="https://news.ycombinator.com/item?id=30527939"/>
-        <updated>2022-03-02T14:51:04.000Z</updated>
-        <summary type="html"><![CDATA[Ice cream machine hackers sue McDonald's]]></summary>
-        <author>
-            <name>rishabhd</name>
-            <uri>https://news.ycombinator.com/user?id=rishabhd</uri>
         </author>
     </entry>
 </feed>
