@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-13T17:09:27.119Z</updated>
+    <updated>2022-04-13T18:16:32.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[史上最長的Atlassian中斷事件的內幕]]></title>
+        <id>https://news.ycombinator.com/item?id=31015813</id>
+        <link href="https://news.ycombinator.com/item?id=31015813"/>
+        <updated>2022-04-13T15:27:38.000Z</updated>
+        <summary type="html"><![CDATA[Inside the longest Atlassian outage of all time]]></summary>
+        <author>
+            <name>andyjohnson0</name>
+            <uri>https://news.ycombinator.com/user?id=andyjohnson0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在紙上創建手繪GIF]]></title>
         <id>https://news.ycombinator.com/item?id=31012269</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>simontheowl</name>
             <uri>https://news.ycombinator.com/user?id=simontheowl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不存在的城市]]></title>
-        <id>https://news.ycombinator.com/item?id=30539445</id>
-        <link href="https://news.ycombinator.com/item?id=30539445"/>
-        <updated>2022-03-03T10:51:20.000Z</updated>
-        <summary type="html"><![CDATA[City Does Not Exist]]></summary>
-        <author>
-            <name>chippy</name>
-            <uri>https://news.ycombinator.com/user?id=chippy</uri>
         </author>
     </entry>
 </feed>
