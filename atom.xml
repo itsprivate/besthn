@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-13T19:28:55.734Z</updated>
+    <updated>2022-04-13T21:40:15.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你被静音了--还是你被静音了？视频会议应用程序可能在麦克风关闭时进行监听]]></title>
+        <id>https://news.ycombinator.com/item?id=31017098</id>
+        <link href="https://news.ycombinator.com/item?id=31017098"/>
+        <updated>2022-04-13T16:59:20.000Z</updated>
+        <summary type="html"><![CDATA[You’re muted – or are you? Videoconferencing apps may listen when mic is off]]></summary>
+        <author>
+            <name>sizzle</name>
+            <uri>https://news.ycombinator.com/user?id=sizzle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一种没有活动部件的新型热机与蒸汽轮机一样高效]]></title>
         <id>https://news.ycombinator.com/item?id=31016120</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>homarp</name>
             <uri>https://news.ycombinator.com/user?id=homarp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧洲最大的核电站起火]]></title>
-        <id>https://news.ycombinator.com/item?id=30549116</id>
-        <link href="https://news.ycombinator.com/item?id=30549116"/>
-        <updated>2022-03-04T00:50:23.000Z</updated>
-        <summary type="html"><![CDATA[Europe's largest nuclear power plant on fire]]></summary>
-        <author>
-            <name>andreygrehov</name>
-            <uri>https://news.ycombinator.com/user?id=andreygrehov</uri>
         </author>
     </entry>
 </feed>

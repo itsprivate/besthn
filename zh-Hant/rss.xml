@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 13 Apr 2022 19:28:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 21:40:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你被靜音了--還是你被靜音了？視頻會議應用程序可能在麥克風關閉時進行監聽]]></title>
+            <link>https://news.ycombinator.com/item?id=31017098</link>
+            <guid>https://news.ycombinator.com/item?id=31017098</guid>
+            <pubDate>Wed, 13 Apr 2022 16:59:20 GMT</pubDate>
+            <description><![CDATA[You’re muted – or are you? Videoconferencing apps may listen when mic is off]]></description>
+        </item>
         <item>
             <title><![CDATA[一種沒有活動部件的新型熱機與蒸汽輪機一樣高效]]></title>
             <link>https://news.ycombinator.com/item?id=31016120</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30545425</guid>
             <pubDate>Thu, 03 Mar 2022 19:18:27 GMT</pubDate>
             <description><![CDATA[iPhone 11 Emulated on QEMU]]></description>
-        </item>
-        <item>
-            <title><![CDATA[歐洲最大的核電站起火]]></title>
-            <link>https://news.ycombinator.com/item?id=30549116</link>
-            <guid>https://news.ycombinator.com/item?id=30549116</guid>
-            <pubDate>Fri, 04 Mar 2022 00:50:23 GMT</pubDate>
-            <description><![CDATA[Europe's largest nuclear power plant on fire]]></description>
         </item>
     </channel>
 </rss>
