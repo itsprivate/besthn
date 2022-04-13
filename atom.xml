@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-13T09:43:01.798Z</updated>
+    <updated>2022-04-13T13:27:40.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[U+237C ⍼ 直角与向下的人字形箭头]]></title>
+        <id>https://news.ycombinator.com/item?id=31012865</id>
+        <link href="https://news.ycombinator.com/item?id=31012865"/>
+        <updated>2022-04-13T10:01:26.000Z</updated>
+        <summary type="html"><![CDATA[U+237C ⍼ Right Angle with Downwards Zigzag Arrow]]></summary>
+        <author>
+            <name>cbzbc</name>
+            <uri>https://news.ycombinator.com/user?id=cbzbc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[玩转DALL-E 2]]></title>
         <id>https://news.ycombinator.com/item?id=30989613</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Nitrolo</name>
             <uri>https://news.ycombinator.com/user?id=Nitrolo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICANN拒绝乌克兰将俄罗斯从互联网上切断的请求[pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=30540188</id>
-        <link href="https://news.ycombinator.com/item?id=30540188"/>
-        <updated>2022-03-03T12:45:45.000Z</updated>
-        <summary type="html"><![CDATA[ICANN's rejection of Ukraine's request to sever Russia from the internet [pdf]]]></summary>
-        <author>
-            <name>0xedb</name>
-            <uri>https://news.ycombinator.com/user?id=0xedb</uri>
         </author>
     </entry>
 </feed>
