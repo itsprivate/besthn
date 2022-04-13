@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-13T21:40:15.152Z</updated>
+    <updated>2022-04-13T22:32:26.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[朝鮮區塊鏈演講後美國判處加密貨幣專家5年徒刑]]></title>
+        <id>https://news.ycombinator.com/item?id=31015652</id>
+        <link href="https://news.ycombinator.com/item?id=31015652"/>
+        <updated>2022-04-13T15:14:16.000Z</updated>
+        <summary type="html"><![CDATA[US sentences crypto expert to 5 years after North Korea blockchain presentation]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你被靜音了--還是你被靜音了？視頻會議應用程序可能在麥克風關閉時進行監聽]]></title>
         <id>https://news.ycombinator.com/item?id=31017098</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>igpay</name>
             <uri>https://news.ycombinator.com/user?id=igpay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在QEMU上仿真的iPhone 11]]></title>
-        <id>https://news.ycombinator.com/item?id=30545425</id>
-        <link href="https://news.ycombinator.com/item?id=30545425"/>
-        <updated>2022-03-03T19:18:27.000Z</updated>
-        <summary type="html"><![CDATA[iPhone 11 Emulated on QEMU]]></summary>
-        <author>
-            <name>homarp</name>
-            <uri>https://news.ycombinator.com/user?id=homarp</uri>
         </author>
     </entry>
 </feed>
