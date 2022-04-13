@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-13T05:12:34.756Z</updated>
+    <updated>2022-04-13T06:16:43.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[公佈Git安全漏洞]]></title>
+        <id>https://news.ycombinator.com/item?id=31009675</id>
+        <link href="https://news.ycombinator.com/item?id=31009675"/>
+        <updated>2022-04-13T00:02:29.000Z</updated>
+        <summary type="html"><![CDATA[Git security vulnerability announced]]></summary>
+        <author>
+            <name>delsarto</name>
+            <uri>https://news.ycombinator.com/user?id=delsarto</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BBEdit今天已經30歲了]]></title>
+        <id>https://news.ycombinator.com/item?id=31008290</id>
+        <link href="https://news.ycombinator.com/item?id=31008290"/>
+        <updated>2022-04-12T21:12:55.000Z</updated>
+        <summary type="html"><![CDATA[BBEdit is 30 years old today]]></summary>
+        <author>
+            <name>sndean</name>
+            <uri>https://news.ycombinator.com/user?id=sndean</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RaidForums被突擊檢查，據稱管理員被捕]]></title>
         <id>https://news.ycombinator.com/item?id=31005770</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>leephillips</name>
             <uri>https://news.ycombinator.com/user?id=leephillips</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯的空軍怎麼了？美國官員和專家感到困惑]]></title>
-        <id>https://news.ycombinator.com/item?id=30529470</id>
-        <link href="https://news.ycombinator.com/item?id=30529470"/>
-        <updated>2022-03-02T16:52:44.000Z</updated>
-        <summary type="html"><![CDATA[What happened to Russias Air Force? U.S. officials, experts stumped]]></summary>
-        <author>
-            <name>mrep</name>
-            <uri>https://news.ycombinator.com/user?id=mrep</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huemint - 顏色設計的機器學習]]></title>
-        <id>https://news.ycombinator.com/item?id=30529262</id>
-        <link href="https://news.ycombinator.com/item?id=30529262"/>
-        <updated>2022-03-02T16:38:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Huemint – Machine learning for color design]]></summary>
-        <author>
-            <name>Jack000</name>
-            <uri>https://news.ycombinator.com/user?id=Jack000</uri>
         </author>
     </entry>
 </feed>
