@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 13 Apr 2022 13:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 13:54:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Coinbase的內幕交易]]></title>
+            <link>https://news.ycombinator.com/item?id=31012462</link>
+            <guid>https://news.ycombinator.com/item?id=31012462</guid>
+            <pubDate>Wed, 13 Apr 2022 08:48:03 GMT</pubDate>
+            <description><![CDATA[Insider Trading at Coinbase]]></description>
+        </item>
         <item>
             <title><![CDATA[U+237C ⍼ 直角與向下的人字形箭頭]]></title>
             <link>https://news.ycombinator.com/item?id=31012865</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30541576</guid>
             <pubDate>Thu, 03 Mar 2022 14:38:35 GMT</pubDate>
             <description><![CDATA[43 km line of sight with USB WiFi stick (2005)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[歐洲的姓氏地圖]]></title>
-            <link>https://news.ycombinator.com/item?id=30539693</link>
-            <guid>https://news.ycombinator.com/item?id=30539693</guid>
-            <pubDate>Thu, 03 Mar 2022 11:39:46 GMT</pubDate>
-            <description><![CDATA[Map of Surnames in Europe]]></description>
         </item>
     </channel>
 </rss>
