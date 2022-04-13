@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-13T18:16:32.764Z</updated>
+    <updated>2022-04-13T19:28:55.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一種沒有活動部件的新型熱機與蒸汽輪機一樣高效]]></title>
+        <id>https://news.ycombinator.com/item?id=31016120</id>
+        <link href="https://news.ycombinator.com/item?id=31016120"/>
+        <updated>2022-04-13T15:48:40.000Z</updated>
+        <summary type="html"><![CDATA[A new heat engine with no moving parts is as efficient as a steam turbine]]></summary>
+        <author>
+            <name>WithinReason</name>
+            <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[水槽邊的髒盤子可能是一個大的婚姻問題]]></title>
+        <id>https://news.ycombinator.com/item?id=31000658</id>
+        <link href="https://news.ycombinator.com/item?id=31000658"/>
+        <updated>2022-04-12T10:13:27.000Z</updated>
+        <summary type="html"><![CDATA[A dirty dish by the sink can be a big marriage problem]]></summary>
+        <author>
+            <name>wiihack</name>
+            <uri>https://news.ycombinator.com/user?id=wiihack</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[史上最長的Atlassian中斷事件的內幕]]></title>
         <id>https://news.ycombinator.com/item?id=31015813</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>andreygrehov</name>
             <uri>https://news.ycombinator.com/user?id=andreygrehov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1990-2020年，"每個人都應該知道的延遲數字 "是如何減少的]]></title>
-        <id>https://news.ycombinator.com/item?id=30546995</id>
-        <link href="https://news.ycombinator.com/item?id=30546995"/>
-        <updated>2022-03-03T21:06:40.000Z</updated>
-        <summary type="html"><![CDATA[How “latency numbers everybody should know” decreased from 1990–2020]]></summary>
-        <author>
-            <name>isaacimagine</name>
-            <uri>https://news.ycombinator.com/user?id=isaacimagine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯將對有關烏克蘭戰爭的 "假新聞 "處以15年監禁]]></title>
-        <id>https://news.ycombinator.com/item?id=30542596</id>
-        <link href="https://news.ycombinator.com/item?id=30542596"/>
-        <updated>2022-03-03T15:55:39.000Z</updated>
-        <summary type="html"><![CDATA[Russia to punish ‘fake news’ about Ukraine war with 15 years’ jail]]></summary>
-        <author>
-            <name>simontheowl</name>
-            <uri>https://news.ycombinator.com/user?id=simontheowl</uri>
         </author>
     </entry>
 </feed>

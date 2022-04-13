@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 13 Apr 2022 18:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 19:28:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一种没有活动部件的新型热机与蒸汽轮机一样高效]]></title>
+            <link>https://news.ycombinator.com/item?id=31016120</link>
+            <guid>https://news.ycombinator.com/item?id=31016120</guid>
+            <pubDate>Wed, 13 Apr 2022 15:48:40 GMT</pubDate>
+            <description><![CDATA[A new heat engine with no moving parts is as efficient as a steam turbine]]></description>
+        </item>
+        <item>
+            <title><![CDATA[水槽边的脏盘子可能是一个大的婚姻问题]]></title>
+            <link>https://news.ycombinator.com/item?id=31000658</link>
+            <guid>https://news.ycombinator.com/item?id=31000658</guid>
+            <pubDate>Tue, 12 Apr 2022 10:13:27 GMT</pubDate>
+            <description><![CDATA[A dirty dish by the sink can be a big marriage problem]]></description>
+        </item>
         <item>
             <title><![CDATA[史上最长的Atlassian中断事件的内幕]]></title>
             <link>https://news.ycombinator.com/item?id=31015813</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30549116</guid>
             <pubDate>Fri, 04 Mar 2022 00:50:23 GMT</pubDate>
             <description><![CDATA[Europe's largest nuclear power plant on fire]]></description>
-        </item>
-        <item>
-            <title><![CDATA[1990-2020年，"每个人都应该知道的延迟数字 "是如何减少的]]></title>
-            <link>https://news.ycombinator.com/item?id=30546995</link>
-            <guid>https://news.ycombinator.com/item?id=30546995</guid>
-            <pubDate>Thu, 03 Mar 2022 21:06:40 GMT</pubDate>
-            <description><![CDATA[How “latency numbers everybody should know” decreased from 1990–2020]]></description>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯将对有关乌克兰战争的 "假新闻 "处以15年监禁]]></title>
-            <link>https://news.ycombinator.com/item?id=30542596</link>
-            <guid>https://news.ycombinator.com/item?id=30542596</guid>
-            <pubDate>Thu, 03 Mar 2022 15:55:39 GMT</pubDate>
-            <description><![CDATA[Russia to punish ‘fake news’ about Ukraine war with 15 years’ jail]]></description>
         </item>
     </channel>
 </rss>
