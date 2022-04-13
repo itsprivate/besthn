@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-13T08:40:21.231Z</updated>
+    <updated>2022-04-13T09:33:35.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用OAuth2保護你的API的完整指南]]></title>
+        <id>https://news.ycombinator.com/item?id=31004928</id>
+        <link href="https://news.ycombinator.com/item?id=31004928"/>
+        <updated>2022-04-12T16:34:57.000Z</updated>
+        <summary type="html"><![CDATA[The complete guide to protecting your APIs with OAuth2]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果推出具有故事板和魔幻電影功能的新版iMovie]]></title>
         <id>https://news.ycombinator.com/item?id=31005399</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>KlatchianMist</name>
             <uri>https://news.ycombinator.com/user?id=KlatchianMist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在國際上轉移資金]]></title>
-        <id>https://news.ycombinator.com/item?id=30535225</id>
-        <link href="https://news.ycombinator.com/item?id=30535225"/>
-        <updated>2022-03-02T23:54:57.000Z</updated>
-        <summary type="html"><![CDATA[Moving money internationally]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
