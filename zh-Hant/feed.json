@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31005708",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31005708",
+            "title": "頂級Mac應用商店開發者濫用免費與應用內購買的誘導性應用",
+            "summary": "Top Mac app store dev abuses free with in-app purchase for bait-and-switch apps",
+            "date_modified": "2022-04-12T17:28:33.000Z",
+            "author": {
+                "name": "Apocryphon",
+                "url": "https://news.ycombinator.com/user?id=Apocryphon"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31001916",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31001916",
+            "title": "黑掉美國在線教會了一代程序員什麼？",
+            "summary": "What hacking AOL taught a generation of programmers",
+            "date_modified": "2022-04-12T12:48:45.000Z",
+            "author": {
+                "name": "booleanbetrayal",
+                "url": "https://news.ycombinator.com/user?id=booleanbetrayal"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31006003",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31006003",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "rishabhd",
                 "url": "https://news.ycombinator.com/user?id=rishabhd"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30528473",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30528473",
-            "title": "SPA是個錯誤",
-            "summary": "SPAs Were a Mistake",
-            "date_modified": "2022-03-02T15:35:37.000Z",
-            "author": {
-                "name": "andrei_says_",
-                "url": "https://news.ycombinator.com/user?id=andrei_says_"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30529780",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30529780",
-            "title": "Epic Games收購了Bandcamp",
-            "summary": "Epic Games acquires Bandcamp",
-            "date_modified": "2022-03-02T17:14:18.000Z",
-            "author": {
-                "name": "kylestetz",
-                "url": "https://news.ycombinator.com/user?id=kylestetz"
             }
         }
     ]

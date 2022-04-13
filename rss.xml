@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 12 Apr 2022 21:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 02:34:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[顶级Mac应用商店开发者滥用免费与应用内购买的诱导性应用]]></title>
+            <link>https://news.ycombinator.com/item?id=31005708</link>
+            <guid>https://news.ycombinator.com/item?id=31005708</guid>
+            <pubDate>Tue, 12 Apr 2022 17:28:33 GMT</pubDate>
+            <description><![CDATA[Top Mac app store dev abuses free with in-app purchase for bait-and-switch apps]]></description>
+        </item>
+        <item>
+            <title><![CDATA[黑掉美国在线教会了一代程序员什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=31001916</link>
+            <guid>https://news.ycombinator.com/item?id=31001916</guid>
+            <pubDate>Tue, 12 Apr 2022 12:48:45 GMT</pubDate>
+            <description><![CDATA[What hacking AOL taught a generation of programmers]]></description>
+        </item>
         <item>
             <title><![CDATA[伊甸园]]></title>
             <link>https://news.ycombinator.com/item?id=31006003</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30527939</guid>
             <pubDate>Wed, 02 Mar 2022 14:51:04 GMT</pubDate>
             <description><![CDATA[Ice cream machine hackers sue McDonald's]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SPA是个错误]]></title>
-            <link>https://news.ycombinator.com/item?id=30528473</link>
-            <guid>https://news.ycombinator.com/item?id=30528473</guid>
-            <pubDate>Wed, 02 Mar 2022 15:35:37 GMT</pubDate>
-            <description><![CDATA[SPAs Were a Mistake]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Epic Games收购了Bandcamp]]></title>
-            <link>https://news.ycombinator.com/item?id=30529780</link>
-            <guid>https://news.ycombinator.com/item?id=30529780</guid>
-            <pubDate>Wed, 02 Mar 2022 17:14:18 GMT</pubDate>
-            <description><![CDATA[Epic Games acquires Bandcamp]]></description>
         </item>
     </channel>
 </rss>
