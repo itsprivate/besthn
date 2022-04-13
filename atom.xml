@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-13T06:16:43.058Z</updated>
+    <updated>2022-04-13T06:40:35.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我为你做了一个网站，以第一人称POV的方式环游世界]]></title>
+        <id>https://news.ycombinator.com/item?id=30970911</id>
+        <link href="https://news.ycombinator.com/item?id=30970911"/>
+        <updated>2022-04-09T18:58:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a website for you to travel the world in first-person POV]]></summary>
+        <author>
+            <name>eddieweng</name>
+            <uri>https://news.ycombinator.com/user?id=eddieweng</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公布Git安全漏洞]]></title>
         <id>https://news.ycombinator.com/item?id=31009675</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kareemm</name>
             <uri>https://news.ycombinator.com/user?id=kareemm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊将关闭所有的实体书店和 "四星级 "商店]]></title>
-        <id>https://news.ycombinator.com/item?id=30531762</id>
-        <link href="https://news.ycombinator.com/item?id=30531762"/>
-        <updated>2022-03-02T19:31:57.000Z</updated>
-        <summary type="html"><![CDATA[Amazon to close all of its physical bookstores and '4-star' shops]]></summary>
-        <author>
-            <name>leephillips</name>
-            <uri>https://news.ycombinator.com/user?id=leephillips</uri>
         </author>
     </entry>
 </feed>
