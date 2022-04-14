@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31020229",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31020229",
+            "title": "谷歌搜索落後於競爭對手的三個領域：代碼、烹飪、旅遊",
+            "summary": "Three areas where Google Search lags behind competitors: code, cooking, travel",
+            "date_modified": "2022-04-13T21:03:15.000Z",
+            "author": {
+                "name": "swethmandava",
+                "url": "https://news.ycombinator.com/user?id=swethmandava"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31015652",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31015652",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "alangibson",
                 "url": "https://news.ycombinator.com/user?id=alangibson"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30539292",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30539292",
-            "title": "我如何看待數字",
-            "summary": "How I See Numbers",
-            "date_modified": "2022-03-03T10:24:28.000Z",
-            "author": {
-                "name": "igpay",
-                "url": "https://news.ycombinator.com/user?id=igpay"
             }
         }
     ]
