@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 14 Apr 2022 20:45:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 23:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们失去了54000个GitHub之星]]></title>
+            <link>https://news.ycombinator.com/item?id=31033758</link>
+            <guid>https://news.ycombinator.com/item?id=31033758</guid>
+            <pubDate>Thu, 14 Apr 2022 21:51:09 GMT</pubDate>
+            <description><![CDATA[We lost 54k GitHub stars]]></description>
+        </item>
         <item>
             <title><![CDATA[告诉HN：今天44岁了，我很迷茫]]></title>
             <link>https://news.ycombinator.com/item?id=31028795</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30542953</guid>
             <pubDate>Thu, 03 Mar 2022 16:19:43 GMT</pubDate>
             <description><![CDATA[Ask HN: Why do my online accounts keep getting banned?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[传单由基辅的乌克兰公民弗拉基米尔-阿加方金在11年前创作。]]></title>
-            <link>https://news.ycombinator.com/item?id=30551006</link>
-            <guid>https://news.ycombinator.com/item?id=30551006</guid>
-            <pubDate>Fri, 04 Mar 2022 05:27:39 GMT</pubDate>
-            <description><![CDATA[Leaflet was created 11yrs ago by Vladimir Agafonkin, a Ukrainian citizen in Kyiv]]></description>
         </item>
     </channel>
 </rss>
