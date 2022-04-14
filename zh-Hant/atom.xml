@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-14T11:52:16.968Z</updated>
+    <updated>2022-04-14T13:50:35.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果的M1 Ultra帶有32MB的TLB瓶頸]]></title>
+        <id>https://news.ycombinator.com/item?id=31020484</id>
+        <link href="https://news.ycombinator.com/item?id=31020484"/>
+        <updated>2022-04-13T21:24:41.000Z</updated>
+        <summary type="html"><![CDATA[Apple's M1 Ultra comes with a 32MB TLB bottleneck]]></summary>
+        <author>
+            <name>retskrad</name>
+            <uri>https://news.ycombinator.com/user?id=retskrad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃隆-馬斯克啟動430億美元敵意收購Twitter]]></title>
         <id>https://news.ycombinator.com/item?id=31025061</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>danso</name>
             <uri>https://news.ycombinator.com/user?id=danso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[侵入Nvidia的網絡犯罪分子提出了有史以來最不尋常的要求之一]]></title>
-        <id>https://news.ycombinator.com/item?id=30550028</id>
-        <link href="https://news.ycombinator.com/item?id=30550028"/>
-        <updated>2022-03-04T02:46:58.000Z</updated>
-        <summary type="html"><![CDATA[Cybercriminals who breached Nvidia issue one of the most unusual demands ever]]></summary>
-        <author>
-            <name>jbredeche</name>
-            <uri>https://news.ycombinator.com/user?id=jbredeche</uri>
         </author>
     </entry>
 </feed>
