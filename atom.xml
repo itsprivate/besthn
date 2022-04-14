@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-14T10:39:09.737Z</updated>
+    <updated>2022-04-14T11:52:16.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[埃隆-马斯克启动430亿美元敌意收购Twitter]]></title>
+        <id>https://news.ycombinator.com/item?id=31025061</id>
+        <link href="https://news.ycombinator.com/item?id=31025061"/>
+        <updated>2022-04-14T10:24:06.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk Launches $43B Hostile Takeover of Twitter]]></summary>
+        <author>
+            <name>zegl</name>
+            <uri>https://news.ycombinator.com/user?id=zegl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Facebook开源Lexical，一个可扩展的文本编辑器库]]></title>
         <id>https://news.ycombinator.com/item?id=31019778</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jbredeche</name>
             <uri>https://news.ycombinator.com/user?id=jbredeche</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纽约时报》技术工人投票认证工会]]></title>
-        <id>https://news.ycombinator.com/item?id=30548508</id>
-        <link href="https://news.ycombinator.com/item?id=30548508"/>
-        <updated>2022-03-03T23:27:51.000Z</updated>
-        <summary type="html"><![CDATA[New York Times tech workers vote to certify union]]></summary>
-        <author>
-            <name>hughmandeville</name>
-            <uri>https://news.ycombinator.com/user?id=hughmandeville</uri>
         </author>
     </entry>
 </feed>
