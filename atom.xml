@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-14T13:50:35.085Z</updated>
+    <updated>2022-04-14T15:38:31.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我为什么退出这场战斗]]></title>
+        <id>https://news.ycombinator.com/item?id=31021652</id>
+        <link href="https://news.ycombinator.com/item?id=31021652"/>
+        <updated>2022-04-13T23:37:21.000Z</updated>
+        <summary type="html"><![CDATA[Why I quit this battle]]></summary>
+        <author>
+            <name>Flollop</name>
+            <uri>https://news.ycombinator.com/user?id=Flollop</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果的M1 Ultra带有32MB的TLB瓶颈]]></title>
         <id>https://news.ycombinator.com/item?id=31020484</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jseliger</name>
             <uri>https://news.ycombinator.com/user?id=jseliger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弱者如何取胜--关于持久战的入门读本]]></title>
-        <id>https://news.ycombinator.com/item?id=30548631</id>
-        <link href="https://news.ycombinator.com/item?id=30548631"/>
-        <updated>2022-03-03T23:42:08.000Z</updated>
-        <summary type="html"><![CDATA[How the weak can win – A primer on protracted war]]></summary>
-        <author>
-            <name>danso</name>
-            <uri>https://news.ycombinator.com/user?id=danso</uri>
         </author>
     </entry>
 </feed>

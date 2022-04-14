@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 14 Apr 2022 13:50:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 15:38:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我為什麼退出這場戰鬥]]></title>
+            <link>https://news.ycombinator.com/item?id=31021652</link>
+            <guid>https://news.ycombinator.com/item?id=31021652</guid>
+            <pubDate>Wed, 13 Apr 2022 23:37:21 GMT</pubDate>
+            <description><![CDATA[Why I quit this battle]]></description>
+        </item>
         <item>
             <title><![CDATA[蘋果的M1 Ultra帶有32MB的TLB瓶頸]]></title>
             <link>https://news.ycombinator.com/item?id=31020484</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30528443</guid>
             <pubDate>Wed, 02 Mar 2022 15:31:32 GMT</pubDate>
             <description><![CDATA[P. J. O'Rourke, 1947-2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[弱者如何取勝--關於持久戰的入門讀本]]></title>
-            <link>https://news.ycombinator.com/item?id=30548631</link>
-            <guid>https://news.ycombinator.com/item?id=30548631</guid>
-            <pubDate>Thu, 03 Mar 2022 23:42:08 GMT</pubDate>
-            <description><![CDATA[How the weak can win – A primer on protracted war]]></description>
         </item>
     </channel>
 </rss>
