@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-14T04:58:20.413Z</updated>
+    <updated>2022-04-14T10:39:09.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Facebook开源Lexical，一个可扩展的文本编辑器库]]></title>
+        <id>https://news.ycombinator.com/item?id=31019778</id>
+        <link href="https://news.ycombinator.com/item?id=31019778"/>
+        <updated>2022-04-13T20:22:51.000Z</updated>
+        <summary type="html"><![CDATA[Facebook open sources Lexical, an extensible text editor library]]></summary>
+        <author>
+            <name>crousto</name>
+            <uri>https://news.ycombinator.com/user?id=crousto</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你是否创建了只供你个人使用的程序？]]></title>
         <id>https://news.ycombinator.com/item?id=31018836</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hughmandeville</name>
             <uri>https://news.ycombinator.com/user?id=hughmandeville</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任天堂正在从YouTube上删除Steam Deck上的开关仿真视频]]></title>
-        <id>https://news.ycombinator.com/item?id=30546274</id>
-        <link href="https://news.ycombinator.com/item?id=30546274"/>
-        <updated>2022-03-03T20:15:12.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo is removing switch emulation videos on Steam Deck from YouTube]]></summary>
-        <author>
-            <name>throwaway2048</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway2048</uri>
         </author>
     </entry>
 </feed>
