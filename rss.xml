@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 15 Apr 2022 14:52:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 15:56:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用再生疗法逆转听力损失]]></title>
+            <link>https://news.ycombinator.com/item?id=31039242</link>
+            <guid>https://news.ycombinator.com/item?id=31039242</guid>
+            <pubDate>Fri, 15 Apr 2022 12:09:16 GMT</pubDate>
+            <description><![CDATA[Reversing hearing loss with regenerative therapy]]></description>
+        </item>
         <item>
             <title><![CDATA[买一台 "哑巴 "电视仍然是愚蠢的、困难的事情]]></title>
             <link>https://news.ycombinator.com/item?id=31037729</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30557205</guid>
             <pubDate>Fri, 04 Mar 2022 16:53:48 GMT</pubDate>
             <description><![CDATA[Tim Cook tells employees the return to offices will begin on April 11th]]></description>
-        </item>
-        <item>
-            <title><![CDATA[YouTube因播放特朗普否认选举结果的片段而暂停了《国会山报》的报道]]></title>
-            <link>https://news.ycombinator.com/item?id=30562131</link>
-            <guid>https://news.ycombinator.com/item?id=30562131</guid>
-            <pubDate>Fri, 04 Mar 2022 23:42:33 GMT</pubDate>
-            <description><![CDATA[YouTube suspends The Hill for playing clip of Trump denying election results]]></description>
         </item>
     </channel>
 </rss>

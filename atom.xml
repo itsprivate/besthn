@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-15T14:52:26.397Z</updated>
+    <updated>2022-04-15T15:56:01.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用再生疗法逆转听力损失]]></title>
+        <id>https://news.ycombinator.com/item?id=31039242</id>
+        <link href="https://news.ycombinator.com/item?id=31039242"/>
+        <updated>2022-04-15T12:09:16.000Z</updated>
+        <summary type="html"><![CDATA[Reversing hearing loss with regenerative therapy]]></summary>
+        <author>
+            <name>maxerickson</name>
+            <uri>https://news.ycombinator.com/user?id=maxerickson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[买一台 "哑巴 "电视仍然是愚蠢的、困难的事情]]></title>
         <id>https://news.ycombinator.com/item?id=31037729</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>polar8</name>
             <uri>https://news.ycombinator.com/user?id=polar8</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube因播放特朗普否认选举结果的片段而暂停了《国会山报》的报道]]></title>
-        <id>https://news.ycombinator.com/item?id=30562131</id>
-        <link href="https://news.ycombinator.com/item?id=30562131"/>
-        <updated>2022-03-04T23:42:33.000Z</updated>
-        <summary type="html"><![CDATA[YouTube suspends The Hill for playing clip of Trump denying election results]]></summary>
-        <author>
-            <name>snomad</name>
-            <uri>https://news.ycombinator.com/user?id=snomad</uri>
         </author>
     </entry>
 </feed>
