@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 15 Apr 2022 18:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 18:58:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[邓宁-克鲁格效应就是自相矛盾]]></title>
+            <link>https://news.ycombinator.com/item?id=31036800</link>
+            <guid>https://news.ycombinator.com/item?id=31036800</guid>
+            <pubDate>Fri, 15 Apr 2022 05:15:58 GMT</pubDate>
+            <description><![CDATA[The Dunning-Kruger Effect Is Autocorrelation]]></description>
+        </item>
+        <item>
+            <title><![CDATA[茴香。一个实用的Lisp]]></title>
+            <link>https://news.ycombinator.com/item?id=31029478</link>
+            <guid>https://news.ycombinator.com/item?id=31029478</guid>
+            <pubDate>Thu, 14 Apr 2022 16:45:22 GMT</pubDate>
+            <description><![CDATA[Fennel: A Practical Lisp]]></description>
+        </item>
         <item>
             <title><![CDATA[Neovim 0.7版发布]]></title>
             <link>https://news.ycombinator.com/item?id=31039569</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30553243</guid>
             <pubDate>Fri, 04 Mar 2022 11:20:38 GMT</pubDate>
             <description><![CDATA[BBC resurrects shortwave broadcasts as Russia blocks news of Ukraine invasion]]></description>
-        </item>
-        <item>
-            <title><![CDATA[可能的BGP劫持]]></title>
-            <link>https://news.ycombinator.com/item?id=30561518</link>
-            <guid>https://news.ycombinator.com/item?id=30561518</guid>
-            <pubDate>Fri, 04 Mar 2022 22:34:17 GMT</pubDate>
-            <description><![CDATA[Possible BGP hijack]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蘑菇。环保包装、建筑方面的下一个大事件？]]></title>
-            <link>https://news.ycombinator.com/item?id=30557088</link>
-            <guid>https://news.ycombinator.com/item?id=30557088</guid>
-            <pubDate>Fri, 04 Mar 2022 16:43:34 GMT</pubDate>
-            <description><![CDATA[Mushrooms: Next big thing in environmentally-friendly packaging, construction?]]></description>
         </item>
     </channel>
 </rss>
