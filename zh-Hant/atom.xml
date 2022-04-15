@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-15T06:14:51.100Z</updated>
+    <updated>2022-04-15T11:12:14.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼德國不會繼續開放其核電站]]></title>
+        <id>https://news.ycombinator.com/item?id=31033412</id>
+        <link href="https://news.ycombinator.com/item?id=31033412"/>
+        <updated>2022-04-14T21:16:21.000Z</updated>
+        <summary type="html"><![CDATA[Why Germany won’t keep its nuclear plants open]]></summary>
+        <author>
+            <name>jseliger</name>
+            <uri>https://news.ycombinator.com/user?id=jseliger</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Star Labs StarBook - AMD 14" Linux筆記本電腦，採用coreboot和 "開放保修"。]]></title>
         <id>https://news.ycombinator.com/item?id=31034024</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>neilpanchal</name>
             <uri>https://news.ycombinator.com/user?id=neilpanchal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果密碼是強大的、獨特的、沒有被破壞的，就沒有必要改變密碼。]]></title>
-        <id>https://news.ycombinator.com/item?id=30554714</id>
-        <link href="https://news.ycombinator.com/item?id=30554714"/>
-        <updated>2022-03-04T13:53:43.000Z</updated>
-        <summary type="html"><![CDATA[There’s no need to change passwords if they're robust, unique and not breached]]></summary>
-        <author>
-            <name>abzug</name>
-            <uri>https://news.ycombinator.com/user?id=abzug</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 15 Apr 2022 06:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 11:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼德國不會繼續開放其核電站]]></title>
+            <link>https://news.ycombinator.com/item?id=31033412</link>
+            <guid>https://news.ycombinator.com/item?id=31033412</guid>
+            <pubDate>Thu, 14 Apr 2022 21:16:21 GMT</pubDate>
+            <description><![CDATA[Why Germany won’t keep its nuclear plants open]]></description>
+        </item>
         <item>
             <title><![CDATA[Star Labs StarBook - AMD 14" Linux筆記本電腦，採用coreboot和 "開放保修"。]]></title>
             <link>https://news.ycombinator.com/item?id=31034024</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30557557</guid>
             <pubDate>Fri, 04 Mar 2022 17:21:25 GMT</pubDate>
             <description><![CDATA[Show HN: Berkeley Mono Typeface]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果密碼是強大的、獨特的、沒有被破壞的，就沒有必要改變密碼。]]></title>
-            <link>https://news.ycombinator.com/item?id=30554714</link>
-            <guid>https://news.ycombinator.com/item?id=30554714</guid>
-            <pubDate>Fri, 04 Mar 2022 13:53:43 GMT</pubDate>
-            <description><![CDATA[There’s no need to change passwords if they're robust, unique and not breached]]></description>
         </item>
     </channel>
 </rss>
