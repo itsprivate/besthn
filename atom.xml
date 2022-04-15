@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-14T23:12:38.056Z</updated>
+    <updated>2022-04-15T02:55:37.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[以太坊有问题]]></title>
+        <id>https://news.ycombinator.com/item?id=31029504</id>
+        <link href="https://news.ycombinator.com/item?id=31029504"/>
+        <updated>2022-04-14T16:46:48.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Has Issues]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Youtube.js - 围绕YouTube的私有API的全功能包装器]]></title>
+        <id>https://news.ycombinator.com/item?id=31021611</id>
+        <link href="https://news.ycombinator.com/item?id=31021611"/>
+        <updated>2022-04-13T23:31:54.000Z</updated>
+        <summary type="html"><![CDATA[Youtube.js – full-featured wrapper around YouTube's private API]]></summary>
+        <author>
+            <name>mahnouel</name>
+            <uri>https://news.ycombinator.com/user?id=mahnouel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们失去了54000个GitHub之星]]></title>
         <id>https://news.ycombinator.com/item?id=31033758</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>eddyerburgh</name>
             <uri>https://news.ycombinator.com/user?id=eddyerburgh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对资优教育的战争]]></title>
-        <id>https://news.ycombinator.com/item?id=30544484</id>
-        <link href="https://news.ycombinator.com/item?id=30544484"/>
-        <updated>2022-03-03T18:09:35.000Z</updated>
-        <summary type="html"><![CDATA[The war on gifted education]]></summary>
-        <author>
-            <name>paulpauper</name>
-            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么我的在线账户总是被禁止？]]></title>
-        <id>https://news.ycombinator.com/item?id=30542953</id>
-        <link href="https://news.ycombinator.com/item?id=30542953"/>
-        <updated>2022-03-03T16:19:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do my online accounts keep getting banned?]]></summary>
-        <author>
-            <name>lopkeny12ko</name>
-            <uri>https://news.ycombinator.com/user?id=lopkeny12ko</uri>
         </author>
     </entry>
 </feed>
