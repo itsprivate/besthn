@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-15T15:56:01.933Z</updated>
+    <updated>2022-04-15T18:15:59.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Neovim 0.7版發佈]]></title>
+        <id>https://news.ycombinator.com/item?id=31039569</id>
+        <link href="https://news.ycombinator.com/item?id=31039569"/>
+        <updated>2022-04-15T12:45:47.000Z</updated>
+        <summary type="html"><![CDATA[Neovim 0.7 Released]]></summary>
+        <author>
+            <name>akrifari</name>
+            <uri>https://news.ycombinator.com/user?id=akrifari</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用再生療法逆轉聽力損失]]></title>
         <id>https://news.ycombinator.com/item?id=31039242</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>DocFeind</name>
             <uri>https://news.ycombinator.com/user?id=DocFeind</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蒂姆-庫克告訴員工，迴歸辦公室將從4月11日開始]]></title>
-        <id>https://news.ycombinator.com/item?id=30557205</id>
-        <link href="https://news.ycombinator.com/item?id=30557205"/>
-        <updated>2022-03-04T16:53:48.000Z</updated>
-        <summary type="html"><![CDATA[Tim Cook tells employees the return to offices will begin on April 11th]]></summary>
-        <author>
-            <name>polar8</name>
-            <uri>https://news.ycombinator.com/user?id=polar8</uri>
         </author>
     </entry>
 </feed>

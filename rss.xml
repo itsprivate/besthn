@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 15 Apr 2022 15:56:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 18:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Neovim 0.7版发布]]></title>
+            <link>https://news.ycombinator.com/item?id=31039569</link>
+            <guid>https://news.ycombinator.com/item?id=31039569</guid>
+            <pubDate>Fri, 15 Apr 2022 12:45:47 GMT</pubDate>
+            <description><![CDATA[Neovim 0.7 Released]]></description>
+        </item>
         <item>
             <title><![CDATA[用再生疗法逆转听力损失]]></title>
             <link>https://news.ycombinator.com/item?id=31039242</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30557088</guid>
             <pubDate>Fri, 04 Mar 2022 16:43:34 GMT</pubDate>
             <description><![CDATA[Mushrooms: Next big thing in environmentally-friendly packaging, construction?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蒂姆-库克告诉员工，回归办公室将从4月11日开始]]></title>
-            <link>https://news.ycombinator.com/item?id=30557205</link>
-            <guid>https://news.ycombinator.com/item?id=30557205</guid>
-            <pubDate>Fri, 04 Mar 2022 16:53:48 GMT</pubDate>
-            <description><![CDATA[Tim Cook tells employees the return to offices will begin on April 11th]]></description>
         </item>
     </channel>
 </rss>
