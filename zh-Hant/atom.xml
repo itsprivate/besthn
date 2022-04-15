@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-15T02:55:37.936Z</updated>
+    <updated>2022-04-15T04:33:14.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[5分鐘的呼吸訓練降低血壓的效果不亞於運動和藥物 (2021)]]></title>
+        <id>https://news.ycombinator.com/item?id=31034740</id>
+        <link href="https://news.ycombinator.com/item?id=31034740"/>
+        <updated>2022-04-14T23:20:57.000Z</updated>
+        <summary type="html"><![CDATA[5-min breathing workout lowers blood pressure as much as exercise, drugs (2021)]]></summary>
+        <author>
+            <name>car</name>
+            <uri>https://news.ycombinator.com/user?id=car</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京的手稿寫作咖啡館在完成之前不會讓作家離開]]></title>
+        <id>https://news.ycombinator.com/item?id=31012685</id>
+        <link href="https://news.ycombinator.com/item?id=31012685"/>
+        <updated>2022-04-13T09:32:35.000Z</updated>
+        <summary type="html"><![CDATA[Tokyo’s Manuscript Writing Cafe won't let writers leave until they are finished]]></summary>
+        <author>
+            <name>mellosouls</name>
+            <uri>https://news.ycombinator.com/user?id=mellosouls</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以太坊有問題]]></title>
         <id>https://news.ycombinator.com/item?id=31029504</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>thematrixturtle</name>
             <uri>https://news.ycombinator.com/user?id=thematrixturtle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一直都是你，Canvas2D]]></title>
-        <id>https://news.ycombinator.com/item?id=30553585</id>
-        <link href="https://news.ycombinator.com/item?id=30553585"/>
-        <updated>2022-03-04T12:09:44.000Z</updated>
-        <summary type="html"><![CDATA[It's always been you, Canvas2D]]></summary>
-        <author>
-            <name>rikroots</name>
-            <uri>https://news.ycombinator.com/user?id=rikroots</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌文檔的新功能。無分頁]]></title>
-        <id>https://news.ycombinator.com/item?id=30552142</id>
-        <link href="https://news.ycombinator.com/item?id=30552142"/>
-        <updated>2022-03-04T08:34:31.000Z</updated>
-        <summary type="html"><![CDATA[Google Docs New Feature: Pageless]]></summary>
-        <author>
-            <name>eddyerburgh</name>
-            <uri>https://news.ycombinator.com/user?id=eddyerburgh</uri>
         </author>
     </entry>
 </feed>
