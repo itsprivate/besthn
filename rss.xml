@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 15 Apr 2022 04:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 06:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Star Labs StarBook - AMD 14" Linux笔记本电脑，采用coreboot和 "开放保修"。]]></title>
+            <link>https://news.ycombinator.com/item?id=31034024</link>
+            <guid>https://news.ycombinator.com/item?id=31034024</guid>
+            <pubDate>Thu, 14 Apr 2022 22:15:51 GMT</pubDate>
+            <description><![CDATA[Star Labs StarBook – AMD 14" Linux Laptop with coreboot and “Open warranty”]]></description>
+        </item>
         <item>
             <title><![CDATA[5分钟的呼吸训练降低血压的效果不亚于运动和药物 (2021)]]></title>
             <link>https://news.ycombinator.com/item?id=31034740</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30554714</guid>
             <pubDate>Fri, 04 Mar 2022 13:53:43 GMT</pubDate>
             <description><![CDATA[There’s no need to change passwords if they're robust, unique and not breached]]></description>
-        </item>
-        <item>
-            <title><![CDATA[世界上唯一的一架安-225被俄罗斯空袭摧毁]]></title>
-            <link>https://news.ycombinator.com/item?id=30552270</link>
-            <guid>https://news.ycombinator.com/item?id=30552270</guid>
-            <pubDate>Fri, 04 Mar 2022 08:53:08 GMT</pubDate>
-            <description><![CDATA[World's only An-225 destroyed by Russian airstrikes]]></description>
         </item>
     </channel>
 </rss>
