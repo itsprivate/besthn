@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 15 Apr 2022 21:41:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 22:33:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Moreutils。一個很久以前沒有人想到要寫的Unix工具集]]></title>
+            <link>https://news.ycombinator.com/item?id=31043655</link>
+            <guid>https://news.ycombinator.com/item?id=31043655</guid>
+            <pubDate>Fri, 15 Apr 2022 18:16:08 GMT</pubDate>
+            <description><![CDATA[Moreutils: A collection of Unix tools that nobody thought to write long ago]]></description>
+        </item>
         <item>
             <title><![CDATA[DuckDuckGo從其搜索結果中刪除了海盜網站和YouTube-DL]]></title>
             <link>https://news.ycombinator.com/item?id=31044587</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30564287</guid>
             <pubDate>Sat, 05 Mar 2022 04:34:10 GMT</pubDate>
             <description><![CDATA[A regular expression to check for prime numbers (2007)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使CRDTs具有拜占庭式的容錯能力 [pdf]]]></title>
-            <link>https://news.ycombinator.com/item?id=30560573</link>
-            <guid>https://news.ycombinator.com/item?id=30560573</guid>
-            <pubDate>Fri, 04 Mar 2022 21:05:47 GMT</pubDate>
-            <description><![CDATA[Making CRDTs Byzantine Fault Tolerant [pdf]]]></description>
         </item>
     </channel>
 </rss>
