@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-16T17:42:17.609Z</updated>
+    <updated>2022-04-16T21:30:49.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[慢速社交，一个为朋友而非影响者建立的社交网络]]></title>
+        <id>https://news.ycombinator.com/item?id=31054029</id>
+        <link href="https://news.ycombinator.com/item?id=31054029"/>
+        <updated>2022-04-16T17:09:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Slow Social, a social network built for friends, not influencers]]></summary>
+        <author>
+            <name>CitrusFruits</name>
+            <uri>https://news.ycombinator.com/user?id=CitrusFruits</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[涉及向第三方集成商发放的被盗OAuth令牌的攻击活动]]></title>
         <id>https://news.ycombinator.com/item?id=31046791</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cmoog</name>
             <uri>https://news.ycombinator.com/user?id=cmoog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过CAPTCHA检索你的浏览历史]]></title>
-        <id>https://news.ycombinator.com/item?id=30569396</id>
-        <link href="https://news.ycombinator.com/item?id=30569396"/>
-        <updated>2022-03-05T17:12:39.000Z</updated>
-        <summary type="html"><![CDATA[Retrieving your browsing history through a CAPTCHA]]></summary>
-        <author>
-            <name>varun_ch</name>
-            <uri>https://news.ycombinator.com/user?id=varun_ch</uri>
         </author>
     </entry>
 </feed>
