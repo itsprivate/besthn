@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 16 Apr 2022 05:51:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 06:38:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[過度工程化的日本機械鉛筆[視頻]]]></title>
+            <link>https://news.ycombinator.com/item?id=31024600</link>
+            <guid>https://news.ycombinator.com/item?id=31024600</guid>
+            <pubDate>Thu, 14 Apr 2022 08:43:27 GMT</pubDate>
+            <description><![CDATA[Overengineered Japanese Mechanical Pencils [video]]]></description>
+        </item>
         <item>
             <title><![CDATA[邊境上的拉斯塔斯人]]></title>
             <link>https://news.ycombinator.com/item?id=31037273</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30573660</guid>
             <pubDate>Sun, 06 Mar 2022 00:39:32 GMT</pubDate>
             <description><![CDATA[Mathematically correct breakfast: How to slice a bagel into two linked halves]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我不相信新的實驗室洩密事件的揭發]]></title>
-            <link>https://news.ycombinator.com/item?id=30572290</link>
-            <guid>https://news.ycombinator.com/item?id=30572290</guid>
-            <pubDate>Sat, 05 Mar 2022 21:52:42 GMT</pubDate>
-            <description><![CDATA[I’m not convinced by the new lab leak debunking]]></description>
         </item>
     </channel>
 </rss>
