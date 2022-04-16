@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31046791",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31046791",
+            "title": "涉及向第三方集成商发放的被盗OAuth令牌的攻击活动",
+            "summary": "Attack campaign involving stolen OAuth tokens issued to third-party integrators",
+            "date_modified": "2022-04-15T22:39:16.000Z",
+            "author": {
+                "name": "heyoni",
+                "url": "https://news.ycombinator.com/user?id=heyoni"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31052029",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31052029",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "varun_ch",
                 "url": "https://news.ycombinator.com/user?id=varun_ch"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30578125",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30578125",
-            "title": "莫斯科警察拦下人们，要求他们的手机阅读他们的信息",
-            "summary": "Moscow police officers stop people, request their phones to read their messages",
-            "date_modified": "2022-03-06T15:23:57.000Z",
-            "author": {
-                "name": "mudro_zboris",
-                "url": "https://news.ycombinator.com/user?id=mudro_zboris"
             }
         }
     ]
