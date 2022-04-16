@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 16 Apr 2022 14:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 15:46:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Zig自我托管的编译器现在能够自我构建。]]></title>
+            <link>https://news.ycombinator.com/item?id=31052029</link>
+            <guid>https://news.ycombinator.com/item?id=31052029</guid>
+            <pubDate>Sat, 16 Apr 2022 13:11:28 GMT</pubDate>
+            <description><![CDATA[Zig self hosted compiler is now capable of building itself]]></description>
+        </item>
         <item>
             <title><![CDATA[上海2022年封锁的沉默之死]]></title>
             <link>https://news.ycombinator.com/item?id=31045335</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30578125</guid>
             <pubDate>Sun, 06 Mar 2022 15:23:57 GMT</pubDate>
             <description><![CDATA[Moscow police officers stop people, request their phones to read their messages]]></description>
-        </item>
-        <item>
-            <title><![CDATA[IBM开放全功能乐高显微镜设计来源（2020年）]]></title>
-            <link>https://news.ycombinator.com/item?id=30576285</link>
-            <guid>https://news.ycombinator.com/item?id=30576285</guid>
-            <pubDate>Sun, 06 Mar 2022 09:41:24 GMT</pubDate>
-            <description><![CDATA[IBM open sources fully-functional Lego microscope design (2020)]]></description>
         </item>
     </channel>
 </rss>
