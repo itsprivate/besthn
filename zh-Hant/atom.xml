@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-16T21:30:49.295Z</updated>
+    <updated>2022-04-16T21:51:38.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[膠片相機如何將日期疊加到照片上[視頻]]]></title>
+        <id>https://news.ycombinator.com/item?id=31031929</id>
+        <link href="https://news.ycombinator.com/item?id=31031929"/>
+        <updated>2022-04-14T19:15:37.000Z</updated>
+        <summary type="html"><![CDATA[How a film camera superimposes the date onto photos [video]]]></summary>
+        <author>
+            <name>aacook</name>
+            <uri>https://news.ycombinator.com/user?id=aacook</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[慢速社交，一個為朋友而非影響者建立的社交網絡]]></title>
         <id>https://news.ycombinator.com/item?id=31054029</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>h0ek</name>
             <uri>https://news.ycombinator.com/user?id=h0ek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼UberEats上有一個TikTok跟蹤像素，這是什麼垃圾？]]></title>
-        <id>https://news.ycombinator.com/item?id=30579320</id>
-        <link href="https://news.ycombinator.com/item?id=30579320"/>
-        <updated>2022-03-06T17:45:26.000Z</updated>
-        <summary type="html"><![CDATA[Why is there a TikTok tracking pixel on UberEats what is this crap?]]></summary>
-        <author>
-            <name>cmoog</name>
-            <uri>https://news.ycombinator.com/user?id=cmoog</uri>
         </author>
     </entry>
 </feed>
