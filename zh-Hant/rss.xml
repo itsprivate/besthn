@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 16 Apr 2022 07:52:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 10:52:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Heroku安全通知]]></title>
+            <link>https://news.ycombinator.com/item?id=31048646</link>
+            <guid>https://news.ycombinator.com/item?id=31048646</guid>
+            <pubDate>Sat, 16 Apr 2022 02:20:10 GMT</pubDate>
+            <description><![CDATA[Heroku Security Notification]]></description>
+        </item>
         <item>
             <title><![CDATA[國際股票操縱團伙的10名成員在曼哈頓被起訴]]></title>
             <link>https://news.ycombinator.com/item?id=31044629</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30566111</guid>
             <pubDate>Sat, 05 Mar 2022 10:06:36 GMT</pubDate>
             <description><![CDATA[The hardest program I've ever written (2015)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[繞過付費牆：一個瀏覽器擴展，幫助繞過選定網站的付費牆。]]></title>
-            <link>https://news.ycombinator.com/item?id=30559520</link>
-            <guid>https://news.ycombinator.com/item?id=30559520</guid>
-            <pubDate>Fri, 04 Mar 2022 19:52:00 GMT</pubDate>
-            <description><![CDATA[Bypass Paywalls: a browser extension to help bypass paywalls for selected sites]]></description>
         </item>
     </channel>
 </rss>
