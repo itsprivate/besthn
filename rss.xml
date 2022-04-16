@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 16 Apr 2022 03:43:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 04:42:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在招聘开发人员时，让候选人阅读现有的代码]]></title>
+            <link>https://news.ycombinator.com/item?id=31047409</link>
+            <guid>https://news.ycombinator.com/item?id=31047409</guid>
+            <pubDate>Fri, 15 Apr 2022 23:51:19 GMT</pubDate>
+            <description><![CDATA[When hiring developers, have the candidate read existing code]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我对埃隆对推特的提议的看法]]></title>
+            <link>https://news.ycombinator.com/item?id=31044693</link>
+            <guid>https://news.ycombinator.com/item?id=31044693</guid>
+            <pubDate>Fri, 15 Apr 2022 19:30:08 GMT</pubDate>
+            <description><![CDATA[My take on Elon's offer for Twitter]]></description>
+        </item>
         <item>
             <title><![CDATA[Shirky.com已经消失了]]></title>
             <link>https://news.ycombinator.com/item?id=31038660</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30557578</guid>
             <pubDate>Fri, 04 Mar 2022 17:22:48 GMT</pubDate>
             <description><![CDATA[Modern smartphone lenses are crazy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GE不会让我在不连接WiFi的情况下使用新烤箱的对流式烤肉]]></title>
-            <link>https://news.ycombinator.com/item?id=30570027</link>
-            <guid>https://news.ycombinator.com/item?id=30570027</guid>
-            <pubDate>Sat, 05 Mar 2022 18:02:55 GMT</pubDate>
-            <description><![CDATA[GE won’t let me use convection roast on my new oven without connecting to WiFi]]></description>
-        </item>
-        <item>
-            <title><![CDATA[战争时期是扰乱互联网的坏时机]]></title>
-            <link>https://news.ycombinator.com/item?id=30553859</link>
-            <guid>https://news.ycombinator.com/item?id=30553859</guid>
-            <pubDate>Fri, 04 Mar 2022 12:39:22 GMT</pubDate>
-            <description><![CDATA[Wartime Is a Bad Time to Mess with the Internet]]></description>
         </item>
     </channel>
 </rss>

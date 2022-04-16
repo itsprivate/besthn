@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-16T03:43:01.258Z</updated>
+    <updated>2022-04-16T04:42:18.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在招聘开发人员时，让候选人阅读现有的代码]]></title>
+        <id>https://news.ycombinator.com/item?id=31047409</id>
+        <link href="https://news.ycombinator.com/item?id=31047409"/>
+        <updated>2022-04-15T23:51:19.000Z</updated>
+        <summary type="html"><![CDATA[When hiring developers, have the candidate read existing code]]></summary>
+        <author>
+            <name>ewag</name>
+            <uri>https://news.ycombinator.com/user?id=ewag</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我对埃隆对推特的提议的看法]]></title>
+        <id>https://news.ycombinator.com/item?id=31044693</id>
+        <link href="https://news.ycombinator.com/item?id=31044693"/>
+        <updated>2022-04-15T19:30:08.000Z</updated>
+        <summary type="html"><![CDATA[My take on Elon's offer for Twitter]]></summary>
+        <author>
+            <name>slg</name>
+            <uri>https://news.ycombinator.com/user?id=slg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shirky.com已经消失了]]></title>
         <id>https://news.ycombinator.com/item?id=31038660</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>luu</name>
             <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GE不会让我在不连接WiFi的情况下使用新烤箱的对流式烤肉]]></title>
-        <id>https://news.ycombinator.com/item?id=30570027</id>
-        <link href="https://news.ycombinator.com/item?id=30570027"/>
-        <updated>2022-03-05T18:02:55.000Z</updated>
-        <summary type="html"><![CDATA[GE won’t let me use convection roast on my new oven without connecting to WiFi]]></summary>
-        <author>
-            <name>ilamont</name>
-            <uri>https://news.ycombinator.com/user?id=ilamont</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[战争时期是扰乱互联网的坏时机]]></title>
-        <id>https://news.ycombinator.com/item?id=30553859</id>
-        <link href="https://news.ycombinator.com/item?id=30553859"/>
-        <updated>2022-03-04T12:39:22.000Z</updated>
-        <summary type="html"><![CDATA[Wartime Is a Bad Time to Mess with the Internet]]></summary>
-        <author>
-            <name>CTOSian</name>
-            <uri>https://news.ycombinator.com/user?id=CTOSian</uri>
         </author>
     </entry>
 </feed>

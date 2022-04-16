@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31047409",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31047409",
+            "title": "在招聘開發人員時，讓候選人閱讀現有的代碼",
+            "summary": "When hiring developers, have the candidate read existing code",
+            "date_modified": "2022-04-15T23:51:19.000Z",
+            "author": {
+                "name": "ewag",
+                "url": "https://news.ycombinator.com/user?id=ewag"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31044693",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31044693",
+            "title": "我對埃隆對推特的提議的看法",
+            "summary": "My take on Elon's offer for Twitter",
+            "date_modified": "2022-04-15T19:30:08.000Z",
+            "author": {
+                "name": "slg",
+                "url": "https://news.ycombinator.com/user?id=slg"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31038660",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31038660",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "luu",
                 "url": "https://news.ycombinator.com/user?id=luu"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30570027",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30570027",
-            "title": "GE不會讓我在不連接WiFi的情況下使用新烤箱的對流式烤肉",
-            "summary": "GE won’t let me use convection roast on my new oven without connecting to WiFi",
-            "date_modified": "2022-03-05T18:02:55.000Z",
-            "author": {
-                "name": "ilamont",
-                "url": "https://news.ycombinator.com/user?id=ilamont"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30553859",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30553859",
-            "title": "戰爭時期是擾亂互聯網的壞時機",
-            "summary": "Wartime Is a Bad Time to Mess with the Internet",
-            "date_modified": "2022-03-04T12:39:22.000Z",
-            "author": {
-                "name": "CTOSian",
-                "url": "https://news.ycombinator.com/user?id=CTOSian"
             }
         }
     ]
