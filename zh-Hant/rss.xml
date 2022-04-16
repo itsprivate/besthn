@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 16 Apr 2022 04:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 05:51:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[邊境上的拉斯塔斯人]]></title>
+            <link>https://news.ycombinator.com/item?id=31037273</link>
+            <guid>https://news.ycombinator.com/item?id=31037273</guid>
+            <pubDate>Fri, 15 Apr 2022 06:56:23 GMT</pubDate>
+            <description><![CDATA[Rustaceans at the border]]></description>
+        </item>
         <item>
             <title><![CDATA[在招聘開發人員時，讓候選人閱讀現有的代碼]]></title>
             <link>https://news.ycombinator.com/item?id=31047409</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30572290</guid>
             <pubDate>Sat, 05 Mar 2022 21:52:42 GMT</pubDate>
             <description><![CDATA[I’m not convinced by the new lab leak debunking]]></description>
-        </item>
-        <item>
-            <title><![CDATA[現代智能手機的鏡頭很瘋狂]]></title>
-            <link>https://news.ycombinator.com/item?id=30557578</link>
-            <guid>https://news.ycombinator.com/item?id=30557578</guid>
-            <pubDate>Fri, 04 Mar 2022 17:22:48 GMT</pubDate>
-            <description><![CDATA[Modern smartphone lenses are crazy]]></description>
         </item>
     </channel>
 </rss>
