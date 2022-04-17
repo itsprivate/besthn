@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 16 Apr 2022 21:51:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 00:43:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Twitch上最受欢迎的国际象棋流媒体人]]></title>
+            <link>https://news.ycombinator.com/item?id=31013829</link>
+            <guid>https://news.ycombinator.com/item?id=31013829</guid>
+            <pubDate>Wed, 13 Apr 2022 12:27:32 GMT</pubDate>
+            <description><![CDATA[The most popular chess streamer on Twitch]]></description>
+        </item>
         <item>
             <title><![CDATA[胶片相机如何将日期叠加到照片上[视频]]]></title>
             <link>https://news.ycombinator.com/item?id=31031929</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30582202</guid>
             <pubDate>Sun, 06 Mar 2022 23:09:06 GMT</pubDate>
             <description><![CDATA[My lizard brain is no match for infinite scroll]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Windows Defender已经足够了，如果你对它进行加固的话]]></title>
-            <link>https://news.ycombinator.com/item?id=30580444</link>
-            <guid>https://news.ycombinator.com/item?id=30580444</guid>
-            <pubDate>Sun, 06 Mar 2022 19:37:32 GMT</pubDate>
-            <description><![CDATA[Windows Defender is enough, if you harden it]]></description>
         </item>
     </channel>
 </rss>
