@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 17 Apr 2022 08:37:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 08:54:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[波德曼桌面伴侶GUI--在所有主要操作系統上的平等性]]></title>
+            <link>https://news.ycombinator.com/item?id=31055475</link>
+            <guid>https://news.ycombinator.com/item?id=31055475</guid>
+            <pubDate>Sat, 16 Apr 2022 19:45:37 GMT</pubDate>
+            <description><![CDATA[Podman Desktop Companion GUI – Parity on All Major Operating Systems]]></description>
+        </item>
         <item>
             <title><![CDATA[100位在新澤西州同一所高中就讀的罕見癌症患者要求回答]]></title>
             <link>https://news.ycombinator.com/item?id=31056262</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30586740</guid>
             <pubDate>Mon, 07 Mar 2022 12:01:43 GMT</pubDate>
             <description><![CDATA[The Dirty Pipe Vulnerability]]></description>
-        </item>
-        <item>
-            <title><![CDATA[現代硬件的算法]]></title>
-            <link>https://news.ycombinator.com/item?id=30583808</link>
-            <guid>https://news.ycombinator.com/item?id=30583808</guid>
-            <pubDate>Mon, 07 Mar 2022 03:09:30 GMT</pubDate>
-            <description><![CDATA[Algorithms for Modern Hardware]]></description>
         </item>
     </channel>
 </rss>
