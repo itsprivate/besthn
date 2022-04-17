@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 17 Apr 2022 00:43:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 02:26:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Netflix第一系列結束]]></title>
+            <link>https://news.ycombinator.com/item?id=31051662</link>
+            <guid>https://news.ycombinator.com/item?id=31051662</guid>
+            <pubDate>Sat, 16 Apr 2022 12:09:27 GMT</pubDate>
+            <description><![CDATA[Netflix End of Series 1]]></description>
+        </item>
+        <item>
+            <title><![CDATA[27年前，我意外地舉辦了最難、最奇怪的復活節彩蛋活動]]></title>
+            <link>https://news.ycombinator.com/item?id=31051223</link>
+            <guid>https://news.ycombinator.com/item?id=31051223</guid>
+            <pubDate>Sat, 16 Apr 2022 10:28:10 GMT</pubDate>
+            <description><![CDATA[27 years ago I accidentally ran the hardest, strangest Easter egg hunt]]></description>
+        </item>
         <item>
             <title><![CDATA[Twitch上最受歡迎的國際象棋流媒體人]]></title>
             <link>https://news.ycombinator.com/item?id=31013829</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30579884</guid>
             <pubDate>Sun, 06 Mar 2022 18:41:19 GMT</pubDate>
             <description><![CDATA[C++ Cheat Sheets]]></description>
-        </item>
-        <item>
-            <title><![CDATA[關閉YouTube-dl的運動仍在繼續]]></title>
-            <link>https://news.ycombinator.com/item?id=30582986</link>
-            <guid>https://news.ycombinator.com/item?id=30582986</guid>
-            <pubDate>Mon, 07 Mar 2022 01:09:09 GMT</pubDate>
-            <description><![CDATA[The campaign to shut down YouTube-dl continues]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我的蜥蜴大腦比不上無限的滾動]]></title>
-            <link>https://news.ycombinator.com/item?id=30582202</link>
-            <guid>https://news.ycombinator.com/item?id=30582202</guid>
-            <pubDate>Sun, 06 Mar 2022 23:09:06 GMT</pubDate>
-            <description><![CDATA[My lizard brain is no match for infinite scroll]]></description>
         </item>
     </channel>
 </rss>

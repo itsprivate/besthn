@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-17T00:43:36.649Z</updated>
+    <updated>2022-04-17T02:26:11.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Netflix第一系列結束]]></title>
+        <id>https://news.ycombinator.com/item?id=31051662</id>
+        <link href="https://news.ycombinator.com/item?id=31051662"/>
+        <updated>2022-04-16T12:09:27.000Z</updated>
+        <summary type="html"><![CDATA[Netflix End of Series 1]]></summary>
+        <author>
+            <name>heinrichhartman</name>
+            <uri>https://news.ycombinator.com/user?id=heinrichhartman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[27年前，我意外地舉辦了最難、最奇怪的復活節彩蛋活動]]></title>
+        <id>https://news.ycombinator.com/item?id=31051223</id>
+        <link href="https://news.ycombinator.com/item?id=31051223"/>
+        <updated>2022-04-16T10:28:10.000Z</updated>
+        <summary type="html"><![CDATA[27 years ago I accidentally ran the hardest, strangest Easter egg hunt]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitch上最受歡迎的國際象棋流媒體人]]></title>
         <id>https://news.ycombinator.com/item?id=31013829</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ibobev</name>
             <uri>https://news.ycombinator.com/user?id=ibobev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關閉YouTube-dl的運動仍在繼續]]></title>
-        <id>https://news.ycombinator.com/item?id=30582986</id>
-        <link href="https://news.ycombinator.com/item?id=30582986"/>
-        <updated>2022-03-07T01:09:09.000Z</updated>
-        <summary type="html"><![CDATA[The campaign to shut down YouTube-dl continues]]></summary>
-        <author>
-            <name>DiabloD3</name>
-            <uri>https://news.ycombinator.com/user?id=DiabloD3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的蜥蜴大腦比不上無限的滾動]]></title>
-        <id>https://news.ycombinator.com/item?id=30582202</id>
-        <link href="https://news.ycombinator.com/item?id=30582202"/>
-        <updated>2022-03-06T23:09:06.000Z</updated>
-        <summary type="html"><![CDATA[My lizard brain is no match for infinite scroll]]></summary>
-        <author>
-            <name>otras</name>
-            <uri>https://news.ycombinator.com/user?id=otras</uri>
         </author>
     </entry>
 </feed>
