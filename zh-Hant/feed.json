@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31056262",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31056262",
+            "title": "100位在新澤西州同一所高中就讀的罕見癌症患者要求回答",
+            "summary": "100 People with rare cancers who attended same NJ high school demand answers",
+            "date_modified": "2022-04-16T21:30:58.000Z",
+            "author": {
+                "name": "RickJWagner",
+                "url": "https://news.ycombinator.com/user?id=RickJWagner"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31055709",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31055709",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "mooreds",
                 "url": "https://news.ycombinator.com/user?id=mooreds"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30572581",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30572581",
-            "title": "萬事達卡暫停在俄羅斯的所有服務",
-            "summary": "MasterCard suspends all services in Russia",
-            "date_modified": "2022-03-05T22:26:34.000Z",
-            "author": {
-                "name": "bradvl",
-                "url": "https://news.ycombinator.com/user?id=bradvl"
             }
         }
     ]
