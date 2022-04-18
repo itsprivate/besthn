@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 17 Apr 2022 23:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 00:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[任天堂不想讓你玩的遊戲。騰博會官網誠信為本]]></title>
+            <link>https://news.ycombinator.com/item?id=31061154</link>
+            <guid>https://news.ycombinator.com/item?id=31061154</guid>
+            <pubDate>Sun, 17 Apr 2022 14:40:49 GMT</pubDate>
+            <description><![CDATA[The games Nintendo didn't want you to play: Tengen]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在低技能、低工資的世界裡，"低劣的工作 "意味著什麼？]]></title>
+            <link>https://news.ycombinator.com/item?id=31061138</link>
+            <guid>https://news.ycombinator.com/item?id=31061138</guid>
+            <pubDate>Sun, 17 Apr 2022 14:38:49 GMT</pubDate>
+            <description><![CDATA[What does “shitty job” mean in the low-skill, low-pay world?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為什麼有些蛋黃是橙色的？]]></title>
+            <link>https://news.ycombinator.com/item?id=31059524</link>
+            <guid>https://news.ycombinator.com/item?id=31059524</guid>
+            <pubDate>Sun, 17 Apr 2022 08:55:00 GMT</pubDate>
+            <description><![CDATA[Why are some egg yolks so orange?]]></description>
+        </item>
         <item>
             <title><![CDATA[打開speedtest時，互聯網神奇地變快了？]]></title>
             <link>https://news.ycombinator.com/item?id=31062799</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30591177</guid>
             <pubDate>Mon, 07 Mar 2022 18:05:37 GMT</pubDate>
             <description><![CDATA[So you want to study mathematics]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英國將啟動羅爾斯-羅伊斯小型核反應堆的審批程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30589797</link>
-            <guid>https://news.ycombinator.com/item?id=30589797</guid>
-            <pubDate>Mon, 07 Mar 2022 16:30:55 GMT</pubDate>
-            <description><![CDATA[Britain to start approval process for Rolls-Royce mini nuclear reactor]]></description>
-        </item>
-        <item>
-            <title><![CDATA[iMac G4到M1的轉換過程]]></title>
-            <link>https://news.ycombinator.com/item?id=30576310</link>
-            <guid>https://news.ycombinator.com/item?id=30576310</guid>
-            <pubDate>Sun, 06 Mar 2022 09:49:02 GMT</pubDate>
-            <description><![CDATA[iMac G4 to M1 conversion process]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MicropolisJS：一個克隆的模擬城市的JavaScript。]]></title>
-            <link>https://news.ycombinator.com/item?id=30585166</link>
-            <guid>https://news.ycombinator.com/item?id=30585166</guid>
-            <pubDate>Mon, 07 Mar 2022 07:40:00 GMT</pubDate>
-            <description><![CDATA[MicropolisJS: A JavaScript clone of the original SimCity]]></description>
         </item>
     </channel>
 </rss>
