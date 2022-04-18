@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-18T03:38:27.202Z</updated>
+    <updated>2022-04-18T06:15:15.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[宾夕法尼亚州推出 "点击取消 "立法]]></title>
+        <id>https://news.ycombinator.com/item?id=31066553</id>
+        <link href="https://news.ycombinator.com/item?id=31066553"/>
+        <updated>2022-04-18T02:10:31.000Z</updated>
+        <summary type="html"><![CDATA[‘Click to Cancel’ legislation introduced in Pennsylvania]]></summary>
+        <author>
+            <name>barlo</name>
+            <uri>https://news.ycombinator.com/user?id=barlo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我所收到的最好的工程面试问题]]></title>
         <id>https://news.ycombinator.com/item?id=31065143</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mritzmann</name>
             <uri>https://news.ycombinator.com/user?id=mritzmann</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[星象仪]]></title>
-        <id>https://news.ycombinator.com/item?id=30574809</id>
-        <link href="https://news.ycombinator.com/item?id=30574809"/>
-        <updated>2022-03-06T03:36:22.000Z</updated>
-        <summary type="html"><![CDATA[Stellarium]]></summary>
-        <author>
-            <name>throwoutway</name>
-            <uri>https://news.ycombinator.com/user?id=throwoutway</uri>
         </author>
     </entry>
 </feed>
