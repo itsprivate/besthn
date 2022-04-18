@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-18T15:57:04.529Z</updated>
+    <updated>2022-04-18T16:56:10.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国人正淹没在垃圾邮件中]]></title>
+        <id>https://news.ycombinator.com/item?id=31070141</id>
+        <link href="https://news.ycombinator.com/item?id=31070141"/>
+        <updated>2022-04-18T13:18:03.000Z</updated>
+        <summary type="html"><![CDATA[Americans are drowning in spam]]></summary>
+        <author>
+            <name>elsewhen</name>
+            <uri>https://news.ycombinator.com/user?id=elsewhen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[利用Pegasus和Candiru对加泰罗尼亚人进行广泛的雇佣军间谍软件行动]]></title>
         <id>https://news.ycombinator.com/item?id=31069422</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>wslh</name>
             <uri>https://news.ycombinator.com/user?id=wslh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上世纪的铅暴露使一半美国人的智商分数缩水]]></title>
-        <id>https://news.ycombinator.com/item?id=30600539</id>
-        <link href="https://news.ycombinator.com/item?id=30600539"/>
-        <updated>2022-03-08T14:54:14.000Z</updated>
-        <summary type="html"><![CDATA[Lead exposure in last century shrunk IQ scores of half of Americans]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
         </author>
     </entry>
 </feed>

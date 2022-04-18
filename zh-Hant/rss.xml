@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 18 Apr 2022 15:57:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 16:56:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美國人正淹沒在垃圾郵件中]]></title>
+            <link>https://news.ycombinator.com/item?id=31070141</link>
+            <guid>https://news.ycombinator.com/item?id=31070141</guid>
+            <pubDate>Mon, 18 Apr 2022 13:18:03 GMT</pubDate>
+            <description><![CDATA[Americans are drowning in spam]]></description>
+        </item>
         <item>
             <title><![CDATA[利用Pegasus和Candiru對加泰羅尼亞人進行廣泛的僱傭軍間諜軟件行動]]></title>
             <link>https://news.ycombinator.com/item?id=31069422</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30583059</guid>
             <pubDate>Mon, 07 Mar 2022 01:17:57 GMT</pubDate>
             <description><![CDATA[Four-year-old Israeli child tests positive for polio, first case since 1989]]></description>
-        </item>
-        <item>
-            <title><![CDATA[上世紀的鉛暴露使一半美國人的智商分數縮水]]></title>
-            <link>https://news.ycombinator.com/item?id=30600539</link>
-            <guid>https://news.ycombinator.com/item?id=30600539</guid>
-            <pubDate>Tue, 08 Mar 2022 14:54:14 GMT</pubDate>
-            <description><![CDATA[Lead exposure in last century shrunk IQ scores of half of Americans]]></description>
         </item>
     </channel>
 </rss>
