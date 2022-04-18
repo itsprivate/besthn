@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-18T08:14:31.557Z</updated>
+    <updated>2022-04-18T08:39:43.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[三星電子的文化問題給晶圓廠、LSI、DRAM帶來災難]]></title>
+        <id>https://news.ycombinator.com/item?id=31064080</id>
+        <link href="https://news.ycombinator.com/item?id=31064080"/>
+        <updated>2022-04-17T20:19:58.000Z</updated>
+        <summary type="html"><![CDATA[Samsung Electronics cultural issues causing disasters in foundry, LSI, DRAM]]></summary>
+        <author>
+            <name>craigjb</name>
+            <uri>https://news.ycombinator.com/user?id=craigjb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Richard Stallman - 自由軟件運動的現狀]]></title>
         <id>https://news.ycombinator.com/item?id=31065575</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hougaard</name>
             <uri>https://news.ycombinator.com/user?id=hougaard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神經網絡可以計算任何函數的直觀證明]]></title>
-        <id>https://news.ycombinator.com/item?id=30576943</id>
-        <link href="https://news.ycombinator.com/item?id=30576943"/>
-        <updated>2022-03-06T11:56:54.000Z</updated>
-        <summary type="html"><![CDATA[A visual proof that neural nets can compute any function]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
         </author>
     </entry>
 </feed>
