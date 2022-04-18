@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 18 Apr 2022 20:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 21:30:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美國上訴法院重申網絡搜刮是合法的]]></title>
+            <link>https://news.ycombinator.com/item?id=31075396</link>
+            <guid>https://news.ycombinator.com/item?id=31075396</guid>
+            <pubDate>Mon, 18 Apr 2022 19:37:55 GMT</pubDate>
+            <description><![CDATA[Web scraping is legal, US appeals court reaffirms]]></description>
+        </item>
         <item>
             <title><![CDATA[詹姆斯-韋伯望遠鏡最冷的儀器達到工作溫度]]></title>
             <link>https://news.ycombinator.com/item?id=31072590</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30600525</guid>
             <pubDate>Tue, 08 Mar 2022 14:53:43 GMT</pubDate>
             <description><![CDATA[WebGPU – All of the cores, none of the canvas]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蘋果M1 Ultra]]></title>
-            <link>https://news.ycombinator.com/item?id=30604470</link>
-            <guid>https://news.ycombinator.com/item?id=30604470</guid>
-            <pubDate>Tue, 08 Mar 2022 19:00:14 GMT</pubDate>
-            <description><![CDATA[Apple M1 Ultra]]></description>
         </item>
     </channel>
 </rss>
