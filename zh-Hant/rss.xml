@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 18 Apr 2022 10:54:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 13:27:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[弗吉尼亞州警方經常使用秘密的GPS定位器來追蹤人們的手機]]></title>
+            <link>https://news.ycombinator.com/item?id=31054432</link>
+            <guid>https://news.ycombinator.com/item?id=31054432</guid>
+            <pubDate>Sat, 16 Apr 2022 17:54:43 GMT</pubDate>
+            <description><![CDATA[Virginia police routinely use secret GPS pings to track people’s cell phones]]></description>
+        </item>
         <item>
             <title><![CDATA[假設你的設備已被破壞]]></title>
             <link>https://news.ycombinator.com/item?id=31063702</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30589109</guid>
             <pubDate>Mon, 07 Mar 2022 15:45:38 GMT</pubDate>
             <description><![CDATA[How to make (almost) anything (2020)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[命令行工具可以比你的Hadoop集群快235倍（2014）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30595026</link>
-            <guid>https://news.ycombinator.com/item?id=30595026</guid>
-            <pubDate>Tue, 08 Mar 2022 00:14:42 GMT</pubDate>
-            <description><![CDATA[Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)]]></description>
         </item>
     </channel>
 </rss>

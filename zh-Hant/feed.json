@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31054432",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31054432",
+            "title": "弗吉尼亞州警方經常使用秘密的GPS定位器來追蹤人們的手機",
+            "summary": "Virginia police routinely use secret GPS pings to track people’s cell phones",
+            "date_modified": "2022-04-16T17:54:43.000Z",
+            "author": {
+                "name": "croh",
+                "url": "https://news.ycombinator.com/user?id=croh"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31063702",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31063702",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "akeck",
                 "url": "https://news.ycombinator.com/user?id=akeck"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30595026",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30595026",
-            "title": "命令行工具可以比你的Hadoop集群快235倍（2014）。",
-            "summary": "Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)",
-            "date_modified": "2022-03-08T00:14:42.000Z",
-            "author": {
-                "name": "graderjs",
-                "url": "https://news.ycombinator.com/user?id=graderjs"
             }
         }
     ]
