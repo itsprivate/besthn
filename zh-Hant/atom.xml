@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-18T13:27:58.854Z</updated>
+    <updated>2022-04-18T14:32:17.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[六十歲之前，智力速度都很高]]></title>
+        <id>https://news.ycombinator.com/item?id=31068388</id>
+        <link href="https://news.ycombinator.com/item?id=31068388"/>
+        <updated>2022-04-18T07:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Mental speed is high until age sixty]]></summary>
+        <author>
+            <name>qw</name>
+            <uri>https://news.ycombinator.com/user?id=qw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[弗吉尼亞州警方經常使用秘密的GPS定位器來追蹤人們的手機]]></title>
         <id>https://news.ycombinator.com/item?id=31054432</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ideksec</name>
             <uri>https://news.ycombinator.com/user?id=ideksec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何製作(幾乎)任何東西(2020年)]]></title>
-        <id>https://news.ycombinator.com/item?id=30589109</id>
-        <link href="https://news.ycombinator.com/item?id=30589109"/>
-        <updated>2022-03-07T15:45:38.000Z</updated>
-        <summary type="html"><![CDATA[How to make (almost) anything (2020)]]></summary>
-        <author>
-            <name>akeck</name>
-            <uri>https://news.ycombinator.com/user?id=akeck</uri>
         </author>
     </entry>
 </feed>

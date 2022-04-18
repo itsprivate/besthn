@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 18 Apr 2022 13:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 14:32:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[六十岁之前，智力速度都很高]]></title>
+            <link>https://news.ycombinator.com/item?id=31068388</link>
+            <guid>https://news.ycombinator.com/item?id=31068388</guid>
+            <pubDate>Mon, 18 Apr 2022 07:57:35 GMT</pubDate>
+            <description><![CDATA[Mental speed is high until age sixty]]></description>
+        </item>
         <item>
             <title><![CDATA[弗吉尼亚州警方经常使用秘密的GPS定位器来追踪人们的手机]]></title>
             <link>https://news.ycombinator.com/item?id=31054432</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30598841</guid>
             <pubDate>Tue, 08 Mar 2022 11:39:50 GMT</pubDate>
             <description><![CDATA[Google to Acquire Mandiant]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何制作(几乎)任何东西(2020年)]]></title>
-            <link>https://news.ycombinator.com/item?id=30589109</link>
-            <guid>https://news.ycombinator.com/item?id=30589109</guid>
-            <pubDate>Mon, 07 Mar 2022 15:45:38 GMT</pubDate>
-            <description><![CDATA[How to make (almost) anything (2020)]]></description>
         </item>
     </channel>
 </rss>
