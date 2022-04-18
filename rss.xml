@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 18 Apr 2022 08:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 08:55:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Uber的泡沫]]></title>
+            <link>https://news.ycombinator.com/item?id=31064626</link>
+            <guid>https://news.ycombinator.com/item?id=31064626</guid>
+            <pubDate>Sun, 17 Apr 2022 21:21:27 GMT</pubDate>
+            <description><![CDATA[The Uber Bubble]]></description>
+        </item>
         <item>
             <title><![CDATA[三星电子的文化问题给晶圆厂、LSI、DRAM带来灾难]]></title>
             <link>https://news.ycombinator.com/item?id=31064080</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30597187</guid>
             <pubDate>Tue, 08 Mar 2022 07:00:04 GMT</pubDate>
             <description><![CDATA[I am the healthiest person I know, and I got cancer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[www.userfriendly.org 似乎已经消失了，RIP Erwin, Dust Puppy and Co :(]]></title>
-            <link>https://news.ycombinator.com/item?id=30591269</link>
-            <guid>https://news.ycombinator.com/item?id=30591269</guid>
-            <pubDate>Mon, 07 Mar 2022 18:13:05 GMT</pubDate>
-            <description><![CDATA[www.userfriendly.org seems to be gone, RIP Erwin, Dust Puppy and Co :(]]></description>
         </item>
     </channel>
 </rss>
