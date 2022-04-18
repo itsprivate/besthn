@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-18T22:12:51.320Z</updated>
+    <updated>2022-04-18T23:52:43.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英國政府官員感染飛馬病毒]]></title>
+        <id>https://news.ycombinator.com/item?id=31075558</id>
+        <link href="https://news.ycombinator.com/item?id=31075558"/>
+        <updated>2022-04-18T19:49:57.000Z</updated>
+        <summary type="html"><![CDATA[UK Government Officials Infected with Pegasus]]></summary>
+        <author>
+            <name>yablak</name>
+            <uri>https://news.ycombinator.com/user?id=yablak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BirdNET-Pi。自動的、本地運行的鳥類聲音識別和跟蹤]]></title>
         <id>https://news.ycombinator.com/item?id=31072485</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>DocFeind</name>
             <uri>https://news.ycombinator.com/user?id=DocFeind</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果發佈27英寸5K工作室顯示器]]></title>
-        <id>https://news.ycombinator.com/item?id=30604375</id>
-        <link href="https://news.ycombinator.com/item?id=30604375"/>
-        <updated>2022-03-08T18:56:42.000Z</updated>
-        <summary type="html"><![CDATA[Apple announces 27-inch 5K Studio Display]]></summary>
-        <author>
-            <name>sparshgupta</name>
-            <uri>https://news.ycombinator.com/user?id=sparshgupta</uri>
         </author>
     </entry>
 </feed>
