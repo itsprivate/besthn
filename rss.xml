@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 18 Apr 2022 00:46:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 03:38:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我所收到的最好的工程面试问题]]></title>
+            <link>https://news.ycombinator.com/item?id=31065143</link>
+            <guid>https://news.ycombinator.com/item?id=31065143</guid>
+            <pubDate>Sun, 17 Apr 2022 22:34:08 GMT</pubDate>
+            <description><![CDATA[The best engineering interview question I've ever gotten]]></description>
+        </item>
         <item>
             <title><![CDATA[任天堂不想让你玩的游戏。腾博会官网诚信为本]]></title>
             <link>https://news.ycombinator.com/item?id=31061154</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30574809</guid>
             <pubDate>Sun, 06 Mar 2022 03:36:22 GMT</pubDate>
             <description><![CDATA[Stellarium]]></description>
-        </item>
-        <item>
-            <title><![CDATA[所以你想学习数学]]></title>
-            <link>https://news.ycombinator.com/item?id=30591177</link>
-            <guid>https://news.ycombinator.com/item?id=30591177</guid>
-            <pubDate>Mon, 07 Mar 2022 18:05:37 GMT</pubDate>
-            <description><![CDATA[So you want to study mathematics]]></description>
         </item>
     </channel>
 </rss>

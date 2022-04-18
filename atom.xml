@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-18T00:46:56.568Z</updated>
+    <updated>2022-04-18T03:38:27.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我所收到的最好的工程面试问题]]></title>
+        <id>https://news.ycombinator.com/item?id=31065143</id>
+        <link href="https://news.ycombinator.com/item?id=31065143"/>
+        <updated>2022-04-17T22:34:08.000Z</updated>
+        <summary type="html"><![CDATA[The best engineering interview question I've ever gotten]]></summary>
+        <author>
+            <name>db48x</name>
+            <uri>https://news.ycombinator.com/user?id=db48x</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[任天堂不想让你玩的游戏。腾博会官网诚信为本]]></title>
         <id>https://news.ycombinator.com/item?id=31061154</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>throwoutway</name>
             <uri>https://news.ycombinator.com/user?id=throwoutway</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[所以你想学习数学]]></title>
-        <id>https://news.ycombinator.com/item?id=30591177</id>
-        <link href="https://news.ycombinator.com/item?id=30591177"/>
-        <updated>2022-03-07T18:05:37.000Z</updated>
-        <summary type="html"><![CDATA[So you want to study mathematics]]></summary>
-        <author>
-            <name>musgravepeter</name>
-            <uri>https://news.ycombinator.com/user?id=musgravepeter</uri>
         </author>
     </entry>
 </feed>
