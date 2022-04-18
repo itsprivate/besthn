@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-18T07:32:29.347Z</updated>
+    <updated>2022-04-18T08:14:31.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Richard Stallman - 自由软件运动的现状]]></title>
+        <id>https://news.ycombinator.com/item?id=31065575</id>
+        <link href="https://news.ycombinator.com/item?id=31065575"/>
+        <updated>2022-04-17T23:31:41.000Z</updated>
+        <summary type="html"><![CDATA[Richard Stallman – The state of the Free Software movement]]></summary>
+        <author>
+            <name>WoodenChair</name>
+            <uri>https://news.ycombinator.com/user?id=WoodenChair</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[虚幻与统一的意见]]></title>
         <id>https://news.ycombinator.com/item?id=31064552</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>graderjs</name>
             <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[威胁形势的最新情况]]></title>
-        <id>https://news.ycombinator.com/item?id=30594042</id>
-        <link href="https://news.ycombinator.com/item?id=30594042"/>
-        <updated>2022-03-07T22:13:45.000Z</updated>
-        <summary type="html"><![CDATA[An update on the threat landscape]]></summary>
-        <author>
-            <name>arkadiyt</name>
-            <uri>https://news.ycombinator.com/user?id=arkadiyt</uri>
         </author>
     </entry>
 </feed>
