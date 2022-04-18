@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 18 Apr 2022 21:30:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 22:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[BirdNET-Pi。自動的、本地運行的鳥類聲音識別和跟蹤]]></title>
+            <link>https://news.ycombinator.com/item?id=31072485</link>
+            <guid>https://news.ycombinator.com/item?id=31072485</guid>
+            <pubDate>Mon, 18 Apr 2022 16:00:09 GMT</pubDate>
+            <description><![CDATA[BirdNET-Pi: Automated, locally run bird sound identification and tracking]]></description>
+        </item>
         <item>
             <title><![CDATA[美國上訴法院重申網絡搜刮是合法的]]></title>
             <link>https://news.ycombinator.com/item?id=31075396</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30604375</guid>
             <pubDate>Tue, 08 Mar 2022 18:56:42 GMT</pubDate>
             <description><![CDATA[Apple announces 27-inch 5K Studio Display]]></description>
-        </item>
-        <item>
-            <title><![CDATA[WebGPU - 所有的核心，沒有畫布]]></title>
-            <link>https://news.ycombinator.com/item?id=30600525</link>
-            <guid>https://news.ycombinator.com/item?id=30600525</guid>
-            <pubDate>Tue, 08 Mar 2022 14:53:43 GMT</pubDate>
-            <description><![CDATA[WebGPU – All of the cores, none of the canvas]]></description>
         </item>
     </channel>
 </rss>

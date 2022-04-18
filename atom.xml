@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-18T21:30:49.635Z</updated>
+    <updated>2022-04-18T22:12:51.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[BirdNET-Pi。自动的、本地运行的鸟类声音识别和跟踪]]></title>
+        <id>https://news.ycombinator.com/item?id=31072485</id>
+        <link href="https://news.ycombinator.com/item?id=31072485"/>
+        <updated>2022-04-18T16:00:09.000Z</updated>
+        <summary type="html"><![CDATA[BirdNET-Pi: Automated, locally run bird sound identification and tracking]]></summary>
+        <author>
+            <name>superkuh</name>
+            <uri>https://news.ycombinator.com/user?id=superkuh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国上诉法院重申网络搜刮是合法的]]></title>
         <id>https://news.ycombinator.com/item?id=31075396</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sparshgupta</name>
             <uri>https://news.ycombinator.com/user?id=sparshgupta</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebGPU - 所有的核心，没有画布]]></title>
-        <id>https://news.ycombinator.com/item?id=30600525</id>
-        <link href="https://news.ycombinator.com/item?id=30600525"/>
-        <updated>2022-03-08T14:53:43.000Z</updated>
-        <summary type="html"><![CDATA[WebGPU – All of the cores, none of the canvas]]></summary>
-        <author>
-            <name>jasim</name>
-            <uri>https://news.ycombinator.com/user?id=jasim</uri>
         </author>
     </entry>
 </feed>
