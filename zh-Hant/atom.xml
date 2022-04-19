@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-19T17:49:15.902Z</updated>
+    <updated>2022-04-19T18:41:24.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[讓你的PDF在瀏覽器中看起來是掃描的]]></title>
+        <id>https://news.ycombinator.com/item?id=31083432</id>
+        <link href="https://news.ycombinator.com/item?id=31083432"/>
+        <updated>2022-04-19T14:15:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Make your PDF look scanned in browser]]></summary>
+        <author>
+            <name>seedgou</name>
+            <uri>https://news.ycombinator.com/user?id=seedgou</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yandex開放源代碼的YDB]]></title>
         <id>https://news.ycombinator.com/item?id=31081272</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>josteink</name>
             <uri>https://news.ycombinator.com/user?id=josteink</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聰明的開發商做出錯誤戰略決策的一種方式]]></title>
-        <id>https://news.ycombinator.com/item?id=30600304</id>
-        <link href="https://news.ycombinator.com/item?id=30600304"/>
-        <updated>2022-03-08T14:35:45.000Z</updated>
-        <summary type="html"><![CDATA[One Way Smart Developers Make Bad Strategic Decisions]]></summary>
-        <author>
-            <name>ScottWRobinson</name>
-            <uri>https://news.ycombinator.com/user?id=ScottWRobinson</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 19 Apr 2022 17:49:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 18:41:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[让你的PDF在浏览器中看起来是扫描的]]></title>
+            <link>https://news.ycombinator.com/item?id=31083432</link>
+            <guid>https://news.ycombinator.com/item?id=31083432</guid>
+            <pubDate>Tue, 19 Apr 2022 14:15:23 GMT</pubDate>
+            <description><![CDATA[Show HN: Make your PDF look scanned in browser]]></description>
+        </item>
         <item>
             <title><![CDATA[Yandex开放源代码的YDB]]></title>
             <link>https://news.ycombinator.com/item?id=31081272</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30611748</guid>
             <pubDate>Wed, 09 Mar 2022 07:13:26 GMT</pubDate>
             <description><![CDATA[Elementary OS is imploding]]></description>
-        </item>
-        <item>
-            <title><![CDATA[聪明的开发商做出错误战略决策的一种方式]]></title>
-            <link>https://news.ycombinator.com/item?id=30600304</link>
-            <guid>https://news.ycombinator.com/item?id=30600304</guid>
-            <pubDate>Tue, 08 Mar 2022 14:35:45 GMT</pubDate>
-            <description><![CDATA[One Way Smart Developers Make Bad Strategic Decisions]]></description>
         </item>
     </channel>
 </rss>
