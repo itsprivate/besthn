@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31067525",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31067525",
+            "title": "指數級更好的輪換",
+            "summary": "Exponentially Better Rotations",
+            "date_modified": "2022-04-18T04:45:27.000Z",
+            "author": {
+                "name": "signa11",
+                "url": "https://news.ycombinator.com/user?id=signa11"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31081417",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31081417",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "luu",
                 "url": "https://news.ycombinator.com/user?id=luu"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30593164",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30593164",
-            "title": "How to get the most out of your 1:1s",
-            "summary": "How to get the most out of your 1:1s",
-            "date_modified": "2022-03-07T20:50:52.000Z",
-            "author": {
-                "name": "erikwiffin",
-                "url": "https://news.ycombinator.com/user?id=erikwiffin"
             }
         }
     ]
