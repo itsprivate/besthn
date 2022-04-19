@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-19T00:42:38.520Z</updated>
+    <updated>2022-04-19T02:53:28.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[衛星圖像行業仍然不知道客戶需要什麼]]></title>
+        <id>https://news.ycombinator.com/item?id=31074177</id>
+        <link href="https://news.ycombinator.com/item?id=31074177"/>
+        <updated>2022-04-18T17:56:57.000Z</updated>
+        <summary type="html"><![CDATA[The satellite imagery industry still has no idea what customers want]]></summary>
+        <author>
+            <name>campchase</name>
+            <uri>https://news.ycombinator.com/user?id=campchase</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[六家公司控制了你所讀、所看、所聽的90%的內容]]></title>
         <id>https://news.ycombinator.com/item?id=31077525</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>0xedb</name>
             <uri>https://news.ycombinator.com/user?id=0xedb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[靜態洪流網站，通過BitTorrent對200萬條記錄進行點對點查詢]]></title>
-        <id>https://news.ycombinator.com/item?id=30605252</id>
-        <link href="https://news.ycombinator.com/item?id=30605252"/>
-        <updated>2022-03-08T19:32:09.000Z</updated>
-        <summary type="html"><![CDATA[Static torrent website with peer-to-peer queries over BitTorrent on 2M records]]></summary>
-        <author>
-            <name>voigt</name>
-            <uri>https://news.ycombinator.com/user?id=voigt</uri>
         </author>
     </entry>
 </feed>
