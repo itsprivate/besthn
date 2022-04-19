@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 19 Apr 2022 19:00:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 22:37:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谷歌文檔將 "警告你遠離不恰當的詞語"？]]></title>
+            <link>https://news.ycombinator.com/item?id=31086310</link>
+            <guid>https://news.ycombinator.com/item?id=31086310</guid>
+            <pubDate>Tue, 19 Apr 2022 17:43:20 GMT</pubDate>
+            <description><![CDATA[Google Docs will “warn you away from inappropriate words”?]]></description>
+        </item>
         <item>
             <title><![CDATA[去掉AMP。剔除谷歌，增強隱私]]></title>
             <link>https://news.ycombinator.com/item?id=31085051</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30613967</guid>
             <pubDate>Wed, 09 Mar 2022 13:03:56 GMT</pubDate>
             <description><![CDATA[The day Steve Jobs dissed me in a keynote (2010)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ǞǞǞ [...] ]]></title>
-            <link>https://news.ycombinator.com/item?id=30611859</link>
-            <guid>https://news.ycombinator.com/item?id=30611859</guid>
-            <pubDate>Wed, 09 Mar 2022 07:30:56 GMT</pubDate>
-            <description><![CDATA[Endurance: Shackleton's lost ship is found in Antarctic]]></description>
         </item>
     </channel>
 </rss>
