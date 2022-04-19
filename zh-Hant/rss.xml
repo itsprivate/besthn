@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 19 Apr 2022 02:53:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 06:41:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[歐洲現在被淹沒的 "失落的世界 "和導致其滅亡的25米高的海嘯]]></title>
+            <link>https://news.ycombinator.com/item?id=31072198</link>
+            <guid>https://news.ycombinator.com/item?id=31072198</guid>
+            <pubDate>Mon, 18 Apr 2022 15:41:59 GMT</pubDate>
+            <description><![CDATA[Europe's now-drowned 'lost world' and the 25m-high tsunami that finished it off]]></description>
+        </item>
         <item>
             <title><![CDATA[衛星圖像行業仍然不知道客戶需要什麼]]></title>
             <link>https://news.ycombinator.com/item?id=31074177</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30605356</guid>
             <pubDate>Tue, 08 Mar 2022 19:35:54 GMT</pubDate>
             <description><![CDATA[Put an io_uring on it: Exploiting the Linux kernel]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新款iPhone SE]]></title>
-            <link>https://news.ycombinator.com/item?id=30603605</link>
-            <guid>https://news.ycombinator.com/item?id=30603605</guid>
-            <pubDate>Tue, 08 Mar 2022 18:21:30 GMT</pubDate>
-            <description><![CDATA[New iPhone SE]]></description>
         </item>
     </channel>
 </rss>

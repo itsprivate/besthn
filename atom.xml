@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-19T02:53:28.721Z</updated>
+    <updated>2022-04-19T06:41:04.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[欧洲现在被淹没的 "失落的世界 "和导致其灭亡的25米高的海啸]]></title>
+        <id>https://news.ycombinator.com/item?id=31072198</id>
+        <link href="https://news.ycombinator.com/item?id=31072198"/>
+        <updated>2022-04-18T15:41:59.000Z</updated>
+        <summary type="html"><![CDATA[Europe's now-drowned 'lost world' and the 25m-high tsunami that finished it off]]></summary>
+        <author>
+            <name>bandibus</name>
+            <uri>https://news.ycombinator.com/user?id=bandibus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卫星图像行业仍然不知道客户需要什么]]></title>
         <id>https://news.ycombinator.com/item?id=31074177</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>blopeur</name>
             <uri>https://news.ycombinator.com/user?id=blopeur</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新款iPhone SE]]></title>
-        <id>https://news.ycombinator.com/item?id=30603605</id>
-        <link href="https://news.ycombinator.com/item?id=30603605"/>
-        <updated>2022-03-08T18:21:30.000Z</updated>
-        <summary type="html"><![CDATA[New iPhone SE]]></summary>
-        <author>
-            <name>0xedb</name>
-            <uri>https://news.ycombinator.com/user?id=0xedb</uri>
         </author>
     </entry>
 </feed>
