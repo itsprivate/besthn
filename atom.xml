@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-19T13:43:25.872Z</updated>
+    <updated>2022-04-19T14:13:33.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[加拿大禁止外国购房者两年]]></title>
+        <id>https://news.ycombinator.com/item?id=31081417</id>
+        <link href="https://news.ycombinator.com/item?id=31081417"/>
+        <updated>2022-04-19T10:29:24.000Z</updated>
+        <summary type="html"><![CDATA[Canada bans foreign home buyers for two years]]></summary>
+        <author>
+            <name>cwwc</name>
+            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oggify: 直接从Spotify下载歌曲]]></title>
         <id>https://news.ycombinator.com/item?id=31080518</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>erikwiffin</name>
             <uri>https://news.ycombinator.com/user?id=erikwiffin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello World中的错误]]></title>
-        <id>https://news.ycombinator.com/item?id=30611367</id>
-        <link href="https://news.ycombinator.com/item?id=30611367"/>
-        <updated>2022-03-09T05:59:32.000Z</updated>
-        <summary type="html"><![CDATA[Bugs in Hello World]]></summary>
-        <author>
-            <name>sizediterable</name>
-            <uri>https://news.ycombinator.com/user?id=sizediterable</uri>
         </author>
     </entry>
 </feed>
