@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-19T06:41:04.336Z</updated>
+    <updated>2022-04-19T13:43:25.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Oggify: 直接從Spotify下載歌曲]]></title>
+        <id>https://news.ycombinator.com/item?id=31080518</id>
+        <link href="https://news.ycombinator.com/item?id=31080518"/>
+        <updated>2022-04-19T07:36:36.000Z</updated>
+        <summary type="html"><![CDATA[Oggify: Download Songs Directly from Spotify]]></summary>
+        <author>
+            <name>thebiblelover7</name>
+            <uri>https://news.ycombinator.com/user?id=thebiblelover7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歐洲現在被淹沒的 "失落的世界 "和導致其滅亡的25米高的海嘯]]></title>
         <id>https://news.ycombinator.com/item?id=31072198</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sizediterable</name>
             <uri>https://news.ycombinator.com/user?id=sizediterable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[把它放在一個iO_uring上。利用Linux的內核]]></title>
-        <id>https://news.ycombinator.com/item?id=30605356</id>
-        <link href="https://news.ycombinator.com/item?id=30605356"/>
-        <updated>2022-03-08T19:35:54.000Z</updated>
-        <summary type="html"><![CDATA[Put an io_uring on it: Exploiting the Linux kernel]]></summary>
-        <author>
-            <name>blopeur</name>
-            <uri>https://news.ycombinator.com/user?id=blopeur</uri>
         </author>
     </entry>
 </feed>
