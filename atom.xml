@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-18T23:52:43.539Z</updated>
+    <updated>2022-04-19T00:42:38.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[六家公司控制了你所读、所看、所听的90%的内容]]></title>
+        <id>https://news.ycombinator.com/item?id=31077525</id>
+        <link href="https://news.ycombinator.com/item?id=31077525"/>
+        <updated>2022-04-18T22:35:32.000Z</updated>
+        <summary type="html"><![CDATA[Six companies control 90% of what you read, watch, and hear]]></summary>
+        <author>
+            <name>tomohawk</name>
+            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英国政府官员感染飞马病毒]]></title>
         <id>https://news.ycombinator.com/item?id=31075558</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>voigt</name>
             <uri>https://news.ycombinator.com/user?id=voigt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国生产的石油足以满足其需求，那么我们为什么要进口原油？]]></title>
-        <id>https://news.ycombinator.com/item?id=30602060</id>
-        <link href="https://news.ycombinator.com/item?id=30602060"/>
-        <updated>2022-03-08T16:47:02.000Z</updated>
-        <summary type="html"><![CDATA[America produces enough oil to meet its needs, so why do we import crude?]]></summary>
-        <author>
-            <name>DocFeind</name>
-            <uri>https://news.ycombinator.com/user?id=DocFeind</uri>
         </author>
     </entry>
 </feed>
