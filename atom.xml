@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-20T05:27:50.359Z</updated>
+    <updated>2022-04-20T07:33:48.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[服务器端渲染的荒谬复杂性]]></title>
+        <id>https://news.ycombinator.com/item?id=31087795</id>
+        <link href="https://news.ycombinator.com/item?id=31087795"/>
+        <updated>2022-04-19T19:30:58.000Z</updated>
+        <summary type="html"><![CDATA[The absurd complexity of server-side rendering]]></summary>
+        <author>
+            <name>takiwatanga</name>
+            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebAssembly 2.0第一个工作草案]]></title>
+        <id>https://news.ycombinator.com/item?id=31086217</id>
+        <link href="https://news.ycombinator.com/item?id=31086217"/>
+        <updated>2022-04-19T17:36:29.000Z</updated>
+        <summary type="html"><![CDATA[WebAssembly 2.0 First Working Draft]]></summary>
+        <author>
+            <name>syrusakbary</name>
+            <uri>https://news.ycombinator.com/user?id=syrusakbary</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Emacs配置生成器]]></title>
         <id>https://news.ycombinator.com/item?id=31083515</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>stanislavb</name>
             <uri>https://news.ycombinator.com/user?id=stanislavb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Barcode Detection API]]></title>
-        <id>https://news.ycombinator.com/item?id=30620802</id>
-        <link href="https://news.ycombinator.com/item?id=30620802"/>
-        <updated>2022-03-09T22:26:05.000Z</updated>
-        <summary type="html"><![CDATA[Barcode Detection API]]></summary>
-        <author>
-            <name>addcninblue</name>
-            <uri>https://news.ycombinator.com/user?id=addcninblue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon lied about using seller data, lawmakers say, urging DOJ investigation]]></title>
-        <id>https://news.ycombinator.com/item?id=30617812</id>
-        <link href="https://news.ycombinator.com/item?id=30617812"/>
-        <updated>2022-03-09T17:57:36.000Z</updated>
-        <summary type="html"><![CDATA[Amazon lied about using seller data, lawmakers say, urging DOJ investigation]]></summary>
-        <author>
-            <name>ProAm</name>
-            <uri>https://news.ycombinator.com/user?id=ProAm</uri>
         </author>
     </entry>
 </feed>
