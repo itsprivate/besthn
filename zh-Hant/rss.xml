@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 20 Apr 2022 03:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 04:04:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我為個人財務建立了一個模擬器]]></title>
+            <link>https://news.ycombinator.com/item?id=31083093</link>
+            <guid>https://news.ycombinator.com/item?id=31083093</guid>
+            <pubDate>Tue, 19 Apr 2022 13:52:15 GMT</pubDate>
+            <description><![CDATA[Show HN: I built a simulator for personal finance]]></description>
+        </item>
         <item>
             <title><![CDATA[秦始皇兵馬俑是中國歷史上最古老的兵馬俑之一，也是世界上最古老的兵馬俑之一，被譽為 "世界上最古老的兵馬俑"。]]></title>
             <link>https://news.ycombinator.com/item?id=31087175</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30617723</guid>
             <pubDate>Wed, 09 Mar 2022 17:52:11 GMT</pubDate>
             <description><![CDATA[Blender 3.1]]></description>
-        </item>
-        <item>
-            <title><![CDATA[M]]></title>
-            <link>https://news.ycombinator.com/item?id=30615637</link>
-            <guid>https://news.ycombinator.com/item?id=30615637</guid>
-            <pubDate>Wed, 09 Mar 2022 15:39:38 GMT</pubDate>
-            <description><![CDATA[Man given genetically modified pig heart dies]]></description>
         </item>
     </channel>
 </rss>
