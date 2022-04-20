@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-20T11:39:07.100Z</updated>
+    <updated>2022-04-20T13:06:53.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蝶變和固件]]></title>
+        <id>https://news.ycombinator.com/item?id=31079253</id>
+        <link href="https://news.ycombinator.com/item?id=31079253"/>
+        <updated>2022-04-19T02:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Debian and firmware]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在機器學習模型中植入不可察覺的後門]]></title>
         <id>https://news.ycombinator.com/item?id=31064787</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>miobrien</name>
             <uri>https://news.ycombinator.com/user?id=miobrien</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PipeWire: A year in review and a look ahead]]></title>
-        <id>https://news.ycombinator.com/item?id=30611794</id>
-        <link href="https://news.ycombinator.com/item?id=30611794"/>
-        <updated>2022-03-09T07:20:30.000Z</updated>
-        <summary type="html"><![CDATA[PipeWire: A year in review and a look ahead]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>
