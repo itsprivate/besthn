@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 20 Apr 2022 13:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 16:59:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[怎樣才能讓我的男朋友不再挖他的隧道？]]></title>
+            <link>https://news.ycombinator.com/item?id=31096994</link>
+            <guid>https://news.ycombinator.com/item?id=31096994</guid>
+            <pubDate>Wed, 20 Apr 2022 13:55:35 GMT</pubDate>
+            <description><![CDATA[How can I get my boyfriend to stop digging his tunnel?]]></description>
+        </item>
         <item>
             <title><![CDATA[蝶變和固件]]></title>
             <link>https://news.ycombinator.com/item?id=31079253</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30617118</guid>
             <pubDate>Wed, 09 Mar 2022 17:15:06 GMT</pubDate>
             <description><![CDATA[Ask HN: Any weird tips for weight loss?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[洩憤不起作用]]></title>
-            <link>https://news.ycombinator.com/item?id=30601594</link>
-            <guid>https://news.ycombinator.com/item?id=30601594</guid>
-            <pubDate>Tue, 08 Mar 2022 16:15:45 GMT</pubDate>
-            <description><![CDATA[Venting doesn’t work]]></description>
         </item>
     </channel>
 </rss>
