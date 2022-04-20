@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 20 Apr 2022 04:04:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 05:27:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Emacs配置生成器]]></title>
+            <link>https://news.ycombinator.com/item?id=31083515</link>
+            <guid>https://news.ycombinator.com/item?id=31083515</guid>
+            <pubDate>Tue, 19 Apr 2022 14:20:56 GMT</pubDate>
+            <description><![CDATA[Show HN: Emacs Configuration Generator]]></description>
+        </item>
         <item>
             <title><![CDATA[我為個人財務建立了一個模擬器]]></title>
             <link>https://news.ycombinator.com/item?id=31083093</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30617812</guid>
             <pubDate>Wed, 09 Mar 2022 17:57:36 GMT</pubDate>
             <description><![CDATA[Amazon lied about using seller data, lawmakers say, urging DOJ investigation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Blender 3.1]]></title>
-            <link>https://news.ycombinator.com/item?id=30617723</link>
-            <guid>https://news.ycombinator.com/item?id=30617723</guid>
-            <pubDate>Wed, 09 Mar 2022 17:52:11 GMT</pubDate>
-            <description><![CDATA[Blender 3.1]]></description>
         </item>
     </channel>
 </rss>
