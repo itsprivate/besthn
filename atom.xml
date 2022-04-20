@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-20T00:44:46.722Z</updated>
+    <updated>2022-04-20T03:05:24.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[秦始皇兵马俑是中国历史上最古老的兵马俑之一，也是世界上最古老的兵马俑之一，被誉为 "世界上最古老的兵马俑"。]]></title>
+        <id>https://news.ycombinator.com/item?id=31087175</id>
+        <link href="https://news.ycombinator.com/item?id=31087175"/>
+        <updated>2022-04-19T18:43:03.000Z</updated>
+        <summary type="html"><![CDATA[HackerRank (YC S11) DMCA'ed the SymPy Docs]]></summary>
+        <author>
+            <name>kilovoltaire</name>
+            <uri>https://news.ycombinator.com/user?id=kilovoltaire</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netlify边缘功能。由Deno提供的新的无服务器运行时间]]></title>
+        <id>https://news.ycombinator.com/item?id=31084301</id>
+        <link href="https://news.ycombinator.com/item?id=31084301"/>
+        <updated>2022-04-19T15:18:06.000Z</updated>
+        <summary type="html"><![CDATA[Netlify Edge Functions: A new serverless runtime powered by Deno]]></summary>
+        <author>
+            <name>csmajorfive</name>
+            <uri>https://news.ycombinator.com/user?id=csmajorfive</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[框架 笔记本电脑主机板]]></title>
         <id>https://news.ycombinator.com/item?id=31089677</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>otoolep</name>
             <uri>https://news.ycombinator.com/user?id=otoolep</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postgres Auditing in 150 lines of SQL]]></title>
-        <id>https://news.ycombinator.com/item?id=30615470</id>
-        <link href="https://news.ycombinator.com/item?id=30615470"/>
-        <updated>2022-03-09T15:26:35.000Z</updated>
-        <summary type="html"><![CDATA[Postgres Auditing in 150 lines of SQL]]></summary>
-        <author>
-            <name>oliverrice</name>
-            <uri>https://news.ycombinator.com/user?id=oliverrice</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Death by PowerPoint: the slide that killed seven people (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=30615114</id>
-        <link href="https://news.ycombinator.com/item?id=30615114"/>
-        <updated>2022-03-09T15:01:09.000Z</updated>
-        <summary type="html"><![CDATA[Death by PowerPoint: the slide that killed seven people (2019)]]></summary>
-        <author>
-            <name>tk75x</name>
-            <uri>https://news.ycombinator.com/user?id=tk75x</uri>
         </author>
     </entry>
 </feed>
