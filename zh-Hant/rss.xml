@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 20 Apr 2022 17:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 17:51:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[HN用的Favicons]]></title>
+            <link>https://news.ycombinator.com/item?id=31095046</link>
+            <guid>https://news.ycombinator.com/item?id=31095046</guid>
+            <pubDate>Wed, 20 Apr 2022 10:52:15 GMT</pubDate>
+            <description><![CDATA[Show HN: Favicons for HN]]></description>
+        </item>
         <item>
             <title><![CDATA[2千美元左右的軟件開發的好筆記本電腦是什麼？]]></title>
             <link>https://news.ycombinator.com/item?id=31094361</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30622300</guid>
             <pubDate>Thu, 10 Mar 2022 01:41:59 GMT</pubDate>
             <description><![CDATA[Deep learning is hitting a wall?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[值得學習的Python內置程序(2019年)]]></title>
-            <link>https://news.ycombinator.com/item?id=30621552</link>
-            <guid>https://news.ycombinator.com/item?id=30621552</guid>
-            <pubDate>Wed, 09 Mar 2022 23:53:37 GMT</pubDate>
-            <description><![CDATA[Python built-ins worth learning (2019)]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-20T17:26:54.432Z</updated>
+    <updated>2022-04-20T17:51:02.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HN用的Favicons]]></title>
+        <id>https://news.ycombinator.com/item?id=31095046</id>
+        <link href="https://news.ycombinator.com/item?id=31095046"/>
+        <updated>2022-04-20T10:52:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Favicons for HN]]></summary>
+        <author>
+            <name>frabert</name>
+            <uri>https://news.ycombinator.com/user?id=frabert</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2千美元左右的软件开发的好笔记本电脑是什么？]]></title>
         <id>https://news.ycombinator.com/item?id=31094361</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>agnosticmantis</name>
             <uri>https://news.ycombinator.com/user?id=agnosticmantis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[值得学习的Python内置程序(2019年)]]></title>
-        <id>https://news.ycombinator.com/item?id=30621552</id>
-        <link href="https://news.ycombinator.com/item?id=30621552"/>
-        <updated>2022-03-09T23:53:37.000Z</updated>
-        <summary type="html"><![CDATA[Python built-ins worth learning (2019)]]></summary>
-        <author>
-            <name>type0</name>
-            <uri>https://news.ycombinator.com/user?id=type0</uri>
         </author>
     </entry>
 </feed>
