@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-20T07:33:48.140Z</updated>
+    <updated>2022-04-20T11:39:06.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在机器学习模型中植入不可察觉的后门]]></title>
+        <id>https://news.ycombinator.com/item?id=31064787</id>
+        <link href="https://news.ycombinator.com/item?id=31064787"/>
+        <updated>2022-04-17T21:46:48.000Z</updated>
+        <summary type="html"><![CDATA[Planting Undetectable Backdoors in Machine Learning Models]]></summary>
+        <author>
+            <name>belter</name>
+            <uri>https://news.ycombinator.com/user?id=belter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[服务器端渲染的荒谬复杂性]]></title>
         <id>https://news.ycombinator.com/item?id=31087795</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pabs3</name>
             <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Appeal to Ruby Community from Kharkiv Rubyist]]></title>
-        <id>https://news.ycombinator.com/item?id=30621809</id>
-        <link href="https://news.ycombinator.com/item?id=30621809"/>
-        <updated>2022-03-10T00:28:04.000Z</updated>
-        <summary type="html"><![CDATA[Appeal to Ruby Community from Kharkiv Rubyist]]></summary>
-        <author>
-            <name>stanislavb</name>
-            <uri>https://news.ycombinator.com/user?id=stanislavb</uri>
         </author>
     </entry>
 </feed>
