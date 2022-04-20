@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-19T22:53:28.272Z</updated>
+    <updated>2022-04-20T00:44:46.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[框架 筆記本電腦主機板]]></title>
+        <id>https://news.ycombinator.com/item?id=31089677</id>
+        <link href="https://news.ycombinator.com/item?id=31089677"/>
+        <updated>2022-04-19T21:43:41.000Z</updated>
+        <summary type="html"><![CDATA[Framework Laptop Mainboard]]></summary>
+        <author>
+            <name>hecanjog</name>
+            <uri>https://news.ycombinator.com/user?id=hecanjog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我剛剛在GitHub贊助上達到10萬美元/年（2020年）]]></title>
+        <id>https://news.ycombinator.com/item?id=31085385</id>
+        <link href="https://news.ycombinator.com/item?id=31085385"/>
+        <updated>2022-04-19T16:30:32.000Z</updated>
+        <summary type="html"><![CDATA[I Just Hit $100k/Yr on GitHub Sponsors (2020)]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[介紹a16z START]]></title>
+        <id>https://news.ycombinator.com/item?id=31077047</id>
+        <link href="https://news.ycombinator.com/item?id=31077047"/>
+        <updated>2022-04-18T21:49:18.000Z</updated>
+        <summary type="html"><![CDATA[Introducing a16z START]]></summary>
+        <author>
+            <name>picture</name>
+            <uri>https://news.ycombinator.com/user?id=picture</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們如何升級我們的4TB Postgres數據庫]]></title>
         <id>https://news.ycombinator.com/item?id=31084147</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>tk75x</name>
             <uri>https://news.ycombinator.com/user?id=tk75x</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter is now available on Tor]]></title>
-        <id>https://news.ycombinator.com/item?id=30614987</id>
-        <link href="https://news.ycombinator.com/item?id=30614987"/>
-        <updated>2022-03-09T14:50:28.000Z</updated>
-        <summary type="html"><![CDATA[Twitter is now available on Tor]]></summary>
-        <author>
-            <name>pcaversaccio</name>
-            <uri>https://news.ycombinator.com/user?id=pcaversaccio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我寫過的一些微小的個人程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30614623</id>
-        <link href="https://news.ycombinator.com/item?id=30614623"/>
-        <updated>2022-03-09T14:19:07.000Z</updated>
-        <summary type="html"><![CDATA[Some tiny personal programs I've written]]></summary>
-        <author>
-            <name>atg_abhishek</name>
-            <uri>https://news.ycombinator.com/user?id=atg_abhishek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中國的國家媒體購買了Meta廣告，推動俄羅斯的路線。]]></title>
-        <id>https://news.ycombinator.com/item?id=30614251</id>
-        <link href="https://news.ycombinator.com/item?id=30614251"/>
-        <updated>2022-03-09T13:37:26.000Z</updated>
-        <summary type="html"><![CDATA[China's state media buys Meta ads pushing Russia's line on war]]></summary>
-        <author>
-            <name>sofixa</name>
-            <uri>https://news.ycombinator.com/user?id=sofixa</uri>
         </author>
     </entry>
 </feed>
