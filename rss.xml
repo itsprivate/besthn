@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 21 Apr 2022 21:52:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 22:33:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[CNN+流媒体服务在推出一个月后将被关闭]]></title>
+            <link>https://news.ycombinator.com/item?id=31111276</link>
+            <guid>https://news.ycombinator.com/item?id=31111276</guid>
+            <pubDate>Thu, 21 Apr 2022 16:04:39 GMT</pubDate>
+            <description><![CDATA[CNN+ streaming service is shutting down a month after launching]]></description>
+        </item>
         <item>
             <title><![CDATA[你需要什么和弦？]]></title>
             <link>https://news.ycombinator.com/item?id=31109456</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30647784</guid>
             <pubDate>Sat, 12 Mar 2022 00:25:16 GMT</pubDate>
             <description><![CDATA[How to Design Better APIs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Goldilocks Zone Finder - 找到你的理想气候]]></title>
-            <link>https://news.ycombinator.com/item?id=30642612</link>
-            <guid>https://news.ycombinator.com/item?id=30642612</guid>
-            <pubDate>Fri, 11 Mar 2022 17:06:44 GMT</pubDate>
-            <description><![CDATA[Goldilocks Zone Finder – Find your ideal climate]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-21T21:52:04.246Z</updated>
+    <updated>2022-04-21T22:33:46.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[CNN+流媒体服务在推出一个月后将被关闭]]></title>
+        <id>https://news.ycombinator.com/item?id=31111276</id>
+        <link href="https://news.ycombinator.com/item?id=31111276"/>
+        <updated>2022-04-21T16:04:39.000Z</updated>
+        <summary type="html"><![CDATA[CNN+ streaming service is shutting down a month after launching]]></summary>
+        <author>
+            <name>cwwc</name>
+            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你需要什么和弦？]]></title>
         <id>https://news.ycombinator.com/item?id=31109456</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>adrianomartins</name>
             <uri>https://news.ycombinator.com/user?id=adrianomartins</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goldilocks Zone Finder - 找到你的理想气候]]></title>
-        <id>https://news.ycombinator.com/item?id=30642612</id>
-        <link href="https://news.ycombinator.com/item?id=30642612"/>
-        <updated>2022-03-11T17:06:44.000Z</updated>
-        <summary type="html"><![CDATA[Goldilocks Zone Finder – Find your ideal climate]]></summary>
-        <author>
-            <name>nemo1618</name>
-            <uri>https://news.ycombinator.com/user?id=nemo1618</uri>
         </author>
     </entry>
 </feed>
