@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 21 Apr 2022 21:32:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 21:52:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你需要什么和弦？]]></title>
+            <link>https://news.ycombinator.com/item?id=31109456</link>
+            <guid>https://news.ycombinator.com/item?id=31109456</guid>
+            <pubDate>Thu, 21 Apr 2022 13:56:09 GMT</pubDate>
+            <description><![CDATA[What chords do you need?]]></description>
+        </item>
         <item>
             <title><![CDATA[DALL-E 2如何运作]]></title>
             <link>https://news.ycombinator.com/item?id=31084312</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30642612</guid>
             <pubDate>Fri, 11 Mar 2022 17:06:44 GMT</pubDate>
             <description><![CDATA[Goldilocks Zone Finder – Find your ideal climate]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在MacOS中检查网页视图]]></title>
-            <link>https://news.ycombinator.com/item?id=30648424</link>
-            <guid>https://news.ycombinator.com/item?id=30648424</guid>
-            <pubDate>Sat, 12 Mar 2022 02:27:09 GMT</pubDate>
-            <description><![CDATA[Inspecting Web Views in macOS]]></description>
         </item>
     </channel>
 </rss>
