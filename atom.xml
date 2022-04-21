@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-21T15:16:04.039Z</updated>
+    <updated>2022-04-21T16:59:26.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[马斯克宣布收购Twitter的资金已经到位]]></title>
+        <id>https://news.ycombinator.com/item?id=31109355</id>
+        <link href="https://news.ycombinator.com/item?id=31109355"/>
+        <updated>2022-04-21T13:49:34.000Z</updated>
+        <summary type="html"><![CDATA[Musk announces funding secured for Twitter buy]]></summary>
+        <author>
+            <name>coloneltcb</name>
+            <uri>https://news.ycombinator.com/user?id=coloneltcb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[把废铜变成美丽的水晶]]></title>
         <id>https://news.ycombinator.com/item?id=31105320</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Rygian</name>
             <uri>https://news.ycombinator.com/user?id=Rygian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[uBlock Origin成为火狐浏览器的顶级附加组件]]></title>
-        <id>https://news.ycombinator.com/item?id=30641159</id>
-        <link href="https://news.ycombinator.com/item?id=30641159"/>
-        <updated>2022-03-11T15:38:06.000Z</updated>
-        <summary type="html"><![CDATA[uBlock Origin becomes top addon on Firefox]]></summary>
-        <author>
-            <name>nixcraft</name>
-            <uri>https://news.ycombinator.com/user?id=nixcraft</uri>
         </author>
     </entry>
 </feed>

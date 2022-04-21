@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31109355",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31109355",
+            "title": "马斯克宣布收购Twitter的资金已经到位",
+            "summary": "Musk announces funding secured for Twitter buy",
+            "date_modified": "2022-04-21T13:49:34.000Z",
+            "author": {
+                "name": "coloneltcb",
+                "url": "https://news.ycombinator.com/user?id=coloneltcb"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31105320",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31105320",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "Rygian",
                 "url": "https://news.ycombinator.com/user?id=Rygian"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30641159",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30641159",
-            "title": "uBlock Origin成为火狐浏览器的顶级附加组件",
-            "summary": "uBlock Origin becomes top addon on Firefox",
-            "date_modified": "2022-03-11T15:38:06.000Z",
-            "author": {
-                "name": "nixcraft",
-                "url": "https://news.ycombinator.com/user?id=nixcraft"
             }
         }
     ]

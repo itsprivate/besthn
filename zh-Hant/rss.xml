@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 21 Apr 2022 15:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 16:59:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[馬斯克宣佈收購Twitter的資金已經到位]]></title>
+            <link>https://news.ycombinator.com/item?id=31109355</link>
+            <guid>https://news.ycombinator.com/item?id=31109355</guid>
+            <pubDate>Thu, 21 Apr 2022 13:49:34 GMT</pubDate>
+            <description><![CDATA[Musk announces funding secured for Twitter buy]]></description>
+        </item>
         <item>
             <title><![CDATA[把廢銅變成美麗的水晶]]></title>
             <link>https://news.ycombinator.com/item?id=31105320</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30640846</guid>
             <pubDate>Fri, 11 Mar 2022 15:12:50 GMT</pubDate>
             <description><![CDATA[HeyWhatsThat – Calculate viewshed and panorama for any point on Earth]]></description>
-        </item>
-        <item>
-            <title><![CDATA[uBlock Origin成為火狐瀏覽器的頂級附加組件]]></title>
-            <link>https://news.ycombinator.com/item?id=30641159</link>
-            <guid>https://news.ycombinator.com/item?id=30641159</guid>
-            <pubDate>Fri, 11 Mar 2022 15:38:06 GMT</pubDate>
-            <description><![CDATA[uBlock Origin becomes top addon on Firefox]]></description>
         </item>
     </channel>
 </rss>
