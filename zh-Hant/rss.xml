@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 21 Apr 2022 12:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 13:49:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Java中的通靈簽名]]></title>
+            <link>https://news.ycombinator.com/item?id=31089216</link>
+            <guid>https://news.ycombinator.com/item?id=31089216</guid>
+            <pubDate>Tue, 19 Apr 2022 21:09:34 GMT</pubDate>
+            <description><![CDATA[Psychic Signatures in Java]]></description>
+        </item>
         <item>
             <title><![CDATA[市政寬帶的不合理之爭]]></title>
             <link>https://news.ycombinator.com/item?id=31103133</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30634245</guid>
             <pubDate>Thu, 10 Mar 2022 23:49:20 GMT</pubDate>
             <description><![CDATA[Just Say No to Central Bank Digital Currencies]]></description>
-        </item>
-        <item>
-            <title><![CDATA[波克特。一個微小的、強大的、模塊化的計算機[視頻]]]></title>
-            <link>https://news.ycombinator.com/item?id=30615959</link>
-            <guid>https://news.ycombinator.com/item?id=30615959</guid>
-            <pubDate>Wed, 09 Mar 2022 16:04:13 GMT</pubDate>
-            <description><![CDATA[Pockit: A tiny, powerful, modular computer [video]]]></description>
         </item>
     </channel>
 </rss>

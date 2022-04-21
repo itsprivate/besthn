@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-21T12:19:37.173Z</updated>
+    <updated>2022-04-21T13:49:31.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Java中的通灵签名]]></title>
+        <id>https://news.ycombinator.com/item?id=31089216</id>
+        <link href="https://news.ycombinator.com/item?id=31089216"/>
+        <updated>2022-04-19T21:09:34.000Z</updated>
+        <summary type="html"><![CDATA[Psychic Signatures in Java]]></summary>
+        <author>
+            <name>19870213</name>
+            <uri>https://news.ycombinator.com/user?id=19870213</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[市政宽带的不合理之争]]></title>
         <id>https://news.ycombinator.com/item?id=31103133</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mortenjorck</name>
             <uri>https://news.ycombinator.com/user?id=mortenjorck</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波克特。一个微小的、强大的、模块化的计算机[视频]]]></title>
-        <id>https://news.ycombinator.com/item?id=30615959</id>
-        <link href="https://news.ycombinator.com/item?id=30615959"/>
-        <updated>2022-03-09T16:04:13.000Z</updated>
-        <summary type="html"><![CDATA[Pockit: A tiny, powerful, modular computer [video]]]></summary>
-        <author>
-            <name>rayrag</name>
-            <uri>https://news.ycombinator.com/user?id=rayrag</uri>
         </author>
     </entry>
 </feed>
