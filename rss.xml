@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 21 Apr 2022 16:59:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 18:43:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[专栏--开发商的特许银行]]></title>
+            <link>https://news.ycombinator.com/item?id=31109170</link>
+            <guid>https://news.ycombinator.com/item?id=31109170</guid>
+            <pubDate>Thu, 21 Apr 2022 13:33:51 GMT</pubDate>
+            <description><![CDATA[Column – a chartered bank for developers]]></description>
+        </item>
         <item>
             <title><![CDATA[马斯克宣布收购Twitter的资金已经到位]]></title>
             <link>https://news.ycombinator.com/item?id=31109355</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30640947</guid>
             <pubDate>Fri, 11 Mar 2022 15:20:45 GMT</pubDate>
             <description><![CDATA[U.S. eliminates human controls requirement for fully automated vehicles]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HeyWhatsThat - 计算地球上任何一点的视线范围和全景图]]></title>
-            <link>https://news.ycombinator.com/item?id=30640846</link>
-            <guid>https://news.ycombinator.com/item?id=30640846</guid>
-            <pubDate>Fri, 11 Mar 2022 15:12:50 GMT</pubDate>
-            <description><![CDATA[HeyWhatsThat – Calculate viewshed and panorama for any point on Earth]]></description>
         </item>
     </channel>
 </rss>

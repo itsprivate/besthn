@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-21T16:59:26.127Z</updated>
+    <updated>2022-04-21T18:43:46.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[专栏--开发商的特许银行]]></title>
+        <id>https://news.ycombinator.com/item?id=31109170</id>
+        <link href="https://news.ycombinator.com/item?id=31109170"/>
+        <updated>2022-04-21T13:33:51.000Z</updated>
+        <summary type="html"><![CDATA[Column – a chartered bank for developers]]></summary>
+        <author>
+            <name>whockey</name>
+            <uri>https://news.ycombinator.com/user?id=whockey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马斯克宣布收购Twitter的资金已经到位]]></title>
         <id>https://news.ycombinator.com/item?id=31109355</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ra7</name>
             <uri>https://news.ycombinator.com/user?id=ra7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HeyWhatsThat - 计算地球上任何一点的视线范围和全景图]]></title>
-        <id>https://news.ycombinator.com/item?id=30640846</id>
-        <link href="https://news.ycombinator.com/item?id=30640846"/>
-        <updated>2022-03-11T15:12:50.000Z</updated>
-        <summary type="html"><![CDATA[HeyWhatsThat – Calculate viewshed and panorama for any point on Earth]]></summary>
-        <author>
-            <name>Rygian</name>
-            <uri>https://news.ycombinator.com/user?id=Rygian</uri>
         </author>
     </entry>
 </feed>
