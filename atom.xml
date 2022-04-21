@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-21T11:12:18.404Z</updated>
+    <updated>2022-04-21T12:19:37.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[市政宽带的不合理之争]]></title>
+        <id>https://news.ycombinator.com/item?id=31103133</id>
+        <link href="https://news.ycombinator.com/item?id=31103133"/>
+        <updated>2022-04-20T21:17:21.000Z</updated>
+        <summary type="html"><![CDATA[The unreasonable fight for municipal broadband]]></summary>
+        <author>
+            <name>thcipriani</name>
+            <uri>https://news.ycombinator.com/user?id=thcipriani</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go将在下一个版本中使用pdqsort]]></title>
         <id>https://news.ycombinator.com/item?id=31106157</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rayrag</name>
             <uri>https://news.ycombinator.com/user?id=rayrag</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们是Substack的创始人，我们刚刚推出了一个iOS应用程序。友联]]></title>
-        <id>https://news.ycombinator.com/item?id=30632952</id>
-        <link href="https://news.ycombinator.com/item?id=30632952"/>
-        <updated>2022-03-10T21:51:23.000Z</updated>
-        <summary type="html"><![CDATA[We’re the founders of Substack, we just launched an iOS app. AUA]]></summary>
-        <author>
-            <name>internet_jockey</name>
-            <uri>https://news.ycombinator.com/user?id=internet_jockey</uri>
         </author>
     </entry>
 </feed>

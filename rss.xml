@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 21 Apr 2022 11:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 12:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[市政宽带的不合理之争]]></title>
+            <link>https://news.ycombinator.com/item?id=31103133</link>
+            <guid>https://news.ycombinator.com/item?id=31103133</guid>
+            <pubDate>Wed, 20 Apr 2022 21:17:21 GMT</pubDate>
+            <description><![CDATA[The unreasonable fight for municipal broadband]]></description>
+        </item>
         <item>
             <title><![CDATA[Go将在下一个版本中使用pdqsort]]></title>
             <link>https://news.ycombinator.com/item?id=31106157</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30615959</guid>
             <pubDate>Wed, 09 Mar 2022 16:04:13 GMT</pubDate>
             <description><![CDATA[Pockit: A tiny, powerful, modular computer [video]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们是Substack的创始人，我们刚刚推出了一个iOS应用程序。友联]]></title>
-            <link>https://news.ycombinator.com/item?id=30632952</link>
-            <guid>https://news.ycombinator.com/item?id=30632952</guid>
-            <pubDate>Thu, 10 Mar 2022 21:51:23 GMT</pubDate>
-            <description><![CDATA[We’re the founders of Substack, we just launched an iOS app. AUA]]></description>
         </item>
     </channel>
 </rss>
