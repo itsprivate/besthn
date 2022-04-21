@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-21T02:54:29.274Z</updated>
+    <updated>2022-04-21T03:56:57.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国联邦航空局称，一名优酷网友故意在加州坠毁飞机]]></title>
+        <id>https://news.ycombinator.com/item?id=31104691</id>
+        <link href="https://news.ycombinator.com/item?id=31104691"/>
+        <updated>2022-04-21T00:14:32.000Z</updated>
+        <summary type="html"><![CDATA[A YouTuber Purposely Crashed His Plane in California, FAA Says]]></summary>
+        <author>
+            <name>chrononaut</name>
+            <uri>https://news.ycombinator.com/user?id=chrononaut</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你可能不需要AWS，没有它更好。]]></title>
+        <id>https://news.ycombinator.com/item?id=31101516</id>
+        <link href="https://news.ycombinator.com/item?id=31101516"/>
+        <updated>2022-04-20T19:09:29.000Z</updated>
+        <summary type="html"><![CDATA[You probably don’t need AWS and are better off without it]]></summary>
+        <author>
+            <name>rl1987</name>
+            <uri>https://news.ycombinator.com/user?id=rl1987</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加州电网在4月3日创造了97%的可再生能源电力记录]]></title>
         <id>https://news.ycombinator.com/item?id=31103275</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果AirTags耗尽附近设备的电池]]></title>
-        <id>https://news.ycombinator.com/item?id=30632568</id>
-        <link href="https://news.ycombinator.com/item?id=30632568"/>
-        <updated>2022-03-10T21:16:27.000Z</updated>
-        <summary type="html"><![CDATA[Apple AirTags draining battery of devices close by]]></summary>
-        <author>
-            <name>dewey</name>
-            <uri>https://news.ycombinator.com/user?id=dewey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earn-IT威胁到加密，从而威胁到用户的自由]]></title>
-        <id>https://news.ycombinator.com/item?id=30634872</id>
-        <link href="https://news.ycombinator.com/item?id=30634872"/>
-        <updated>2022-03-11T01:02:29.000Z</updated>
-        <summary type="html"><![CDATA[Earn-IT threatens encryption and therefore user freedom]]></summary>
-        <author>
-            <name>lelf</name>
-            <uri>https://news.ycombinator.com/user?id=lelf</uri>
         </author>
     </entry>
 </feed>
