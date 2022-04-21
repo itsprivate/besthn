@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31105320",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31105320",
+            "title": "把废铜变成美丽的水晶",
+            "summary": "Turning scrap copper into beautiful crystals",
+            "date_modified": "2022-04-21T02:04:41.000Z",
+            "author": {
+                "name": "jamesy0ung",
+                "url": "https://news.ycombinator.com/user?id=jamesy0ung"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31099186",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31099186",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "nixcraft",
                 "url": "https://news.ycombinator.com/user?id=nixcraft"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30638590",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30638590",
-            "title": "为什么谷歌使用语言的位置而不是浏览器设置？",
-            "summary": "Why do Google use location for language rather than browser settings?",
-            "date_modified": "2022-03-11T11:21:48.000Z",
-            "author": {
-                "name": "smallerfish",
-                "url": "https://news.ycombinator.com/user?id=smallerfish"
             }
         }
     ]

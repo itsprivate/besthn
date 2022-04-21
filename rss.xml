@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 21 Apr 2022 14:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 15:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[把废铜变成美丽的水晶]]></title>
+            <link>https://news.ycombinator.com/item?id=31105320</link>
+            <guid>https://news.ycombinator.com/item?id=31105320</guid>
+            <pubDate>Thu, 21 Apr 2022 02:04:41 GMT</pubDate>
+            <description><![CDATA[Turning scrap copper into beautiful crystals]]></description>
+        </item>
         <item>
             <title><![CDATA[你使用优化求解器吗？哪一个？你喜欢它吗？]]></title>
             <link>https://news.ycombinator.com/item?id=31099186</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30641159</guid>
             <pubDate>Fri, 11 Mar 2022 15:38:06 GMT</pubDate>
             <description><![CDATA[uBlock Origin becomes top addon on Firefox]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么谷歌使用语言的位置而不是浏览器设置？]]></title>
-            <link>https://news.ycombinator.com/item?id=30638590</link>
-            <guid>https://news.ycombinator.com/item?id=30638590</guid>
-            <pubDate>Fri, 11 Mar 2022 11:21:48 GMT</pubDate>
-            <description><![CDATA[Why do Google use location for language rather than browser settings?]]></description>
         </item>
     </channel>
 </rss>
