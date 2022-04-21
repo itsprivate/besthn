@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 21 Apr 2022 13:49:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 14:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[网页颜色仍然破损]]></title>
+            <link>https://news.ycombinator.com/item?id=31107643</link>
+            <guid>https://news.ycombinator.com/item?id=31107643</guid>
+            <pubDate>Thu, 21 Apr 2022 10:08:35 GMT</pubDate>
+            <description><![CDATA[Web color is still broken]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Netflix 10多年来首次失去用户]]></title>
+            <link>https://news.ycombinator.com/item?id=31088353</link>
+            <guid>https://news.ycombinator.com/item?id=31088353</guid>
+            <pubDate>Tue, 19 Apr 2022 20:11:06 GMT</pubDate>
+            <description><![CDATA[Netflix loses subscribers for the first time in 10+ years]]></description>
+        </item>
         <item>
             <title><![CDATA[Java中的通灵签名]]></title>
             <link>https://news.ycombinator.com/item?id=31089216</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30635426</guid>
             <pubDate>Fri, 11 Mar 2022 02:29:02 GMT</pubDate>
             <description><![CDATA[Twitter makes it harder to choose the old reverse-chronological feed]]></description>
-        </item>
-        <item>
-            <title><![CDATA[以色列议会通过禁止巴勒斯坦配偶的法律]]></title>
-            <link>https://news.ycombinator.com/item?id=30639159</link>
-            <guid>https://news.ycombinator.com/item?id=30639159</guid>
-            <pubDate>Fri, 11 Mar 2022 12:49:49 GMT</pubDate>
-            <description><![CDATA[Israel's Knesset passes law barring Palestinian spouses]]></description>
-        </item>
-        <item>
-            <title><![CDATA[对中央银行数字货币说不]]></title>
-            <link>https://news.ycombinator.com/item?id=30634245</link>
-            <guid>https://news.ycombinator.com/item?id=30634245</guid>
-            <pubDate>Thu, 10 Mar 2022 23:49:20 GMT</pubDate>
-            <description><![CDATA[Just Say No to Central Bank Digital Currencies]]></description>
         </item>
     </channel>
 </rss>
