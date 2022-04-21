@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 21 Apr 2022 20:39:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 21:32:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[DALL-E 2如何運作]]></title>
+            <link>https://news.ycombinator.com/item?id=31084312</link>
+            <guid>https://news.ycombinator.com/item?id=31084312</guid>
+            <pubDate>Tue, 19 Apr 2022 15:19:09 GMT</pubDate>
+            <description><![CDATA[How DALL-E 2 Works]]></description>
+        </item>
         <item>
             <title><![CDATA[蘋果停用macOS服務器]]></title>
             <link>https://news.ycombinator.com/item?id=31112639</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30648424</guid>
             <pubDate>Sat, 12 Mar 2022 02:27:09 GMT</pubDate>
             <description><![CDATA[Inspecting Web Views in macOS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你永遠不會擁有一輛電動汽車]]></title>
-            <link>https://news.ycombinator.com/item?id=30637725</link>
-            <guid>https://news.ycombinator.com/item?id=30637725</guid>
-            <pubDate>Fri, 11 Mar 2022 08:44:36 GMT</pubDate>
-            <description><![CDATA[You don't ever own an electric vehicle]]></description>
         </item>
     </channel>
 </rss>
