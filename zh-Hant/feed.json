@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31103275",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31103275",
+            "title": "加州電網在4月3日創造了97%的可再生能源電力記錄",
+            "summary": "California grid set record of 97% renewable power on April 3",
+            "date_modified": "2022-04-20T21:30:16.000Z",
+            "author": {
+                "name": "lizparody23",
+                "url": "https://news.ycombinator.com/user?id=lizparody23"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31102089",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31102089",
+            "title": "Memray：Python的內存分析器",
+            "summary": "Memray: a memory profiler for Python",
+            "date_modified": "2022-04-20T19:54:19.000Z",
+            "author": {
+                "name": "shcheklein",
+                "url": "https://news.ycombinator.com/user?id=shcheklein"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31099791",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31099791",
+            "title": "如果創始人像對待員工那樣對待投資者",
+            "summary": "If founders treated investors the way they treat employees",
+            "date_modified": "2022-04-20T16:55:01.000Z",
+            "author": {
+                "name": "yodon",
+                "url": "https://news.ycombinator.com/user?id=yodon"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31075622",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31075622",
+            "title": "大修馬里奧64的代碼，以達到30FPS，並在N64上渲染6倍的速度[視頻]",
+            "summary": "Overhauling Mario 64's code to reach 30 FPS and render 6x faster on N64 [video]",
+            "date_modified": "2022-04-18T19:54:26.000Z",
+            "author": {
+                "name": "kibwen",
+                "url": "https://news.ycombinator.com/user?id=kibwen"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31097578",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31097578",
@@ -7160,54 +7208,6 @@
             "author": {
                 "name": "lelf",
                 "url": "https://news.ycombinator.com/user?id=lelf"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30627495",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30627495",
-            "title": "CXX - Rust和C++之間的安全互操作",
-            "summary": "CXX – safe interop between Rust and C++",
-            "date_modified": "2022-03-10T14:47:23.000Z",
-            "author": {
-                "name": "synergy20",
-                "url": "https://news.ycombinator.com/user?id=synergy20"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30630918",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30630918",
-            "title": "貿發局",
-            "summary": "Tradle",
-            "date_modified": "2022-03-10T18:57:47.000Z",
-            "author": {
-                "name": "tantalor",
-                "url": "https://news.ycombinator.com/user?id=tantalor"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30627418",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30627418",
-            "title": "啟動HN：微肉（YC S21）--規模化栽培肉的技術",
-            "summary": "Launch HN: Micro Meat (YC S21) – Technology for scaling cultivated meat",
-            "date_modified": "2022-03-10T14:40:48.000Z",
-            "author": {
-                "name": "asmertgen",
-                "url": "https://news.ycombinator.com/user?id=asmertgen"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30630666",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30630666",
-            "title": "820GB的Roskomnadzor（俄羅斯政府審查組織）的數據庫傾倒。",
-            "summary": "820GB Database Dump of Roskomnadzor (Russian Government Censorship Organization)",
-            "date_modified": "2022-03-10T18:39:52.000Z",
-            "author": {
-                "name": "chockchocschoir",
-                "url": "https://news.ycombinator.com/user?id=chockchocschoir"
             }
         }
     ]

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-21T00:44:37.387Z</updated>
+    <updated>2022-04-21T02:54:29.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[加州電網在4月3日創造了97%的可再生能源電力記錄]]></title>
+        <id>https://news.ycombinator.com/item?id=31103275</id>
+        <link href="https://news.ycombinator.com/item?id=31103275"/>
+        <updated>2022-04-20T21:30:16.000Z</updated>
+        <summary type="html"><![CDATA[California grid set record of 97% renewable power on April 3]]></summary>
+        <author>
+            <name>lizparody23</name>
+            <uri>https://news.ycombinator.com/user?id=lizparody23</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memray：Python的內存分析器]]></title>
+        <id>https://news.ycombinator.com/item?id=31102089</id>
+        <link href="https://news.ycombinator.com/item?id=31102089"/>
+        <updated>2022-04-20T19:54:19.000Z</updated>
+        <summary type="html"><![CDATA[Memray: a memory profiler for Python]]></summary>
+        <author>
+            <name>shcheklein</name>
+            <uri>https://news.ycombinator.com/user?id=shcheklein</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果創始人像對待員工那樣對待投資者]]></title>
+        <id>https://news.ycombinator.com/item?id=31099791</id>
+        <link href="https://news.ycombinator.com/item?id=31099791"/>
+        <updated>2022-04-20T16:55:01.000Z</updated>
+        <summary type="html"><![CDATA[If founders treated investors the way they treat employees]]></summary>
+        <author>
+            <name>yodon</name>
+            <uri>https://news.ycombinator.com/user?id=yodon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大修馬里奧64的代碼，以達到30FPS，並在N64上渲染6倍的速度[視頻]]]></title>
+        <id>https://news.ycombinator.com/item?id=31075622</id>
+        <link href="https://news.ycombinator.com/item?id=31075622"/>
+        <updated>2022-04-18T19:54:26.000Z</updated>
+        <summary type="html"><![CDATA[Overhauling Mario 64's code to reach 30 FPS and render 6x faster on N64 [video]]]></summary>
+        <author>
+            <name>kibwen</name>
+            <uri>https://news.ycombinator.com/user?id=kibwen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4歲的孩子可以獨自跑腿，而且不僅僅是在真人秀節目中]]></title>
         <id>https://news.ycombinator.com/item?id=31097578</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>lelf</name>
             <uri>https://news.ycombinator.com/user?id=lelf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CXX - Rust和C++之間的安全互操作]]></title>
-        <id>https://news.ycombinator.com/item?id=30627495</id>
-        <link href="https://news.ycombinator.com/item?id=30627495"/>
-        <updated>2022-03-10T14:47:23.000Z</updated>
-        <summary type="html"><![CDATA[CXX – safe interop between Rust and C++]]></summary>
-        <author>
-            <name>synergy20</name>
-            <uri>https://news.ycombinator.com/user?id=synergy20</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[貿發局]]></title>
-        <id>https://news.ycombinator.com/item?id=30630918</id>
-        <link href="https://news.ycombinator.com/item?id=30630918"/>
-        <updated>2022-03-10T18:57:47.000Z</updated>
-        <summary type="html"><![CDATA[Tradle]]></summary>
-        <author>
-            <name>tantalor</name>
-            <uri>https://news.ycombinator.com/user?id=tantalor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[啟動HN：微肉（YC S21）--規模化栽培肉的技術]]></title>
-        <id>https://news.ycombinator.com/item?id=30627418</id>
-        <link href="https://news.ycombinator.com/item?id=30627418"/>
-        <updated>2022-03-10T14:40:48.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: Micro Meat (YC S21) – Technology for scaling cultivated meat]]></summary>
-        <author>
-            <name>asmertgen</name>
-            <uri>https://news.ycombinator.com/user?id=asmertgen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[820GB的Roskomnadzor（俄羅斯政府審查組織）的數據庫傾倒。]]></title>
-        <id>https://news.ycombinator.com/item?id=30630666</id>
-        <link href="https://news.ycombinator.com/item?id=30630666"/>
-        <updated>2022-03-10T18:39:52.000Z</updated>
-        <summary type="html"><![CDATA[820GB Database Dump of Roskomnadzor (Russian Government Censorship Organization)]]></summary>
-        <author>
-            <name>chockchocschoir</name>
-            <uri>https://news.ycombinator.com/user?id=chockchocschoir</uri>
         </author>
     </entry>
 </feed>
