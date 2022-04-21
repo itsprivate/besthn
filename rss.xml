@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 21 Apr 2022 03:56:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 05:57:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你是那个混蛋吗？- 人工智能驱动的回答机器人]]></title>
+            <link>https://news.ycombinator.com/item?id=31099655</link>
+            <guid>https://news.ycombinator.com/item?id=31099655</guid>
+            <pubDate>Wed, 20 Apr 2022 16:45:00 GMT</pubDate>
+            <description><![CDATA[Are you the asshole? – AI powered answer bot]]></description>
+        </item>
         <item>
             <title><![CDATA[美国联邦航空局称，一名优酷网友故意在加州坠毁飞机]]></title>
             <link>https://news.ycombinator.com/item?id=31104691</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30629430</guid>
             <pubDate>Thu, 10 Mar 2022 17:17:01 GMT</pubDate>
             <description><![CDATA[A word used only by Postgres developers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[101国道上的收费标志报告你的应答器设置]]></title>
-            <link>https://news.ycombinator.com/item?id=30627784</link>
-            <guid>https://news.ycombinator.com/item?id=30627784</guid>
-            <pubDate>Thu, 10 Mar 2022 15:13:17 GMT</pubDate>
-            <description><![CDATA[Toll signs on 101 report your transponder setting]]></description>
         </item>
     </channel>
 </rss>
