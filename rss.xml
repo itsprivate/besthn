@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 22 Apr 2022 12:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 14:53:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[到处使用不同电子邮件的人，谁把你卖给了垃圾邮件发送者？]]></title>
+            <link>https://news.ycombinator.com/item?id=31116861</link>
+            <guid>https://news.ycombinator.com/item?id=31116861</guid>
+            <pubDate>Fri, 22 Apr 2022 00:31:49 GMT</pubDate>
+            <description><![CDATA[Ask HN: People who use different emails everywhere, who sold you to spammers?]]></description>
+        </item>
         <item>
             <title><![CDATA[Postgres如何为查询选择使用的索引]]></title>
             <link>https://news.ycombinator.com/item?id=31115492</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30651365</guid>
             <pubDate>Sat, 12 Mar 2022 13:55:33 GMT</pubDate>
             <description><![CDATA[Uber funds new lobbying group to deny rights for gig workers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[软件开发人员的非标准书单]]></title>
-            <link>https://news.ycombinator.com/item?id=30651273</link>
-            <guid>https://news.ycombinator.com/item?id=30651273</guid>
-            <pubDate>Sat, 12 Mar 2022 13:43:14 GMT</pubDate>
-            <description><![CDATA[A non-standard book list for software developers]]></description>
         </item>
     </channel>
 </rss>
