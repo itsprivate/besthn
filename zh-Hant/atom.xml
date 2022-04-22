@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-22T18:16:00.732Z</updated>
+    <updated>2022-04-22T19:28:23.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[網飛公司的底線正在跌落]]></title>
+        <id>https://news.ycombinator.com/item?id=31120094</id>
+        <link href="https://news.ycombinator.com/item?id=31120094"/>
+        <updated>2022-04-22T10:45:53.000Z</updated>
+        <summary type="html"><![CDATA[The Bottom Is Dropping Out of Netflix]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌的人工智能驅動的 "包容性警告 "功能非常糟糕]]></title>
         <id>https://news.ycombinator.com/item?id=31123323</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cartucho1</name>
             <uri>https://news.ycombinator.com/user?id=cartucho1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[揭開.NET的神秘面紗]]></title>
-        <id>https://news.ycombinator.com/item?id=30654114</id>
-        <link href="https://news.ycombinator.com/item?id=30654114"/>
-        <updated>2022-03-12T19:30:06.000Z</updated>
-        <summary type="html"><![CDATA[.NET Myths Dispelled]]></summary>
-        <author>
-            <name>geekydev</name>
-            <uri>https://news.ycombinator.com/user?id=geekydev</uri>
         </author>
     </entry>
 </feed>
