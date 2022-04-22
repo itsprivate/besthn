@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31115078",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31115078",
+            "title": "我放不下 \"鄧寧-克魯格效應就是自相矛盾\"",
+            "summary": "I can't let go of “The Dunning-Kruger Effect is Autocorrelation”",
+            "date_modified": "2022-04-21T20:56:49.000Z",
+            "author": {
+                "name": "keshet",
+                "url": "https://news.ycombinator.com/user?id=keshet"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31115857",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31115857",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "dynm",
                 "url": "https://news.ycombinator.com/user?id=dynm"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30649814",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30649814",
-            "title": "現代電影給我們帶來了可怕的教訓[視頻]",
-            "summary": "Modern movies teach us awful lessons [video]",
-            "date_modified": "2022-03-12T08:00:46.000Z",
-            "author": {
-                "name": "jdkee",
-                "url": "https://news.ycombinator.com/user?id=jdkee"
             }
         }
     ]

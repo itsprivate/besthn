@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 22 Apr 2022 07:51:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 08:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我放不下 "邓宁-克鲁格效应就是自相矛盾"]]></title>
+            <link>https://news.ycombinator.com/item?id=31115078</link>
+            <guid>https://news.ycombinator.com/item?id=31115078</guid>
+            <pubDate>Thu, 21 Apr 2022 20:56:49 GMT</pubDate>
+            <description><![CDATA[I can't let go of “The Dunning-Kruger Effect is Autocorrelation”]]></description>
+        </item>
         <item>
             <title><![CDATA[最小的256x256单色PNG文件，以及你在哪里见过它（2015年）]]></title>
             <link>https://news.ycombinator.com/item?id=31115857</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30651720</guid>
             <pubDate>Sat, 12 Mar 2022 14:47:41 GMT</pubDate>
             <description><![CDATA[Teaching is a slow process of becoming everything you hate]]></description>
-        </item>
-        <item>
-            <title><![CDATA[现代电影给我们带来了可怕的教训[视频]]]></title>
-            <link>https://news.ycombinator.com/item?id=30649814</link>
-            <guid>https://news.ycombinator.com/item?id=30649814</guid>
-            <pubDate>Sat, 12 Mar 2022 08:00:46 GMT</pubDate>
-            <description><![CDATA[Modern movies teach us awful lessons [video]]]></description>
         </item>
     </channel>
 </rss>
