@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 22 Apr 2022 09:34:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 10:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[互联网公司找不到任何会阻止加州网络中立性法律的法官]]></title>
+            <link>https://news.ycombinator.com/item?id=31114876</link>
+            <guid>https://news.ycombinator.com/item?id=31114876</guid>
+            <pubDate>Thu, 21 Apr 2022 20:38:50 GMT</pubDate>
+            <description><![CDATA[ISPs can’t find any judges who will block California net neutrality law]]></description>
+        </item>
         <item>
             <title><![CDATA[Python的 "类型提示 "让我感到有点失望]]></title>
             <link>https://news.ycombinator.com/item?id=31114554</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30653220</guid>
             <pubDate>Sat, 12 Mar 2022 17:51:52 GMT</pubDate>
             <description><![CDATA[Finland starts much-delayed nuclear plant, brings respite to power market]]></description>
-        </item>
-        <item>
-            <title><![CDATA[与一家银行的简短对话]]></title>
-            <link>https://news.ycombinator.com/item?id=30631728</link>
-            <guid>https://news.ycombinator.com/item?id=30631728</guid>
-            <pubDate>Thu, 10 Mar 2022 20:04:09 GMT</pubDate>
-            <description><![CDATA[A short conversation with a bank]]></description>
         </item>
     </channel>
 </rss>
