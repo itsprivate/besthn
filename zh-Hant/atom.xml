@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-22T19:28:23.731Z</updated>
+    <updated>2022-04-22T19:37:54.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[撒切爾夫人在英國的超高速寬帶還沒有出現的時候就將其扼殺了]]></title>
+        <id>https://news.ycombinator.com/item?id=31113920</id>
+        <link href="https://news.ycombinator.com/item?id=31113920"/>
+        <updated>2022-04-21T19:09:37.000Z</updated>
+        <summary type="html"><![CDATA[Thatcher killed the UK’s superfast broadband before it even existed]]></summary>
+        <author>
+            <name>car_analogy</name>
+            <uri>https://news.ycombinator.com/user?id=car_analogy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[網飛公司的底線正在跌落]]></title>
         <id>https://news.ycombinator.com/item?id=31120094</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mathieutd</name>
             <uri>https://news.ycombinator.com/user?id=mathieutd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我用Phaser 3把我的個人網站做成了口袋妖怪式的迷你遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30656961</id>
-        <link href="https://news.ycombinator.com/item?id=30656961"/>
-        <updated>2022-03-13T01:30:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made my personal website a Pokémon-style minigame using Phaser 3]]></summary>
-        <author>
-            <name>cartucho1</name>
-            <uri>https://news.ycombinator.com/user?id=cartucho1</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 22 Apr 2022 19:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 19:37:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[撒切爾夫人在英國的超高速寬帶還沒有出現的時候就將其扼殺了]]></title>
+            <link>https://news.ycombinator.com/item?id=31113920</link>
+            <guid>https://news.ycombinator.com/item?id=31113920</guid>
+            <pubDate>Thu, 21 Apr 2022 19:09:37 GMT</pubDate>
+            <description><![CDATA[Thatcher killed the UK’s superfast broadband before it even existed]]></description>
+        </item>
         <item>
             <title><![CDATA[網飛公司的底線正在跌落]]></title>
             <link>https://news.ycombinator.com/item?id=31120094</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30654693</guid>
             <pubDate>Sat, 12 Mar 2022 20:40:34 GMT</pubDate>
             <description><![CDATA[The case for induction cooking]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我用Phaser 3把我的個人網站做成了口袋妖怪式的迷你遊戲]]></title>
-            <link>https://news.ycombinator.com/item?id=30656961</link>
-            <guid>https://news.ycombinator.com/item?id=30656961</guid>
-            <pubDate>Sun, 13 Mar 2022 01:30:34 GMT</pubDate>
-            <description><![CDATA[Show HN: I made my personal website a Pokémon-style minigame using Phaser 3]]></description>
         </item>
     </channel>
 </rss>
