@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 22 Apr 2022 08:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 09:34:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Python的 "類型提示 "讓我感到有點失望]]></title>
+            <link>https://news.ycombinator.com/item?id=31114554</link>
+            <guid>https://news.ycombinator.com/item?id=31114554</guid>
+            <pubDate>Thu, 21 Apr 2022 20:05:35 GMT</pubDate>
+            <description><![CDATA[Python’s “type hints” are a bit of a disappointment to me]]></description>
+        </item>
         <item>
             <title><![CDATA[我放不下 "鄧寧-克魯格效應就是自相矛盾"]]></title>
             <link>https://news.ycombinator.com/item?id=31115078</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30631728</guid>
             <pubDate>Thu, 10 Mar 2022 20:04:09 GMT</pubDate>
             <description><![CDATA[A short conversation with a bank]]></description>
-        </item>
-        <item>
-            <title><![CDATA[教學是一個緩慢的過程，成為你討厭的一切]]></title>
-            <link>https://news.ycombinator.com/item?id=30651720</link>
-            <guid>https://news.ycombinator.com/item?id=30651720</guid>
-            <pubDate>Sat, 12 Mar 2022 14:47:41 GMT</pubDate>
-            <description><![CDATA[Teaching is a slow process of becoming everything you hate]]></description>
         </item>
     </channel>
 </rss>

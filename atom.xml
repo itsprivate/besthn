@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-22T08:15:58.880Z</updated>
+    <updated>2022-04-22T09:34:57.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Python的 "类型提示 "让我感到有点失望]]></title>
+        <id>https://news.ycombinator.com/item?id=31114554</id>
+        <link href="https://news.ycombinator.com/item?id=31114554"/>
+        <updated>2022-04-21T20:05:35.000Z</updated>
+        <summary type="html"><![CDATA[Python’s “type hints” are a bit of a disappointment to me]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我放不下 "邓宁-克鲁格效应就是自相矛盾"]]></title>
         <id>https://news.ycombinator.com/item?id=31115078</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fremden</name>
             <uri>https://news.ycombinator.com/user?id=fremden</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教学是一个缓慢的过程，成为你讨厌的一切]]></title>
-        <id>https://news.ycombinator.com/item?id=30651720</id>
-        <link href="https://news.ycombinator.com/item?id=30651720"/>
-        <updated>2022-03-12T14:47:41.000Z</updated>
-        <summary type="html"><![CDATA[Teaching is a slow process of becoming everything you hate]]></summary>
-        <author>
-            <name>dynm</name>
-            <uri>https://news.ycombinator.com/user?id=dynm</uri>
         </author>
     </entry>
 </feed>

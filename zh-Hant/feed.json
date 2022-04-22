@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31114554",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31114554",
+            "title": "Python的 \"類型提示 \"讓我感到有點失望",
+            "summary": "Python’s “type hints” are a bit of a disappointment to me",
+            "date_modified": "2022-04-21T20:05:35.000Z",
+            "author": {
+                "name": "zdw",
+                "url": "https://news.ycombinator.com/user?id=zdw"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31115078",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31115078",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "fremden",
                 "url": "https://news.ycombinator.com/user?id=fremden"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30651720",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30651720",
-            "title": "教學是一個緩慢的過程，成為你討厭的一切",
-            "summary": "Teaching is a slow process of becoming everything you hate",
-            "date_modified": "2022-03-12T14:47:41.000Z",
-            "author": {
-                "name": "dynm",
-                "url": "https://news.ycombinator.com/user?id=dynm"
             }
         }
     ]
