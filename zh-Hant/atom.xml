@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-22T10:15:13.083Z</updated>
+    <updated>2022-04-22T12:20:34.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Postgres如何為查詢選擇使用的索引]]></title>
+        <id>https://news.ycombinator.com/item?id=31115492</id>
+        <link href="https://news.ycombinator.com/item?id=31115492"/>
+        <updated>2022-04-21T21:37:14.000Z</updated>
+        <summary type="html"><![CDATA[How Postgres chooses which index to use for a query]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[互聯網公司找不到任何會阻止加州網絡中立性法律的法官]]></title>
         <id>https://news.ycombinator.com/item?id=31114876</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>molteanu</name>
             <uri>https://news.ycombinator.com/user?id=molteanu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[芬蘭啟動拖延已久的核電站，給電力市場帶來喘息機會]]></title>
-        <id>https://news.ycombinator.com/item?id=30653220</id>
-        <link href="https://news.ycombinator.com/item?id=30653220"/>
-        <updated>2022-03-12T17:51:52.000Z</updated>
-        <summary type="html"><![CDATA[Finland starts much-delayed nuclear plant, brings respite to power market]]></summary>
-        <author>
-            <name>hhs</name>
-            <uri>https://news.ycombinator.com/user?id=hhs</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 22 Apr 2022 10:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 12:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Postgres如何为查询选择使用的索引]]></title>
+            <link>https://news.ycombinator.com/item?id=31115492</link>
+            <guid>https://news.ycombinator.com/item?id=31115492</guid>
+            <pubDate>Thu, 21 Apr 2022 21:37:14 GMT</pubDate>
+            <description><![CDATA[How Postgres chooses which index to use for a query]]></description>
+        </item>
         <item>
             <title><![CDATA[互联网公司找不到任何会阻止加州网络中立性法律的法官]]></title>
             <link>https://news.ycombinator.com/item?id=31114876</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30651273</guid>
             <pubDate>Sat, 12 Mar 2022 13:43:14 GMT</pubDate>
             <description><![CDATA[A non-standard book list for software developers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[芬兰启动拖延已久的核电站，给电力市场带来喘息机会]]></title>
-            <link>https://news.ycombinator.com/item?id=30653220</link>
-            <guid>https://news.ycombinator.com/item?id=30653220</guid>
-            <pubDate>Sat, 12 Mar 2022 17:51:52 GMT</pubDate>
-            <description><![CDATA[Finland starts much-delayed nuclear plant, brings respite to power market]]></description>
         </item>
     </channel>
 </rss>
