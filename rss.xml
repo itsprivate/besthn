@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 22 Apr 2022 19:37:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 23:34:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[决策的算法 [pdf]]]></title>
+            <link>https://news.ycombinator.com/item?id=31123683</link>
+            <guid>https://news.ycombinator.com/item?id=31123683</guid>
+            <pubDate>Fri, 22 Apr 2022 16:21:56 GMT</pubDate>
+            <description><![CDATA[Algorithms for Decision Making [pdf]]]></description>
+        </item>
         <item>
             <title><![CDATA[撒切尔夫人在英国的超高速宽带还没有出现的时候就将其扼杀了]]></title>
             <link>https://news.ycombinator.com/item?id=31113920</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30624154</guid>
             <pubDate>Thu, 10 Mar 2022 07:32:40 GMT</pubDate>
             <description><![CDATA[Why offer an Onion Address rather than just encourage browsing-over-Tor?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[电磁炉烹饪的案例]]></title>
-            <link>https://news.ycombinator.com/item?id=30654693</link>
-            <guid>https://news.ycombinator.com/item?id=30654693</guid>
-            <pubDate>Sat, 12 Mar 2022 20:40:34 GMT</pubDate>
-            <description><![CDATA[The case for induction cooking]]></description>
         </item>
     </channel>
 </rss>
