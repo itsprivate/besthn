@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-23T21:12:54.615Z</updated>
+    <updated>2022-04-23T22:12:53.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[慶祝ZX Spectrum誕生40週年]]></title>
+        <id>https://news.ycombinator.com/item?id=31132115</id>
+        <link href="https://news.ycombinator.com/item?id=31132115"/>
+        <updated>2022-04-23T07:12:43.000Z</updated>
+        <summary type="html"><![CDATA[Celebrating 40 years of ZX Spectrum]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[令人討厭的曲線]]></title>
+        <id>https://news.ycombinator.com/item?id=31120139</id>
+        <link href="https://news.ycombinator.com/item?id=31120139"/>
+        <updated>2022-04-22T10:52:50.000Z</updated>
+        <summary type="html"><![CDATA[Repulsive Curves]]></summary>
+        <author>
+            <name>lnyan</name>
+            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果公司說他們要刪除我的遊戲，因為它已經超過2年了]]></title>
         <id>https://news.ycombinator.com/item?id=31135972</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>albertzeyer</name>
             <uri>https://news.ycombinator.com/user?id=albertzeyer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanced已經停產]]></title>
-        <id>https://news.ycombinator.com/item?id=30663739</id>
-        <link href="https://news.ycombinator.com/item?id=30663739"/>
-        <updated>2022-03-13T17:42:41.000Z</updated>
-        <summary type="html"><![CDATA[Vanced has been discontinued]]></summary>
-        <author>
-            <name>nixass</name>
-            <uri>https://news.ycombinator.com/user?id=nixass</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[託卡馬克能源公司在商業核聚變公司中創造了溫度記錄]]></title>
-        <id>https://news.ycombinator.com/item?id=30665140</id>
-        <link href="https://news.ycombinator.com/item?id=30665140"/>
-        <updated>2022-03-13T20:01:15.000Z</updated>
-        <summary type="html"><![CDATA[Tokamak Energy sets a temperature record among commercial fusion companies]]></summary>
-        <author>
-            <name>geox</name>
-            <uri>https://news.ycombinator.com/user?id=geox</uri>
         </author>
     </entry>
 </feed>
