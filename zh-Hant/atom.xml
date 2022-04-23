@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-23T17:25:00.032Z</updated>
+    <updated>2022-04-23T19:11:26.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我停止了對黑洞信息丟失的工作]]></title>
+        <id>https://news.ycombinator.com/item?id=31134074</id>
+        <link href="https://news.ycombinator.com/item?id=31134074"/>
+        <updated>2022-04-23T13:28:21.000Z</updated>
+        <summary type="html"><![CDATA[I stopped working on black hole information loss]]></summary>
+        <author>
+            <name>nsoonhui</name>
+            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我升級到25Gbit/s光纖到戶]]></title>
         <id>https://news.ycombinator.com/item?id=31134534</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>luu</name>
             <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何做得更少]]></title>
-        <id>https://news.ycombinator.com/item?id=30642596</id>
-        <link href="https://news.ycombinator.com/item?id=30642596"/>
-        <updated>2022-03-11T17:06:00.000Z</updated>
-        <summary type="html"><![CDATA[How to Do Less]]></summary>
-        <author>
-            <name>ggoodale</name>
-            <uri>https://news.ycombinator.com/user?id=ggoodale</uri>
         </author>
     </entry>
 </feed>
