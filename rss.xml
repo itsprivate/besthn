@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 23 Apr 2022 09:51:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 11:30:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[融化的KiCad]]></title>
+            <link>https://news.ycombinator.com/item?id=31108652</link>
+            <guid>https://news.ycombinator.com/item?id=31108652</guid>
+            <pubDate>Thu, 21 Apr 2022 12:43:59 GMT</pubDate>
+            <description><![CDATA[Melting KiCad]]></description>
+        </item>
         <item>
             <title><![CDATA[黑客新闻准则]]></title>
             <link>https://news.ycombinator.com/item?id=31128903</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30658886</guid>
             <pubDate>Sun, 13 Mar 2022 07:34:49 GMT</pubDate>
             <description><![CDATA[Tell HN: China Is Entering Lockdown]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们必须回到以创新为动力的经济，而不是颠覆。]]></title>
-            <link>https://news.ycombinator.com/item?id=30658835</link>
-            <guid>https://news.ycombinator.com/item?id=30658835</guid>
-            <pubDate>Sun, 13 Mar 2022 07:26:50 GMT</pubDate>
-            <description><![CDATA[We must return to an economy fueled by innovation, rather than disruption]]></description>
         </item>
     </channel>
 </rss>
