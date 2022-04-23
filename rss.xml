@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 23 Apr 2022 05:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 09:51:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[黑客新闻准则]]></title>
+            <link>https://news.ycombinator.com/item?id=31128903</link>
+            <guid>https://news.ycombinator.com/item?id=31128903</guid>
+            <pubDate>Fri, 22 Apr 2022 22:17:44 GMT</pubDate>
+            <description><![CDATA[Hacker News Guidelines]]></description>
+        </item>
         <item>
             <title><![CDATA[从物理上讲，小平箱是不可能超过重量限制的。]]></title>
             <link>https://news.ycombinator.com/item?id=31116024</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30658835</guid>
             <pubDate>Sun, 13 Mar 2022 07:26:50 GMT</pubDate>
             <description><![CDATA[We must return to an economy fueled by innovation, rather than disruption]]></description>
-        </item>
-        <item>
-            <title><![CDATA[欧盟将强制要求在家用物品中使用客户可更换的电池]]></title>
-            <link>https://news.ycombinator.com/item?id=30660953</link>
-            <guid>https://news.ycombinator.com/item?id=30660953</guid>
-            <pubDate>Sun, 13 Mar 2022 13:14:13 GMT</pubDate>
-            <description><![CDATA[EU to make it mandatory to use customer-replaceable batteries in household items]]></description>
         </item>
     </channel>
 </rss>
