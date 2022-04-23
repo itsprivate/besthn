@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 23 Apr 2022 13:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 17:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我升级到25Gbit/s光纤到户]]></title>
+            <link>https://news.ycombinator.com/item?id=31134534</link>
+            <guid>https://news.ycombinator.com/item?id=31134534</guid>
+            <pubDate>Sat, 23 Apr 2022 14:25:22 GMT</pubDate>
+            <description><![CDATA[My upgrade to 25 Gbit/s Fiber To The Home]]></description>
+        </item>
         <item>
             <title><![CDATA[是我疯了还是区块链技术真的没有价值？]]></title>
             <link>https://news.ycombinator.com/item?id=31132610</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30642596</guid>
             <pubDate>Fri, 11 Mar 2022 17:06:00 GMT</pubDate>
             <description><![CDATA[How to Do Less]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我在2022年的火狐浏览器基本修复]]></title>
-            <link>https://news.ycombinator.com/item?id=30663266</link>
-            <guid>https://news.ycombinator.com/item?id=30663266</guid>
-            <pubDate>Sun, 13 Mar 2022 17:06:47 GMT</pubDate>
-            <description><![CDATA[My essential Firefox fixes in 2022]]></description>
         </item>
     </channel>
 </rss>
