@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-23T22:12:53.110Z</updated>
+    <updated>2022-04-23T23:13:08.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[根據新的歐盟立法，谷歌、Meta和其他公司將不得不解釋其算法]]></title>
+        <id>https://news.ycombinator.com/item?id=31132769</id>
+        <link href="https://news.ycombinator.com/item?id=31132769"/>
+        <updated>2022-04-23T09:56:48.000Z</updated>
+        <summary type="html"><![CDATA[Google, Meta, others will have to explain algorithms under new EU legislation]]></summary>
+        <author>
+            <name>niklasmtj</name>
+            <uri>https://news.ycombinator.com/user?id=niklasmtj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[慶祝ZX Spectrum誕生40週年]]></title>
         <id>https://news.ycombinator.com/item?id=31132115</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>DevToRecruiter</name>
             <uri>https://news.ycombinator.com/user?id=DevToRecruiter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veloren是一個用Rust編寫的多人體素RPG遊戲。]]></title>
-        <id>https://news.ycombinator.com/item?id=30667022</id>
-        <link href="https://news.ycombinator.com/item?id=30667022"/>
-        <updated>2022-03-13T23:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Veloren is a multiplayer voxel RPG written in Rust]]></summary>
-        <author>
-            <name>albertzeyer</name>
-            <uri>https://news.ycombinator.com/user?id=albertzeyer</uri>
         </author>
     </entry>
 </feed>
