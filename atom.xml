@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-23T19:11:26.775Z</updated>
+    <updated>2022-04-23T21:12:54.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果公司说他们要删除我的游戏，因为它已经超过2年了]]></title>
+        <id>https://news.ycombinator.com/item?id=31135972</id>
+        <link href="https://news.ycombinator.com/item?id=31135972"/>
+        <updated>2022-04-23T16:55:46.000Z</updated>
+        <summary type="html"><![CDATA[Apple says they're removing my game because it's more than 2 years old]]></summary>
+        <author>
+            <name>keleftheriou</name>
+            <uri>https://news.ycombinator.com/user?id=keleftheriou</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我停止了对黑洞信息丢失的工作]]></title>
         <id>https://news.ycombinator.com/item?id=31134074</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>geox</name>
             <uri>https://news.ycombinator.com/user?id=geox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python设计模式 (2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=30649470</id>
-        <link href="https://news.ycombinator.com/item?id=30649470"/>
-        <updated>2022-03-12T06:43:27.000Z</updated>
-        <summary type="html"><![CDATA[Python Design Patterns (2018)]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
         </author>
     </entry>
 </feed>
