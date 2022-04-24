@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31136586",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31136586",
+            "title": "安卓在五年內失去了8%的全球操作系統市場份額",
+            "summary": "Android loses 8% of its global OS market share in five years",
+            "date_modified": "2022-04-23T17:57:53.000Z",
+            "author": {
+                "name": "galogon",
+                "url": "https://news.ycombinator.com/user?id=galogon"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31142938",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31142938",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "maddiehalla",
                 "url": "https://news.ycombinator.com/user?id=maddiehalla"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30672021",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30672021",
-            "title": "谷歌從餐館 \"劫持了數百萬客戶和訂單\"--訴訟案",
-            "summary": "Google “hijacked millions of customers and orders” from restaurants – lawsuit",
-            "date_modified": "2022-03-14T13:14:02.000Z",
-            "author": {
-                "name": "JaimeThompson",
-                "url": "https://news.ycombinator.com/user?id=JaimeThompson"
             }
         }
     ]
