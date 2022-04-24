@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-24T03:13:48.913Z</updated>
+    <updated>2022-04-24T12:17:53.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Chris Lattner谈垃圾收集与自动引用计数（2017）。]]></title>
+        <id>https://news.ycombinator.com/item?id=31139610</id>
+        <link href="https://news.ycombinator.com/item?id=31139610"/>
+        <updated>2022-04-23T23:14:28.000Z</updated>
+        <summary type="html"><![CDATA[Chris Lattner on garbage collection vs. Automatic Reference Counting (2017)]]></summary>
+        <author>
+            <name>Austin_Conlon</name>
+            <uri>https://news.ycombinator.com/user?id=Austin_Conlon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这个人工智能并不存在]]></title>
         <id>https://news.ycombinator.com/item?id=31137324</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[花更多的钱留住开发人员，减少你雇用开发人员的成本]]></title>
-        <id>https://news.ycombinator.com/item?id=30668973</id>
-        <link href="https://news.ycombinator.com/item?id=30668973"/>
-        <updated>2022-03-14T06:01:26.000Z</updated>
-        <summary type="html"><![CDATA[Spending more on retaining developers reduces your cost of hiring developers]]></summary>
-        <author>
-            <name>signa11</name>
-            <uri>https://news.ycombinator.com/user?id=signa11</uri>
         </author>
     </entry>
 </feed>

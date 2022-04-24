@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 24 Apr 2022 03:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 12:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Chris Lattner谈垃圾收集与自动引用计数（2017）。]]></title>
+            <link>https://news.ycombinator.com/item?id=31139610</link>
+            <guid>https://news.ycombinator.com/item?id=31139610</guid>
+            <pubDate>Sat, 23 Apr 2022 23:14:28 GMT</pubDate>
+            <description><![CDATA[Chris Lattner on garbage collection vs. Automatic Reference Counting (2017)]]></description>
+        </item>
         <item>
             <title><![CDATA[这个人工智能并不存在]]></title>
             <link>https://news.ycombinator.com/item?id=31137324</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30631571</guid>
             <pubDate>Thu, 10 Mar 2022 19:50:40 GMT</pubDate>
             <description><![CDATA[The hardest thing about engineering is requirements]]></description>
-        </item>
-        <item>
-            <title><![CDATA[花更多的钱留住开发人员，减少你雇用开发人员的成本]]></title>
-            <link>https://news.ycombinator.com/item?id=30668973</link>
-            <guid>https://news.ycombinator.com/item?id=30668973</guid>
-            <pubDate>Mon, 14 Mar 2022 06:01:26 GMT</pubDate>
-            <description><![CDATA[Spending more on retaining developers reduces your cost of hiring developers]]></description>
         </item>
     </channel>
 </rss>
