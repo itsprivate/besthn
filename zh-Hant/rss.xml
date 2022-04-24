@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 24 Apr 2022 21:52:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 22:33:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谷歌稱對谷歌硬盤的Linux支持要 "抓緊 "10年了]]></title>
+            <link>https://news.ycombinator.com/item?id=31145709</link>
+            <guid>https://news.ycombinator.com/item?id=31145709</guid>
+            <pubDate>Sun, 24 Apr 2022 16:40:13 GMT</pubDate>
+            <description><![CDATA[10 years since Google said to “hang tight” about Linux support for Google Drive]]></description>
+        </item>
+        <item>
+            <title><![CDATA[法國戰鬥機歡樂之旅出了大問題 (2020)]]></title>
+            <link>https://news.ycombinator.com/item?id=31145266</link>
+            <guid>https://news.ycombinator.com/item?id=31145266</guid>
+            <pubDate>Sun, 24 Apr 2022 15:56:46 GMT</pubDate>
+            <description><![CDATA[French fighter jet joy ride goes très, très wrong (2020)]]></description>
+        </item>
         <item>
             <title><![CDATA[文本化 - 構建文本用戶界面應用程序的框架]]></title>
             <link>https://news.ycombinator.com/item?id=31143327</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30677471</guid>
             <pubDate>Mon, 14 Mar 2022 20:02:36 GMT</pubDate>
             <description><![CDATA[Ask HN: My Google account was hacked, Google says they can't help]]></description>
-        </item>
-        <item>
-            <title><![CDATA[醫學生通過手術將藍牙植入自己的耳朵以在決賽中作弊]]></title>
-            <link>https://news.ycombinator.com/item?id=30675666</link>
-            <guid>https://news.ycombinator.com/item?id=30675666</guid>
-            <pubDate>Mon, 14 Mar 2022 17:57:06 GMT</pubDate>
-            <description><![CDATA[Medical student surgically implants Bluetooth into own ear to cheat in final]]></description>
-        </item>
-        <item>
-            <title><![CDATA[更新谷歌雲的基礎設施能力和定價]]></title>
-            <link>https://news.ycombinator.com/item?id=30671997</link>
-            <guid>https://news.ycombinator.com/item?id=30671997</guid>
-            <pubDate>Mon, 14 Mar 2022 13:11:43 GMT</pubDate>
-            <description><![CDATA[Updates to Google Cloud’s infrastructure capabilities and pricing]]></description>
         </item>
     </channel>
 </rss>

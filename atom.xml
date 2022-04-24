@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-24T21:52:12.008Z</updated>
+    <updated>2022-04-24T22:33:10.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌称对谷歌硬盘的Linux支持要 "抓紧 "10年了]]></title>
+        <id>https://news.ycombinator.com/item?id=31145709</id>
+        <link href="https://news.ycombinator.com/item?id=31145709"/>
+        <updated>2022-04-24T16:40:13.000Z</updated>
+        <summary type="html"><![CDATA[10 years since Google said to “hang tight” about Linux support for Google Drive]]></summary>
+        <author>
+            <name>politelemon</name>
+            <uri>https://news.ycombinator.com/user?id=politelemon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法国战斗机欢乐之旅出了大问题 (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=31145266</id>
+        <link href="https://news.ycombinator.com/item?id=31145266"/>
+        <updated>2022-04-24T15:56:46.000Z</updated>
+        <summary type="html"><![CDATA[French fighter jet joy ride goes très, très wrong (2020)]]></summary>
+        <author>
+            <name>curmudgeon22</name>
+            <uri>https://news.ycombinator.com/user?id=curmudgeon22</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文本化 - 构建文本用户界面应用程序的框架]]></title>
         <id>https://news.ycombinator.com/item?id=31143327</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>lululouise</name>
             <uri>https://news.ycombinator.com/user?id=lululouise</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[医学生通过手术将蓝牙植入自己的耳朵以在决赛中作弊]]></title>
-        <id>https://news.ycombinator.com/item?id=30675666</id>
-        <link href="https://news.ycombinator.com/item?id=30675666"/>
-        <updated>2022-03-14T17:57:06.000Z</updated>
-        <summary type="html"><![CDATA[Medical student surgically implants Bluetooth into own ear to cheat in final]]></summary>
-        <author>
-            <name>softwarebeware</name>
-            <uri>https://news.ycombinator.com/user?id=softwarebeware</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[更新谷歌云的基础设施能力和定价]]></title>
-        <id>https://news.ycombinator.com/item?id=30671997</id>
-        <link href="https://news.ycombinator.com/item?id=30671997"/>
-        <updated>2022-03-14T13:11:43.000Z</updated>
-        <summary type="html"><![CDATA[Updates to Google Cloud’s infrastructure capabilities and pricing]]></summary>
-        <author>
-            <name>TangerineDream</name>
-            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
         </author>
     </entry>
 </feed>
