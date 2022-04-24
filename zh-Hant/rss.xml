@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 24 Apr 2022 21:39:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 21:52:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[文本化 - 構建文本用戶界面應用程序的框架]]></title>
+            <link>https://news.ycombinator.com/item?id=31143327</link>
+            <guid>https://news.ycombinator.com/item?id=31143327</guid>
+            <pubDate>Sun, 24 Apr 2022 12:15:36 GMT</pubDate>
+            <description><![CDATA[Textualize – A framework for building Text User Interface applications]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌為歐洲提供了一個 "拒絕所有 "的追蹤cookies按鈕]]></title>
             <link>https://news.ycombinator.com/item?id=31144313</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30671997</guid>
             <pubDate>Mon, 14 Mar 2022 13:11:43 GMT</pubDate>
             <description><![CDATA[Updates to Google Cloud’s infrastructure capabilities and pricing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[微軟正在測試Windows 11文件管理器中的廣告]]></title>
-            <link>https://news.ycombinator.com/item?id=30675908</link>
-            <guid>https://news.ycombinator.com/item?id=30675908</guid>
-            <pubDate>Mon, 14 Mar 2022 18:14:15 GMT</pubDate>
-            <description><![CDATA[Microsoft is testing ads in the Windows 11 File Explorer]]></description>
         </item>
     </channel>
 </rss>

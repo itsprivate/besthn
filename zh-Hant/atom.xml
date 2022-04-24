@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-24T21:39:25.754Z</updated>
+    <updated>2022-04-24T21:52:12.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[文本化 - 構建文本用戶界面應用程序的框架]]></title>
+        <id>https://news.ycombinator.com/item?id=31143327</id>
+        <link href="https://news.ycombinator.com/item?id=31143327"/>
+        <updated>2022-04-24T12:15:36.000Z</updated>
+        <summary type="html"><![CDATA[Textualize – A framework for building Text User Interface applications]]></summary>
+        <author>
+            <name>wey-gu</name>
+            <uri>https://news.ycombinator.com/user?id=wey-gu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌為歐洲提供了一個 "拒絕所有 "的追蹤cookies按鈕]]></title>
         <id>https://news.ycombinator.com/item?id=31144313</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>TangerineDream</name>
             <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微軟正在測試Windows 11文件管理器中的廣告]]></title>
-        <id>https://news.ycombinator.com/item?id=30675908</id>
-        <link href="https://news.ycombinator.com/item?id=30675908"/>
-        <updated>2022-03-14T18:14:15.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft is testing ads in the Windows 11 File Explorer]]></summary>
-        <author>
-            <name>DemiGuru</name>
-            <uri>https://news.ycombinator.com/user?id=DemiGuru</uri>
         </author>
     </entry>
 </feed>

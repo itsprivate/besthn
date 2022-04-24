@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31143327",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31143327",
+            "title": "文本化 - 構建文本用戶界面應用程序的框架",
+            "summary": "Textualize – A framework for building Text User Interface applications",
+            "date_modified": "2022-04-24T12:15:36.000Z",
+            "author": {
+                "name": "wey-gu",
+                "url": "https://news.ycombinator.com/user?id=wey-gu"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31144313",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31144313",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "TangerineDream",
                 "url": "https://news.ycombinator.com/user?id=TangerineDream"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30675908",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30675908",
-            "title": "微軟正在測試Windows 11文件管理器中的廣告",
-            "summary": "Microsoft is testing ads in the Windows 11 File Explorer",
-            "date_modified": "2022-03-14T18:14:15.000Z",
-            "author": {
-                "name": "DemiGuru",
-                "url": "https://news.ycombinator.com/user?id=DemiGuru"
             }
         }
     ]
