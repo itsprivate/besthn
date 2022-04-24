@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-24T21:31:28.623Z</updated>
+    <updated>2022-04-24T21:39:25.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌為歐洲提供了一個 "拒絕所有 "的追蹤cookies按鈕]]></title>
+        <id>https://news.ycombinator.com/item?id=31144313</id>
+        <link href="https://news.ycombinator.com/item?id=31144313"/>
+        <updated>2022-04-24T14:27:46.000Z</updated>
+        <summary type="html"><![CDATA[Google gives Europe a ‘reject all’ button for tracking cookies]]></summary>
+        <author>
+            <name>amirmasoudabdol</name>
+            <uri>https://news.ycombinator.com/user?id=amirmasoudabdol</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安卓在五年內失去了8%的全球操作系統市場份額]]></title>
         <id>https://news.ycombinator.com/item?id=31136586</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>DemiGuru</name>
             <uri>https://news.ycombinator.com/user?id=DemiGuru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[啟動HN：活碳（YC W20）--能捕獲和儲存更多碳的樹木]]></title>
-        <id>https://news.ycombinator.com/item?id=30672841</id>
-        <link href="https://news.ycombinator.com/item?id=30672841"/>
-        <updated>2022-03-14T14:28:58.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: Living Carbon (YC W20) – Trees that capture and store more carbon]]></summary>
-        <author>
-            <name>maddiehalla</name>
-            <uri>https://news.ycombinator.com/user?id=maddiehalla</uri>
         </author>
     </entry>
 </feed>
