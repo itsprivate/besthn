@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-24T14:39:37.740Z</updated>
+    <updated>2022-04-24T15:35:11.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[互联网春季大扫除。如何删除Instagram、Facebook和其他账户]]></title>
+        <id>https://news.ycombinator.com/item?id=31142938</id>
+        <link href="https://news.ycombinator.com/item?id=31142938"/>
+        <updated>2022-04-24T11:08:20.000Z</updated>
+        <summary type="html"><![CDATA[Internet spring cleaning: How to delete Instagram, Facebook and other accounts]]></summary>
+        <author>
+            <name>Ashoka_rkt</name>
+            <uri>https://news.ycombinator.com/user?id=Ashoka_rkt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[没有人期望年轻人做什么，而他们的反应是什么都不做]]></title>
         <id>https://news.ycombinator.com/item?id=31143279</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>JaimeThompson</name>
             <uri>https://news.ycombinator.com/user?id=JaimeThompson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的Pinephone设置]]></title>
-        <id>https://news.ycombinator.com/item?id=30667149</id>
-        <link href="https://news.ycombinator.com/item?id=30667149"/>
-        <updated>2022-03-14T00:18:14.000Z</updated>
-        <summary type="html"><![CDATA[My Pinephone Setup]]></summary>
-        <author>
-            <name>georgeoliver</name>
-            <uri>https://news.ycombinator.com/user?id=georgeoliver</uri>
         </author>
     </entry>
 </feed>
