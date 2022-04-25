@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-25T04:46:56.585Z</updated>
+    <updated>2022-04-25T05:02:47.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Ghidra修补一个1996年的嵌入式合成器操作系统]]></title>
+        <id>https://news.ycombinator.com/item?id=31144106</id>
+        <link href="https://news.ycombinator.com/item?id=31144106"/>
+        <updated>2022-04-24T14:05:17.000Z</updated>
+        <summary type="html"><![CDATA[Patching an embedded synthesiser OS from 1996 with Ghidra]]></summary>
+        <author>
+            <name>tomduncalf</name>
+            <uri>https://news.ycombinator.com/user?id=tomduncalf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[反击合同要求是可怕的，但请还是要尝试一下]]></title>
         <id>https://news.ycombinator.com/item?id=31147785</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>davidmckenna</name>
             <uri>https://news.ycombinator.com/user?id=davidmckenna</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safari 15.4中新的WebKit功能]]></title>
-        <id>https://news.ycombinator.com/item?id=30676825</id>
-        <link href="https://news.ycombinator.com/item?id=30676825"/>
-        <updated>2022-03-14T19:12:17.000Z</updated>
-        <summary type="html"><![CDATA[New WebKit features in Safari 15.4]]></summary>
-        <author>
-            <name>ezfe</name>
-            <uri>https://news.ycombinator.com/user?id=ezfe</uri>
         </author>
     </entry>
 </feed>
