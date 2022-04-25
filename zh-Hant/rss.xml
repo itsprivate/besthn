@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 25 Apr 2022 09:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 12:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[上海的視頻壓倒了中國的審查員，獲得了4億的瀏覽量]]></title>
+            <link>https://news.ycombinator.com/item?id=31150370</link>
+            <guid>https://news.ycombinator.com/item?id=31150370</guid>
+            <pubDate>Mon, 25 Apr 2022 02:57:30 GMT</pubDate>
+            <description><![CDATA[Shanghai video overwhelms Chinese censor, gets 400M views]]></description>
+        </item>
+        <item>
+            <title><![CDATA[呼叫NSA找到你的加密密鑰，在幾個比特被翻轉後（2010年）。]]></title>
+            <link>https://news.ycombinator.com/item?id=31137345</link>
+            <guid>https://news.ycombinator.com/item?id=31137345</guid>
+            <pubDate>Sat, 23 Apr 2022 19:06:21 GMT</pubDate>
+            <description><![CDATA[Calling NSA to find your encryption key after a few bits were flipped (2010)]]></description>
+        </item>
         <item>
             <title><![CDATA[在2022年，要找到一個SHA1碰撞有多容易？]]></title>
             <link>https://news.ycombinator.com/item?id=31148839</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30685587</guid>
             <pubDate>Tue, 15 Mar 2022 14:16:51 GMT</pubDate>
             <description><![CDATA[Light mode, Dark mode, and Gen-Z mode?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Arti - Tor的實現，在Rust中。]]></title>
-            <link>https://news.ycombinator.com/item?id=30683879</link>
-            <guid>https://news.ycombinator.com/item?id=30683879</guid>
-            <pubDate>Tue, 15 Mar 2022 11:02:26 GMT</pubDate>
-            <description><![CDATA[Arti – An implementation of Tor, in Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CSS-Tricks已被DigitalOcean收購。]]></title>
-            <link>https://news.ycombinator.com/item?id=30684594</link>
-            <guid>https://news.ycombinator.com/item?id=30684594</guid>
-            <pubDate>Tue, 15 Mar 2022 12:51:04 GMT</pubDate>
-            <description><![CDATA[CSS-Tricks has been acquired by DigitalOcean]]></description>
         </item>
     </channel>
 </rss>

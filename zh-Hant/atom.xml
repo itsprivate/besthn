@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-25T09:46:07.036Z</updated>
+    <updated>2022-04-25T12:20:40.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[上海的視頻壓倒了中國的審查員，獲得了4億的瀏覽量]]></title>
+        <id>https://news.ycombinator.com/item?id=31150370</id>
+        <link href="https://news.ycombinator.com/item?id=31150370"/>
+        <updated>2022-04-25T02:57:30.000Z</updated>
+        <summary type="html"><![CDATA[Shanghai video overwhelms Chinese censor, gets 400M views]]></summary>
+        <author>
+            <name>hongsy</name>
+            <uri>https://news.ycombinator.com/user?id=hongsy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[呼叫NSA找到你的加密密鑰，在幾個比特被翻轉後（2010年）。]]></title>
+        <id>https://news.ycombinator.com/item?id=31137345</id>
+        <link href="https://news.ycombinator.com/item?id=31137345"/>
+        <updated>2022-04-23T19:06:21.000Z</updated>
+        <summary type="html"><![CDATA[Calling NSA to find your encryption key after a few bits were flipped (2010)]]></summary>
+        <author>
+            <name>marcodiego</name>
+            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在2022年，要找到一個SHA1碰撞有多容易？]]></title>
         <id>https://news.ycombinator.com/item?id=31148839</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>beweinreich</name>
             <uri>https://news.ycombinator.com/user?id=beweinreich</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arti - Tor的實現，在Rust中。]]></title>
-        <id>https://news.ycombinator.com/item?id=30683879</id>
-        <link href="https://news.ycombinator.com/item?id=30683879"/>
-        <updated>2022-03-15T11:02:26.000Z</updated>
-        <summary type="html"><![CDATA[Arti – An implementation of Tor, in Rust]]></summary>
-        <author>
-            <name>solanav</name>
-            <uri>https://news.ycombinator.com/user?id=solanav</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS-Tricks已被DigitalOcean收購。]]></title>
-        <id>https://news.ycombinator.com/item?id=30684594</id>
-        <link href="https://news.ycombinator.com/item?id=30684594"/>
-        <updated>2022-03-15T12:51:04.000Z</updated>
-        <summary type="html"><![CDATA[CSS-Tricks has been acquired by DigitalOcean]]></summary>
-        <author>
-            <name>nilsandrey</name>
-            <uri>https://news.ycombinator.com/user?id=nilsandrey</uri>
         </author>
     </entry>
 </feed>
