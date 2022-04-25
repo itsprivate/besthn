@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-25T18:16:38.185Z</updated>
+    <updated>2022-04-25T19:02:58.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[日本的故鄉稅 (2018)]]></title>
+        <id>https://news.ycombinator.com/item?id=31152365</id>
+        <link href="https://news.ycombinator.com/item?id=31152365"/>
+        <updated>2022-04-25T09:48:34.000Z</updated>
+        <summary type="html"><![CDATA[Japan's Hometown Tax (2018)]]></summary>
+        <author>
+            <name>harporoeder</name>
+            <uri>https://news.ycombinator.com/user?id=harporoeder</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hare編程語言]]></title>
         <id>https://news.ycombinator.com/item?id=31151591</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ilamont</name>
             <uri>https://news.ycombinator.com/user?id=ilamont</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國參議院一致投票決定將夏令時永久化]]></title>
-        <id>https://news.ycombinator.com/item?id=30689043</id>
-        <link href="https://news.ycombinator.com/item?id=30689043"/>
-        <updated>2022-03-15T18:29:09.000Z</updated>
-        <summary type="html"><![CDATA[US Senate votes unanimously to make daylight savings time permanent]]></summary>
-        <author>
-            <name>enraged_camel</name>
-            <uri>https://news.ycombinator.com/user?id=enraged_camel</uri>
         </author>
     </entry>
 </feed>
