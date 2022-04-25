@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 25 Apr 2022 05:02:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 05:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[无人机改变了卢旺达的血液输送状况]]></title>
+            <link>https://news.ycombinator.com/item?id=31146299</link>
+            <guid>https://news.ycombinator.com/item?id=31146299</guid>
+            <pubDate>Sun, 24 Apr 2022 17:42:19 GMT</pubDate>
+            <description><![CDATA[Drones have transformed blood delivery in Rwanda]]></description>
+        </item>
         <item>
             <title><![CDATA[用Ghidra修补一个1996年的嵌入式合成器操作系统]]></title>
             <link>https://news.ycombinator.com/item?id=31144106</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30682137</guid>
             <pubDate>Tue, 15 Mar 2022 06:11:18 GMT</pubDate>
             <description><![CDATA[Cities should not pay for new stadiums]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么很难买到好用的东西呢？]]></title>
-            <link>https://news.ycombinator.com/item?id=30679935</link>
-            <guid>https://news.ycombinator.com/item?id=30679935</guid>
-            <pubDate>Mon, 14 Mar 2022 23:32:11 GMT</pubDate>
-            <description><![CDATA[Why is it hard to buy things that work well?]]></description>
         </item>
     </channel>
 </rss>
