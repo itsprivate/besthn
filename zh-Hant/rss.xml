@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 25 Apr 2022 19:52:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 20:46:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[瑞典慢電視。麋鹿大遷徙 [視頻]]]></title>
+            <link>https://news.ycombinator.com/item?id=31150996</link>
+            <guid>https://news.ycombinator.com/item?id=31150996</guid>
+            <pubDate>Mon, 25 Apr 2022 05:31:45 GMT</pubDate>
+            <description><![CDATA[Swedish slow TV: The great moose migration [video]]]></description>
+        </item>
         <item>
             <title><![CDATA[工程管理的原則]]></title>
             <link>https://news.ycombinator.com/item?id=31154738</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30686919</guid>
             <pubDate>Tue, 15 Mar 2022 15:57:36 GMT</pubDate>
             <description><![CDATA[PartialExecuter: Reducing WebAssembly size by exploring all executions in LLVM]]></description>
-        </item>
-        <item>
-            <title><![CDATA[K-Means聚類法簡介]]></title>
-            <link>https://news.ycombinator.com/item?id=30673364</link>
-            <guid>https://news.ycombinator.com/item?id=30673364</guid>
-            <pubDate>Mon, 14 Mar 2022 15:12:42 GMT</pubDate>
-            <description><![CDATA[Introduction to K-Means Clustering]]></description>
         </item>
     </channel>
 </rss>
