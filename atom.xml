@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-25T20:46:37.253Z</updated>
+    <updated>2022-04-25T22:35:08.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[twitter/the-algorithm]]></title>
+        <id>https://news.ycombinator.com/item?id=31160546</id>
+        <link href="https://news.ycombinator.com/item?id=31160546"/>
+        <updated>2022-04-25T21:01:53.000Z</updated>
+        <summary type="html"><![CDATA[twitter/the-algorithm]]></summary>
+        <author>
+            <name>johns</name>
+            <uri>https://news.ycombinator.com/user?id=johns</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[瑞典慢电视。麋鹿大迁徙 [视频]]]></title>
         <id>https://news.ycombinator.com/item?id=31150996</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>josteink</name>
             <uri>https://news.ycombinator.com/user?id=josteink</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[局部执行者。通过探索LLVM中的所有执行来减少WebAssembly的大小]]></title>
-        <id>https://news.ycombinator.com/item?id=30686919</id>
-        <link href="https://news.ycombinator.com/item?id=30686919"/>
-        <updated>2022-03-15T15:57:36.000Z</updated>
-        <summary type="html"><![CDATA[PartialExecuter: Reducing WebAssembly size by exploring all executions in LLVM]]></summary>
-        <author>
-            <name>apignotti</name>
-            <uri>https://news.ycombinator.com/user?id=apignotti</uri>
         </author>
     </entry>
 </feed>
