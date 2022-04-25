@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 25 Apr 2022 19:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 19:52:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[工程管理的原则]]></title>
+            <link>https://news.ycombinator.com/item?id=31154738</link>
+            <guid>https://news.ycombinator.com/item?id=31154738</guid>
+            <pubDate>Mon, 25 Apr 2022 13:52:59 GMT</pubDate>
+            <description><![CDATA[Principles of Engineering Management]]></description>
+        </item>
         <item>
             <title><![CDATA[日本的故乡税 (2018)]]></title>
             <link>https://news.ycombinator.com/item?id=31152365</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30673364</guid>
             <pubDate>Mon, 14 Mar 2022 15:12:42 GMT</pubDate>
             <description><![CDATA[Introduction to K-Means Clustering]]></description>
-        </item>
-        <item>
-            <title><![CDATA[受欢迎的藏族歌手才旺诺布在自焚抗议中去世]]></title>
-            <link>https://news.ycombinator.com/item?id=30688013</link>
-            <guid>https://news.ycombinator.com/item?id=30688013</guid>
-            <pubDate>Tue, 15 Mar 2022 17:14:56 GMT</pubDate>
-            <description><![CDATA[Popular Tibetan singer Tsewang Norbu dies of self-immolation protest]]></description>
         </item>
     </channel>
 </rss>
