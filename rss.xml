@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 25 Apr 2022 05:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 09:46:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在2022年，要找到一个SHA1碰撞有多容易？]]></title>
+            <link>https://news.ycombinator.com/item?id=31148839</link>
+            <guid>https://news.ycombinator.com/item?id=31148839</guid>
+            <pubDate>Sun, 24 Apr 2022 22:17:20 GMT</pubDate>
+            <description><![CDATA[How easy is it in 2022 to find a SHA1 collision?]]></description>
+        </item>
         <item>
             <title><![CDATA[无人机改变了卢旺达的血液输送状况]]></title>
             <link>https://news.ycombinator.com/item?id=31146299</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30684594</guid>
             <pubDate>Tue, 15 Mar 2022 12:51:04 GMT</pubDate>
             <description><![CDATA[CSS-Tricks has been acquired by DigitalOcean]]></description>
-        </item>
-        <item>
-            <title><![CDATA[城市不应该为新的体育场馆买单]]></title>
-            <link>https://news.ycombinator.com/item?id=30682137</link>
-            <guid>https://news.ycombinator.com/item?id=30682137</guid>
-            <pubDate>Tue, 15 Mar 2022 06:11:18 GMT</pubDate>
-            <description><![CDATA[Cities should not pay for new stadiums]]></description>
         </item>
     </channel>
 </rss>

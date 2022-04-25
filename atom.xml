@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-25T05:19:06.030Z</updated>
+    <updated>2022-04-25T09:46:06.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在2022年，要找到一个SHA1碰撞有多容易？]]></title>
+        <id>https://news.ycombinator.com/item?id=31148839</id>
+        <link href="https://news.ycombinator.com/item?id=31148839"/>
+        <updated>2022-04-24T22:17:20.000Z</updated>
+        <summary type="html"><![CDATA[How easy is it in 2022 to find a SHA1 collision?]]></summary>
+        <author>
+            <name>gary_0</name>
+            <uri>https://news.ycombinator.com/user?id=gary_0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无人机改变了卢旺达的血液输送状况]]></title>
         <id>https://news.ycombinator.com/item?id=31146299</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nilsandrey</name>
             <uri>https://news.ycombinator.com/user?id=nilsandrey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[城市不应该为新的体育场馆买单]]></title>
-        <id>https://news.ycombinator.com/item?id=30682137</id>
-        <link href="https://news.ycombinator.com/item?id=30682137"/>
-        <updated>2022-03-15T06:11:18.000Z</updated>
-        <summary type="html"><![CDATA[Cities should not pay for new stadiums]]></summary>
-        <author>
-            <name>droptablemain</name>
-            <uri>https://news.ycombinator.com/user?id=droptablemain</uri>
         </author>
     </entry>
 </feed>
