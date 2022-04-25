@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-25T12:20:40.245Z</updated>
+    <updated>2022-04-25T13:51:44.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[消息人士称Twitter将接受马斯克430亿美元的报价]]></title>
+        <id>https://news.ycombinator.com/item?id=31153277</id>
+        <link href="https://news.ycombinator.com/item?id=31153277"/>
+        <updated>2022-04-25T11:58:20.000Z</updated>
+        <summary type="html"><![CDATA[Twitter set to accept Musk's $43B offer – sources]]></summary>
+        <author>
+            <name>marban</name>
+            <uri>https://news.ycombinator.com/user?id=marban</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上海的视频压倒了中国的审查员，获得了4亿的浏览量]]></title>
         <id>https://news.ycombinator.com/item?id=31150370</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sndean</name>
             <uri>https://news.ycombinator.com/user?id=sndean</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光线模式，黑暗模式，以及Gen-Z模式？]]></title>
-        <id>https://news.ycombinator.com/item?id=30685587</id>
-        <link href="https://news.ycombinator.com/item?id=30685587"/>
-        <updated>2022-03-15T14:16:51.000Z</updated>
-        <summary type="html"><![CDATA[Light mode, Dark mode, and Gen-Z mode?]]></summary>
-        <author>
-            <name>beweinreich</name>
-            <uri>https://news.ycombinator.com/user?id=beweinreich</uri>
         </author>
     </entry>
 </feed>
