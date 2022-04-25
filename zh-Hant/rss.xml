@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 25 Apr 2022 15:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 17:56:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在Ubuntu 22.04上從.deb（不是從snap）下載火狐。]]></title>
+            <link>https://news.ycombinator.com/item?id=31138413</link>
+            <guid>https://news.ycombinator.com/item?id=31138413</guid>
+            <pubDate>Sat, 23 Apr 2022 20:51:44 GMT</pubDate>
+            <description><![CDATA[Firefox on Ubuntu 22.04 from .deb (not from snap)]]></description>
+        </item>
         <item>
             <title><![CDATA[你是否使用過SQLite作為主數據庫？]]></title>
             <link>https://news.ycombinator.com/item?id=31152490</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30688208</guid>
             <pubDate>Tue, 15 Mar 2022 17:29:36 GMT</pubDate>
             <description><![CDATA[Go 1.18 Released]]></description>
-        </item>
-        <item>
-            <title><![CDATA[參議院一致投票通過法案，使夏令時成為永久性時間]]></title>
-            <link>https://news.ycombinator.com/item?id=30689221</link>
-            <guid>https://news.ycombinator.com/item?id=30689221</guid>
-            <pubDate>Tue, 15 Mar 2022 18:41:23 GMT</pubDate>
-            <description><![CDATA[Senate votes unanimously to pass bill making Daylight Savings Time permanent]]></description>
         </item>
     </channel>
 </rss>
