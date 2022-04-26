@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-26T15:15:53.494Z</updated>
+    <updated>2022-04-26T17:45:42.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Zq：一個更容易、更快速的jq替代品]]></title>
+        <id>https://news.ycombinator.com/item?id=31166956</id>
+        <link href="https://news.ycombinator.com/item?id=31166956"/>
+        <updated>2022-04-26T13:02:59.000Z</updated>
+        <summary type="html"><![CDATA[Zq: An easier and faster alternative to jq]]></summary>
+        <author>
+            <name>mccanne</name>
+            <uri>https://news.ycombinator.com/user?id=mccanne</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[洛克斯堡大學]]></title>
         <id>https://news.ycombinator.com/item?id=31166346</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cwwc</name>
             <uri>https://news.ycombinator.com/user?id=cwwc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們的免費計劃如何保持免費]]></title>
-        <id>https://news.ycombinator.com/item?id=30701451</id>
-        <link href="https://news.ycombinator.com/item?id=30701451"/>
-        <updated>2022-03-16T17:14:49.000Z</updated>
-        <summary type="html"><![CDATA[How our free plan stays free]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>

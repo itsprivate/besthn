@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 26 Apr 2022 15:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 17:45:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Zq：一個更容易、更快速的jq替代品]]></title>
+            <link>https://news.ycombinator.com/item?id=31166956</link>
+            <guid>https://news.ycombinator.com/item?id=31166956</guid>
+            <pubDate>Tue, 26 Apr 2022 13:02:59 GMT</pubDate>
+            <description><![CDATA[Zq: An easier and faster alternative to jq]]></description>
+        </item>
         <item>
             <title><![CDATA[洛克斯堡大學]]></title>
             <link>https://news.ycombinator.com/item?id=31166346</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30702507</guid>
             <pubDate>Wed, 16 Mar 2022 18:50:56 GMT</pubDate>
             <description><![CDATA[5 Charged with Stalking, Harassing, Spying on US Residents for PRC Secret Police]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們的免費計劃如何保持免費]]></title>
-            <link>https://news.ycombinator.com/item?id=30701451</link>
-            <guid>https://news.ycombinator.com/item?id=30701451</guid>
-            <pubDate>Wed, 16 Mar 2022 17:14:49 GMT</pubDate>
-            <description><![CDATA[How our free plan stays free]]></description>
         </item>
     </channel>
 </rss>
