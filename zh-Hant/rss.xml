@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 25 Apr 2022 22:35:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 04:53:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[核子、核子和錐子。核潛艇上獨特的社會等級制度]]></title>
+            <link>https://news.ycombinator.com/item?id=31155242</link>
+            <guid>https://news.ycombinator.com/item?id=31155242</guid>
+            <pubDate>Mon, 25 Apr 2022 14:24:14 GMT</pubDate>
+            <description><![CDATA[Nukes, nubs and coners: The unique social hierarchy aboard a nuclear submarine]]></description>
+        </item>
         <item>
             <title><![CDATA[twitter/the-algorithm]]></title>
             <link>https://news.ycombinator.com/item?id=31160546</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30688691</guid>
             <pubDate>Tue, 15 Mar 2022 18:02:45 GMT</pubDate>
             <description><![CDATA[Show HN: I made Devzat – It's like discord but in the terminal, over SSH]]></description>
-        </item>
-        <item>
-            <title><![CDATA[第一臺RISC-V便攜式計算機現已上市]]></title>
-            <link>https://news.ycombinator.com/item?id=30689030</link>
-            <guid>https://news.ycombinator.com/item?id=30689030</guid>
-            <pubDate>Tue, 15 Mar 2022 18:28:20 GMT</pubDate>
-            <description><![CDATA[The first RISC-V portable computer is now available]]></description>
         </item>
     </channel>
 </rss>
