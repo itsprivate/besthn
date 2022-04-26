@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-26T14:32:36.983Z</updated>
+    <updated>2022-04-26T15:15:53.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[洛克斯堡大学]]></title>
+        <id>https://news.ycombinator.com/item?id=31166346</id>
+        <link href="https://news.ycombinator.com/item?id=31166346"/>
+        <updated>2022-04-26T11:53:30.000Z</updated>
+        <summary type="html"><![CDATA[LineageOS 19]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过测试学习围棋]]></title>
+        <id>https://news.ycombinator.com/item?id=31163709</id>
+        <link href="https://news.ycombinator.com/item?id=31163709"/>
+        <updated>2022-04-26T03:43:32.000Z</updated>
+        <summary type="html"><![CDATA[Learn Go with Tests]]></summary>
+        <author>
+            <name>Lantt</name>
+            <uri>https://news.ycombinator.com/user?id=Lantt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在macOS上不能做而在Ubuntu上可以做的事情]]></title>
         <id>https://news.ycombinator.com/item?id=31165505</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Osm.el - Emacs的OpenStreetMap浏览器]]></title>
-        <id>https://news.ycombinator.com/item?id=30682841</id>
-        <link href="https://news.ycombinator.com/item?id=30682841"/>
-        <updated>2022-03-15T08:22:16.000Z</updated>
-        <summary type="html"><![CDATA[Osm.el – OpenStreetMap Viewer for Emacs]]></summary>
-        <author>
-            <name>okasaki</name>
-            <uri>https://news.ycombinator.com/user?id=okasaki</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[故意优化伤害]]></title>
-        <id>https://news.ycombinator.com/item?id=30698803</id>
-        <link href="https://news.ycombinator.com/item?id=30698803"/>
-        <updated>2022-03-16T13:51:10.000Z</updated>
-        <summary type="html"><![CDATA[Deliberately optimizing for harm]]></summary>
-        <author>
-            <name>herodotus</name>
-            <uri>https://news.ycombinator.com/user?id=herodotus</uri>
         </author>
     </entry>
 </feed>
