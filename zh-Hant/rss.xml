@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 26 Apr 2022 06:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 07:51:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Twitter的毒丸是怎麼回事？]]></title>
+            <link>https://news.ycombinator.com/item?id=31157969</link>
+            <guid>https://news.ycombinator.com/item?id=31157969</guid>
+            <pubDate>Mon, 25 Apr 2022 17:22:21 GMT</pubDate>
+            <description><![CDATA[Ask HN: What happened to Twitter poison pill?]]></description>
+        </item>
         <item>
             <title><![CDATA[優雅的六頁證明揭示了隨機結構的出現]]></title>
             <link>https://news.ycombinator.com/item?id=31162576</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30693301</guid>
             <pubDate>Tue, 15 Mar 2022 23:26:29 GMT</pubDate>
             <description><![CDATA[Hot Dog Linux – Horrible Obsolete Typeface and Dreadful Onscreen Graphics]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TinyRenderer - OpenGL的工作原理：500行代碼的軟件渲染]]></title>
-            <link>https://news.ycombinator.com/item?id=30686163</link>
-            <guid>https://news.ycombinator.com/item?id=30686163</guid>
-            <pubDate>Tue, 15 Mar 2022 14:59:56 GMT</pubDate>
-            <description><![CDATA[TinyRenderer – how OpenGL works: software rendering in 500 lines of code]]></description>
         </item>
     </channel>
 </rss>

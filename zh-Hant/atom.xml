@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-26T06:15:22.000Z</updated>
+    <updated>2022-04-26T07:51:42.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Twitter的毒丸是怎麼回事？]]></title>
+        <id>https://news.ycombinator.com/item?id=31157969</id>
+        <link href="https://news.ycombinator.com/item?id=31157969"/>
+        <updated>2022-04-25T17:22:21.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What happened to Twitter poison pill?]]></summary>
+        <author>
+            <name>rukshn</name>
+            <uri>https://news.ycombinator.com/user?id=rukshn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[優雅的六頁證明揭示了隨機結構的出現]]></title>
         <id>https://news.ycombinator.com/item?id=31162576</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Epiphany21</name>
             <uri>https://news.ycombinator.com/user?id=Epiphany21</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TinyRenderer - OpenGL的工作原理：500行代碼的軟件渲染]]></title>
-        <id>https://news.ycombinator.com/item?id=30686163</id>
-        <link href="https://news.ycombinator.com/item?id=30686163"/>
-        <updated>2022-03-15T14:59:56.000Z</updated>
-        <summary type="html"><![CDATA[TinyRenderer – how OpenGL works: software rendering in 500 lines of code]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
         </author>
     </entry>
 </feed>
