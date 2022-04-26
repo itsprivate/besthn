@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 26 Apr 2022 20:39:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 20:53:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有3200年历史的埃及石碑记录了人们错过工作的借口]]></title>
+            <link>https://news.ycombinator.com/item?id=31168862</link>
+            <guid>https://news.ycombinator.com/item?id=31168862</guid>
+            <pubDate>Tue, 26 Apr 2022 15:38:51 GMT</pubDate>
+            <description><![CDATA[3,200-year-old Egyptian tablet records excuses for why people missed work]]></description>
+        </item>
         <item>
             <title><![CDATA[捍卫加州严肃数学教育运动的最新情况]]></title>
             <link>https://news.ycombinator.com/item?id=31170431</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30702117</guid>
             <pubDate>Wed, 16 Mar 2022 18:13:27 GMT</pubDate>
             <description><![CDATA[US Copyright Office refuses application with AI algorithm named as author]]></description>
-        </item>
-        <item>
-            <title><![CDATA[证据表明，著名的海军UFO视频是摄像机的眩光]]></title>
-            <link>https://news.ycombinator.com/item?id=30702319</link>
-            <guid>https://news.ycombinator.com/item?id=30702319</guid>
-            <pubDate>Wed, 16 Mar 2022 18:31:58 GMT</pubDate>
-            <description><![CDATA[Famous Navy UFO video was camera glare, evidence suggests]]></description>
         </item>
     </channel>
 </rss>
