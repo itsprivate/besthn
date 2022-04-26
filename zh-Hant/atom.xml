@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-26T04:53:05.267Z</updated>
+    <updated>2022-04-26T06:15:22.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[優雅的六頁證明揭示了隨機結構的出現]]></title>
+        <id>https://news.ycombinator.com/item?id=31162576</id>
+        <link href="https://news.ycombinator.com/item?id=31162576"/>
+        <updated>2022-04-26T00:25:49.000Z</updated>
+        <summary type="html"><![CDATA[Elegant six-page proof reveals the emergence of random structure]]></summary>
+        <author>
+            <name>davidvarela_us</name>
+            <uri>https://news.ycombinator.com/user?id=davidvarela_us</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[核子、核子和錐子。核潛艇上獨特的社會等級制度]]></title>
         <id>https://news.ycombinator.com/item?id=31155242</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>graderjs</name>
             <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了Devzat - 它就像discord，但在終端，通過SSH。]]></title>
-        <id>https://news.ycombinator.com/item?id=30688691</id>
-        <link href="https://news.ycombinator.com/item?id=30688691"/>
-        <updated>2022-03-15T18:02:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made Devzat – It's like discord but in the terminal, over SSH]]></summary>
-        <author>
-            <name>quackduck</name>
-            <uri>https://news.ycombinator.com/user?id=quackduck</uri>
         </author>
     </entry>
 </feed>
