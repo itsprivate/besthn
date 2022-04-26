@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 26 Apr 2022 08:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 14:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我在一年内卖出了640本我的书]]></title>
+            <link>https://news.ycombinator.com/item?id=31153963</link>
+            <guid>https://news.ycombinator.com/item?id=31153963</guid>
+            <pubDate>Mon, 25 Apr 2022 13:07:59 GMT</pubDate>
+            <description><![CDATA[I sold 640 copies of my book in one year]]></description>
+        </item>
         <item>
             <title><![CDATA[机器学习就业市场]]></title>
             <link>https://news.ycombinator.com/item?id=31155782</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30697932</guid>
             <pubDate>Wed, 16 Mar 2022 12:30:11 GMT</pubDate>
             <description><![CDATA[Zelensky video deepfake]]></description>
-        </item>
-        <item>
-            <title><![CDATA[关于成为不可或缺的人]]></title>
-            <link>https://news.ycombinator.com/item?id=30671345</link>
-            <guid>https://news.ycombinator.com/item?id=30671345</guid>
-            <pubDate>Mon, 14 Mar 2022 11:57:02 GMT</pubDate>
-            <description><![CDATA[On Being Indispensable]]></description>
         </item>
     </channel>
 </rss>

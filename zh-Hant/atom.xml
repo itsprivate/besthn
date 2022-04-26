@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-26T08:40:44.815Z</updated>
+    <updated>2022-04-26T14:14:24.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在一年內賣出了640本我的書]]></title>
+        <id>https://news.ycombinator.com/item?id=31153963</id>
+        <link href="https://news.ycombinator.com/item?id=31153963"/>
+        <updated>2022-04-25T13:07:59.000Z</updated>
+        <summary type="html"><![CDATA[I sold 640 copies of my book in one year]]></summary>
+        <author>
+            <name>strzibny</name>
+            <uri>https://news.ycombinator.com/user?id=strzibny</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[機器學習就業市場]]></title>
         <id>https://news.ycombinator.com/item?id=31155782</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>osynavets</name>
             <uri>https://news.ycombinator.com/user?id=osynavets</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於成為不可或缺的人]]></title>
-        <id>https://news.ycombinator.com/item?id=30671345</id>
-        <link href="https://news.ycombinator.com/item?id=30671345"/>
-        <updated>2022-03-14T11:57:02.000Z</updated>
-        <summary type="html"><![CDATA[On Being Indispensable]]></summary>
-        <author>
-            <name>asyncscrum</name>
-            <uri>https://news.ycombinator.com/user?id=asyncscrum</uri>
         </author>
     </entry>
 </feed>
