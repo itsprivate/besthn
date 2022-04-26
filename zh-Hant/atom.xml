@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-26T14:14:24.922Z</updated>
+    <updated>2022-04-26T14:32:37.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在macOS上不能做而在Ubuntu上可以做的事情]]></title>
+        <id>https://news.ycombinator.com/item?id=31165505</id>
+        <link href="https://news.ycombinator.com/item?id=31165505"/>
+        <updated>2022-04-26T09:31:44.000Z</updated>
+        <summary type="html"><![CDATA[Things I can’t do on macOS which I can do on Ubuntu]]></summary>
+        <author>
+            <name>robin_reala</name>
+            <uri>https://news.ycombinator.com/user?id=robin_reala</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在一年內賣出了640本我的書]]></title>
         <id>https://news.ycombinator.com/item?id=31153963</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>herodotus</name>
             <uri>https://news.ycombinator.com/user?id=herodotus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[澤倫斯基視頻深層假象]]></title>
-        <id>https://news.ycombinator.com/item?id=30697932</id>
-        <link href="https://news.ycombinator.com/item?id=30697932"/>
-        <updated>2022-03-16T12:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Zelensky video deepfake]]></summary>
-        <author>
-            <name>osynavets</name>
-            <uri>https://news.ycombinator.com/user?id=osynavets</uri>
         </author>
     </entry>
 </feed>

@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31165505",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31165505",
+            "title": "我在macOS上不能做而在Ubuntu上可以做的事情",
+            "summary": "Things I can’t do on macOS which I can do on Ubuntu",
+            "date_modified": "2022-04-26T09:31:44.000Z",
+            "author": {
+                "name": "robin_reala",
+                "url": "https://news.ycombinator.com/user?id=robin_reala"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31153963",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31153963",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "herodotus",
                 "url": "https://news.ycombinator.com/user?id=herodotus"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30697932",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30697932",
-            "title": "澤倫斯基視頻深層假象",
-            "summary": "Zelensky video deepfake",
-            "date_modified": "2022-03-16T12:30:11.000Z",
-            "author": {
-                "name": "osynavets",
-                "url": "https://news.ycombinator.com/user?id=osynavets"
             }
         }
     ]

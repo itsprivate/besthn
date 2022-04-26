@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 26 Apr 2022 14:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 14:32:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我在macOS上不能做而在Ubuntu上可以做的事情]]></title>
+            <link>https://news.ycombinator.com/item?id=31165505</link>
+            <guid>https://news.ycombinator.com/item?id=31165505</guid>
+            <pubDate>Tue, 26 Apr 2022 09:31:44 GMT</pubDate>
+            <description><![CDATA[Things I can’t do on macOS which I can do on Ubuntu]]></description>
+        </item>
         <item>
             <title><![CDATA[我在一年内卖出了640本我的书]]></title>
             <link>https://news.ycombinator.com/item?id=31153963</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30698803</guid>
             <pubDate>Wed, 16 Mar 2022 13:51:10 GMT</pubDate>
             <description><![CDATA[Deliberately optimizing for harm]]></description>
-        </item>
-        <item>
-            <title><![CDATA[泽伦斯基视频深层假象]]></title>
-            <link>https://news.ycombinator.com/item?id=30697932</link>
-            <guid>https://news.ycombinator.com/item?id=30697932</guid>
-            <pubDate>Wed, 16 Mar 2022 12:30:11 GMT</pubDate>
-            <description><![CDATA[Zelensky video deepfake]]></description>
         </item>
     </channel>
 </rss>
