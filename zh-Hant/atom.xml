@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-26T07:51:42.263Z</updated>
+    <updated>2022-04-26T08:16:28.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[只用一個網頁就能防止你的電腦睡覺]]></title>
+        <id>https://news.ycombinator.com/item?id=31123522</id>
+        <link href="https://news.ycombinator.com/item?id=31123522"/>
+        <updated>2022-04-22T16:12:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Prevent your computer sleeping with just a webpage]]></summary>
+        <author>
+            <name>bradleyjkemp</name>
+            <uri>https://news.ycombinator.com/user?id=bradleyjkemp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter的毒丸是怎麼回事？]]></title>
         <id>https://news.ycombinator.com/item?id=31157969</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>daniellenewnham</name>
             <uri>https://news.ycombinator.com/user?id=daniellenewnham</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[熱狗Linux - 可怕的過時的字體和可怕的屏幕上的圖形]]></title>
-        <id>https://news.ycombinator.com/item?id=30693301</id>
-        <link href="https://news.ycombinator.com/item?id=30693301"/>
-        <updated>2022-03-15T23:26:29.000Z</updated>
-        <summary type="html"><![CDATA[Hot Dog Linux – Horrible Obsolete Typeface and Dreadful Onscreen Graphics]]></summary>
-        <author>
-            <name>Epiphany21</name>
-            <uri>https://news.ycombinator.com/user?id=Epiphany21</uri>
         </author>
     </entry>
 </feed>
