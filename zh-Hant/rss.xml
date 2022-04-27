@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 27 Apr 2022 16:58:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 17:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[麻省理工學院的研究人員開發出一種紙質薄型揚聲器]]></title>
+            <link>https://news.ycombinator.com/item?id=31178022</link>
+            <guid>https://news.ycombinator.com/item?id=31178022</guid>
+            <pubDate>Wed, 27 Apr 2022 09:34:39 GMT</pubDate>
+            <description><![CDATA[MIT researchers develop a paper thin loudspeaker]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Textsynth。Bellard的免費GPT-NeoX-20B、GPT-J遊樂場和付費API]]></title>
+            <link>https://news.ycombinator.com/item?id=31175291</link>
+            <guid>https://news.ycombinator.com/item?id=31175291</guid>
+            <pubDate>Wed, 27 Apr 2022 01:42:45 GMT</pubDate>
+            <description><![CDATA[Textsynth: Bellard's free GPT-NeoX-20B, GPT-J playground and paid API]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何寫好Git提交信息（2014年）]]></title>
+            <link>https://news.ycombinator.com/item?id=31173484</link>
+            <guid>https://news.ycombinator.com/item?id=31173484</guid>
+            <pubDate>Tue, 26 Apr 2022 21:35:44 GMT</pubDate>
+            <description><![CDATA[How to write a Git commit message (2014)]]></description>
+        </item>
         <item>
             <title><![CDATA[90%的護士考慮在未來一年內離開這個行業]]></title>
             <link>https://news.ycombinator.com/item?id=31180646</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30714506</guid>
             <pubDate>Thu, 17 Mar 2022 18:42:30 GMT</pubDate>
             <description><![CDATA[Google open sources solar atmospheric water generator]]></description>
-        </item>
-        <item>
-            <title><![CDATA[與GitHub行動、API請求、代碼空間、Git操作、問題有關的事件]]></title>
-            <link>https://news.ycombinator.com/item?id=30711269</link>
-            <guid>https://news.ycombinator.com/item?id=30711269</guid>
-            <pubDate>Thu, 17 Mar 2022 14:04:03 GMT</pubDate>
-            <description><![CDATA[Incident with GitHub Actions, API requests, Codespaces, Git operations, Issues]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Zotero 6]]></title>
-            <link>https://news.ycombinator.com/item?id=30714121</link>
-            <guid>https://news.ycombinator.com/item?id=30714121</guid>
-            <pubDate>Thu, 17 Mar 2022 18:05:00 GMT</pubDate>
-            <description><![CDATA[Zotero 6]]></description>
-        </item>
-        <item>
-            <title><![CDATA[法院發現稱不是開源的東西是虛假廣告]]></title>
-            <link>https://news.ycombinator.com/item?id=30712215</link>
-            <guid>https://news.ycombinator.com/item?id=30712215</guid>
-            <pubDate>Thu, 17 Mar 2022 15:30:35 GMT</pubDate>
-            <description><![CDATA[Court finds calling stuff open source when it's not is false advertising]]></description>
         </item>
     </channel>
 </rss>

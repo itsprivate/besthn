@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-27T16:58:15.081Z</updated>
+    <updated>2022-04-27T17:24:59.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[麻省理工學院的研究人員開發出一種紙質薄型揚聲器]]></title>
+        <id>https://news.ycombinator.com/item?id=31178022</id>
+        <link href="https://news.ycombinator.com/item?id=31178022"/>
+        <updated>2022-04-27T09:34:39.000Z</updated>
+        <summary type="html"><![CDATA[MIT researchers develop a paper thin loudspeaker]]></summary>
+        <author>
+            <name>go_prodev</name>
+            <uri>https://news.ycombinator.com/user?id=go_prodev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Textsynth。Bellard的免費GPT-NeoX-20B、GPT-J遊樂場和付費API]]></title>
+        <id>https://news.ycombinator.com/item?id=31175291</id>
+        <link href="https://news.ycombinator.com/item?id=31175291"/>
+        <updated>2022-04-27T01:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Textsynth: Bellard's free GPT-NeoX-20B, GPT-J playground and paid API]]></summary>
+        <author>
+            <name>crazypython</name>
+            <uri>https://news.ycombinator.com/user?id=crazypython</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何寫好Git提交信息（2014年）]]></title>
+        <id>https://news.ycombinator.com/item?id=31173484</id>
+        <link href="https://news.ycombinator.com/item?id=31173484"/>
+        <updated>2022-04-26T21:35:44.000Z</updated>
+        <summary type="html"><![CDATA[How to write a Git commit message (2014)]]></summary>
+        <author>
+            <name>baristaGeek</name>
+            <uri>https://news.ycombinator.com/user?id=baristaGeek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[90%的護士考慮在未來一年內離開這個行業]]></title>
         <id>https://news.ycombinator.com/item?id=31180646</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>johmathe</name>
             <uri>https://news.ycombinator.com/user?id=johmathe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與GitHub行動、API請求、代碼空間、Git操作、問題有關的事件]]></title>
-        <id>https://news.ycombinator.com/item?id=30711269</id>
-        <link href="https://news.ycombinator.com/item?id=30711269"/>
-        <updated>2022-03-17T14:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Incident with GitHub Actions, API requests, Codespaces, Git operations, Issues]]></summary>
-        <author>
-            <name>naglis</name>
-            <uri>https://news.ycombinator.com/user?id=naglis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zotero 6]]></title>
-        <id>https://news.ycombinator.com/item?id=30714121</id>
-        <link href="https://news.ycombinator.com/item?id=30714121"/>
-        <updated>2022-03-17T18:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Zotero 6]]></summary>
-        <author>
-            <name>Schiphol</name>
-            <uri>https://news.ycombinator.com/user?id=Schiphol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法院發現稱不是開源的東西是虛假廣告]]></title>
-        <id>https://news.ycombinator.com/item?id=30712215</id>
-        <link href="https://news.ycombinator.com/item?id=30712215"/>
-        <updated>2022-03-17T15:30:35.000Z</updated>
-        <summary type="html"><![CDATA[Court finds calling stuff open source when it's not is false advertising]]></summary>
-        <author>
-            <name>webmink</name>
-            <uri>https://news.ycombinator.com/user?id=webmink</uri>
         </author>
     </entry>
 </feed>
