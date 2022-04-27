@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 27 Apr 2022 08:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 09:35:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Caddy v2.5.0]]></title>
+            <link>https://news.ycombinator.com/item?id=31170280</link>
+            <guid>https://news.ycombinator.com/item?id=31170280</guid>
+            <pubDate>Tue, 26 Apr 2022 17:20:19 GMT</pubDate>
+            <description><![CDATA[Show HN: Caddy v2.5.0]]></description>
+        </item>
         <item>
             <title><![CDATA[Hush，一种现代shell脚本语言]]></title>
             <link>https://news.ycombinator.com/item?id=31163083</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30704923</guid>
             <pubDate>Wed, 16 Mar 2022 22:26:45 GMT</pubDate>
             <description><![CDATA[TUIs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我发现了一个竞争对手的安全问题，被解雇并被送上传票]]></title>
-            <link>https://news.ycombinator.com/item?id=30706014</link>
-            <guid>https://news.ycombinator.com/item?id=30706014</guid>
-            <pubDate>Thu, 17 Mar 2022 00:28:40 GMT</pubDate>
-            <description><![CDATA[I found a security issue on a competitor, got fired and served a summons]]></description>
         </item>
     </channel>
 </rss>
