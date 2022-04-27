@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 27 Apr 2022 18:43:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 19:51:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我在3個月內以不到5000美元的價格拿到了計算機科學學位（2020）。]]></title>
+            <link>https://news.ycombinator.com/item?id=31180816</link>
+            <guid>https://news.ycombinator.com/item?id=31180816</guid>
+            <pubDate>Wed, 27 Apr 2022 15:07:16 GMT</pubDate>
+            <description><![CDATA[I got a computer science degree in 3 months for less than $5000 (2020)]]></description>
+        </item>
         <item>
             <title><![CDATA[統計分析顯示Echos處理語音以提供廣告服務]]></title>
             <link>https://news.ycombinator.com/item?id=31177454</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30710501</guid>
             <pubDate>Thu, 17 Mar 2022 12:42:41 GMT</pubDate>
             <description><![CDATA[MaskerAid iOS App]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每個火狐瀏覽器的下載都有一個獨特的標識符]]></title>
-            <link>https://news.ycombinator.com/item?id=30715163</link>
-            <guid>https://news.ycombinator.com/item?id=30715163</guid>
-            <pubDate>Thu, 17 Mar 2022 19:48:16 GMT</pubDate>
-            <description><![CDATA[Each Firefox download has a unique identifier]]></description>
         </item>
     </channel>
 </rss>
