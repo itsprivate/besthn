@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 27 Apr 2022 21:43:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 21:53:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[不，你不能通過關閉你的 "待機 "設備每年節省30英鎊]]></title>
+            <link>https://news.ycombinator.com/item?id=31178506</link>
+            <guid>https://news.ycombinator.com/item?id=31178506</guid>
+            <pubDate>Wed, 27 Apr 2022 11:09:50 GMT</pubDate>
+            <description><![CDATA[No, you can’t save £30 per year by switching off your “standby” devices]]></description>
+        </item>
         <item>
             <title><![CDATA[公共資金，公共準則]]></title>
             <link>https://news.ycombinator.com/item?id=31183882</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30720301</guid>
             <pubDate>Fri, 18 Mar 2022 10:05:28 GMT</pubDate>
             <description><![CDATA[LibreWolf – A fork of Firefox, focused on privacy, security and freedom]]></description>
-        </item>
-        <item>
-            <title><![CDATA[戰爭期間，哈爾科夫紅寶石組織。我們還在這裡]]></title>
-            <link>https://news.ycombinator.com/item?id=30720995</link>
-            <guid>https://news.ycombinator.com/item?id=30720995</guid>
-            <pubDate>Fri, 18 Mar 2022 11:53:16 GMT</pubDate>
-            <description><![CDATA[Kharkiv Rubyist during the war: We are still here]]></description>
         </item>
     </channel>
 </rss>
