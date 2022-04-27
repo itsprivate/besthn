@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 27 Apr 2022 07:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 07:52:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[2-22-22發生的斯拉克事件]]></title>
+            <link>https://news.ycombinator.com/item?id=31170370</link>
+            <guid>https://news.ycombinator.com/item?id=31170370</guid>
+            <pubDate>Tue, 26 Apr 2022 17:26:56 GMT</pubDate>
+            <description><![CDATA[Slack’s Incident on 2-22-22]]></description>
+        </item>
         <item>
             <title><![CDATA[壓力荷爾蒙會減少有同情心的人的利他行為]]></title>
             <link>https://news.ycombinator.com/item?id=31170528</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30701251</guid>
             <pubDate>Wed, 16 Mar 2022 16:57:20 GMT</pubDate>
             <description><![CDATA[My boundaries as an open source developer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[德諾是韋比]]></title>
-            <link>https://news.ycombinator.com/item?id=30703531</link>
-            <guid>https://news.ycombinator.com/item?id=30703531</guid>
-            <pubDate>Wed, 16 Mar 2022 20:21:09 GMT</pubDate>
-            <description><![CDATA[Deno Is Webby]]></description>
         </item>
     </channel>
 </rss>
