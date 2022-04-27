@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-27T13:05:44.425Z</updated>
+    <updated>2022-04-27T15:17:07.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌幾乎說服了我花400美元做無用的激光治療]]></title>
+        <id>https://news.ycombinator.com/item?id=31178908</id>
+        <link href="https://news.ycombinator.com/item?id=31178908"/>
+        <updated>2022-04-27T12:10:20.000Z</updated>
+        <summary type="html"><![CDATA[Google almost convinced me to spend $400 on useless laser treatments]]></summary>
+        <author>
+            <name>tomjcleveland</name>
+            <uri>https://news.ycombinator.com/user?id=tomjcleveland</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可汗學院推出可汗世界學校在線高中]]></title>
         <id>https://news.ycombinator.com/item?id=31176828</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>minding</name>
             <uri>https://news.ycombinator.com/user?id=minding</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NPM軟件包被作者洩露：安裝時刪除RU/BY電腦上的文件]]></title>
-        <id>https://news.ycombinator.com/item?id=30703817</id>
-        <link href="https://news.ycombinator.com/item?id=30703817"/>
-        <updated>2022-03-16T20:42:57.000Z</updated>
-        <summary type="html"><![CDATA[NPM package compromised by author: erases files on RU / BY computers on install]]></summary>
-        <author>
-            <name>asn007</name>
-            <uri>https://news.ycombinator.com/user?id=asn007</uri>
         </author>
     </entry>
 </feed>
