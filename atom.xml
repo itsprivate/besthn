@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-27T19:51:43.947Z</updated>
+    <updated>2022-04-27T20:16:10.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[小心那个东西，它是一个保密的咖啡机]]></title>
+        <id>https://news.ycombinator.com/item?id=31168150</id>
+        <link href="https://news.ycombinator.com/item?id=31168150"/>
+        <updated>2022-04-26T14:48:27.000Z</updated>
+        <summary type="html"><![CDATA[Be careful with that thing, it's a confidential coffee maker]]></summary>
+        <author>
+            <name>signa11</name>
+            <uri>https://news.ycombinator.com/user?id=signa11</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们拔掉了一个数据中心的电源以测试我们的灾难准备情况]]></title>
+        <id>https://news.ycombinator.com/item?id=31155625</id>
+        <link href="https://news.ycombinator.com/item?id=31155625"/>
+        <updated>2022-04-25T14:47:00.000Z</updated>
+        <summary type="html"><![CDATA[We unplugged a data center to test our disaster readiness]]></summary>
+        <author>
+            <name>ianrahman</name>
+            <uri>https://news.ycombinator.com/user?id=ianrahman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在3个月内以不到5000美元的价格拿到了计算机科学学位（2020）。]]></title>
         <id>https://news.ycombinator.com/item?id=31180816</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>kloch</name>
             <uri>https://news.ycombinator.com/user?id=kloch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[食品包装]]></title>
-        <id>https://news.ycombinator.com/item?id=30717785</id>
-        <link href="https://news.ycombinator.com/item?id=30717785"/>
-        <updated>2022-03-18T01:34:38.000Z</updated>
-        <summary type="html"><![CDATA[Food Packaging]]></summary>
-        <author>
-            <name>aemreunal</name>
-            <uri>https://news.ycombinator.com/user?id=aemreunal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MaskerAid的iOS应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30710501</id>
-        <link href="https://news.ycombinator.com/item?id=30710501"/>
-        <updated>2022-03-17T12:42:41.000Z</updated>
-        <summary type="html"><![CDATA[MaskerAid iOS App]]></summary>
-        <author>
-            <name>ilarum</name>
-            <uri>https://news.ycombinator.com/user?id=ilarum</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 27 Apr 2022 19:51:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 20:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[小心那个东西，它是一个保密的咖啡机]]></title>
+            <link>https://news.ycombinator.com/item?id=31168150</link>
+            <guid>https://news.ycombinator.com/item?id=31168150</guid>
+            <pubDate>Tue, 26 Apr 2022 14:48:27 GMT</pubDate>
+            <description><![CDATA[Be careful with that thing, it's a confidential coffee maker]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我们拔掉了一个数据中心的电源以测试我们的灾难准备情况]]></title>
+            <link>https://news.ycombinator.com/item?id=31155625</link>
+            <guid>https://news.ycombinator.com/item?id=31155625</guid>
+            <pubDate>Mon, 25 Apr 2022 14:47:00 GMT</pubDate>
+            <description><![CDATA[We unplugged a data center to test our disaster readiness]]></description>
+        </item>
         <item>
             <title><![CDATA[我在3个月内以不到5000美元的价格拿到了计算机科学学位（2020）。]]></title>
             <link>https://news.ycombinator.com/item?id=31180816</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30715268</guid>
             <pubDate>Thu, 17 Mar 2022 19:59:12 GMT</pubDate>
             <description><![CDATA[Intel financialized and lost leadership in semiconductor fabrication (2021)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[食品包装]]></title>
-            <link>https://news.ycombinator.com/item?id=30717785</link>
-            <guid>https://news.ycombinator.com/item?id=30717785</guid>
-            <pubDate>Fri, 18 Mar 2022 01:34:38 GMT</pubDate>
-            <description><![CDATA[Food Packaging]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MaskerAid的iOS应用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30710501</link>
-            <guid>https://news.ycombinator.com/item?id=30710501</guid>
-            <pubDate>Thu, 17 Mar 2022 12:42:41 GMT</pubDate>
-            <description><![CDATA[MaskerAid iOS App]]></description>
         </item>
     </channel>
 </rss>
