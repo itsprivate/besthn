@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-27T09:53:58.796Z</updated>
+    <updated>2022-04-27T10:15:20.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[德意志銀行舉報人在洛杉磯林肯公園被發現死亡]]></title>
+        <id>https://news.ycombinator.com/item?id=31176752</id>
+        <link href="https://news.ycombinator.com/item?id=31176752"/>
+        <updated>2022-04-27T05:49:21.000Z</updated>
+        <summary type="html"><![CDATA[Deutsche Bank whistleblower found dead in LA's Lincoln Park]]></summary>
+        <author>
+            <name>IdEntities</name>
+            <uri>https://news.ycombinator.com/user?id=IdEntities</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SELinux是無法管理的；如果它妨礙了你，就把它關掉吧]]></title>
         <id>https://news.ycombinator.com/item?id=31176138</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>maximilianroos</name>
             <uri>https://news.ycombinator.com/user?id=maximilianroos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C不再是一種編程語言了]]></title>
-        <id>https://news.ycombinator.com/item?id=30704642</id>
-        <link href="https://news.ycombinator.com/item?id=30704642"/>
-        <updated>2022-03-16T21:56:35.000Z</updated>
-        <summary type="html"><![CDATA[C Isn't a Programming Language Anymore]]></summary>
-        <author>
-            <name>jasonpeacock</name>
-            <uri>https://news.ycombinator.com/user?id=jasonpeacock</uri>
         </author>
     </entry>
 </feed>

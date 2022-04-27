@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 27 Apr 2022 09:53:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 10:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[德意志银行举报人在洛杉矶林肯公园被发现死亡]]></title>
+            <link>https://news.ycombinator.com/item?id=31176752</link>
+            <guid>https://news.ycombinator.com/item?id=31176752</guid>
+            <pubDate>Wed, 27 Apr 2022 05:49:21 GMT</pubDate>
+            <description><![CDATA[Deutsche Bank whistleblower found dead in LA's Lincoln Park]]></description>
+        </item>
         <item>
             <title><![CDATA[SELinux是无法管理的；如果它妨碍了你，就把它关掉吧]]></title>
             <link>https://news.ycombinator.com/item?id=31176138</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30708505</guid>
             <pubDate>Thu, 17 Mar 2022 07:26:46 GMT</pubDate>
             <description><![CDATA[Lapce – Fast open-source code editor]]></description>
-        </item>
-        <item>
-            <title><![CDATA[C不再是一种编程语言了]]></title>
-            <link>https://news.ycombinator.com/item?id=30704642</link>
-            <guid>https://news.ycombinator.com/item?id=30704642</guid>
-            <pubDate>Wed, 16 Mar 2022 21:56:35 GMT</pubDate>
-            <description><![CDATA[C Isn't a Programming Language Anymore]]></description>
         </item>
     </channel>
 </rss>
