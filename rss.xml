@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 27 Apr 2022 20:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 21:43:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[公共资金，公共准则]]></title>
+            <link>https://news.ycombinator.com/item?id=31183882</link>
+            <guid>https://news.ycombinator.com/item?id=31183882</guid>
+            <pubDate>Wed, 27 Apr 2022 18:29:36 GMT</pubDate>
+            <description><![CDATA[Public Money, Public Code]]></description>
+        </item>
+        <item>
+            <title><![CDATA[JavaScript框架的四个时代]]></title>
+            <link>https://news.ycombinator.com/item?id=31176910</link>
+            <guid>https://news.ycombinator.com/item?id=31176910</guid>
+            <pubDate>Wed, 27 Apr 2022 06:21:47 GMT</pubDate>
+            <description><![CDATA[Four Eras of JavaScript Frameworks]]></description>
+        </item>
         <item>
             <title><![CDATA[小心那个东西，它是一个保密的咖啡机]]></title>
             <link>https://news.ycombinator.com/item?id=31168150</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30720995</guid>
             <pubDate>Fri, 18 Mar 2022 11:53:16 GMT</pubDate>
             <description><![CDATA[Kharkiv Rubyist during the war: We are still here]]></description>
-        </item>
-        <item>
-            <title><![CDATA[M1 Mac上的Linux]]></title>
-            <link>https://news.ycombinator.com/item?id=30717758</link>
-            <guid>https://news.ycombinator.com/item?id=30717758</guid>
-            <pubDate>Fri, 18 Mar 2022 01:31:31 GMT</pubDate>
-            <description><![CDATA[Linux on an M1 Mac]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英特尔金融化，失去了在半导体制造领域的领导地位（2021年）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30715268</link>
-            <guid>https://news.ycombinator.com/item?id=30715268</guid>
-            <pubDate>Thu, 17 Mar 2022 19:59:12 GMT</pubDate>
-            <description><![CDATA[Intel financialized and lost leadership in semiconductor fabrication (2021)]]></description>
         </item>
     </channel>
 </rss>
