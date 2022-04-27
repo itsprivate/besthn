@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 27 Apr 2022 10:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 13:05:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[可汗学院推出可汗世界学校在线高中]]></title>
+            <link>https://news.ycombinator.com/item?id=31176828</link>
+            <guid>https://news.ycombinator.com/item?id=31176828</guid>
+            <pubDate>Wed, 27 Apr 2022 06:02:24 GMT</pubDate>
+            <description><![CDATA[Khan Academy launches Khan World School online high school]]></description>
+        </item>
         <item>
             <title><![CDATA[德意志银行举报人在洛杉矶林肯公园被发现死亡]]></title>
             <link>https://news.ycombinator.com/item?id=31176752</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30703817</guid>
             <pubDate>Wed, 16 Mar 2022 20:42:57 GMT</pubDate>
             <description><![CDATA[NPM package compromised by author: erases files on RU / BY computers on install]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lapce - 快速的开源代码编辑器]]></title>
-            <link>https://news.ycombinator.com/item?id=30708505</link>
-            <guid>https://news.ycombinator.com/item?id=30708505</guid>
-            <pubDate>Thu, 17 Mar 2022 07:26:46 GMT</pubDate>
-            <description><![CDATA[Lapce – Fast open-source code editor]]></description>
         </item>
     </channel>
 </rss>

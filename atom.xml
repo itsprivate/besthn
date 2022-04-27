@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-27T10:15:19.925Z</updated>
+    <updated>2022-04-27T13:05:44.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[可汗学院推出可汗世界学校在线高中]]></title>
+        <id>https://news.ycombinator.com/item?id=31176828</id>
+        <link href="https://news.ycombinator.com/item?id=31176828"/>
+        <updated>2022-04-27T06:02:24.000Z</updated>
+        <summary type="html"><![CDATA[Khan Academy launches Khan World School online high school]]></summary>
+        <author>
+            <name>webmaven</name>
+            <uri>https://news.ycombinator.com/user?id=webmaven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德意志银行举报人在洛杉矶林肯公园被发现死亡]]></title>
         <id>https://news.ycombinator.com/item?id=31176752</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>asn007</name>
             <uri>https://news.ycombinator.com/user?id=asn007</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lapce - 快速的开源代码编辑器]]></title>
-        <id>https://news.ycombinator.com/item?id=30708505</id>
-        <link href="https://news.ycombinator.com/item?id=30708505"/>
-        <updated>2022-03-17T07:26:46.000Z</updated>
-        <summary type="html"><![CDATA[Lapce – Fast open-source code editor]]></summary>
-        <author>
-            <name>maximilianroos</name>
-            <uri>https://news.ycombinator.com/user?id=maximilianroos</uri>
         </author>
     </entry>
 </feed>
