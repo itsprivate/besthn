@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-28T10:38:49.350Z</updated>
+    <updated>2022-04-28T10:58:41.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我通过写非小说类书籍获得了16万美元的被动收入]]></title>
+        <id>https://news.ycombinator.com/item?id=31188672</id>
+        <link href="https://news.ycombinator.com/item?id=31188672"/>
+        <updated>2022-04-28T04:15:27.000Z</updated>
+        <summary type="html"><![CDATA[I earned $160k in passive income from writing non-fiction books]]></summary>
+        <author>
+            <name>greglim81</name>
+            <uri>https://news.ycombinator.com/user?id=greglim81</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么公司要搬离Heroku（除了成本）？]]></title>
         <id>https://news.ycombinator.com/item?id=31183573</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jcynix</name>
             <uri>https://news.ycombinator.com/user?id=jcynix</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asahi Linux alpha release]]></title>
-        <id>https://news.ycombinator.com/item?id=30729212</id>
-        <link href="https://news.ycombinator.com/item?id=30729212"/>
-        <updated>2022-03-18T23:55:53.000Z</updated>
-        <summary type="html"><![CDATA[Asahi Linux alpha release]]></summary>
-        <author>
-            <name>robbiet480</name>
-            <uri>https://news.ycombinator.com/user?id=robbiet480</uri>
         </author>
     </entry>
 </feed>
