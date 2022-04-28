@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 28 Apr 2022 08:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 08:45:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用假的iMessage彈出窗口創造尷尬的局面]]></title>
+            <link>https://news.ycombinator.com/item?id=31185121</link>
+            <guid>https://news.ycombinator.com/item?id=31185121</guid>
+            <pubDate>Wed, 27 Apr 2022 20:11:59 GMT</pubDate>
+            <description><![CDATA[Show HN: Create awkward situations with a fake iMessage Popup]]></description>
+        </item>
         <item>
             <title><![CDATA[基亞儀器]]></title>
             <link>https://news.ycombinator.com/item?id=31184957</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30728856</guid>
             <pubDate>Fri, 18 Mar 2022 23:16:19 GMT</pubDate>
             <description><![CDATA[Crypto is an unproductive bubble]]></description>
-        </item>
-        <item>
-            <title><![CDATA[普京的寡頭們如何買下倫敦]]></title>
-            <link>https://news.ycombinator.com/item?id=30728110</link>
-            <guid>https://news.ycombinator.com/item?id=30728110</guid>
-            <pubDate>Fri, 18 Mar 2022 22:02:40 GMT</pubDate>
-            <description><![CDATA[How Putin’s Oligarchs Bought London]]></description>
         </item>
     </channel>
 </rss>

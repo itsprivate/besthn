@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-28T08:17:04.901Z</updated>
+    <updated>2022-04-28T08:45:55.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用假的iMessage彈出窗口創造尷尬的局面]]></title>
+        <id>https://news.ycombinator.com/item?id=31185121</id>
+        <link href="https://news.ycombinator.com/item?id=31185121"/>
+        <updated>2022-04-27T20:11:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Create awkward situations with a fake iMessage Popup]]></summary>
+        <author>
+            <name>adnanaga</name>
+            <uri>https://news.ycombinator.com/user?id=adnanaga</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基亞儀器]]></title>
         <id>https://news.ycombinator.com/item?id=31184957</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kolchinski</name>
             <uri>https://news.ycombinator.com/user?id=kolchinski</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普京的寡頭們如何買下倫敦]]></title>
-        <id>https://news.ycombinator.com/item?id=30728110</id>
-        <link href="https://news.ycombinator.com/item?id=30728110"/>
-        <updated>2022-03-18T22:02:40.000Z</updated>
-        <summary type="html"><![CDATA[How Putin’s Oligarchs Bought London]]></summary>
-        <author>
-            <name>null_object</name>
-            <uri>https://news.ycombinator.com/user?id=null_object</uri>
         </author>
     </entry>
 </feed>
