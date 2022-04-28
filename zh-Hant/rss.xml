@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 28 Apr 2022 05:39:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 07:53:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我把我的整個生命放在一個數據庫中]]></title>
+            <link>https://news.ycombinator.com/item?id=31186696</link>
+            <guid>https://news.ycombinator.com/item?id=31186696</guid>
+            <pubDate>Wed, 27 Apr 2022 22:37:22 GMT</pubDate>
+            <description><![CDATA[I put my whole life into a single database]]></description>
+        </item>
         <item>
             <title><![CDATA[如何讓你的思想喋喋不休地安靜下來 (2021)]]></title>
             <link>https://news.ycombinator.com/item?id=31151546</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30727052</guid>
             <pubDate>Fri, 18 Mar 2022 20:24:07 GMT</pubDate>
             <description><![CDATA[Christopher Alexander has died]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我是如何學會停止擔心並將所有寫作結構化為清單的？]]></title>
-            <link>https://news.ycombinator.com/item?id=30725804</link>
-            <guid>https://news.ycombinator.com/item?id=30725804</guid>
-            <pubDate>Fri, 18 Mar 2022 18:31:19 GMT</pubDate>
-            <description><![CDATA[How I learned to stop worrying and structure all writing as a list]]></description>
         </item>
     </channel>
 </rss>
