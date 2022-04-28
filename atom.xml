@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-28T03:43:48.016Z</updated>
+    <updated>2022-04-28T05:00:11.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[朝鲜人正在对手机进行越狱以获取被禁止的媒体]]></title>
+        <id>https://news.ycombinator.com/item?id=31184724</id>
+        <link href="https://news.ycombinator.com/item?id=31184724"/>
+        <updated>2022-04-27T19:35:52.000Z</updated>
+        <summary type="html"><![CDATA[North Koreans are jailbreaking phones to access forbidden media]]></summary>
+        <author>
+            <name>8bitsrule</name>
+            <uri>https://news.ycombinator.com/user?id=8bitsrule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lists.sh - 列表的微博客]]></title>
+        <id>https://news.ycombinator.com/item?id=31154567</id>
+        <link href="https://news.ycombinator.com/item?id=31154567"/>
+        <updated>2022-04-25T13:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lists.sh – A Microblog for Lists]]></summary>
+        <author>
+            <name>qudat</name>
+            <uri>https://news.ycombinator.com/user?id=qudat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[快速学习Common Lisp的系列教程]]></title>
         <id>https://news.ycombinator.com/item?id=31178737</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>orangebanana1</name>
             <uri>https://news.ycombinator.com/user?id=orangebanana1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zillow的购房计划如何损失8.81亿美元]]></title>
-        <id>https://news.ycombinator.com/item?id=30723890</id>
-        <link href="https://news.ycombinator.com/item?id=30723890"/>
-        <updated>2022-03-18T16:00:30.000Z</updated>
-        <summary type="html"><![CDATA[How Zillow's homebuying scheme lost $881M]]></summary>
-        <author>
-            <name>spansoa</name>
-            <uri>https://news.ycombinator.com/user?id=spansoa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊在秘密项目中故意让人难以取消Prime套餐]]></title>
-        <id>https://news.ycombinator.com/item?id=30723461</id>
-        <link href="https://news.ycombinator.com/item?id=30723461"/>
-        <updated>2022-03-18T15:25:09.000Z</updated>
-        <summary type="html"><![CDATA[Amazon intentionally made it hard to cancel Prime subscription in secret project]]></summary>
-        <author>
-            <name>green-eclipse</name>
-            <uri>https://news.ycombinator.com/user?id=green-eclipse</uri>
         </author>
     </entry>
 </feed>
