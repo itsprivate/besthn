@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 27 Apr 2022 22:46:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 03:43:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[快速学习Common Lisp的系列教程]]></title>
+            <link>https://news.ycombinator.com/item?id=31178737</link>
+            <guid>https://news.ycombinator.com/item?id=31178737</guid>
+            <pubDate>Wed, 27 Apr 2022 11:48:32 GMT</pubDate>
+            <description><![CDATA[Tutorial Series to learn Common Lisp quickly]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么我不能托管自己的电子邮件？]]></title>
             <link>https://news.ycombinator.com/item?id=31180379</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30723461</guid>
             <pubDate>Fri, 18 Mar 2022 15:25:09 GMT</pubDate>
             <description><![CDATA[Amazon intentionally made it hard to cancel Prime subscription in secret project]]></description>
-        </item>
-        <item>
-            <title><![CDATA[死亡之线 (2017)]]></title>
-            <link>https://news.ycombinator.com/item?id=30721728</link>
-            <guid>https://news.ycombinator.com/item?id=30721728</guid>
-            <pubDate>Fri, 18 Mar 2022 13:10:20 GMT</pubDate>
-            <description><![CDATA[The Line of Death (2017)]]></description>
         </item>
     </channel>
 </rss>
