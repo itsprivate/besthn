@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 28 Apr 2022 07:53:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 08:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[基亞儀器]]></title>
+            <link>https://news.ycombinator.com/item?id=31184957</link>
+            <guid>https://news.ycombinator.com/item?id=31184957</guid>
+            <pubDate>Wed, 27 Apr 2022 19:57:07 GMT</pubDate>
+            <description><![CDATA[The Kia Instrument]]></description>
+        </item>
         <item>
             <title><![CDATA[我把我的整個生命放在一個數據庫中]]></title>
             <link>https://news.ycombinator.com/item?id=31186696</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30728110</guid>
             <pubDate>Fri, 18 Mar 2022 22:02:40 GMT</pubDate>
             <description><![CDATA[How Putin’s Oligarchs Bought London]]></description>
-        </item>
-        <item>
-            <title><![CDATA[克里斯托弗-亞歷山大已經去世]]></title>
-            <link>https://news.ycombinator.com/item?id=30727052</link>
-            <guid>https://news.ycombinator.com/item?id=30727052</guid>
-            <pubDate>Fri, 18 Mar 2022 20:24:07 GMT</pubDate>
-            <description><![CDATA[Christopher Alexander has died]]></description>
         </item>
     </channel>
 </rss>

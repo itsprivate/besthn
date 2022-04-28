@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-04-28T07:53:01.694Z</updated>
+    <updated>2022-04-28T08:17:04.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基亞儀器]]></title>
+        <id>https://news.ycombinator.com/item?id=31184957</id>
+        <link href="https://news.ycombinator.com/item?id=31184957"/>
+        <updated>2022-04-27T19:57:07.000Z</updated>
+        <summary type="html"><![CDATA[The Kia Instrument]]></summary>
+        <author>
+            <name>rgbrgb</name>
+            <uri>https://news.ycombinator.com/user?id=rgbrgb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我把我的整個生命放在一個數據庫中]]></title>
         <id>https://news.ycombinator.com/item?id=31186696</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>null_object</name>
             <uri>https://news.ycombinator.com/user?id=null_object</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[克里斯托弗-亞歷山大已經去世]]></title>
-        <id>https://news.ycombinator.com/item?id=30727052</id>
-        <link href="https://news.ycombinator.com/item?id=30727052"/>
-        <updated>2022-03-18T20:24:07.000Z</updated>
-        <summary type="html"><![CDATA[Christopher Alexander has died]]></summary>
-        <author>
-            <name>voisin</name>
-            <uri>https://news.ycombinator.com/user?id=voisin</uri>
         </author>
     </entry>
 </feed>
