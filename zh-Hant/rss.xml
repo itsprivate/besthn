@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 28 Apr 2022 09:54:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 10:38:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼公司要搬離Heroku（除了成本）？]]></title>
+            <link>https://news.ycombinator.com/item?id=31183573</link>
+            <guid>https://news.ycombinator.com/item?id=31183573</guid>
+            <pubDate>Wed, 27 Apr 2022 18:06:03 GMT</pubDate>
+            <description><![CDATA[Why companies move off Heroku (besides the cost)]]></description>
+        </item>
         <item>
             <title><![CDATA[我花了10年時間才理解熵]]></title>
             <link>https://news.ycombinator.com/item?id=31164725</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30729212</guid>
             <pubDate>Fri, 18 Mar 2022 23:55:53 GMT</pubDate>
             <description><![CDATA[Asahi Linux alpha release]]></description>
-        </item>
-        <item>
-            <title><![CDATA[詹姆斯-韋伯望遠鏡的首批圖像超出預期]]></title>
-            <link>https://news.ycombinator.com/item?id=30729109</link>
-            <guid>https://news.ycombinator.com/item?id=30729109</guid>
-            <pubDate>Fri, 18 Mar 2022 23:44:25 GMT</pubDate>
-            <description><![CDATA[First images from James Webb telescope exceed expectations]]></description>
         </item>
     </channel>
 </rss>
