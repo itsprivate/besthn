@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31587316",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31587316",
+            "title": "不，DALL-E沒有秘密語言\n",
+            "summary": "No, DALL-E doesn’t have a secret language",
+            "date_modified": "2022-06-01T20:08:28.000Z",
+            "author": {
+                "name": "doener",
+                "url": "https://news.ycombinator.com/user?id=doener"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31593799",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31593799",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "robocat",
                 "url": "https://news.ycombinator.com/user?id=robocat"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30725933",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30725933",
-            "title": "如果谷歌很糟糕，那麼為什麼每個人都還在使用它？",
-            "summary": "If Google sucks then why is everyone still using it?",
-            "date_modified": "2022-03-18T18:43:47.000Z",
-            "author": {
-                "name": "abhinavsharma",
-                "url": "https://news.ycombinator.com/user?id=abhinavsharma"
             }
         }
     ]

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-02T15:59:15.858Z</updated>
+    <updated>2022-06-02T16:59:03.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不，DALL-E没有秘密语言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31587316</id>
+        <link href="https://news.ycombinator.com/item?id=31587316"/>
+        <updated>2022-06-01T20:08:28.000Z</updated>
+        <summary type="html"><![CDATA[No, DALL-E doesn’t have a secret language]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌取消了关于种姓偏见的讲座
 ]]></title>
@@ -6606,17 +6618,6 @@
         <author>
             <name>robocat</name>
             <uri>https://news.ycombinator.com/user?id=robocat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果谷歌很糟糕，那么为什么每个人都还在使用它？]]></title>
-        <id>https://news.ycombinator.com/item?id=30725933</id>
-        <link href="https://news.ycombinator.com/item?id=30725933"/>
-        <updated>2022-03-18T18:43:47.000Z</updated>
-        <summary type="html"><![CDATA[If Google sucks then why is everyone still using it?]]></summary>
-        <author>
-            <name>abhinavsharma</name>
-            <uri>https://news.ycombinator.com/user?id=abhinavsharma</uri>
         </author>
     </entry>
 </feed>
