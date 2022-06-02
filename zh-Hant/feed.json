@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31593799",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31593799",
+            "title": "谷歌取消了關於種姓偏見的講座\n",
+            "summary": "Google cancelled a talk on caste bias",
+            "date_modified": "2022-06-02T12:02:19.000Z",
+            "author": {
+                "name": "devnonymous",
+                "url": "https://news.ycombinator.com/user?id=devnonymous"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31579997",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31579997",
+            "title": "美國的 \"勞動力短缺 \"只是工資短缺 (2021)\n",
+            "summary": "The US “labor shortage” is just a wage shortage (2021)",
+            "date_modified": "2022-06-01T10:27:13.000Z",
+            "author": {
+                "name": "webmobdev",
+                "url": "https://news.ycombinator.com/user?id=webmobdev"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31590724",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31590724",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "abhinavsharma",
                 "url": "https://news.ycombinator.com/user?id=abhinavsharma"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30724592",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30724592",
-            "title": "亞歷山大搜索",
-            "summary": "Alexandria Search",
-            "date_modified": "2022-03-18T16:54:33.000Z",
-            "author": {
-                "name": "nafnlj",
-                "url": "https://news.ycombinator.com/user?id=nafnlj"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30726098",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30726098",
-            "title": "關於開放源代碼的武器化",
-            "summary": "On the Weaponisation of Open Source",
-            "date_modified": "2022-03-18T18:57:27.000Z",
-            "author": {
-                "name": "beny23",
-                "url": "https://news.ycombinator.com/user?id=beny23"
             }
         }
     ]
