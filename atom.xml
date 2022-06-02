@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-02T19:44:42.779Z</updated>
+    <updated>2022-06-02T20:02:05.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我担心我们会被关闭
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31598978</id>
+        <link href="https://news.ycombinator.com/item?id=31598978"/>
+        <updated>2022-06-02T18:47:03.000Z</updated>
+        <summary type="html"><![CDATA[I'm Afraid We're Shutting Down]]></summary>
+        <author>
+            <name>RBBronson123</name>
+            <uri>https://news.ycombinator.com/user?id=RBBronson123</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla发布本地机器翻译工具作为Project Bergamot的一部分
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596888</id>
+        <link href="https://news.ycombinator.com/item?id=31596888"/>
+        <updated>2022-06-02T16:23:49.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla releases local machine translation tools as part of Project Bergamot]]></summary>
+        <author>
+            <name>Vinnl</name>
+            <uri>https://news.ycombinator.com/user?id=Vinnl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国有线电视新闻网（CNN）减少了对一切 "突发新闻 "的过度炒作
 ]]></title>
@@ -6598,28 +6622,6 @@
         <author>
             <name>brynet</name>
             <uri>https://news.ycombinator.com/user?id=brynet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加油机恰好和你的典型路由器一样不安全]]></title>
-        <id>https://news.ycombinator.com/item?id=30733337</id>
-        <link href="https://news.ycombinator.com/item?id=30733337"/>
-        <updated>2022-03-19T12:49:41.000Z</updated>
-        <summary type="html"><![CDATA[Gas pumps happen to be about as insecure as your typical router]]></summary>
-        <author>
-            <name>homarp</name>
-            <uri>https://news.ycombinator.com/user?id=homarp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个测试你对当地了解程度的游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=30733339</id>
-        <link href="https://news.ycombinator.com/item?id=30733339"/>
-        <updated>2022-03-19T12:50:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A game that tests how well you know your local area]]></summary>
-        <author>
-            <name>adamlynch</name>
-            <uri>https://news.ycombinator.com/user?id=adamlynch</uri>
         </author>
     </entry>
 </feed>
