@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 02 Jun 2022 20:02:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 21:00:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Svelvet - 一个用于构建交互式流程图的组件库
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31595822</link>
+            <guid>https://news.ycombinator.com/item?id=31595822</guid>
+            <pubDate>Thu, 02 Jun 2022 15:09:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Svelvet – A component library for building interactive flow diagrams]]></description>
+        </item>
         <item>
             <title><![CDATA[我担心我们会被关闭
 ]]></title>
@@ -4215,13 +4223,6 @@
             <guid>https://news.ycombinator.com/item?id=30737311</guid>
             <pubDate>Sat, 19 Mar 2022 20:28:57 GMT</pubDate>
             <description><![CDATA[Arizona moves to ban recording video of police]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苹果M1系统上的OpenBSD/arm64]]></title>
-            <link>https://news.ycombinator.com/item?id=30734527</link>
-            <guid>https://news.ycombinator.com/item?id=30734527</guid>
-            <pubDate>Sat, 19 Mar 2022 15:27:13 GMT</pubDate>
-            <description><![CDATA[OpenBSD/arm64 on Apple M1 systems]]></description>
         </item>
     </channel>
 </rss>
