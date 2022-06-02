@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31598324",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31598324",
+            "title": "美國有線電視新聞網（CNN）減少了對一切 \"突發新聞 \"的過度炒作\n",
+            "summary": "CNN cutting back on over-hyping everything as “breaking news”",
+            "date_modified": "2022-06-02T17:59:14.000Z",
+            "author": {
+                "name": "asplake",
+                "url": "https://news.ycombinator.com/user?id=asplake"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31595583",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31595583",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "adamlynch",
                 "url": "https://news.ycombinator.com/user?id=adamlynch"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30725463",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30725463",
-            "title": "馬裡烏波爾的破壞。美聯社記者記錄戰爭的代價",
-            "summary": "Mariupol's devastation: AP journalists document war's toll",
-            "date_modified": "2022-03-18T18:02:41.000Z",
-            "author": {
-                "name": "gmays",
-                "url": "https://news.ycombinator.com/user?id=gmays"
             }
         }
     ]

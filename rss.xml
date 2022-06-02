@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 02 Jun 2022 18:01:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 19:44:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美国有线电视新闻网（CNN）减少了对一切 "突发新闻 "的过度炒作
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31598324</link>
+            <guid>https://news.ycombinator.com/item?id=31598324</guid>
+            <pubDate>Thu, 02 Jun 2022 17:59:14 GMT</pubDate>
+            <description><![CDATA[CNN cutting back on over-hyping everything as “breaking news”]]></description>
+        </item>
         <item>
             <title><![CDATA[游戏机佳能EF镜头支架(2018)
 ]]></title>
@@ -4212,13 +4220,6 @@
             <guid>https://news.ycombinator.com/item?id=30733339</guid>
             <pubDate>Sat, 19 Mar 2022 12:50:18 GMT</pubDate>
             <description><![CDATA[Show HN: A game that tests how well you know your local area]]></description>
-        </item>
-        <item>
-            <title><![CDATA[马里乌波尔的破坏。美联社记者记录战争的代价]]></title>
-            <link>https://news.ycombinator.com/item?id=30725463</link>
-            <guid>https://news.ycombinator.com/item?id=30725463</guid>
-            <pubDate>Fri, 18 Mar 2022 18:02:41 GMT</pubDate>
-            <description><![CDATA[Mariupol's devastation: AP journalists document war's toll]]></description>
         </item>
     </channel>
 </rss>
