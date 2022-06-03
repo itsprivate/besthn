@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-03T06:54:52.851Z</updated>
+    <updated>2022-06-03T09:29:58.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從掩體中擴大創業公司規模：來自烏克蘭的創始人的故事
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31583789</id>
+        <link href="https://news.ycombinator.com/item?id=31583789"/>
+        <updated>2022-06-01T15:57:02.000Z</updated>
+        <summary type="html"><![CDATA[Scaling a startup from a bunker: founders' story from Ukraine]]></summary>
+        <author>
+            <name>Pavlyshyna</name>
+            <uri>https://news.ycombinator.com/user?id=Pavlyshyna</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rust很難，或者說：主流編程的苦難
 ]]></title>
@@ -6619,17 +6631,6 @@
         <author>
             <name>rl1987</name>
             <uri>https://news.ycombinator.com/user?id=rl1987</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fzf - 一個命令行的模糊搜索器]]></title>
-        <id>https://news.ycombinator.com/item?id=30736518</id>
-        <link href="https://news.ycombinator.com/item?id=30736518"/>
-        <updated>2022-03-19T18:47:38.000Z</updated>
-        <summary type="html"><![CDATA[Fzf – a command-line fuzzy finder]]></summary>
-        <author>
-            <name>ewuhic</name>
-            <uri>https://news.ycombinator.com/user?id=ewuhic</uri>
         </author>
     </entry>
 </feed>
