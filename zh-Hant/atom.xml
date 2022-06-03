@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-03T13:29:02.936Z</updated>
+    <updated>2022-06-03T15:00:50.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[特斯拉將削減10%的工作
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31607248</id>
+        <link href="https://news.ycombinator.com/item?id=31607248"/>
+        <updated>2022-06-03T12:16:55.000Z</updated>
+        <summary type="html"><![CDATA[Tesla to Cut 10% of Jobs]]></summary>
+        <author>
+            <name>ra7</name>
+            <uri>https://news.ycombinator.com/user?id=ra7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[唱片公司自掘墳墓，而這把鏟子叫TikTok
 ]]></title>
@@ -6623,17 +6635,6 @@
         <author>
             <name>marcodiego</name>
             <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows操作系統需要改變優先次序]]></title>
-        <id>https://news.ycombinator.com/item?id=30747332</id>
-        <link href="https://news.ycombinator.com/item?id=30747332"/>
-        <updated>2022-03-20T22:24:22.000Z</updated>
-        <summary type="html"><![CDATA[The Windows OS needs a change in priorities]]></summary>
-        <author>
-            <name>dend</name>
-            <uri>https://news.ycombinator.com/user?id=dend</uri>
         </author>
     </entry>
 </feed>
