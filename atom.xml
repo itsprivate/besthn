@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-02T21:00:21.566Z</updated>
+    <updated>2022-06-03T02:09:06.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[招聘计划的最新情况
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31600505</id>
+        <link href="https://news.ycombinator.com/item?id=31600505"/>
+        <updated>2022-06-02T21:06:06.000Z</updated>
+        <summary type="html"><![CDATA[Update on Hiring Plans]]></summary>
+        <author>
+            <name>tempsy</name>
+            <uri>https://news.ycombinator.com/user?id=tempsy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Svelvet - 一个用于构建交互式流程图的组件库
 ]]></title>
@@ -6612,17 +6624,6 @@
         <author>
             <name>rustoo</name>
             <uri>https://news.ycombinator.com/user?id=rustoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚利桑那州采取行动禁止录制警察视频]]></title>
-        <id>https://news.ycombinator.com/item?id=30737311</id>
-        <link href="https://news.ycombinator.com/item?id=30737311"/>
-        <updated>2022-03-19T20:28:57.000Z</updated>
-        <summary type="html"><![CDATA[Arizona moves to ban recording video of police]]></summary>
-        <author>
-            <name>Eddy_Viscosity2</name>
-            <uri>https://news.ycombinator.com/user?id=Eddy_Viscosity2</uri>
         </author>
     </entry>
 </feed>
