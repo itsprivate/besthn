@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-03T17:39:51.593Z</updated>
+    <updated>2022-06-03T20:31:15.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[危险的礼物
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31609602</id>
+        <link href="https://news.ycombinator.com/item?id=31609602"/>
+        <updated>2022-06-03T15:25:53.000Z</updated>
+        <summary type="html"><![CDATA[Dangerous Gift]]></summary>
+        <author>
+            <name>rdpintqogeogsaa</name>
+            <uri>https://news.ycombinator.com/user?id=rdpintqogeogsaa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我恢复了Palm的webOS应用目录、SDK和在线帮助系统
 ]]></title>
@@ -6628,17 +6640,6 @@
         <author>
             <name>MPSimmons</name>
             <uri>https://news.ycombinator.com/user?id=MPSimmons</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苏美尔人的狗笑话，或翻译死人语言的难度]]></title>
-        <id>https://news.ycombinator.com/item?id=30752942</id>
-        <link href="https://news.ycombinator.com/item?id=30752942"/>
-        <updated>2022-03-21T11:48:08.000Z</updated>
-        <summary type="html"><![CDATA[Sumerian dog jokes, or the difficulty of translating dead languages]]></summary>
-        <author>
-            <name>jsnell</name>
-            <uri>https://news.ycombinator.com/user?id=jsnell</uri>
         </author>
     </entry>
 </feed>
