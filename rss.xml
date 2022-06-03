@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 03 Jun 2022 15:35:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 17:09:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Twitter阻止了与Mastodon.social的链接
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31607941</link>
+            <guid>https://news.ycombinator.com/item?id=31607941</guid>
+            <pubDate>Fri, 03 Jun 2022 13:28:37 GMT</pubDate>
+            <description><![CDATA[Twitter Blocks Linking to Mastodon.social]]></description>
+        </item>
         <item>
             <title><![CDATA[Dalle2生成了科米特--青蛙在各种电影中的迷人形象
 ]]></title>
@@ -4229,13 +4237,6 @@
             <guid>https://news.ycombinator.com/item?id=30731983</guid>
             <pubDate>Sat, 19 Mar 2022 07:45:12 GMT</pubDate>
             <description><![CDATA[Apple’s Universal Control]]></description>
-        </item>
-        <item>
-            <title><![CDATA[请把单位放在名称中]]></title>
-            <link>https://news.ycombinator.com/item?id=30749134</link>
-            <guid>https://news.ycombinator.com/item?id=30749134</guid>
-            <pubDate>Mon, 21 Mar 2022 01:51:14 GMT</pubDate>
-            <description><![CDATA[Please Put Units in Names]]></description>
         </item>
     </channel>
 </rss>
