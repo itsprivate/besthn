@@ -11,6 +11,42 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31602417",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31602417",
+            "title": "福特CEO稱電動汽車將100%在線銷售，價格沒得商量\n",
+            "summary": "Ford CEO says EVs will be sold 100% online with nonnegotiable price",
+            "date_modified": "2022-06-03T00:20:12.000Z",
+            "author": {
+                "name": "ddtaylor",
+                "url": "https://news.ycombinator.com/user?id=ddtaylor"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31600848",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31600848",
+            "title": "微軟Purview。通信合規性的額外分類器(預覽)\n",
+            "summary": "Microsoft Purview: Additional classifiers for Communication Compliance (preview)",
+            "date_modified": "2022-06-02T21:39:39.000Z",
+            "author": {
+                "name": "CPAhem",
+                "url": "https://news.ycombinator.com/user?id=CPAhem"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31593726",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31593726",
+            "title": "我做了一個看似簡單卻很難滑動的拼圖\n",
+            "summary": "Show HN: I made a deceptively simple but hard sliding puzzle",
+            "date_modified": "2022-06-02T11:50:18.000Z",
+            "author": {
+                "name": "amenghra",
+                "url": "https://news.ycombinator.com/user?id=amenghra"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31600505",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31600505",
@@ -7172,42 +7208,6 @@
             "author": {
                 "name": "keiferski",
                 "url": "https://news.ycombinator.com/user?id=keiferski"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30734709",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30734709",
-            "title": "什麼書改變了你的生活？",
-            "summary": "Ask HN: What book changed your life?",
-            "date_modified": "2022-03-19T15:46:05.000Z",
-            "author": {
-                "name": "tomrod",
-                "url": "https://news.ycombinator.com/user?id=tomrod"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30734062",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30734062",
-            "title": "為什麼美國不能再快速建設",
-            "summary": "Why America can’t build quickly anymore",
-            "date_modified": "2022-03-19T14:36:36.000Z",
-            "author": {
-                "name": "burlesona",
-                "url": "https://news.ycombinator.com/user?id=burlesona"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30726288",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30726288",
-            "title": "調查顯示：員工準備以較低的薪水工作，甚至辭職，他們只想做WFH。",
-            "summary": "Ready to Work at Lesser Salaries or Even Quit, Employees Want Only WFH: Survey",
-            "date_modified": "2022-03-18T19:12:24.000Z",
-            "author": {
-                "name": "rustoo",
-                "url": "https://news.ycombinator.com/user?id=rustoo"
             }
         }
     ]

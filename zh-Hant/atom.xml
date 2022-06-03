@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-03T02:09:06.745Z</updated>
+    <updated>2022-06-03T03:26:15.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[福特CEO稱電動汽車將100%在線銷售，價格沒得商量
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31602417</id>
+        <link href="https://news.ycombinator.com/item?id=31602417"/>
+        <updated>2022-06-03T00:20:12.000Z</updated>
+        <summary type="html"><![CDATA[Ford CEO says EVs will be sold 100% online with nonnegotiable price]]></summary>
+        <author>
+            <name>ddtaylor</name>
+            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微軟Purview。通信合規性的額外分類器(預覽)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31600848</id>
+        <link href="https://news.ycombinator.com/item?id=31600848"/>
+        <updated>2022-06-02T21:39:39.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Purview: Additional classifiers for Communication Compliance (preview)]]></summary>
+        <author>
+            <name>CPAhem</name>
+            <uri>https://news.ycombinator.com/user?id=CPAhem</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一個看似簡單卻很難滑動的拼圖
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31593726</id>
+        <link href="https://news.ycombinator.com/item?id=31593726"/>
+        <updated>2022-06-02T11:50:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a deceptively simple but hard sliding puzzle]]></summary>
+        <author>
+            <name>amenghra</name>
+            <uri>https://news.ycombinator.com/user?id=amenghra</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[招聘計劃的最新情況
 ]]></title>
@@ -6591,39 +6627,6 @@
         <author>
             <name>keiferski</name>
             <uri>https://news.ycombinator.com/user?id=keiferski</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什麼書改變了你的生活？]]></title>
-        <id>https://news.ycombinator.com/item?id=30734709</id>
-        <link href="https://news.ycombinator.com/item?id=30734709"/>
-        <updated>2022-03-19T15:46:05.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What book changed your life?]]></summary>
-        <author>
-            <name>tomrod</name>
-            <uri>https://news.ycombinator.com/user?id=tomrod</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼美國不能再快速建設]]></title>
-        <id>https://news.ycombinator.com/item?id=30734062</id>
-        <link href="https://news.ycombinator.com/item?id=30734062"/>
-        <updated>2022-03-19T14:36:36.000Z</updated>
-        <summary type="html"><![CDATA[Why America can’t build quickly anymore]]></summary>
-        <author>
-            <name>burlesona</name>
-            <uri>https://news.ycombinator.com/user?id=burlesona</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[調查顯示：員工準備以較低的薪水工作，甚至辭職，他們只想做WFH。]]></title>
-        <id>https://news.ycombinator.com/item?id=30726288</id>
-        <link href="https://news.ycombinator.com/item?id=30726288"/>
-        <updated>2022-03-18T19:12:24.000Z</updated>
-        <summary type="html"><![CDATA[Ready to Work at Lesser Salaries or Even Quit, Employees Want Only WFH: Survey]]></summary>
-        <author>
-            <name>rustoo</name>
-            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
         </author>
     </entry>
 </feed>
