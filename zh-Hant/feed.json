@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31601040",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31601040",
+            "title": "Rust很難，或者說：主流編程的苦難\n",
+            "summary": "Rust Is Hard, Or: The Misery of Mainstream Programming",
+            "date_modified": "2022-06-02T21:58:16.000Z",
+            "author": {
+                "name": "avgcorrection",
+                "url": "https://news.ycombinator.com/user?id=avgcorrection"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31593248",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31593248",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "ewuhic",
                 "url": "https://news.ycombinator.com/user?id=ewuhic"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30743371",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30743371",
-            "title": "維密歐。\"我們是一個B2B解決方案，而不是獨立版的YouTube\"。",
-            "summary": "Vimeo: “We are a B2B solution, not the indie version of YouTube.”",
-            "date_modified": "2022-03-20T15:24:03.000Z",
-            "author": {
-                "name": "bobitsaboy",
-                "url": "https://news.ycombinator.com/user?id=bobitsaboy"
             }
         }
     ]
