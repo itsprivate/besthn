@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-03T20:31:15.762Z</updated>
+    <updated>2022-06-03T23:27:12.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[戰爭雷霆論壇上的機密規格第三次被洩露
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31605345</id>
+        <link href="https://news.ycombinator.com/item?id=31605345"/>
+        <updated>2022-06-03T07:37:19.000Z</updated>
+        <summary type="html"><![CDATA[Classified specs leaked on War Thunder forum for third time]]></summary>
+        <author>
+            <name>haunter</name>
+            <uri>https://news.ycombinator.com/user?id=haunter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[危險的禮物
 ]]></title>
@@ -6629,17 +6641,6 @@
         <author>
             <name>mmastrac</name>
             <uri>https://news.ycombinator.com/user?id=mmastrac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OneWeb將恢復衛星發射，由SpaceX作為發射供應商]]></title>
-        <id>https://news.ycombinator.com/item?id=30755077</id>
-        <link href="https://news.ycombinator.com/item?id=30755077"/>
-        <updated>2022-03-21T15:19:18.000Z</updated>
-        <summary type="html"><![CDATA[OneWeb will resume satellite launches with SpaceX as the launch provider]]></summary>
-        <author>
-            <name>MPSimmons</name>
-            <uri>https://news.ycombinator.com/user?id=MPSimmons</uri>
         </author>
     </entry>
 </feed>
