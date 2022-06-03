@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 03 Jun 2022 09:29:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 11:03:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[VSCodium - 免費/自由的VS代碼的開源軟件二進制文件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31604932</link>
+            <guid>https://news.ycombinator.com/item?id=31604932</guid>
+            <pubDate>Fri, 03 Jun 2022 06:28:58 GMT</pubDate>
+            <description><![CDATA[VSCodium – Free/Libre Open Source Software Binaries of VS Code]]></description>
+        </item>
         <item>
             <title><![CDATA[從掩體中擴大創業公司規模：來自烏克蘭的創始人的故事
 ]]></title>
@@ -4224,13 +4232,6 @@
             <guid>https://news.ycombinator.com/item?id=30741123</guid>
             <pubDate>Sun, 20 Mar 2022 08:42:51 GMT</pubDate>
             <description><![CDATA[Meld is a visual diff and merge tool targeted at developers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Wireshark解密你自己的HTTPS流量]]></title>
-            <link>https://news.ycombinator.com/item?id=30743141</link>
-            <guid>https://news.ycombinator.com/item?id=30743141</guid>
-            <pubDate>Sun, 20 Mar 2022 14:58:19 GMT</pubDate>
-            <description><![CDATA[Decrypting your own HTTPS traffic with Wireshark]]></description>
         </item>
     </channel>
 </rss>
