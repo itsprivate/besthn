@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 04 Jun 2022 21:45:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 23:29:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Docker已死？Podman--一個替代工具？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31615517</link>
+            <guid>https://news.ycombinator.com/item?id=31615517</guid>
+            <pubDate>Sat, 04 Jun 2022 00:22:17 GMT</pubDate>
+            <description><![CDATA[Docker is dead? Podman – an alternative tool?]]></description>
+        </item>
         <item>
             <title><![CDATA[挪威跟蹤所有超市的採購？
 ]]></title>
@@ -4248,13 +4256,6 @@
             <guid>https://news.ycombinator.com/item?id=30766481</guid>
             <pubDate>Tue, 22 Mar 2022 14:27:50 GMT</pubDate>
             <description><![CDATA[Facebook approved 8 paid ads inciting violence and genocide against the Rohingya]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我在編程20年後的指導原則（2020年）]]></title>
-            <link>https://news.ycombinator.com/item?id=30763516</link>
-            <guid>https://news.ycombinator.com/item?id=30763516</guid>
-            <pubDate>Tue, 22 Mar 2022 07:30:15 GMT</pubDate>
-            <description><![CDATA[My guiding principles after 20 years of programming (2020)]]></description>
         </item>
     </channel>
 </rss>
