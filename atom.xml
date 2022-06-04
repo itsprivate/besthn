@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-04T09:27:41.997Z</updated>
+    <updated>2022-06-04T10:33:18.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[WorldWideWeb.app
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31613624</id>
+        <link href="https://news.ycombinator.com/item?id=31613624"/>
+        <updated>2022-06-03T21:07:52.000Z</updated>
+        <summary type="html"><![CDATA[WorldWideWeb.app]]></summary>
+        <author>
+            <name>Arubis</name>
+            <uri>https://news.ycombinator.com/user?id=Arubis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是的：与创作者分享收入的谷歌替代品 - Ahrefs报道
 ]]></title>
@@ -6635,17 +6647,6 @@
         <author>
             <name>htunnicliff</name>
             <uri>https://news.ycombinator.com/user?id=htunnicliff</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客声称攻破了Okta系统]]></title>
-        <id>https://news.ycombinator.com/item?id=30762520</id>
-        <link href="https://news.ycombinator.com/item?id=30762520"/>
-        <updated>2022-03-22T03:45:05.000Z</updated>
-        <summary type="html"><![CDATA[Hackers claim to have breached Okta systems]]></summary>
-        <author>
-            <name>obi1kenobi</name>
-            <uri>https://news.ycombinator.com/user?id=obi1kenobi</uri>
         </author>
     </entry>
 </feed>
