@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31621101",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31621101",
+            "title": "挪威跟踪所有超市的采购？\n",
+            "summary": "Norway to track all supermarket purchases?",
+            "date_modified": "2022-06-04T15:02:09.000Z",
+            "author": {
+                "name": "croes",
+                "url": "https://news.ycombinator.com/user?id=croes"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31617921",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31617921",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "firstSpeaker",
                 "url": "https://news.ycombinator.com/user?id=firstSpeaker"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30764757",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30764757",
-            "title": "Cloudflare使我无法取消对营销邮件的订阅",
-            "summary": "Cloudflare have made it impossible for me to unsubscribe from marketing emails",
-            "date_modified": "2022-03-22T11:18:25.000Z",
-            "author": {
-                "name": "sdflhasjd",
-                "url": "https://news.ycombinator.com/user?id=sdflhasjd"
             }
         }
     ]
