@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 04 Jun 2022 18:50:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 20:59:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[矢量化和性能可移植的Quicksort
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31622548</link>
+            <guid>https://news.ycombinator.com/item?id=31622548</guid>
+            <pubDate>Sat, 04 Jun 2022 16:48:11 GMT</pubDate>
+            <description><![CDATA[Vectorized and performance-portable Quicksort]]></description>
+        </item>
         <item>
             <title><![CDATA[Coinbase正在撤销已经接受的工作邀请
 ]]></title>
@@ -4245,13 +4253,6 @@
             <guid>https://news.ycombinator.com/item?id=30763945</guid>
             <pubDate>Tue, 22 Mar 2022 08:45:26 GMT</pubDate>
             <description><![CDATA[OVHcloud fire: SBG2 data center had no extinguisher, no power cut-out]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Librem 5：第一印象]]></title>
-            <link>https://news.ycombinator.com/item?id=30760883</link>
-            <guid>https://news.ycombinator.com/item?id=30760883</guid>
-            <pubDate>Mon, 21 Mar 2022 23:04:06 GMT</pubDate>
-            <description><![CDATA[Librem 5: First Impressions]]></description>
         </item>
     </channel>
 </rss>
