@@ -11,6 +11,18 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31620765",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31620765",
+            "title": "Coinbase正在撤销已经接受的工作邀请\n",
+            "summary": "Coinbase is rescinding already-accepted job offers",
+            "date_modified": "2022-06-04T14:32:44.000Z",
+            "author": {
+                "name": "r0m4n0",
+                "url": "https://news.ycombinator.com/user?id=r0m4n0"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31618746",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31618746",
@@ -7196,18 +7208,6 @@
             "author": {
                 "name": "jstanley",
                 "url": "https://news.ycombinator.com/user?id=jstanley"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30756636",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30756636",
-            "title": "苹果公司倒下了吗？",
-            "summary": "Ask HN: Is Apple down?",
-            "date_modified": "2022-03-21T17:03:05.000Z",
-            "author": {
-                "name": "crgt",
-                "url": "https://news.ycombinator.com/user?id=crgt"
             }
         }
     ]

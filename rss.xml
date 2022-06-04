@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 04 Jun 2022 17:58:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 18:50:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Coinbase正在撤销已经接受的工作邀请
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31620765</link>
+            <guid>https://news.ycombinator.com/item?id=31620765</guid>
+            <pubDate>Sat, 04 Jun 2022 14:32:44 GMT</pubDate>
+            <description><![CDATA[Coinbase is rescinding already-accepted job offers]]></description>
+        </item>
         <item>
             <title><![CDATA[苹果音乐是我使用的最有问题和最烦人的软件
 ]]></title>
@@ -4244,13 +4252,6 @@
             <guid>https://news.ycombinator.com/item?id=30760883</guid>
             <pubDate>Mon, 21 Mar 2022 23:04:06 GMT</pubDate>
             <description><![CDATA[Librem 5: First Impressions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苹果公司倒下了吗？]]></title>
-            <link>https://news.ycombinator.com/item?id=30756636</link>
-            <guid>https://news.ycombinator.com/item?id=30756636</guid>
-            <pubDate>Mon, 21 Mar 2022 17:03:05 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is Apple down?]]></description>
         </item>
     </channel>
 </rss>
