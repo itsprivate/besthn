@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-04T07:43:49.586Z</updated>
+    <updated>2022-06-04T09:27:42.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[是的：與創作者分享收入的谷歌替代品 - Ahrefs報道
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31614518</id>
+        <link href="https://news.ycombinator.com/item?id=31614518"/>
+        <updated>2022-06-03T22:33:20.000Z</updated>
+        <summary type="html"><![CDATA[Yep: Google alternative that shares revenue with creators – by Ahrefs]]></summary>
+        <author>
+            <name>daolf</name>
+            <uri>https://news.ycombinator.com/user?id=daolf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[異步Rust不一定很困難
 ]]></title>
@@ -6634,17 +6646,6 @@
         <author>
             <name>obi1kenobi</name>
             <uri>https://news.ycombinator.com/user?id=obi1kenobi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被認為是有害的鉤子]]></title>
-        <id>https://news.ycombinator.com/item?id=30753127</id>
-        <link href="https://news.ycombinator.com/item?id=30753127"/>
-        <updated>2022-03-21T12:11:29.000Z</updated>
-        <summary type="html"><![CDATA[Hooks Considered Harmful]]></summary>
-        <author>
-            <name>smtx</name>
-            <uri>https://news.ycombinator.com/user?id=smtx</uri>
         </author>
     </entry>
 </feed>
