@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-04T02:09:28.548Z</updated>
+    <updated>2022-06-04T07:43:49.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[異步Rust不一定很困難
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31611456</id>
+        <link href="https://news.ycombinator.com/item?id=31611456"/>
+        <updated>2022-06-03T17:45:55.000Z</updated>
+        <summary type="html"><![CDATA[Async Rust doesn't have to be hard]]></summary>
+        <author>
+            <name>drogus</name>
+            <uri>https://news.ycombinator.com/user?id=drogus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[禧瑪諾迫使Hammerhead刪除Karoo的所有Di2相關功能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31604152</id>
+        <link href="https://news.ycombinator.com/item?id=31604152"/>
+        <updated>2022-06-03T04:03:09.000Z</updated>
+        <summary type="html"><![CDATA[Shimano Forces Hammerhead to Remove All Di2 Related Functionality From Karoo]]></summary>
+        <author>
+            <name>karlding</name>
+            <uri>https://news.ycombinator.com/user?id=karlding</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌高級經理因達利特活動家被禁止講課而辭職
 ]]></title>
@@ -6621,28 +6645,6 @@
         <author>
             <name>smtx</name>
             <uri>https://news.ycombinator.com/user?id=smtx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你為什麼不使用]]></title>
-        <id>https://news.ycombinator.com/item?id=30755861</id>
-        <link href="https://news.ycombinator.com/item?id=30755861"/>
-        <updated>2022-03-21T16:16:56.000Z</updated>
-        <summary type="html"><![CDATA[Why Don't You Use]]></summary>
-        <author>
-            <name>janvdberg</name>
-            <uri>https://news.ycombinator.com/user?id=janvdberg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[兩分鐘的電池更換促使印度的外賣騎手改用電動摩托車]]></title>
-        <id>https://news.ycombinator.com/item?id=30758811</id>
-        <link href="https://news.ycombinator.com/item?id=30758811"/>
-        <updated>2022-03-21T19:45:53.000Z</updated>
-        <summary type="html"><![CDATA[Two-minute battery changes push India’s delivery riders to switch to e-scooters]]></summary>
-        <author>
-            <name>rustoo</name>
-            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
         </author>
     </entry>
 </feed>
