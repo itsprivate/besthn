@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-04T20:59:42.321Z</updated>
+    <updated>2022-06-04T21:26:32.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[像素艺术。常见错误 (2020)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31617921</id>
+        <link href="https://news.ycombinator.com/item?id=31617921"/>
+        <updated>2022-06-04T07:28:43.000Z</updated>
+        <summary type="html"><![CDATA[Pixel Art: Common Mistakes (2020)]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[矢量化和性能可移植的Quicksort
 ]]></title>
@@ -6642,17 +6654,6 @@
         <author>
             <name>sdflhasjd</name>
             <uri>https://news.ycombinator.com/user?id=sdflhasjd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OVHcloud火灾。SBG2数据中心没有灭火器，没有断电]]></title>
-        <id>https://news.ycombinator.com/item?id=30763945</id>
-        <link href="https://news.ycombinator.com/item?id=30763945"/>
-        <updated>2022-03-22T08:45:26.000Z</updated>
-        <summary type="html"><![CDATA[OVHcloud fire: SBG2 data center had no extinguisher, no power cut-out]]></summary>
-        <author>
-            <name>detaro</name>
-            <uri>https://news.ycombinator.com/user?id=detaro</uri>
         </author>
     </entry>
 </feed>
