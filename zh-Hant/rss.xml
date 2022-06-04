@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 04 Jun 2022 10:46:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 11:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Rr
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31617600</link>
+            <guid>https://news.ycombinator.com/item?id=31617600</guid>
+            <pubDate>Sat, 04 Jun 2022 06:28:03 GMT</pubDate>
+            <description><![CDATA[Rr]]></description>
+        </item>
         <item>
             <title><![CDATA[親愛的Spotify，我們能不能把歌曲擺到桌子上？
 ]]></title>
@@ -4242,13 +4250,6 @@
             <guid>https://news.ycombinator.com/item?id=30763522</guid>
             <pubDate>Tue, 22 Mar 2022 07:31:44 GMT</pubDate>
             <description><![CDATA[Mercedes to accept legal responsibility for a vehicle when Drive Pilot is active]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告訴HN：一家價值400億美元的公司殺害了我兩歲的兒子。現在他們強迫我保持沉默]]></title>
-            <link>https://news.ycombinator.com/item?id=30763464</link>
-            <guid>https://news.ycombinator.com/item?id=30763464</guid>
-            <pubDate>Tue, 22 Mar 2022 07:18:57 GMT</pubDate>
-            <description><![CDATA[Tell HN: A $40B company killed my 2yo son. Now they force me to keep silent]]></description>
         </item>
     </channel>
 </rss>
