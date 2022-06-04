@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-03T23:27:12.853Z</updated>
+    <updated>2022-06-04T02:09:28.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌高級經理因達利特活動家被禁止講課而辭職
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31614060</id>
+        <link href="https://news.ycombinator.com/item?id=31614060"/>
+        <updated>2022-06-03T21:45:09.000Z</updated>
+        <summary type="html"><![CDATA[Sr Manager at Google Resigns After Dalit Activist Disallowed from Giving Lecture]]></summary>
+        <author>
+            <name>ddtaylor</name>
+            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以零知識告白你的愛
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31610005</id>
+        <link href="https://news.ycombinator.com/item?id=31610005"/>
+        <updated>2022-06-03T15:52:23.000Z</updated>
+        <summary type="html"><![CDATA[Confess your love with zero-knowledge]]></summary>
+        <author>
+            <name>amirGi</name>
+            <uri>https://news.ycombinator.com/user?id=amirGi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[戰爭雷霆論壇上的機密規格第三次被洩露
 ]]></title>
@@ -6619,28 +6643,6 @@
         <author>
             <name>rustoo</name>
             <uri>https://news.ycombinator.com/user?id=rustoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[純文本體育]]></title>
-        <id>https://news.ycombinator.com/item?id=30754064</id>
-        <link href="https://news.ycombinator.com/item?id=30754064"/>
-        <updated>2022-03-21T13:47:29.000Z</updated>
-        <summary type="html"><![CDATA[Plain Text Sports]]></summary>
-        <author>
-            <name>abzug</name>
-            <uri>https://news.ycombinator.com/user?id=abzug</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[添加CSS的！！！重要的原因只有一個]]></title>
-        <id>https://news.ycombinator.com/item?id=30757259</id>
-        <link href="https://news.ycombinator.com/item?id=30757259"/>
-        <updated>2022-03-21T17:40:06.000Z</updated>
-        <summary type="html"><![CDATA[CSS's !important was added for one reason only]]></summary>
-        <author>
-            <name>mmastrac</name>
-            <uri>https://news.ycombinator.com/user?id=mmastrac</uri>
         </author>
     </entry>
 </feed>
