@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-04T10:33:18.720Z</updated>
+    <updated>2022-06-04T10:46:50.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亲爱的Spotify，我们能不能把歌曲摆到桌子上？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31618092</id>
+        <link href="https://news.ycombinator.com/item?id=31618092"/>
+        <updated>2022-06-04T08:12:02.000Z</updated>
+        <summary type="html"><![CDATA[Dear Spotify, can we just get table of songs?]]></summary>
+        <author>
+            <name>neilpanchal</name>
+            <uri>https://news.ycombinator.com/user?id=neilpanchal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吊顶式空气净化器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31590773</id>
+        <link href="https://news.ycombinator.com/item?id=31590773"/>
+        <updated>2022-06-02T02:57:46.000Z</updated>
+        <summary type="html"><![CDATA[Ceiling Air Purifier]]></summary>
+        <author>
+            <name>pavel_lishin</name>
+            <uri>https://news.ycombinator.com/user?id=pavel_lishin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WorldWideWeb.app
 ]]></title>
@@ -6625,28 +6649,6 @@
         <author>
             <name>bereavedparent</name>
             <uri>https://news.ycombinator.com/user?id=bereavedparent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lanai，LLVM中神秘的CPU架构]]></title>
-        <id>https://news.ycombinator.com/item?id=30757889</id>
-        <link href="https://news.ycombinator.com/item?id=30757889"/>
-        <updated>2022-03-21T18:31:10.000Z</updated>
-        <summary type="html"><![CDATA[Lanai, the mystery CPU architecture in LLVM]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微服务。我们为什么要这样做？]]></title>
-        <id>https://news.ycombinator.com/item?id=30758723</id>
-        <link href="https://news.ycombinator.com/item?id=30758723"/>
-        <updated>2022-03-21T19:38:52.000Z</updated>
-        <summary type="html"><![CDATA[Microservices: Why Are We Doing This?]]></summary>
-        <author>
-            <name>htunnicliff</name>
-            <uri>https://news.ycombinator.com/user?id=htunnicliff</uri>
         </author>
     </entry>
 </feed>
