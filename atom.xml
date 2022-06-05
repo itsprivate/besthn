@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-05T18:33:31.481Z</updated>
+    <updated>2022-06-05T20:27:36.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我只关心有帮助的通知，不关心促销的通知。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31632137</id>
+        <link href="https://news.ycombinator.com/item?id=31632137"/>
+        <updated>2022-06-05T16:00:06.000Z</updated>
+        <summary type="html"><![CDATA[I only care about the helpful notifications, not the promotional ones]]></summary>
+        <author>
+            <name>otras</name>
+            <uri>https://news.ycombinator.com/user?id=otras</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个癌症试验的意外结果。每位患者的病情都得到了缓解
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31630679</id>
+        <link href="https://news.ycombinator.com/item?id=31630679"/>
+        <updated>2022-06-05T13:13:57.000Z</updated>
+        <summary type="html"><![CDATA[A Cancer Trial’s Unexpected Result: Remission in Every Patient]]></summary>
+        <author>
+            <name>mhb</name>
+            <uri>https://news.ycombinator.com/user?id=mhb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spotify的播客们除了白噪声，每月还能赚到18000美元
 ]]></title>
@@ -6646,28 +6670,6 @@
         <author>
             <name>neelc</name>
             <uri>https://news.ycombinator.com/user?id=neelc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Appwrite - 开源和自我托管的Firebase替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=30769044</id>
-        <link href="https://news.ycombinator.com/item?id=30769044"/>
-        <updated>2022-03-22T17:37:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Appwrite – Open-Source and Self Hosted Firebase Alternative]]></summary>
-        <author>
-            <name>christyjacob4</name>
-            <uri>https://news.ycombinator.com/user?id=christyjacob4</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia Hopper GPU架构和H100加速器]]></title>
-        <id>https://news.ycombinator.com/item?id=30767586</id>
-        <link href="https://news.ycombinator.com/item?id=30767586"/>
-        <updated>2022-03-22T15:52:31.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia Hopper GPU Architecture and H100 Accelerator]]></summary>
-        <author>
-            <name>jsheard</name>
-            <uri>https://news.ycombinator.com/user?id=jsheard</uri>
         </author>
     </entry>
 </feed>
