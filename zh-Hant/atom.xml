@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-05T20:27:36.279Z</updated>
+    <updated>2022-06-05T21:26:10.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Gitea - 一個無痛的自我託管的Git服務
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628939</id>
+        <link href="https://news.ycombinator.com/item?id=31628939"/>
+        <updated>2022-06-05T08:03:13.000Z</updated>
+        <summary type="html"><![CDATA[Gitea – a painless self-hosted Git service]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有一箇舊的iPad躺在身邊？你可能很快就能讓它運行Linux了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31624185</id>
+        <link href="https://news.ycombinator.com/item?id=31624185"/>
+        <updated>2022-06-04T19:26:32.000Z</updated>
+        <summary type="html"><![CDATA[Have an old iPad lying around? You might be able to make it run Linux soon]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我只關心有幫助的通知，不關心促銷的通知。
 ]]></title>
@@ -6648,28 +6672,6 @@
         <author>
             <name>vedanshbhartia</name>
             <uri>https://news.ycombinator.com/user?id=vedanshbhartia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java 18 / JDK 18：全面上市]]></title>
-        <id>https://news.ycombinator.com/item?id=30766650</id>
-        <link href="https://news.ycombinator.com/item?id=30766650"/>
-        <updated>2022-03-22T14:41:15.000Z</updated>
-        <summary type="html"><![CDATA[Java 18 / JDK 18: General Availability]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3是集中式的（而且效率不高）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30774457</id>
-        <link href="https://news.ycombinator.com/item?id=30774457"/>
-        <updated>2022-03-23T03:12:40.000Z</updated>
-        <summary type="html"><![CDATA[Web3 Is Centralized (and Inefficient)]]></summary>
-        <author>
-            <name>neelc</name>
-            <uri>https://news.ycombinator.com/user?id=neelc</uri>
         </author>
     </entry>
 </feed>
