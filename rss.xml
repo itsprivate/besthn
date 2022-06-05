@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 05 Jun 2022 14:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 15:49:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[第一个在M1 Mac上用完全开源的驱动程序渲染的三角形
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31626830</link>
+            <guid>https://news.ycombinator.com/item?id=31626830</guid>
+            <pubDate>Sun, 05 Jun 2022 00:57:59 GMT</pubDate>
+            <description><![CDATA[First triangle ever rendered on an M1 Mac with a fully open-source driver]]></description>
+        </item>
         <item>
             <title><![CDATA[我在微软的面试中作弊
 ]]></title>
@@ -4258,13 +4266,6 @@
             <guid>https://news.ycombinator.com/item?id=30769201</guid>
             <pubDate>Tue, 22 Mar 2022 17:49:44 GMT</pubDate>
             <description><![CDATA[Adafruit requires 2FA to prevent bots buying out Raspberry Pi]]></description>
-        </item>
-        <item>
-            <title><![CDATA[小到可以放在手提行李中的折叠式自行车]]></title>
-            <link>https://news.ycombinator.com/item?id=30771928</link>
-            <guid>https://news.ycombinator.com/item?id=30771928</guid>
-            <pubDate>Tue, 22 Mar 2022 21:39:57 GMT</pubDate>
-            <description><![CDATA[Folding bicycle small enough to fit in hand luggage]]></description>
         </item>
     </channel>
 </rss>
