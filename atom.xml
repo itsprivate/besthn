@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-05T21:26:10.171Z</updated>
+    <updated>2022-06-05T23:59:00.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[具有伟大故事的非暴力视频游戏？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31618955</id>
+        <link href="https://news.ycombinator.com/item?id=31618955"/>
+        <updated>2022-06-04T10:58:54.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Non-violent video games with great stories?]]></summary>
+        <author>
+            <name>recvonline</name>
+            <uri>https://news.ycombinator.com/user?id=recvonline</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gitea - 一个无痛的自我托管的Git服务
 ]]></title>
@@ -6661,17 +6673,6 @@
         <author>
             <name>Hawxy</name>
             <uri>https://news.ycombinator.com/user?id=Hawxy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯维奇内核中百万分之一的错误]]></title>
-        <id>https://news.ycombinator.com/item?id=30775433</id>
-        <link href="https://news.ycombinator.com/item?id=30775433"/>
-        <updated>2022-03-23T05:57:03.000Z</updated>
-        <summary type="html"><![CDATA[A one in a million bug in Switch kernel]]></summary>
-        <author>
-            <name>vedanshbhartia</name>
-            <uri>https://news.ycombinator.com/user?id=vedanshbhartia</uri>
         </author>
     </entry>
 </feed>
