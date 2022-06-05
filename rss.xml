@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 05 Jun 2022 02:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 03:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何阻止垃圾邮件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31625472</link>
+            <guid>https://news.ycombinator.com/item?id=31625472</guid>
+            <pubDate>Sat, 04 Jun 2022 21:54:10 GMT</pubDate>
+            <description><![CDATA[How to stop junk mail]]></description>
+        </item>
         <item>
             <title><![CDATA[还有人对亚马逊迅速失去信心吗？
 ]]></title>
@@ -4250,13 +4258,6 @@
             <guid>https://news.ycombinator.com/item?id=30764886</guid>
             <pubDate>Tue, 22 Mar 2022 11:44:54 GMT</pubDate>
             <description><![CDATA[Tolkien's Paintings]]></description>
-        </item>
-        <item>
-            <title><![CDATA[利用咳嗽和喷嚏预测最佳影片获奖者]]></title>
-            <link>https://news.ycombinator.com/item?id=30764701</link>
-            <guid>https://news.ycombinator.com/item?id=30764701</guid>
-            <pubDate>Tue, 22 Mar 2022 11:05:49 GMT</pubDate>
-            <description><![CDATA[Predicting Best Picture winners using coughs and sneezes]]></description>
         </item>
     </channel>
 </rss>

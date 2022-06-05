@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-05T02:25:39.690Z</updated>
+    <updated>2022-06-05T03:23:59.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何阻止垃圾郵件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31625472</id>
+        <link href="https://news.ycombinator.com/item?id=31625472"/>
+        <updated>2022-06-04T21:54:10.000Z</updated>
+        <summary type="html"><![CDATA[How to stop junk mail]]></summary>
+        <author>
+            <name>user3939382</name>
+            <uri>https://news.ycombinator.com/user?id=user3939382</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[還有人對亞馬遜迅速失去信心嗎？
 ]]></title>
@@ -6646,17 +6658,6 @@
         <author>
             <name>mhb</name>
             <uri>https://news.ycombinator.com/user?id=mhb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利用咳嗽和噴嚏預測最佳影片獲獎者]]></title>
-        <id>https://news.ycombinator.com/item?id=30764701</id>
-        <link href="https://news.ycombinator.com/item?id=30764701"/>
-        <updated>2022-03-22T11:05:49.000Z</updated>
-        <summary type="html"><![CDATA[Predicting Best Picture winners using coughs and sneezes]]></summary>
-        <author>
-            <name>codenberg</name>
-            <uri>https://news.ycombinator.com/user?id=codenberg</uri>
         </author>
     </entry>
 </feed>
