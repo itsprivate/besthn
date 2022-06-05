@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 05 Jun 2022 03:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 04:32:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GitHub用戶向40萬用戶發送通知
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31627061</link>
+            <guid>https://news.ycombinator.com/item?id=31627061</guid>
+            <pubDate>Sun, 05 Jun 2022 01:37:04 GMT</pubDate>
+            <description><![CDATA[GitHub user sends notification to 400k users]]></description>
+        </item>
+        <item>
+            <title><![CDATA[聯邦調查局試圖伏擊我的消息來源
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31622250</link>
+            <guid>https://news.ycombinator.com/item?id=31622250</guid>
+            <pubDate>Sat, 04 Jun 2022 16:24:58 GMT</pubDate>
+            <description><![CDATA[The FBI tried to ambush my source]]></description>
+        </item>
+        <item>
+            <title><![CDATA[蘋果手錶上的連續葡萄糖監測
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31614694</link>
+            <guid>https://news.ycombinator.com/item?id=31614694</guid>
+            <pubDate>Fri, 03 Jun 2022 22:50:11 GMT</pubDate>
+            <description><![CDATA[Continuous glucose monitoring on the Apple Watch]]></description>
+        </item>
         <item>
             <title><![CDATA[如何阻止垃圾郵件
 ]]></title>
@@ -4237,27 +4261,6 @@
             <guid>https://news.ycombinator.com/item?id=30768704</guid>
             <pubDate>Tue, 22 Mar 2022 17:08:44 GMT</pubDate>
             <description><![CDATA[Nvidia Grace CPU]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Okta關於Lapsus$的最新聲明]]></title>
-            <link>https://news.ycombinator.com/item?id=30769537</link>
-            <guid>https://news.ycombinator.com/item?id=30769537</guid>
-            <pubDate>Tue, 22 Mar 2022 18:19:49 GMT</pubDate>
-            <description><![CDATA[Updated Okta Statement on Lapsus$]]></description>
-        </item>
-        <item>
-            <title><![CDATA[誰會在沒有集裝箱的情況下進行大規模運營？]]></title>
-            <link>https://news.ycombinator.com/item?id=30767393</link>
-            <guid>https://news.ycombinator.com/item?id=30767393</guid>
-            <pubDate>Tue, 22 Mar 2022 15:37:32 GMT</pubDate>
-            <description><![CDATA[Ask HN: Who operates at scale without containers?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[托爾金的繪畫作品]]></title>
-            <link>https://news.ycombinator.com/item?id=30764886</link>
-            <guid>https://news.ycombinator.com/item?id=30764886</guid>
-            <pubDate>Tue, 22 Mar 2022 11:44:54 GMT</pubDate>
-            <description><![CDATA[Tolkien's Paintings]]></description>
         </item>
     </channel>
 </rss>
