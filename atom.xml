@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-05T11:58:16.835Z</updated>
+    <updated>2022-06-05T13:16:08.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不要把页脚和无限滚动结合起来
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31624930</id>
+        <link href="https://news.ycombinator.com/item?id=31624930"/>
+        <updated>2022-06-04T20:50:50.000Z</updated>
+        <summary type="html"><![CDATA[Do not combine footers and infinite scrolling]]></summary>
+        <author>
+            <name>harryvederci</name>
+            <uri>https://news.ycombinator.com/user?id=harryvederci</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在《暗黑破坏神》中，完全装备好需要11万美金
 ]]></title>
@@ -6652,17 +6664,6 @@
         <author>
             <name>Naracion</name>
             <uri>https://news.ycombinator.com/user?id=Naracion</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们有羞辱和顺从《纽约时报》的基本权利]]></title>
-        <id>https://news.ycombinator.com/item?id=30770206</id>
-        <link href="https://news.ycombinator.com/item?id=30770206"/>
-        <updated>2022-03-22T19:14:08.000Z</updated>
-        <summary type="html"><![CDATA[Our Fundamental Right to Shame and Shun the New York Times]]></summary>
-        <author>
-            <name>tptacek</name>
-            <uri>https://news.ycombinator.com/user?id=tptacek</uri>
         </author>
     </entry>
 </feed>

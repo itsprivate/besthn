@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 05 Jun 2022 11:58:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 13:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[不要把頁腳和無限滾動結合起來
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31624930</link>
+            <guid>https://news.ycombinator.com/item?id=31624930</guid>
+            <pubDate>Sat, 04 Jun 2022 20:50:50 GMT</pubDate>
+            <description><![CDATA[Do not combine footers and infinite scrolling]]></description>
+        </item>
         <item>
             <title><![CDATA[在《暗黑破壞神》中，完全裝備好需要11萬美金
 ]]></title>
@@ -4256,13 +4264,6 @@
             <guid>https://news.ycombinator.com/item?id=30769560</guid>
             <pubDate>Tue, 22 Mar 2022 18:22:04 GMT</pubDate>
             <description><![CDATA[Hyper-realistic digital humans in Unity]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們有羞辱和順從《紐約時報》的基本權利]]></title>
-            <link>https://news.ycombinator.com/item?id=30770206</link>
-            <guid>https://news.ycombinator.com/item?id=30770206</guid>
-            <pubDate>Tue, 22 Mar 2022 19:14:08 GMT</pubDate>
-            <description><![CDATA[Our Fundamental Right to Shame and Shun the New York Times]]></description>
         </item>
     </channel>
 </rss>
