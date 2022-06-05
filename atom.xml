@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-04T23:29:53.940Z</updated>
+    <updated>2022-06-05T02:25:39.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[还有人对亚马逊迅速失去信心吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31624401</id>
+        <link href="https://news.ycombinator.com/item?id=31624401"/>
+        <updated>2022-06-04T19:52:32.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone else quickly losing confidence in Amazon?]]></summary>
+        <author>
+            <name>d23</name>
+            <uri>https://news.ycombinator.com/user?id=d23</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Docker已死？Podman--一个替代工具？
 ]]></title>
@@ -6645,17 +6657,6 @@
         <author>
             <name>codenberg</name>
             <uri>https://news.ycombinator.com/user?id=codenberg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[脸书批准了8个煽动针对罗兴亚人的暴力和种族灭绝的付费广告]]></title>
-        <id>https://news.ycombinator.com/item?id=30766481</id>
-        <link href="https://news.ycombinator.com/item?id=30766481"/>
-        <updated>2022-03-22T14:27:50.000Z</updated>
-        <summary type="html"><![CDATA[Facebook approved 8 paid ads inciting violence and genocide against the Rohingya]]></summary>
-        <author>
-            <name>tareqak</name>
-            <uri>https://news.ycombinator.com/user?id=tareqak</uri>
         </author>
     </entry>
 </feed>

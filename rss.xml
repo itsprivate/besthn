@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 04 Jun 2022 23:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 02:25:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[还有人对亚马逊迅速失去信心吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31624401</link>
+            <guid>https://news.ycombinator.com/item?id=31624401</guid>
+            <pubDate>Sat, 04 Jun 2022 19:52:32 GMT</pubDate>
+            <description><![CDATA[Ask HN: Anyone else quickly losing confidence in Amazon?]]></description>
+        </item>
         <item>
             <title><![CDATA[Docker已死？Podman--一个替代工具？
 ]]></title>
@@ -4249,13 +4257,6 @@
             <guid>https://news.ycombinator.com/item?id=30764701</guid>
             <pubDate>Tue, 22 Mar 2022 11:05:49 GMT</pubDate>
             <description><![CDATA[Predicting Best Picture winners using coughs and sneezes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[脸书批准了8个煽动针对罗兴亚人的暴力和种族灭绝的付费广告]]></title>
-            <link>https://news.ycombinator.com/item?id=30766481</link>
-            <guid>https://news.ycombinator.com/item?id=30766481</guid>
-            <pubDate>Tue, 22 Mar 2022 14:27:50 GMT</pubDate>
-            <description><![CDATA[Facebook approved 8 paid ads inciting violence and genocide against the Rohingya]]></description>
         </item>
     </channel>
 </rss>
