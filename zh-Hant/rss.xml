@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 05 Jun 2022 13:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 14:59:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我在微軟的面試中作弊
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31628886</link>
+            <guid>https://news.ycombinator.com/item?id=31628886</guid>
+            <pubDate>Sun, 05 Jun 2022 07:50:08 GMT</pubDate>
+            <description><![CDATA[I Cheated on My Microsoft Interview]]></description>
+        </item>
         <item>
             <title><![CDATA[不要把頁腳和無限滾動結合起來
 ]]></title>
@@ -4257,13 +4265,6 @@
             <guid>https://news.ycombinator.com/item?id=30771928</guid>
             <pubDate>Tue, 22 Mar 2022 21:39:57 GMT</pubDate>
             <description><![CDATA[Folding bicycle small enough to fit in hand luggage]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Unity中超現實的數字人]]></title>
-            <link>https://news.ycombinator.com/item?id=30769560</link>
-            <guid>https://news.ycombinator.com/item?id=30769560</guid>
-            <pubDate>Tue, 22 Mar 2022 18:22:04 GMT</pubDate>
-            <description><![CDATA[Hyper-realistic digital humans in Unity]]></description>
         </item>
     </channel>
 </rss>
