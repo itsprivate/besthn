@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-05T11:44:29.622Z</updated>
+    <updated>2022-06-05T11:58:16.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在《暗黑破坏神》中，完全装备好需要11万美金
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628848</id>
+        <link href="https://news.ycombinator.com/item?id=31628848"/>
+        <updated>2022-06-05T07:40:11.000Z</updated>
+        <summary type="html"><![CDATA[It Costs $110k to Fully Gear-Up in Diablo Immortal]]></summary>
+        <author>
+            <name>ddtaylor</name>
+            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5月份DDR5内存价格暴跌20
 ]]></title>
@@ -6651,17 +6663,6 @@
         <author>
             <name>tptacek</name>
             <uri>https://news.ycombinator.com/user?id=tptacek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国司法部指责谷歌隐藏商业通信]]></title>
-        <id>https://news.ycombinator.com/item?id=30760923</id>
-        <link href="https://news.ycombinator.com/item?id=30760923"/>
-        <updated>2022-03-21T23:10:11.000Z</updated>
-        <summary type="html"><![CDATA[US Justice Department accuses Google of hiding business communications]]></summary>
-        <author>
-            <name>tareqak</name>
-            <uri>https://news.ycombinator.com/user?id=tareqak</uri>
         </author>
     </entry>
 </feed>
