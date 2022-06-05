@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-05T15:49:58.595Z</updated>
+    <updated>2022-06-05T18:33:31.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Spotify的播客們除了白噪聲，每月還能賺到18000美元
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31630148</id>
+        <link href="https://news.ycombinator.com/item?id=31630148"/>
+        <updated>2022-06-05T11:55:18.000Z</updated>
+        <summary type="html"><![CDATA[Spotify podcasters are making $18k a month with nothing but white noise]]></summary>
+        <author>
+            <name>Michelangelo11</name>
+            <uri>https://news.ycombinator.com/user?id=Michelangelo11</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RNA在玄武岩熔岩玻璃上自發形成（4.35B年前在地球上大量存在）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628832</id>
+        <link href="https://news.ycombinator.com/item?id=31628832"/>
+        <updated>2022-06-05T07:34:16.000Z</updated>
+        <summary type="html"><![CDATA[RNA spontaneously forms on basalt lava glass (abundant on Earth 4.35B years ago)]]></summary>
+        <author>
+            <name>sanketpatrikar</name>
+            <uri>https://news.ycombinator.com/user?id=sanketpatrikar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第一個在M1 Mac上用完全開源的驅動程序渲染的三角形
 ]]></title>
@@ -6644,28 +6668,6 @@
         <author>
             <name>jsheard</name>
             <uri>https://news.ycombinator.com/user?id=jsheard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任天堂開關如何通過不可修復地燒掉自己的保險絲來防止降級]]></title>
-        <id>https://news.ycombinator.com/item?id=30773214</id>
-        <link href="https://news.ycombinator.com/item?id=30773214"/>
-        <updated>2022-03-23T00:02:41.000Z</updated>
-        <summary type="html"><![CDATA[How the Nintendo Switch prevents downgrades by irreparably blowing its own fuses]]></summary>
-        <author>
-            <name>lord_sudo</name>
-            <uri>https://news.ycombinator.com/user?id=lord_sudo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adafruit要求2FA以防止機器人買走Raspberry Pi]]></title>
-        <id>https://news.ycombinator.com/item?id=30769201</id>
-        <link href="https://news.ycombinator.com/item?id=30769201"/>
-        <updated>2022-03-22T17:49:44.000Z</updated>
-        <summary type="html"><![CDATA[Adafruit requires 2FA to prevent bots buying out Raspberry Pi]]></summary>
-        <author>
-            <name>7402</name>
-            <uri>https://news.ycombinator.com/user?id=7402</uri>
         </author>
     </entry>
 </feed>

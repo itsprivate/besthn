@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31630148",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31630148",
+            "title": "Spotify的播客们除了白噪声，每月还能赚到18000美元\n",
+            "summary": "Spotify podcasters are making $18k a month with nothing but white noise",
+            "date_modified": "2022-06-05T11:55:18.000Z",
+            "author": {
+                "name": "Michelangelo11",
+                "url": "https://news.ycombinator.com/user?id=Michelangelo11"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31628832",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31628832",
+            "title": "RNA在玄武岩熔岩玻璃上自发形成（4.35B年前在地球上大量存在）。\n",
+            "summary": "RNA spontaneously forms on basalt lava glass (abundant on Earth 4.35B years ago)",
+            "date_modified": "2022-06-05T07:34:16.000Z",
+            "author": {
+                "name": "sanketpatrikar",
+                "url": "https://news.ycombinator.com/user?id=sanketpatrikar"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31626830",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31626830",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "jsheard",
                 "url": "https://news.ycombinator.com/user?id=jsheard"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30773214",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30773214",
-            "title": "任天堂开关如何通过不可修复地烧掉自己的保险丝来防止降级",
-            "summary": "How the Nintendo Switch prevents downgrades by irreparably blowing its own fuses",
-            "date_modified": "2022-03-23T00:02:41.000Z",
-            "author": {
-                "name": "lord_sudo",
-                "url": "https://news.ycombinator.com/user?id=lord_sudo"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30769201",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30769201",
-            "title": "Adafruit要求2FA以防止机器人买走Raspberry Pi",
-            "summary": "Adafruit requires 2FA to prevent bots buying out Raspberry Pi",
-            "date_modified": "2022-03-22T17:49:44.000Z",
-            "author": {
-                "name": "7402",
-                "url": "https://news.ycombinator.com/user?id=7402"
             }
         }
     ]
