@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 06 Jun 2022 20:31:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 21:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[苹果公司推出全新的MacBook Air，由新的M2芯片提供超强动力
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31644019</link>
+            <guid>https://news.ycombinator.com/item?id=31644019</guid>
+            <pubDate>Mon, 06 Jun 2022 18:34:16 GMT</pubDate>
+            <description><![CDATA[Apple unveils all-new MacBook Air, supercharged by the new M2 chip]]></description>
+        </item>
         <item>
             <title><![CDATA[苹果发布M2
 ]]></title>
@@ -4280,13 +4288,6 @@
             <guid>https://news.ycombinator.com/item?id=30788544</guid>
             <pubDate>Thu, 24 Mar 2022 11:46:33 GMT</pubDate>
             <description><![CDATA[If you’re not using SSH certificates you’re doing SSH wrong (2019)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告诉HN：需要有一个 "与人交谈的权利"]]></title>
-            <link>https://news.ycombinator.com/item?id=30788681</link>
-            <guid>https://news.ycombinator.com/item?id=30788681</guid>
-            <pubDate>Thu, 24 Mar 2022 12:03:42 GMT</pubDate>
-            <description><![CDATA[Tell HN: There needs to be a “right to speak with a human”]]></description>
         </item>
     </channel>
 </rss>

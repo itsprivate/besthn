@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-06T20:31:17.195Z</updated>
+    <updated>2022-06-06T21:26:01.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果公司推出全新的MacBook Air，由新的M2芯片提供超強動力
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31644019</id>
+        <link href="https://news.ycombinator.com/item?id=31644019"/>
+        <updated>2022-06-06T18:34:16.000Z</updated>
+        <summary type="html"><![CDATA[Apple unveils all-new MacBook Air, supercharged by the new M2 chip]]></summary>
+        <author>
+            <name>yottabyte47</name>
+            <uri>https://news.ycombinator.com/user?id=yottabyte47</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果發佈M2
 ]]></title>
@@ -6676,17 +6688,6 @@
         <author>
             <name>noyesno</name>
             <uri>https://news.ycombinator.com/user?id=noyesno</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告訴HN：需要有一個 "與人交談的權利"]]></title>
-        <id>https://news.ycombinator.com/item?id=30788681</id>
-        <link href="https://news.ycombinator.com/item?id=30788681"/>
-        <updated>2022-03-24T12:03:42.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: There needs to be a “right to speak with a human”]]></summary>
-        <author>
-            <name>candiddevmike</name>
-            <uri>https://news.ycombinator.com/user?id=candiddevmike</uri>
         </author>
     </entry>
 </feed>
