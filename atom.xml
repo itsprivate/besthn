@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-06T19:26:54.884Z</updated>
+    <updated>2022-06-06T19:28:17.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[研究生的副业项目证明了素数猜想
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31640297</id>
+        <link href="https://news.ycombinator.com/item?id=31640297"/>
+        <updated>2022-06-06T13:40:48.000Z</updated>
+        <summary type="html"><![CDATA[Graduate Student’s Side Project Proves Prime Number Conjecture]]></summary>
+        <author>
+            <name>theafh</name>
+            <uri>https://news.ycombinator.com/user?id=theafh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本隼鸟2号探测器收集的小行星样本中发现氨基酸
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31637664</id>
+        <link href="https://news.ycombinator.com/item?id=31637664"/>
+        <updated>2022-06-06T06:12:37.000Z</updated>
+        <summary type="html"><![CDATA[Amino acids found in asteroid samples collected by Japan's Hayabusa2 probe]]></summary>
+        <author>
+            <name>jiocrag</name>
+            <uri>https://news.ycombinator.com/user?id=jiocrag</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仅从Python X.Y开始语法上有效的No-op语句
 ]]></title>
@@ -6660,28 +6684,6 @@
         <author>
             <name>jger15</name>
             <uri>https://news.ycombinator.com/user?id=jger15</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[图示。Lucidchart的开源替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=30780108</id>
-        <link href="https://news.ycombinator.com/item?id=30780108"/>
-        <updated>2022-03-23T16:22:17.000Z</updated>
-        <summary type="html"><![CDATA[Diagrams: Open-Source Alternative to Lucidchart]]></summary>
-        <author>
-            <name>synergy20</name>
-            <uri>https://news.ycombinator.com/user?id=synergy20</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[但生活有其他计划]]></title>
-        <id>https://news.ycombinator.com/item?id=30784939</id>
-        <link href="https://news.ycombinator.com/item?id=30784939"/>
-        <updated>2022-03-23T23:36:00.000Z</updated>
-        <summary type="html"><![CDATA[But life had other plans]]></summary>
-        <author>
-            <name>JBiserkov</name>
-            <uri>https://news.ycombinator.com/user?id=JBiserkov</uri>
         </author>
     </entry>
 </feed>

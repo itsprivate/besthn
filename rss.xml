@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 06 Jun 2022 19:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 19:28:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[研究生的副业项目证明了素数猜想
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31640297</link>
+            <guid>https://news.ycombinator.com/item?id=31640297</guid>
+            <pubDate>Mon, 06 Jun 2022 13:40:48 GMT</pubDate>
+            <description><![CDATA[Graduate Student’s Side Project Proves Prime Number Conjecture]]></description>
+        </item>
+        <item>
+            <title><![CDATA[日本隼鸟2号探测器收集的小行星样本中发现氨基酸
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31637664</link>
+            <guid>https://news.ycombinator.com/item?id=31637664</guid>
+            <pubDate>Mon, 06 Jun 2022 06:12:37 GMT</pubDate>
+            <description><![CDATA[Amino acids found in asteroid samples collected by Japan's Hayabusa2 probe]]></description>
+        </item>
         <item>
             <title><![CDATA[仅从Python X.Y开始语法上有效的No-op语句
 ]]></title>
@@ -4268,20 +4284,6 @@
             <guid>https://news.ycombinator.com/item?id=30782152</guid>
             <pubDate>Wed, 23 Mar 2022 19:15:23 GMT</pubDate>
             <description><![CDATA[Why income share agreements did not work out]]></description>
-        </item>
-        <item>
-            <title><![CDATA[图示。Lucidchart的开源替代品]]></title>
-            <link>https://news.ycombinator.com/item?id=30780108</link>
-            <guid>https://news.ycombinator.com/item?id=30780108</guid>
-            <pubDate>Wed, 23 Mar 2022 16:22:17 GMT</pubDate>
-            <description><![CDATA[Diagrams: Open-Source Alternative to Lucidchart]]></description>
-        </item>
-        <item>
-            <title><![CDATA[但生活有其他计划]]></title>
-            <link>https://news.ycombinator.com/item?id=30784939</link>
-            <guid>https://news.ycombinator.com/item?id=30784939</guid>
-            <pubDate>Wed, 23 Mar 2022 23:36:00 GMT</pubDate>
-            <description><![CDATA[But life had other plans]]></description>
         </item>
     </channel>
 </rss>
