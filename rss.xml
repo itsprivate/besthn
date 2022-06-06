@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 06 Jun 2022 11:43:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 12:59:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[纯文本，有行
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31637910</link>
+            <guid>https://news.ycombinator.com/item?id=31637910</guid>
+            <pubDate>Mon, 06 Jun 2022 07:01:28 GMT</pubDate>
+            <description><![CDATA[Plain text, with lines]]></description>
+        </item>
         <item>
             <title><![CDATA[我作为初级开发者没有学到的绝对真理（2019年）
 ]]></title>
@@ -4271,13 +4279,6 @@
             <guid>https://news.ycombinator.com/item?id=30778692</guid>
             <pubDate>Wed, 23 Mar 2022 14:17:54 GMT</pubDate>
             <description><![CDATA[The Wisdom in Kung Fu Panda]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GitHub事件 2022-03-23]]></title>
-            <link>https://news.ycombinator.com/item?id=30779046</link>
-            <guid>https://news.ycombinator.com/item?id=30779046</guid>
-            <pubDate>Wed, 23 Mar 2022 14:51:45 GMT</pubDate>
-            <description><![CDATA[GitHub incident 2022-03-23]]></description>
         </item>
     </channel>
 </rss>
