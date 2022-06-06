@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 06 Jun 2022 19:28:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 19:46:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[苹果密码锁
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31643917</link>
+            <guid>https://news.ycombinator.com/item?id=31643917</guid>
+            <pubDate>Mon, 06 Jun 2022 18:24:03 GMT</pubDate>
+            <description><![CDATA[Apple Passkey]]></description>
+        </item>
         <item>
             <title><![CDATA[研究生的副业项目证明了素数猜想
 ]]></title>
@@ -4277,13 +4285,6 @@
             <guid>https://news.ycombinator.com/item?id=30760850</guid>
             <pubDate>Mon, 21 Mar 2022 22:59:39 GMT</pubDate>
             <description><![CDATA[Vuescan – Software support for 6500 abandoned scanners]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么收入分享协议没有成功]]></title>
-            <link>https://news.ycombinator.com/item?id=30782152</link>
-            <guid>https://news.ycombinator.com/item?id=30782152</guid>
-            <pubDate>Wed, 23 Mar 2022 19:15:23 GMT</pubDate>
-            <description><![CDATA[Why income share agreements did not work out]]></description>
         </item>
     </channel>
 </rss>
