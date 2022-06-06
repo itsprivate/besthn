@@ -11,6 +11,30 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31633858",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31633858",
+            "title": "韭菜战争，为你的人工智能编程，消灭你的韭菜敌人\n",
+            "summary": "LeekWars, program your AI to destroy your leek enemies",
+            "date_modified": "2022-06-05T19:01:38.000Z",
+            "author": {
+                "name": "pil0u",
+                "url": "https://news.ycombinator.com/user?id=pil0u"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31630915",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31630915",
+            "title": "好的技术写作的例子？\n",
+            "summary": "Ask HN: Examples of good technical writing?",
+            "date_modified": "2022-06-05T13:42:59.000Z",
+            "author": {
+                "name": "u385639",
+                "url": "https://news.ycombinator.com/user?id=u385639"
+            }
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31630216",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31630216",
@@ -7184,30 +7208,6 @@
             "author": {
                 "name": "vitalipom",
                 "url": "https://news.ycombinator.com/user?id=vitalipom"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30775180",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30775180",
-            "title": "Okta对2022年1月妥协事件的调查",
-            "summary": "Okta’s Investigation of the January 2022 Compromise",
-            "date_modified": "2022-03-23T05:08:59.000Z",
-            "author": {
-                "name": "photon12",
-                "url": "https://news.ycombinator.com/user?id=photon12"
-            }
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30774724",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30774724",
-            "title": "由于我对Emacs的贡献，我获得了FSF颁发的奖项",
-            "summary": "I won an award from the FSF for my contributions to Emacs",
-            "date_modified": "2022-03-23T03:50:53.000Z",
-            "author": {
-                "name": "codingquark",
-                "url": "https://news.ycombinator.com/user?id=codingquark"
             }
         }
     ]
