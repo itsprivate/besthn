@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-06T03:44:12.898Z</updated>
+    <updated>2022-06-06T11:01:30.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Dashy - 為你的家庭實驗室提供一個自我託管的主頁
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31636036</id>
+        <link href="https://news.ycombinator.com/item?id=31636036"/>
+        <updated>2022-06-06T00:07:39.000Z</updated>
+        <summary type="html"><![CDATA[Dashy – A self-hosted homepage for your homelab]]></summary>
+        <author>
+            <name>mmmmkay</name>
+            <uri>https://news.ycombinator.com/user?id=mmmmkay</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韭菜戰爭，為你的人工智能編程，消滅你的韭菜敵人
 ]]></title>
@@ -6665,17 +6677,6 @@
         <author>
             <name>quaintdev</name>
             <uri>https://news.ycombinator.com/user?id=quaintdev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[謝謝你，HN]]></title>
-        <id>https://news.ycombinator.com/item?id=30776808</id>
-        <link href="https://news.ycombinator.com/item?id=30776808"/>
-        <updated>2022-03-23T09:59:43.000Z</updated>
-        <summary type="html"><![CDATA[Thank You HN]]></summary>
-        <author>
-            <name>vitalipom</name>
-            <uri>https://news.ycombinator.com/user?id=vitalipom</uri>
         </author>
     </entry>
 </feed>
