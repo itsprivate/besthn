@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-06T13:55:42.774Z</updated>
+    <updated>2022-06-06T14:05:32.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[複雜系統崩潰得更快
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31627925</id>
+        <link href="https://news.ycombinator.com/item?id=31627925"/>
+        <updated>2022-06-05T04:08:32.000Z</updated>
+        <summary type="html"><![CDATA[Complex systems collapse faster]]></summary>
+        <author>
+            <name>nsoonhui</name>
+            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[增強的夢境回憶能力與增加的創造力和連通性有關
 ]]></title>
@@ -6669,17 +6681,6 @@
         <author>
             <name>shutty</name>
             <uri>https://news.ycombinator.com/user?id=shutty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify和谷歌宣佈用戶選擇計費]]></title>
-        <id>https://news.ycombinator.com/item?id=30782735</id>
-        <link href="https://news.ycombinator.com/item?id=30782735"/>
-        <updated>2022-03-23T20:11:49.000Z</updated>
-        <summary type="html"><![CDATA[Spotify and Google Announce User Choice Billing]]></summary>
-        <author>
-            <name>laminarflow</name>
-            <uri>https://news.ycombinator.com/user?id=laminarflow</uri>
         </author>
     </entry>
 </feed>
