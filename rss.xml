@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 05 Jun 2022 23:59:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 02:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[AOL 3.0的反向工程
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31630216</link>
+            <guid>https://news.ycombinator.com/item?id=31630216</guid>
+            <pubDate>Sun, 05 Jun 2022 12:03:39 GMT</pubDate>
+            <description><![CDATA[AOL 3.0 reverse engineered]]></description>
+        </item>
         <item>
             <title><![CDATA[具有伟大故事的非暴力视频游戏？
 ]]></title>
@@ -4266,13 +4274,6 @@
             <guid>https://news.ycombinator.com/item?id=30774724</guid>
             <pubDate>Wed, 23 Mar 2022 03:50:53 GMT</pubDate>
             <description><![CDATA[I won an award from the FSF for my contributions to Emacs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DEV-0537 (LAPSUS$) 针对组织的犯罪行为人]]></title>
-            <link>https://news.ycombinator.com/item?id=30774406</link>
-            <guid>https://news.ycombinator.com/item?id=30774406</guid>
-            <pubDate>Wed, 23 Mar 2022 03:05:53 GMT</pubDate>
-            <description><![CDATA[DEV-0537 (LAPSUS$) Criminal actor targeting organizations]]></description>
         </item>
     </channel>
 </rss>
