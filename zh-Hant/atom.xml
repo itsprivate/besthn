@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-06T11:09:10.551Z</updated>
+    <updated>2022-06-06T11:43:29.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我作為初級開發者沒有學到的絕對真理（2019年）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31636812</id>
+        <link href="https://news.ycombinator.com/item?id=31636812"/>
+        <updated>2022-06-06T02:31:50.000Z</updated>
+        <summary type="html"><![CDATA[Absolute truths I unlearned as junior developer (2019)]]></summary>
+        <author>
+            <name>ddtaylor</name>
+            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dashy - 為你的家庭實驗室提供一個自我託管的主頁
 ]]></title>
@@ -6666,17 +6678,6 @@
         <author>
             <name>tpaksoy</name>
             <uri>https://news.ycombinator.com/user?id=tpaksoy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開始自我託管]]></title>
-        <id>https://news.ycombinator.com/item?id=30781536</id>
-        <link href="https://news.ycombinator.com/item?id=30781536"/>
-        <updated>2022-03-23T18:16:24.000Z</updated>
-        <summary type="html"><![CDATA[Start Self Hosting]]></summary>
-        <author>
-            <name>quaintdev</name>
-            <uri>https://news.ycombinator.com/user?id=quaintdev</uri>
         </author>
     </entry>
 </feed>
