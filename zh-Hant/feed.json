@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31651146",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31651146",
+            "title": "消除辛勞\n",
+            "summary": "Eliminating Toil",
+            "date_modified": "2022-06-07T08:00:04.000Z",
+            "author": {
+                "name": "omarfarooq",
+                "url": "https://news.ycombinator.com/user?id=omarfarooq"
+            },
+            "_original_headline": "Eliminating Toil",
+            "_original_url": "https://sre.google/sre-book/eliminating-toil/",
+            "_sensitive": false,
+            "_score": 253
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31657591",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31657591",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://feynmanlectures.caltech.edu/",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30794308",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30794308",
-            "title": "Reddit的網站使用DRM進行指紋識別（2020年）。",
-            "summary": "Reddit's website uses DRM for fingerprinting (2020)",
-            "date_modified": "2022-03-24T19:28:10.000Z",
-            "author": {
-                "name": "marginalia_nu",
-                "url": "https://news.ycombinator.com/user?id=marginalia_nu"
-            },
-            "_original_headline": "Reddit's website uses DRM for fingerprinting (2020)",
-            "_original_url": "https://smitop.com/post/reddit-whiteops/",
-            "_sensitive": false,
-            "_score": 255
         }
     ]
 }
