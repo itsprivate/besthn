@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-07T14:07:28.906Z</updated>
+    <updated>2022-06-07T17:45:41.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們將在燈塔改為每週四天工作制
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31651423</id>
+        <link href="https://news.ycombinator.com/item?id=31651423"/>
+        <updated>2022-06-07T08:39:17.000Z</updated>
+        <summary type="html"><![CDATA[We're moving to a four-day work week at Beacon]]></summary>
+        <author>
+            <name>500and4</name>
+            <uri>https://news.ycombinator.com/user?id=500and4</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我已經把自己鎖在數字生活之外了
 ]]></title>
@@ -6686,17 +6698,6 @@
         <author>
             <name>Geekette</name>
             <uri>https://news.ycombinator.com/user?id=Geekette</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏鴉知道自己知道什麼，可以思考自己的思想內容]]></title>
-        <id>https://news.ycombinator.com/item?id=30792057</id>
-        <link href="https://news.ycombinator.com/item?id=30792057"/>
-        <updated>2022-03-24T16:23:05.000Z</updated>
-        <summary type="html"><![CDATA[Crows know what they know and can ponder the content of their own minds]]></summary>
-        <author>
-            <name>SubiculumCode</name>
-            <uri>https://news.ycombinator.com/user?id=SubiculumCode</uri>
         </author>
     </entry>
 </feed>

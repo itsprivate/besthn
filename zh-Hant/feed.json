@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31651423",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31651423",
+            "title": "我們將在燈塔改為每週四天工作制\n",
+            "summary": "We're moving to a four-day work week at Beacon",
+            "date_modified": "2022-06-07T08:39:17.000Z",
+            "author": {
+                "name": "500and4",
+                "url": "https://news.ycombinator.com/user?id=500and4"
+            },
+            "_original_headline": "We're moving to a four-day work week at Beacon",
+            "_original_url": "https://www.beaconcrm.org/blog/beacon-switching-to-four-day-work-week",
+            "_sensitive": false,
+            "_score": 268
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31652650",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31652650",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www2.ljworld.com/news/general-news/2022/mar/23/an-email-urging-lower-wages-for-new-employees-due-to-higher-gas-prices-sparks-walkout-at-lawrence-applebees/",
             "_sensitive": false,
             "_score": 263
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30792057",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30792057",
-            "title": "烏鴉知道自己知道什麼，可以思考自己的思想內容",
-            "summary": "Crows know what they know and can ponder the content of their own minds",
-            "date_modified": "2022-03-24T16:23:05.000Z",
-            "author": {
-                "name": "SubiculumCode",
-                "url": "https://news.ycombinator.com/user?id=SubiculumCode"
-            },
-            "_original_headline": "Crows know what they know and can ponder the content of their own minds",
-            "_original_url": "https://www.statnews.com/2020/09/24/crows-possess-higher-intelligence-long-thought-primarily-human/",
-            "_sensitive": false,
-            "_score": 251
         }
     ]
 }
