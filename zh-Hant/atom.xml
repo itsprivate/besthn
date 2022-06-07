@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-07T19:59:18.326Z</updated>
+    <updated>2022-06-07T21:27:49.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[歡迎來到M1窗口項目
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31657591</id>
+        <link href="https://news.ycombinator.com/item?id=31657591"/>
+        <updated>2022-06-07T17:31:30.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the M1 Windows project]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歐盟達成協議，使USB-C成為大多數電子設備的通用充電器
 ]]></title>
@@ -6690,17 +6702,6 @@
         <author>
             <name>marginalia_nu</name>
             <uri>https://news.ycombinator.com/user?id=marginalia_nu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A.out的出路]]></title>
-        <id>https://news.ycombinator.com/item?id=30792059</id>
-        <link href="https://news.ycombinator.com/item?id=30792059"/>
-        <updated>2022-03-24T16:23:18.000Z</updated>
-        <summary type="html"><![CDATA[A Way Out for A.out]]></summary>
-        <author>
-            <name>bitcharmer</name>
-            <uri>https://news.ycombinator.com/user?id=bitcharmer</uri>
         </author>
     </entry>
 </feed>
