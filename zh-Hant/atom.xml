@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-06T21:26:01.722Z</updated>
+    <updated>2022-06-07T02:16:23.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Rosetta在Linux虛擬機中運行英特爾二進制文件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31644990</id>
+        <link href="https://news.ycombinator.com/item?id=31644990"/>
+        <updated>2022-06-06T19:35:18.000Z</updated>
+        <summary type="html"><![CDATA[Running Intel Binaries in Linux VMs with Rosetta]]></summary>
+        <author>
+            <name>gok</name>
+            <uri>https://news.ycombinator.com/user?id=gok</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果公司推出全新的MacBook Air，由新的M2芯片提供超強動力
 ]]></title>
@@ -6677,17 +6689,6 @@
         <author>
             <name>TangerineDream</name>
             <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你不使用SSH證書，你就做錯了SSH (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=30788544</id>
-        <link href="https://news.ycombinator.com/item?id=30788544"/>
-        <updated>2022-03-24T11:46:33.000Z</updated>
-        <summary type="html"><![CDATA[If you’re not using SSH certificates you’re doing SSH wrong (2019)]]></summary>
-        <author>
-            <name>noyesno</name>
-            <uri>https://news.ycombinator.com/user?id=noyesno</uri>
         </author>
     </entry>
 </feed>
