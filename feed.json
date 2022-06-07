@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31638697",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31638697",
+            "title": "如何打开保险箱\n",
+            "summary": "How to open a safe",
+            "date_modified": "2022-06-06T10:03:34.000Z",
+            "author": {
+                "name": "seasicksteve",
+                "url": "https://news.ycombinator.com/user?id=seasicksteve"
+            },
+            "_original_headline": "How to open a safe",
+            "_original_url": "https://github.com/H4ckd4ddy/bypass-sentry-safe",
+            "_sensitive": false,
+            "_score": 250
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31648326",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31648326",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/",
             "_sensitive": false,
             "_score": 255
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30771149",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30771149",
-            "title": "Kubernetes中 \"优雅关机 \"的问题（2019年）",
-            "summary": "Problems with “graceful shutdown” in Kubernetes (2019)",
-            "date_modified": "2022-03-22T20:34:35.000Z",
-            "author": {
-                "name": "richardfey",
-                "url": "https://news.ycombinator.com/user?id=richardfey"
-            },
-            "_original_headline": "Problems with “graceful shutdown” in Kubernetes (2019)",
-            "_original_url": "https://philpearl.github.io/post/k8s_ingress/",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }
