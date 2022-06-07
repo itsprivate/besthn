@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-07T02:16:23.512Z</updated>
+    <updated>2022-06-07T04:49:35.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[改善思維的工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31647181</id>
+        <link href="https://news.ycombinator.com/item?id=31647181"/>
+        <updated>2022-06-06T22:24:04.000Z</updated>
+        <summary type="html"><![CDATA[Tools for Better Thinking]]></summary>
+        <author>
+            <name>andsoitis</name>
+            <uri>https://news.ycombinator.com/user?id=andsoitis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Rosetta在Linux虛擬機中運行英特爾二進制文件
 ]]></title>
@@ -6678,17 +6690,6 @@
         <author>
             <name>sgt</name>
             <uri>https://news.ycombinator.com/user?id=sgt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開源 "抗議軟件 "損害了開放源碼]]></title>
-        <id>https://news.ycombinator.com/item?id=30789256</id>
-        <link href="https://news.ycombinator.com/item?id=30789256"/>
-        <updated>2022-03-24T13:13:10.000Z</updated>
-        <summary type="html"><![CDATA[Open source ‘protestware’ harms Open Source]]></summary>
-        <author>
-            <name>TangerineDream</name>
-            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
         </author>
     </entry>
 </feed>
