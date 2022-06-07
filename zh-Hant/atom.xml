@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-07T17:45:41.449Z</updated>
+    <updated>2022-06-07T18:03:46.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[德國為英特爾工廠支付55億美元
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31654762</id>
+        <link href="https://news.ycombinator.com/item?id=31654762"/>
+        <updated>2022-06-07T14:22:43.000Z</updated>
+        <summary type="html"><![CDATA[Germany paying $5.5bn for Intel fab]]></summary>
+        <author>
+            <name>throwaway4good</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway4good</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們將在燈塔改為每週四天工作制
 ]]></title>
@@ -6687,17 +6699,6 @@
         <author>
             <name>ck2</name>
             <uri>https://news.ycombinator.com/user?id=ck2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Applebee's執行總裁敦促利用高油價推動降低工資，引發罷工事件]]></title>
-        <id>https://news.ycombinator.com/item?id=30795015</id>
-        <link href="https://news.ycombinator.com/item?id=30795015"/>
-        <updated>2022-03-24T20:33:18.000Z</updated>
-        <summary type="html"><![CDATA[Applebee’s exec urges using high gas prices to push lower wages, sparks walkout]]></summary>
-        <author>
-            <name>Geekette</name>
-            <uri>https://news.ycombinator.com/user?id=Geekette</uri>
         </author>
     </entry>
 </feed>

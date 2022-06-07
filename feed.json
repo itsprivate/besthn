@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31654762",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31654762",
+            "title": "德国为英特尔工厂支付55亿美元\n",
+            "summary": "Germany paying $5.5bn for Intel fab",
+            "date_modified": "2022-06-07T14:22:43.000Z",
+            "author": {
+                "name": "throwaway4good",
+                "url": "https://news.ycombinator.com/user?id=throwaway4good"
+            },
+            "_original_headline": "Germany paying $5.5bn for Intel fab",
+            "_original_url": "https://www.electronicsweekly.com/news/business/793299-2022-03/",
+            "_sensitive": false,
+            "_score": 253
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31651423",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31651423",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.popularmechanics.com/technology/a37543273/homemade-xray-machine/",
             "_sensitive": false,
             "_score": 262
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30795015",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30795015",
-            "title": "Applebee's执行总裁敦促利用高油价推动降低工资，引发罢工事件",
-            "summary": "Applebee’s exec urges using high gas prices to push lower wages, sparks walkout",
-            "date_modified": "2022-03-24T20:33:18.000Z",
-            "author": {
-                "name": "Geekette",
-                "url": "https://news.ycombinator.com/user?id=Geekette"
-            },
-            "_original_headline": "Applebee’s exec urges using high gas prices to push lower wages, sparks walkout",
-            "_original_url": "https://www2.ljworld.com/news/general-news/2022/mar/23/an-email-urging-lower-wages-for-new-employees-due-to-higher-gas-prices-sparks-walkout-at-lawrence-applebees/",
-            "_sensitive": false,
-            "_score": 263
         }
     ]
 }
