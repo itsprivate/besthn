@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31648326",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31648326",
+            "title": "告诉HN：我从2007年开始使用同一台电脑（有小幅升级）。\n",
+            "summary": "Tell HN: I used the same computer since 2007 (with minor upgrades)",
+            "date_modified": "2022-06-07T00:22:47.000Z",
+            "author": {
+                "name": "andrecarini",
+                "url": "https://news.ycombinator.com/user?id=andrecarini"
+            },
+            "_original_headline": "Tell HN: I used the same computer since 2007 (with minor upgrades)",
+            "_original_url": "https://news.ycombinator.com/item?id=31648326",
+            "_sensitive": false,
+            "_score": 258
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31644188",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31644188",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "Problems with “graceful shutdown” in Kubernetes (2019)",
             "_original_url": "https://philpearl.github.io/post/k8s_ingress/",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30783051",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30783051",
-            "title": "关于最近服务中断的最新情况",
-            "summary": "An update on recent service disruptions",
-            "date_modified": "2022-03-23T20:39:48.000Z",
-            "author": {
-                "name": "todsacerdoti",
-                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
-            },
-            "_original_headline": "An update on recent service disruptions",
-            "_original_url": "https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/",
             "_sensitive": false,
             "_score": 250
         }
