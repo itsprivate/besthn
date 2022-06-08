@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-08T17:44:37.311Z</updated>
+    <updated>2022-06-08T19:47:46.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国前国会议员、特工对选举欺诈指控认罪
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31670355</id>
+        <link href="https://news.ycombinator.com/item?id=31670355"/>
+        <updated>2022-06-08T17:02:13.000Z</updated>
+        <summary type="html"><![CDATA[Former U.S. congressman, operative pleads guilty to election fraud charges]]></summary>
+        <author>
+            <name>dmeocary</name>
+            <uri>https://news.ycombinator.com/user?id=dmeocary</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[停止取消资优项目并称其为 "公平"。
 ]]></title>
@@ -6699,17 +6711,6 @@
         <author>
             <name>rustoo</name>
             <uri>https://news.ycombinator.com/user?id=rustoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我为GitHub问题建立了一个收据打印机]]></title>
-        <id>https://news.ycombinator.com/item?id=30803589</id>
-        <link href="https://news.ycombinator.com/item?id=30803589"/>
-        <updated>2022-03-25T15:49:18.000Z</updated>
-        <summary type="html"><![CDATA[I built a receipt printer for GitHub issues]]></summary>
-        <author>
-            <name>horsellama</name>
-            <uri>https://news.ycombinator.com/user?id=horsellama</uri>
         </author>
     </entry>
 </feed>

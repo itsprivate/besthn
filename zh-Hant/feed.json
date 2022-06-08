@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31670355",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31670355",
+            "title": "美國前國會議員、特工對選舉欺詐指控認罪\n",
+            "summary": "Former U.S. congressman, operative pleads guilty to election fraud charges",
+            "date_modified": "2022-06-08T17:02:13.000Z",
+            "author": {
+                "name": "dmeocary",
+                "url": "https://news.ycombinator.com/user?id=dmeocary"
+            },
+            "_original_headline": "Former U.S. congressman, operative pleads guilty to election fraud charges",
+            "_original_url": "https://www.justice.gov/usao-edpa/pr/former-us-congressman-and-philadelphia-political-operative-pleads-guilty-election-fraud",
+            "_sensitive": false,
+            "_score": 261
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31670065",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31670065",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.sciencedirect.com/science/article/pii/S0047272720300992",
             "_sensitive": false,
             "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30803589",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30803589",
-            "title": "我為GitHub問題建立了一個收據打印機",
-            "summary": "I built a receipt printer for GitHub issues",
-            "date_modified": "2022-03-25T15:49:18.000Z",
-            "author": {
-                "name": "horsellama",
-                "url": "https://news.ycombinator.com/user?id=horsellama"
-            },
-            "_original_headline": "I built a receipt printer for GitHub issues",
-            "_original_url": "https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/",
-            "_sensitive": false,
-            "_score": 276
         }
     ]
 }
