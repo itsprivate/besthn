@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31670065",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31670065",
+            "title": "停止取消资优项目并称其为 \"公平\"。\n",
+            "summary": "Stop Eliminating Gifted Programs and Calling It ‘Equity’",
+            "date_modified": "2022-06-08T16:45:24.000Z",
+            "author": {
+                "name": "paulpauper",
+                "url": "https://news.ycombinator.com/user?id=paulpauper"
+            },
+            "_original_headline": "Stop Eliminating Gifted Programs and Calling It ‘Equity’",
+            "_original_url": "https://www.teachforamerica.org/one-day/opinion/stop-eliminating-gifted-programs-and-calling-it-equity",
+            "_sensitive": false,
+            "_score": 271
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31668274",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31668274",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/",
             "_sensitive": false,
             "_score": 276
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30800715",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30800715",
-            "title": "从零开始写一个简单的操作系统 (2010) [pdf]",
-            "summary": "Writing a simple operating system from scratch (2010) [pdf]",
-            "date_modified": "2022-03-25T11:14:14.000Z",
-            "author": {
-                "name": "agomez314",
-                "url": "https://news.ycombinator.com/user?id=agomez314"
-            },
-            "_original_headline": "Writing a simple operating system from scratch (2010) [pdf]",
-            "_original_url": "https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }
