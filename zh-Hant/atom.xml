@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-08T06:36:06.871Z</updated>
+    <updated>2022-06-08T14:03:59.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[找到一個好的可用.com域名
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31664440</id>
+        <link href="https://news.ycombinator.com/item?id=31664440"/>
+        <updated>2022-06-08T07:39:38.000Z</updated>
+        <summary type="html"><![CDATA[Find a good available .com domain]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[男子因身份證明問題起訴美國航空公司，被判入獄
 ]]></title>
@@ -6695,17 +6707,6 @@
         <author>
             <name>modinfo</name>
             <uri>https://news.ycombinator.com/user?id=modinfo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[所以，你想成為一個暗網大毒梟]]></title>
-        <id>https://news.ycombinator.com/item?id=30788530</id>
-        <link href="https://news.ycombinator.com/item?id=30788530"/>
-        <updated>2022-03-24T11:45:14.000Z</updated>
-        <summary type="html"><![CDATA[So, you want to be a darknet drug lord]]></summary>
-        <author>
-            <name>davikr</name>
-            <uri>https://news.ycombinator.com/user?id=davikr</uri>
         </author>
     </entry>
 </feed>
