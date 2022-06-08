@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31668426",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31668426",
+            "title": "日落的原子文本編輯器\n",
+            "summary": "Sunsetting Atom Text Editor",
+            "date_modified": "2022-06-08T15:06:39.000Z",
+            "author": {
+                "name": "ewired",
+                "url": "https://news.ycombinator.com/user?id=ewired"
+            },
+            "_original_headline": "Sunsetting Atom Text Editor",
+            "_original_url": "https://github.blog/2022-06-08-sunsetting-atom/",
+            "_sensitive": false,
+            "_score": 314
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31664440",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31664440",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.politico.eu/article/eus-digital-markets-act-adopted/",
             "_sensitive": false,
             "_score": 260
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30798274",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30798274",
-            "title": "波斯蒂科。適用於Mac的現代PostgreSQL客戶端",
-            "summary": "Postico: A Modern PostgreSQL Client for the Mac",
-            "date_modified": "2022-03-25T03:16:33.000Z",
-            "author": {
-                "name": "modinfo",
-                "url": "https://news.ycombinator.com/user?id=modinfo"
-            },
-            "_original_headline": "Postico: A Modern PostgreSQL Client for the Mac",
-            "_original_url": "https://eggerapps.at/postico/",
-            "_sensitive": false,
-            "_score": 252
         }
     ]
 }
