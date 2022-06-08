@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31662962",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31662962",
+            "title": "男子因身份證明問題起訴美國航空公司，被判入獄\n",
+            "summary": "Man sues American Airlines over identification, jail time",
+            "date_modified": "2022-06-08T03:45:45.000Z",
+            "author": {
+                "name": "nabilhat",
+                "url": "https://news.ycombinator.com/user?id=nabilhat"
+            },
+            "_original_headline": "Man sues American Airlines over identification, jail time",
+            "_original_url": "https://www.star-telegram.com/news/local/fort-worth/article262126407.html",
+            "_sensitive": false,
+            "_score": 288
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31657068",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31657068",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://pastebin.com/raw/GrV3uYh5",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30793352",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30793352",
-            "title": "循證醫學的幻覺",
-            "summary": "The illusion of evidence based medicine",
-            "date_modified": "2022-03-24T17:59:44.000Z",
-            "author": {
-                "name": "pueblito",
-                "url": "https://news.ycombinator.com/user?id=pueblito"
-            },
-            "_original_headline": "The illusion of evidence based medicine",
-            "_original_url": "https://www.bmj.com/content/376/bmj.o702",
-            "_sensitive": false,
-            "_score": 252
         }
     ]
 }

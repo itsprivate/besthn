@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-08T03:49:28.104Z</updated>
+    <updated>2022-06-08T06:36:06.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[男子因身份证明问题起诉美国航空公司，被判入狱
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31662962</id>
+        <link href="https://news.ycombinator.com/item?id=31662962"/>
+        <updated>2022-06-08T03:45:45.000Z</updated>
+        <summary type="html"><![CDATA[Man sues American Airlines over identification, jail time]]></summary>
+        <author>
+            <name>nabilhat</name>
+            <uri>https://news.ycombinator.com/user?id=nabilhat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国的入境集装箱数量正在恢复到大流行前的水平
 ]]></title>
@@ -6694,17 +6706,6 @@
         <author>
             <name>davikr</name>
             <uri>https://news.ycombinator.com/user?id=davikr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[循证医学的幻觉]]></title>
-        <id>https://news.ycombinator.com/item?id=30793352</id>
-        <link href="https://news.ycombinator.com/item?id=30793352"/>
-        <updated>2022-03-24T17:59:44.000Z</updated>
-        <summary type="html"><![CDATA[The illusion of evidence based medicine]]></summary>
-        <author>
-            <name>pueblito</name>
-            <uri>https://news.ycombinator.com/user?id=pueblito</uri>
         </author>
     </entry>
 </feed>
