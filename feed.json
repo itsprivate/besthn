@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31653726",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31653726",
+            "title": "比特币票据--安全、自我监护的现金形式的比特币钱包\n",
+            "summary": "Show HN: The Bitcoin Note – Secure, Self-Custodial Bitcoin Wallets in Cash Form",
+            "date_modified": "2022-06-07T13:11:51.000Z",
+            "author": {
+                "name": "paulgerhardt",
+                "url": "https://news.ycombinator.com/user?id=paulgerhardt"
+            },
+            "_original_headline": "Show HN: The Bitcoin Note – Secure, Self-Custodial Bitcoin Wallets in Cash Form",
+            "_original_url": "https://www.offline.cash/",
+            "_sensitive": false,
+            "_score": 271
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31651146",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31651146",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "The Cube Rule",
             "_original_url": "https://cuberule.com/",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30792902",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30792902",
-            "title": "费曼物理学讲座》（1964年）",
-            "summary": "The Feynman Lectures on Physics (1964)",
-            "date_modified": "2022-03-24T17:27:31.000Z",
-            "author": {
-                "name": "simplicialset",
-                "url": "https://news.ycombinator.com/user?id=simplicialset"
-            },
-            "_original_headline": "The Feynman Lectures on Physics (1964)",
-            "_original_url": "https://feynmanlectures.caltech.edu/",
             "_sensitive": false,
             "_score": 250
         }

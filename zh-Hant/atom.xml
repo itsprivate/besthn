@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-07T21:46:59.609Z</updated>
+    <updated>2022-06-08T02:17:46.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[比特幣票據--安全、自我監護的現金形式的比特幣錢包
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31653726</id>
+        <link href="https://news.ycombinator.com/item?id=31653726"/>
+        <updated>2022-06-07T13:11:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The Bitcoin Note – Secure, Self-Custodial Bitcoin Wallets in Cash Form]]></summary>
+        <author>
+            <name>paulgerhardt</name>
+            <uri>https://news.ycombinator.com/user?id=paulgerhardt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[消除辛勞
 ]]></title>
@@ -6692,17 +6704,6 @@
         <author>
             <name>rococode</name>
             <uri>https://news.ycombinator.com/user?id=rococode</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[費曼物理學講座》（1964年）]]></title>
-        <id>https://news.ycombinator.com/item?id=30792902</id>
-        <link href="https://news.ycombinator.com/item?id=30792902"/>
-        <updated>2022-03-24T17:27:31.000Z</updated>
-        <summary type="html"><![CDATA[The Feynman Lectures on Physics (1964)]]></summary>
-        <author>
-            <name>simplicialset</name>
-            <uri>https://news.ycombinator.com/user?id=simplicialset</uri>
         </author>
     </entry>
 </feed>
