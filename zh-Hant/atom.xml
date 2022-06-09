@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-08T19:47:46.297Z</updated>
+    <updated>2022-06-09T02:19:19.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[六角詞。與單詞相似的十六進制顏色
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31673662</id>
+        <link href="https://news.ycombinator.com/item?id=31673662"/>
+        <updated>2022-06-08T20:35:46.000Z</updated>
+        <summary type="html"><![CDATA[Hexwords: Hex colors that are similar to words]]></summary>
+        <author>
+            <name>cialowicz</name>
+            <uri>https://news.ycombinator.com/user?id=cialowicz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國前國會議員、特工對選舉欺詐指控認罪
 ]]></title>
@@ -6700,17 +6712,6 @@
         <author>
             <name>jrepinc</name>
             <uri>https://news.ycombinator.com/user?id=jrepinc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國37%的工作可以完全在家裡進行]]></title>
-        <id>https://news.ycombinator.com/item?id=30802137</id>
-        <link href="https://news.ycombinator.com/item?id=30802137"/>
-        <updated>2022-03-25T13:50:01.000Z</updated>
-        <summary type="html"><![CDATA[37% of jobs in the United States can be performed entirely at home]]></summary>
-        <author>
-            <name>rustoo</name>
-            <uri>https://news.ycombinator.com/user?id=rustoo</uri>
         </author>
     </entry>
 </feed>

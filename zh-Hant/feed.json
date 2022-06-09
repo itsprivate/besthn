@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31673662",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31673662",
+            "title": "六角詞。與單詞相似的十六進制顏色\n",
+            "summary": "Hexwords: Hex colors that are similar to words",
+            "date_modified": "2022-06-08T20:35:46.000Z",
+            "author": {
+                "name": "cialowicz",
+                "url": "https://news.ycombinator.com/user?id=cialowicz"
+            },
+            "_original_headline": "Hexwords: Hex colors that are similar to words",
+            "_original_url": "https://hexwords.netlify.app/",
+            "_sensitive": false,
+            "_score": 297
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31670355",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31670355",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.theverge.com/2022/3/25/22995144/microsoft-foreign-corrupt-practices-bribery-whistleblower-contracting",
             "_sensitive": false,
             "_score": 276
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30802137",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30802137",
-            "title": "美國37%的工作可以完全在家裡進行",
-            "summary": "37% of jobs in the United States can be performed entirely at home",
-            "date_modified": "2022-03-25T13:50:01.000Z",
-            "author": {
-                "name": "rustoo",
-                "url": "https://news.ycombinator.com/user?id=rustoo"
-            },
-            "_original_headline": "37% of jobs in the United States can be performed entirely at home",
-            "_original_url": "https://www.sciencedirect.com/science/article/pii/S0047272720300992",
-            "_sensitive": false,
-            "_score": 251
         }
     ]
 }
