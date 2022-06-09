@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 09 Jun 2022 23:32:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 23:47:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们赢得了Linux之战，但我们正在失去自由之战 (2016)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31676011</link>
+            <guid>https://news.ycombinator.com/item?id=31676011</guid>
+            <pubDate>Wed, 08 Jun 2022 23:55:10 GMT</pubDate>
+            <description><![CDATA[We won the battle for Linux, but we're losing the battle for freedom (2016)]]></description>
+        </item>
         <item>
             <title><![CDATA[复杂软件的崩溃
 ]]></title>
@@ -4322,13 +4330,6 @@
             <guid>https://news.ycombinator.com/item?id=30816135</guid>
             <pubDate>Sat, 26 Mar 2022 23:04:02 GMT</pubDate>
             <description><![CDATA[A userspace WireGuard client that exposes itself as a proxy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[网络浏览器中的Python 3.11]]></title>
-            <link>https://news.ycombinator.com/item?id=30815122</link>
-            <guid>https://news.ycombinator.com/item?id=30815122</guid>
-            <pubDate>Sat, 26 Mar 2022 20:35:40 GMT</pubDate>
-            <description><![CDATA[Python 3.11 in the Web Browser]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-09T23:32:17.994Z</updated>
+    <updated>2022-06-09T23:47:49.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们赢得了Linux之战，但我们正在失去自由之战 (2016)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31676011</id>
+        <link href="https://news.ycombinator.com/item?id=31676011"/>
+        <updated>2022-06-08T23:55:10.000Z</updated>
+        <summary type="html"><![CDATA[We won the battle for Linux, but we're losing the battle for freedom (2016)]]></summary>
+        <author>
+            <name>ddtaylor</name>
+            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[复杂软件的崩溃
 ]]></title>
@@ -6718,17 +6730,6 @@
         <author>
             <name>octeep</name>
             <uri>https://news.ycombinator.com/user?id=octeep</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网络浏览器中的Python 3.11]]></title>
-        <id>https://news.ycombinator.com/item?id=30815122</id>
-        <link href="https://news.ycombinator.com/item?id=30815122"/>
-        <updated>2022-03-26T20:35:40.000Z</updated>
-        <summary type="html"><![CDATA[Python 3.11 in the Web Browser]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
