@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-09T14:46:40.821Z</updated>
+    <updated>2022-06-09T15:31:42.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Dropbox删除了《瑞克与莫蒂》创作者的账户，因为他们秘密违反了TOS规定
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31680894</id>
+        <link href="https://news.ycombinator.com/item?id=31680894"/>
+        <updated>2022-06-09T13:29:30.000Z</updated>
+        <summary type="html"><![CDATA[Dropbox deletes Rick and Morty creators account for secret TOS violation]]></summary>
+        <author>
+            <name>casefields</name>
+            <uri>https://news.ycombinator.com/user?id=casefields</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最后的问题
 ]]></title>
@@ -6711,17 +6723,6 @@
         <author>
             <name>samizdis</name>
             <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作为一个远程团队哀悼损失]]></title>
-        <id>https://news.ycombinator.com/item?id=30811187</id>
-        <link href="https://news.ycombinator.com/item?id=30811187"/>
-        <updated>2022-03-26T12:13:44.000Z</updated>
-        <summary type="html"><![CDATA[Mourning loss as a remote team]]></summary>
-        <author>
-            <name>asyncscrum</name>
-            <uri>https://news.ycombinator.com/user?id=asyncscrum</uri>
         </author>
     </entry>
 </feed>
