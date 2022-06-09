@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-09T14:33:25.983Z</updated>
+    <updated>2022-06-09T14:46:40.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最後的問題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31675727</id>
+        <link href="https://news.ycombinator.com/item?id=31675727"/>
+        <updated>2022-06-08T23:19:59.000Z</updated>
+        <summary type="html"><![CDATA[The Last Question]]></summary>
+        <author>
+            <name>thewarpaint</name>
+            <uri>https://news.ycombinator.com/user?id=thewarpaint</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[停止用利特代碼進行面試
 ]]></title>
@@ -6710,17 +6722,6 @@
         <author>
             <name>asyncscrum</name>
             <uri>https://news.ycombinator.com/user?id=asyncscrum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[`_COPY -chmod`將我的容器鏡像的大小減少了35%。]]></title>
-        <id>https://news.ycombinator.com/item?id=30808945</id>
-        <link href="https://news.ycombinator.com/item?id=30808945"/>
-        <updated>2022-03-26T03:11:58.000Z</updated>
-        <summary type="html"><![CDATA[`COPY –chmod` reduced the size of my container image by 35%]]></summary>
-        <author>
-            <name>unmole</name>
-            <uri>https://news.ycombinator.com/user?id=unmole</uri>
         </author>
     </entry>
 </feed>
