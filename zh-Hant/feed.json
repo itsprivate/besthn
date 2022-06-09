@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31668814",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31668814",
+            "title": "使用同態加密法私下閱讀維基百科\n",
+            "summary": "Show HN: Read Wikipedia privately using homomorphic encryption",
+            "date_modified": "2022-06-08T15:29:33.000Z",
+            "author": {
+                "name": "blintz",
+                "url": "https://news.ycombinator.com/user?id=blintz"
+            },
+            "_original_headline": "Show HN: Read Wikipedia privately using homomorphic encryption",
+            "_original_url": "https://spiralwiki.com/",
+            "_sensitive": false,
+            "_score": 263
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31667240",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31667240",
+            "title": "矮人堡壘更新--教程和工具提示\n",
+            "summary": "Dwarf Fortress Update – Tutorials and Tooltips",
+            "date_modified": "2022-06-08T13:44:19.000Z",
+            "author": {
+                "name": "capableweb",
+                "url": "https://news.ycombinator.com/user?id=capableweb"
+            },
+            "_original_headline": "Dwarf Fortress Update – Tutorials and Tooltips",
+            "_original_url": "https://www.kitfoxgames.com/sendy/w/PjLUMcR8c67NlCEI4ruCLA/v763r5W81UUq567qGrvqMoZg/wEYCyTRE9HwQjDLPGvIBzg",
+            "_sensitive": false,
+            "_score": 257
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31638058",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31638058",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://github.com/nonamecoder/CVE-2022-27254",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30790964",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30790964",
-            "title": "為什麼開發者不再製作桌面應用程序了？",
-            "summary": "Ask HN: Why aren't devs making desktop apps any more?",
-            "date_modified": "2022-03-24T15:09:34.000Z",
-            "author": {
-                "name": "sirjaz",
-                "url": "https://news.ycombinator.com/user?id=sirjaz"
-            },
-            "_original_headline": "Ask HN: Why aren't devs making desktop apps any more?",
-            "_original_url": "https://news.ycombinator.com/item?id=30790964",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30801912",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30801912",
-            "title": "融資",
-            "summary": "ReVanced",
-            "date_modified": "2022-03-25T13:31:06.000Z",
-            "author": {
-                "name": "Gadiguibou",
-                "url": "https://news.ycombinator.com/user?id=Gadiguibou"
-            },
-            "_original_headline": "ReVanced",
-            "_original_url": "https://github.com/ReVancedTeam",
-            "_sensitive": false,
-            "_score": 252
         }
     ]
 }

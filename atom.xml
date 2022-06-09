@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-09T03:48:01.073Z</updated>
+    <updated>2022-06-09T04:57:03.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用同态加密法私下阅读维基百科
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31668814</id>
+        <link href="https://news.ycombinator.com/item?id=31668814"/>
+        <updated>2022-06-08T15:29:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Read Wikipedia privately using homomorphic encryption]]></summary>
+        <author>
+            <name>blintz</name>
+            <uri>https://news.ycombinator.com/user?id=blintz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[矮人堡垒更新--教程和工具提示
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31667240</id>
+        <link href="https://news.ycombinator.com/item?id=31667240"/>
+        <updated>2022-06-08T13:44:19.000Z</updated>
+        <summary type="html"><![CDATA[Dwarf Fortress Update – Tutorials and Tooltips]]></summary>
+        <author>
+            <name>capableweb</name>
+            <uri>https://news.ycombinator.com/user?id=capableweb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[二氧化碳现在比工业化前的水平高50%以上
 ]]></title>
@@ -6691,28 +6715,6 @@
         <author>
             <name>belter</name>
             <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么开发者不再制作桌面应用程序了？]]></title>
-        <id>https://news.ycombinator.com/item?id=30790964</id>
-        <link href="https://news.ycombinator.com/item?id=30790964"/>
-        <updated>2022-03-24T15:09:34.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why aren't devs making desktop apps any more?]]></summary>
-        <author>
-            <name>sirjaz</name>
-            <uri>https://news.ycombinator.com/user?id=sirjaz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[融资]]></title>
-        <id>https://news.ycombinator.com/item?id=30801912</id>
-        <link href="https://news.ycombinator.com/item?id=30801912"/>
-        <updated>2022-03-25T13:31:06.000Z</updated>
-        <summary type="html"><![CDATA[ReVanced]]></summary>
-        <author>
-            <name>Gadiguibou</name>
-            <uri>https://news.ycombinator.com/user?id=Gadiguibou</uri>
         </author>
     </entry>
 </feed>
