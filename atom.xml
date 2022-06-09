@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-09T07:45:15.451Z</updated>
+    <updated>2022-06-09T12:59:46.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[德莫之母50周年纪念（2018年）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31676445</id>
+        <link href="https://news.ycombinator.com/item?id=31676445"/>
+        <updated>2022-06-09T01:01:36.000Z</updated>
+        <summary type="html"><![CDATA[50th Anniversary of the Mother of All Demos (2018)]]></summary>
+        <author>
+            <name>jdcampolargo</name>
+            <uri>https://news.ycombinator.com/user?id=jdcampolargo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[缓存的一致性。Meta的缓存失效解决方案
 ]]></title>
@@ -6707,17 +6719,6 @@
         <author>
             <name>WithinReason</name>
             <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[猫咪打印机]]></title>
-        <id>https://news.ycombinator.com/item?id=30804204</id>
-        <link href="https://news.ycombinator.com/item?id=30804204"/>
-        <updated>2022-03-25T16:34:12.000Z</updated>
-        <summary type="html"><![CDATA[Cat Printer]]></summary>
-        <author>
-            <name>newman314</name>
-            <uri>https://news.ycombinator.com/user?id=newman314</uri>
         </author>
     </entry>
 </feed>

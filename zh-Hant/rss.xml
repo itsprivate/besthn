@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 09 Jun 2022 07:45:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 12:59:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[德莫之母50週年紀念（2018年）
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31676445</link>
+            <guid>https://news.ycombinator.com/item?id=31676445</guid>
+            <pubDate>Thu, 09 Jun 2022 01:01:36 GMT</pubDate>
+            <description><![CDATA[50th Anniversary of the Mother of All Demos (2018)]]></description>
+        </item>
         <item>
             <title><![CDATA[緩存的一致性。Meta的緩存失效解決方案
 ]]></title>
@@ -4311,13 +4319,6 @@
             <guid>https://news.ycombinator.com/item?id=30788475</guid>
             <pubDate>Thu, 24 Mar 2022 11:37:31 GMT</pubDate>
             <description><![CDATA[Wolfenstein 3D secrets revealed by John Romero in lengthy post-mortem chat]]></description>
-        </item>
-        <item>
-            <title><![CDATA[貓咪打印機]]></title>
-            <link>https://news.ycombinator.com/item?id=30804204</link>
-            <guid>https://news.ycombinator.com/item?id=30804204</guid>
-            <pubDate>Fri, 25 Mar 2022 16:34:12 GMT</pubDate>
-            <description><![CDATA[Cat Printer]]></description>
         </item>
     </channel>
 </rss>
