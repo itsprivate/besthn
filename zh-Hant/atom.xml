@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-09T07:28:40.236Z</updated>
+    <updated>2022-06-09T07:45:15.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[緩存的一致性。Meta的緩存失效解決方案
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31671252</id>
+        <link href="https://news.ycombinator.com/item?id=31671252"/>
+        <updated>2022-06-08T17:46:22.000Z</updated>
+        <summary type="html"><![CDATA[Cache made consistent: Meta’s cache invalidation solution]]></summary>
+        <author>
+            <name>uvdn7</name>
+            <uri>https://news.ycombinator.com/user?id=uvdn7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究人員實現了網絡流量的 "荒謬的快速 "算法
 ]]></title>
@@ -6706,17 +6718,6 @@
         <author>
             <name>newman314</name>
             <uri>https://news.ycombinator.com/user?id=newman314</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[皮欽語。通用的聊天客戶端]]></title>
-        <id>https://news.ycombinator.com/item?id=30802832</id>
-        <link href="https://news.ycombinator.com/item?id=30802832"/>
-        <updated>2022-03-25T14:49:24.000Z</updated>
-        <summary type="html"><![CDATA[Pidgin: The Universal Chat Client]]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
         </author>
     </entry>
 </feed>

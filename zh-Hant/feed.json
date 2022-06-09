@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31671252",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31671252",
+            "title": "緩存的一致性。Meta的緩存失效解決方案\n",
+            "summary": "Cache made consistent: Meta’s cache invalidation solution",
+            "date_modified": "2022-06-08T17:46:22.000Z",
+            "author": {
+                "name": "uvdn7",
+                "url": "https://news.ycombinator.com/user?id=uvdn7"
+            },
+            "_original_headline": "Cache made consistent: Meta’s cache invalidation solution",
+            "_original_url": "https://engineering.fb.com/2022/06/08/core-data/cache-invalidation/",
+            "_sensitive": false,
+            "_score": 250
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31675015",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31675015",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://github.com/rbaron/catprinter",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30802832",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30802832",
-            "title": "皮欽語。通用的聊天客戶端",
-            "summary": "Pidgin: The Universal Chat Client",
-            "date_modified": "2022-03-25T14:49:24.000Z",
-            "author": {
-                "name": "thunderbong",
-                "url": "https://news.ycombinator.com/user?id=thunderbong"
-            },
-            "_original_headline": "Pidgin: The Universal Chat Client",
-            "_original_url": "https://pidgin.im/",
-            "_sensitive": false,
-            "_score": 251
         }
     ]
 }
