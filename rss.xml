@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 09 Jun 2022 15:31:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 18:35:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我缩短了GTA在线的加载时间(2021)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31681515</link>
+            <guid>https://news.ycombinator.com/item?id=31681515</guid>
+            <pubDate>Thu, 09 Jun 2022 14:22:16 GMT</pubDate>
+            <description><![CDATA[I cut GTA Online loading times (2021)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我们在iPhone、iPad和其他iDevices上实现了Linux。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31679293</link>
+            <guid>https://news.ycombinator.com/item?id=31679293</guid>
+            <pubDate>Thu, 09 Jun 2022 09:42:59 GMT</pubDate>
+            <description><![CDATA[We Got Linux on the iPhone, iPad and Other iDevices]]></description>
+        </item>
         <item>
             <title><![CDATA[Dropbox删除了《瑞克与莫蒂》创作者的账户，因为他们秘密违反了TOS规定
 ]]></title>
@@ -4309,20 +4325,6 @@
             <guid>https://news.ycombinator.com/item?id=30810410</guid>
             <pubDate>Sat, 26 Mar 2022 09:19:23 GMT</pubDate>
             <description><![CDATA[Running GUI apps within Docker containers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌摧毁了我的Play开发者账户和我过去2年的工作]]></title>
-            <link>https://news.ycombinator.com/item?id=30811297</link>
-            <guid>https://news.ycombinator.com/item?id=30811297</guid>
-            <pubDate>Sat, 26 Mar 2022 12:31:11 GMT</pubDate>
-            <description><![CDATA[Google destroyed my Play Developer Account and my work for the last 2 years]]></description>
-        </item>
-        <item>
-            <title><![CDATA[研究发现，半数妇女会得到假阳性的3D乳房X光检查结果]]></title>
-            <link>https://news.ycombinator.com/item?id=30803165</link>
-            <guid>https://news.ycombinator.com/item?id=30803165</guid>
-            <pubDate>Fri, 25 Mar 2022 15:15:45 GMT</pubDate>
-            <description><![CDATA[Half of women will get a false positive 3D mammogram, study finds]]></description>
         </item>
     </channel>
 </rss>
