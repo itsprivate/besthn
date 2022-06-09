@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 09 Jun 2022 12:59:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 14:33:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[停止用利特代碼進行面試
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31677736</link>
+            <guid>https://news.ycombinator.com/item?id=31677736</guid>
+            <pubDate>Thu, 09 Jun 2022 05:04:38 GMT</pubDate>
+            <description><![CDATA[Stop Interviewing with Leet Code]]></description>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉正在讓我們搬家或辭職。我會得到遣散費嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31666593</link>
+            <guid>https://news.ycombinator.com/item?id=31666593</guid>
+            <pubDate>Wed, 08 Jun 2022 12:58:25 GMT</pubDate>
+            <description><![CDATA[Ask HN: Tesla is making us move or quit. Would I get severance?]]></description>
+        </item>
         <item>
             <title><![CDATA[德莫之母50週年紀念（2018年）
 ]]></title>
@@ -4305,20 +4321,6 @@
             <guid>https://news.ycombinator.com/item?id=30808945</guid>
             <pubDate>Sat, 26 Mar 2022 03:11:58 GMT</pubDate>
             <description><![CDATA[`COPY –chmod` reduced the size of my container image by 35%]]></description>
-        </item>
-        <item>
-            <title><![CDATA[經編輯的後進者的加密貨幣指南]]></title>
-            <link>https://news.ycombinator.com/item?id=30804984</link>
-            <guid>https://news.ycombinator.com/item?id=30804984</guid>
-            <pubDate>Fri, 25 Mar 2022 17:32:21 GMT</pubDate>
-            <description><![CDATA[The Edited Latecomer’s Guide to Crypto]]></description>
-        </item>
-        <item>
-            <title><![CDATA[約翰-羅梅羅在冗長的事後談話中透露了《狼人殺3D》的秘密]]></title>
-            <link>https://news.ycombinator.com/item?id=30788475</link>
-            <guid>https://news.ycombinator.com/item?id=30788475</guid>
-            <pubDate>Thu, 24 Mar 2022 11:37:31 GMT</pubDate>
-            <description><![CDATA[Wolfenstein 3D secrets revealed by John Romero in lengthy post-mortem chat]]></description>
         </item>
     </channel>
 </rss>
