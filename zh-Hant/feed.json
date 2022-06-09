@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31685545",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31685545",
+            "title": "杜權每個月給自己送去8000萬美元\n",
+            "summary": "Do Kwon Sent $80M a Month to Himself",
+            "date_modified": "2022-06-09T19:16:04.000Z",
+            "author": {
+                "name": "cwwc",
+                "url": "https://news.ycombinator.com/user?id=cwwc"
+            },
+            "_original_headline": "Do Kwon Sent $80M a Month to Himself",
+            "_original_url": "https://watcher.guru/news/do-kwon-sent-80-million-a-month-to-secret-wallets",
+            "_sensitive": false,
+            "_score": 280
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31682361",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31682361",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://pianos.pub/",
             "_sensitive": false,
             "_score": 252
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30814248",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30814248",
-            "title": "如果你過去在社交方面很笨拙和害羞，你是如何改善的？",
-            "summary": "Ask HN: If you used to be socially awkward and shy, how did you improve?",
-            "date_modified": "2022-03-26T18:49:22.000Z",
-            "author": {
-                "name": "dondraper36",
-                "url": "https://news.ycombinator.com/user?id=dondraper36"
-            },
-            "_original_headline": "Ask HN: If you used to be socially awkward and shy, how did you improve?",
-            "_original_url": "https://news.ycombinator.com/item?id=30814248",
-            "_sensitive": false,
-            "_score": 272
         }
     ]
 }

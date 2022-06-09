@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 09 Jun 2022 20:48:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 21:45:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[杜权每个月给自己送去8000万美元
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31685545</link>
+            <guid>https://news.ycombinator.com/item?id=31685545</guid>
+            <pubDate>Thu, 09 Jun 2022 19:16:04 GMT</pubDate>
+            <description><![CDATA[Do Kwon Sent $80M a Month to Himself]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么核电建设成本如此之高？
 ]]></title>
@@ -4319,13 +4327,6 @@
             <guid>https://news.ycombinator.com/item?id=30811648</guid>
             <pubDate>Sat, 26 Mar 2022 13:34:05 GMT</pubDate>
             <description><![CDATA[Show HN: A website to find public pianos]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果你过去在社交方面很笨拙和害羞，你是如何改善的？]]></title>
-            <link>https://news.ycombinator.com/item?id=30814248</link>
-            <guid>https://news.ycombinator.com/item?id=30814248</guid>
-            <pubDate>Sat, 26 Mar 2022 18:49:22 GMT</pubDate>
-            <description><![CDATA[Ask HN: If you used to be socially awkward and shy, how did you improve?]]></description>
         </item>
     </channel>
 </rss>
