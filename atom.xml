@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-09T22:52:35.708Z</updated>
+    <updated>2022-06-09T23:32:17.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[复杂软件的崩溃
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31682303</id>
+        <link href="https://news.ycombinator.com/item?id=31682303"/>
+        <updated>2022-06-09T15:18:12.000Z</updated>
+        <summary type="html"><![CDATA[The collapse of complex software]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ory Kratos - 用Go编写的开源身份服务器
 ]]></title>
@@ -6717,17 +6729,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postgres.js - 用于Node和Deno的最快速的全功能PostgreSQL客户端]]></title>
-        <id>https://news.ycombinator.com/item?id=30794332</id>
-        <link href="https://news.ycombinator.com/item?id=30794332"/>
-        <updated>2022-03-24T19:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Postgres.js – Fastest Full-Featured PostgreSQL Client for Node and Deno]]></summary>
-        <author>
-            <name>porsager</name>
-            <uri>https://news.ycombinator.com/user?id=porsager</uri>
         </author>
     </entry>
 </feed>
