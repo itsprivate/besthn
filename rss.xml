@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 10 Jun 2022 02:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 06:55:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[任天堂的盗版大案是一个悲伤的故事
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31665928</link>
+            <guid>https://news.ycombinator.com/item?id=31665928</guid>
+            <pubDate>Wed, 08 Jun 2022 11:46:10 GMT</pubDate>
+            <description><![CDATA[Nintendo's big piracy case is a sad story]]></description>
+        </item>
         <item>
             <title><![CDATA[Shotcut是一个免费的、开源的、跨平台的视频编辑器。
 ]]></title>
@@ -4324,13 +4332,6 @@
             <guid>https://news.ycombinator.com/item?id=30817017</guid>
             <pubDate>Sun, 27 Mar 2022 01:45:18 GMT</pubDate>
             <description><![CDATA[TikTok is scary good. It's digital crack]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是什么让NES如此有趣？]]></title>
-            <link>https://news.ycombinator.com/item?id=30816668</link>
-            <guid>https://news.ycombinator.com/item?id=30816668</guid>
-            <pubDate>Sun, 27 Mar 2022 00:41:44 GMT</pubDate>
-            <description><![CDATA[What made the NES so interesting?]]></description>
         </item>
     </channel>
 </rss>
