@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31693830",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31693830",
+            "title": "微軟宣佈將在美國所有的招聘信息中包括薪酬範圍\n",
+            "summary": "Microsoft Announces It Will Include Pay Ranges in All U.S. Job Postings",
+            "date_modified": "2022-06-10T13:24:53.000Z",
+            "author": {
+                "name": "blue_box",
+                "url": "https://news.ycombinator.com/user?id=blue_box"
+            },
+            "_original_headline": "Microsoft Announces It Will Include Pay Ranges in All U.S. Job Postings",
+            "_original_url": "https://www.forbes.com/sites/jenamcgregor/2022/06/09/microsoft-announces-it-will-include-pay-ranges-in-all-us-job-postings-experts-predict-it-will-be-the-first-of-many/",
+            "_sensitive": false,
+            "_score": 281
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31693287",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31693287",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://blog.google/threat-analysis-group/countering-threats-north-korea/",
             "_sensitive": false,
             "_score": 252
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30822339",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30822339",
-            "title": "哪本書能吸引任何人走向你的研究領域？",
-            "summary": "Ask HN: Which book can attract anyone towards your field of study?",
-            "date_modified": "2022-03-27T17:54:09.000Z",
-            "author": {
-                "name": "debanjan16",
-                "url": "https://news.ycombinator.com/user?id=debanjan16"
-            },
-            "_original_headline": "Ask HN: Which book can attract anyone towards your field of study?",
-            "_original_url": "https://news.ycombinator.com/item?id=30822339",
-            "_sensitive": false,
-            "_score": 284
         }
     ]
 }
