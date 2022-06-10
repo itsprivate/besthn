@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-10T17:11:36.646Z</updated>
+    <updated>2022-06-10T17:59:50.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有毒的生产力
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31690239</id>
+        <link href="https://news.ycombinator.com/item?id=31690239"/>
+        <updated>2022-06-10T05:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Toxic Productivity]]></summary>
+        <author>
+            <name>jackdelaney</name>
+            <uri>https://news.ycombinator.com/user?id=jackdelaney</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软宣布将在美国所有的招聘信息中包括薪酬范围
 ]]></title>
@@ -6731,17 +6743,6 @@
         <author>
             <name>sarchertech</name>
             <uri>https://news.ycombinator.com/user?id=sarchertech</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[应对来自北朝鲜的威胁]]></title>
-        <id>https://news.ycombinator.com/item?id=30822370</id>
-        <link href="https://news.ycombinator.com/item?id=30822370"/>
-        <updated>2022-03-27T17:56:50.000Z</updated>
-        <summary type="html"><![CDATA[Countering threats from North Korea]]></summary>
-        <author>
-            <name>arkadiyt</name>
-            <uri>https://news.ycombinator.com/user?id=arkadiyt</uri>
         </author>
     </entry>
 </feed>
