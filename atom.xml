@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-10T08:36:00.445Z</updated>
+    <updated>2022-06-10T11:29:52.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你需要知道什么是右半平面的零点
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31689367</id>
+        <link href="https://news.ycombinator.com/item?id=31689367"/>
+        <updated>2022-06-10T02:40:17.000Z</updated>
+        <summary type="html"><![CDATA[You need to know what right-half-plane zeros are]]></summary>
+        <author>
+            <name>jbay808</name>
+            <uri>https://news.ycombinator.com/user?id=jbay808</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隐私獾是一个浏览器扩展，可以学习阻止看不见的跟踪器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31677745</id>
+        <link href="https://news.ycombinator.com/item?id=31677745"/>
+        <updated>2022-06-09T05:07:55.000Z</updated>
+        <summary type="html"><![CDATA[Privacy Badger is a browser extension that learns to block invisible trackers]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重要的PostgreSQL 14更新以避免索引的无声损坏
 ]]></title>
@@ -6712,28 +6736,6 @@
         <author>
             <name>sandebert</name>
             <uri>https://news.ycombinator.com/user?id=sandebert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[双75"4K电视地面计算]]></title>
-        <id>https://news.ycombinator.com/item?id=30820072</id>
-        <link href="https://news.ycombinator.com/item?id=30820072"/>
-        <updated>2022-03-27T13:28:31.000Z</updated>
-        <summary type="html"><![CDATA[Dual 75“ 4K TV Floor Computing]]></summary>
-        <author>
-            <name>walterbell</name>
-            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从亚马逊获取我的个人数据是几周的混乱和乏味]]></title>
-        <id>https://news.ycombinator.com/item?id=30820424</id>
-        <link href="https://news.ycombinator.com/item?id=30820424"/>
-        <updated>2022-03-27T14:17:09.000Z</updated>
-        <summary type="html"><![CDATA[Getting my personal data from Amazon was weeks of confusion and tedium]]></summary>
-        <author>
-            <name>Ansil849</name>
-            <uri>https://news.ycombinator.com/user?id=Ansil849</uri>
         </author>
     </entry>
 </feed>

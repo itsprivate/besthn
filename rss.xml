@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 10 Jun 2022 08:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 11:29:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你需要知道什么是右半平面的零点
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31689367</link>
+            <guid>https://news.ycombinator.com/item?id=31689367</guid>
+            <pubDate>Fri, 10 Jun 2022 02:40:17 GMT</pubDate>
+            <description><![CDATA[You need to know what right-half-plane zeros are]]></description>
+        </item>
+        <item>
+            <title><![CDATA[隐私獾是一个浏览器扩展，可以学习阻止看不见的跟踪器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31677745</link>
+            <guid>https://news.ycombinator.com/item?id=31677745</guid>
+            <pubDate>Thu, 09 Jun 2022 05:07:55 GMT</pubDate>
+            <description><![CDATA[Privacy Badger is a browser extension that learns to block invisible trackers]]></description>
+        </item>
         <item>
             <title><![CDATA[重要的PostgreSQL 14更新以避免索引的无声损坏
 ]]></title>
@@ -4320,20 +4336,6 @@
             <guid>https://news.ycombinator.com/item?id=30822584</guid>
             <pubDate>Sun, 27 Mar 2022 18:16:45 GMT</pubDate>
             <description><![CDATA[Killed by Microsoft]]></description>
-        </item>
-        <item>
-            <title><![CDATA[双75"4K电视地面计算]]></title>
-            <link>https://news.ycombinator.com/item?id=30820072</link>
-            <guid>https://news.ycombinator.com/item?id=30820072</guid>
-            <pubDate>Sun, 27 Mar 2022 13:28:31 GMT</pubDate>
-            <description><![CDATA[Dual 75“ 4K TV Floor Computing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[从亚马逊获取我的个人数据是几周的混乱和乏味]]></title>
-            <link>https://news.ycombinator.com/item?id=30820424</link>
-            <guid>https://news.ycombinator.com/item?id=30820424</guid>
-            <pubDate>Sun, 27 Mar 2022 14:17:09 GMT</pubDate>
-            <description><![CDATA[Getting my personal data from Amazon was weeks of confusion and tedium]]></description>
         </item>
     </channel>
 </rss>
