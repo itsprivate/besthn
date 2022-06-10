@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 10 Jun 2022 20:46:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 23:46:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[告訴HN：谷歌不再在Play Store中列出應用程序的權限
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31698148</link>
+            <guid>https://news.ycombinator.com/item?id=31698148</guid>
+            <pubDate>Fri, 10 Jun 2022 19:03:54 GMT</pubDate>
+            <description><![CDATA[Tell HN: Google does not list application permissions in the Play Store any more]]></description>
+        </item>
         <item>
             <title><![CDATA[如果OpenSSL是一個GUI
 ]]></title>
@@ -4340,13 +4348,6 @@
             <guid>https://news.ycombinator.com/item?id=30829243</guid>
             <pubDate>Mon, 28 Mar 2022 11:08:24 GMT</pubDate>
             <description><![CDATA[Why you should maybe not work so hard]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何在一小時內用tre-sitter編寫一個linter]]></title>
-            <link>https://news.ycombinator.com/item?id=30822544</link>
-            <guid>https://news.ycombinator.com/item?id=30822544</guid>
-            <pubDate>Sun, 27 Mar 2022 18:13:26 GMT</pubDate>
-            <description><![CDATA[How to write a linter using tree-sitter in an hour]]></description>
         </item>
     </channel>
 </rss>
