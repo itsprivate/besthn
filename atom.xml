@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-09T23:47:49.635Z</updated>
+    <updated>2022-06-10T02:24:11.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Shotcut是一个免费的、开源的、跨平台的视频编辑器。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31681787</id>
+        <link href="https://news.ycombinator.com/item?id=31681787"/>
+        <updated>2022-06-09T14:42:23.000Z</updated>
+        <summary type="html"><![CDATA[Shotcut is a free, open-source, cross-platform video editor]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们赢得了Linux之战，但我们正在失去自由之战 (2016)
 ]]></title>
@@ -6719,17 +6731,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个用户空间的WireGuard客户端，将自己暴露为一个代理。]]></title>
-        <id>https://news.ycombinator.com/item?id=30816135</id>
-        <link href="https://news.ycombinator.com/item?id=30816135"/>
-        <updated>2022-03-26T23:04:02.000Z</updated>
-        <summary type="html"><![CDATA[A userspace WireGuard client that exposes itself as a proxy]]></summary>
-        <author>
-            <name>octeep</name>
-            <uri>https://news.ycombinator.com/user?id=octeep</uri>
         </author>
     </entry>
 </feed>
