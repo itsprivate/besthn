@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 10 Jun 2022 18:39:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 20:30:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[佩佐爾德的 "代碼 "第二版
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31696901</link>
+            <guid>https://news.ycombinator.com/item?id=31696901</guid>
+            <pubDate>Fri, 10 Jun 2022 17:14:44 GMT</pubDate>
+            <description><![CDATA[Petzold's “Code” 2nd Edition]]></description>
+        </item>
         <item>
             <title><![CDATA[麻省理工學院研究人員發現蘋果M1芯片存在 "無法修補 "的缺陷
 ]]></title>
@@ -4337,13 +4345,6 @@
             <guid>https://news.ycombinator.com/item?id=30827210</guid>
             <pubDate>Mon, 28 Mar 2022 04:41:40 GMT</pubDate>
             <description><![CDATA[Fuchsia Workstation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[錢到底是什麼？]]></title>
-            <link>https://news.ycombinator.com/item?id=30825505</link>
-            <guid>https://news.ycombinator.com/item?id=30825505</guid>
-            <pubDate>Mon, 28 Mar 2022 00:09:00 GMT</pubDate>
-            <description><![CDATA[What is money, anyway?]]></description>
         </item>
     </channel>
 </rss>

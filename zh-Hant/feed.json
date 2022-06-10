@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31696901",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31696901",
+            "title": "佩佐爾德的 \"代碼 \"第二版\n",
+            "summary": "Petzold's “Code” 2nd Edition",
+            "date_modified": "2022-06-10T17:14:44.000Z",
+            "author": {
+                "name": "emme",
+                "url": "https://news.ycombinator.com/user?id=emme"
+            },
+            "_original_headline": "Petzold's “Code” 2nd Edition",
+            "_original_url": "http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html",
+            "_sensitive": false,
+            "_score": 258
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31693490",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31693490",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://fuchsia.dev/fuchsia-src/development/build/build_workstation",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30825505",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30825505",
-            "title": "錢到底是什麼？",
-            "summary": "What is money, anyway?",
-            "date_modified": "2022-03-28T00:09:00.000Z",
-            "author": {
-                "name": "cyber_kinetist",
-                "url": "https://news.ycombinator.com/user?id=cyber_kinetist"
-            },
-            "_original_headline": "What is money, anyway?",
-            "_original_url": "https://www.lynalden.com/what-is-money/",
-            "_sensitive": false,
-            "_score": 256
         }
     ]
 }
