@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31693287",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31693287",
+            "title": "uBlacklist - 阻止特定網站出現在谷歌搜索結果中\n",
+            "summary": "uBlacklist – Block specific sites from appearing in Google search results",
+            "date_modified": "2022-06-10T12:44:50.000Z",
+            "author": {
+                "name": "sanketpatrikar",
+                "url": "https://news.ycombinator.com/user?id=sanketpatrikar"
+            },
+            "_original_headline": "uBlacklist – Block specific sites from appearing in Google search results",
+            "_original_url": "https://github.com/iorate/ublacklist",
+            "_sensitive": false,
+            "_score": 297
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31686055",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31686055",
+            "title": "推特計劃遵守馬斯克的數據要求\n",
+            "summary": "Twitter plans to comply with Musk’s demands for data",
+            "date_modified": "2022-06-09T20:02:34.000Z",
+            "author": {
+                "name": "Balgair",
+                "url": "https://news.ycombinator.com/user?id=Balgair"
+            },
+            "_original_headline": "Twitter plans to comply with Musk’s demands for data",
+            "_original_url": "https://www.forbes.com/sites/abrambrown/2022/06/09/twitter-elon-musk-bots-data-firehose-api/",
+            "_sensitive": false,
+            "_score": 251
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31690452",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31690452",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://news.ycombinator.com/item?id=30822339",
             "_sensitive": false,
             "_score": 284
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30813779",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30813779",
-            "title": "CVE-2022-1096的Chrome 0day現在被利用了，立即更新",
-            "summary": "Chrome 0day is being exploited now for CVE-2022-1096; update immediately",
-            "date_modified": "2022-03-26T17:45:45.000Z",
-            "author": {
-                "name": "gargarplex",
-                "url": "https://news.ycombinator.com/user?id=gargarplex"
-            },
-            "_original_headline": "Chrome 0day is being exploited now for CVE-2022-1096; update immediately",
-            "_original_url": "https://www.forbes.com/sites/daveywinder/2022/03/26/google-confirms-emergency-security-update-for-32-billion-chrome-users-attacks-underway/",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30813000",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30813000",
-            "title": "Raygui - 一個簡單而易用的即時模式GUI庫",
-            "summary": "Raygui – A simple and easy-to-use immediate-mode GUI library",
-            "date_modified": "2022-03-26T16:00:25.000Z",
-            "author": {
-                "name": "maydemir",
-                "url": "https://news.ycombinator.com/user?id=maydemir"
-            },
-            "_original_headline": "Raygui – A simple and easy-to-use immediate-mode GUI library",
-            "_original_url": "https://github.com/raysan5/raygui",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }
