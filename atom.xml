@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-10T06:55:51.258Z</updated>
+    <updated>2022-06-10T08:36:00.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[重要的PostgreSQL 14更新以避免索引的无声损坏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31687782</id>
+        <link href="https://news.ycombinator.com/item?id=31687782"/>
+        <updated>2022-06-09T22:29:42.000Z</updated>
+        <summary type="html"><![CDATA[Important PostgreSQL 14 update to avoid silent corruption of indexes]]></summary>
+        <author>
+            <name>avi_vallarapu</name>
+            <uri>https://news.ycombinator.com/user?id=avi_vallarapu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[始终拥有自己的平台（2019年）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31686615</id>
+        <link href="https://news.ycombinator.com/item?id=31686615"/>
+        <updated>2022-06-09T20:45:09.000Z</updated>
+        <summary type="html"><![CDATA[Always Own Your Platform (2019)]]></summary>
+        <author>
+            <name>ddtaylor</name>
+            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[任天堂的盗版大案是一个悲伤的故事
 ]]></title>
@@ -6710,28 +6734,6 @@
         <author>
             <name>Ansil849</name>
             <uri>https://news.ycombinator.com/user?id=Ansil849</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看起来你想占领世界]]></title>
-        <id>https://news.ycombinator.com/item?id=30818895</id>
-        <link href="https://news.ycombinator.com/item?id=30818895"/>
-        <updated>2022-03-27T09:20:06.000Z</updated>
-        <summary type="html"><![CDATA[It looks like you’re trying to take over the world]]></summary>
-        <author>
-            <name>rvrst</name>
-            <uri>https://news.ycombinator.com/user?id=rvrst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok是可怕的好事。它是数字裂缝]]></title>
-        <id>https://news.ycombinator.com/item?id=30817017</id>
-        <link href="https://news.ycombinator.com/item?id=30817017"/>
-        <updated>2022-03-27T01:45:18.000Z</updated>
-        <summary type="html"><![CDATA[TikTok is scary good. It's digital crack]]></summary>
-        <author>
-            <name>mfiguiere</name>
-            <uri>https://news.ycombinator.com/user?id=mfiguiere</uri>
         </author>
     </entry>
 </feed>

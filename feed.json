@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31687782",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31687782",
+            "title": "重要的PostgreSQL 14更新以避免索引的无声损坏\n",
+            "summary": "Important PostgreSQL 14 update to avoid silent corruption of indexes",
+            "date_modified": "2022-06-09T22:29:42.000Z",
+            "author": {
+                "name": "avi_vallarapu",
+                "url": "https://news.ycombinator.com/user?id=avi_vallarapu"
+            },
+            "_original_headline": "Important PostgreSQL 14 update to avoid silent corruption of indexes",
+            "_original_url": "https://www.migops.com/blog/2022/06/09/important-postgresql-14-update-to-avoid-silent-corruption-of-indexes/",
+            "_sensitive": false,
+            "_score": 252
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31686615",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31686615",
+            "title": "始终拥有自己的平台（2019年）\n",
+            "summary": "Always Own Your Platform (2019)",
+            "date_modified": "2022-06-09T20:45:09.000Z",
+            "author": {
+                "name": "ddtaylor",
+                "url": "https://news.ycombinator.com/user?id=ddtaylor"
+            },
+            "_original_headline": "Always Own Your Platform (2019)",
+            "_original_url": "http://www.alwaysownyourplatform.com/",
+            "_sensitive": false,
+            "_score": 254
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31665928",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31665928",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://theintercept.com/2022/03/27/amazon-personal-data-request-dark-pattern/",
             "_sensitive": false,
             "_score": 253
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30818895",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30818895",
-            "title": "看起来你想占领世界",
-            "summary": "It looks like you’re trying to take over the world",
-            "date_modified": "2022-03-27T09:20:06.000Z",
-            "author": {
-                "name": "rvrst",
-                "url": "https://news.ycombinator.com/user?id=rvrst"
-            },
-            "_original_headline": "It looks like you’re trying to take over the world",
-            "_original_url": "https://www.gwern.net/Clippy",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30817017",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30817017",
-            "title": "TikTok是可怕的好事。它是数字裂缝",
-            "summary": "TikTok is scary good. It's digital crack",
-            "date_modified": "2022-03-27T01:45:18.000Z",
-            "author": {
-                "name": "mfiguiere",
-                "url": "https://news.ycombinator.com/user?id=mfiguiere"
-            },
-            "_original_headline": "TikTok is scary good. It's digital crack",
-            "_original_url": "https://twitter.com/karpathy/status/1507893647341142016",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }
