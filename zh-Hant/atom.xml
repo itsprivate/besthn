@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-10T11:29:52.474Z</updated>
+    <updated>2022-06-10T13:51:09.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Coinbase員工請願要求撤換高管
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31690452</id>
+        <link href="https://news.ycombinator.com/item?id=31690452"/>
+        <updated>2022-06-10T05:37:29.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase employees petition to remove execs]]></summary>
+        <author>
+            <name>shh-shhh</name>
+            <uri>https://news.ycombinator.com/user?id=shh-shhh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼軟件工程師喜歡做木工活
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31687378</id>
+        <link href="https://news.ycombinator.com/item?id=31687378"/>
+        <updated>2022-06-09T21:50:07.000Z</updated>
+        <summary type="html"><![CDATA[Why software engineers like woodworking]]></summary>
+        <author>
+            <name>ZainRiz</name>
+            <uri>https://news.ycombinator.com/user?id=ZainRiz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我懷念Usenet。是否有任何現代的對應物？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31681234</id>
+        <link href="https://news.ycombinator.com/item?id=31681234"/>
+        <updated>2022-06-09T14:02:09.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I miss Usenet. Are there any modern equivalents?]]></summary>
+        <author>
+            <name>mr_gibbins</name>
+            <uri>https://news.ycombinator.com/user?id=mr_gibbins</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你需要知道什麼是右半平面的零點
 ]]></title>
@@ -6703,39 +6739,6 @@
         <author>
             <name>maydemir</name>
             <uri>https://news.ycombinator.com/user?id=maydemir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌取消Google Play出版商賬戶，終止家庭收入來源]]></title>
-        <id>https://news.ycombinator.com/item?id=30823872</id>
-        <link href="https://news.ycombinator.com/item?id=30823872"/>
-        <updated>2022-03-27T20:39:02.000Z</updated>
-        <summary type="html"><![CDATA[Google cancels Google Play publisher account and ends family’s source of income]]></summary>
-        <author>
-            <name>heavyset_go</name>
-            <uri>https://news.ycombinator.com/user?id=heavyset_go</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火狐瀏覽器UI/UX歷史]]></title>
-        <id>https://news.ycombinator.com/item?id=30820894</id>
-        <link href="https://news.ycombinator.com/item?id=30820894"/>
-        <updated>2022-03-27T15:18:50.000Z</updated>
-        <summary type="html"><![CDATA[Firefox UI/UX History]]></summary>
-        <author>
-            <name>black7375</name>
-            <uri>https://news.ycombinator.com/user?id=black7375</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被微軟扼殺]]></title>
-        <id>https://news.ycombinator.com/item?id=30822584</id>
-        <link href="https://news.ycombinator.com/item?id=30822584"/>
-        <updated>2022-03-27T18:16:45.000Z</updated>
-        <summary type="html"><![CDATA[Killed by Microsoft]]></summary>
-        <author>
-            <name>sandebert</name>
-            <uri>https://news.ycombinator.com/user?id=sandebert</uri>
         </author>
     </entry>
 </feed>

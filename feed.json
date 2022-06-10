@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31690452",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31690452",
+            "title": "Coinbase员工请愿要求撤换高管\n",
+            "summary": "Coinbase employees petition to remove execs",
+            "date_modified": "2022-06-10T05:37:29.000Z",
+            "author": {
+                "name": "shh-shhh",
+                "url": "https://news.ycombinator.com/user?id=shh-shhh"
+            },
+            "_original_headline": "Coinbase employees petition to remove execs",
+            "_original_url": "https://web.archive.org/web/20220609202836/https://mirror.xyz/0x58E3a8Bc8CBFC10AC2972Fb9d0cF359E21eae56b/ZIO--5ywx1z-aKs0KCQ2PeTNutVKune7zhA1D09R0q0",
+            "_sensitive": false,
+            "_score": 282
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31687378",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31687378",
+            "title": "为什么软件工程师喜欢做木工活\n",
+            "summary": "Why software engineers like woodworking",
+            "date_modified": "2022-06-09T21:50:07.000Z",
+            "author": {
+                "name": "ZainRiz",
+                "url": "https://news.ycombinator.com/user?id=ZainRiz"
+            },
+            "_original_headline": "Why software engineers like woodworking",
+            "_original_url": "https://www.zainrizvi.io/blog/why-software-engineers-like-woodworking/",
+            "_sensitive": false,
+            "_score": 262
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31681234",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31681234",
+            "title": "我怀念Usenet。是否有任何现代的对应物？\n",
+            "summary": "Ask HN: I miss Usenet. Are there any modern equivalents?",
+            "date_modified": "2022-06-09T14:02:09.000Z",
+            "author": {
+                "name": "mr_gibbins",
+                "url": "https://news.ycombinator.com/user?id=mr_gibbins"
+            },
+            "_original_headline": "Ask HN: I miss Usenet. Are there any modern equivalents?",
+            "_original_url": "https://news.ycombinator.com/item?id=31681234",
+            "_sensitive": false,
+            "_score": 251
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31689367",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31689367",
@@ -9561,54 +9609,6 @@
             "_original_url": "https://github.com/raysan5/raygui",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30823872",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30823872",
-            "title": "谷歌取消Google Play出版商账户，终止家庭收入来源",
-            "summary": "Google cancels Google Play publisher account and ends family’s source of income",
-            "date_modified": "2022-03-27T20:39:02.000Z",
-            "author": {
-                "name": "heavyset_go",
-                "url": "https://news.ycombinator.com/user?id=heavyset_go"
-            },
-            "_original_headline": "Google cancels Google Play publisher account and ends family’s source of income",
-            "_original_url": "https://medium.com/@appsrentables1/google-cancels-our-google-play-publisher-account-and-ends-my-familys-source-of-income-97d4e85cd046",
-            "_sensitive": false,
-            "_score": 257
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30820894",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30820894",
-            "title": "火狐浏览器UI/UX历史",
-            "summary": "Firefox UI/UX History",
-            "date_modified": "2022-03-27T15:18:50.000Z",
-            "author": {
-                "name": "black7375",
-                "url": "https://news.ycombinator.com/user?id=black7375"
-            },
-            "_original_headline": "Firefox UI/UX History",
-            "_original_url": "https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-0.-Firefox-UI-UX-history",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30822584",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30822584",
-            "title": "被微软扼杀",
-            "summary": "Killed by Microsoft",
-            "date_modified": "2022-03-27T18:16:45.000Z",
-            "author": {
-                "name": "sandebert",
-                "url": "https://news.ycombinator.com/user?id=sandebert"
-            },
-            "_original_headline": "Killed by Microsoft",
-            "_original_url": "https://killedbymicrosoft.info",
-            "_sensitive": false,
-            "_score": 252
         }
     ]
 }
