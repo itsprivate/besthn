@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-11T21:23:47.003Z</updated>
+    <updated>2022-06-11T21:46:30.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[正确书写HTML
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31694849</id>
+        <link href="https://news.ycombinator.com/item?id=31694849"/>
+        <updated>2022-06-10T14:39:06.000Z</updated>
+        <summary type="html"><![CDATA[Write HTML Right]]></summary>
+        <author>
+            <name>aparks517</name>
+            <uri>https://news.ycombinator.com/user?id=aparks517</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AirPlay和触摸条=网络灾难
 ]]></title>
@@ -6743,17 +6755,6 @@
         <author>
             <name>yarapavan</name>
             <uri>https://news.ycombinator.com/user?id=yarapavan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[制作一个不锈钢魔方]]></title>
-        <id>https://news.ycombinator.com/item?id=30802461</id>
-        <link href="https://news.ycombinator.com/item?id=30802461"/>
-        <updated>2022-03-25T14:18:41.000Z</updated>
-        <summary type="html"><![CDATA[Making a Stainless Steel Rubik's Cube]]></summary>
-        <author>
-            <name>camtarn</name>
-            <uri>https://news.ycombinator.com/user?id=camtarn</uri>
         </author>
     </entry>
 </feed>
