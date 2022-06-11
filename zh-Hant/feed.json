@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31706283",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31706283",
+            "title": "AirPlay和觸摸條=網絡災難\n",
+            "summary": "AirPlay and Touch Bar = Network Disaster",
+            "date_modified": "2022-06-11T17:31:03.000Z",
+            "author": {
+                "name": "davidbarker",
+                "url": "https://news.ycombinator.com/user?id=davidbarker"
+            },
+            "_original_headline": "AirPlay and Touch Bar = Network Disaster",
+            "_original_url": "https://mnpn.github.io/blog/airplay-network-disaster",
+            "_sensitive": false,
+            "_score": 256
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31701026",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31701026",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "Making a Stainless Steel Rubik's Cube",
             "_original_url": "http://lulabs.net/machining/ss-cube/",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30828884",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30828884",
-            "title": "我手腕上的氧化物 PineTime上的傲慢是最好最壞的想法",
-            "summary": "Oxide on My Wrist: Hubris on PineTime was the best worst idea",
-            "date_modified": "2022-03-28T09:51:18.000Z",
-            "author": {
-                "name": "todsacerdoti",
-                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
-            },
-            "_original_headline": "Oxide on My Wrist: Hubris on PineTime was the best worst idea",
-            "_original_url": "https://artemis.sh/2022/03/28/oxide-hubris-on-pinetime.html",
             "_sensitive": false,
             "_score": 250
         }
