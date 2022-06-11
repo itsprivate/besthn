@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31702922",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31702922",
+            "title": "我拒绝了50万美元，惹怒了我的投资者，并关闭了我的创业公司（2016年）\n",
+            "summary": "I turned down $500k, pissed off my investors, and shut down my startup (2016)",
+            "date_modified": "2022-06-11T08:33:40.000Z",
+            "author": {
+                "name": "arunsivadasan",
+                "url": "https://news.ycombinator.com/user?id=arunsivadasan"
+            },
+            "_original_headline": "I turned down $500k, pissed off my investors, and shut down my startup (2016)",
+            "_original_url": "https://www.disruptingjapan.com/turned-500k-pissed-off-investors-shut-startup/",
+            "_sensitive": false,
+            "_score": 252
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31698503",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31698503",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://blog.tjcx.me/p/40k-fantastic-startup-idea",
             "_sensitive": false,
             "_score": 259
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30832350",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30832350",
-            "title": "麻省理工学院恢复其SAT/ACT要求",
-            "summary": "MIT reinstates its SAT/ACT requirement",
-            "date_modified": "2022-03-28T16:35:29.000Z",
-            "author": {
-                "name": "razin",
-                "url": "https://news.ycombinator.com/user?id=razin"
-            },
-            "_original_headline": "MIT reinstates its SAT/ACT requirement",
-            "_original_url": "https://mitadmissions.org/blogs/entry/we-are-reinstating-our-sat-act-requirement-for-future-admissions-cycles/",
-            "_sensitive": false,
-            "_score": 253
         }
     ]
 }
