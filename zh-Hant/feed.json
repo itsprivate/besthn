@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31701026",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31701026",
+            "title": "小路的故事\n",
+            "summary": "A Trail Tale",
+            "date_modified": "2022-06-11T01:05:24.000Z",
+            "author": {
+                "name": "royalroad",
+                "url": "https://news.ycombinator.com/user?id=royalroad"
+            },
+            "_original_headline": "A Trail Tale",
+            "_original_url": "https://atrailtale.com/",
+            "_sensitive": false,
+            "_score": 253
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31704789",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31704789",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://artemis.sh/2022/03/28/oxide-hubris-on-pinetime.html",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30831386",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30831386",
-            "title": "這款遊戲是如此逼真，感覺就像加班一樣",
-            "summary": "‘This Game Is So Realistic It Feels Just Like Working Overtime’",
-            "date_modified": "2022-03-28T15:17:29.000Z",
-            "author": {
-                "name": "raybb",
-                "url": "https://news.ycombinator.com/user?id=raybb"
-            },
-            "_original_headline": "‘This Game Is So Realistic It Feels Just Like Working Overtime’",
-            "_original_url": "https://www.sixthtone.com/news/1009982/this-game-is-so-realistic%21-it-feels-just-like-working-overtime",
-            "_sensitive": false,
-            "_score": 256
         }
     ]
 }

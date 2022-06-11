@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 11 Jun 2022 18:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 20:45:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[小路的故事
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31701026</link>
+            <guid>https://news.ycombinator.com/item?id=31701026</guid>
+            <pubDate>Sat, 11 Jun 2022 01:05:24 GMT</pubDate>
+            <description><![CDATA[A Trail Tale]]></description>
+        </item>
         <item>
             <title><![CDATA[DNS玩具
 ]]></title>
@@ -4345,13 +4353,6 @@
             <guid>https://news.ycombinator.com/item?id=30828884</guid>
             <pubDate>Mon, 28 Mar 2022 09:51:18 GMT</pubDate>
             <description><![CDATA[Oxide on My Wrist: Hubris on PineTime was the best worst idea]]></description>
-        </item>
-        <item>
-            <title><![CDATA[這款遊戲是如此逼真，感覺就像加班一樣]]></title>
-            <link>https://news.ycombinator.com/item?id=30831386</link>
-            <guid>https://news.ycombinator.com/item?id=30831386</guid>
-            <pubDate>Mon, 28 Mar 2022 15:17:29 GMT</pubDate>
-            <description><![CDATA[‘This Game Is So Realistic It Feels Just Like Working Overtime’]]></description>
         </item>
     </channel>
 </rss>
