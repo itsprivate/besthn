@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 11 Jun 2022 22:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 23:28:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美国更接近于召回特斯拉的自动驾驶软件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31706955</link>
+            <guid>https://news.ycombinator.com/item?id=31706955</guid>
+            <pubDate>Sat, 11 Jun 2022 18:39:48 GMT</pubDate>
+            <description><![CDATA[US moves closer to recalling Tesla’s self-driving software]]></description>
+        </item>
         <item>
             <title><![CDATA[为加密货币辩护
 ]]></title>
@@ -4349,13 +4357,6 @@
             <guid>https://news.ycombinator.com/item?id=30834885</guid>
             <pubDate>Mon, 28 Mar 2022 19:59:20 GMT</pubDate>
             <description><![CDATA[Twilio employees, associates charged with insider trading by SEC]]></description>
-        </item>
-        <item>
-            <title><![CDATA[开放式人工智能通过雇佣一支人类大军来修复GPT的错误答案，从而使GPT-3得以运行]]></title>
-            <link>https://news.ycombinator.com/item?id=30832465</link>
-            <guid>https://news.ycombinator.com/item?id=30832465</guid>
-            <pubDate>Mon, 28 Mar 2022 16:44:02 GMT</pubDate>
-            <description><![CDATA[Open AI gets GPT-3 to work by hiring an army of humans to fix GPT’s bad answers]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-11T22:27:39.283Z</updated>
+    <updated>2022-06-11T23:28:42.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国更接近于召回特斯拉的自动驾驶软件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31706955</id>
+        <link href="https://news.ycombinator.com/item?id=31706955"/>
+        <updated>2022-06-11T18:39:48.000Z</updated>
+        <summary type="html"><![CDATA[US moves closer to recalling Tesla’s self-driving software]]></summary>
+        <author>
+            <name>heavyset_go</name>
+            <uri>https://news.ycombinator.com/user?id=heavyset_go</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为加密货币辩护
 ]]></title>
@@ -6745,17 +6757,6 @@
         <author>
             <name>pcbro141</name>
             <uri>https://news.ycombinator.com/user?id=pcbro141</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开放式人工智能通过雇佣一支人类大军来修复GPT的错误答案，从而使GPT-3得以运行]]></title>
-        <id>https://news.ycombinator.com/item?id=30832465</id>
-        <link href="https://news.ycombinator.com/item?id=30832465"/>
-        <updated>2022-03-28T16:44:02.000Z</updated>
-        <summary type="html"><![CDATA[Open AI gets GPT-3 to work by hiring an army of humans to fix GPT’s bad answers]]></summary>
-        <author>
-            <name>agnosticmantis</name>
-            <uri>https://news.ycombinator.com/user?id=agnosticmantis</uri>
         </author>
     </entry>
 </feed>
