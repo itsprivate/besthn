@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 11 Jun 2022 21:46:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 22:27:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為加密貨幣辯護
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31684206</link>
+            <guid>https://news.ycombinator.com/item?id=31684206</guid>
+            <pubDate>Thu, 09 Jun 2022 17:33:07 GMT</pubDate>
+            <description><![CDATA[In defense of cryptocurrency]]></description>
+        </item>
         <item>
             <title><![CDATA[正確書寫HTML
 ]]></title>
@@ -4348,13 +4356,6 @@
             <guid>https://news.ycombinator.com/item?id=30832465</guid>
             <pubDate>Mon, 28 Mar 2022 16:44:02 GMT</pubDate>
             <description><![CDATA[Open AI gets GPT-3 to work by hiring an army of humans to fix GPT’s bad answers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[瘋狂的艾迪：騙取美國的流行電子產品連鎖店]]></title>
-            <link>https://news.ycombinator.com/item?id=30829593</link>
-            <guid>https://news.ycombinator.com/item?id=30829593</guid>
-            <pubDate>Mon, 28 Mar 2022 12:07:30 GMT</pubDate>
-            <description><![CDATA[Crazy Eddie: The popular electronics chain that scammed America]]></description>
         </item>
     </channel>
 </rss>

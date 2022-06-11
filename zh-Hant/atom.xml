@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-11T21:46:30.944Z</updated>
+    <updated>2022-06-11T22:27:39.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為加密貨幣辯護
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31684206</id>
+        <link href="https://news.ycombinator.com/item?id=31684206"/>
+        <updated>2022-06-09T17:33:07.000Z</updated>
+        <summary type="html"><![CDATA[In defense of cryptocurrency]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[正確書寫HTML
 ]]></title>
@@ -6744,17 +6756,6 @@
         <author>
             <name>agnosticmantis</name>
             <uri>https://news.ycombinator.com/user?id=agnosticmantis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瘋狂的艾迪：騙取美國的流行電子產品連鎖店]]></title>
-        <id>https://news.ycombinator.com/item?id=30829593</id>
-        <link href="https://news.ycombinator.com/item?id=30829593"/>
-        <updated>2022-03-28T12:07:30.000Z</updated>
-        <summary type="html"><![CDATA[Crazy Eddie: The popular electronics chain that scammed America]]></summary>
-        <author>
-            <name>yarapavan</name>
-            <uri>https://news.ycombinator.com/user?id=yarapavan</uri>
         </author>
     </entry>
 </feed>
