@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-10T23:46:51.784Z</updated>
+    <updated>2022-06-11T12:44:46.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[圍棋中的數據競賽模式
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31698503</id>
+        <link href="https://news.ycombinator.com/item?id=31698503"/>
+        <updated>2022-06-10T19:35:40.000Z</updated>
+        <summary type="html"><![CDATA[Data Race Patterns in Go]]></summary>
+        <author>
+            <name>statenjason</name>
+            <uri>https://news.ycombinator.com/user?id=statenjason</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xbox 360架構
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31678045</id>
+        <link href="https://news.ycombinator.com/item?id=31678045"/>
+        <updated>2022-06-09T06:10:27.000Z</updated>
+        <summary type="html"><![CDATA[Xbox 360 Architecture]]></summary>
+        <author>
+            <name>itsjloh</name>
+            <uri>https://news.ycombinator.com/user?id=itsjloh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告訴HN：谷歌不再在Play Store中列出應用程序的權限
 ]]></title>
@@ -6726,28 +6750,6 @@
         <author>
             <name>razin</name>
             <uri>https://news.ycombinator.com/user?id=razin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[福島事件後日本大多數人首次支持核電]]></title>
-        <id>https://news.ycombinator.com/item?id=30831485</id>
-        <link href="https://news.ycombinator.com/item?id=30831485"/>
-        <updated>2022-03-28T15:24:25.000Z</updated>
-        <summary type="html"><![CDATA[Majority in Japan backs nuclear power for first time since Fukushima]]></summary>
-        <author>
-            <name>karaokeyoga</name>
-            <uri>https://news.ycombinator.com/user?id=karaokeyoga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼你也許不應該如此努力工作]]></title>
-        <id>https://news.ycombinator.com/item?id=30829243</id>
-        <link href="https://news.ycombinator.com/item?id=30829243"/>
-        <updated>2022-03-28T11:08:24.000Z</updated>
-        <summary type="html"><![CDATA[Why you should maybe not work so hard]]></summary>
-        <author>
-            <name>jwhiles</name>
-            <uri>https://news.ycombinator.com/user?id=jwhiles</uri>
         </author>
     </entry>
 </feed>
