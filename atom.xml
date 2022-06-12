@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-12T08:49:42.046Z</updated>
+    <updated>2022-06-12T09:27:37.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Winamp皮肤博物馆由一个SQLite3数据库驱动，拥有1.2GB的元数据。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31703874</id>
+        <link href="https://news.ycombinator.com/item?id=31703874"/>
+        <updated>2022-06-11T12:06:19.000Z</updated>
+        <summary type="html"><![CDATA[The Winamp Skin Museum is powered by a SQLite3 database with 1.2GB of metadata]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大科技公司如何运行科技项目以及Scrum的奇特缺席
 ]]></title>
@@ -6750,17 +6762,6 @@
         <author>
             <name>jedwhite</name>
             <uri>https://news.ycombinator.com/user?id=jedwhite</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[屏蔽一条推文、其作者和每个喜欢它的人]]></title>
-        <id>https://news.ycombinator.com/item?id=30836879</id>
-        <link href="https://news.ycombinator.com/item?id=30836879"/>
-        <updated>2022-03-28T23:31:43.000Z</updated>
-        <summary type="html"><![CDATA[Block a tweet, its author, and every single person who liked it]]></summary>
-        <author>
-            <name>panarky</name>
-            <uri>https://news.ycombinator.com/user?id=panarky</uri>
         </author>
     </entry>
 </feed>

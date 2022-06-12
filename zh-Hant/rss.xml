@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 12 Jun 2022 08:49:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 09:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Winamp皮膚博物館由一個SQLite3數據庫驅動，擁有1.2GB的元數據。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31703874</link>
+            <guid>https://news.ycombinator.com/item?id=31703874</guid>
+            <pubDate>Sat, 11 Jun 2022 12:06:19 GMT</pubDate>
+            <description><![CDATA[The Winamp Skin Museum is powered by a SQLite3 database with 1.2GB of metadata]]></description>
+        </item>
         <item>
             <title><![CDATA[大科技公司如何運行科技項目以及Scrum的奇特缺席
 ]]></title>
@@ -4354,13 +4362,6 @@
             <guid>https://news.ycombinator.com/item?id=30832589</guid>
             <pubDate>Mon, 28 Mar 2022 16:52:50 GMT</pubDate>
             <description><![CDATA[Launch HN: Andi (YC W22) – Q&A based, ad-free, anti-spam search engine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[屏蔽一條推文、其作者和每個喜歡它的人]]></title>
-            <link>https://news.ycombinator.com/item?id=30836879</link>
-            <guid>https://news.ycombinator.com/item?id=30836879</guid>
-            <pubDate>Mon, 28 Mar 2022 23:31:43 GMT</pubDate>
-            <description><![CDATA[Block a tweet, its author, and every single person who liked it]]></description>
         </item>
     </channel>
 </rss>
