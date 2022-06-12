@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31705526",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31705526",
+            "title": "大科技公司如何运行科技项目以及Scrum的奇特缺席\n",
+            "summary": "How big tech runs tech projects and the curious absence of Scrum",
+            "date_modified": "2022-06-11T16:05:13.000Z",
+            "author": {
+                "name": "yarapavan",
+                "url": "https://news.ycombinator.com/user?id=yarapavan"
+            },
+            "_original_headline": "How big tech runs tech projects and the curious absence of Scrum",
+            "_original_url": "https://blog.pragmaticengineer.com/project-management-at-big-tech/",
+            "_sensitive": false,
+            "_score": 250
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31708366",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31708366",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://megablock.xyz/",
             "_sensitive": false,
             "_score": 252
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30833566",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30833566",
-            "title": "支持者汽车上的神秘GPS追踪器",
-            "summary": "Mystery GPS Tracker on a Supporter’s Car",
-            "date_modified": "2022-03-28T18:05:11.000Z",
-            "author": {
-                "name": "cooperq",
-                "url": "https://news.ycombinator.com/user?id=cooperq"
-            },
-            "_original_headline": "Mystery GPS Tracker on a Supporter’s Car",
-            "_original_url": "https://www.eff.org/deeplinks/2022/03/eff-investigation-mystery-gps-tracker-supporters-car",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }
