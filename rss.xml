@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 11 Jun 2022 23:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 02:36:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[市场上是否有没有 "智能电视 "功能的电视？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31706835</link>
+            <guid>https://news.ycombinator.com/item?id=31706835</guid>
+            <pubDate>Sat, 11 Jun 2022 18:28:18 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is there a TV on the market without “Smart TV” features?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在浏览器中玩转TailwindCSS
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31692267</link>
+            <guid>https://news.ycombinator.com/item?id=31692267</guid>
+            <pubDate>Fri, 10 Jun 2022 10:43:28 GMT</pubDate>
+            <description><![CDATA[Play with TailwindCSS in the Browser]]></description>
+        </item>
         <item>
             <title><![CDATA[美国更接近于召回特斯拉的自动驾驶软件
 ]]></title>
@@ -4343,20 +4359,6 @@
             <guid>https://news.ycombinator.com/item?id=30827497</guid>
             <pubDate>Mon, 28 Mar 2022 05:46:00 GMT</pubDate>
             <description><![CDATA[WebAssembly in my browser desktop environment]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Caddy-SSH]]></title>
-            <link>https://news.ycombinator.com/item?id=30830749</link>
-            <guid>https://news.ycombinator.com/item?id=30830749</guid>
-            <pubDate>Mon, 28 Mar 2022 14:19:50 GMT</pubDate>
-            <description><![CDATA[Show HN: Caddy-SSH]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Twilio员工及相关人员被美国证券交易委员会指控从事内幕交易]]></title>
-            <link>https://news.ycombinator.com/item?id=30834885</link>
-            <guid>https://news.ycombinator.com/item?id=30834885</guid>
-            <pubDate>Mon, 28 Mar 2022 19:59:20 GMT</pubDate>
-            <description><![CDATA[Twilio employees, associates charged with insider trading by SEC]]></description>
         </item>
     </channel>
 </rss>
