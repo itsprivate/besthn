@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-12T09:27:37.739Z</updated>
+    <updated>2022-06-12T11:24:17.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何做倒立
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31708461</id>
+        <link href="https://news.ycombinator.com/item?id=31708461"/>
+        <updated>2022-06-11T21:12:23.000Z</updated>
+        <summary type="html"><![CDATA[How to Do a Handstand]]></summary>
+        <author>
+            <name>kaycebasques</name>
+            <uri>https://news.ycombinator.com/user?id=kaycebasques</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Winamp皮肤博物馆由一个SQLite3数据库驱动，拥有1.2GB的元数据。
 ]]></title>
@@ -6751,17 +6763,6 @@
         <author>
             <name>starsep</name>
             <uri>https://news.ycombinator.com/user?id=starsep</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推出HN：Andi (YC W22) - 基于问答、无广告、反垃圾邮件的搜索引擎]]></title>
-        <id>https://news.ycombinator.com/item?id=30832589</id>
-        <link href="https://news.ycombinator.com/item?id=30832589"/>
-        <updated>2022-03-28T16:52:50.000Z</updated>
-        <summary type="html"><![CDATA[Launch HN: Andi (YC W22) – Q&A based, ad-free, anti-spam search engine]]></summary>
-        <author>
-            <name>jedwhite</name>
-            <uri>https://news.ycombinator.com/user?id=jedwhite</uri>
         </author>
     </entry>
 </feed>
