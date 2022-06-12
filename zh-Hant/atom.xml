@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-12T15:29:26.067Z</updated>
+    <updated>2022-06-12T21:24:32.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lilium公司首次實現了全電動飛機的主翼過渡[視頻]。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31715067</id>
+        <link href="https://news.ycombinator.com/item?id=31715067"/>
+        <updated>2022-06-12T15:10:35.000Z</updated>
+        <summary type="html"><![CDATA[Lilium achieves first main wing transition for all-electric aircraft [video]]]></summary>
+        <author>
+            <name>tomohawk</name>
+            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[瀏覽器擴展可以偽造你的位置數據以匹配你的VPN
 ]]></title>
@@ -6754,17 +6766,6 @@
         <author>
             <name>Syntaf</name>
             <uri>https://news.ycombinator.com/user?id=Syntaf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[訊飛。nf_tables中的漏洞導致權限升級和信息洩露]]></title>
-        <id>https://news.ycombinator.com/item?id=30838037</id>
-        <link href="https://news.ycombinator.com/item?id=30838037"/>
-        <updated>2022-03-29T02:23:35.000Z</updated>
-        <summary type="html"><![CDATA[Linux: Vulnerabilities in nf_tables cause privilege escalation, information leak]]></summary>
-        <author>
-            <name>pdenton</name>
-            <uri>https://news.ycombinator.com/user?id=pdenton</uri>
         </author>
     </entry>
 </feed>

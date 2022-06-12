@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 12 Jun 2022 15:29:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 21:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Lilium公司首次實現了全電動飛機的主翼過渡[視頻]。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31715067</link>
+            <guid>https://news.ycombinator.com/item?id=31715067</guid>
+            <pubDate>Sun, 12 Jun 2022 15:10:35 GMT</pubDate>
+            <description><![CDATA[Lilium achieves first main wing transition for all-electric aircraft [video]]]></description>
+        </item>
         <item>
             <title><![CDATA[瀏覽器擴展可以偽造你的位置數據以匹配你的VPN
 ]]></title>
@@ -4358,13 +4366,6 @@
             <guid>https://news.ycombinator.com/item?id=30838564</guid>
             <pubDate>Tue, 29 Mar 2022 03:50:51 GMT</pubDate>
             <description><![CDATA[My own phone number is now spam texting me]]></description>
-        </item>
-        <item>
-            <title><![CDATA[訊飛。nf_tables中的漏洞導致權限升級和信息洩露]]></title>
-            <link>https://news.ycombinator.com/item?id=30838037</link>
-            <guid>https://news.ycombinator.com/item?id=30838037</guid>
-            <pubDate>Tue, 29 Mar 2022 02:23:35 GMT</pubDate>
-            <description><![CDATA[Linux: Vulnerabilities in nf_tables cause privilege escalation, information leak]]></description>
         </item>
     </channel>
 </rss>
