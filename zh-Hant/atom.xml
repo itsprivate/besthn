@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-12T11:24:18.040Z</updated>
+    <updated>2022-06-12T13:40:09.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[目光短淺已經成為一種流行病
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31711990</id>
+        <link href="https://news.ycombinator.com/item?id=31711990"/>
+        <updated>2022-06-12T06:17:34.000Z</updated>
+        <summary type="html"><![CDATA[Shortsightedness has become an epidemic]]></summary>
+        <author>
+            <name>nilsbunger</name>
+            <uri>https://news.ycombinator.com/user?id=nilsbunger</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何做倒立
 ]]></title>
@@ -6752,17 +6764,6 @@
         <author>
             <name>tempodox</name>
             <uri>https://news.ycombinator.com/user?id=tempodox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今天，谷歌正在為許多之前關閉了追蹤功能的用戶開啟追蹤功能]]></title>
-        <id>https://news.ycombinator.com/item?id=30841320</id>
-        <link href="https://news.ycombinator.com/item?id=30841320"/>
-        <updated>2022-03-29T11:47:55.000Z</updated>
-        <summary type="html"><![CDATA[Today Google is turning on tracking for many users that previously turned it off]]></summary>
-        <author>
-            <name>starsep</name>
-            <uri>https://news.ycombinator.com/user?id=starsep</uri>
         </author>
     </entry>
 </feed>

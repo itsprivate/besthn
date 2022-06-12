@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 12 Jun 2022 11:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 13:40:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[目光短浅已经成为一种流行病
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31711990</link>
+            <guid>https://news.ycombinator.com/item?id=31711990</guid>
+            <pubDate>Sun, 12 Jun 2022 06:17:34 GMT</pubDate>
+            <description><![CDATA[Shortsightedness has become an epidemic]]></description>
+        </item>
         <item>
             <title><![CDATA[如何做倒立
 ]]></title>
@@ -4356,13 +4364,6 @@
             <guid>https://news.ycombinator.com/item?id=30841244</guid>
             <pubDate>Tue, 29 Mar 2022 11:38:15 GMT</pubDate>
             <description><![CDATA[Difftastic: A diff that understands syntax]]></description>
-        </item>
-        <item>
-            <title><![CDATA[今天，谷歌正在为许多之前关闭了追踪功能的用户开启追踪功能]]></title>
-            <link>https://news.ycombinator.com/item?id=30841320</link>
-            <guid>https://news.ycombinator.com/item?id=30841320</guid>
-            <pubDate>Tue, 29 Mar 2022 11:47:55 GMT</pubDate>
-            <description><![CDATA[Today Google is turning on tracking for many users that previously turned it off]]></description>
         </item>
     </channel>
 </rss>
