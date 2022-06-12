@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-12T02:36:57.291Z</updated>
+    <updated>2022-06-12T07:44:20.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你知道的最酷的网站是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31708366</id>
+        <link href="https://news.ycombinator.com/item?id=31708366"/>
+        <updated>2022-06-11T21:02:16.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's the coolest website you know?]]></summary>
+        <author>
+            <name>lagrange77</name>
+            <uri>https://news.ycombinator.com/user?id=lagrange77</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[市场上是否有没有 "智能电视 "功能的电视？
 ]]></title>
@@ -6748,17 +6760,6 @@
         <author>
             <name>cooperq</name>
             <uri>https://news.ycombinator.com/user?id=cooperq</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在我的浏览器桌面环境中的WebAssembly]]></title>
-        <id>https://news.ycombinator.com/item?id=30827497</id>
-        <link href="https://news.ycombinator.com/item?id=30827497"/>
-        <updated>2022-03-28T05:46:00.000Z</updated>
-        <summary type="html"><![CDATA[WebAssembly in my browser desktop environment]]></summary>
-        <author>
-            <name>DustinBrett</name>
-            <uri>https://news.ycombinator.com/user?id=DustinBrett</uri>
         </author>
     </entry>
 </feed>
