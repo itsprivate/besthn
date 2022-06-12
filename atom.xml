@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-12T13:40:09.488Z</updated>
+    <updated>2022-06-12T15:29:26.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[浏览器扩展可以伪造你的位置数据以匹配你的VPN
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31710603</id>
+        <link href="https://news.ycombinator.com/item?id=31710603"/>
+        <updated>2022-06-12T02:10:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Browser extension that spoofs your location data to match your VPN]]></summary>
+        <author>
+            <name>z0ccc</name>
+            <uri>https://news.ycombinator.com/user?id=z0ccc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[目光短浅已经成为一种流行病
 ]]></title>
@@ -6753,17 +6765,6 @@
         <author>
             <name>pdenton</name>
             <uri>https://news.ycombinator.com/user?id=pdenton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[差异巨大。一个理解语法的差异]]></title>
-        <id>https://news.ycombinator.com/item?id=30841244</id>
-        <link href="https://news.ycombinator.com/item?id=30841244"/>
-        <updated>2022-03-29T11:38:15.000Z</updated>
-        <summary type="html"><![CDATA[Difftastic: A diff that understands syntax]]></summary>
-        <author>
-            <name>tempodox</name>
-            <uri>https://news.ycombinator.com/user?id=tempodox</uri>
         </author>
     </entry>
 </feed>
