@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-12T22:27:37.571Z</updated>
+    <updated>2022-06-12T23:59:00.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[15.Ai
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31711118</id>
+        <link href="https://news.ycombinator.com/item?id=31711118"/>
+        <updated>2022-06-12T03:33:55.000Z</updated>
+        <summary type="html"><![CDATA[15.ai]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新的UUID格式
 ]]></title>
@@ -6756,17 +6768,6 @@
         <author>
             <name>DocFeind</name>
             <uri>https://news.ycombinator.com/user?id=DocFeind</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们可以做得更好，而不是 "相同，但电动"。]]></title>
-        <id>https://news.ycombinator.com/item?id=30838132</id>
-        <link href="https://news.ycombinator.com/item?id=30838132"/>
-        <updated>2022-03-29T02:40:23.000Z</updated>
-        <summary type="html"><![CDATA[We can do better than “same, but electric”]]></summary>
-        <author>
-            <name>gk1</name>
-            <uri>https://news.ycombinator.com/user?id=gk1</uri>
         </author>
     </entry>
 </feed>
