@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 13 Jun 2022 06:02:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 06:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Fresh - 下一代网络框架
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31720110</link>
+            <guid>https://news.ycombinator.com/item?id=31720110</guid>
+            <pubDate>Mon, 13 Jun 2022 01:50:22 GMT</pubDate>
+            <description><![CDATA[Fresh – Next-gen web framework]]></description>
+        </item>
         <item>
             <title><![CDATA[最适合初学者的线性代数书？
 ]]></title>
@@ -4364,13 +4372,6 @@
             <guid>https://news.ycombinator.com/item?id=30844414</guid>
             <pubDate>Tue, 29 Mar 2022 16:09:50 GMT</pubDate>
             <description><![CDATA[React v18.0]]></description>
-        </item>
-        <item>
-            <title><![CDATA[黑客通过伪造的 "紧急数据请求 "获得传票权]]></title>
-            <link>https://news.ycombinator.com/item?id=30842757</link>
-            <guid>https://news.ycombinator.com/item?id=30842757</guid>
-            <pubDate>Tue, 29 Mar 2022 14:11:59 GMT</pubDate>
-            <description><![CDATA[Hackers Gaining Power of Subpoena via Fake “Emergency Data Requests”]]></description>
         </item>
     </channel>
 </rss>

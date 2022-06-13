@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-13T06:02:25.730Z</updated>
+    <updated>2022-06-13T06:37:46.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Fresh - 下一代網絡框架
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31720110</id>
+        <link href="https://news.ycombinator.com/item?id=31720110"/>
+        <updated>2022-06-13T01:50:22.000Z</updated>
+        <summary type="html"><![CDATA[Fresh – Next-gen web framework]]></summary>
+        <author>
+            <name>exists</name>
+            <uri>https://news.ycombinator.com/user?id=exists</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最適合初學者的線性代數書？
 ]]></title>
@@ -6760,17 +6772,6 @@
         <author>
             <name>pspeter3</name>
             <uri>https://news.ycombinator.com/user?id=pspeter3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客通過偽造的 "緊急數據請求 "獲得傳票權]]></title>
-        <id>https://news.ycombinator.com/item?id=30842757</id>
-        <link href="https://news.ycombinator.com/item?id=30842757"/>
-        <updated>2022-03-29T14:11:59.000Z</updated>
-        <summary type="html"><![CDATA[Hackers Gaining Power of Subpoena via Fake “Emergency Data Requests”]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
