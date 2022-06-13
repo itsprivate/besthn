@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 13 Jun 2022 15:44:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 16:50:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我們對安卓版雷鳥的計劃
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31725103</link>
+            <guid>https://news.ycombinator.com/item?id=31725103</guid>
+            <pubDate>Mon, 13 Jun 2022 13:15:40 GMT</pubDate>
+            <description><![CDATA[Our Plans for Thunderbird on Android]]></description>
+        </item>
         <item>
             <title><![CDATA[Binance上的比特幣提款暫時暫停
 ]]></title>
@@ -4370,13 +4378,6 @@
             <guid>https://news.ycombinator.com/item?id=30846071</guid>
             <pubDate>Tue, 29 Mar 2022 17:53:42 GMT</pubDate>
             <description><![CDATA[FTC Sues Intuit for Its Deceptive Turbotax “Free” Filing Campaign]]></description>
-        </item>
-        <item>
-            <title><![CDATA[USWDS: 美國的網頁設計系統]]></title>
-            <link>https://news.ycombinator.com/item?id=30844002</link>
-            <guid>https://news.ycombinator.com/item?id=30844002</guid>
-            <pubDate>Tue, 29 Mar 2022 15:37:09 GMT</pubDate>
-            <description><![CDATA[USWDS: The United States Web Design System]]></description>
         </item>
     </channel>
 </rss>
