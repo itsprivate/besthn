@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-13T22:01:00.852Z</updated>
+    <updated>2022-06-13T23:28:41.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[雞群的照片，由雞群拍攝
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31730604</id>
+        <link href="https://news.ycombinator.com/item?id=31730604"/>
+        <updated>2022-06-13T19:36:56.000Z</updated>
+        <summary type="html"><![CDATA[Photos of chickens, taken by chickens]]></summary>
+        <author>
+            <name>kapsteur</name>
+            <uri>https://news.ycombinator.com/user?id=kapsteur</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼我們在Gitlab堅持使用Ruby on Rails？
 ]]></title>
@@ -6789,17 +6801,6 @@
         <author>
             <name>ghostoftiber</name>
             <uri>https://news.ycombinator.com/user?id=ghostoftiber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[把你的手機變成一個空間監測工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30864470</id>
-        <link href="https://news.ycombinator.com/item?id=30864470"/>
-        <updated>2022-03-31T06:42:28.000Z</updated>
-        <summary type="html"><![CDATA[Turn your phone into a space monitoring tool]]></summary>
-        <author>
-            <name>JeanMarcS</name>
-            <uri>https://news.ycombinator.com/user?id=JeanMarcS</uri>
         </author>
     </entry>
 </feed>
