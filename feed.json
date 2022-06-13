@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31716350",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31716350",
+            "title": "ACM免费提供数以千计的研究文章；开放第一个50年\n",
+            "summary": "ACM Makes Thousands of Research Articles Freely Available; Opens First 50 Years",
+            "date_modified": "2022-06-12T17:28:46.000Z",
+            "author": {
+                "name": "kulandai",
+                "url": "https://news.ycombinator.com/user?id=kulandai"
+            },
+            "_original_headline": "ACM Makes Thousands of Research Articles Freely Available; Opens First 50 Years",
+            "_original_url": "https://www.acm.org/media-center/2022/april/50-years-backfile",
+            "_sensitive": false,
+            "_score": 252
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31711020",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31711020",
+            "title": "国家终于允许青少年睡懒觉了\n",
+            "summary": "The State Finally Letting Teens Sleep In",
+            "date_modified": "2022-06-12T03:20:21.000Z",
+            "author": {
+                "name": "gadflyinyoureye",
+                "url": "https://news.ycombinator.com/user?id=gadflyinyoureye"
+            },
+            "_original_headline": "The State Finally Letting Teens Sleep In",
+            "_original_url": "https://www.theatlantic.com/family/archive/2022/06/american-high-school-later-start-time/661211/",
+            "_sensitive": false,
+            "_score": 257
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31711118",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31711118",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://matthewbutterick.com/chron/justice-stevens-reads-the-fine-print.html",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30844334",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30844334",
-            "title": "价值6.25亿美元的ETH在Axie Infinity的Ronin网络上流走了",
-            "summary": "$625M worth of ETH drained on Axie Infinity's Ronin Network",
-            "date_modified": "2022-03-29T16:05:03.000Z",
-            "author": {
-                "name": "colesantiago",
-                "url": "https://news.ycombinator.com/user?id=colesantiago"
-            },
-            "_original_headline": "$625M worth of ETH drained on Axie Infinity's Ronin Network",
-            "_original_url": "https://roninblockchain.substack.com/p/community-alert-ronin-validators",
-            "_sensitive": false,
-            "_score": 259
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30842511",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30842511",
-            "title": "卡巴斯基被宣布为美国国家安全威胁并被联邦通信委员会禁止使用",
-            "summary": "Kaspersky is declared a US national security threat and is banned by the FCC",
-            "date_modified": "2022-03-29T13:51:41.000Z",
-            "author": {
-                "name": "DocFeind",
-                "url": "https://news.ycombinator.com/user?id=DocFeind"
-            },
-            "_original_headline": "Kaspersky is declared a US national security threat and is banned by the FCC",
-            "_original_url": "https://hothardware.com/news/kaspersky-declared-us-national-security-threat-banned-fcc",
-            "_sensitive": false,
-            "_score": 256
         }
     ]
 }
