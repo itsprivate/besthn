@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31713801",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31713801",
+            "title": "谷歌的人工智能不懂餐厅菜单\n",
+            "summary": "Google's AI doesn't understand restaurant menus",
+            "date_modified": "2022-06-12T11:49:02.000Z",
+            "author": {
+                "name": "edent",
+                "url": "https://news.ycombinator.com/user?id=edent"
+            },
+            "_original_headline": "Google's AI doesn't understand restaurant menus",
+            "_original_url": "https://shkspr.mobi/blog/2022/06/googles-ai-doesnt-understand-restaurant-menus/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31728350",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31728350",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://lethain.com/hard-to-work-with/",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30854734",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30854734",
-            "title": "Grafana Mimir - 用于Prometheus的横向可扩展长期存储",
-            "summary": "Grafana Mimir – Horizontally scalable long-term storage for Prometheus",
-            "date_modified": "2022-03-30T13:13:14.000Z",
-            "author": {
-                "name": "devsecopsify",
-                "url": "https://news.ycombinator.com/user?id=devsecopsify"
-            },
-            "_original_headline": "Grafana Mimir – Horizontally scalable long-term storage for Prometheus",
-            "_original_url": "https://grafana.com/oss/mimir/",
-            "_sensitive": false,
-            "_score": 251
         }
     ]
 }
