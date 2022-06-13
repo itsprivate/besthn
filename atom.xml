@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-13T06:37:46.700Z</updated>
+    <updated>2022-06-13T13:53:52.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通过回答 "为什么"、"是什么"、"如何 "来更好地写作
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31711071</id>
+        <link href="https://news.ycombinator.com/item?id=31711071"/>
+        <updated>2022-06-12T03:26:54.000Z</updated>
+        <summary type="html"><![CDATA[Writing better by answering why, what, how]]></summary>
+        <author>
+            <name>7d7n</name>
+            <uri>https://news.ycombinator.com/user?id=7d7n</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fresh - 下一代网络框架
 ]]></title>
@@ -6761,17 +6773,6 @@
         <author>
             <name>robertwiblin</name>
             <uri>https://news.ycombinator.com/user?id=robertwiblin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React v18.0]]></title>
-        <id>https://news.ycombinator.com/item?id=30844414</id>
-        <link href="https://news.ycombinator.com/item?id=30844414"/>
-        <updated>2022-03-29T16:09:50.000Z</updated>
-        <summary type="html"><![CDATA[React v18.0]]></summary>
-        <author>
-            <name>pspeter3</name>
-            <uri>https://news.ycombinator.com/user?id=pspeter3</uri>
         </author>
     </entry>
 </feed>
