@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-13T13:53:52.914Z</updated>
+    <updated>2022-06-13T15:44:21.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Binance上的比特幣提款暫時暫停
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31724351</id>
+        <link href="https://news.ycombinator.com/item?id=31724351"/>
+        <updated>2022-06-13T12:12:54.000Z</updated>
+        <summary type="html"><![CDATA[Temporary pause of Bitcoin withdrawals on Binance]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tether又開始從美元貶值了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31723438</id>
+        <link href="https://news.ycombinator.com/item?id=31723438"/>
+        <updated>2022-06-13T10:31:21.000Z</updated>
+        <summary type="html"><![CDATA[Tether is starting to depeg from USD again]]></summary>
+        <author>
+            <name>rsp1984</name>
+            <uri>https://news.ycombinator.com/user?id=rsp1984</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[主要加密貨幣貸款機構Celsius因市場暴跌而凍結提款
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31723286</id>
+        <link href="https://news.ycombinator.com/item?id=31723286"/>
+        <updated>2022-06-13T10:09:45.000Z</updated>
+        <summary type="html"><![CDATA[Major crypto lender Celsius freezes withdrawals as markets tumble]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[豐田推出用於住宅應用的8.7千瓦時電池
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31720472</id>
+        <link href="https://news.ycombinator.com/item?id=31720472"/>
+        <updated>2022-06-13T02:48:20.000Z</updated>
+        <summary type="html"><![CDATA[Toyota unveils 8.7 kWh battery for residential applications]]></summary>
+        <author>
+            <name>xbmcuser</name>
+            <uri>https://news.ycombinator.com/user?id=xbmcuser</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通過回答 "為什麼"、"是什麼"、"如何 "來更好地寫作
 ]]></title>
@@ -6729,50 +6777,6 @@
         <author>
             <name>jakelazaroff</name>
             <uri>https://news.ycombinator.com/user?id=jakelazaroff</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東京Technicolor]]></title>
-        <id>https://news.ycombinator.com/item?id=30818253</id>
-        <link href="https://news.ycombinator.com/item?id=30818253"/>
-        <updated>2022-03-27T06:41:36.000Z</updated>
-        <summary type="html"><![CDATA[Technicolor Tokyo]]></summary>
-        <author>
-            <name>keiferski</name>
-            <uri>https://news.ycombinator.com/user?id=keiferski</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國聯邦貿易委員會起訴Intuit公司，要求停止聲稱TurboTax免費的 "欺騙性 "廣告]]></title>
-        <id>https://news.ycombinator.com/item?id=30846884</id>
-        <link href="https://news.ycombinator.com/item?id=30846884"/>
-        <updated>2022-03-29T18:59:20.000Z</updated>
-        <summary type="html"><![CDATA[FTC sues Intuit in bid to stop “deceptive” ads that claim TurboTax is free]]></summary>
-        <author>
-            <name>nevir</name>
-            <uri>https://news.ycombinator.com/user?id=nevir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zulip 5.0: 線程化的開源團隊聊天]]></title>
-        <id>https://news.ycombinator.com/item?id=30846659</id>
-        <link href="https://news.ycombinator.com/item?id=30846659"/>
-        <updated>2022-03-29T18:40:09.000Z</updated>
-        <summary type="html"><![CDATA[Zulip 5.0: Threaded open-source team chat]]></summary>
-        <author>
-            <name>srijan4</name>
-            <uri>https://news.ycombinator.com/user?id=srijan4</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visa的營銷選擇功能已經關閉了一個多星期。這是一個法律問題嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30845335</id>
-        <link href="https://news.ycombinator.com/item?id=30845335"/>
-        <updated>2022-03-29T17:04:41.000Z</updated>
-        <summary type="html"><![CDATA[Visa's marketing opt-out has been down for over a week. Is this a legal issue?]]></summary>
-        <author>
-            <name>robertwiblin</name>
-            <uri>https://news.ycombinator.com/user?id=robertwiblin</uri>
         </author>
     </entry>
 </feed>
