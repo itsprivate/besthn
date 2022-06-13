@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-13T16:50:42.389Z</updated>
+    <updated>2022-06-13T17:47:41.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[LaMDA是没有知觉的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31721584</id>
+        <link href="https://news.ycombinator.com/item?id=31721584"/>
+        <updated>2022-06-13T05:36:07.000Z</updated>
+        <summary type="html"><![CDATA[LaMDA is not sentient]]></summary>
+        <author>
+            <name>eatonphil</name>
+            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们对安卓版雷鸟的计划
 ]]></title>
@@ -6767,17 +6779,6 @@
         <author>
             <name>arusahni</name>
             <uri>https://news.ycombinator.com/user?id=arusahni</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联邦贸易委员会起诉Intuit公司的欺骗性Turbotax "免费 "申报活动]]></title>
-        <id>https://news.ycombinator.com/item?id=30846071</id>
-        <link href="https://news.ycombinator.com/item?id=30846071"/>
-        <updated>2022-03-29T17:53:42.000Z</updated>
-        <summary type="html"><![CDATA[FTC Sues Intuit for Its Deceptive Turbotax “Free” Filing Campaign]]></summary>
-        <author>
-            <name>Kesseki</name>
-            <uri>https://news.ycombinator.com/user?id=Kesseki</uri>
         </author>
     </entry>
 </feed>
