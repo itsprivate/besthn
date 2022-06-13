@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31707163",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31707163",
+            "title": "最適合初學者的線性代數書？\n",
+            "summary": "Ask HN: Best beginner friendly linear algebra book?",
+            "date_modified": "2022-06-11T19:00:19.000Z",
+            "author": {
+                "name": "belfalas",
+                "url": "https://news.ycombinator.com/user?id=belfalas"
+            },
+            "_original_headline": "Ask HN: Best beginner friendly linear algebra book?",
+            "_original_url": "https://news.ycombinator.com/item?id=31707163",
+            "_sensitive": false,
+            "_score": 250
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31716350",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31716350",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://krebsonsecurity.com/2022/03/hackers-gaining-power-of-subpoena-via-fake-emergency-data-requests/",
             "_sensitive": false,
             "_score": 253
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30838572",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30838572",
-            "title": "史蒂文斯大法官閱讀了細小的字體",
-            "summary": "Justice Stevens reads the fine print",
-            "date_modified": "2022-03-29T03:52:29.000Z",
-            "author": {
-                "name": "zacwest",
-                "url": "https://news.ycombinator.com/user?id=zacwest"
-            },
-            "_original_headline": "Justice Stevens reads the fine print",
-            "_original_url": "https://matthewbutterick.com/chron/justice-stevens-reads-the-fine-print.html",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }
