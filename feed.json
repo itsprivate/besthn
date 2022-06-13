@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31726825",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31726825",
+            "title": "为什么我们在Gitlab坚持使用Ruby on Rails？\n",
+            "summary": "Why We’re Sticking with Ruby on Rails at Gitlab",
+            "date_modified": "2022-06-13T15:19:50.000Z",
+            "author": {
+                "name": "mooreds",
+                "url": "https://news.ycombinator.com/user?id=mooreds"
+            },
+            "_original_headline": "Why We’re Sticking with Ruby on Rails at Gitlab",
+            "_original_url": "https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31713801",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31713801",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.esa.int/Applications/Navigation/Turn_your_phone_into_a_space_monitoring_tool",
             "_sensitive": false,
             "_score": 257
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30861707",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30861707",
-            "title": "难于合作",
-            "summary": "Hard to work with",
-            "date_modified": "2022-03-30T22:39:14.000Z",
-            "author": {
-                "name": "jger15",
-                "url": "https://news.ycombinator.com/user?id=jger15"
-            },
-            "_original_headline": "Hard to work with",
-            "_original_url": "https://lethain.com/hard-to-work-with/",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }

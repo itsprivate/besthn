@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-13T21:46:43.673Z</updated>
+    <updated>2022-06-13T22:01:00.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么我们在Gitlab坚持使用Ruby on Rails？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31726825</id>
+        <link href="https://news.ycombinator.com/item?id=31726825"/>
+        <updated>2022-06-13T15:19:50.000Z</updated>
+        <summary type="html"><![CDATA[Why We’re Sticking with Ruby on Rails at Gitlab]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌的人工智能不懂餐厅菜单
 ]]></title>
@@ -6788,17 +6800,6 @@
         <author>
             <name>JeanMarcS</name>
             <uri>https://news.ycombinator.com/user?id=JeanMarcS</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[难于合作]]></title>
-        <id>https://news.ycombinator.com/item?id=30861707</id>
-        <link href="https://news.ycombinator.com/item?id=30861707"/>
-        <updated>2022-03-30T22:39:14.000Z</updated>
-        <summary type="html"><![CDATA[Hard to work with]]></summary>
-        <author>
-            <name>jger15</name>
-            <uri>https://news.ycombinator.com/user?id=jger15</uri>
         </author>
     </entry>
 </feed>
