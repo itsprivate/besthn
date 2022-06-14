@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-14T07:45:19.359Z</updated>
+    <updated>2022-06-14T11:59:53.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苏格兰开始重新提出独立申请
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31736919</id>
+        <link href="https://news.ycombinator.com/item?id=31736919"/>
+        <updated>2022-06-14T10:29:36.000Z</updated>
+        <summary type="html"><![CDATA[Scotland starts renewed case for independence]]></summary>
+        <author>
+            <name>binbag</name>
+            <uri>https://news.ycombinator.com/user?id=binbag</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哺乳动物可以通过肠道呼吸（2021）。
 ]]></title>
@@ -6798,17 +6810,6 @@
         <author>
             <name>tux1968</name>
             <uri>https://news.ycombinator.com/user?id=tux1968</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["这不应该发生"。猎杀病毒的非营利组织生态健康联盟的内部情况]]></title>
-        <id>https://news.ycombinator.com/item?id=30870435</id>
-        <link href="https://news.ycombinator.com/item?id=30870435"/>
-        <updated>2022-03-31T18:12:19.000Z</updated>
-        <summary type="html"><![CDATA[“This shouldn’t happen”: Inside the virus-hunting nonprofit EcoHealth Alliance]]></summary>
-        <author>
-            <name>jashkenas</name>
-            <uri>https://news.ycombinator.com/user?id=jashkenas</uri>
         </author>
     </entry>
 </feed>

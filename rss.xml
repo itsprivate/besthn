@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 14 Jun 2022 07:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 11:59:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[苏格兰开始重新提出独立申请
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31736919</link>
+            <guid>https://news.ycombinator.com/item?id=31736919</guid>
+            <pubDate>Tue, 14 Jun 2022 10:29:36 GMT</pubDate>
+            <description><![CDATA[Scotland starts renewed case for independence]]></description>
+        </item>
         <item>
             <title><![CDATA[哺乳动物可以通过肠道呼吸（2021）。
 ]]></title>
@@ -4402,13 +4410,6 @@
             <guid>https://news.ycombinator.com/item?id=30874256</guid>
             <pubDate>Fri, 01 Apr 2022 01:34:14 GMT</pubDate>
             <description><![CDATA[Pens and Tablets for Linux]]></description>
-        </item>
-        <item>
-            <title><![CDATA["这不应该发生"。猎杀病毒的非营利组织生态健康联盟的内部情况]]></title>
-            <link>https://news.ycombinator.com/item?id=30870435</link>
-            <guid>https://news.ycombinator.com/item?id=30870435</guid>
-            <pubDate>Thu, 31 Mar 2022 18:12:19 GMT</pubDate>
-            <description><![CDATA[“This shouldn’t happen”: Inside the virus-hunting nonprofit EcoHealth Alliance]]></description>
         </item>
     </channel>
 </rss>

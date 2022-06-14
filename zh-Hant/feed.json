@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31736919",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31736919",
+            "title": "蘇格蘭開始重新提出獨立申請\n",
+            "summary": "Scotland starts renewed case for independence",
+            "date_modified": "2022-06-14T10:29:36.000Z",
+            "author": {
+                "name": "binbag",
+                "url": "https://news.ycombinator.com/user?id=binbag"
+            },
+            "_original_headline": "Scotland starts renewed case for independence",
+            "_original_url": "https://www.gov.scot/publications/independence-modern-world-wealthier-happier-fairer-not-scotland/",
+            "_sensitive": false,
+            "_score": 230
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31721077",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31721077",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "Pens and Tablets for Linux",
             "_original_url": "https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/",
-            "_sensitive": false,
-            "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30870435",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30870435",
-            "title": "\"這不應該發生\"。獵殺病毒的非營利組織生態健康聯盟的內部情況",
-            "summary": "“This shouldn’t happen”: Inside the virus-hunting nonprofit EcoHealth Alliance",
-            "date_modified": "2022-03-31T18:12:19.000Z",
-            "author": {
-                "name": "jashkenas",
-                "url": "https://news.ycombinator.com/user?id=jashkenas"
-            },
-            "_original_headline": "“This shouldn’t happen”: Inside the virus-hunting nonprofit EcoHealth Alliance",
-            "_original_url": "https://www.vanityfair.com/news/2022/03/the-virus-hunting-nonprofit-at-the-center-of-the-lab-leak-controversy",
             "_sensitive": false,
             "_score": 251
         }
