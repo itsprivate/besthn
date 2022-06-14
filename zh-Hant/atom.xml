@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-13T23:28:41.162Z</updated>
+    <updated>2022-06-14T04:10:27.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[斯坦福大學對社會生活的戰爭
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31732944</id>
+        <link href="https://news.ycombinator.com/item?id=31732944"/>
+        <updated>2022-06-13T23:19:42.000Z</updated>
+        <summary type="html"><![CDATA[Stanford’s war on social life]]></summary>
+        <author>
+            <name>barry-cotter</name>
+            <uri>https://news.ycombinator.com/user?id=barry-cotter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[感謝HN：五個月前，我還覺得自己是個失敗者，現在我反過來了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31732048</id>
+        <link href="https://news.ycombinator.com/item?id=31732048"/>
+        <updated>2022-06-13T21:32:36.000Z</updated>
+        <summary type="html"><![CDATA[Thank HN: Five months ago, I was feeling like a loser, now I am opposite]]></summary>
+        <author>
+            <name>ac2022</name>
+            <uri>https://news.ycombinator.com/user?id=ac2022</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[雞群的照片，由雞群拍攝
 ]]></title>
@@ -6779,28 +6803,6 @@
         <author>
             <name>matiskay</name>
             <uri>https://news.ycombinator.com/user?id=matiskay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[史上最小、最差的HDMI顯示器]]></title>
-        <id>https://news.ycombinator.com/item?id=30869140</id>
-        <link href="https://news.ycombinator.com/item?id=30869140"/>
-        <updated>2022-03-31T16:31:17.000Z</updated>
-        <summary type="html"><![CDATA[The smallest and worst HDMI display ever]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubiquiti與Krebs]]></title>
-        <id>https://news.ycombinator.com/item?id=30866597</id>
-        <link href="https://news.ycombinator.com/item?id=30866597"/>
-        <updated>2022-03-31T12:51:10.000Z</updated>
-        <summary type="html"><![CDATA[Ubiquiti vs. Krebs]]></summary>
-        <author>
-            <name>ghostoftiber</name>
-            <uri>https://news.ycombinator.com/user?id=ghostoftiber</uri>
         </author>
     </entry>
 </feed>
