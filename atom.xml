@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-14T05:43:12.700Z</updated>
+    <updated>2022-06-14T05:59:53.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亚马逊在全国范围内召集警察、解雇工人，试图阻止工会的成立
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31734057</id>
+        <link href="https://news.ycombinator.com/item?id=31734057"/>
+        <updated>2022-06-14T02:12:52.000Z</updated>
+        <summary type="html"><![CDATA[Amazon calls cops, fires workers in attempts to stop unionization nationwide]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的博客的20年
 ]]></title>
@@ -6795,17 +6807,6 @@
         <author>
             <name>spacey</name>
             <uri>https://news.ycombinator.com/user?id=spacey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[偶像的话语]]></title>
-        <id>https://news.ycombinator.com/item?id=30860817</id>
-        <link href="https://news.ycombinator.com/item?id=30860817"/>
-        <updated>2022-03-30T21:10:30.000Z</updated>
-        <summary type="html"><![CDATA[Idol Words]]></summary>
-        <author>
-            <name>andromaton</name>
-            <uri>https://news.ycombinator.com/user?id=andromaton</uri>
         </author>
     </entry>
 </feed>
