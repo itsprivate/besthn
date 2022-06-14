@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31740768",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31740768",
+            "title": "一切都坏了。在Mozilla运送Rust-Minidump\n",
+            "summary": "Everything Is Broken: Shipping Rust-Minidump at Mozilla",
+            "date_modified": "2022-06-14T15:19:44.000Z",
+            "author": {
+                "name": "mthermidor",
+                "url": "https://news.ycombinator.com/user?id=mthermidor"
+            },
+            "_original_headline": "Everything Is Broken: Shipping Rust-Minidump at Mozilla",
+            "_original_url": "https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/",
+            "_sensitive": false,
+            "_score": 209
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31720183",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31720183",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://ofdollarsanddata.com/choose-your-status-game-wisely/",
             "_sensitive": false,
             "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30883015",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30883015",
-            "title": "2022年的数据库",
-            "summary": "A database for 2022",
-            "date_modified": "2022-04-01T20:33:11.000Z",
-            "author": {
-                "name": "tosh",
-                "url": "https://news.ycombinator.com/user?id=tosh"
-            },
-            "_original_headline": "A database for 2022",
-            "_original_url": "https://tailscale.com/blog/database-for-2022/",
-            "_sensitive": false,
-            "_score": 264
         }
     ]
 }
