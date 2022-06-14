@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-14T13:48:15.468Z</updated>
+    <updated>2022-06-14T14:31:46.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[火狐瀏覽器向全球所有用戶推出默認的總Cookie保護功能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31738975</id>
+        <link href="https://news.ycombinator.com/item?id=31738975"/>
+        <updated>2022-06-14T13:16:24.000Z</updated>
+        <summary type="html"><![CDATA[Firefox rolls out Total Cookie Protection by default to all users worldwide]]></summary>
+        <author>
+            <name>BoumTAC</name>
+            <uri>https://news.ycombinator.com/user?id=BoumTAC</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逆向工程 Skifree
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31718756</id>
+        <link href="https://news.ycombinator.com/item?id=31718756"/>
+        <updated>2022-06-12T22:11:15.000Z</updated>
+        <summary type="html"><![CDATA[Reverse engineering Skifree]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在MacOS上重新設計系統偏好設置
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31715738</id>
+        <link href="https://news.ycombinator.com/item?id=31715738"/>
+        <updated>2022-06-12T16:27:48.000Z</updated>
+        <summary type="html"><![CDATA[System Preferences Reimagined on macOS]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase宣佈裁員18%
 ]]></title>
@@ -6778,39 +6814,6 @@
         <author>
             <name>ivank</name>
             <uri>https://news.ycombinator.com/user?id=ivank</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在偷竊我的914之前需要知道的幾件事]]></title>
-        <id>https://news.ycombinator.com/item?id=30878489</id>
-        <link href="https://news.ycombinator.com/item?id=30878489"/>
-        <updated>2022-04-01T14:40:16.000Z</updated>
-        <summary type="html"><![CDATA[A few things to know before stealing my 914]]></summary>
-        <author>
-            <name>garrepi</name>
-            <uri>https://news.ycombinator.com/user?id=garrepi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼雌性動物會進化出如此狂野的生殖器？]]></title>
-        <id>https://news.ycombinator.com/item?id=30874206</id>
-        <link href="https://news.ycombinator.com/item?id=30874206"/>
-        <updated>2022-04-01T01:24:12.000Z</updated>
-        <summary type="html"><![CDATA[Why have female animals evolved such wild genitals?]]></summary>
-        <author>
-            <name>sohkamyung</name>
-            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[線性代數的直觀指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30866244</id>
-        <link href="https://news.ycombinator.com/item?id=30866244"/>
-        <updated>2022-03-31T12:03:52.000Z</updated>
-        <summary type="html"><![CDATA[An Intuitive Guide to Linear Algebra]]></summary>
-        <author>
-            <name>cassepipe</name>
-            <uri>https://news.ycombinator.com/user?id=cassepipe</uri>
         </author>
     </entry>
 </feed>
