@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 14 Jun 2022 19:27:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 19:47:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Coinbase解僱了約1100名員工
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31742590</link>
+            <guid>https://news.ycombinator.com/item?id=31742590</guid>
+            <pubDate>Tue, 14 Jun 2022 17:12:37 GMT</pubDate>
+            <description><![CDATA[Coinbase lays off around 1,100 employees]]></description>
+        </item>
         <item>
             <title><![CDATA[赫茲布萊德攻擊
 ]]></title>
@@ -4415,13 +4423,6 @@
             <guid>https://news.ycombinator.com/item?id=30875837</guid>
             <pubDate>Fri, 01 Apr 2022 06:58:02 GMT</pubDate>
             <description><![CDATA[Postgres wire compatible SQLite proxy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[RFC 9225: 被認為是有害的軟件缺陷]]></title>
-            <link>https://news.ycombinator.com/item?id=30880769</link>
-            <guid>https://news.ycombinator.com/item?id=30880769</guid>
-            <pubDate>Fri, 01 Apr 2022 17:23:49 GMT</pubDate>
-            <description><![CDATA[RFC 9225: Software Defects Considered Harmful]]></description>
         </item>
     </channel>
 </rss>

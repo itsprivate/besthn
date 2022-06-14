@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-14T19:27:55.490Z</updated>
+    <updated>2022-06-14T19:47:13.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Coinbase解雇了约1100名员工
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31742590</id>
+        <link href="https://news.ycombinator.com/item?id=31742590"/>
+        <updated>2022-06-14T17:12:37.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase lays off around 1,100 employees]]></summary>
+        <author>
+            <name>kripy</name>
+            <uri>https://news.ycombinator.com/user?id=kripy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[赫兹布莱德攻击
 ]]></title>
@@ -6811,17 +6823,6 @@
         <author>
             <name>ithkuil</name>
             <uri>https://news.ycombinator.com/user?id=ithkuil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RFC 9225: 被认为是有害的软件缺陷]]></title>
-        <id>https://news.ycombinator.com/item?id=30880769</id>
-        <link href="https://news.ycombinator.com/item?id=30880769"/>
-        <updated>2022-04-01T17:23:49.000Z</updated>
-        <summary type="html"><![CDATA[RFC 9225: Software Defects Considered Harmful]]></summary>
-        <author>
-            <name>wakamoleguy</name>
-            <uri>https://news.ycombinator.com/user?id=wakamoleguy</uri>
         </author>
     </entry>
 </feed>
