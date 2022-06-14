@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 14 Jun 2022 16:50:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 18:40:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[研究人员确认，日本小行星探测器发现23种氨基酸
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31737207</link>
+            <guid>https://news.ycombinator.com/item?id=31737207</guid>
+            <pubDate>Tue, 14 Jun 2022 11:04:16 GMT</pubDate>
+            <description><![CDATA[Japan asteroid probe finds 23 amino acids, researchers confirm]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我们永远不会有足够的软件开发人员(2020年)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31724942</link>
+            <guid>https://news.ycombinator.com/item?id=31724942</guid>
+            <pubDate>Mon, 13 Jun 2022 13:02:31 GMT</pubDate>
+            <description><![CDATA[We will never have enough software developers (2020)]]></description>
+        </item>
         <item>
             <title><![CDATA[人类的注意力已经成为一种商品
 ]]></title>
@@ -4402,20 +4418,6 @@
             <guid>https://news.ycombinator.com/item?id=30880203</guid>
             <pubDate>Fri, 01 Apr 2022 16:40:46 GMT</pubDate>
             <description><![CDATA[Amazon Workers Vote to Unionize in Stunning Win for Organized Labor]]></description>
-        </item>
-        <item>
-            <title><![CDATA[黑客泄露Lichess源代码]]></title>
-            <link>https://news.ycombinator.com/item?id=30877087</link>
-            <guid>https://news.ycombinator.com/item?id=30877087</guid>
-            <pubDate>Fri, 01 Apr 2022 11:24:38 GMT</pubDate>
-            <description><![CDATA[Hackers Leak Lichess Source Code]]></description>
-        </item>
-        <item>
-            <title><![CDATA[无限的Mac。浏览器中即时启动的Quadra]]></title>
-            <link>https://news.ycombinator.com/item?id=30875259</link>
-            <guid>https://news.ycombinator.com/item?id=30875259</guid>
-            <pubDate>Fri, 01 Apr 2022 04:41:57 GMT</pubDate>
-            <description><![CDATA[Infinite Mac: An Instant-Booting Quadra in the Browser]]></description>
         </item>
     </channel>
 </rss>

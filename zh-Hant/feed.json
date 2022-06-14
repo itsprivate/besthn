@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31737207",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31737207",
+            "title": "研究人員確認，日本小行星探測器發現23種氨基酸\n",
+            "summary": "Japan asteroid probe finds 23 amino acids, researchers confirm",
+            "date_modified": "2022-06-14T11:04:16.000Z",
+            "author": {
+                "name": "weare138",
+                "url": "https://news.ycombinator.com/user?id=weare138"
+            },
+            "_original_headline": "Japan asteroid probe finds 23 amino acids, researchers confirm",
+            "_original_url": "https://asia.nikkei.com/Business/Science/Japan-asteroid-probe-finds-23-amino-acids-researchers-confirm",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31724942",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31724942",
+            "title": "我們永遠不會有足夠的軟件開發人員(2020年)\n",
+            "summary": "We will never have enough software developers (2020)",
+            "date_modified": "2022-06-13T13:02:31.000Z",
+            "author": {
+                "name": "mooreds",
+                "url": "https://news.ycombinator.com/user?id=mooreds"
+            },
+            "_original_headline": "We will never have enough software developers (2020)",
+            "_original_url": "https://whoisnnamdi.com/never-enough-developers/",
+            "_sensitive": false,
+            "_score": 215
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31732930",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31732930",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://www.nytimes.com/2022/04/01/technology/amazon-union-staten-island.html",
             "_sensitive": false,
             "_score": 259
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30877087",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30877087",
-            "title": "黑客洩露Lichess源代碼",
-            "summary": "Hackers Leak Lichess Source Code",
-            "date_modified": "2022-04-01T11:24:38.000Z",
-            "author": {
-                "name": "yewenjie",
-                "url": "https://news.ycombinator.com/user?id=yewenjie"
-            },
-            "_original_headline": "Hackers Leak Lichess Source Code",
-            "_original_url": "https://lichess.org/blog/YkYNyREAAB8Amiit/hackers-leak-lichess-source-code",
-            "_sensitive": false,
-            "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30875259",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30875259",
-            "title": "無限的Mac。瀏覽器中即時啟動的Quadra",
-            "summary": "Infinite Mac: An Instant-Booting Quadra in the Browser",
-            "date_modified": "2022-04-01T04:41:57.000Z",
-            "author": {
-                "name": "jf",
-                "url": "https://news.ycombinator.com/user?id=jf"
-            },
-            "_original_headline": "Infinite Mac: An Instant-Booting Quadra in the Browser",
-            "_original_url": "https://blog.persistent.info/2022/03/blog-post.html",
-            "_sensitive": false,
-            "_score": 251
         }
     ]
 }
