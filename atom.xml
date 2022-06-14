@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-14T04:10:27.861Z</updated>
+    <updated>2022-06-14T05:09:44.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31726472</id>
+        <link href="https://news.ycombinator.com/item?id=31726472"/>
+        <updated>2022-06-13T14:55:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tuc – When cut doesn’t cut it]]></summary>
+        <author>
+            <name>riquito</name>
+            <uri>https://news.ycombinator.com/user?id=riquito</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推动友谊的力量
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31713720</id>
+        <link href="https://news.ycombinator.com/item?id=31713720"/>
+        <updated>2022-06-12T11:31:37.000Z</updated>
+        <summary type="html"><![CDATA[Forces that fuel friendship]]></summary>
+        <author>
+            <name>throw0101c</name>
+            <uri>https://news.ycombinator.com/user?id=throw0101c</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[斯坦福大学对社会生活的战争
 ]]></title>
@@ -6781,28 +6805,6 @@
         <author>
             <name>dharmatech</name>
             <uri>https://news.ycombinator.com/user?id=dharmatech</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是triald，为什么它占用这么多的磁盘空间？]]></title>
-        <id>https://news.ycombinator.com/item?id=30864613</id>
-        <link href="https://news.ycombinator.com/item?id=30864613"/>
-        <updated>2022-03-31T07:05:43.000Z</updated>
-        <summary type="html"><![CDATA[What is triald and why is it taking so much disk space?]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是一个防骗专家，我被骗了]]></title>
-        <id>https://news.ycombinator.com/item?id=30869427</id>
-        <link href="https://news.ycombinator.com/item?id=30869427"/>
-        <updated>2022-03-31T16:50:45.000Z</updated>
-        <summary type="html"><![CDATA[I'm a scam prevention expert and I got scammed]]></summary>
-        <author>
-            <name>matiskay</name>
-            <uri>https://news.ycombinator.com/user?id=matiskay</uri>
         </author>
     </entry>
 </feed>
