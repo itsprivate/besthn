@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 14 Jun 2022 05:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 05:43:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我的博客的20年
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31727464</link>
+            <guid>https://news.ycombinator.com/item?id=31727464</guid>
+            <pubDate>Mon, 13 Jun 2022 16:09:15 GMT</pubDate>
+            <description><![CDATA[Twenty years of my blog]]></description>
+        </item>
         <item>
             <title><![CDATA[
 ]]></title>
@@ -4398,13 +4406,6 @@
             <guid>https://news.ycombinator.com/item?id=30860817</guid>
             <pubDate>Wed, 30 Mar 2022 21:10:30 GMT</pubDate>
             <description><![CDATA[Idol Words]]></description>
-        </item>
-        <item>
-            <title><![CDATA[非C類操作系統的狂野世界]]></title>
-            <link>https://news.ycombinator.com/item?id=30851955</link>
-            <guid>https://news.ycombinator.com/item?id=30851955</guid>
-            <pubDate>Wed, 30 Mar 2022 06:07:34 GMT</pubDate>
-            <description><![CDATA[The wild world of non-C operating systems]]></description>
         </item>
     </channel>
 </rss>

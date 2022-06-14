@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-14T05:09:44.503Z</updated>
+    <updated>2022-06-14T05:43:12.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的博客的20年
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31727464</id>
+        <link href="https://news.ycombinator.com/item?id=31727464"/>
+        <updated>2022-06-13T16:09:15.000Z</updated>
+        <summary type="html"><![CDATA[Twenty years of my blog]]></summary>
+        <author>
+            <name>simonw</name>
+            <uri>https://news.ycombinator.com/user?id=simonw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[
 ]]></title>
@@ -6794,17 +6806,6 @@
         <author>
             <name>andromaton</name>
             <uri>https://news.ycombinator.com/user?id=andromaton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[非C类操作系统的狂野世界]]></title>
-        <id>https://news.ycombinator.com/item?id=30851955</id>
-        <link href="https://news.ycombinator.com/item?id=30851955"/>
-        <updated>2022-03-30T06:07:34.000Z</updated>
-        <summary type="html"><![CDATA[The wild world of non-C operating systems]]></summary>
-        <author>
-            <name>dharmatech</name>
-            <uri>https://news.ycombinator.com/user?id=dharmatech</uri>
         </author>
     </entry>
 </feed>
