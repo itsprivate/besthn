@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-14T15:35:10.396Z</updated>
+    <updated>2022-06-14T16:50:37.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人類的注意力已經成為一種商品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31732930</id>
+        <link href="https://news.ycombinator.com/item?id=31732930"/>
+        <updated>2022-06-13T23:18:03.000Z</updated>
+        <summary type="html"><![CDATA[Human attention has become a commodity]]></summary>
+        <author>
+            <name>mebassett</name>
+            <uri>https://news.ycombinator.com/user?id=mebassett</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[潛入GCC內部
 ]]></title>
@@ -6804,17 +6816,6 @@
         <author>
             <name>jf</name>
             <uri>https://news.ycombinator.com/user?id=jf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gov.uk設計系統現已上線]]></title>
-        <id>https://news.ycombinator.com/item?id=30877049</id>
-        <link href="https://news.ycombinator.com/item?id=30877049"/>
-        <updated>2022-04-01T11:16:44.000Z</updated>
-        <summary type="html"><![CDATA[The Gov.uk Design System is now live]]></summary>
-        <author>
-            <name>open-source-ux</name>
-            <uri>https://news.ycombinator.com/user?id=open-source-ux</uri>
         </author>
     </entry>
 </feed>

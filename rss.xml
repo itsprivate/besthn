@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 14 Jun 2022 15:35:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 16:50:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[人类的注意力已经成为一种商品
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31732930</link>
+            <guid>https://news.ycombinator.com/item?id=31732930</guid>
+            <pubDate>Mon, 13 Jun 2022 23:18:03 GMT</pubDate>
+            <description><![CDATA[Human attention has become a commodity]]></description>
+        </item>
         <item>
             <title><![CDATA[潜入GCC内部
 ]]></title>
@@ -4408,13 +4416,6 @@
             <guid>https://news.ycombinator.com/item?id=30875259</guid>
             <pubDate>Fri, 01 Apr 2022 04:41:57 GMT</pubDate>
             <description><![CDATA[Infinite Mac: An Instant-Booting Quadra in the Browser]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gov.uk设计系统现已上线]]></title>
-            <link>https://news.ycombinator.com/item?id=30877049</link>
-            <guid>https://news.ycombinator.com/item?id=30877049</guid>
-            <pubDate>Fri, 01 Apr 2022 11:16:44 GMT</pubDate>
-            <description><![CDATA[The Gov.uk Design System is now live]]></description>
         </item>
     </channel>
 </rss>
