@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 14 Jun 2022 14:31:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 15:35:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[潛入GCC內部
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31731145</link>
+            <guid>https://news.ycombinator.com/item?id=31731145</guid>
+            <pubDate>Mon, 13 Jun 2022 20:12:51 GMT</pubDate>
+            <description><![CDATA[Diving into GCC Internals]]></description>
+        </item>
         <item>
             <title><![CDATA[火狐瀏覽器向全球所有用戶推出默認的總Cookie保護功能
 ]]></title>
@@ -4407,13 +4415,6 @@
             <guid>https://news.ycombinator.com/item?id=30877049</guid>
             <pubDate>Fri, 01 Apr 2022 11:16:44 GMT</pubDate>
             <description><![CDATA[The Gov.uk Design System is now live]]></description>
-        </item>
-        <item>
-            <title><![CDATA[迫害：沙盒逃亡]]></title>
-            <link>https://news.ycombinator.com/item?id=30868724</link>
-            <guid>https://news.ycombinator.com/item?id=30868724</guid>
-            <pubDate>Thu, 31 Mar 2022 16:05:43 GMT</pubDate>
-            <description><![CDATA[FORCEDENTRY: Sandbox Escape]]></description>
         </item>
     </channel>
 </rss>
