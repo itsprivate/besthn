@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31738029",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31738029",
+            "title": "Coinbase宣佈裁員18%\n",
+            "summary": "Coinbase Announces 18% Layoffs",
+            "date_modified": "2022-06-14T12:13:53.000Z",
+            "author": {
+                "name": "npalli",
+                "url": "https://news.ycombinator.com/user?id=npalli"
+            },
+            "_original_headline": "Coinbase Announces 18% Layoffs",
+            "_original_url": "https://blog.coinbase.com/a-message-from-coinbase-ceo-and-cofounder-brian-armstrong-578d76eedb12",
+            "_sensitive": false,
+            "_score": 330
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31736919",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31736919",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://betterexplained.com/articles/linear-algebra-guide/",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30874256",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30874256",
-            "title": "Linux的筆和平板電腦",
-            "summary": "Pens and Tablets for Linux",
-            "date_modified": "2022-04-01T01:34:14.000Z",
-            "author": {
-                "name": "tux1968",
-                "url": "https://news.ycombinator.com/user?id=tux1968"
-            },
-            "_original_headline": "Pens and Tablets for Linux",
-            "_original_url": "https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/",
-            "_sensitive": false,
-            "_score": 251
         }
     ]
 }
