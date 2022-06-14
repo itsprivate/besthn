@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31743110",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31743110",
+            "title": "赫兹布莱德攻击\n",
+            "summary": "Hertzbleed Attack",
+            "date_modified": "2022-06-14T17:43:58.000Z",
+            "author": {
+                "name": "arkadiyt",
+                "url": "https://news.ycombinator.com/user?id=arkadiyt"
+            },
+            "_original_headline": "Hertzbleed Attack",
+            "_original_url": "https://www.hertzbleed.com/",
+            "_sensitive": false,
+            "_score": 278
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31741589",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31741589",
+            "title": "Clarus在macOS Ventura中回归家园\n",
+            "summary": "Clarus returns home in macOS Ventura",
+            "date_modified": "2022-06-14T16:16:06.000Z",
+            "author": {
+                "name": "shadowfacts",
+                "url": "https://news.ycombinator.com/user?id=shadowfacts"
+            },
+            "_original_headline": "Clarus returns home in macOS Ventura",
+            "_original_url": "https://shadowfacts.net/2022/clarus/",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31740902",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31740902",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://www.rfc-editor.org/rfc/rfc9225.html",
             "_sensitive": false,
             "_score": 258
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30876490",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30876490",
-            "title": "英国推特用户被判处150小时的社区服务",
-            "summary": "Twitter user sentenced to 150 hours of community service in UK",
-            "date_modified": "2022-04-01T09:28:45.000Z",
-            "author": {
-                "name": "FeaturelessBug",
-                "url": "https://news.ycombinator.com/user?id=FeaturelessBug"
-            },
-            "_original_headline": "Twitter user sentenced to 150 hours of community service in UK",
-            "_original_url": "https://www.theverge.com/2022/3/31/23004339/uk-twitter-user-sentenced-grossly-offensive-tweet-tom-moore-joseph-kelly",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30879327",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30879327",
-            "title": "一个纯文本文件格式的工作日程和检查清单",
-            "summary": "Show HN: A plain-text file format for todos and check lists",
-            "date_modified": "2022-04-01T15:39:56.000Z",
-            "author": {
-                "name": "jotaen",
-                "url": "https://news.ycombinator.com/user?id=jotaen"
-            },
-            "_original_headline": "Show HN: A plain-text file format for todos and check lists",
-            "_original_url": "https://news.ycombinator.com/item?id=30879327",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }

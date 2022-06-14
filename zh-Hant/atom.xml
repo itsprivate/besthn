@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-14T18:59:12.209Z</updated>
+    <updated>2022-06-14T19:27:55.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[赫茲布萊德攻擊
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31743110</id>
+        <link href="https://news.ycombinator.com/item?id=31743110"/>
+        <updated>2022-06-14T17:43:58.000Z</updated>
+        <summary type="html"><![CDATA[Hertzbleed Attack]]></summary>
+        <author>
+            <name>arkadiyt</name>
+            <uri>https://news.ycombinator.com/user?id=arkadiyt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clarus在macOS Ventura中迴歸家園
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31741589</id>
+        <link href="https://news.ycombinator.com/item?id=31741589"/>
+        <updated>2022-06-14T16:16:06.000Z</updated>
+        <summary type="html"><![CDATA[Clarus returns home in macOS Ventura]]></summary>
+        <author>
+            <name>shadowfacts</name>
+            <uri>https://news.ycombinator.com/user?id=shadowfacts</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grafana發佈OnCall開源項目
 ]]></title>
@@ -6798,28 +6822,6 @@
         <author>
             <name>wakamoleguy</name>
             <uri>https://news.ycombinator.com/user?id=wakamoleguy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英國推特用戶被判處150小時的社區服務]]></title>
-        <id>https://news.ycombinator.com/item?id=30876490</id>
-        <link href="https://news.ycombinator.com/item?id=30876490"/>
-        <updated>2022-04-01T09:28:45.000Z</updated>
-        <summary type="html"><![CDATA[Twitter user sentenced to 150 hours of community service in UK]]></summary>
-        <author>
-            <name>FeaturelessBug</name>
-            <uri>https://news.ycombinator.com/user?id=FeaturelessBug</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個純文本文件格式的工作日程和檢查清單]]></title>
-        <id>https://news.ycombinator.com/item?id=30879327</id>
-        <link href="https://news.ycombinator.com/item?id=30879327"/>
-        <updated>2022-04-01T15:39:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A plain-text file format for todos and check lists]]></summary>
-        <author>
-            <name>jotaen</name>
-            <uri>https://news.ycombinator.com/user?id=jotaen</uri>
         </author>
     </entry>
 </feed>
