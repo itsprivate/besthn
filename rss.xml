@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 15 Jun 2022 20:34:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 21:02:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我的副业摇滚 - 分享和发现副业项目
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31741018</link>
+            <guid>https://news.ycombinator.com/item?id=31741018</guid>
+            <pubDate>Tue, 14 Jun 2022 15:35:13 GMT</pubDate>
+            <description><![CDATA[Show HN: My Side Project Rocks – Share and discover side projects]]></description>
+        </item>
         <item>
             <title><![CDATA[成长时期的价格冲击使生活中的消费出现疤痕
 ]]></title>
@@ -4434,13 +4442,6 @@
             <guid>https://news.ycombinator.com/item?id=30896125</guid>
             <pubDate>Sun, 03 Apr 2022 11:41:06 GMT</pubDate>
             <description><![CDATA[Proposed EU rules would require clothes to last longer and be easier to repair]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Nginx、Letsencrypt和SSH反向隧道推出自己的Ngrok]]></title>
-            <link>https://news.ycombinator.com/item?id=30891494</link>
-            <guid>https://news.ycombinator.com/item?id=30891494</guid>
-            <pubDate>Sat, 02 Apr 2022 20:41:17 GMT</pubDate>
-            <description><![CDATA[Roll your own Ngrok with Nginx, Letsencrypt, and SSH reverse tunnelling]]></description>
         </item>
     </channel>
 </rss>
