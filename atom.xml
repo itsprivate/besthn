@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-15T18:56:16.291Z</updated>
+    <updated>2022-06-15T19:25:47.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[OCaml 5.0 Alpha发布
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31751017</id>
+        <link href="https://news.ycombinator.com/item?id=31751017"/>
+        <updated>2022-06-15T10:08:36.000Z</updated>
+        <summary type="html"><![CDATA[OCaml 5.0 Alpha Release]]></summary>
+        <author>
+            <name>momentoftop</name>
+            <uri>https://news.ycombinator.com/user?id=momentoftop</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个网站，显示你可以匿名工作的工作岗位
 ]]></title>
@@ -6826,17 +6838,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何远离谷歌]]></title>
-        <id>https://news.ycombinator.com/item?id=30859680</id>
-        <link href="https://news.ycombinator.com/item?id=30859680"/>
-        <updated>2022-03-30T19:21:23.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How to move away from Google]]></summary>
-        <author>
-            <name>rocode2</name>
-            <uri>https://news.ycombinator.com/user?id=rocode2</uri>
         </author>
     </entry>
 </feed>
