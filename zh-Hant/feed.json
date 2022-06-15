@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31750560",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31750560",
+            "title": "快速提示。啟用Sudo的Touch ID\n",
+            "summary": "Quick Tip: Enable Touch ID for Sudo",
+            "date_modified": "2022-06-15T08:48:42.000Z",
+            "author": {
+                "name": "polycaster",
+                "url": "https://news.ycombinator.com/user?id=polycaster"
+            },
+            "_original_headline": "Quick Tip: Enable Touch ID for Sudo",
+            "_original_url": "https://sixcolors.com/post/2020/11/quick-tip-enable-touch-id-for-sudo/",
+            "_sensitive": false,
+            "_score": 208
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31748553",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31748553",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.bloomberg.com/news/articles/2022-04-01/employees-are-returning-to-office-post-covid-just-to-sit-on-zoom-calls",
             "_sensitive": false,
             "_score": 254
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30892811",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30892811",
-            "title": "處理音樂時的可怕的邊緣案例",
-            "summary": "Horrible edge cases when dealing with music",
-            "date_modified": "2022-04-03T00:04:17.000Z",
-            "author": {
-                "name": "pabs3",
-                "url": "https://news.ycombinator.com/user?id=pabs3"
-            },
-            "_original_headline": "Horrible edge cases when dealing with music",
-            "_original_url": "https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html",
-            "_sensitive": false,
-            "_score": 252
         }
     ]
 }

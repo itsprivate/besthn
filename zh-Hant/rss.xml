@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 15 Jun 2022 10:36:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 13:57:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[快速提示。啟用Sudo的Touch ID
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31750560</link>
+            <guid>https://news.ycombinator.com/item?id=31750560</guid>
+            <pubDate>Wed, 15 Jun 2022 08:48:42 GMT</pubDate>
+            <description><![CDATA[Quick Tip: Enable Touch ID for Sudo]]></description>
+        </item>
         <item>
             <title><![CDATA[如果我不在了，就用小抄吧
 ]]></title>
@@ -4424,13 +4432,6 @@
             <guid>https://news.ycombinator.com/item?id=30892485</guid>
             <pubDate>Sat, 02 Apr 2022 23:07:38 GMT</pubDate>
             <description><![CDATA[Employees are returning to the office to sit on zoom calls]]></description>
-        </item>
-        <item>
-            <title><![CDATA[處理音樂時的可怕的邊緣案例]]></title>
-            <link>https://news.ycombinator.com/item?id=30892811</link>
-            <guid>https://news.ycombinator.com/item?id=30892811</guid>
-            <pubDate>Sun, 03 Apr 2022 00:04:17 GMT</pubDate>
-            <description><![CDATA[Horrible edge cases when dealing with music]]></description>
         </item>
     </channel>
 </rss>
