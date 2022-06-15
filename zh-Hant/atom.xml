@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-15T19:25:47.992Z</updated>
+    <updated>2022-06-15T19:45:00.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美聯儲將利率提高0.75
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31756837</id>
+        <link href="https://news.ycombinator.com/item?id=31756837"/>
+        <updated>2022-06-15T18:04:55.000Z</updated>
+        <summary type="html"><![CDATA[Federal Reserve raises rates by 0.75%]]></summary>
+        <author>
+            <name>no_wizard</name>
+            <uri>https://news.ycombinator.com/user?id=no_wizard</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為了綠色的未來，核電又回到了桌面上
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31753566</id>
+        <link href="https://news.ycombinator.com/item?id=31753566"/>
+        <updated>2022-06-15T14:38:52.000Z</updated>
+        <summary type="html"><![CDATA[Nuclear is back on the table for a green future]]></summary>
+        <author>
+            <name>gumby</name>
+            <uri>https://news.ycombinator.com/user?id=gumby</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OCaml 5.0 Alpha發佈
 ]]></title>
@@ -6816,28 +6840,6 @@
         <author>
             <name>elsewhen</name>
             <uri>https://news.ycombinator.com/user?id=elsewhen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mataroa博客 - 極簡主義者的裸體博客平臺]]></title>
-        <id>https://news.ycombinator.com/item?id=30896661</id>
-        <link href="https://news.ycombinator.com/item?id=30896661"/>
-        <updated>2022-04-03T13:15:56.000Z</updated>
-        <summary type="html"><![CDATA[Mataroa blog – Naked blogging platform for minimalists]]></summary>
-        <author>
-            <name>notmuffin</name>
-            <uri>https://news.ycombinator.com/user?id=notmuffin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你試圖在Windows上下載和安裝Firefox，會發生什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30896403</id>
-        <link href="https://news.ycombinator.com/item?id=30896403"/>
-        <updated>2022-04-03T12:40:15.000Z</updated>
-        <summary type="html"><![CDATA[What happens if you try to download and install Firefox on Windows]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>

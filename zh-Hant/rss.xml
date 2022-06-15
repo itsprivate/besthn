@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 15 Jun 2022 19:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 19:45:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美聯儲將利率提高0.75
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31756837</link>
+            <guid>https://news.ycombinator.com/item?id=31756837</guid>
+            <pubDate>Wed, 15 Jun 2022 18:04:55 GMT</pubDate>
+            <description><![CDATA[Federal Reserve raises rates by 0.75%]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為了綠色的未來，核電又回到了桌面上
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31753566</link>
+            <guid>https://news.ycombinator.com/item?id=31753566</guid>
+            <pubDate>Wed, 15 Jun 2022 14:38:52 GMT</pubDate>
+            <description><![CDATA[Nuclear is back on the table for a green future]]></description>
+        </item>
         <item>
             <title><![CDATA[OCaml 5.0 Alpha發佈
 ]]></title>
@@ -4424,20 +4440,6 @@
             <guid>https://news.ycombinator.com/item?id=30897937</guid>
             <pubDate>Sun, 03 Apr 2022 16:04:48 GMT</pubDate>
             <description><![CDATA[Young women earn more than young men in several U.S. cities]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mataroa博客 - 極簡主義者的裸體博客平臺]]></title>
-            <link>https://news.ycombinator.com/item?id=30896661</link>
-            <guid>https://news.ycombinator.com/item?id=30896661</guid>
-            <pubDate>Sun, 03 Apr 2022 13:15:56 GMT</pubDate>
-            <description><![CDATA[Mataroa blog – Naked blogging platform for minimalists]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果你試圖在Windows上下載和安裝Firefox，會發生什麼？]]></title>
-            <link>https://news.ycombinator.com/item?id=30896403</link>
-            <guid>https://news.ycombinator.com/item?id=30896403</guid>
-            <pubDate>Sun, 03 Apr 2022 12:40:15 GMT</pubDate>
-            <description><![CDATA[What happens if you try to download and install Firefox on Windows]]></description>
         </item>
     </channel>
 </rss>

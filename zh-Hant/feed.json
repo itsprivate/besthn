@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31756837",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31756837",
+            "title": "美聯儲將利率提高0.75\n",
+            "summary": "Federal Reserve raises rates by 0.75%",
+            "date_modified": "2022-06-15T18:04:55.000Z",
+            "author": {
+                "name": "no_wizard",
+                "url": "https://news.ycombinator.com/user?id=no_wizard"
+            },
+            "_original_headline": "Federal Reserve raises rates by 0.75%",
+            "_original_url": "https://www.usatoday.com/story/money/2022/06/15/fed-interest-rates-hike/7631195001/",
+            "_sensitive": false,
+            "_score": 228
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31753566",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31753566",
+            "title": "為了綠色的未來，核電又回到了桌面上\n",
+            "summary": "Nuclear is back on the table for a green future",
+            "date_modified": "2022-06-15T14:38:52.000Z",
+            "author": {
+                "name": "gumby",
+                "url": "https://news.ycombinator.com/user?id=gumby"
+            },
+            "_original_headline": "Nuclear is back on the table for a green future",
+            "_original_url": "https://www.nytimes.com/2022/06/15/business/dealbook-dc-climate-task-force.html",
+            "_sensitive": false,
+            "_score": 205
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31751017",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31751017",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://www.pewresearch.org/fact-tank/2022/03/28/young-women-are-out-earning-young-men-in-several-u-s-cities/",
             "_sensitive": false,
             "_score": 266
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30896661",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30896661",
-            "title": "Mataroa博客 - 極簡主義者的裸體博客平臺",
-            "summary": "Mataroa blog – Naked blogging platform for minimalists",
-            "date_modified": "2022-04-03T13:15:56.000Z",
-            "author": {
-                "name": "notmuffin",
-                "url": "https://news.ycombinator.com/user?id=notmuffin"
-            },
-            "_original_headline": "Mataroa blog – Naked blogging platform for minimalists",
-            "_original_url": "https://mataroa.blog/",
-            "_sensitive": false,
-            "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30896403",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30896403",
-            "title": "如果你試圖在Windows上下載和安裝Firefox，會發生什麼？",
-            "summary": "What happens if you try to download and install Firefox on Windows",
-            "date_modified": "2022-04-03T12:40:15.000Z",
-            "author": {
-                "name": "tosh",
-                "url": "https://news.ycombinator.com/user?id=tosh"
-            },
-            "_original_headline": "What happens if you try to download and install Firefox on Windows",
-            "_original_url": "https://twitter.com/plexus/status/1510568329303445507",
-            "_sensitive": false,
-            "_score": 260
         }
     ]
 }
