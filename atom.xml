@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-15T21:02:46.272Z</updated>
+    <updated>2022-06-15T21:27:25.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[普渡大学在美国启动综合半导体学位课程
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31756704</id>
+        <link href="https://news.ycombinator.com/item?id=31756704"/>
+        <updated>2022-06-15T17:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Purdue Starts Comprehensive Semiconductor Degree Programs in U.S.]]></summary>
+        <author>
+            <name>mindcrime</name>
+            <uri>https://news.ycombinator.com/user?id=mindcrime</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的副业摇滚 - 分享和发现副业项目
 ]]></title>
@@ -6831,17 +6843,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拟议的欧盟规则将要求衣服的寿命更长，更容易修理]]></title>
-        <id>https://news.ycombinator.com/item?id=30896125</id>
-        <link href="https://news.ycombinator.com/item?id=30896125"/>
-        <updated>2022-04-03T11:41:06.000Z</updated>
-        <summary type="html"><![CDATA[Proposed EU rules would require clothes to last longer and be easier to repair]]></summary>
-        <author>
-            <name>0x54MUR41</name>
-            <uri>https://news.ycombinator.com/user?id=0x54MUR41</uri>
         </author>
     </entry>
 </feed>

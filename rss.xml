@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 15 Jun 2022 21:02:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 21:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[普渡大学在美国启动综合半导体学位课程
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31756704</link>
+            <guid>https://news.ycombinator.com/item?id=31756704</guid>
+            <pubDate>Wed, 15 Jun 2022 17:56:03 GMT</pubDate>
+            <description><![CDATA[Purdue Starts Comprehensive Semiconductor Degree Programs in U.S.]]></description>
+        </item>
         <item>
             <title><![CDATA[我的副业摇滚 - 分享和发现副业项目
 ]]></title>
@@ -4435,13 +4443,6 @@
             <guid>https://news.ycombinator.com/item?id=30898803</guid>
             <pubDate>Sun, 03 Apr 2022 17:41:14 GMT</pubDate>
             <description><![CDATA[A project with a single 11,000-line code file]]></description>
-        </item>
-        <item>
-            <title><![CDATA[拟议的欧盟规则将要求衣服的寿命更长，更容易修理]]></title>
-            <link>https://news.ycombinator.com/item?id=30896125</link>
-            <guid>https://news.ycombinator.com/item?id=30896125</guid>
-            <pubDate>Sun, 03 Apr 2022 11:41:06 GMT</pubDate>
-            <description><![CDATA[Proposed EU rules would require clothes to last longer and be easier to repair]]></description>
         </item>
     </channel>
 </rss>
