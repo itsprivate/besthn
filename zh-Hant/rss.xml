@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 15 Jun 2022 07:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 09:48:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[休斯頓將2.5萬人從街頭搬到自己的家中
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31741021</link>
+            <guid>https://news.ycombinator.com/item?id=31741021</guid>
+            <pubDate>Tue, 14 Jun 2022 15:35:30 GMT</pubDate>
+            <description><![CDATA[Houston moved 25k people from the streets into homes of their own]]></description>
+        </item>
         <item>
             <title><![CDATA[尋覓集群殺手Erlang的漏洞
 ]]></title>
@@ -4422,13 +4430,6 @@
             <guid>https://news.ycombinator.com/item?id=30893349</guid>
             <pubDate>Sun, 03 Apr 2022 01:28:26 GMT</pubDate>
             <description><![CDATA[Vizio TVs are now showing banner ads over live TV]]></description>
-        </item>
-        <item>
-            <title><![CDATA[好吧，朋友，讓我們建造一些經濟適用房吧。]]></title>
-            <link>https://news.ycombinator.com/item?id=30891217</link>
-            <guid>https://news.ycombinator.com/item?id=30891217</guid>
-            <pubDate>Sat, 02 Apr 2022 20:01:03 GMT</pubDate>
-            <description><![CDATA[Alright, amigo, let's build some affordable housing]]></description>
         </item>
     </channel>
 </rss>

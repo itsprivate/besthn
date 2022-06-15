@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-15T07:47:21.831Z</updated>
+    <updated>2022-06-15T09:48:57.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[休斯頓將2.5萬人從街頭搬到自己的家中
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31741021</id>
+        <link href="https://news.ycombinator.com/item?id=31741021"/>
+        <updated>2022-06-14T15:35:30.000Z</updated>
+        <summary type="html"><![CDATA[Houston moved 25k people from the streets into homes of their own]]></summary>
+        <author>
+            <name>js2</name>
+            <uri>https://news.ycombinator.com/user?id=js2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尋覓集群殺手Erlang的漏洞
 ]]></title>
@@ -6818,17 +6830,6 @@
         <author>
             <name>woldemariam</name>
             <uri>https://news.ycombinator.com/user?id=woldemariam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好吧，朋友，讓我們建造一些經濟適用房吧。]]></title>
-        <id>https://news.ycombinator.com/item?id=30891217</id>
-        <link href="https://news.ycombinator.com/item?id=30891217"/>
-        <updated>2022-04-02T20:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Alright, amigo, let's build some affordable housing]]></summary>
-        <author>
-            <name>rmason</name>
-            <uri>https://news.ycombinator.com/user?id=rmason</uri>
         </author>
     </entry>
 </feed>

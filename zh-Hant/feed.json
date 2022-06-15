@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31741021",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31741021",
+            "title": "休斯頓將2.5萬人從街頭搬到自己的家中\n",
+            "summary": "Houston moved 25k people from the streets into homes of their own",
+            "date_modified": "2022-06-14T15:35:30.000Z",
+            "author": {
+                "name": "js2",
+                "url": "https://news.ycombinator.com/user?id=js2"
+            },
+            "_original_headline": "Houston moved 25k people from the streets into homes of their own",
+            "_original_url": "https://www.nytimes.com/2022/06/14/headway/houston-homeless-people.html",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31746090",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31746090",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.flatpanelshd.com/news.php?subaction=showfull&id=1648829114",
             "_sensitive": false,
             "_score": 279
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30891217",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30891217",
-            "title": "好吧，朋友，讓我們建造一些經濟適用房吧。",
-            "summary": "Alright, amigo, let's build some affordable housing",
-            "date_modified": "2022-04-02T20:01:03.000Z",
-            "author": {
-                "name": "rmason",
-                "url": "https://news.ycombinator.com/user?id=rmason"
-            },
-            "_original_headline": "Alright, amigo, let's build some affordable housing",
-            "_original_url": "https://twitter.com/mu2myoc/status/1510262323176374278",
-            "_sensitive": false,
-            "_score": 254
         }
     ]
 }
