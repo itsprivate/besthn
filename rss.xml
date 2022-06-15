@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 15 Jun 2022 13:57:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 14:03:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[苹果和MLS将从2023年开始连续10年播放MLS的所有比赛
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31741421</link>
+            <guid>https://news.ycombinator.com/item?id=31741421</guid>
+            <pubDate>Tue, 14 Jun 2022 16:05:34 GMT</pubDate>
+            <description><![CDATA[Apple and MLS to present all MLS matches for 10 years, beginning in 2023]]></description>
+        </item>
         <item>
             <title><![CDATA[快速提示。启用Sudo的Touch ID
 ]]></title>
@@ -4425,13 +4433,6 @@
             <guid>https://news.ycombinator.com/item?id=30891626</guid>
             <pubDate>Sat, 02 Apr 2022 20:58:55 GMT</pubDate>
             <description><![CDATA[Battleship]]></description>
-        </item>
-        <item>
-            <title><![CDATA[员工正在返回办公室坐着放大电话]]></title>
-            <link>https://news.ycombinator.com/item?id=30892485</link>
-            <guid>https://news.ycombinator.com/item?id=30892485</guid>
-            <pubDate>Sat, 02 Apr 2022 23:07:38 GMT</pubDate>
-            <description><![CDATA[Employees are returning to the office to sit on zoom calls]]></description>
         </item>
     </channel>
 </rss>
