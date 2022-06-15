@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 15 Jun 2022 14:03:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 14:48:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[掌上电脑系统开发商在发布20年后发布经典游戏的源代码
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31748248</link>
+            <guid>https://news.ycombinator.com/item?id=31748248</guid>
+            <pubDate>Wed, 15 Jun 2022 01:52:41 GMT</pubDate>
+            <description><![CDATA[Palm OS developer releases source to classic games, 20 years after release]]></description>
+        </item>
         <item>
             <title><![CDATA[苹果和MLS将从2023年开始连续10年播放MLS的所有比赛
 ]]></title>
@@ -4426,13 +4434,6 @@
             <guid>https://news.ycombinator.com/item?id=30878761</guid>
             <pubDate>Fri, 01 Apr 2022 15:02:05 GMT</pubDate>
             <description><![CDATA[Ask HN: Who is hiring? (April 2022)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[战舰]]></title>
-            <link>https://news.ycombinator.com/item?id=30891626</link>
-            <guid>https://news.ycombinator.com/item?id=30891626</guid>
-            <pubDate>Sat, 02 Apr 2022 20:58:55 GMT</pubDate>
-            <description><![CDATA[Battleship]]></description>
         </item>
     </channel>
 </rss>

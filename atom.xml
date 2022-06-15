@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-15T14:03:59.684Z</updated>
+    <updated>2022-06-15T14:48:44.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[掌上电脑系统开发商在发布20年后发布经典游戏的源代码
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31748248</id>
+        <link href="https://news.ycombinator.com/item?id=31748248"/>
+        <updated>2022-06-15T01:52:41.000Z</updated>
+        <summary type="html"><![CDATA[Palm OS developer releases source to classic games, 20 years after release]]></summary>
+        <author>
+            <name>markus_zhang</name>
+            <uri>https://news.ycombinator.com/user?id=markus_zhang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果和MLS将从2023年开始连续10年播放MLS的所有比赛
 ]]></title>
@@ -6822,17 +6834,6 @@
         <author>
             <name>whoishiring</name>
             <uri>https://news.ycombinator.com/user?id=whoishiring</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[战舰]]></title>
-        <id>https://news.ycombinator.com/item?id=30891626</id>
-        <link href="https://news.ycombinator.com/item?id=30891626"/>
-        <updated>2022-04-02T20:58:55.000Z</updated>
-        <summary type="html"><![CDATA[Battleship]]></summary>
-        <author>
-            <name>signa11</name>
-            <uri>https://news.ycombinator.com/user?id=signa11</uri>
         </author>
     </entry>
 </feed>
