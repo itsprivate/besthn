@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-15T15:56:55.977Z</updated>
+    <updated>2022-06-15T16:48:05.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Internet Explorer 11已經退役，正式停止支持
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31753475</id>
+        <link href="https://news.ycombinator.com/item?id=31753475"/>
+        <updated>2022-06-15T14:33:31.000Z</updated>
+        <summary type="html"><![CDATA[Internet Explorer 11 has retired and is officially out of support]]></summary>
+        <author>
+            <name>alexobenauer</name>
+            <uri>https://news.ycombinator.com/user?id=alexobenauer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[希格斯粒子出現十年後，物理學家面臨著找不到其他東西的噩夢
 ]]></title>
@@ -6824,17 +6836,6 @@
         <author>
             <name>LordAtlas</name>
             <uri>https://news.ycombinator.com/user?id=LordAtlas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿爾比尼給涅槃樂隊投球："我希望能像水管工一樣得到報酬"（1992年）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30892081</id>
-        <link href="https://news.ycombinator.com/item?id=30892081"/>
-        <updated>2022-04-02T22:06:15.000Z</updated>
-        <summary type="html"><![CDATA[Albini pitching Nirvana: “I would like to be paid like a plumber” (1992)]]></summary>
-        <author>
-            <name>sanj</name>
-            <uri>https://news.ycombinator.com/user?id=sanj</uri>
         </author>
     </entry>
 </feed>
