@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31751298",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31751298",
+            "title": "成长时期的价格冲击使生活中的消费出现疤痕\n",
+            "summary": "Price shocks in formative years scar consumption for life",
+            "date_modified": "2022-06-15T11:02:56.000Z",
+            "author": {
+                "name": "NickRandom",
+                "url": "https://news.ycombinator.com/user?id=NickRandom"
+            },
+            "_original_headline": "Price shocks in formative years scar consumption for life",
+            "_original_url": "https://knowledge.wharton.upenn.edu/article/how-price-shocks-in-formative-years-scar-consumption-for-life/",
+            "_sensitive": false,
+            "_score": 209
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31756837",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31756837",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://jerrington.me/posts/2019-01-29-self-hosted-ngrok.html",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30897937",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30897937",
-            "title": "美国几个城市的年轻女性收入高于年轻男性",
-            "summary": "Young women earn more than young men in several U.S. cities",
-            "date_modified": "2022-04-03T16:04:48.000Z",
-            "author": {
-                "name": "elsewhen",
-                "url": "https://news.ycombinator.com/user?id=elsewhen"
-            },
-            "_original_headline": "Young women earn more than young men in several U.S. cities",
-            "_original_url": "https://www.pewresearch.org/fact-tank/2022/03/28/young-women-are-out-earning-young-men-in-several-u-s-cities/",
-            "_sensitive": false,
-            "_score": 266
         }
     ]
 }

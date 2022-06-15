@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 15 Jun 2022 19:45:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 20:34:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[成长时期的价格冲击使生活中的消费出现疤痕
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31751298</link>
+            <guid>https://news.ycombinator.com/item?id=31751298</guid>
+            <pubDate>Wed, 15 Jun 2022 11:02:56 GMT</pubDate>
+            <description><![CDATA[Price shocks in formative years scar consumption for life]]></description>
+        </item>
         <item>
             <title><![CDATA[美联储将利率提高0.75
 ]]></title>
@@ -4433,13 +4441,6 @@
             <guid>https://news.ycombinator.com/item?id=30891494</guid>
             <pubDate>Sat, 02 Apr 2022 20:41:17 GMT</pubDate>
             <description><![CDATA[Roll your own Ngrok with Nginx, Letsencrypt, and SSH reverse tunnelling]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国几个城市的年轻女性收入高于年轻男性]]></title>
-            <link>https://news.ycombinator.com/item?id=30897937</link>
-            <guid>https://news.ycombinator.com/item?id=30897937</guid>
-            <pubDate>Sun, 03 Apr 2022 16:04:48 GMT</pubDate>
-            <description><![CDATA[Young women earn more than young men in several U.S. cities]]></description>
         </item>
     </channel>
 </rss>

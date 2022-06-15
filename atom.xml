@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-15T19:45:00.061Z</updated>
+    <updated>2022-06-15T20:34:28.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[成长时期的价格冲击使生活中的消费出现疤痕
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31751298</id>
+        <link href="https://news.ycombinator.com/item?id=31751298"/>
+        <updated>2022-06-15T11:02:56.000Z</updated>
+        <summary type="html"><![CDATA[Price shocks in formative years scar consumption for life]]></summary>
+        <author>
+            <name>NickRandom</name>
+            <uri>https://news.ycombinator.com/user?id=NickRandom</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美联储将利率提高0.75
 ]]></title>
@@ -6829,17 +6841,6 @@
         <author>
             <name>lioeters</name>
             <uri>https://news.ycombinator.com/user?id=lioeters</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国几个城市的年轻女性收入高于年轻男性]]></title>
-        <id>https://news.ycombinator.com/item?id=30897937</id>
-        <link href="https://news.ycombinator.com/item?id=30897937"/>
-        <updated>2022-04-03T16:04:48.000Z</updated>
-        <summary type="html"><![CDATA[Young women earn more than young men in several U.S. cities]]></summary>
-        <author>
-            <name>elsewhen</name>
-            <uri>https://news.ycombinator.com/user?id=elsewhen</uri>
         </author>
     </entry>
 </feed>
