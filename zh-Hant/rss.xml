@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 15 Jun 2022 14:48:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 15:56:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[希格斯粒子出現十年後，物理學家面臨著找不到其他東西的噩夢
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31751242</link>
+            <guid>https://news.ycombinator.com/item?id=31751242</guid>
+            <pubDate>Wed, 15 Jun 2022 10:52:52 GMT</pubDate>
+            <description><![CDATA[Ten years after the Higgs, physicists face the nightmare of finding nothing else]]></description>
+        </item>
         <item>
             <title><![CDATA[掌上電腦系統開發商在發佈20年後發佈經典遊戲的源代碼
 ]]></title>
@@ -4427,13 +4435,6 @@
             <guid>https://news.ycombinator.com/item?id=30892081</guid>
             <pubDate>Sat, 02 Apr 2022 22:06:15 GMT</pubDate>
             <description><![CDATA[Albini pitching Nirvana: “I would like to be paid like a plumber” (1992)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[誰在招聘？(2022年4月)]]></title>
-            <link>https://news.ycombinator.com/item?id=30878761</link>
-            <guid>https://news.ycombinator.com/item?id=30878761</guid>
-            <pubDate>Fri, 01 Apr 2022 15:02:05 GMT</pubDate>
-            <description><![CDATA[Ask HN: Who is hiring? (April 2022)]]></description>
         </item>
     </channel>
 </rss>
