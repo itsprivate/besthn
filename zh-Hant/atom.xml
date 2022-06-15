@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-14T22:45:47.630Z</updated>
+    <updated>2022-06-15T04:07:25.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Game Boy Advance上的Quake[視頻]。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31724224</id>
+        <link href="https://news.ycombinator.com/item?id=31724224"/>
+        <updated>2022-06-13T12:01:36.000Z</updated>
+        <summary type="html"><![CDATA[Quake on the Game Boy Advance [video]]]></summary>
+        <author>
+            <name>turrini</name>
+            <uri>https://news.ycombinator.com/user?id=turrini</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亞馬遜建立地產帝國，悄悄在美國各地買地
 ]]></title>
@@ -6815,17 +6827,6 @@
         <author>
             <name>geeky4qwerty</name>
             <uri>https://news.ycombinator.com/user?id=geeky4qwerty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube取消了我的Nextcloud安裝方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30886834</id>
-        <link href="https://news.ycombinator.com/item?id=30886834"/>
-        <updated>2022-04-02T08:58:41.000Z</updated>
-        <summary type="html"><![CDATA[YouTube cancelled my Nextcloud installation how-to]]></summary>
-        <author>
-            <name>chr15m</name>
-            <uri>https://news.ycombinator.com/user?id=chr15m</uri>
         </author>
     </entry>
 </feed>
