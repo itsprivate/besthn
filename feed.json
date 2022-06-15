@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31755999",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31755999",
+            "title": "参议员沃伦提议全面禁止出售位置和健康数据\n",
+            "summary": "Senator Warren proposes sweeping ban on location and health data sales",
+            "date_modified": "2022-06-15T17:07:36.000Z",
+            "author": {
+                "name": "mikece",
+                "url": "https://news.ycombinator.com/user?id=mikece"
+            },
+            "_original_headline": "Senator Warren proposes sweeping ban on location and health data sales",
+            "_original_url": "https://www.theverge.com/2022/6/15/23169718/roe-wade-elizabeth-warren-location-data-tracking-ban-sale-brokers",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31756704",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31756704",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "We don’t use a staging environment",
             "_original_url": "https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment",
-            "_sensitive": false,
-            "_score": 265
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30898803",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30898803",
-            "title": "一个有一个11000行代码文件的项目",
-            "summary": "A project with a single 11,000-line code file",
-            "date_modified": "2022-04-03T17:41:14.000Z",
-            "author": {
-                "name": "todsacerdoti",
-                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
-            },
-            "_original_headline": "A project with a single 11,000-line code file",
-            "_original_url": "https://austinhenley.com/blog/11000lines.html",
             "_sensitive": false,
             "_score": 265
         }

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 15 Jun 2022 21:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 23:00:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[参议员沃伦提议全面禁止出售位置和健康数据
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31755999</link>
+            <guid>https://news.ycombinator.com/item?id=31755999</guid>
+            <pubDate>Wed, 15 Jun 2022 17:07:36 GMT</pubDate>
+            <description><![CDATA[Senator Warren proposes sweeping ban on location and health data sales]]></description>
+        </item>
         <item>
             <title><![CDATA[普渡大学在美国启动综合半导体学位课程
 ]]></title>
@@ -4436,13 +4444,6 @@
             <guid>https://news.ycombinator.com/item?id=30899362</guid>
             <pubDate>Sun, 03 Apr 2022 18:28:42 GMT</pubDate>
             <description><![CDATA[We don’t use a staging environment]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个有一个11000行代码文件的项目]]></title>
-            <link>https://news.ycombinator.com/item?id=30898803</link>
-            <guid>https://news.ycombinator.com/item?id=30898803</guid>
-            <pubDate>Sun, 03 Apr 2022 17:41:14 GMT</pubDate>
-            <description><![CDATA[A project with a single 11,000-line code file]]></description>
         </item>
     </channel>
 </rss>
