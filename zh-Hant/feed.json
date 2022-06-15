@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31746090",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31746090",
+            "title": "尋覓集群殺手Erlang的漏洞\n",
+            "summary": "The hunt for a cluster-killer Erlang bug",
+            "date_modified": "2022-06-14T21:05:45.000Z",
+            "author": {
+                "name": "eproxus",
+                "url": "https://news.ycombinator.com/user?id=eproxus"
+            },
+            "_original_headline": "The hunt for a cluster-killer Erlang bug",
+            "_original_url": "https://engineering.klarna.com/the-hunt-for-the-cluster-killer-erlang-bug-81dd0640aa81?gi=e3144c1fcf1b",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31733365",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31733365",
+            "title": "圖形的微小語法\n",
+            "summary": "A Tiny Grammar of Graphics",
+            "date_modified": "2022-06-14T00:24:19.000Z",
+            "author": {
+                "name": "pavpanchekha",
+                "url": "https://news.ycombinator.com/user?id=pavpanchekha"
+            },
+            "_original_headline": "A Tiny Grammar of Graphics",
+            "_original_url": "https://observablehq.com/@joshpoll/vvt-gog",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31724224",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31724224",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://twitter.com/mu2myoc/status/1510262323176374278",
             "_sensitive": false,
             "_score": 254
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30888988",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30888988",
-            "title": "人類基因組終於完成了",
-            "summary": "The human genome is, at long last, complete",
-            "date_modified": "2022-04-02T15:34:21.000Z",
-            "author": {
-                "name": "marc__1",
-                "url": "https://news.ycombinator.com/user?id=marc__1"
-            },
-            "_original_headline": "The human genome is, at long last, complete",
-            "_original_url": "https://www.rockefeller.edu/news/32087-the-human-genome-is-at-long-last-complete/",
-            "_sensitive": false,
-            "_score": 255
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30889019",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30889019",
-            "title": "問：7次採訪何時成為 \"正常\"？",
-            "summary": "Ask HN: ASK HN: When did 7 interviews become “normal”?",
-            "date_modified": "2022-04-02T15:39:28.000Z",
-            "author": {
-                "name": "geeky4qwerty",
-                "url": "https://news.ycombinator.com/user?id=geeky4qwerty"
-            },
-            "_original_headline": "Ask HN: ASK HN: When did 7 interviews become “normal”?",
-            "_original_url": "https://news.ycombinator.com/item?id=30889019",
-            "_sensitive": false,
-            "_score": 259
         }
     ]
 }
