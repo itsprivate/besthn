@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-16T03:55:04.601Z</updated>
+    <updated>2022-06-16T04:34:44.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GPU光线追踪教程 - 10篇
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31756589</id>
+        <link href="https://news.ycombinator.com/item?id=31756589"/>
+        <updated>2022-06-15T17:48:51.000Z</updated>
+        <summary type="html"><![CDATA[GPU ray tracing tutorial – 10 articles]]></summary>
+        <author>
+            <name>henkie_bk5</name>
+            <uri>https://news.ycombinator.com/user?id=henkie_bk5</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[罕见的托尔金绘画作品描绘了郁郁葱葱的 "指环王 "景观
 ]]></title>
@@ -6837,17 +6849,6 @@
         <author>
             <name>jay_kyburz</name>
             <uri>https://news.ycombinator.com/user?id=jay_kyburz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由YC支持的uBiome基本上是Theranos的精简版]]></title>
-        <id>https://news.ycombinator.com/item?id=30899352</id>
-        <link href="https://news.ycombinator.com/item?id=30899352"/>
-        <updated>2022-04-03T18:27:57.000Z</updated>
-        <summary type="html"><![CDATA[YC-backed uBiome is basically Theranos-lite]]></summary>
-        <author>
-            <name>donsupreme</name>
-            <uri>https://news.ycombinator.com/user?id=donsupreme</uri>
         </author>
     </entry>
 </feed>
