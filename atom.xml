@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-16T21:27:15.329Z</updated>
+    <updated>2022-06-16T21:47:01.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌内部的邪教
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31769484</id>
+        <link href="https://news.ycombinator.com/item?id=31769484"/>
+        <updated>2022-06-16T18:44:25.000Z</updated>
+        <summary type="html"><![CDATA[The Cult Inside Google]]></summary>
+        <author>
+            <name>darrelld</name>
+            <uri>https://news.ycombinator.com/user?id=darrelld</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[计算机速度快，但你不知道
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31769294</id>
+        <link href="https://news.ycombinator.com/item?id=31769294"/>
+        <updated>2022-06-16T18:24:43.000Z</updated>
+        <summary type="html"><![CDATA[The computers are fast, but you don't know it]]></summary>
+        <author>
+            <name>dropbox_miner</name>
+            <uri>https://news.ycombinator.com/user?id=dropbox_miner</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们把50万个文件放在一个Git存储库中，我们学到了什么？
 ]]></title>
@@ -6842,28 +6866,6 @@
         <author>
             <name>mmgu</name>
             <uri>https://news.ycombinator.com/user?id=mmgu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[返回猴岛]]></title>
-        <id>https://news.ycombinator.com/item?id=30908395</id>
-        <link href="https://news.ycombinator.com/item?id=30908395"/>
-        <updated>2022-04-04T16:17:39.000Z</updated>
-        <summary type="html"><![CDATA[Return to Monkey Island]]></summary>
-        <author>
-            <name>dmoreno</name>
-            <uri>https://news.ycombinator.com/user?id=dmoreno</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[意外地制作了一种语言，为一个引擎，为一个游戏。]]></title>
-        <id>https://news.ycombinator.com/item?id=30914148</id>
-        <link href="https://news.ycombinator.com/item?id=30914148"/>
-        <updated>2022-04-05T01:17:57.000Z</updated>
-        <summary type="html"><![CDATA[Accidentally making a language, for an engine, for a game]]></summary>
-        <author>
-            <name>markdog12</name>
-            <uri>https://news.ycombinator.com/user?id=markdog12</uri>
         </author>
     </entry>
 </feed>

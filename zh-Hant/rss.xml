@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 16 Jun 2022 21:27:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 21:47:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谷歌內部的邪教
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31769484</link>
+            <guid>https://news.ycombinator.com/item?id=31769484</guid>
+            <pubDate>Thu, 16 Jun 2022 18:44:25 GMT</pubDate>
+            <description><![CDATA[The Cult Inside Google]]></description>
+        </item>
+        <item>
+            <title><![CDATA[計算機速度快，但你不知道
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31769294</link>
+            <guid>https://news.ycombinator.com/item?id=31769294</guid>
+            <pubDate>Thu, 16 Jun 2022 18:24:43 GMT</pubDate>
+            <description><![CDATA[The computers are fast, but you don't know it]]></description>
+        </item>
         <item>
             <title><![CDATA[我們把50萬個文件放在一個Git存儲庫中，我們學到了什麼？
 ]]></title>
@@ -4450,20 +4466,6 @@
             <guid>https://news.ycombinator.com/item?id=30917474</guid>
             <pubDate>Tue, 05 Apr 2022 11:03:23 GMT</pubDate>
             <description><![CDATA[One App – Two Worlds: This Is TikTok in Russia and Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[返回猴島]]></title>
-            <link>https://news.ycombinator.com/item?id=30908395</link>
-            <guid>https://news.ycombinator.com/item?id=30908395</guid>
-            <pubDate>Mon, 04 Apr 2022 16:17:39 GMT</pubDate>
-            <description><![CDATA[Return to Monkey Island]]></description>
-        </item>
-        <item>
-            <title><![CDATA[意外地製作了一種語言，為一個引擎，為一個遊戲。]]></title>
-            <link>https://news.ycombinator.com/item?id=30914148</link>
-            <guid>https://news.ycombinator.com/item?id=30914148</guid>
-            <pubDate>Tue, 05 Apr 2022 01:17:57 GMT</pubDate>
-            <description><![CDATA[Accidentally making a language, for an engine, for a game]]></description>
         </item>
     </channel>
 </rss>
