@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 16 Jun 2022 04:34:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 05:05:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[單次預防性服用200毫克多西林可預防萊姆病
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31756201</link>
+            <guid>https://news.ycombinator.com/item?id=31756201</guid>
+            <pubDate>Wed, 15 Jun 2022 17:21:40 GMT</pubDate>
+            <description><![CDATA[A single prophylactic 200mg dose of Doxycyline prevents Lyme disease]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在教授們努力招聘博士後的同時，呼籲學術界進行變革
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31751015</link>
+            <guid>https://news.ycombinator.com/item?id=31751015</guid>
+            <pubDate>Wed, 15 Jun 2022 10:08:07 GMT</pubDate>
+            <description><![CDATA[As professors struggle to recruit postdocs, calls for change in academia]]></description>
+        </item>
         <item>
             <title><![CDATA[GPU光線追蹤教程 - 10篇
 ]]></title>
@@ -4435,20 +4451,6 @@
             <guid>https://news.ycombinator.com/item?id=30887445</guid>
             <pubDate>Sat, 02 Apr 2022 11:38:59 GMT</pubDate>
             <description><![CDATA[Those HTML attributes you never use]]></description>
-        </item>
-        <item>
-            <title><![CDATA[埃隆-馬斯克擁有9.2%的Twitter股份]]></title>
-            <link>https://news.ycombinator.com/item?id=30904988</link>
-            <guid>https://news.ycombinator.com/item?id=30904988</guid>
-            <pubDate>Mon, 04 Apr 2022 10:25:48 GMT</pubDate>
-            <description><![CDATA[Elon Musk owns 9.2% of Twitter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由於有了新的光線追蹤模型，"它能否運行Doom "將不再是一個問題了]]></title>
-            <link>https://news.ycombinator.com/item?id=30901247</link>
-            <guid>https://news.ycombinator.com/item?id=30901247</guid>
-            <pubDate>Sun, 03 Apr 2022 22:14:18 GMT</pubDate>
-            <description><![CDATA[“Can it run Doom” will never be the same, thanks to new ray-tracing mod]]></description>
         </item>
     </channel>
 </rss>

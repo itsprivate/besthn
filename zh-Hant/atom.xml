@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-16T04:34:44.785Z</updated>
+    <updated>2022-06-16T05:05:16.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[單次預防性服用200毫克多西林可預防萊姆病
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31756201</id>
+        <link href="https://news.ycombinator.com/item?id=31756201"/>
+        <updated>2022-06-15T17:21:40.000Z</updated>
+        <summary type="html"><![CDATA[A single prophylactic 200mg dose of Doxycyline prevents Lyme disease]]></summary>
+        <author>
+            <name>nikolay</name>
+            <uri>https://news.ycombinator.com/user?id=nikolay</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在教授們努力招聘博士後的同時，呼籲學術界進行變革
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31751015</id>
+        <link href="https://news.ycombinator.com/item?id=31751015"/>
+        <updated>2022-06-15T10:08:07.000Z</updated>
+        <summary type="html"><![CDATA[As professors struggle to recruit postdocs, calls for change in academia]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPU光線追蹤教程 - 10篇
 ]]></title>
@@ -6827,28 +6851,6 @@
         <author>
             <name>makaimc</name>
             <uri>https://news.ycombinator.com/user?id=makaimc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-馬斯克擁有9.2%的Twitter股份]]></title>
-        <id>https://news.ycombinator.com/item?id=30904988</id>
-        <link href="https://news.ycombinator.com/item?id=30904988"/>
-        <updated>2022-04-04T10:25:48.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk owns 9.2% of Twitter]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由於有了新的光線追蹤模型，"它能否運行Doom "將不再是一個問題了]]></title>
-        <id>https://news.ycombinator.com/item?id=30901247</id>
-        <link href="https://news.ycombinator.com/item?id=30901247"/>
-        <updated>2022-04-03T22:14:18.000Z</updated>
-        <summary type="html"><![CDATA[“Can it run Doom” will never be the same, thanks to new ray-tracing mod]]></summary>
-        <author>
-            <name>jay_kyburz</name>
-            <uri>https://news.ycombinator.com/user?id=jay_kyburz</uri>
         </author>
     </entry>
 </feed>
