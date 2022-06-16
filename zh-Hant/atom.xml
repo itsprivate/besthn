@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-16T02:18:21.634Z</updated>
+    <updated>2022-06-16T03:55:04.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[罕見的托爾金繪畫作品描繪了鬱鬱蔥蔥的 "指環王 "景觀
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31757452</id>
+        <link href="https://news.ycombinator.com/item?id=31757452"/>
+        <updated>2022-06-15T18:45:26.000Z</updated>
+        <summary type="html"><![CDATA[Rarely Seen Paintings by Tolkien Portray a Lush ‘Lord of the Rings’ Landscape]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[選擇 "你好，世界"。為雲計算打造的無服務器Postgres
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31753345</id>
+        <link href="https://news.ycombinator.com/item?id=31753345"/>
+        <updated>2022-06-15T14:23:52.000Z</updated>
+        <summary type="html"><![CDATA[Select ’Hello, World’: Serverless Postgres Built for the Cloud]]></summary>
+        <author>
+            <name>mxstbr</name>
+            <uri>https://news.ycombinator.com/user?id=mxstbr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[平凡的家務事在遊戲中大行其道
 ]]></title>
@@ -6824,28 +6848,6 @@
         <author>
             <name>donsupreme</name>
             <uri>https://news.ycombinator.com/user?id=donsupreme</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jd]]></title>
-        <id>https://news.ycombinator.com/item?id=30905662</id>
-        <link href="https://news.ycombinator.com/item?id=30905662"/>
-        <updated>2022-04-04T12:04:30.000Z</updated>
-        <summary type="html"><![CDATA[Jd]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果公司對iOS中25萬個可自動完成的域名的白名單]]></title>
-        <id>https://news.ycombinator.com/item?id=30903246</id>
-        <link href="https://news.ycombinator.com/item?id=30903246"/>
-        <updated>2022-04-04T04:10:35.000Z</updated>
-        <summary type="html"><![CDATA[Apple's whitelist of the 250k auto-completable domains in iOS]]></summary>
-        <author>
-            <name>varenc</name>
-            <uri>https://news.ycombinator.com/user?id=varenc</uri>
         </author>
     </entry>
 </feed>
