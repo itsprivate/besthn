@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31769683",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31769683",
+            "title": "讓你的同事印象深刻的macOS截圖技巧\n",
+            "summary": "macOS screenshot tricks to impress your co-workers",
+            "date_modified": "2022-06-16T19:03:15.000Z",
+            "author": {
+                "name": "salgorithm",
+                "url": "https://news.ycombinator.com/user?id=salgorithm"
+            },
+            "_original_headline": "macOS screenshot tricks to impress your co-workers",
+            "_original_url": "https://sal.dev/macos/macos-screenshotting-tips-and-tricks/",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31765730",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31765730",
+            "title": "一個宗教教派讓谷歌陷入訴訟\n",
+            "summary": "A religious sect landed Google in a lawsuit",
+            "date_modified": "2022-06-16T13:21:11.000Z",
+            "author": {
+                "name": "semiquaver",
+                "url": "https://news.ycombinator.com/user?id=semiquaver"
+            },
+            "_original_headline": "A religious sect landed Google in a lawsuit",
+            "_original_url": "https://www.nytimes.com/2022/06/16/technology/google-fellowship-of-friends-sect.html",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31767890",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31767890",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001418091/000119312522095651/d342257d8k.htm",
             "_sensitive": false,
             "_score": 255
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30917354",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30917354",
-            "title": "從pyenv、rbenv、goenv和nvm切換到asdf",
-            "summary": "Switching from pyenv, rbenv, goenv and nvm to asdf",
-            "date_modified": "2022-04-05T10:42:00.000Z",
-            "author": {
-                "name": "tosh",
-                "url": "https://news.ycombinator.com/user?id=tosh"
-            },
-            "_original_headline": "Switching from pyenv, rbenv, goenv and nvm to asdf",
-            "_original_url": "https://jinyuz.dev/posts/tips-and-tricks/switching-from-pyenv,-rbenv,-goenv-and-nvm-to-asdf/",
-            "_sensitive": false,
-            "_score": 257
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30913534",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30913534",
-            "title": "阿德雷德機場的後院接近照明",
-            "summary": "Backyard approaching lighting at Adelaide Airport",
-            "date_modified": "2022-04-04T23:56:25.000Z",
-            "author": {
-                "name": "qzervaas",
-                "url": "https://news.ycombinator.com/user?id=qzervaas"
-            },
-            "_original_headline": "Backyard approaching lighting at Adelaide Airport",
-            "_original_url": "https://wongm.com/2022/04/backyard-approaching-lighting-adelaide-airport/",
-            "_sensitive": false,
-            "_score": 254
         }
     ]
 }

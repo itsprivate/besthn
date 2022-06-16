@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 16 Jun 2022 23:29:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 23:59:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[让你的同事印象深刻的macOS截图技巧
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31769683</link>
+            <guid>https://news.ycombinator.com/item?id=31769683</guid>
+            <pubDate>Thu, 16 Jun 2022 19:03:15 GMT</pubDate>
+            <description><![CDATA[macOS screenshot tricks to impress your co-workers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一个宗教教派让谷歌陷入诉讼
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31765730</link>
+            <guid>https://news.ycombinator.com/item?id=31765730</guid>
+            <pubDate>Thu, 16 Jun 2022 13:21:11 GMT</pubDate>
+            <description><![CDATA[A religious sect landed Google in a lawsuit]]></description>
+        </item>
         <item>
             <title><![CDATA[沉默的大多数专家(2012)
 ]]></title>
@@ -4453,20 +4469,6 @@
             <guid>https://news.ycombinator.com/item?id=30918534</guid>
             <pubDate>Tue, 05 Apr 2022 13:13:31 GMT</pubDate>
             <description><![CDATA[Elon Musk to join Twitter’s board of directors]]></description>
-        </item>
-        <item>
-            <title><![CDATA[从pyenv、rbenv、goenv和nvm切换到asdf]]></title>
-            <link>https://news.ycombinator.com/item?id=30917354</link>
-            <guid>https://news.ycombinator.com/item?id=30917354</guid>
-            <pubDate>Tue, 05 Apr 2022 10:42:00 GMT</pubDate>
-            <description><![CDATA[Switching from pyenv, rbenv, goenv and nvm to asdf]]></description>
-        </item>
-        <item>
-            <title><![CDATA[阿德雷德机场的后院接近照明]]></title>
-            <link>https://news.ycombinator.com/item?id=30913534</link>
-            <guid>https://news.ycombinator.com/item?id=30913534</guid>
-            <pubDate>Mon, 04 Apr 2022 23:56:25 GMT</pubDate>
-            <description><![CDATA[Backyard approaching lighting at Adelaide Airport]]></description>
         </item>
     </channel>
 </rss>
