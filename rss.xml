@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 16 Jun 2022 05:05:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 08:40:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[告诉HN：因举报Wickr毒品垃圾邮件而被禁止在LinkedIn工作
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31762904</link>
+            <guid>https://news.ycombinator.com/item?id=31762904</guid>
+            <pubDate>Thu, 16 Jun 2022 06:07:39 GMT</pubDate>
+            <description><![CDATA[Tell HN: Banned from LinkedIn for Reporting Wickr Drug Spam]]></description>
+        </item>
+        <item>
+            <title><![CDATA[水彩基础知识
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31757077</link>
+            <guid>https://news.ycombinator.com/item?id=31757077</guid>
+            <pubDate>Wed, 15 Jun 2022 18:21:41 GMT</pubDate>
+            <description><![CDATA[Watercolor Basics]]></description>
+        </item>
         <item>
             <title><![CDATA[单次预防性服用200毫克多西林可预防莱姆病
 ]]></title>
@@ -4437,20 +4453,6 @@
             <guid>https://news.ycombinator.com/item?id=30906621</guid>
             <pubDate>Mon, 04 Apr 2022 13:51:24 GMT</pubDate>
             <description><![CDATA[Are you a baby? A litmus test]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么要在多年的数据共享后关心隐私问题？]]></title>
-            <link>https://news.ycombinator.com/item?id=30896837</link>
-            <guid>https://news.ycombinator.com/item?id=30896837</guid>
-            <pubDate>Sun, 03 Apr 2022 13:40:18 GMT</pubDate>
-            <description><![CDATA[Why to care about privacy after years of sharing data]]></description>
-        </item>
-        <item>
-            <title><![CDATA[那些你从不使用的HTML属性]]></title>
-            <link>https://news.ycombinator.com/item?id=30887445</link>
-            <guid>https://news.ycombinator.com/item?id=30887445</guid>
-            <pubDate>Sat, 02 Apr 2022 11:38:59 GMT</pubDate>
-            <description><![CDATA[Those HTML attributes you never use]]></description>
         </item>
     </channel>
 </rss>

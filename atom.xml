@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-16T05:05:16.716Z</updated>
+    <updated>2022-06-16T08:40:16.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：因举报Wickr毒品垃圾邮件而被禁止在LinkedIn工作
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31762904</id>
+        <link href="https://news.ycombinator.com/item?id=31762904"/>
+        <updated>2022-06-16T06:07:39.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Banned from LinkedIn for Reporting Wickr Drug Spam]]></summary>
+        <author>
+            <name>silent_speech</name>
+            <uri>https://news.ycombinator.com/user?id=silent_speech</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[水彩基础知识
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31757077</id>
+        <link href="https://news.ycombinator.com/item?id=31757077"/>
+        <updated>2022-06-15T18:21:41.000Z</updated>
+        <summary type="html"><![CDATA[Watercolor Basics]]></summary>
+        <author>
+            <name>pkdpic</name>
+            <uri>https://news.ycombinator.com/user?id=pkdpic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[单次预防性服用200毫克多西林可预防莱姆病
 ]]></title>
@@ -6829,28 +6853,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么要在多年的数据共享后关心隐私问题？]]></title>
-        <id>https://news.ycombinator.com/item?id=30896837</id>
-        <link href="https://news.ycombinator.com/item?id=30896837"/>
-        <updated>2022-04-03T13:40:18.000Z</updated>
-        <summary type="html"><![CDATA[Why to care about privacy after years of sharing data]]></summary>
-        <author>
-            <name>Bright_Machine</name>
-            <uri>https://news.ycombinator.com/user?id=Bright_Machine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[那些你从不使用的HTML属性]]></title>
-        <id>https://news.ycombinator.com/item?id=30887445</id>
-        <link href="https://news.ycombinator.com/item?id=30887445"/>
-        <updated>2022-04-02T11:38:59.000Z</updated>
-        <summary type="html"><![CDATA[Those HTML attributes you never use]]></summary>
-        <author>
-            <name>makaimc</name>
-            <uri>https://news.ycombinator.com/user?id=makaimc</uri>
         </author>
     </entry>
 </feed>
