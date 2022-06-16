@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-15T23:00:20.373Z</updated>
+    <updated>2022-06-16T02:18:21.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[平凡的家务事在游戏中大行其道
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31750979</id>
+        <link href="https://news.ycombinator.com/item?id=31750979"/>
+        <updated>2022-06-15T10:01:43.000Z</updated>
+        <summary type="html"><![CDATA[Mundane chores are all the rage in gaming]]></summary>
+        <author>
+            <name>nathan_phoenix</name>
+            <uri>https://news.ycombinator.com/user?id=nathan_phoenix</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[先写文档，再构建
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31735939</id>
+        <link href="https://news.ycombinator.com/item?id=31735939"/>
+        <updated>2022-06-14T07:46:30.000Z</updated>
+        <summary type="html"><![CDATA[Write documentation first, then build]]></summary>
+        <author>
+            <name>maguay</name>
+            <uri>https://news.ycombinator.com/user?id=maguay</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[参议员沃伦提议全面禁止出售位置和健康数据
 ]]></title>
@@ -6822,28 +6846,6 @@
         <author>
             <name>varenc</name>
             <uri>https://news.ycombinator.com/user?id=varenc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由于IT系统的故障，今天不可能运行任何列车。]]></title>
-        <id>https://news.ycombinator.com/item?id=30901009</id>
-        <link href="https://news.ycombinator.com/item?id=30901009"/>
-        <updated>2022-04-03T21:44:10.000Z</updated>
-        <summary type="html"><![CDATA[Due to failure in the IT system, it is not possible to run any trains today]]></summary>
-        <author>
-            <name>ar0</name>
-            <uri>https://news.ycombinator.com/user?id=ar0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们不使用暂存环境]]></title>
-        <id>https://news.ycombinator.com/item?id=30899362</id>
-        <link href="https://news.ycombinator.com/item?id=30899362"/>
-        <updated>2022-04-03T18:28:42.000Z</updated>
-        <summary type="html"><![CDATA[We don’t use a staging environment]]></summary>
-        <author>
-            <name>Chris86</name>
-            <uri>https://news.ycombinator.com/user?id=Chris86</uri>
         </author>
     </entry>
 </feed>

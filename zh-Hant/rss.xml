@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 15 Jun 2022 23:00:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 02:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[平凡的家務事在遊戲中大行其道
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31750979</link>
+            <guid>https://news.ycombinator.com/item?id=31750979</guid>
+            <pubDate>Wed, 15 Jun 2022 10:01:43 GMT</pubDate>
+            <description><![CDATA[Mundane chores are all the rage in gaming]]></description>
+        </item>
+        <item>
+            <title><![CDATA[先寫文檔，再構建
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31735939</link>
+            <guid>https://news.ycombinator.com/item?id=31735939</guid>
+            <pubDate>Tue, 14 Jun 2022 07:46:30 GMT</pubDate>
+            <description><![CDATA[Write documentation first, then build]]></description>
+        </item>
         <item>
             <title><![CDATA[參議員沃倫提議全面禁止出售位置和健康數據
 ]]></title>
@@ -4430,20 +4446,6 @@
             <guid>https://news.ycombinator.com/item?id=30903246</guid>
             <pubDate>Mon, 04 Apr 2022 04:10:35 GMT</pubDate>
             <description><![CDATA[Apple's whitelist of the 250k auto-completable domains in iOS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由於IT系統的故障，今天不可能運行任何列車。]]></title>
-            <link>https://news.ycombinator.com/item?id=30901009</link>
-            <guid>https://news.ycombinator.com/item?id=30901009</guid>
-            <pubDate>Sun, 03 Apr 2022 21:44:10 GMT</pubDate>
-            <description><![CDATA[Due to failure in the IT system, it is not possible to run any trains today]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們不使用暫存環境]]></title>
-            <link>https://news.ycombinator.com/item?id=30899362</link>
-            <guid>https://news.ycombinator.com/item?id=30899362</guid>
-            <pubDate>Sun, 03 Apr 2022 18:28:42 GMT</pubDate>
-            <description><![CDATA[We don’t use a staging environment]]></description>
         </item>
     </channel>
 </rss>
