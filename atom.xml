@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-16T21:47:01.235Z</updated>
+    <updated>2022-06-16T23:29:16.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[沉默的大多数专家(2012)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31767890</id>
+        <link href="https://news.ycombinator.com/item?id=31767890"/>
+        <updated>2022-06-16T16:23:55.000Z</updated>
+        <summary type="html"><![CDATA[The silent majority of experts (2012)]]></summary>
+        <author>
+            <name>bluedino</name>
+            <uri>https://news.ycombinator.com/user?id=bluedino</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌内部的邪教
 ]]></title>
@@ -6855,17 +6867,6 @@
         <author>
             <name>qzervaas</name>
             <uri>https://news.ycombinator.com/user?id=qzervaas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个应用--两个世界：这就是俄罗斯和乌克兰的TikTok]]></title>
-        <id>https://news.ycombinator.com/item?id=30917474</id>
-        <link href="https://news.ycombinator.com/item?id=30917474"/>
-        <updated>2022-04-05T11:03:23.000Z</updated>
-        <summary type="html"><![CDATA[One App – Two Worlds: This Is TikTok in Russia and Ukraine]]></summary>
-        <author>
-            <name>mmgu</name>
-            <uri>https://news.ycombinator.com/user?id=mmgu</uri>
         </author>
     </entry>
 </feed>
