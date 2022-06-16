@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-16T12:58:36.549Z</updated>
+    <updated>2022-06-16T16:56:45.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Wails - 由Go提供的电子替代方案
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31764773</id>
+        <link href="https://news.ycombinator.com/item?id=31764773"/>
+        <updated>2022-06-16T11:32:38.000Z</updated>
+        <summary type="html"><![CDATA[Wails – Electron Alternative Powered by Go]]></summary>
+        <author>
+            <name>wener</name>
+            <uri>https://news.ycombinator.com/user?id=wener</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[创业的障碍--城市如何铺就创业之路
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31764530</id>
+        <link href="https://news.ycombinator.com/item?id=31764530"/>
+        <updated>2022-06-16T10:49:29.000Z</updated>
+        <summary type="html"><![CDATA[Barriers to Business – How cities can pave a path to entrepreneurship]]></summary>
+        <author>
+            <name>sbuttgereit</name>
+            <uri>https://news.ycombinator.com/user?id=sbuttgereit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helios的微内核
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31742648</id>
+        <link href="https://news.ycombinator.com/item?id=31742648"/>
+        <updated>2022-06-14T17:15:25.000Z</updated>
+        <summary type="html"><![CDATA[The Helios microkernel]]></summary>
+        <author>
+            <name>pcr910303</name>
+            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tauri 1.0 - 由Rust提供的电子替代方案
 ]]></title>
@@ -6823,39 +6859,6 @@
         <author>
             <name>ccleve</name>
             <uri>https://news.ycombinator.com/user?id=ccleve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌硬盘上没有办法报告垃圾邮件]]></title>
-        <id>https://news.ycombinator.com/item?id=30905584</id>
-        <link href="https://news.ycombinator.com/item?id=30905584"/>
-        <updated>2022-04-04T11:54:27.000Z</updated>
-        <summary type="html"><![CDATA[There's no way to report spam on Google Drive]]></summary>
-        <author>
-            <name>edent</name>
-            <uri>https://news.ycombinator.com/user?id=edent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USB-C集线器和我慢慢陷入疯狂的状态]]></title>
-        <id>https://news.ycombinator.com/item?id=30911598</id>
-        <link href="https://news.ycombinator.com/item?id=30911598"/>
-        <updated>2022-04-04T20:29:43.000Z</updated>
-        <summary type="html"><![CDATA[USB-C hubs and my slow descent into madness]]></summary>
-        <author>
-            <name>sneakymichael</name>
-            <uri>https://news.ycombinator.com/user?id=sneakymichael</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[离职面谈是一个陷阱]]></title>
-        <id>https://news.ycombinator.com/item?id=30908551</id>
-        <link href="https://news.ycombinator.com/item?id=30908551"/>
-        <updated>2022-04-04T16:28:52.000Z</updated>
-        <summary type="html"><![CDATA[Exit interviews are a trap]]></summary>
-        <author>
-            <name>_ttg</name>
-            <uri>https://news.ycombinator.com/user?id=_ttg</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 16 Jun 2022 12:58:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 16:56:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Wails - 由Go提供的電子替代方案
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31764773</link>
+            <guid>https://news.ycombinator.com/item?id=31764773</guid>
+            <pubDate>Thu, 16 Jun 2022 11:32:38 GMT</pubDate>
+            <description><![CDATA[Wails – Electron Alternative Powered by Go]]></description>
+        </item>
+        <item>
+            <title><![CDATA[創業的障礙--城市如何鋪就創業之路
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31764530</link>
+            <guid>https://news.ycombinator.com/item?id=31764530</guid>
+            <pubDate>Thu, 16 Jun 2022 10:49:29 GMT</pubDate>
+            <description><![CDATA[Barriers to Business – How cities can pave a path to entrepreneurship]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Helios的微內核
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31742648</link>
+            <guid>https://news.ycombinator.com/item?id=31742648</guid>
+            <pubDate>Tue, 14 Jun 2022 17:15:25 GMT</pubDate>
+            <description><![CDATA[The Helios microkernel]]></description>
+        </item>
         <item>
             <title><![CDATA[Tauri 1.0 - 由Rust提供的電子替代方案
 ]]></title>
@@ -4435,27 +4459,6 @@
             <guid>https://news.ycombinator.com/item?id=30911623</guid>
             <pubDate>Mon, 04 Apr 2022 20:32:18 GMT</pubDate>
             <description><![CDATA[Tell HN: My kid's school installed spyware and I can't remove it]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌硬盤上沒有辦法報告垃圾郵件]]></title>
-            <link>https://news.ycombinator.com/item?id=30905584</link>
-            <guid>https://news.ycombinator.com/item?id=30905584</guid>
-            <pubDate>Mon, 04 Apr 2022 11:54:27 GMT</pubDate>
-            <description><![CDATA[There's no way to report spam on Google Drive]]></description>
-        </item>
-        <item>
-            <title><![CDATA[USB-C集線器和我慢慢陷入瘋狂的狀態]]></title>
-            <link>https://news.ycombinator.com/item?id=30911598</link>
-            <guid>https://news.ycombinator.com/item?id=30911598</guid>
-            <pubDate>Mon, 04 Apr 2022 20:29:43 GMT</pubDate>
-            <description><![CDATA[USB-C hubs and my slow descent into madness]]></description>
-        </item>
-        <item>
-            <title><![CDATA[離職面談是一個陷阱]]></title>
-            <link>https://news.ycombinator.com/item?id=30908551</link>
-            <guid>https://news.ycombinator.com/item?id=30908551</guid>
-            <pubDate>Mon, 04 Apr 2022 16:28:52 GMT</pubDate>
-            <description><![CDATA[Exit interviews are a trap]]></description>
         </item>
     </channel>
 </rss>
