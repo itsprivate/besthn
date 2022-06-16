@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31764521",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31764521",
+            "title": "红豆2.0变成了不只是一个爱好的项目\n",
+            "summary": "Redbean 2.0 turned into more than a hobby project",
+            "date_modified": "2022-06-16T10:47:15.000Z",
+            "author": {
+                "name": "jart",
+                "url": "https://news.ycombinator.com/user?id=jart"
+            },
+            "_original_headline": "Redbean 2.0 turned into more than a hobby project",
+            "_original_url": "https://justine.lol/redbean2/",
+            "_sensitive": false,
+            "_score": 208
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31764406",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31764406",
+            "title": "Facebook正在从医院网站接收敏感的医疗信息\n",
+            "summary": "Facebook is receiving sensitive medical information from hospital websites",
+            "date_modified": "2022-06-16T10:29:45.000Z",
+            "author": {
+                "name": "HieronymusBosch",
+                "url": "https://news.ycombinator.com/user?id=HieronymusBosch"
+            },
+            "_original_headline": "Facebook is receiving sensitive medical information from hospital websites",
+            "_original_url": "https://themarkup.org/pixel-hunt/2022/06/16/facebook-is-receiving-sensitive-medical-information-from-hospital-websites",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31765773",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31765773",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://www.washingtonpost.com/education/2022/03/31/student-mental-health-decline-cdc/",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30911297",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30911297",
-            "title": "亚马逊工人聊天软件将禁止使用 \"工会\"、\"加薪\"、\"奴隶劳动 \"等词汇",
-            "summary": "Amazon worker chat app to ban words such as “union”, “pay raise”, “slave labor”",
-            "date_modified": "2022-04-04T19:57:44.000Z",
-            "author": {
-                "name": "enraged_camel",
-                "url": "https://news.ycombinator.com/user?id=enraged_camel"
-            },
-            "_original_headline": "Amazon worker chat app to ban words such as “union”, “pay raise”, “slave labor”",
-            "_original_url": "https://theintercept.com/2022/04/04/amazon-union-living-wage-restrooms-chat-app/",
-            "_sensitive": false,
-            "_score": 272
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30909719",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30909719",
-            "title": "Tinygrad",
-            "summary": "Tinygrad",
-            "date_modified": "2022-04-04T17:48:22.000Z",
-            "author": {
-                "name": "tosh",
-                "url": "https://news.ycombinator.com/user?id=tosh"
-            },
-            "_original_headline": "Tinygrad",
-            "_original_url": "https://github.com/geohot/tinygrad",
-            "_sensitive": false,
-            "_score": 262
         }
     ]
 }

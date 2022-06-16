@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 16 Jun 2022 17:45:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 20:02:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[紅豆2.0變成了不只是一個愛好的項目
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31764521</link>
+            <guid>https://news.ycombinator.com/item?id=31764521</guid>
+            <pubDate>Thu, 16 Jun 2022 10:47:15 GMT</pubDate>
+            <description><![CDATA[Redbean 2.0 turned into more than a hobby project]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Facebook正在從醫院網站接收敏感的醫療信息
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31764406</link>
+            <guid>https://news.ycombinator.com/item?id=31764406</guid>
+            <pubDate>Thu, 16 Jun 2022 10:29:45 GMT</pubDate>
+            <description><![CDATA[Facebook is receiving sensitive medical information from hospital websites]]></description>
+        </item>
         <item>
             <title><![CDATA[2022年雲計算報告
 ]]></title>
@@ -4446,20 +4462,6 @@
             <guid>https://news.ycombinator.com/item?id=30895331</guid>
             <pubDate>Sun, 03 Apr 2022 08:11:46 GMT</pubDate>
             <description><![CDATA[CDC warns of a steep decline in teen mental health]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亞馬遜工人聊天軟件將禁止使用 "工會"、"加薪"、"奴隸勞動 "等詞彙]]></title>
-            <link>https://news.ycombinator.com/item?id=30911297</link>
-            <guid>https://news.ycombinator.com/item?id=30911297</guid>
-            <pubDate>Mon, 04 Apr 2022 19:57:44 GMT</pubDate>
-            <description><![CDATA[Amazon worker chat app to ban words such as “union”, “pay raise”, “slave labor”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tinygrad]]></title>
-            <link>https://news.ycombinator.com/item?id=30909719</link>
-            <guid>https://news.ycombinator.com/item?id=30909719</guid>
-            <pubDate>Mon, 04 Apr 2022 17:48:22 GMT</pubDate>
-            <description><![CDATA[Tinygrad]]></description>
         </item>
     </channel>
 </rss>
