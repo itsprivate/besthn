@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31762245",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31762245",
+            "title": "我们把50万个文件放在一个Git存储库中，我们学到了什么？\n",
+            "summary": "We Put Half a Million Files in One Git Repository, Here’s What We Learned",
+            "date_modified": "2022-06-16T03:42:28.000Z",
+            "author": {
+                "name": "Maxious",
+                "url": "https://news.ycombinator.com/user?id=Maxious"
+            },
+            "_original_headline": "We Put Half a Million Files in One Git Repository, Here’s What We Learned",
+            "_original_url": "https://canvatechblog.com/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned-ec734a764181",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31769601",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31769601",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://verdagon.dev/blog/yak-shave-language-engine-game",
             "_sensitive": false,
             "_score": 253
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30907119",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30907119",
-            "title": "RedwoodJS 1.0",
-            "summary": "RedwoodJS 1.0",
-            "date_modified": "2022-04-04T14:36:43.000Z",
-            "author": {
-                "name": "canyonero",
-                "url": "https://news.ycombinator.com/user?id=canyonero"
-            },
-            "_original_headline": "RedwoodJS 1.0",
-            "_original_url": "https://v1launchweek.redwoodjs.com/",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }

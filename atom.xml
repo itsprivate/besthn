@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-16T20:32:23.361Z</updated>
+    <updated>2022-06-16T21:27:15.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们把50万个文件放在一个Git存储库中，我们学到了什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31762245</id>
+        <link href="https://news.ycombinator.com/item?id=31762245"/>
+        <updated>2022-06-16T03:42:28.000Z</updated>
+        <summary type="html"><![CDATA[We Put Half a Million Files in One Git Repository, Here’s What We Learned]]></summary>
+        <author>
+            <name>Maxious</name>
+            <uri>https://news.ycombinator.com/user?id=Maxious</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告诉HN：Triplebyte又一次未经同意公开用户资料了
 ]]></title>
@@ -6852,17 +6864,6 @@
         <author>
             <name>markdog12</name>
             <uri>https://news.ycombinator.com/user?id=markdog12</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RedwoodJS 1.0]]></title>
-        <id>https://news.ycombinator.com/item?id=30907119</id>
-        <link href="https://news.ycombinator.com/item?id=30907119"/>
-        <updated>2022-04-04T14:36:43.000Z</updated>
-        <summary type="html"><![CDATA[RedwoodJS 1.0]]></summary>
-        <author>
-            <name>canyonero</name>
-            <uri>https://news.ycombinator.com/user?id=canyonero</uri>
         </author>
     </entry>
 </feed>
