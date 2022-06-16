@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 16 Jun 2022 20:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 20:32:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[告訴HN：Triplebyte又一次未經同意公開用戶資料了
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31769601</link>
+            <guid>https://news.ycombinator.com/item?id=31769601</guid>
+            <pubDate>Thu, 16 Jun 2022 18:55:29 GMT</pubDate>
+            <description><![CDATA[Tell HN: Triplebyte is, yet again, making user profiles public without consent]]></description>
+        </item>
         <item>
             <title><![CDATA[紅豆2.0變成了不只是一個愛好的項目
 ]]></title>
@@ -4455,13 +4463,6 @@
             <guid>https://news.ycombinator.com/item?id=30907119</guid>
             <pubDate>Mon, 04 Apr 2022 14:36:43 GMT</pubDate>
             <description><![CDATA[RedwoodJS 1.0]]></description>
-        </item>
-        <item>
-            <title><![CDATA[疾病預防控制中心警告說，青少年心理健康狀況急劇下降]]></title>
-            <link>https://news.ycombinator.com/item?id=30895331</link>
-            <guid>https://news.ycombinator.com/item?id=30895331</guid>
-            <pubDate>Sun, 03 Apr 2022 08:11:46 GMT</pubDate>
-            <description><![CDATA[CDC warns of a steep decline in teen mental health]]></description>
         </item>
     </channel>
 </rss>
