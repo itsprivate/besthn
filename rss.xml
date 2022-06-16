@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 16 Jun 2022 08:40:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 09:02:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[拍手。新的音频插件标准
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31759128</link>
+            <guid>https://news.ycombinator.com/item?id=31759128</guid>
+            <pubDate>Wed, 15 Jun 2022 20:36:30 GMT</pubDate>
+            <description><![CDATA[Clap: The New Audio Plug-In Standard]]></description>
+        </item>
         <item>
             <title><![CDATA[告诉HN：因举报Wickr毒品垃圾邮件而被禁止在LinkedIn工作
 ]]></title>
@@ -4446,13 +4454,6 @@
             <guid>https://news.ycombinator.com/item?id=30908084</guid>
             <pubDate>Mon, 04 Apr 2022 15:51:42 GMT</pubDate>
             <description><![CDATA[What I learned as a hired consultant to autodidact physicists (2016)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你是一个婴儿吗？一个试金石测试]]></title>
-            <link>https://news.ycombinator.com/item?id=30906621</link>
-            <guid>https://news.ycombinator.com/item?id=30906621</guid>
-            <pubDate>Mon, 04 Apr 2022 13:51:24 GMT</pubDate>
-            <description><![CDATA[Are you a baby? A litmus test]]></description>
         </item>
     </channel>
 </rss>
