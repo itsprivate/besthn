@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 16 Jun 2022 16:56:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 17:45:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[2022年云计算报告
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31765773</link>
+            <guid>https://news.ycombinator.com/item?id=31765773</guid>
+            <pubDate>Thu, 16 Jun 2022 13:25:24 GMT</pubDate>
+            <description><![CDATA[2022 Cloud Report]]></description>
+        </item>
         <item>
             <title><![CDATA[Wails - 由Go提供的电子替代方案
 ]]></title>
@@ -4452,13 +4460,6 @@
             <guid>https://news.ycombinator.com/item?id=30909719</guid>
             <pubDate>Mon, 04 Apr 2022 17:48:22 GMT</pubDate>
             <description><![CDATA[Tinygrad]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告诉HN：我孩子的学校安装了间谍软件，我无法将其删除]]></title>
-            <link>https://news.ycombinator.com/item?id=30911623</link>
-            <guid>https://news.ycombinator.com/item?id=30911623</guid>
-            <pubDate>Mon, 04 Apr 2022 20:32:18 GMT</pubDate>
-            <description><![CDATA[Tell HN: My kid's school installed spyware and I can't remove it]]></description>
         </item>
     </channel>
 </rss>
