@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31764015",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31764015",
+            "title": "Tauri 1.0 - 由Rust提供的电子替代方案\n",
+            "summary": "Tauri 1.0 – Electron Alternative Powered by Rust",
+            "date_modified": "2022-06-16T09:24:56.000Z",
+            "author": {
+                "name": "Uninen",
+                "url": "https://news.ycombinator.com/user?id=Uninen"
+            },
+            "_original_headline": "Tauri 1.0 – Electron Alternative Powered by Rust",
+            "_original_url": "https://tauri.studio/v1/guides/",
+            "_sensitive": false,
+            "_score": 270
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31762778",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31762778",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/",
             "_sensitive": false,
             "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30906879",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30906879",
-            "title": "我为什么要加入陆军预备役--为我的科技界朋友们做个解释",
-            "summary": "Why I'm in the Army Reserve – an explainer for my friends in tech",
-            "date_modified": "2022-04-04T14:15:37.000Z",
-            "author": {
-                "name": "chrisseaton",
-                "url": "https://news.ycombinator.com/user?id=chrisseaton"
-            },
-            "_original_headline": "Why I'm in the Army Reserve – an explainer for my friends in tech",
-            "_original_url": "https://chrisseaton.com/army/",
-            "_sensitive": false,
-            "_score": 258
         }
     ]
 }

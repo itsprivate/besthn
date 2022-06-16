@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-16T10:36:01.656Z</updated>
+    <updated>2022-06-16T12:58:36.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Tauri 1.0 - 由Rust提供的电子替代方案
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31764015</id>
+        <link href="https://news.ycombinator.com/item?id=31764015"/>
+        <updated>2022-06-16T09:24:56.000Z</updated>
+        <summary type="html"><![CDATA[Tauri 1.0 – Electron Alternative Powered by Rust]]></summary>
+        <author>
+            <name>Uninen</name>
+            <uri>https://news.ycombinator.com/user?id=Uninen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[.NET是开放的吗？微软推动专有扩展以取代OmniSharp
 ]]></title>
@@ -6844,17 +6856,6 @@
         <author>
             <name>_ttg</name>
             <uri>https://news.ycombinator.com/user?id=_ttg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我为什么要加入陆军预备役--为我的科技界朋友们做个解释]]></title>
-        <id>https://news.ycombinator.com/item?id=30906879</id>
-        <link href="https://news.ycombinator.com/item?id=30906879"/>
-        <updated>2022-04-04T14:15:37.000Z</updated>
-        <summary type="html"><![CDATA[Why I'm in the Army Reserve – an explainer for my friends in tech]]></summary>
-        <author>
-            <name>chrisseaton</name>
-            <uri>https://news.ycombinator.com/user?id=chrisseaton</uri>
         </author>
     </entry>
 </feed>
