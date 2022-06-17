@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31784602",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31784602",
+            "title": "据报道，三箭资本面临破产，加密货币泡沫正在破灭\n",
+            "summary": "Three Arrows Capital reportedly facing insolvency, crypto bubble is bursting",
+            "date_modified": "2022-06-17T21:28:55.000Z",
+            "author": {
+                "name": "paulpauper",
+                "url": "https://news.ycombinator.com/user?id=paulpauper"
+            },
+            "_original_headline": "Three Arrows Capital reportedly facing insolvency, crypto bubble is bursting",
+            "_original_url": "https://www.fxstreet.com/cryptocurrencies/news/three-arrows-capitals-zhu-su-speaks-out-after-400-million-liquidation-due-to-celsius-and-terras-luna-fiasco-202206150841",
+            "_sensitive": false,
+            "_score": 237
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31783508",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31783508",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "Intel's “Cripple AMD” Function (2019)",
             "_original_url": "https://www.agner.org/forum/viewtopic.php?t=6",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30931348",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30931348",
-            "title": "AT&T的网站在我每次刷新页面时都会提高价格",
-            "summary": "AT&T's website raising the price every time I refresh the page",
-            "date_modified": "2022-04-06T12:42:24.000Z",
-            "author": {
-                "name": "temp8964",
-                "url": "https://news.ycombinator.com/user?id=temp8964"
-            },
-            "_original_headline": "AT&T's website raising the price every time I refresh the page",
-            "_original_url": "https://reddit.com/r/assholedesign/comments/tx7umg/atts_website_raising_the_price_every_time_i/",
             "_sensitive": false,
             "_score": 250
         }
