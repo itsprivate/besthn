@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31778490",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31778490",
+            "title": "Gnome的文件選取器中沒有縮略圖，我的廁所被封鎖了(2021)\n",
+            "summary": "Gnome has no thumbnails in the file picker and my toilets are blocked (2021)",
+            "date_modified": "2022-06-17T14:13:51.000Z",
+            "author": {
+                "name": "weberer",
+                "url": "https://news.ycombinator.com/user?id=weberer"
+            },
+            "_original_headline": "Gnome has no thumbnails in the file picker and my toilets are blocked (2021)",
+            "_original_url": "https://jayfax.neocities.org/mediocrity/gnome-has-no-thumbnails-in-the-file-picker.html",
+            "_sensitive": false,
+            "_score": 213
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31774890",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31774890",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.masteringemacs.org/article/whats-new-in-emacs-28-1",
             "_sensitive": false,
             "_score": 258
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30932095",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30932095",
-            "title": "Dall-E 2",
-            "summary": "Dall-E 2",
-            "date_modified": "2022-04-06T14:09:04.000Z",
-            "author": {
-                "name": "yigitdemirag",
-                "url": "https://news.ycombinator.com/user?id=yigitdemirag"
-            },
-            "_original_headline": "Dall-E 2",
-            "_original_url": "https://openai.com/dall-e-2/",
-            "_sensitive": false,
-            "_score": 284
         }
     ]
 }

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 17 Jun 2022 16:53:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 17:39:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Gnome的文件選取器中沒有縮略圖，我的廁所被封鎖了(2021)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31778490</link>
+            <guid>https://news.ycombinator.com/item?id=31778490</guid>
+            <pubDate>Fri, 17 Jun 2022 14:13:51 GMT</pubDate>
+            <description><![CDATA[Gnome has no thumbnails in the file picker and my toilets are blocked (2021)]]></description>
+        </item>
         <item>
             <title><![CDATA[據稱SpaceX將解僱參與信中斥責埃隆-馬斯克的員工
 ]]></title>
@@ -4475,13 +4483,6 @@
             <guid>https://news.ycombinator.com/item?id=30930816</guid>
             <pubDate>Wed, 06 Apr 2022 11:23:33 GMT</pubDate>
             <description><![CDATA[What’s New in Emacs 28.1?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dall-E 2]]></title>
-            <link>https://news.ycombinator.com/item?id=30932095</link>
-            <guid>https://news.ycombinator.com/item?id=30932095</guid>
-            <pubDate>Wed, 06 Apr 2022 14:09:04 GMT</pubDate>
-            <description><![CDATA[Dall-E 2]]></description>
         </item>
     </channel>
 </rss>
