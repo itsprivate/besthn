@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-17T21:25:14.377Z</updated>
+    <updated>2022-06-17T21:59:19.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[審查《人民的互聯網》。為我們的數字未來而戰
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31773233</id>
+        <link href="https://news.ycombinator.com/item?id=31773233"/>
+        <updated>2022-06-17T01:50:56.000Z</updated>
+        <summary type="html"><![CDATA[Review of Internet for the People: The Fight for Our Digital Future]]></summary>
+        <author>
+            <name>doctorshady</name>
+            <uri>https://news.ycombinator.com/user?id=doctorshady</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CreuSAT。用Rust編寫並通過Creusot驗證的正式驗證的SAT求解器
 ]]></title>
@@ -6876,17 +6888,6 @@
         <author>
             <name>martin_a</name>
             <uri>https://news.ycombinator.com/user?id=martin_a</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我需要停止無聊]]></title>
-        <id>https://news.ycombinator.com/item?id=30929101</id>
-        <link href="https://news.ycombinator.com/item?id=30929101"/>
-        <updated>2022-04-06T06:39:23.000Z</updated>
-        <summary type="html"><![CDATA[I need to stop being boring]]></summary>
-        <author>
-            <name>patrickz</name>
-            <uri>https://news.ycombinator.com/user?id=patrickz</uri>
         </author>
     </entry>
 </feed>

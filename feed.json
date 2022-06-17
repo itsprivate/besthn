@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31773233",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31773233",
+            "title": "审查《人民的互联网》。为我们的数字未来而战\n",
+            "summary": "Review of Internet for the People: The Fight for Our Digital Future",
+            "date_modified": "2022-06-17T01:50:56.000Z",
+            "author": {
+                "name": "doctorshady",
+                "url": "https://news.ycombinator.com/user?id=doctorshady"
+            },
+            "_original_headline": "Review of Internet for the People: The Fight for Our Digital Future",
+            "_original_url": "https://jacobin.com/2022/06/internet-privatization-profit-centralization-democracy",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31780128",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31780128",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "Germany boosts renewables with “biggest energy policy reform in decades”",
             "_original_url": "https://www.cleanenergywire.org/news/germany-boosts-renewables-biggest-energy-policy-reform-decades",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30929101",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30929101",
-            "title": "我需要停止无聊",
-            "summary": "I need to stop being boring",
-            "date_modified": "2022-04-06T06:39:23.000Z",
-            "author": {
-                "name": "patrickz",
-                "url": "https://news.ycombinator.com/user?id=patrickz"
-            },
-            "_original_headline": "I need to stop being boring",
-            "_original_url": "https://patzhong.com/stop-being-boring/",
             "_sensitive": false,
             "_score": 250
         }

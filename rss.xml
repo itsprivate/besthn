@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 17 Jun 2022 21:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 21:59:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[审查《人民的互联网》。为我们的数字未来而战
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31773233</link>
+            <guid>https://news.ycombinator.com/item?id=31773233</guid>
+            <pubDate>Fri, 17 Jun 2022 01:50:56 GMT</pubDate>
+            <description><![CDATA[Review of Internet for the People: The Fight for Our Digital Future]]></description>
+        </item>
         <item>
             <title><![CDATA[CreuSAT。用Rust编写并通过Creusot验证的正式验证的SAT求解器
 ]]></title>
@@ -4480,13 +4488,6 @@
             <guid>https://news.ycombinator.com/item?id=30931803</guid>
             <pubDate>Wed, 06 Apr 2022 13:38:02 GMT</pubDate>
             <description><![CDATA[Germany boosts renewables with “biggest energy policy reform in decades”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我需要停止无聊]]></title>
-            <link>https://news.ycombinator.com/item?id=30929101</link>
-            <guid>https://news.ycombinator.com/item?id=30929101</guid>
-            <pubDate>Wed, 06 Apr 2022 06:39:23 GMT</pubDate>
-            <description><![CDATA[I need to stop being boring]]></description>
         </item>
     </channel>
 </rss>
