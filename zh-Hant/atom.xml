@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-17T14:49:31.647Z</updated>
+    <updated>2022-06-17T15:00:11.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Ante。一種低級別的功能語言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31775216</id>
+        <link href="https://news.ycombinator.com/item?id=31775216"/>
+        <updated>2022-06-17T07:39:40.000Z</updated>
+        <summary type="html"><![CDATA[Ante: A low-level functional language]]></summary>
+        <author>
+            <name>cheesestain</name>
+            <uri>https://news.ycombinator.com/user?id=cheesestain</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隱藏在今天的餅乾公告中的誘餌和陷阱
 ]]></title>
@@ -6869,17 +6881,6 @@
         <author>
             <name>samh748</name>
             <uri>https://news.ycombinator.com/user?id=samh748</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter正在使用其嵌入式JavaScript來隱藏已被刪除的推文]]></title>
-        <id>https://news.ycombinator.com/item?id=30928217</id>
-        <link href="https://news.ycombinator.com/item?id=30928217"/>
-        <updated>2022-04-06T03:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Twitter is using its embedded JavaScript to hide tweets that have been deleted]]></summary>
-        <author>
-            <name>epeus</name>
-            <uri>https://news.ycombinator.com/user?id=epeus</uri>
         </author>
     </entry>
 </feed>

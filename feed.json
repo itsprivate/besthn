@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31775216",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31775216",
+            "title": "Ante。一种低级别的功能语言\n",
+            "summary": "Ante: A low-level functional language",
+            "date_modified": "2022-06-17T07:39:40.000Z",
+            "author": {
+                "name": "cheesestain",
+                "url": "https://news.ycombinator.com/user?id=cheesestain"
+            },
+            "_original_headline": "Ante: A low-level functional language",
+            "_original_url": "https://antelang.org/",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31776895",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31776895",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://news.ycombinator.com/item?id=30928105",
             "_sensitive": false,
             "_score": 257
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30928217",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30928217",
-            "title": "Twitter正在使用其嵌入式JavaScript来隐藏已被删除的推文",
-            "summary": "Twitter is using its embedded JavaScript to hide tweets that have been deleted",
-            "date_modified": "2022-04-06T03:38:00.000Z",
-            "author": {
-                "name": "epeus",
-                "url": "https://news.ycombinator.com/user?id=epeus"
-            },
-            "_original_headline": "Twitter is using its embedded JavaScript to hide tweets that have been deleted",
-            "_original_url": "http://www.kevinmarks.com/twittereditsyou.html",
-            "_sensitive": false,
-            "_score": 256
         }
     ]
 }
