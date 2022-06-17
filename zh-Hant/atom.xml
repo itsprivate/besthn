@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-17T18:38:00.736Z</updated>
+    <updated>2022-06-17T19:50:45.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最令人滿意的複選框
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31781110</id>
+        <link href="https://news.ycombinator.com/item?id=31781110"/>
+        <updated>2022-06-17T17:01:57.000Z</updated>
+        <summary type="html"><![CDATA[The Most Satisfying Checkbox]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿茲特克萬神殿的視覺指南
 ]]></title>
@@ -6874,17 +6886,6 @@
         <author>
             <name>arciini</name>
             <uri>https://news.ycombinator.com/user?id=arciini</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[薩姆-奧特曼的Worldcoin承諾為他們提供免費的加密貨幣以進行眼球掃描]]></title>
-        <id>https://news.ycombinator.com/item?id=30931614</id>
-        <link href="https://news.ycombinator.com/item?id=30931614"/>
-        <updated>2022-04-06T13:17:46.000Z</updated>
-        <summary type="html"><![CDATA[Sam Altman’s Worldcoin promised them free crypto for an eyeball scan]]></summary>
-        <author>
-            <name>donohoe</name>
-            <uri>https://news.ycombinator.com/user?id=donohoe</uri>
         </author>
     </entry>
 </feed>

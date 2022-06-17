@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 17 Jun 2022 18:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 19:50:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[最令人滿意的複選框
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31781110</link>
+            <guid>https://news.ycombinator.com/item?id=31781110</guid>
+            <pubDate>Fri, 17 Jun 2022 17:01:57 GMT</pubDate>
+            <description><![CDATA[The Most Satisfying Checkbox]]></description>
+        </item>
         <item>
             <title><![CDATA[阿茲特克萬神殿的視覺指南
 ]]></title>
@@ -4478,13 +4486,6 @@
             <guid>https://news.ycombinator.com/item?id=30926834</guid>
             <pubDate>Wed, 06 Apr 2022 00:17:10 GMT</pubDate>
             <description><![CDATA[From Belonging to Burnout, Five Years at Airbnb]]></description>
-        </item>
-        <item>
-            <title><![CDATA[薩姆-奧特曼的Worldcoin承諾為他們提供免費的加密貨幣以進行眼球掃描]]></title>
-            <link>https://news.ycombinator.com/item?id=30931614</link>
-            <guid>https://news.ycombinator.com/item?id=30931614</guid>
-            <pubDate>Wed, 06 Apr 2022 13:17:46 GMT</pubDate>
-            <description><![CDATA[Sam Altman’s Worldcoin promised them free crypto for an eyeball scan]]></description>
         </item>
     </channel>
 </rss>
