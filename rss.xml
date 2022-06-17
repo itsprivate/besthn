@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 17 Jun 2022 02:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 03:44:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[呼唤反垄断改革
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31770432</link>
+            <guid>https://news.ycombinator.com/item?id=31770432</guid>
+            <pubDate>Thu, 16 Jun 2022 20:14:38 GMT</pubDate>
+            <description><![CDATA[Calling for Antitrust Reform]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Recut自动删除视频中的静音--用Tauri构建的
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31767830</link>
+            <guid>https://news.ycombinator.com/item?id=31767830</guid>
+            <pubDate>Thu, 16 Jun 2022 16:19:30 GMT</pubDate>
+            <description><![CDATA[Show HN: Recut automatically removes silence from videos – built with Tauri]]></description>
+        </item>
         <item>
             <title><![CDATA[酷炫的台式机不会改变
 ]]></title>
@@ -4457,20 +4473,6 @@
             <guid>https://news.ycombinator.com/item?id=30920345</guid>
             <pubDate>Tue, 05 Apr 2022 15:36:49 GMT</pubDate>
             <description><![CDATA[Unreal Engine 5 is now available]]></description>
-        </item>
-        <item>
-            <title><![CDATA[德国已经夺取了Gazprom Germania的控制权]]></title>
-            <link>https://news.ycombinator.com/item?id=30917396</link>
-            <guid>https://news.ycombinator.com/item?id=30917396</guid>
-            <pubDate>Tue, 05 Apr 2022 10:48:37 GMT</pubDate>
-            <description><![CDATA[Germany has seized control of Gazprom Germania]]></description>
-        </item>
-        <item>
-            <title><![CDATA[神经舞者》对赛博朋克的影响]]></title>
-            <link>https://news.ycombinator.com/item?id=30918411</link>
-            <guid>https://news.ycombinator.com/item?id=30918411</guid>
-            <pubDate>Tue, 05 Apr 2022 13:01:57 GMT</pubDate>
-            <description><![CDATA[The Influence of Neuromancer on Cyberpunk]]></description>
         </item>
     </channel>
 </rss>
