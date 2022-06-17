@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-17T05:08:39.911Z</updated>
+    <updated>2022-06-17T05:46:16.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如今，保持匿名开发者的身份仍然是可以想象的吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31763451</id>
+        <link href="https://news.ycombinator.com/item?id=31763451"/>
+        <updated>2022-06-16T07:40:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is it still conceivable to remain an anonymous developer nowadays?]]></summary>
+        <author>
+            <name>synappser</name>
+            <uri>https://news.ycombinator.com/user?id=synappser</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[让企业功能开放源代码
 ]]></title>
@@ -6865,17 +6877,6 @@
         <author>
             <name>dSebastien</name>
             <uri>https://news.ycombinator.com/user?id=dSebastien</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的免费软件摄影工作流程]]></title>
-        <id>https://news.ycombinator.com/item?id=30904845</id>
-        <link href="https://news.ycombinator.com/item?id=30904845"/>
-        <updated>2022-04-04T09:54:27.000Z</updated>
-        <summary type="html"><![CDATA[My free-software photography workflow]]></summary>
-        <author>
-            <name>fidelramos</name>
-            <uri>https://news.ycombinator.com/user?id=fidelramos</uri>
         </author>
     </entry>
 </feed>
