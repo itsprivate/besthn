@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-17T03:44:46.956Z</updated>
+    <updated>2022-06-17T04:22:57.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[動畫的橢圓曲線
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31769059</id>
+        <link href="https://news.ycombinator.com/item?id=31769059"/>
+        <updated>2022-06-16T18:00:25.000Z</updated>
+        <summary type="html"><![CDATA[The animated elliptic curve]]></summary>
+        <author>
+            <name>metadat</name>
+            <uri>https://news.ycombinator.com/user?id=metadat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[正在賺錢的副業項目，但你不願意談論它們？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31764696</id>
+        <link href="https://news.ycombinator.com/item?id=31764696"/>
+        <updated>2022-06-16T11:17:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Side projects that are making money, but you'd not talk about them?]]></summary>
+        <author>
+            <name>CodeSgt</name>
+            <uri>https://news.ycombinator.com/user?id=CodeSgt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[呼喚反壟斷改革
 ]]></title>
@@ -6851,28 +6875,6 @@
         <author>
             <name>jaboutboul</name>
             <uri>https://news.ycombinator.com/user?id=jaboutboul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[下一個谷歌]]></title>
-        <id>https://news.ycombinator.com/item?id=30921628</id>
-        <link href="https://news.ycombinator.com/item?id=30921628"/>
-        <updated>2022-04-05T17:03:25.000Z</updated>
-        <summary type="html"><![CDATA[The Next Google]]></summary>
-        <author>
-            <name>dbrereton</name>
-            <uri>https://news.ycombinator.com/user?id=dbrereton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虛幻引擎5現已上市]]></title>
-        <id>https://news.ycombinator.com/item?id=30920345</id>
-        <link href="https://news.ycombinator.com/item?id=30920345"/>
-        <updated>2022-04-05T15:36:49.000Z</updated>
-        <summary type="html"><![CDATA[Unreal Engine 5 is now available]]></summary>
-        <author>
-            <name>laurencei</name>
-            <uri>https://news.ycombinator.com/user?id=laurencei</uri>
         </author>
     </entry>
 </feed>

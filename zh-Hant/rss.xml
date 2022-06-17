@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 17 Jun 2022 03:44:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 04:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[動畫的橢圓曲線
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31769059</link>
+            <guid>https://news.ycombinator.com/item?id=31769059</guid>
+            <pubDate>Thu, 16 Jun 2022 18:00:25 GMT</pubDate>
+            <description><![CDATA[The animated elliptic curve]]></description>
+        </item>
+        <item>
+            <title><![CDATA[正在賺錢的副業項目，但你不願意談論它們？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31764696</link>
+            <guid>https://news.ycombinator.com/item?id=31764696</guid>
+            <pubDate>Thu, 16 Jun 2022 11:17:53 GMT</pubDate>
+            <description><![CDATA[Ask HN: Side projects that are making money, but you'd not talk about them?]]></description>
+        </item>
         <item>
             <title><![CDATA[呼喚反壟斷改革
 ]]></title>
@@ -4459,20 +4475,6 @@
             <guid>https://news.ycombinator.com/item?id=30922808</guid>
             <pubDate>Tue, 05 Apr 2022 18:19:31 GMT</pubDate>
             <description><![CDATA[300 Drones Formed a QR Code That Rick Rolled Dallas on April Fools' Day]]></description>
-        </item>
-        <item>
-            <title><![CDATA[下一個谷歌]]></title>
-            <link>https://news.ycombinator.com/item?id=30921628</link>
-            <guid>https://news.ycombinator.com/item?id=30921628</guid>
-            <pubDate>Tue, 05 Apr 2022 17:03:25 GMT</pubDate>
-            <description><![CDATA[The Next Google]]></description>
-        </item>
-        <item>
-            <title><![CDATA[虛幻引擎5現已上市]]></title>
-            <link>https://news.ycombinator.com/item?id=30920345</link>
-            <guid>https://news.ycombinator.com/item?id=30920345</guid>
-            <pubDate>Tue, 05 Apr 2022 15:36:49 GMT</pubDate>
-            <description><![CDATA[Unreal Engine 5 is now available]]></description>
         </item>
     </channel>
 </rss>
