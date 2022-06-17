@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-16T23:59:40.573Z</updated>
+    <updated>2022-06-17T02:21:26.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[酷炫的臺式機不會改變
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31769604</id>
+        <link href="https://news.ycombinator.com/item?id=31769604"/>
+        <updated>2022-06-16T18:55:39.000Z</updated>
+        <summary type="html"><![CDATA[Cool Desktops Don’t Change]]></summary>
+        <author>
+            <name>thcipriani</name>
+            <uri>https://news.ycombinator.com/user?id=thcipriani</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從1970年到今天的連續Unix提交歷史
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31766179</id>
+        <link href="https://news.ycombinator.com/item?id=31766179"/>
+        <updated>2022-06-16T14:04:12.000Z</updated>
+        <summary type="html"><![CDATA[Continuous Unix commit history from 1970 until today]]></summary>
+        <author>
+            <name>FrankyHollywood</name>
+            <uri>https://news.ycombinator.com/user?id=FrankyHollywood</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[讓你的同事印象深刻的macOS截圖技巧
 ]]></title>
@@ -6847,28 +6871,6 @@
         <author>
             <name>sebastianvoelkl</name>
             <uri>https://news.ycombinator.com/user?id=sebastianvoelkl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warp，一個基於Rust的終端]]></title>
-        <id>https://news.ycombinator.com/item?id=30921231</id>
-        <link href="https://news.ycombinator.com/item?id=30921231"/>
-        <updated>2022-04-05T16:40:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Warp, a Rust-based terminal]]></summary>
-        <author>
-            <name>zachlloyd</name>
-            <uri>https://news.ycombinator.com/user?id=zachlloyd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-馬斯克將加入Twitter的董事會]]></title>
-        <id>https://news.ycombinator.com/item?id=30918534</id>
-        <link href="https://news.ycombinator.com/item?id=30918534"/>
-        <updated>2022-04-05T13:13:31.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk to join Twitter’s board of directors]]></summary>
-        <author>
-            <name>alexrustic</name>
-            <uri>https://news.ycombinator.com/user?id=alexrustic</uri>
         </author>
     </entry>
 </feed>
