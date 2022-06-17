@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 17 Jun 2022 15:00:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 16:53:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[据称SpaceX将解雇参与信中斥责埃隆-马斯克的员工
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31774890</link>
+            <guid>https://news.ycombinator.com/item?id=31774890</guid>
+            <pubDate>Fri, 17 Jun 2022 06:51:40 GMT</pubDate>
+            <description><![CDATA[SpaceX said to fire employees involved in letter rebuking Elon Musk]]></description>
+        </item>
         <item>
             <title><![CDATA[Ante。一种低级别的功能语言
 ]]></title>
@@ -4474,13 +4482,6 @@
             <guid>https://news.ycombinator.com/item?id=30932095</guid>
             <pubDate>Wed, 06 Apr 2022 14:09:04 GMT</pubDate>
             <description><![CDATA[Dall-E 2]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我对这么多学科感兴趣，但我能用这些做什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30928105</link>
-            <guid>https://news.ycombinator.com/item?id=30928105</guid>
-            <pubDate>Wed, 06 Apr 2022 03:18:17 GMT</pubDate>
-            <description><![CDATA[Ask HN: I'm interested in so many disciplines, but what can I do with that?]]></description>
         </item>
     </channel>
 </rss>
