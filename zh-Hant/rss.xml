@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 17 Jun 2022 05:46:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 07:32:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼我不再有資格成為Brex的客戶？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31772211</link>
+            <guid>https://news.ycombinator.com/item?id=31772211</guid>
+            <pubDate>Thu, 16 Jun 2022 23:22:36 GMT</pubDate>
+            <description><![CDATA[Why am I no longer qualified to be a Brex customer?]]></description>
+        </item>
         <item>
             <title><![CDATA[如今，保持匿名開發者的身份仍然是可以想象的嗎？
 ]]></title>
@@ -4470,13 +4478,6 @@
             <guid>https://news.ycombinator.com/item?id=30919257</guid>
             <pubDate>Tue, 05 Apr 2022 14:16:33 GMT</pubDate>
             <description><![CDATA[Show HN: Datagridxl2.js – Fast Excel-like data table library]]></description>
-        </item>
-        <item>
-            <title><![CDATA[25年以上的個人知識管理]]></title>
-            <link>https://news.ycombinator.com/item?id=30903940</link>
-            <guid>https://news.ycombinator.com/item?id=30903940</guid>
-            <pubDate>Mon, 04 Apr 2022 06:54:25 GMT</pubDate>
-            <description><![CDATA[25+ years of personal knowledge management]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-17T05:46:16.988Z</updated>
+    <updated>2022-06-17T07:32:32.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼我不再有資格成為Brex的客戶？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31772211</id>
+        <link href="https://news.ycombinator.com/item?id=31772211"/>
+        <updated>2022-06-16T23:22:36.000Z</updated>
+        <summary type="html"><![CDATA[Why am I no longer qualified to be a Brex customer?]]></summary>
+        <author>
+            <name>tvjames</name>
+            <uri>https://news.ycombinator.com/user?id=tvjames</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如今，保持匿名開發者的身份仍然是可以想象的嗎？
 ]]></title>
@@ -6866,17 +6878,6 @@
         <author>
             <name>robbiejs</name>
             <uri>https://news.ycombinator.com/user?id=robbiejs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[25年以上的個人知識管理]]></title>
-        <id>https://news.ycombinator.com/item?id=30903940</id>
-        <link href="https://news.ycombinator.com/item?id=30903940"/>
-        <updated>2022-04-04T06:54:25.000Z</updated>
-        <summary type="html"><![CDATA[25+ years of personal knowledge management]]></summary>
-        <author>
-            <name>dSebastien</name>
-            <uri>https://news.ycombinator.com/user?id=dSebastien</uri>
         </author>
     </entry>
 </feed>
