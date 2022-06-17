@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 17 Jun 2022 17:39:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 18:02:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[泄露的亚马逊备忘录警告说，该公司正在耗尽招聘的人员
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31778909</link>
+            <guid>https://news.ycombinator.com/item?id=31778909</guid>
+            <pubDate>Fri, 17 Jun 2022 14:40:58 GMT</pubDate>
+            <description><![CDATA[Leaked Amazon memo warns the company is running out of people to hire]]></description>
+        </item>
         <item>
             <title><![CDATA[Gnome的文件选取器中没有缩略图，我的厕所被封锁了(2021)
 ]]></title>
@@ -4476,13 +4484,6 @@
             <guid>https://news.ycombinator.com/item?id=30932201</guid>
             <pubDate>Wed, 06 Apr 2022 14:18:14 GMT</pubDate>
             <description><![CDATA[Intel took an AMD Zen microarchitecture presentation and turned it into a patent]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Emacs 28.1有什么新内容？]]></title>
-            <link>https://news.ycombinator.com/item?id=30930816</link>
-            <guid>https://news.ycombinator.com/item?id=30930816</guid>
-            <pubDate>Wed, 06 Apr 2022 11:23:33 GMT</pubDate>
-            <description><![CDATA[What’s New in Emacs 28.1?]]></description>
         </item>
     </channel>
 </rss>

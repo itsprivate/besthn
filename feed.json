@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31778909",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31778909",
+            "title": "泄露的亚马逊备忘录警告说，该公司正在耗尽招聘的人员\n",
+            "summary": "Leaked Amazon memo warns the company is running out of people to hire",
+            "date_modified": "2022-06-17T14:40:58.000Z",
+            "author": {
+                "name": "Umofomia",
+                "url": "https://news.ycombinator.com/user?id=Umofomia"
+            },
+            "_original_headline": "Leaked Amazon memo warns the company is running out of people to hire",
+            "_original_url": "https://www.vox.com/recode/23170900/leaked-amazon-memo-warehouses-hiring-shortage",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31778490",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31778490",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://twitter.com/Underfox3/status/1511697355145367564",
             "_sensitive": false,
             "_score": 272
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30930816",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30930816",
-            "title": "Emacs 28.1有什么新内容？",
-            "summary": "What’s New in Emacs 28.1?",
-            "date_modified": "2022-04-06T11:23:33.000Z",
-            "author": {
-                "name": "abzug",
-                "url": "https://news.ycombinator.com/user?id=abzug"
-            },
-            "_original_headline": "What’s New in Emacs 28.1?",
-            "_original_url": "https://www.masteringemacs.org/article/whats-new-in-emacs-28-1",
-            "_sensitive": false,
-            "_score": 258
         }
     ]
 }
