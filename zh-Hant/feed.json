@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31787038",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31787038",
+            "title": "敞開式人工智能\n",
+            "summary": "OpenAI",
+            "date_modified": "2022-06-18T03:27:41.000Z",
+            "author": {
+                "name": "2mol",
+                "url": "https://news.ycombinator.com/user?id=2mol"
+            },
+            "_original_headline": "OpenAI",
+            "_original_url": "https://scottaaronson.blog/?p=6484",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31791124",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31791124",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "A whole website in a single JavaScript file",
             "_original_url": "https://deno.com/blog/a-whole-website-in-a-single-js-file",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30936333",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30936333",
-            "title": "你可以用一個空文件做很多事情",
-            "summary": "You can do a lot with an empty file",
-            "date_modified": "2022-04-06T19:16:37.000Z",
-            "author": {
-                "name": "picture",
-                "url": "https://news.ycombinator.com/user?id=picture"
-            },
-            "_original_headline": "You can do a lot with an empty file",
-            "_original_url": "https://rachelbythebay.com/w/2022/04/06/text/",
             "_sensitive": false,
             "_score": 250
         }
