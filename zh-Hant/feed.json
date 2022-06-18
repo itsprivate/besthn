@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31785199",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31785199",
+            "title": "一個具有現實經濟模型的中央銀行模擬遊戲\n",
+            "summary": "Show HN: A central bank simulator game with a realistic economic model",
+            "date_modified": "2022-06-17T22:24:21.000Z",
+            "author": {
+                "name": "BenoitEssiambre",
+                "url": "https://news.ycombinator.com/user?id=BenoitEssiambre"
+            },
+            "_original_headline": "Show HN: A central bank simulator game with a realistic economic model",
+            "_original_url": "https://benoitessiambre.com/macro.html",
+            "_sensitive": false,
+            "_score": 260
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31782200",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31782200",
+            "title": "有史以來最好的開發工具投稿？\n",
+            "summary": "Ask HN: Best dev tool pitches of all time?",
+            "date_modified": "2022-06-17T18:18:41.000Z",
+            "author": {
+                "name": "swyx",
+                "url": "https://news.ycombinator.com/user?id=swyx"
+            },
+            "_original_headline": "Ask HN: Best dev tool pitches of all time?",
+            "_original_url": "https://news.ycombinator.com/item?id=31782200",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31774608",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31774608",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://danluu.com/simple-architectures/",
             "_sensitive": false,
             "_score": 254
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30934721",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30934721",
-            "title": "真正的單向函數的存在取決於Kolmogorov複雜性",
-            "summary": "The existence of true one-way functions depends on Kolmogorov complexity",
-            "date_modified": "2022-04-06T17:01:46.000Z",
-            "author": {
-                "name": "theafh",
-                "url": "https://news.ycombinator.com/user?id=theafh"
-            },
-            "_original_headline": "The existence of true one-way functions depends on Kolmogorov complexity",
-            "_original_url": "https://www.quantamagazine.org/researchers-identify-master-problem-underlying-all-cryptography-20220406/",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30928081",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30928081",
-            "title": "本網站的設計(2021年)",
-            "summary": "Design of This Website (2021)",
-            "date_modified": "2022-04-06T03:15:02.000Z",
-            "author": {
-                "name": "harporoeder",
-                "url": "https://news.ycombinator.com/user?id=harporoeder"
-            },
-            "_original_headline": "Design of This Website (2021)",
-            "_original_url": "https://www.gwern.net/Design",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }

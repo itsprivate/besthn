@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 18 Jun 2022 02:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 03:39:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个具有现实经济模型的中央银行模拟游戏
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31785199</link>
+            <guid>https://news.ycombinator.com/item?id=31785199</guid>
+            <pubDate>Fri, 17 Jun 2022 22:24:21 GMT</pubDate>
+            <description><![CDATA[Show HN: A central bank simulator game with a realistic economic model]]></description>
+        </item>
+        <item>
+            <title><![CDATA[有史以来最好的开发工具投稿？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31782200</link>
+            <guid>https://news.ycombinator.com/item?id=31782200</guid>
+            <pubDate>Fri, 17 Jun 2022 18:18:41 GMT</pubDate>
+            <description><![CDATA[Ask HN: Best dev tool pitches of all time?]]></description>
+        </item>
         <item>
             <title><![CDATA[互联网档案馆开设温哥华总部，为科技界提供会议空间
 ]]></title>
@@ -4477,20 +4493,6 @@
             <guid>https://news.ycombinator.com/item?id=30936189</guid>
             <pubDate>Wed, 06 Apr 2022 19:04:29 GMT</pubDate>
             <description><![CDATA[In defense of simple architectures]]></description>
-        </item>
-        <item>
-            <title><![CDATA[真正的单向函数的存在取决于Kolmogorov复杂性]]></title>
-            <link>https://news.ycombinator.com/item?id=30934721</link>
-            <guid>https://news.ycombinator.com/item?id=30934721</guid>
-            <pubDate>Wed, 06 Apr 2022 17:01:46 GMT</pubDate>
-            <description><![CDATA[The existence of true one-way functions depends on Kolmogorov complexity]]></description>
-        </item>
-        <item>
-            <title><![CDATA[本网站的设计(2021年)]]></title>
-            <link>https://news.ycombinator.com/item?id=30928081</link>
-            <guid>https://news.ycombinator.com/item?id=30928081</guid>
-            <pubDate>Wed, 06 Apr 2022 03:15:02 GMT</pubDate>
-            <description><![CDATA[Design of This Website (2021)]]></description>
         </item>
     </channel>
 </rss>
