@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31791444",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31791444",
+            "title": "美國能源部宣佈在住宅寒冷氣候熱泵技術方面取得突破性進展\n",
+            "summary": "DOE announces breakthrough in residential cold climate heat pump technology",
+            "date_modified": "2022-06-18T16:39:04.000Z",
+            "author": {
+                "name": "josephscott",
+                "url": "https://news.ycombinator.com/user?id=josephscott"
+            },
+            "_original_headline": "DOE announces breakthrough in residential cold climate heat pump technology",
+            "_original_url": "https://www.energy.gov/articles/doe-announces-breakthrough-residential-cold-climate-heat-pump-technology",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31788923",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31788923",
+            "title": "Patreon深挖創作者的口袋\n",
+            "summary": "Patreon cuts deep inside creators’ pockets",
+            "date_modified": "2022-06-18T11:30:24.000Z",
+            "author": {
+                "name": "solospace",
+                "url": "https://news.ycombinator.com/user?id=solospace"
+            },
+            "_original_headline": "Patreon cuts deep inside creators’ pockets",
+            "_original_url": "https://thoughts.jatan.space/p/patreon-cuts-deep",
+            "_sensitive": false,
+            "_score": 207
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31788894",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31788894",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/",
             "_sensitive": false,
             "_score": 254
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30932552",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30932552",
-            "title": "λ-2D：將繪畫作為編程語言的探索",
-            "summary": "λ-2D: An exploration of drawing as programming language",
-            "date_modified": "2022-04-06T14:44:41.000Z",
-            "author": {
-                "name": "ink404",
-                "url": "https://news.ycombinator.com/user?id=ink404"
-            },
-            "_original_headline": "λ-2D: An exploration of drawing as programming language",
-            "_original_url": "https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30932596",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30932596",
-            "title": "你的競爭對手寫了你要競標的徵求意見書",
-            "summary": "Your competitor wrote the RFP you're bidding on",
-            "date_modified": "2022-04-06T14:48:40.000Z",
-            "author": {
-                "name": "asyncscrum",
-                "url": "https://news.ycombinator.com/user?id=asyncscrum"
-            },
-            "_original_headline": "Your competitor wrote the RFP you're bidding on",
-            "_original_url": "https://www.sofuckingagile.com/blog/your-competitor-wrote-the-rfp-you-are-bidding-on",
-            "_sensitive": false,
-            "_score": 251
         }
     ]
 }

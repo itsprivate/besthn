@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 18 Jun 2022 17:46:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 20:29:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美國能源部宣佈在住宅寒冷氣候熱泵技術方面取得突破性進展
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31791444</link>
+            <guid>https://news.ycombinator.com/item?id=31791444</guid>
+            <pubDate>Sat, 18 Jun 2022 16:39:04 GMT</pubDate>
+            <description><![CDATA[DOE announces breakthrough in residential cold climate heat pump technology]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Patreon深挖創作者的口袋
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31788923</link>
+            <guid>https://news.ycombinator.com/item?id=31788923</guid>
+            <pubDate>Sat, 18 Jun 2022 11:30:24 GMT</pubDate>
+            <description><![CDATA[Patreon cuts deep inside creators’ pockets]]></description>
+        </item>
         <item>
             <title><![CDATA[蘋果公司在其磁盤I/O節流代碼中存在一個錯誤，影響到原始磁盤拷貝
 ]]></title>
@@ -4481,20 +4497,6 @@
             <guid>https://news.ycombinator.com/item?id=30937433</guid>
             <pubDate>Wed, 06 Apr 2022 21:07:47 GMT</pubDate>
             <description><![CDATA[AWS Lambda function URLs: Built-in HTTPS endpoints]]></description>
-        </item>
-        <item>
-            <title><![CDATA[λ-2D：將繪畫作為編程語言的探索]]></title>
-            <link>https://news.ycombinator.com/item?id=30932552</link>
-            <guid>https://news.ycombinator.com/item?id=30932552</guid>
-            <pubDate>Wed, 06 Apr 2022 14:44:41 GMT</pubDate>
-            <description><![CDATA[λ-2D: An exploration of drawing as programming language]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你的競爭對手寫了你要競標的徵求意見書]]></title>
-            <link>https://news.ycombinator.com/item?id=30932596</link>
-            <guid>https://news.ycombinator.com/item?id=30932596</guid>
-            <pubDate>Wed, 06 Apr 2022 14:48:40 GMT</pubDate>
-            <description><![CDATA[Your competitor wrote the RFP you're bidding on]]></description>
         </item>
     </channel>
 </rss>
