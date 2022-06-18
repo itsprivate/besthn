@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 17 Jun 2022 23:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 02:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[互聯網檔案館開設溫哥華總部，為科技界提供會議空間
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31774608</link>
+            <guid>https://news.ycombinator.com/item?id=31774608</guid>
+            <pubDate>Fri, 17 Jun 2022 06:07:18 GMT</pubDate>
+            <description><![CDATA[Internet Archive opens Vancouver headquarters, meeting space for the tech world]]></description>
+        </item>
         <item>
             <title><![CDATA[據報道，三箭資本面臨破產，加密貨幣泡沫正在破滅
 ]]></title>
@@ -4483,13 +4491,6 @@
             <guid>https://news.ycombinator.com/item?id=30928081</guid>
             <pubDate>Wed, 06 Apr 2022 03:15:02 GMT</pubDate>
             <description><![CDATA[Design of This Website (2021)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英特爾的 "削弱AMD "功能（2019年）]]></title>
-            <link>https://news.ycombinator.com/item?id=30935064</link>
-            <guid>https://news.ycombinator.com/item?id=30935064</guid>
-            <pubDate>Wed, 06 Apr 2022 17:27:26 GMT</pubDate>
-            <description><![CDATA[Intel's “Cripple AMD” Function (2019)]]></description>
         </item>
     </channel>
 </rss>

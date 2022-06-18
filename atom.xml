@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-17T23:27:13.303Z</updated>
+    <updated>2022-06-18T02:24:34.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[互联网档案馆开设温哥华总部，为科技界提供会议空间
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31774608</id>
+        <link href="https://news.ycombinator.com/item?id=31774608"/>
+        <updated>2022-06-17T06:07:18.000Z</updated>
+        <summary type="html"><![CDATA[Internet Archive opens Vancouver headquarters, meeting space for the tech world]]></summary>
+        <author>
+            <name>danbolt</name>
+            <uri>https://news.ycombinator.com/user?id=danbolt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[据报道，三箭资本面临破产，加密货币泡沫正在破灭
 ]]></title>
@@ -6879,17 +6891,6 @@
         <author>
             <name>harporoeder</name>
             <uri>https://news.ycombinator.com/user?id=harporoeder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔的 "削弱AMD "功能（2019年）]]></title>
-        <id>https://news.ycombinator.com/item?id=30935064</id>
-        <link href="https://news.ycombinator.com/item?id=30935064"/>
-        <updated>2022-04-06T17:27:26.000Z</updated>
-        <summary type="html"><![CDATA[Intel's “Cripple AMD” Function (2019)]]></summary>
-        <author>
-            <name>phab</name>
-            <uri>https://news.ycombinator.com/user?id=phab</uri>
         </author>
     </entry>
 </feed>
