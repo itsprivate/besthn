@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-18T06:33:39.377Z</updated>
+    <updated>2022-06-18T17:46:05.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果公司在其磁盤I/O節流代碼中存在一個錯誤，影響到原始磁盤拷貝
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31788894</id>
+        <link href="https://news.ycombinator.com/item?id=31788894"/>
+        <updated>2022-06-18T11:27:36.000Z</updated>
+        <summary type="html"><![CDATA[Apple has a bug in its disk I/O throttling code that affects raw disk copies]]></summary>
+        <author>
+            <name>lapcat</name>
+            <uri>https://news.ycombinator.com/user?id=lapcat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Vale和Neovim像專家一樣寫作
 ]]></title>
@@ -6883,17 +6895,6 @@
         <author>
             <name>asyncscrum</name>
             <uri>https://news.ycombinator.com/user?id=asyncscrum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分享你的個人網站]]></title>
-        <id>https://news.ycombinator.com/item?id=30934529</id>
-        <link href="https://news.ycombinator.com/item?id=30934529"/>
-        <updated>2022-04-06T16:48:33.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Share your personal site]]></summary>
-        <author>
-            <name>MaxLeiter</name>
-            <uri>https://news.ycombinator.com/user?id=MaxLeiter</uri>
         </author>
     </entry>
 </feed>
