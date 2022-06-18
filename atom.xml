@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-18T20:29:27.091Z</updated>
+    <updated>2022-06-18T21:44:36.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[日本NTT开始将远程工作作为3万名员工的常态
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31791124</id>
+        <link href="https://news.ycombinator.com/item?id=31791124"/>
+        <updated>2022-06-18T16:07:33.000Z</updated>
+        <summary type="html"><![CDATA[Japan's NTT to begin remote work as norm for 30k employees]]></summary>
+        <author>
+            <name>njacobs5074</name>
+            <uri>https://news.ycombinator.com/user?id=njacobs5074</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国能源部宣布在住宅寒冷气候热泵技术方面取得突破性进展
 ]]></title>
@@ -6886,17 +6898,6 @@
         <author>
             <name>picture</name>
             <uri>https://news.ycombinator.com/user?id=picture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda函数的URL。内置HTTPS端点]]></title>
-        <id>https://news.ycombinator.com/item?id=30937433</id>
-        <link href="https://news.ycombinator.com/item?id=30937433"/>
-        <updated>2022-04-06T21:07:47.000Z</updated>
-        <summary type="html"><![CDATA[AWS Lambda function URLs: Built-in HTTPS endpoints]]></summary>
-        <author>
-            <name>vvoyer</name>
-            <uri>https://news.ycombinator.com/user?id=vvoyer</uri>
         </author>
     </entry>
 </feed>
