@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 19 Jun 2022 02:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 03:54:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[V语言评论
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31793554</link>
+            <guid>https://news.ycombinator.com/item?id=31793554</guid>
+            <pubDate>Sat, 18 Jun 2022 20:31:35 GMT</pubDate>
+            <description><![CDATA[V Language Review]]></description>
+        </item>
         <item>
             <title><![CDATA[为Windows交叉编译二进制文件比本地构建更容易
 ]]></title>
@@ -4498,13 +4506,6 @@
             <guid>https://news.ycombinator.com/item?id=30943018</guid>
             <pubDate>Thu, 07 Apr 2022 11:17:14 GMT</pubDate>
             <description><![CDATA[The 0,5 MB of nothing in all Apple Music files (2020)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告诉HN：招聘人员在远程职位上撒谎]]></title>
-            <link>https://news.ycombinator.com/item?id=30945451</link>
-            <guid>https://news.ycombinator.com/item?id=30945451</guid>
-            <pubDate>Thu, 07 Apr 2022 15:09:35 GMT</pubDate>
-            <description><![CDATA[Tell HN: Recruiters are lying about remote positions]]></description>
         </item>
     </channel>
 </rss>
