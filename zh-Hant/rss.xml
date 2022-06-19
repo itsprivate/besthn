@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 19 Jun 2022 21:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 22:45:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Solend公司扣押了1.7億美元的用戶資金
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31802600</link>
+            <guid>https://news.ycombinator.com/item?id=31802600</guid>
+            <pubDate>Sun, 19 Jun 2022 19:35:34 GMT</pubDate>
+            <description><![CDATA[Solend seized $170M of user funds]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼科學新聞如此糟糕？
 ]]></title>
@@ -4510,13 +4518,6 @@
             <guid>https://news.ycombinator.com/item?id=30949048</guid>
             <pubDate>Thu, 07 Apr 2022 19:10:48 GMT</pubDate>
             <description><![CDATA[The ever-increasing walled-gardeness of Twitter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在人類活體肺部組織中發現微塑料]]></title>
-            <link>https://news.ycombinator.com/item?id=30945430</link>
-            <guid>https://news.ycombinator.com/item?id=30945430</guid>
-            <pubDate>Thu, 07 Apr 2022 15:08:07 GMT</pubDate>
-            <description><![CDATA[Microplastics found in live human lung tissue]]></description>
         </item>
     </channel>
 </rss>

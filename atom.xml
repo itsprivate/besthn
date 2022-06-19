@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-19T21:24:34.308Z</updated>
+    <updated>2022-06-19T22:45:09.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Solend公司扣押了1.7亿美元的用户资金
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31802600</id>
+        <link href="https://news.ycombinator.com/item?id=31802600"/>
+        <updated>2022-06-19T19:35:34.000Z</updated>
+        <summary type="html"><![CDATA[Solend seized $170M of user funds]]></summary>
+        <author>
+            <name>55555</name>
+            <uri>https://news.ycombinator.com/user?id=55555</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么科学新闻如此糟糕？
 ]]></title>
@@ -6906,17 +6918,6 @@
         <author>
             <name>matrixagent</name>
             <uri>https://news.ycombinator.com/user?id=matrixagent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在人类活体肺部组织中发现微塑料]]></title>
-        <id>https://news.ycombinator.com/item?id=30945430</id>
-        <link href="https://news.ycombinator.com/item?id=30945430"/>
-        <updated>2022-04-07T15:08:07.000Z</updated>
-        <summary type="html"><![CDATA[Microplastics found in live human lung tissue]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
         </author>
     </entry>
 </feed>
