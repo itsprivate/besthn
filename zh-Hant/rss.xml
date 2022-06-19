@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 18 Jun 2022 22:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 02:37:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,38 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為Windows交叉編譯二進制文件比本地構建更容易
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31792790</link>
+            <guid>https://news.ycombinator.com/item?id=31792790</guid>
+            <pubDate>Sat, 18 Jun 2022 19:09:34 GMT</pubDate>
+            <description><![CDATA[Cross-compiling binaries for Windows is easier than building natively]]></description>
+        </item>
+        <item>
+            <title><![CDATA[蘋果公司傳統設計團隊的解體
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31791214</link>
+            <guid>https://news.ycombinator.com/item?id=31791214</guid>
+            <pubDate>Sat, 18 Jun 2022 16:16:14 GMT</pubDate>
+            <description><![CDATA[The dissolution of Apple’s legacy design team]]></description>
+        </item>
+        <item>
+            <title><![CDATA[旅行者號飛船開始斷電
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31779964</link>
+            <guid>https://news.ycombinator.com/item?id=31779964</guid>
+            <pubDate>Fri, 17 Jun 2022 15:48:51 GMT</pubDate>
+            <description><![CDATA[Voyager spacecraft begin to power down]]></description>
+        </item>
+        <item>
+            <title><![CDATA[益生菌可以支持抗抑鬱藥的效果
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31777062</link>
+            <guid>https://news.ycombinator.com/item?id=31777062</guid>
+            <pubDate>Fri, 17 Jun 2022 12:24:30 GMT</pubDate>
+            <description><![CDATA[Probiotics can support the effect of antidepressants]]></description>
+        </item>
         <item>
             <title><![CDATA[寒冷的陣雨
 ]]></title>
@@ -4473,34 +4505,6 @@
             <guid>https://news.ycombinator.com/item?id=30945451</guid>
             <pubDate>Thu, 07 Apr 2022 15:09:35 GMT</pubDate>
             <description><![CDATA[Tell HN: Recruiters are lying about remote positions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我停止了各地的廣告，但什麼也沒有發生]]></title>
-            <link>https://news.ycombinator.com/item?id=30944524</link>
-            <guid>https://news.ycombinator.com/item?id=30944524</guid>
-            <pubDate>Thu, 07 Apr 2022 14:01:03 GMT</pubDate>
-            <description><![CDATA[I stopped advertising everywhere and nothing happened]]></description>
-        </item>
-        <item>
-            <title><![CDATA[正餐--20和30年代的食品]]></title>
-            <link>https://news.ycombinator.com/item?id=30939482</link>
-            <guid>https://news.ycombinator.com/item?id=30939482</guid>
-            <pubDate>Thu, 07 Apr 2022 01:10:01 GMT</pubDate>
-            <description><![CDATA[A Square Meal – Foods of the ‘20s and ‘30s]]></description>
-        </item>
-        <item>
-            <title><![CDATA[歡迎來到 "世界報 "的英文網站]]></title>
-            <link>https://news.ycombinator.com/item?id=30943238</link>
-            <guid>https://news.ycombinator.com/item?id=30943238</guid>
-            <pubDate>Thu, 07 Apr 2022 11:49:28 GMT</pubDate>
-            <description><![CDATA[Welcome to 'Le Monde' in English]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你不是谷歌 (2017)]]></title>
-            <link>https://news.ycombinator.com/item?id=30931831</link>
-            <guid>https://news.ycombinator.com/item?id=30931831</guid>
-            <pubDate>Wed, 06 Apr 2022 13:40:43 GMT</pubDate>
-            <description><![CDATA[You are not Google (2017)]]></description>
         </item>
     </channel>
 </rss>
