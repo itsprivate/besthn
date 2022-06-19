@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-19T07:42:38.024Z</updated>
+    <updated>2022-06-19T08:32:09.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[BTC价格跌至平均开采成本，比特币开采变得无利可图
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31796239</id>
+        <link href="https://news.ycombinator.com/item?id=31796239"/>
+        <updated>2022-06-19T04:46:22.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin mining becomes unprofitable as BTC price falls to average cost of mining]]></summary>
+        <author>
+            <name>lakis</name>
+            <uri>https://news.ycombinator.com/user?id=lakis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Citybound - 使用基于演员的分布式模拟的城市建设游戏
 ]]></title>
@@ -6896,17 +6908,6 @@
         <author>
             <name>sklargh</name>
             <uri>https://news.ycombinator.com/user?id=sklargh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加拿大将禁止外国人买房]]></title>
-        <id>https://news.ycombinator.com/item?id=30945444</id>
-        <link href="https://news.ycombinator.com/item?id=30945444"/>
-        <updated>2022-04-07T15:09:12.000Z</updated>
-        <summary type="html"><![CDATA[Canada to ban foreigners from buying homes]]></summary>
-        <author>
-            <name>thazework</name>
-            <uri>https://news.ycombinator.com/user?id=thazework</uri>
         </author>
     </entry>
 </feed>
