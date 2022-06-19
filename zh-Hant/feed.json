@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31792303",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31792303",
+            "title": "為什麼Git子模塊如此糟糕？\n",
+            "summary": "Ask HN: Why are Git submodules so bad?",
+            "date_modified": "2022-06-18T18:11:57.000Z",
+            "author": {
+                "name": "ghoward",
+                "url": "https://news.ycombinator.com/user?id=ghoward"
+            },
+            "_original_headline": "Ask HN: Why are Git submodules so bad?",
+            "_original_url": "https://news.ycombinator.com/item?id=31792303",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31795160",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31795160",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://lunduke.substack.com/p/the-computers-used-to-do-3d-animation",
             "_sensitive": false,
             "_score": 260
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30944707",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30944707",
-            "title": "在過去的50年裡，核電幫助防止了~2M的死亡。",
-            "summary": "Nuclear power helped prevent ~2M deaths in the last 50 years",
-            "date_modified": "2022-04-07T14:15:21.000Z",
-            "author": {
-                "name": "torts",
-                "url": "https://news.ycombinator.com/user?id=torts"
-            },
-            "_original_headline": "Nuclear power helped prevent ~2M deaths in the last 50 years",
-            "_original_url": "https://twitter.com/rafaelmgrossi/status/1512061341212704771",
-            "_sensitive": false,
-            "_score": 251
         }
     ]
 }
