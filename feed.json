@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31797336",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31797336",
+            "title": "不要成为那个开源用户，不要成为我\n",
+            "summary": "Don't be that open-source user, don't be me",
+            "date_modified": "2022-06-19T08:15:41.000Z",
+            "author": {
+                "name": "1una",
+                "url": "https://news.ycombinator.com/user?id=1una"
+            },
+            "_original_headline": "Don't be that open-source user, don't be me",
+            "_original_url": "https://jacobtomlinson.dev/posts/2022/dont-be-that-open-source-user-dont-be-me/",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31769699",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31769699",
+            "title": "Mold/MacOS比苹果的默认链接器链接Chrome快11倍\n",
+            "summary": "Mold/macOS is 11 times faster than the Apple's default linker to link Chrome",
+            "date_modified": "2022-06-16T19:04:50.000Z",
+            "author": {
+                "name": "ingve",
+                "url": "https://news.ycombinator.com/user?id=ingve"
+            },
+            "_original_headline": "Mold/macOS is 11 times faster than the Apple's default linker to link Chrome",
+            "_original_url": "https://twitter.com/rui314/status/1537279524341432320",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31798311",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31798311",
@@ -9575,38 +9607,6 @@
             },
             "_original_headline": "We’ve got a science opportunity overload: Launching the Wolfram Institute",
             "_original_url": "https://writings.stephenwolfram.com/2022/04/weve-got-a-science-opportunity-overload-its-time-to-launch-the-wolfram-institute/",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30947793",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30947793",
-            "title": "支持WASM编译的Ruby 3.2预览版1",
-            "summary": "Ruby 3.2 preview 1 with support for WASM compilation",
-            "date_modified": "2022-04-07T17:38:00.000Z",
-            "author": {
-                "name": "pvsukale3",
-                "url": "https://news.ycombinator.com/user?id=pvsukale3"
-            },
-            "_original_headline": "Ruby 3.2 preview 1 with support for WASM compilation",
-            "_original_url": "https://www.ruby-lang.org/en/news/2022/04/03/ruby-3-2-0-preview1-released/",
-            "_sensitive": false,
-            "_score": 273
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30947595",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30947595",
-            "title": "软件工程师可以从 \"快速 \"的快速崩溃中学习什么？",
-            "summary": "What software engineers can learn from the rapid collapse of Fast",
-            "date_modified": "2022-04-07T17:23:16.000Z",
-            "author": {
-                "name": "gregdoesit",
-                "url": "https://news.ycombinator.com/user?id=gregdoesit"
-            },
-            "_original_headline": "What software engineers can learn from the rapid collapse of Fast",
-            "_original_url": "https://newsletter.pragmaticengineer.com/p/the-scoop-fast",
             "_sensitive": false,
             "_score": 250
         }

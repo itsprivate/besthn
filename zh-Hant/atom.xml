@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-19T16:39:03.961Z</updated>
+    <updated>2022-06-19T17:05:56.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不要成為那個開源用戶，不要成為我
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31797336</id>
+        <link href="https://news.ycombinator.com/item?id=31797336"/>
+        <updated>2022-06-19T08:15:41.000Z</updated>
+        <summary type="html"><![CDATA[Don't be that open-source user, don't be me]]></summary>
+        <author>
+            <name>1una</name>
+            <uri>https://news.ycombinator.com/user?id=1una</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mold/MacOS比蘋果的默認鏈接器鏈接Chrome快11倍
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31769699</id>
+        <link href="https://news.ycombinator.com/item?id=31769699"/>
+        <updated>2022-06-16T19:04:50.000Z</updated>
+        <summary type="html"><![CDATA[Mold/macOS is 11 times faster than the Apple's default linker to link Chrome]]></summary>
+        <author>
+            <name>ingve</name>
+            <uri>https://news.ycombinator.com/user?id=ingve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[兔子字體 - 尊重隱私的谷歌字體的替代品
 ]]></title>
@@ -6890,28 +6914,6 @@
         <author>
             <name>nsoonhui</name>
             <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支持WASM編譯的Ruby 3.2預覽版1]]></title>
-        <id>https://news.ycombinator.com/item?id=30947793</id>
-        <link href="https://news.ycombinator.com/item?id=30947793"/>
-        <updated>2022-04-07T17:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Ruby 3.2 preview 1 with support for WASM compilation]]></summary>
-        <author>
-            <name>pvsukale3</name>
-            <uri>https://news.ycombinator.com/user?id=pvsukale3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[軟件工程師可以從 "快速 "的快速崩潰中學習什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30947595</id>
-        <link href="https://news.ycombinator.com/item?id=30947595"/>
-        <updated>2022-04-07T17:23:16.000Z</updated>
-        <summary type="html"><![CDATA[What software engineers can learn from the rapid collapse of Fast]]></summary>
-        <author>
-            <name>gregdoesit</name>
-            <uri>https://news.ycombinator.com/user?id=gregdoesit</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 19 Jun 2022 16:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 17:05:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[不要成为那个开源用户，不要成为我
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31797336</link>
+            <guid>https://news.ycombinator.com/item?id=31797336</guid>
+            <pubDate>Sun, 19 Jun 2022 08:15:41 GMT</pubDate>
+            <description><![CDATA[Don't be that open-source user, don't be me]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Mold/MacOS比苹果的默认链接器链接Chrome快11倍
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31769699</link>
+            <guid>https://news.ycombinator.com/item?id=31769699</guid>
+            <pubDate>Thu, 16 Jun 2022 19:04:50 GMT</pubDate>
+            <description><![CDATA[Mold/macOS is 11 times faster than the Apple's default linker to link Chrome]]></description>
+        </item>
         <item>
             <title><![CDATA[兔子字体 - 尊重隐私的谷歌字体的替代品
 ]]></title>
@@ -4498,20 +4514,6 @@
             <guid>https://news.ycombinator.com/item?id=30940813</guid>
             <pubDate>Thu, 07 Apr 2022 05:08:26 GMT</pubDate>
             <description><![CDATA[We’ve got a science opportunity overload: Launching the Wolfram Institute]]></description>
-        </item>
-        <item>
-            <title><![CDATA[支持WASM编译的Ruby 3.2预览版1]]></title>
-            <link>https://news.ycombinator.com/item?id=30947793</link>
-            <guid>https://news.ycombinator.com/item?id=30947793</guid>
-            <pubDate>Thu, 07 Apr 2022 17:38:00 GMT</pubDate>
-            <description><![CDATA[Ruby 3.2 preview 1 with support for WASM compilation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[软件工程师可以从 "快速 "的快速崩溃中学习什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=30947595</link>
-            <guid>https://news.ycombinator.com/item?id=30947595</guid>
-            <pubDate>Thu, 07 Apr 2022 17:23:16 GMT</pubDate>
-            <description><![CDATA[What software engineers can learn from the rapid collapse of Fast]]></description>
         </item>
     </channel>
 </rss>
