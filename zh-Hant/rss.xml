@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 19 Jun 2022 15:49:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 16:39:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[兔子字體 - 尊重隱私的谷歌字體的替代品
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31798311</link>
+            <guid>https://news.ycombinator.com/item?id=31798311</guid>
+            <pubDate>Sun, 19 Jun 2022 11:24:24 GMT</pubDate>
+            <description><![CDATA[Bunny fonts – privacy respecting drop-in replacement for Google Fonts]]></description>
+        </item>
         <item>
             <title><![CDATA[Bolt有一個很酷的網絡界面，他們真的不希望你使用它
 ]]></title>
@@ -4504,13 +4512,6 @@
             <guid>https://news.ycombinator.com/item?id=30947595</guid>
             <pubDate>Thu, 07 Apr 2022 17:23:16 GMT</pubDate>
             <description><![CDATA[What software engineers can learn from the rapid collapse of Fast]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Redditle.com - 對於我們這些在每次谷歌搜索中添加 "Reddit "的人來說]]></title>
-            <link>https://news.ycombinator.com/item?id=30946792</link>
-            <guid>https://news.ycombinator.com/item?id=30946792</guid>
-            <pubDate>Thu, 07 Apr 2022 16:33:15 GMT</pubDate>
-            <description><![CDATA[Show HN: Redditle.com – For those of us who add 'Reddit' to every Google search]]></description>
         </item>
     </channel>
 </rss>
