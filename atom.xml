@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-19T13:42:54.218Z</updated>
+    <updated>2022-06-19T15:49:07.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Bolt有一个很酷的网络界面，他们真的不希望你使用它
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31797992</id>
+        <link href="https://news.ycombinator.com/item?id=31797992"/>
+        <updated>2022-06-19T10:19:08.000Z</updated>
+        <summary type="html"><![CDATA[Bolt has a cool web interface and they really don't want you to use it]]></summary>
+        <author>
+            <name>kuba-orlik</name>
+            <uri>https://news.ycombinator.com/user?id=kuba-orlik</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么Git子模块如此糟糕？
 ]]></title>
@@ -6899,17 +6911,6 @@
         <author>
             <name>greentfrapp</name>
             <uri>https://news.ycombinator.com/user?id=greentfrapp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1996年用于为《最终幻想7》做3D动画的计算机]]></title>
-        <id>https://news.ycombinator.com/item?id=30947153</id>
-        <link href="https://news.ycombinator.com/item?id=30947153"/>
-        <updated>2022-04-07T16:55:20.000Z</updated>
-        <summary type="html"><![CDATA[The computers used to do 3D animation for Final Fantasy VII in 1996]]></summary>
-        <author>
-            <name>marcobambini</name>
-            <uri>https://news.ycombinator.com/user?id=marcobambini</uri>
         </author>
     </entry>
 </feed>
