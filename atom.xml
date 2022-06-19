@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-19T20:46:38.876Z</updated>
+    <updated>2022-06-19T21:24:34.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么科学新闻如此糟糕？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31797518</id>
+        <link href="https://news.ycombinator.com/item?id=31797518"/>
+        <updated>2022-06-19T08:49:28.000Z</updated>
+        <summary type="html"><![CDATA[Why does science news suck so much?]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么网络摄像头还不够好
 ]]></title>
@@ -6905,17 +6917,6 @@
         <author>
             <name>prostoalex</name>
             <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你有没有换过云？]]></title>
-        <id>https://news.ycombinator.com/item?id=30942698</id>
-        <link href="https://news.ycombinator.com/item?id=30942698"/>
-        <updated>2022-04-07T10:21:06.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have you ever switched cloud?]]></summary>
-        <author>
-            <name>dustinmoris</name>
-            <uri>https://news.ycombinator.com/user?id=dustinmoris</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 19 Jun 2022 20:46:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 21:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么科学新闻如此糟糕？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31797518</link>
+            <guid>https://news.ycombinator.com/item?id=31797518</guid>
+            <pubDate>Sun, 19 Jun 2022 08:49:28 GMT</pubDate>
+            <description><![CDATA[Why does science news suck so much?]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么网络摄像头还不够好
 ]]></title>
@@ -4509,13 +4517,6 @@
             <guid>https://news.ycombinator.com/item?id=30945430</guid>
             <pubDate>Thu, 07 Apr 2022 15:08:07 GMT</pubDate>
             <description><![CDATA[Microplastics found in live human lung tissue]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你有没有换过云？]]></title>
-            <link>https://news.ycombinator.com/item?id=30942698</link>
-            <guid>https://news.ycombinator.com/item?id=30942698</guid>
-            <pubDate>Thu, 07 Apr 2022 10:21:06 GMT</pubDate>
-            <description><![CDATA[Ask HN: Have you ever switched cloud?]]></description>
         </item>
     </channel>
 </rss>
