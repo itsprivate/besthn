@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 19 Jun 2022 17:05:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 19:44:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[騎自行車旅遊的原因
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31797686</link>
+            <guid>https://news.ycombinator.com/item?id=31797686</guid>
+            <pubDate>Sun, 19 Jun 2022 09:22:36 GMT</pubDate>
+            <description><![CDATA[Reasons to tour by bicycle]]></description>
+        </item>
         <item>
             <title><![CDATA[不要成為那個開源用戶，不要成為我
 ]]></title>
@@ -4507,13 +4515,6 @@
             <guid>https://news.ycombinator.com/item?id=30944438</guid>
             <pubDate>Thu, 07 Apr 2022 13:53:36 GMT</pubDate>
             <description><![CDATA[Using Windows after 15 years on Linux]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們有一個科學機會過剩。啟動沃爾弗拉姆研究所]]></title>
-            <link>https://news.ycombinator.com/item?id=30940813</link>
-            <guid>https://news.ycombinator.com/item?id=30940813</guid>
-            <pubDate>Thu, 07 Apr 2022 05:08:26 GMT</pubDate>
-            <description><![CDATA[We’ve got a science opportunity overload: Launching the Wolfram Institute]]></description>
         </item>
     </channel>
 </rss>

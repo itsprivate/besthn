@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-19T17:05:56.821Z</updated>
+    <updated>2022-06-19T19:44:50.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[騎自行車旅遊的原因
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31797686</id>
+        <link href="https://news.ycombinator.com/item?id=31797686"/>
+        <updated>2022-06-19T09:22:36.000Z</updated>
+        <summary type="html"><![CDATA[Reasons to tour by bicycle]]></summary>
+        <author>
+            <name>galfarragem</name>
+            <uri>https://news.ycombinator.com/user?id=galfarragem</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不要成為那個開源用戶，不要成為我
 ]]></title>
@@ -6903,17 +6915,6 @@
         <author>
             <name>dflock</name>
             <uri>https://news.ycombinator.com/user?id=dflock</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們有一個科學機會過剩。啟動沃爾弗拉姆研究所]]></title>
-        <id>https://news.ycombinator.com/item?id=30940813</id>
-        <link href="https://news.ycombinator.com/item?id=30940813"/>
-        <updated>2022-04-07T05:08:26.000Z</updated>
-        <summary type="html"><![CDATA[We’ve got a science opportunity overload: Launching the Wolfram Institute]]></summary>
-        <author>
-            <name>nsoonhui</name>
-            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
         </author>
     </entry>
 </feed>
