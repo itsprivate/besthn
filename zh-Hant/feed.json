@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31795160",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31795160",
+            "title": "還沒有使用Kubernetes\n",
+            "summary": "Don't use Kubernetes yet",
+            "date_modified": "2022-06-19T00:49:39.000Z",
+            "author": {
+                "name": "rckrd",
+                "url": "https://news.ycombinator.com/user?id=rckrd"
+            },
+            "_original_headline": "Don't use Kubernetes yet",
+            "_original_url": "https://matt-rickard.com/dont-use-kubernetes-yet/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31796239",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31796239",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "Nuclear power helped prevent ~2M deaths in the last 50 years",
             "_original_url": "https://twitter.com/rafaelmgrossi/status/1512061341212704771",
-            "_sensitive": false,
-            "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30943466",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30943466",
-            "title": "FAA，做你該死的工作",
-            "summary": "FAA, do your damn job",
-            "date_modified": "2022-04-07T12:19:15.000Z",
-            "author": {
-                "name": "sklargh",
-                "url": "https://news.ycombinator.com/user?id=sklargh"
-            },
-            "_original_headline": "FAA, do your damn job",
-            "_original_url": "https://www.avweb.com/insider/faa-do-your-damn-job/",
             "_sensitive": false,
             "_score": 251
         }

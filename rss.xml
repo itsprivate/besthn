@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 19 Jun 2022 08:32:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 12:46:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[还没有使用Kubernetes
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31795160</link>
+            <guid>https://news.ycombinator.com/item?id=31795160</guid>
+            <pubDate>Sun, 19 Jun 2022 00:49:39 GMT</pubDate>
+            <description><![CDATA[Don't use Kubernetes yet]]></description>
+        </item>
         <item>
             <title><![CDATA[BTC价格跌至平均开采成本，比特币开采变得无利可图
 ]]></title>
@@ -4501,13 +4509,6 @@
             <guid>https://news.ycombinator.com/item?id=30944707</guid>
             <pubDate>Thu, 07 Apr 2022 14:15:21 GMT</pubDate>
             <description><![CDATA[Nuclear power helped prevent ~2M deaths in the last 50 years]]></description>
-        </item>
-        <item>
-            <title><![CDATA[FAA，做你该死的工作]]></title>
-            <link>https://news.ycombinator.com/item?id=30943466</link>
-            <guid>https://news.ycombinator.com/item?id=30943466</guid>
-            <pubDate>Thu, 07 Apr 2022 12:19:15 GMT</pubDate>
-            <description><![CDATA[FAA, do your damn job]]></description>
         </item>
     </channel>
 </rss>
