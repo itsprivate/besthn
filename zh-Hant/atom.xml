@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-20T05:26:23.005Z</updated>
+    <updated>2022-06-20T07:03:32.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[7億用戶和高級用戶
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31802245</id>
+        <link href="https://news.ycombinator.com/item?id=31802245"/>
+        <updated>2022-06-19T18:56:06.000Z</updated>
+        <summary type="html"><![CDATA[700M users and Premium]]></summary>
+        <author>
+            <name>bathory</name>
+            <uri>https://news.ycombinator.com/user?id=bathory</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們需要一個不會讓你患上腕管炎的流程圖編輯器
 ]]></title>
@@ -6912,17 +6924,6 @@
         <author>
             <name>mcovalt</name>
             <uri>https://news.ycombinator.com/user?id=mcovalt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我用HTML5做了一個益智遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30956775</id>
-        <link href="https://news.ycombinator.com/item?id=30956775"/>
-        <updated>2022-04-08T13:54:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a puzzle game in HTML5]]></summary>
-        <author>
-            <name>shubhamjain</name>
-            <uri>https://news.ycombinator.com/user?id=shubhamjain</uri>
         </author>
     </entry>
 </feed>

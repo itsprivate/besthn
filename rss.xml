@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 20 Jun 2022 05:26:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 07:03:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[7亿用户和高级用户
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31802245</link>
+            <guid>https://news.ycombinator.com/item?id=31802245</guid>
+            <pubDate>Sun, 19 Jun 2022 18:56:06 GMT</pubDate>
+            <description><![CDATA[700M users and Premium]]></description>
+        </item>
         <item>
             <title><![CDATA[我们需要一个不会让你患上腕管炎的流程图编辑器
 ]]></title>
@@ -4516,13 +4524,6 @@
             <guid>https://news.ycombinator.com/item?id=30953744</guid>
             <pubDate>Fri, 08 Apr 2022 05:54:05 GMT</pubDate>
             <description><![CDATA[You may not need Cloudflare Tunnel. Linux is fine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我用HTML5做了一个益智游戏]]></title>
-            <link>https://news.ycombinator.com/item?id=30956775</link>
-            <guid>https://news.ycombinator.com/item?id=30956775</guid>
-            <pubDate>Fri, 08 Apr 2022 13:54:40 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a puzzle game in HTML5]]></description>
         </item>
     </channel>
 </rss>
