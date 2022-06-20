@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31813957",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31813957",
+            "title": "我他媽的恨死Jira了\n",
+            "summary": "I Fucking Hate Jira",
+            "date_modified": "2022-06-20T18:40:57.000Z",
+            "author": {
+                "name": "yakshaving_jgt",
+                "url": "https://news.ycombinator.com/user?id=yakshaving_jgt"
+            },
+            "_original_headline": "I Fucking Hate Jira",
+            "_original_url": "https://ifuckinghatejira.com/",
+            "_sensitive": false,
+            "_score": 213
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31812259",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31812259",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://mattrighetti.com/2022/04/05/i-need-to-find-an-appartment.html",
             "_sensitive": false,
             "_score": 256
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30942555",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30942555",
-            "title": "在用戶離開頁面時可靠地發送HTTP請求",
-            "summary": "Reliably Send an HTTP Request as a User Leaves a Page",
-            "date_modified": "2022-04-07T09:54:14.000Z",
-            "author": {
-                "name": "fagnerbrack",
-                "url": "https://news.ycombinator.com/user?id=fagnerbrack"
-            },
-            "_original_headline": "Reliably Send an HTTP Request as a User Leaves a Page",
-            "_original_url": "https://css-tricks.com/send-an-http-request-on-page-exit/",
-            "_sensitive": false,
-            "_score": 252
         }
     ]
 }

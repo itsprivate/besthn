@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-20T17:59:17.965Z</updated>
+    <updated>2022-06-20T19:59:59.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我他媽的恨死Jira了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31813957</id>
+        <link href="https://news.ycombinator.com/item?id=31813957"/>
+        <updated>2022-06-20T18:40:57.000Z</updated>
+        <summary type="html"><![CDATA[I Fucking Hate Jira]]></summary>
+        <author>
+            <name>yakshaving_jgt</name>
+            <uri>https://news.ycombinator.com/user?id=yakshaving_jgt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Contra Wirecutter對宜家空氣淨化器的評價
 ]]></title>
@@ -6926,17 +6938,6 @@
         <author>
             <name>mattrighetti</name>
             <uri>https://news.ycombinator.com/user?id=mattrighetti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在用戶離開頁面時可靠地發送HTTP請求]]></title>
-        <id>https://news.ycombinator.com/item?id=30942555</id>
-        <link href="https://news.ycombinator.com/item?id=30942555"/>
-        <updated>2022-04-07T09:54:14.000Z</updated>
-        <summary type="html"><![CDATA[Reliably Send an HTTP Request as a User Leaves a Page]]></summary>
-        <author>
-            <name>fagnerbrack</name>
-            <uri>https://news.ycombinator.com/user?id=fagnerbrack</uri>
         </author>
     </entry>
 </feed>
