@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-20T13:57:27.429Z</updated>
+    <updated>2022-06-20T14:33:16.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[奥库特
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31806661</id>
+        <link href="https://news.ycombinator.com/item?id=31806661"/>
+        <updated>2022-06-20T05:36:17.000Z</updated>
+        <summary type="html"><![CDATA[Orkut]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[与经理的冲突以我不被允许在Spotify工作而告终
 ]]></title>
@@ -6918,17 +6930,6 @@
         <author>
             <name>gmays</name>
             <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让时间倒流。试验中人类皮肤细胞减龄30年]]></title>
-        <id>https://news.ycombinator.com/item?id=30960470</id>
-        <link href="https://news.ycombinator.com/item?id=30960470"/>
-        <updated>2022-04-08T18:03:35.000Z</updated>
-        <summary type="html"><![CDATA[Turning back the clock: Human skin cells de-aged by 30 years in trial]]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
         </author>
     </entry>
 </feed>
