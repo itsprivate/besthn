@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31812259",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31812259",
+            "title": "Contra Wirecutter對宜家空氣淨化器的評價\n",
+            "summary": "Contra Wirecutter on the IKEA air purifier",
+            "date_modified": "2022-06-20T16:27:26.000Z",
+            "author": {
+                "name": "Ariarule",
+                "url": "https://news.ycombinator.com/user?id=Ariarule"
+            },
+            "_original_headline": "Contra Wirecutter on the IKEA air purifier",
+            "_original_url": "https://dynomight.net/ikea-purifier/",
+            "_sensitive": false,
+            "_score": 213
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31790226",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31790226",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://css-tricks.com/send-an-http-request-on-page-exit/",
             "_sensitive": false,
             "_score": 252
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30967375",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30967375",
-            "title": "麻省理工學院的研究生們投票決定成立工會",
-            "summary": "MIT graduate students vote to unionize",
-            "date_modified": "2022-04-09T12:15:25.000Z",
-            "author": {
-                "name": "Metacelsus",
-                "url": "https://news.ycombinator.com/user?id=Metacelsus"
-            },
-            "_original_headline": "MIT graduate students vote to unionize",
-            "_original_url": "https://thetech.com/2022/04/08/grad-students-unionize",
-            "_sensitive": false,
-            "_score": 259
         }
     ]
 }
