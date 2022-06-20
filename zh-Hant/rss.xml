@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 20 Jun 2022 04:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 05:26:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我們需要一個不會讓你患上腕管炎的流程圖編輯器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31804429</link>
+            <guid>https://news.ycombinator.com/item?id=31804429</guid>
+            <pubDate>Sun, 19 Jun 2022 23:13:24 GMT</pubDate>
+            <description><![CDATA[We need a flowchart editor that doesn't give you carpal tunnel]]></description>
+        </item>
+        <item>
+            <title><![CDATA[三星被查出在電視測試基準上作弊
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31803593</link>
+            <guid>https://news.ycombinator.com/item?id=31803593</guid>
+            <pubDate>Sun, 19 Jun 2022 21:16:45 GMT</pubDate>
+            <description><![CDATA[Samsung Busted for Cheating TV Test Benchmarks]]></description>
+        </item>
         <item>
             <title><![CDATA[軟件失意（2018）
 ]]></title>
@@ -4507,20 +4523,6 @@
             <guid>https://news.ycombinator.com/item?id=30956775</guid>
             <pubDate>Fri, 08 Apr 2022 13:54:40 GMT</pubDate>
             <description><![CDATA[Show HN: I made a puzzle game in HTML5]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼我不會再使用Affirm]]></title>
-            <link>https://news.ycombinator.com/item?id=30959322</link>
-            <guid>https://news.ycombinator.com/item?id=30959322</guid>
-            <pubDate>Fri, 08 Apr 2022 16:38:25 GMT</pubDate>
-            <description><![CDATA[Why I'll never use Affirm again]]></description>
-        </item>
-        <item>
-            <title><![CDATA[W玻色子質量的測量顯示與計算結果有7σ的偏差]]></title>
-            <link>https://news.ycombinator.com/item?id=30955033</link>
-            <guid>https://news.ycombinator.com/item?id=30955033</guid>
-            <pubDate>Fri, 08 Apr 2022 09:32:49 GMT</pubDate>
-            <description><![CDATA[Measurement of the W boson mass reveals 7σ deviation from calculations]]></description>
         </item>
     </channel>
 </rss>
