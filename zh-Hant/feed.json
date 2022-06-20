@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31808093",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31808093",
+            "title": "每行寫一句話\n",
+            "summary": "Writing One Sentence per Line",
+            "date_modified": "2022-06-20T09:25:32.000Z",
+            "author": {
+                "name": "Tomte",
+                "url": "https://news.ycombinator.com/user?id=Tomte"
+            },
+            "_original_headline": "Writing One Sentence per Line",
+            "_original_url": "https://sive.rs/1s",
+            "_sensitive": false,
+            "_score": 244
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31790246",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31790246",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://digitalcorps.gsa.gov/about/",
             "_sensitive": false,
             "_score": 252
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30961385",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30961385",
-            "title": "Dall-E 2的推特簡介插圖",
-            "summary": "Dall-E 2 illustrations of Twitter bios",
-            "date_modified": "2022-04-08T19:20:58.000Z",
-            "author": {
-                "name": "manesioz",
-                "url": "https://news.ycombinator.com/user?id=manesioz"
-            },
-            "_original_headline": "Dall-E 2 illustrations of Twitter bios",
-            "_original_url": "https://twitter.com/nickcammarata/status/1511861061988892675",
-            "_sensitive": false,
-            "_score": 268
         }
     ]
 }

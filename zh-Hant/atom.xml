@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-20T10:00:38.827Z</updated>
+    <updated>2022-06-20T13:00:13.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每行寫一句話
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31808093</id>
+        <link href="https://news.ycombinator.com/item?id=31808093"/>
+        <updated>2022-06-20T09:25:32.000Z</updated>
+        <summary type="html"><![CDATA[Writing One Sentence per Line]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[斯托爾帕斯坦
 ]]></title>
@@ -6915,17 +6927,6 @@
         <author>
             <name>tomrod</name>
             <uri>https://news.ycombinator.com/user?id=tomrod</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dall-E 2的推特簡介插圖]]></title>
-        <id>https://news.ycombinator.com/item?id=30961385</id>
-        <link href="https://news.ycombinator.com/item?id=30961385"/>
-        <updated>2022-04-08T19:20:58.000Z</updated>
-        <summary type="html"><![CDATA[Dall-E 2 illustrations of Twitter bios]]></summary>
-        <author>
-            <name>manesioz</name>
-            <uri>https://news.ycombinator.com/user?id=manesioz</uri>
         </author>
     </entry>
 </feed>
