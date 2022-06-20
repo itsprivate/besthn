@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 20 Jun 2022 15:50:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 16:47:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Silero V3：20种语言的快速高质量文本到语音，有173种声音
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31807201</link>
+            <guid>https://news.ycombinator.com/item?id=31807201</guid>
+            <pubDate>Mon, 20 Jun 2022 07:11:16 GMT</pubDate>
+            <description><![CDATA[Silero V3: fast high-quality text-to-speech in 20 languages with 173 voices]]></description>
+        </item>
         <item>
             <title><![CDATA[我们正在删除创建新订阅的选项
 ]]></title>
@@ -4526,13 +4534,6 @@
             <guid>https://news.ycombinator.com/item?id=30965352</guid>
             <pubDate>Sat, 09 Apr 2022 04:52:09 GMT</pubDate>
             <description><![CDATA[Persepolis of ancient Persia rendered in WebGL]]></description>
-        </item>
-        <item>
-            <title><![CDATA[推特账户从用户名中删除".eth"。]]></title>
-            <link>https://news.ycombinator.com/item?id=30958870</link>
-            <guid>https://news.ycombinator.com/item?id=30958870</guid>
-            <pubDate>Fri, 08 Apr 2022 15:59:33 GMT</pubDate>
-            <description><![CDATA[Twitter accounts dropping “.eth” from usernames]]></description>
         </item>
     </channel>
 </rss>

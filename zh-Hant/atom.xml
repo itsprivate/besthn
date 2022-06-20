@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-20T15:50:44.967Z</updated>
+    <updated>2022-06-20T16:47:19.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Silero V3：20種語言的快速高質量文本到語音，有173種聲音
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31807201</id>
+        <link href="https://news.ycombinator.com/item?id=31807201"/>
+        <updated>2022-06-20T07:11:16.000Z</updated>
+        <summary type="html"><![CDATA[Silero V3: fast high-quality text-to-speech in 20 languages with 173 voices]]></summary>
+        <author>
+            <name>TheRealAicantar</name>
+            <uri>https://news.ycombinator.com/user?id=TheRealAicantar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們正在刪除創建新訂閱的選項
 ]]></title>
@@ -6922,17 +6934,6 @@
         <author>
             <name>avestura</name>
             <uri>https://news.ycombinator.com/user?id=avestura</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特賬戶從用戶名中刪除".eth"。]]></title>
-        <id>https://news.ycombinator.com/item?id=30958870</id>
-        <link href="https://news.ycombinator.com/item?id=30958870"/>
-        <updated>2022-04-08T15:59:33.000Z</updated>
-        <summary type="html"><![CDATA[Twitter accounts dropping “.eth” from usernames]]></summary>
-        <author>
-            <name>ilamont</name>
-            <uri>https://news.ycombinator.com/user?id=ilamont</uri>
         </author>
     </entry>
 </feed>
