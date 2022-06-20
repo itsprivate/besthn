@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-20T19:59:59.711Z</updated>
+    <updated>2022-06-20T21:59:40.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[馬克文。時間軸的標記化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31810876</id>
+        <link href="https://news.ycombinator.com/item?id=31810876"/>
+        <updated>2022-06-20T14:39:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Markwhen: Markdown for Timelines]]></summary>
+        <author>
+            <name>koch</name>
+            <uri>https://news.ycombinator.com/user?id=koch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我他媽的恨死Jira了
 ]]></title>
@@ -6927,17 +6939,6 @@
         <author>
             <name>technophiliac</name>
             <uri>https://news.ycombinator.com/user?id=technophiliac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我需要找一間公寓]]></title>
-        <id>https://news.ycombinator.com/item?id=30968721</id>
-        <link href="https://news.ycombinator.com/item?id=30968721"/>
-        <updated>2022-04-09T15:13:49.000Z</updated>
-        <summary type="html"><![CDATA[I need to find an apartment]]></summary>
-        <author>
-            <name>mattrighetti</name>
-            <uri>https://news.ycombinator.com/user?id=mattrighetti</uri>
         </author>
     </entry>
 </feed>
