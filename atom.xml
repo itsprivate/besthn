@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-20T07:46:51.088Z</updated>
+    <updated>2022-06-20T10:00:38.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[斯托尔帕斯坦
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31790246</id>
+        <link href="https://news.ycombinator.com/item?id=31790246"/>
+        <updated>2022-06-18T14:45:06.000Z</updated>
+        <summary type="html"><![CDATA[Stolperstein]]></summary>
+        <author>
+            <name>dschuessler</name>
+            <uri>https://news.ycombinator.com/user?id=dschuessler</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[父母的创伤在孩子身上留下了生物痕迹
 ]]></title>
@@ -6914,17 +6926,6 @@
         <author>
             <name>manesioz</name>
             <uri>https://news.ycombinator.com/user?id=manesioz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[记事本下一页。一个跨平台的Notepad++的重新实现]]></title>
-        <id>https://news.ycombinator.com/item?id=30959025</id>
-        <link href="https://news.ycombinator.com/item?id=30959025"/>
-        <updated>2022-04-08T16:14:16.000Z</updated>
-        <summary type="html"><![CDATA[NotepadNext: A cross-platform reimplementation of Notepad++]]></summary>
-        <author>
-            <name>Acrobatic_Road</name>
-            <uri>https://news.ycombinator.com/user?id=Acrobatic_Road</uri>
         </author>
     </entry>
 </feed>
