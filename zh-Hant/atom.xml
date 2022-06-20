@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-20T02:20:00.279Z</updated>
+    <updated>2022-06-20T04:52:03.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[軟件失意（2018）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31798580</id>
+        <link href="https://news.ycombinator.com/item?id=31798580"/>
+        <updated>2022-06-19T12:12:10.000Z</updated>
+        <summary type="html"><![CDATA[Software Disenchantment (2018)]]></summary>
+        <author>
+            <name>ShowalkKama</name>
+            <uri>https://news.ycombinator.com/user?id=ShowalkKama</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大腦有一個 "低功率模式"，使我們的感官變得遲鈍
 ]]></title>
@@ -6909,17 +6921,6 @@
         <author>
             <name>nvalis</name>
             <uri>https://news.ycombinator.com/user?id=nvalis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript 和 Rust 一樣快。TypeScript++]]></title>
-        <id>https://news.ycombinator.com/item?id=30947680</id>
-        <link href="https://news.ycombinator.com/item?id=30947680"/>
-        <updated>2022-04-07T17:29:43.000Z</updated>
-        <summary type="html"><![CDATA[TypeScript as fast as Rust: TypeScript++]]></summary>
-        <author>
-            <name>janpaul123</name>
-            <uri>https://news.ycombinator.com/user?id=janpaul123</uri>
         </author>
     </entry>
 </feed>
