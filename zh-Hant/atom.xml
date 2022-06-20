@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-20T14:33:16.282Z</updated>
+    <updated>2022-06-20T15:33:42.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[終止
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31810687</id>
+        <link href="https://news.ycombinator.com/item?id=31810687"/>
+        <updated>2022-06-20T14:23:09.000Z</updated>
+        <summary type="html"><![CDATA[Terminated]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沒有人知道他們在做什麼
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31807104</id>
+        <link href="https://news.ycombinator.com/item?id=31807104"/>
+        <updated>2022-06-20T06:54:16.000Z</updated>
+        <summary type="html"><![CDATA[No-one knows what they are doing]]></summary>
+        <author>
+            <name>charly357</name>
+            <uri>https://news.ycombinator.com/user?id=charly357</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[奧庫特
 ]]></title>
@@ -6908,28 +6932,6 @@
         <author>
             <name>jakecopp</name>
             <uri>https://news.ycombinator.com/user?id=jakecopp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iFixit和谷歌將推出Pixel正品零件計劃]]></title>
-        <id>https://news.ycombinator.com/item?id=30957977</id>
-        <link href="https://news.ycombinator.com/item?id=30957977"/>
-        <updated>2022-04-08T15:06:35.000Z</updated>
-        <summary type="html"><![CDATA[iFixit and Google Are Launching a Genuine Pixel Parts Program]]></summary>
-        <author>
-            <name>TangerineDream</name>
-            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉工廠的無人機鏡頭]]></title>
-        <id>https://news.ycombinator.com/item?id=30961370</id>
-        <link href="https://news.ycombinator.com/item?id=30961370"/>
-        <updated>2022-04-08T19:19:26.000Z</updated>
-        <summary type="html"><![CDATA[Drone footage of Tesla factory]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
         </author>
     </entry>
 </feed>

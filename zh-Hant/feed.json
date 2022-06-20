@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31810687",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31810687",
+            "title": "終止\n",
+            "summary": "Terminated",
+            "date_modified": "2022-06-20T14:23:09.000Z",
+            "author": {
+                "name": "danso",
+                "url": "https://news.ycombinator.com/user?id=danso"
+            },
+            "_original_headline": "Terminated",
+            "_original_url": "https://susiebright.substack.com/p/terminated",
+            "_sensitive": false,
+            "_score": 256
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31807104",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31807104",
+            "title": "沒有人知道他們在做什麼\n",
+            "summary": "No-one knows what they are doing",
+            "date_modified": "2022-06-20T06:54:16.000Z",
+            "author": {
+                "name": "charly357",
+                "url": "https://news.ycombinator.com/user?id=charly357"
+            },
+            "_original_headline": "No-one knows what they are doing",
+            "_original_url": "https://successfulsoftware.net/2022/06/19/no-one-knows-what-they-are-doing/",
+            "_sensitive": false,
+            "_score": 214
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31806661",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31806661",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://matrix.org/blog/2022/04/08/this-week-in-matrix-2022-04-08#thunderbird",
             "_sensitive": false,
             "_score": 258
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30957977",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30957977",
-            "title": "iFixit和谷歌將推出Pixel正品零件計劃",
-            "summary": "iFixit and Google Are Launching a Genuine Pixel Parts Program",
-            "date_modified": "2022-04-08T15:06:35.000Z",
-            "author": {
-                "name": "TangerineDream",
-                "url": "https://news.ycombinator.com/user?id=TangerineDream"
-            },
-            "_original_headline": "iFixit and Google Are Launching a Genuine Pixel Parts Program",
-            "_original_url": "https://www.ifixit.com/News/58542/working-with-google",
-            "_sensitive": false,
-            "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30961370",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30961370",
-            "title": "特斯拉工廠的無人機鏡頭",
-            "summary": "Drone footage of Tesla factory",
-            "date_modified": "2022-04-08T19:19:26.000Z",
-            "author": {
-                "name": "gmays",
-                "url": "https://news.ycombinator.com/user?id=gmays"
-            },
-            "_original_headline": "Drone footage of Tesla factory",
-            "_original_url": "https://twitter.com/alexandrosM/status/1510008990368878592",
-            "_sensitive": false,
-            "_score": 254
         }
     ]
 }
