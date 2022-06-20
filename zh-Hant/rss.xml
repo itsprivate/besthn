@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 20 Jun 2022 21:59:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 22:47:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我的40升揹包旅行指南
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31811758</link>
+            <guid>https://news.ycombinator.com/item?id=31811758</guid>
+            <pubDate>Mon, 20 Jun 2022 15:48:37 GMT</pubDate>
+            <description><![CDATA[My 40-liter backpack travel guide]]></description>
+        </item>
+        <item>
+            <title><![CDATA[瑞士的綜合時間表
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31807913</link>
+            <guid>https://news.ycombinator.com/item?id=31807913</guid>
+            <pubDate>Mon, 20 Jun 2022 08:54:35 GMT</pubDate>
+            <description><![CDATA[The integrated timetable of Switzerland]]></description>
+        </item>
         <item>
             <title><![CDATA[馬克文。時間軸的標記化
 ]]></title>
@@ -4525,20 +4541,6 @@
             <guid>https://news.ycombinator.com/item?id=30973808</guid>
             <pubDate>Sun, 10 Apr 2022 01:54:11 GMT</pubDate>
             <description><![CDATA[Atlassian products have been down for 4 days]]></description>
-        </item>
-        <item>
-            <title><![CDATA[超級簡單存儲服務]]></title>
-            <link>https://news.ycombinator.com/item?id=30972694</link>
-            <guid>https://news.ycombinator.com/item?id=30972694</guid>
-            <pubDate>Sat, 09 Apr 2022 22:21:16 GMT</pubDate>
-            <description><![CDATA[Super Simple Storage Service]]></description>
-        </item>
-        <item>
-            <title><![CDATA[堆積。一個免費的、開源的、跨平臺的遊戲引擎]]></title>
-            <link>https://news.ycombinator.com/item?id=30970934</link>
-            <guid>https://news.ycombinator.com/item?id=30970934</guid>
-            <pubDate>Sat, 09 Apr 2022 19:00:34 GMT</pubDate>
-            <description><![CDATA[Heaps: A free, open-source and cross-platform game engine]]></description>
         </item>
     </channel>
 </rss>
