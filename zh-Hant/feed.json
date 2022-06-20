@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31808357",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31808357",
+            "title": "與經理的衝突以我不被允許在Spotify工作而告終\n",
+            "summary": "A conflict with a manager ended with me being disallowed to work at Spotify",
+            "date_modified": "2022-06-20T09:59:14.000Z",
+            "author": {
+                "name": "cspike",
+                "url": "https://news.ycombinator.com/user?id=cspike"
+            },
+            "_original_headline": "A conflict with a manager ended with me being disallowed to work at Spotify",
+            "_original_url": "https://banned-for-life.com/",
+            "_sensitive": false,
+            "_score": 208
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31791126",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31791126",
+            "title": "意識不是計算\n",
+            "summary": "Consciousness is not computation",
+            "date_modified": "2022-06-18T16:07:37.000Z",
+            "author": {
+                "name": "antognini",
+                "url": "https://news.ycombinator.com/user?id=antognini"
+            },
+            "_original_headline": "Consciousness is not computation",
+            "_original_url": "https://joe-antognini.github.io/ml/consciousness",
+            "_sensitive": false,
+            "_score": 213
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31808093",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31808093",
@@ -9575,38 +9607,6 @@
             },
             "_original_headline": "Turning back the clock: Human skin cells de-aged by 30 years in trial",
             "_original_url": "https://news.sky.com/story/turning-back-the-clock-human-skin-cells-de-aged-by-30-years-in-trial-12584866",
-            "_sensitive": false,
-            "_score": 252
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30957917",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30957917",
-            "title": "猴島歸來，2022年到來",
-            "summary": "Return to Monkey Island, Coming 2022",
-            "date_modified": "2022-04-08T15:03:54.000Z",
-            "author": {
-                "name": "endymi0n",
-                "url": "https://news.ycombinator.com/user?id=endymi0n"
-            },
-            "_original_headline": "Return to Monkey Island, Coming 2022",
-            "_original_url": "https://returntomonkeyisland.com",
-            "_sensitive": false,
-            "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30958919",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30958919",
-            "title": "美國數字軍團",
-            "summary": "The United States Digital Corps",
-            "date_modified": "2022-04-08T16:04:30.000Z",
-            "author": {
-                "name": "tomrod",
-                "url": "https://news.ycombinator.com/user?id=tomrod"
-            },
-            "_original_headline": "The United States Digital Corps",
-            "_original_url": "https://digitalcorps.gsa.gov/about/",
             "_sensitive": false,
             "_score": 252
         }
