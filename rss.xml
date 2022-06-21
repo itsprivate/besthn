@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 21 Jun 2022 07:39:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 13:00:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在没有资金支持的情况下独自开发开源数据工具的一年
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31821914</link>
+            <guid>https://news.ycombinator.com/item?id=31821914</guid>
+            <pubDate>Tue, 21 Jun 2022 09:13:40 GMT</pubDate>
+            <description><![CDATA[One year as a solo dev building open-source data tools without funding]]></description>
+        </item>
         <item>
             <title><![CDATA[Cloudflare在全球范围内瘫痪（更新：不是全球，而是很多地方）。
 ]]></title>
@@ -4544,13 +4552,6 @@
             <guid>https://news.ycombinator.com/item?id=30984559</guid>
             <pubDate>Mon, 11 Apr 2022 04:09:31 GMT</pubDate>
             <description><![CDATA[FBI Didn't Knock Down a Suspect's Door Because 'It Was an Affluent Neighborhood']]></description>
-        </item>
-        <item>
-            <title><![CDATA[猫有多聪明？(2004)]]></title>
-            <link>https://news.ycombinator.com/item?id=30975378</link>
-            <guid>https://news.ycombinator.com/item?id=30975378</guid>
-            <pubDate>Sun, 10 Apr 2022 08:41:23 GMT</pubDate>
-            <description><![CDATA[How Intelligent Are Cats? (2004)]]></description>
         </item>
     </channel>
 </rss>

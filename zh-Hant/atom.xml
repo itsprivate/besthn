@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-21T07:39:58.152Z</updated>
+    <updated>2022-06-21T13:00:27.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在沒有資金支持的情況下獨自開發開源數據工具的一年
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31821914</id>
+        <link href="https://news.ycombinator.com/item?id=31821914"/>
+        <updated>2022-06-21T09:13:40.000Z</updated>
+        <summary type="html"><![CDATA[One year as a solo dev building open-source data tools without funding]]></summary>
+        <author>
+            <name>revorad</name>
+            <uri>https://news.ycombinator.com/user?id=revorad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare在全球範圍內癱瘓（更新：不是全球，而是很多地方）。
 ]]></title>
@@ -6940,17 +6952,6 @@
         <author>
             <name>fortran77</name>
             <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[貓有多聰明？(2004)]]></title>
-        <id>https://news.ycombinator.com/item?id=30975378</id>
-        <link href="https://news.ycombinator.com/item?id=30975378"/>
-        <updated>2022-04-10T08:41:23.000Z</updated>
-        <summary type="html"><![CDATA[How Intelligent Are Cats? (2004)]]></summary>
-        <author>
-            <name>maxmouchet</name>
-            <uri>https://news.ycombinator.com/user?id=maxmouchet</uri>
         </author>
     </entry>
 </feed>
