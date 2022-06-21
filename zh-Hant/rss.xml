@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 21 Jun 2022 16:56:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 18:38:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GitHub Copilot已普遍可用
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31825742</link>
+            <guid>https://news.ycombinator.com/item?id=31825742</guid>
+            <pubDate>Tue, 21 Jun 2022 16:23:21 GMT</pubDate>
+            <description><![CDATA[GitHub Copilot is generally available]]></description>
+        </item>
         <item>
             <title><![CDATA[對從事加密貨幣工作感到不安，該怎麼辦？
 ]]></title>
@@ -4549,13 +4557,6 @@
             <guid>https://news.ycombinator.com/item?id=30989344</guid>
             <pubDate>Mon, 11 Apr 2022 14:35:54 GMT</pubDate>
             <description><![CDATA[Etsy Strike]]></description>
-        </item>
-        <item>
-            <title><![CDATA[舊金山警察因沒有開燈而將一輛Cruise無人駕駛汽車攔下]]></title>
-            <link>https://news.ycombinator.com/item?id=30985843</link>
-            <guid>https://news.ycombinator.com/item?id=30985843</guid>
-            <pubDate>Mon, 11 Apr 2022 07:48:27 GMT</pubDate>
-            <description><![CDATA[San Francisco cops pull over a Cruise driverless car for no lights on]]></description>
         </item>
     </channel>
 </rss>

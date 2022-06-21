@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31825742",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31825742",
+            "title": "GitHub Copilot已普遍可用\n",
+            "summary": "GitHub Copilot is generally available",
+            "date_modified": "2022-06-21T16:23:21.000Z",
+            "author": {
+                "name": "sammorrowdrums",
+                "url": "https://news.ycombinator.com/user?id=sammorrowdrums"
+            },
+            "_original_headline": "GitHub Copilot is generally available",
+            "_original_url": "https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/",
+            "_sensitive": false,
+            "_score": 273
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31796256",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31796256",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://etsystrike.org/",
             "_sensitive": false,
             "_score": 304
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30985843",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30985843",
-            "title": "旧金山警察因没有开灯而将一辆Cruise无人驾驶汽车拦下",
-            "summary": "San Francisco cops pull over a Cruise driverless car for no lights on",
-            "date_modified": "2022-04-11T07:48:27.000Z",
-            "author": {
-                "name": "bmitc",
-                "url": "https://news.ycombinator.com/user?id=bmitc"
-            },
-            "_original_headline": "San Francisco cops pull over a Cruise driverless car for no lights on",
-            "_original_url": "https://www.theverge.com/2022/4/10/23019303/heres-what-happens-cops-pull-over-a-driverless-cruise-vehicle-general-motors",
-            "_sensitive": false,
-            "_score": 252
         }
     ]
 }
