@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 21 Jun 2022 19:59:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 20:30:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[洗衣店的符號沒有意義
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31823485</link>
+            <guid>https://news.ycombinator.com/item?id=31823485</guid>
+            <pubDate>Tue, 21 Jun 2022 13:10:55 GMT</pubDate>
+            <description><![CDATA[Laundry symbols make no sense]]></description>
+        </item>
         <item>
             <title><![CDATA[德諾公司籌集了2100萬美元的資金
 ]]></title>
@@ -4552,13 +4560,6 @@
             <guid>https://news.ycombinator.com/item?id=30990697</guid>
             <pubDate>Mon, 11 Apr 2022 16:03:19 GMT</pubDate>
             <description><![CDATA[Atlassian: We estimate the rebuilding effort to last for up to 2 more weeks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌稱人工智能生成的內容違反準則]]></title>
-            <link>https://news.ycombinator.com/item?id=30969620</link>
-            <guid>https://news.ycombinator.com/item?id=30969620</guid>
-            <pubDate>Sat, 09 Apr 2022 16:50:42 GMT</pubDate>
-            <description><![CDATA[Google says AI generated content is against guidelines]]></description>
         </item>
     </channel>
 </rss>

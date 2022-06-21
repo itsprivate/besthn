@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-21T19:59:43.953Z</updated>
+    <updated>2022-06-21T20:30:54.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[洗衣店的符號沒有意義
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31823485</id>
+        <link href="https://news.ycombinator.com/item?id=31823485"/>
+        <updated>2022-06-21T13:10:55.000Z</updated>
+        <summary type="html"><![CDATA[Laundry symbols make no sense]]></summary>
+        <author>
+            <name>allenwhsu</name>
+            <uri>https://news.ycombinator.com/user?id=allenwhsu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德諾公司籌集了2100萬美元的資金
 ]]></title>
@@ -6948,17 +6960,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌稱人工智能生成的內容違反準則]]></title>
-        <id>https://news.ycombinator.com/item?id=30969620</id>
-        <link href="https://news.ycombinator.com/item?id=30969620"/>
-        <updated>2022-04-09T16:50:42.000Z</updated>
-        <summary type="html"><![CDATA[Google says AI generated content is against guidelines]]></summary>
-        <author>
-            <name>rolph</name>
-            <uri>https://news.ycombinator.com/user?id=rolph</uri>
         </author>
     </entry>
 </feed>
