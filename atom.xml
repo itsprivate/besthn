@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-21T15:53:50.492Z</updated>
+    <updated>2022-06-21T16:56:26.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对从事加密货币工作感到不安，该怎么办？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31796256</id>
+        <link href="https://news.ycombinator.com/item?id=31796256"/>
+        <updated>2022-06-19T04:48:59.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Feel bad about working in crypto, what to do?]]></summary>
+        <author>
+            <name>whyamibad2</name>
+            <uri>https://news.ycombinator.com/user?id=whyamibad2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用SQLite对CSV文件运行查询的单行本
 ]]></title>
@@ -6944,17 +6956,6 @@
         <author>
             <name>bmitc</name>
             <uri>https://news.ycombinator.com/user?id=bmitc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在哪里可以看到许多真实公司的软件架构的例子？]]></title>
-        <id>https://news.ycombinator.com/item?id=30986893</id>
-        <link href="https://news.ycombinator.com/item?id=30986893"/>
-        <updated>2022-04-11T10:39:25.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where can I see many examples of real companies' software architecture?]]></summary>
-        <author>
-            <name>PeledYuval</name>
-            <uri>https://news.ycombinator.com/user?id=PeledYuval</uri>
         </author>
     </entry>
 </feed>

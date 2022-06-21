@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 21 Jun 2022 15:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 16:56:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[对从事加密货币工作感到不安，该怎么办？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31796256</link>
+            <guid>https://news.ycombinator.com/item?id=31796256</guid>
+            <pubDate>Sun, 19 Jun 2022 04:48:59 GMT</pubDate>
+            <description><![CDATA[Ask HN: Feel bad about working in crypto, what to do?]]></description>
+        </item>
         <item>
             <title><![CDATA[用SQLite对CSV文件运行查询的单行本
 ]]></title>
@@ -4548,13 +4556,6 @@
             <guid>https://news.ycombinator.com/item?id=30985843</guid>
             <pubDate>Mon, 11 Apr 2022 07:48:27 GMT</pubDate>
             <description><![CDATA[San Francisco cops pull over a Cruise driverless car for no lights on]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我在哪里可以看到许多真实公司的软件架构的例子？]]></title>
-            <link>https://news.ycombinator.com/item?id=30986893</link>
-            <guid>https://news.ycombinator.com/item?id=30986893</guid>
-            <pubDate>Mon, 11 Apr 2022 10:39:25 GMT</pubDate>
-            <description><![CDATA[Ask HN: Where can I see many examples of real companies' software architecture?]]></description>
         </item>
     </channel>
 </rss>
