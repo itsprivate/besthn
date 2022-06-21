@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 21 Jun 2022 13:00:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 14:37:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[看看擁有自己索引的搜索引擎（2021年）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31820149</link>
+            <guid>https://news.ycombinator.com/item?id=31820149</guid>
+            <pubDate>Tue, 21 Jun 2022 05:12:53 GMT</pubDate>
+            <description><![CDATA[A look at search engines with their own indexes (2021)]]></description>
+        </item>
         <item>
             <title><![CDATA[在沒有資金支持的情況下獨自開發開源數據工具的一年
 ]]></title>
@@ -4545,13 +4553,6 @@
             <guid>https://news.ycombinator.com/item?id=30988034</guid>
             <pubDate>Mon, 11 Apr 2022 12:57:26 GMT</pubDate>
             <description><![CDATA[Node.js packages don't deserve trust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[聯邦調查局沒有敲開嫌疑人的門，因為 "那是一個富裕的社區]]></title>
-            <link>https://news.ycombinator.com/item?id=30984559</link>
-            <guid>https://news.ycombinator.com/item?id=30984559</guid>
-            <pubDate>Mon, 11 Apr 2022 04:09:31 GMT</pubDate>
-            <description><![CDATA[FBI Didn't Knock Down a Suspect's Door Because 'It Was an Affluent Neighborhood']]></description>
         </item>
     </channel>
 </rss>

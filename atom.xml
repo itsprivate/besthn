@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-21T13:00:27.446Z</updated>
+    <updated>2022-06-21T14:37:22.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[看看拥有自己索引的搜索引擎（2021年）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31820149</id>
+        <link href="https://news.ycombinator.com/item?id=31820149"/>
+        <updated>2022-06-21T05:12:53.000Z</updated>
+        <summary type="html"><![CDATA[A look at search engines with their own indexes (2021)]]></summary>
+        <author>
+            <name>tintedfireglass</name>
+            <uri>https://news.ycombinator.com/user?id=tintedfireglass</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在没有资金支持的情况下独自开发开源数据工具的一年
 ]]></title>
@@ -6941,17 +6953,6 @@
         <author>
             <name>lewisjoe</name>
             <uri>https://news.ycombinator.com/user?id=lewisjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联邦调查局没有敲开嫌疑人的门，因为 "那是一个富裕的社区]]></title>
-        <id>https://news.ycombinator.com/item?id=30984559</id>
-        <link href="https://news.ycombinator.com/item?id=30984559"/>
-        <updated>2022-04-11T04:09:31.000Z</updated>
-        <summary type="html"><![CDATA[FBI Didn't Knock Down a Suspect's Door Because 'It Was an Affluent Neighborhood']]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
         </author>
     </entry>
 </feed>
