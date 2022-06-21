@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31824030",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31824030",
+            "title": "用SQLite对CSV文件运行查询的单行本\n",
+            "summary": "One-liner for running queries against CSV files with SQLite",
+            "date_modified": "2022-06-21T13:59:36.000Z",
+            "author": {
+                "name": "jdblair",
+                "url": "https://news.ycombinator.com/user?id=jdblair"
+            },
+            "_original_headline": "One-liner for running queries against CSV files with SQLite",
+            "_original_url": "https://til.simonwillison.net/sqlite/one-line-csv-operations",
+            "_sensitive": false,
+            "_score": 223
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31823132",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31823132",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://news.ycombinator.com/item?id=30986893",
             "_sensitive": false,
             "_score": 264
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30983517",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30983517",
-            "title": "你喜欢哪些超关注的行业通讯？",
-            "summary": "Ask HN: What hyper-focused industry newsletters do you enjoy?",
-            "date_modified": "2022-04-11T01:23:58.000Z",
-            "author": {
-                "name": "vwcx",
-                "url": "https://news.ycombinator.com/user?id=vwcx"
-            },
-            "_original_headline": "Ask HN: What hyper-focused industry newsletters do you enjoy?",
-            "_original_url": "https://news.ycombinator.com/item?id=30983517",
-            "_sensitive": false,
-            "_score": 253
         }
     ]
 }
