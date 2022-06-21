@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31822549",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31822549",
+            "title": "性爱要过时了？\n",
+            "summary": "Sex is going out of fashion?",
+            "date_modified": "2022-06-21T11:08:23.000Z",
+            "author": {
+                "name": "loudtdarrow",
+                "url": "https://news.ycombinator.com/user?id=loudtdarrow"
+            },
+            "_original_headline": "Sex is going out of fashion?",
+            "_original_url": "https://www.welltechnically.news/p/sex-is-going-out-of-fashion",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31825742",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31825742",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://climateer.substack.com/p/avoided-emissions",
             "_sensitive": false,
             "_score": 256
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30989344",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30989344",
-            "title": "艾特罢工",
-            "summary": "Etsy Strike",
-            "date_modified": "2022-04-11T14:35:54.000Z",
-            "author": {
-                "name": "KarlKemp",
-                "url": "https://news.ycombinator.com/user?id=KarlKemp"
-            },
-            "_original_headline": "Etsy Strike",
-            "_original_url": "https://etsystrike.org/",
-            "_sensitive": false,
-            "_score": 304
         }
     ]
 }
