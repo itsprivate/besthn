@@ -11,6 +11,70 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31813443",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31813443",
+            "title": "Meta VR原型機旨在使VR \"與現實無異\"。\n",
+            "summary": "Meta VR prototypes aim to make VR 'indistinguishable from reality'",
+            "date_modified": "2022-06-20T18:00:52.000Z",
+            "author": {
+                "name": "cr4zy",
+                "url": "https://news.ycombinator.com/user?id=cr4zy"
+            },
+            "_original_headline": "Meta VR prototypes aim to make VR 'indistinguishable from reality'",
+            "_original_url": "https://www.roadtovr.com/meta-vr-headset-prototypes-visual-fidelity-indistinguishable-from-reality/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31813308",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31813308",
+            "title": "告訴HN：Instagram要求我發送一張自己的照片以證明我擁有自己的賬戶\n",
+            "summary": "Tell HN: Instagram demands I send a picture of myself to prove I own my account",
+            "date_modified": "2022-06-20T17:50:08.000Z",
+            "author": {
+                "name": "jdthedisciple",
+                "url": "https://news.ycombinator.com/user?id=jdthedisciple"
+            },
+            "_original_headline": "Tell HN: Instagram demands I send a picture of myself to prove I own my account",
+            "_original_url": "https://news.ycombinator.com/item?id=31813308",
+            "_sensitive": false,
+            "_score": 237
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31812401",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31812401",
+            "title": "關於12年後離開Mapbox\n",
+            "summary": "On leaving Mapbox after 12 years",
+            "date_modified": "2022-06-20T16:37:38.000Z",
+            "author": {
+                "name": "gregoire",
+                "url": "https://news.ycombinator.com/user?id=gregoire"
+            },
+            "_original_headline": "On leaving Mapbox after 12 years",
+            "_original_url": "https://trashmoon.com/blog/2022/reflections-on-12-years-at-mapbox/",
+            "_sensitive": false,
+            "_score": 225
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31811789",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31811789",
+            "title": "新任CTO的行動計劃\n",
+            "summary": "Action Plan for a New CTO",
+            "date_modified": "2022-06-20T15:51:10.000Z",
+            "author": {
+                "name": "sblank",
+                "url": "https://news.ycombinator.com/user?id=sblank"
+            },
+            "_original_headline": "Action Plan for a New CTO",
+            "_original_url": "https://steveblank.com/2022/06/20/finding-and-growing-the-islands-of-innovation-inside-a-large-company-action-plan-for-a-new-cto/",
+            "_sensitive": false,
+            "_score": 215
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31811758",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31811758",
@@ -9545,70 +9609,6 @@
             "_original_url": "https://gist.github.com/luqmana/be1af5b64d2cda5a533e3e23a7830b44",
             "_sensitive": false,
             "_score": 252
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30970720",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30970720",
-            "title": "Bore。一個簡單的CLI工具，用於製作通往localhost的隧道",
-            "summary": "Bore: A simple CLI tool for making tunnels to localhost",
-            "date_modified": "2022-04-09T18:38:49.000Z",
-            "author": {
-                "name": "willmorrison",
-                "url": "https://news.ycombinator.com/user?id=willmorrison"
-            },
-            "_original_headline": "Bore: A simple CLI tool for making tunnels to localhost",
-            "_original_url": "https://github.com/ekzhang/bore",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30979563",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30979563",
-            "title": "蘋果公司隱藏電子郵件的頌歌",
-            "summary": "An Ode to Apple’s Hide My Email",
-            "date_modified": "2022-04-10T17:42:11.000Z",
-            "author": {
-                "name": "mlapida",
-                "url": "https://news.ycombinator.com/user?id=mlapida"
-            },
-            "_original_headline": "An Ode to Apple’s Hide My Email",
-            "_original_url": "https://empty.coffee/an-ode-to-apples-hide-my-email/",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30977147",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30977147",
-            "title": "異端",
-            "summary": "Heresy",
-            "date_modified": "2022-04-10T14:25:02.000Z",
-            "author": {
-                "name": "prtkgpt",
-                "url": "https://news.ycombinator.com/user?id=prtkgpt"
-            },
-            "_original_headline": "Heresy",
-            "_original_url": "http://paulgraham.com/heresy.html",
-            "_sensitive": false,
-            "_score": 252
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30973808",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30973808",
-            "title": "阿特拉斯公司的產品已經停機4天了",
-            "summary": "Atlassian products have been down for 4 days",
-            "date_modified": "2022-04-10T01:54:11.000Z",
-            "author": {
-                "name": "Corrado",
-                "url": "https://news.ycombinator.com/user?id=Corrado"
-            },
-            "_original_headline": "Atlassian products have been down for 4 days",
-            "_original_url": "https://status.atlassian.com",
-            "_sensitive": false,
-            "_score": 256
         }
     ]
 }

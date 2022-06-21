@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-20T22:47:13.880Z</updated>
+    <updated>2022-06-21T02:21:33.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Meta VR原型机旨在使VR "与现实无异"。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31813443</id>
+        <link href="https://news.ycombinator.com/item?id=31813443"/>
+        <updated>2022-06-20T18:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Meta VR prototypes aim to make VR 'indistinguishable from reality']]></summary>
+        <author>
+            <name>cr4zy</name>
+            <uri>https://news.ycombinator.com/user?id=cr4zy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：Instagram要求我发送一张自己的照片以证明我拥有自己的账户
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31813308</id>
+        <link href="https://news.ycombinator.com/item?id=31813308"/>
+        <updated>2022-06-20T17:50:08.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Instagram demands I send a picture of myself to prove I own my account]]></summary>
+        <author>
+            <name>jdthedisciple</name>
+            <uri>https://news.ycombinator.com/user?id=jdthedisciple</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于12年后离开Mapbox
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31812401</id>
+        <link href="https://news.ycombinator.com/item?id=31812401"/>
+        <updated>2022-06-20T16:37:38.000Z</updated>
+        <summary type="html"><![CDATA[On leaving Mapbox after 12 years]]></summary>
+        <author>
+            <name>gregoire</name>
+            <uri>https://news.ycombinator.com/user?id=gregoire</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新任CTO的行动计划
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31811789</id>
+        <link href="https://news.ycombinator.com/item?id=31811789"/>
+        <updated>2022-06-20T15:51:10.000Z</updated>
+        <summary type="html"><![CDATA[Action Plan for a New CTO]]></summary>
+        <author>
+            <name>sblank</name>
+            <uri>https://news.ycombinator.com/user?id=sblank</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的40升背包旅行指南
 ]]></title>
@@ -6897,50 +6945,6 @@
         <author>
             <name>bcantrill</name>
             <uri>https://news.ycombinator.com/user?id=bcantrill</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bore。一个简单的CLI工具，用于制作通往localhost的隧道]]></title>
-        <id>https://news.ycombinator.com/item?id=30970720</id>
-        <link href="https://news.ycombinator.com/item?id=30970720"/>
-        <updated>2022-04-09T18:38:49.000Z</updated>
-        <summary type="html"><![CDATA[Bore: A simple CLI tool for making tunnels to localhost]]></summary>
-        <author>
-            <name>willmorrison</name>
-            <uri>https://news.ycombinator.com/user?id=willmorrison</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果公司隐藏电子邮件的颂歌]]></title>
-        <id>https://news.ycombinator.com/item?id=30979563</id>
-        <link href="https://news.ycombinator.com/item?id=30979563"/>
-        <updated>2022-04-10T17:42:11.000Z</updated>
-        <summary type="html"><![CDATA[An Ode to Apple’s Hide My Email]]></summary>
-        <author>
-            <name>mlapida</name>
-            <uri>https://news.ycombinator.com/user?id=mlapida</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[异端]]></title>
-        <id>https://news.ycombinator.com/item?id=30977147</id>
-        <link href="https://news.ycombinator.com/item?id=30977147"/>
-        <updated>2022-04-10T14:25:02.000Z</updated>
-        <summary type="html"><![CDATA[Heresy]]></summary>
-        <author>
-            <name>prtkgpt</name>
-            <uri>https://news.ycombinator.com/user?id=prtkgpt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿特拉斯公司的产品已经停机4天了]]></title>
-        <id>https://news.ycombinator.com/item?id=30973808</id>
-        <link href="https://news.ycombinator.com/item?id=30973808"/>
-        <updated>2022-04-10T01:54:11.000Z</updated>
-        <summary type="html"><![CDATA[Atlassian products have been down for 4 days]]></summary>
-        <author>
-            <name>Corrado</name>
-            <uri>https://news.ycombinator.com/user?id=Corrado</uri>
         </author>
     </entry>
 </feed>

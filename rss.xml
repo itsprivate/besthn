@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 20 Jun 2022 22:47:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 02:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,38 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Meta VR原型机旨在使VR "与现实无异"。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31813443</link>
+            <guid>https://news.ycombinator.com/item?id=31813443</guid>
+            <pubDate>Mon, 20 Jun 2022 18:00:52 GMT</pubDate>
+            <description><![CDATA[Meta VR prototypes aim to make VR 'indistinguishable from reality']]></description>
+        </item>
+        <item>
+            <title><![CDATA[告诉HN：Instagram要求我发送一张自己的照片以证明我拥有自己的账户
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31813308</link>
+            <guid>https://news.ycombinator.com/item?id=31813308</guid>
+            <pubDate>Mon, 20 Jun 2022 17:50:08 GMT</pubDate>
+            <description><![CDATA[Tell HN: Instagram demands I send a picture of myself to prove I own my account]]></description>
+        </item>
+        <item>
+            <title><![CDATA[关于12年后离开Mapbox
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31812401</link>
+            <guid>https://news.ycombinator.com/item?id=31812401</guid>
+            <pubDate>Mon, 20 Jun 2022 16:37:38 GMT</pubDate>
+            <description><![CDATA[On leaving Mapbox after 12 years]]></description>
+        </item>
+        <item>
+            <title><![CDATA[新任CTO的行动计划
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31811789</link>
+            <guid>https://news.ycombinator.com/item?id=31811789</guid>
+            <pubDate>Mon, 20 Jun 2022 15:51:10 GMT</pubDate>
+            <description><![CDATA[Action Plan for a New CTO]]></description>
+        </item>
         <item>
             <title><![CDATA[我的40升背包旅行指南
 ]]></title>
@@ -4513,34 +4545,6 @@
             <guid>https://news.ycombinator.com/item?id=30980984</guid>
             <pubDate>Sun, 10 Apr 2022 19:47:23 GMT</pubDate>
             <description><![CDATA[Achievement unlocked: rustc segfault]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bore。一个简单的CLI工具，用于制作通往localhost的隧道]]></title>
-            <link>https://news.ycombinator.com/item?id=30970720</link>
-            <guid>https://news.ycombinator.com/item?id=30970720</guid>
-            <pubDate>Sat, 09 Apr 2022 18:38:49 GMT</pubDate>
-            <description><![CDATA[Bore: A simple CLI tool for making tunnels to localhost]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苹果公司隐藏电子邮件的颂歌]]></title>
-            <link>https://news.ycombinator.com/item?id=30979563</link>
-            <guid>https://news.ycombinator.com/item?id=30979563</guid>
-            <pubDate>Sun, 10 Apr 2022 17:42:11 GMT</pubDate>
-            <description><![CDATA[An Ode to Apple’s Hide My Email]]></description>
-        </item>
-        <item>
-            <title><![CDATA[异端]]></title>
-            <link>https://news.ycombinator.com/item?id=30977147</link>
-            <guid>https://news.ycombinator.com/item?id=30977147</guid>
-            <pubDate>Sun, 10 Apr 2022 14:25:02 GMT</pubDate>
-            <description><![CDATA[Heresy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[阿特拉斯公司的产品已经停机4天了]]></title>
-            <link>https://news.ycombinator.com/item?id=30973808</link>
-            <guid>https://news.ycombinator.com/item?id=30973808</guid>
-            <pubDate>Sun, 10 Apr 2022 01:54:11 GMT</pubDate>
-            <description><![CDATA[Atlassian products have been down for 4 days]]></description>
         </item>
     </channel>
 </rss>
