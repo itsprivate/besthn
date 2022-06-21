@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-21T14:37:22.521Z</updated>
+    <updated>2022-06-21T14:47:50.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年6月21日，Cloudflare中断服务
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31823132</id>
+        <link href="https://news.ycombinator.com/item?id=31823132"/>
+        <updated>2022-06-21T12:39:30.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflare outage on June 21, 2022]]></summary>
+        <author>
+            <name>jgrahamc</name>
+            <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[看看拥有自己索引的搜索引擎（2021年）。
 ]]></title>
@@ -6942,17 +6954,6 @@
         <author>
             <name>vwcx</name>
             <uri>https://news.ycombinator.com/user?id=vwcx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js包不值得信任]]></title>
-        <id>https://news.ycombinator.com/item?id=30988034</id>
-        <link href="https://news.ycombinator.com/item?id=30988034"/>
-        <updated>2022-04-11T12:57:26.000Z</updated>
-        <summary type="html"><![CDATA[Node.js packages don't deserve trust]]></summary>
-        <author>
-            <name>lewisjoe</name>
-            <uri>https://news.ycombinator.com/user?id=lewisjoe</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 21 Jun 2022 14:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 14:47:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[2022年6月21日，Cloudflare中斷服務
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31823132</link>
+            <guid>https://news.ycombinator.com/item?id=31823132</guid>
+            <pubDate>Tue, 21 Jun 2022 12:39:30 GMT</pubDate>
+            <description><![CDATA[Cloudflare outage on June 21, 2022]]></description>
+        </item>
         <item>
             <title><![CDATA[看看擁有自己索引的搜索引擎（2021年）。
 ]]></title>
@@ -4546,13 +4554,6 @@
             <guid>https://news.ycombinator.com/item?id=30983517</guid>
             <pubDate>Mon, 11 Apr 2022 01:23:58 GMT</pubDate>
             <description><![CDATA[Ask HN: What hyper-focused industry newsletters do you enjoy?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Node.js包不值得信任]]></title>
-            <link>https://news.ycombinator.com/item?id=30988034</link>
-            <guid>https://news.ycombinator.com/item?id=30988034</guid>
-            <pubDate>Mon, 11 Apr 2022 12:57:26 GMT</pubDate>
-            <description><![CDATA[Node.js packages don't deserve trust]]></description>
         </item>
     </channel>
 </rss>
