@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-21T04:27:44.510Z</updated>
+    <updated>2022-06-21T05:39:29.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[WTF Nextdoor? 超过130次点击就能禁用电子邮件和推送通知？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31818074</id>
+        <link href="https://news.ycombinator.com/item?id=31818074"/>
+        <updated>2022-06-21T00:19:14.000Z</updated>
+        <summary type="html"><![CDATA[WTF Nextdoor? Over 130 click to disable email and push notifications?]]></summary>
+        <author>
+            <name>juliennakache</name>
+            <uri>https://news.ycombinator.com/user?id=juliennakache</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netboot.xyz：你喜欢的操作系统在一个地方。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31814288</id>
+        <link href="https://news.ycombinator.com/item?id=31814288"/>
+        <updated>2022-06-20T19:06:07.000Z</updated>
+        <summary type="html"><![CDATA[Netboot.xyz: your favorite operating systems in one place]]></summary>
+        <author>
+            <name>metadat</name>
+            <uri>https://news.ycombinator.com/user?id=metadat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lexical - 一个网络文本编辑器框架，为Facebook提供支持
 ]]></title>
@@ -6924,28 +6948,6 @@
         <author>
             <name>minimaxir</name>
             <uri>https://news.ycombinator.com/user?id=minimaxir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小项目的乐趣]]></title>
-        <id>https://news.ycombinator.com/item?id=30980307</id>
-        <link href="https://news.ycombinator.com/item?id=30980307"/>
-        <updated>2022-04-10T18:43:30.000Z</updated>
-        <summary type="html"><![CDATA[The Joy of Small Projects]]></summary>
-        <author>
-            <name>dschroer</name>
-            <uri>https://news.ycombinator.com/user?id=dschroer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[噪声污染对心脏的伤害]]></title>
-        <id>https://news.ycombinator.com/item?id=30983274</id>
-        <link href="https://news.ycombinator.com/item?id=30983274"/>
-        <updated>2022-04-11T00:38:04.000Z</updated>
-        <summary type="html"><![CDATA[Noise Pollution Hurts the Heart]]></summary>
-        <author>
-            <name>karlzt</name>
-            <uri>https://news.ycombinator.com/user?id=karlzt</uri>
         </author>
     </entry>
 </feed>

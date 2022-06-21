@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 21 Jun 2022 04:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 05:39:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[WTF Nextdoor? 超過130次點擊就能禁用電子郵件和推送通知？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31818074</link>
+            <guid>https://news.ycombinator.com/item?id=31818074</guid>
+            <pubDate>Tue, 21 Jun 2022 00:19:14 GMT</pubDate>
+            <description><![CDATA[WTF Nextdoor? Over 130 click to disable email and push notifications?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Netboot.xyz：你喜歡的操作系統在一個地方。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31814288</link>
+            <guid>https://news.ycombinator.com/item?id=31814288</guid>
+            <pubDate>Mon, 20 Jun 2022 19:06:07 GMT</pubDate>
+            <description><![CDATA[Netboot.xyz: your favorite operating systems in one place]]></description>
+        </item>
         <item>
             <title><![CDATA[Lexical - 一個網絡文本編輯器框架，為Facebook提供支持
 ]]></title>
@@ -4532,20 +4548,6 @@
             <guid>https://news.ycombinator.com/item?id=30984215</guid>
             <pubDate>Mon, 11 Apr 2022 03:18:42 GMT</pubDate>
             <description><![CDATA[Elon has decided not to join our board]]></description>
-        </item>
-        <item>
-            <title><![CDATA[小項目的樂趣]]></title>
-            <link>https://news.ycombinator.com/item?id=30980307</link>
-            <guid>https://news.ycombinator.com/item?id=30980307</guid>
-            <pubDate>Sun, 10 Apr 2022 18:43:30 GMT</pubDate>
-            <description><![CDATA[The Joy of Small Projects]]></description>
-        </item>
-        <item>
-            <title><![CDATA[噪聲汙染對心臟的傷害]]></title>
-            <link>https://news.ycombinator.com/item?id=30983274</link>
-            <guid>https://news.ycombinator.com/item?id=30983274</guid>
-            <pubDate>Mon, 11 Apr 2022 00:38:04 GMT</pubDate>
-            <description><![CDATA[Noise Pollution Hurts the Heart]]></description>
         </item>
     </channel>
 </rss>
