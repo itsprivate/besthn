@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-21T02:21:33.775Z</updated>
+    <updated>2022-06-21T04:27:44.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lexical - 一個網絡文本編輯器框架，為Facebook提供支持
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31813550</id>
+        <link href="https://news.ycombinator.com/item?id=31813550"/>
+        <updated>2022-06-20T18:08:03.000Z</updated>
+        <summary type="html"><![CDATA[Lexical – a web text editor framework that powers Facebook]]></summary>
+        <author>
+            <name>trueadm</name>
+            <uri>https://news.ycombinator.com/user?id=trueadm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta VR原型機旨在使VR "與現實無異"。
 ]]></title>
@@ -6934,17 +6946,6 @@
         <author>
             <name>karlzt</name>
             <uri>https://news.ycombinator.com/user?id=karlzt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[成就解鎖：Rustc segfault]]></title>
-        <id>https://news.ycombinator.com/item?id=30980984</id>
-        <link href="https://news.ycombinator.com/item?id=30980984"/>
-        <updated>2022-04-10T19:47:23.000Z</updated>
-        <summary type="html"><![CDATA[Achievement unlocked: rustc segfault]]></summary>
-        <author>
-            <name>bcantrill</name>
-            <uri>https://news.ycombinator.com/user?id=bcantrill</uri>
         </author>
     </entry>
 </feed>

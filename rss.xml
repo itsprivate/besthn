@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 21 Jun 2022 02:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 04:27:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Lexical - 一个网络文本编辑器框架，为Facebook提供支持
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31813550</link>
+            <guid>https://news.ycombinator.com/item?id=31813550</guid>
+            <pubDate>Mon, 20 Jun 2022 18:08:03 GMT</pubDate>
+            <description><![CDATA[Lexical – a web text editor framework that powers Facebook]]></description>
+        </item>
         <item>
             <title><![CDATA[Meta VR原型机旨在使VR "与现实无异"。
 ]]></title>
@@ -4538,13 +4546,6 @@
             <guid>https://news.ycombinator.com/item?id=30983274</guid>
             <pubDate>Mon, 11 Apr 2022 00:38:04 GMT</pubDate>
             <description><![CDATA[Noise Pollution Hurts the Heart]]></description>
-        </item>
-        <item>
-            <title><![CDATA[成就解锁：Rustc segfault]]></title>
-            <link>https://news.ycombinator.com/item?id=30980984</link>
-            <guid>https://news.ycombinator.com/item?id=30980984</guid>
-            <pubDate>Sun, 10 Apr 2022 19:47:23 GMT</pubDate>
-            <description><![CDATA[Achievement unlocked: rustc segfault]]></description>
         </item>
     </channel>
 </rss>
