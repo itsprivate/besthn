@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31824877",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31824877",
+            "title": "Avo - 更快地構建Ruby on Rails應用程序\n",
+            "summary": "Show HN: Avo – Build Ruby on Rails apps faster",
+            "date_modified": "2022-06-21T15:14:02.000Z",
+            "author": {
+                "name": "adrianthedev",
+                "url": "https://news.ycombinator.com/user?id=adrianthedev"
+            },
+            "_original_headline": "Show HN: Avo – Build Ruby on Rails apps faster",
+            "_original_url": "https://avohq.io/",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31823485",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31823485",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.nytimes.com/2022/04/05/travel/europe-trains.html",
             "_sensitive": false,
             "_score": 264
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30990697",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30990697",
-            "title": "阿特拉斯：我們估計重建工作將持續2周之久。",
-            "summary": "Atlassian: We estimate the rebuilding effort to last for up to 2 more weeks",
-            "date_modified": "2022-04-11T16:03:19.000Z",
-            "author": {
-                "name": "tosh",
-                "url": "https://news.ycombinator.com/user?id=tosh"
-            },
-            "_original_headline": "Atlassian: We estimate the rebuilding effort to last for up to 2 more weeks",
-            "_original_url": "https://twitter.com/kjartanmuller/status/1513462616030683138",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }
