@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-21T05:39:29.198Z</updated>
+    <updated>2022-06-21T05:58:30.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在吸引高級申請人方面遇到困難，想知道該如何解決這個問題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31812864</id>
+        <link href="https://news.ycombinator.com/item?id=31812864"/>
+        <updated>2022-06-20T17:14:55.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Having trouble getting senior applicants, wondering what to do about it]]></summary>
+        <author>
+            <name>throw1138</name>
+            <uri>https://news.ycombinator.com/user?id=throw1138</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WTF Nextdoor? 超過130次點擊就能禁用電子郵件和推送通知？
 ]]></title>
@@ -6937,17 +6949,6 @@
         <author>
             <name>BadCookie</name>
             <uri>https://news.ycombinator.com/user?id=BadCookie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆已決定不加入我們的董事會]]></title>
-        <id>https://news.ycombinator.com/item?id=30984215</id>
-        <link href="https://news.ycombinator.com/item?id=30984215"/>
-        <updated>2022-04-11T03:18:42.000Z</updated>
-        <summary type="html"><![CDATA[Elon has decided not to join our board]]></summary>
-        <author>
-            <name>minimaxir</name>
-            <uri>https://news.ycombinator.com/user?id=minimaxir</uri>
         </author>
     </entry>
 </feed>

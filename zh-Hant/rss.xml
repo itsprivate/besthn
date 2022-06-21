@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 21 Jun 2022 05:39:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 05:58:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在吸引高級申請人方面遇到困難，想知道該如何解決這個問題
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31812864</link>
+            <guid>https://news.ycombinator.com/item?id=31812864</guid>
+            <pubDate>Mon, 20 Jun 2022 17:14:55 GMT</pubDate>
+            <description><![CDATA[Ask HN: Having trouble getting senior applicants, wondering what to do about it]]></description>
+        </item>
         <item>
             <title><![CDATA[WTF Nextdoor? 超過130次點擊就能禁用電子郵件和推送通知？
 ]]></title>
@@ -4541,13 +4549,6 @@
             <guid>https://news.ycombinator.com/item?id=30983714</guid>
             <pubDate>Mon, 11 Apr 2022 01:57:54 GMT</pubDate>
             <description><![CDATA[Van life (cancer edition) finale]]></description>
-        </item>
-        <item>
-            <title><![CDATA[埃隆已決定不加入我們的董事會]]></title>
-            <link>https://news.ycombinator.com/item?id=30984215</link>
-            <guid>https://news.ycombinator.com/item?id=30984215</guid>
-            <pubDate>Mon, 11 Apr 2022 03:18:42 GMT</pubDate>
-            <description><![CDATA[Elon has decided not to join our board]]></description>
         </item>
     </channel>
 </rss>
