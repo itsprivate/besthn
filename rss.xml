@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 21 Jun 2022 19:45:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 19:59:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[德诺公司筹集了2100万美元的资金
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31827387</link>
+            <guid>https://news.ycombinator.com/item?id=31827387</guid>
+            <pubDate>Tue, 21 Jun 2022 18:33:40 GMT</pubDate>
+            <description><![CDATA[Deno raises $21M]]></description>
+        </item>
         <item>
             <title><![CDATA[性爱要过时了？
 ]]></title>
@@ -4551,13 +4559,6 @@
             <guid>https://news.ycombinator.com/item?id=30969620</guid>
             <pubDate>Sat, 09 Apr 2022 16:50:42 GMT</pubDate>
             <description><![CDATA[Google says AI generated content is against guidelines]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我喜欢碳抵消的想法，直到我试图解释它]]></title>
-            <link>https://news.ycombinator.com/item?id=30988390</link>
-            <guid>https://news.ycombinator.com/item?id=30988390</guid>
-            <pubDate>Mon, 11 Apr 2022 13:29:43 GMT</pubDate>
-            <description><![CDATA[I liked the idea of carbon offsets until I tried to explain it]]></description>
         </item>
     </channel>
 </rss>

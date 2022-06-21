@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-21T19:45:36.515Z</updated>
+    <updated>2022-06-21T19:59:43.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[德諾公司籌集了2100萬美元的資金
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31827387</id>
+        <link href="https://news.ycombinator.com/item?id=31827387"/>
+        <updated>2022-06-21T18:33:40.000Z</updated>
+        <summary type="html"><![CDATA[Deno raises $21M]]></summary>
+        <author>
+            <name>0xedb</name>
+            <uri>https://news.ycombinator.com/user?id=0xedb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[性愛要過時了？
 ]]></title>
@@ -6947,17 +6959,6 @@
         <author>
             <name>rolph</name>
             <uri>https://news.ycombinator.com/user?id=rolph</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我喜歡碳抵消的想法，直到我試圖解釋它]]></title>
-        <id>https://news.ycombinator.com/item?id=30988390</id>
-        <link href="https://news.ycombinator.com/item?id=30988390"/>
-        <updated>2022-04-11T13:29:43.000Z</updated>
-        <summary type="html"><![CDATA[I liked the idea of carbon offsets until I tried to explain it]]></summary>
-        <author>
-            <name>gk1</name>
-            <uri>https://news.ycombinator.com/user?id=gk1</uri>
         </author>
     </entry>
 </feed>
