@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-21T05:58:30.569Z</updated>
+    <updated>2022-06-21T07:39:58.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare在全球範圍內癱瘓（更新：不是全球，而是很多地方）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31820635</id>
+        <link href="https://news.ycombinator.com/item?id=31820635"/>
+        <updated>2022-06-21T06:37:35.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflare Down Worldwide (Update: not worldwide but a lot of places)]]></summary>
+        <author>
+            <name>rkwasny</name>
+            <uri>https://news.ycombinator.com/user?id=rkwasny</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["雨過天晴"。莫頓鹽女孩
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31817184</id>
+        <link href="https://news.ycombinator.com/item?id=31817184"/>
+        <updated>2022-06-20T22:43:46.000Z</updated>
+        <summary type="html"><![CDATA[“When It Rains, It Pours”: The Morton Salt Girl]]></summary>
+        <author>
+            <name>aw1621107</name>
+            <uri>https://news.ycombinator.com/user?id=aw1621107</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在吸引高級申請人方面遇到困難，想知道該如何解決這個問題
 ]]></title>
@@ -6927,28 +6951,6 @@
         <author>
             <name>maxmouchet</name>
             <uri>https://news.ycombinator.com/user?id=maxmouchet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我必須宣佈立即結束SSLPing的服務]]></title>
-        <id>https://news.ycombinator.com/item?id=30985514</id>
-        <link href="https://news.ycombinator.com/item?id=30985514"/>
-        <updated>2022-04-11T06:55:28.000Z</updated>
-        <summary type="html"><![CDATA[I must announce the immediate end of service of SSLPing]]></summary>
-        <author>
-            <name>WelcomeShorty</name>
-            <uri>https://news.ycombinator.com/user?id=WelcomeShorty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[範式生活（癌症版）的結局]]></title>
-        <id>https://news.ycombinator.com/item?id=30983714</id>
-        <link href="https://news.ycombinator.com/item?id=30983714"/>
-        <updated>2022-04-11T01:57:54.000Z</updated>
-        <summary type="html"><![CDATA[Van life (cancer edition) finale]]></summary>
-        <author>
-            <name>BadCookie</name>
-            <uri>https://news.ycombinator.com/user?id=BadCookie</uri>
         </author>
     </entry>
 </feed>

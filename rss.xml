@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 21 Jun 2022 05:58:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 07:39:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Cloudflare在全球范围内瘫痪（更新：不是全球，而是很多地方）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31820635</link>
+            <guid>https://news.ycombinator.com/item?id=31820635</guid>
+            <pubDate>Tue, 21 Jun 2022 06:37:35 GMT</pubDate>
+            <description><![CDATA[Cloudflare Down Worldwide (Update: not worldwide but a lot of places)]]></description>
+        </item>
+        <item>
+            <title><![CDATA["雨过天晴"。莫顿盐女孩
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31817184</link>
+            <guid>https://news.ycombinator.com/item?id=31817184</guid>
+            <pubDate>Mon, 20 Jun 2022 22:43:46 GMT</pubDate>
+            <description><![CDATA[“When It Rains, It Pours”: The Morton Salt Girl]]></description>
+        </item>
         <item>
             <title><![CDATA[在吸引高级申请人方面遇到困难，想知道该如何解决这个问题
 ]]></title>
@@ -4535,20 +4551,6 @@
             <guid>https://news.ycombinator.com/item?id=30975378</guid>
             <pubDate>Sun, 10 Apr 2022 08:41:23 GMT</pubDate>
             <description><![CDATA[How Intelligent Are Cats? (2004)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我必须宣布立即结束SSLPing的服务]]></title>
-            <link>https://news.ycombinator.com/item?id=30985514</link>
-            <guid>https://news.ycombinator.com/item?id=30985514</guid>
-            <pubDate>Mon, 11 Apr 2022 06:55:28 GMT</pubDate>
-            <description><![CDATA[I must announce the immediate end of service of SSLPing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[范式生活（癌症版）的结局]]></title>
-            <link>https://news.ycombinator.com/item?id=30983714</link>
-            <guid>https://news.ycombinator.com/item?id=30983714</guid>
-            <pubDate>Mon, 11 Apr 2022 01:57:54 GMT</pubDate>
-            <description><![CDATA[Van life (cancer edition) finale]]></description>
         </item>
     </channel>
 </rss>
