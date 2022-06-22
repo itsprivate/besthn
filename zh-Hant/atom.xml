@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-22T19:59:13.089Z</updated>
+    <updated>2022-06-22T20:31:42.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[勇敢的搜索護目鏡。用規則和過濾器改變搜索排名
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31837986</id>
+        <link href="https://news.ycombinator.com/item?id=31837986"/>
+        <updated>2022-06-22T16:16:57.000Z</updated>
+        <summary type="html"><![CDATA[Brave Search Goggles: Alter search rankings with rules and filters]]></summary>
+        <author>
+            <name>llevert</name>
+            <uri>https://news.ycombinator.com/user?id=llevert</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年Stack Overflow開發者調查
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31836974</id>
+        <link href="https://news.ycombinator.com/item?id=31836974"/>
+        <updated>2022-06-22T15:05:46.000Z</updated>
+        <summary type="html"><![CDATA[Stack Overflow Developer Survey 2022]]></summary>
+        <author>
+            <name>klez</name>
+            <uri>https://news.ycombinator.com/user?id=klez</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國食品和藥物管理局將命令Juul電子煙退出美國市場
 ]]></title>
@@ -6956,28 +6980,6 @@
         <author>
             <name>nilsandrey</name>
             <uri>https://news.ycombinator.com/user?id=nilsandrey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[頂級Mac應用商店開發者濫用免費與應用內購買的誘導性應用]]></title>
-        <id>https://news.ycombinator.com/item?id=31005708</id>
-        <link href="https://news.ycombinator.com/item?id=31005708"/>
-        <updated>2022-04-12T17:28:33.000Z</updated>
-        <summary type="html"><![CDATA[Top Mac app store dev abuses free with in-app purchase for bait-and-switch apps]]></summary>
-        <author>
-            <name>Apocryphon</name>
-            <uri>https://news.ycombinator.com/user?id=Apocryphon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑掉美國在線教會了一代程序員什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=31001916</id>
-        <link href="https://news.ycombinator.com/item?id=31001916"/>
-        <updated>2022-04-12T12:48:45.000Z</updated>
-        <summary type="html"><![CDATA[What hacking AOL taught a generation of programmers]]></summary>
-        <author>
-            <name>booleanbetrayal</name>
-            <uri>https://news.ycombinator.com/user?id=booleanbetrayal</uri>
         </author>
     </entry>
 </feed>
