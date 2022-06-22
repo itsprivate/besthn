@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 22 Jun 2022 16:48:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 17:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[創作口譯員。評審
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31835818</link>
+            <guid>https://news.ycombinator.com/item?id=31835818</guid>
+            <pubDate>Wed, 22 Jun 2022 13:36:09 GMT</pubDate>
+            <description><![CDATA[Crafting Interpreters: A Review]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼Apache緊緊抓住OpenOffice不放？
 ]]></title>
@@ -4565,13 +4573,6 @@
             <guid>https://news.ycombinator.com/item?id=31000725</guid>
             <pubDate>Tue, 12 Apr 2022 10:23:23 GMT</pubDate>
             <description><![CDATA[How is the free firmware for the Raspberry progressing?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[人類大腦將工作記憶壓縮成低分辨率的 "摘要"。]]></title>
-            <link>https://news.ycombinator.com/item?id=31002179</link>
-            <guid>https://news.ycombinator.com/item?id=31002179</guid>
-            <pubDate>Tue, 12 Apr 2022 13:11:48 GMT</pubDate>
-            <description><![CDATA[Human brain compresses working memories into low-res ‘summaries’]]></description>
         </item>
     </channel>
 </rss>
