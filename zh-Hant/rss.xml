@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 22 Jun 2022 05:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 08:39:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Permacomputing Wiki
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31828615</link>
+            <guid>https://news.ycombinator.com/item?id=31828615</guid>
+            <pubDate>Tue, 21 Jun 2022 20:16:02 GMT</pubDate>
+            <description><![CDATA[Permacomputing Wiki]]></description>
+        </item>
         <item>
             <title><![CDATA[法國可修復性指數--實施一年後 [pdf]
 ]]></title>
@@ -4559,13 +4567,6 @@
             <guid>https://news.ycombinator.com/item?id=30993350</guid>
             <pubDate>Mon, 11 Apr 2022 19:15:04 GMT</pubDate>
             <description><![CDATA[Impressions from a first-time Mac user]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼過去10年的美國生活是獨一無二的愚蠢]]></title>
-            <link>https://news.ycombinator.com/item?id=30992322</link>
-            <guid>https://news.ycombinator.com/item?id=30992322</guid>
-            <pubDate>Mon, 11 Apr 2022 17:48:52 GMT</pubDate>
-            <description><![CDATA[Why the past 10 years of American life have been uniquely stupid]]></description>
         </item>
     </channel>
 </rss>

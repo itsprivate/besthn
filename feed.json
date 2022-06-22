@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31828615",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31828615",
+            "title": "Permacomputing Wiki\n",
+            "summary": "Permacomputing Wiki",
+            "date_modified": "2022-06-21T20:16:02.000Z",
+            "author": {
+                "name": "entaloneralie",
+                "url": "https://news.ycombinator.com/user?id=entaloneralie"
+            },
+            "_original_headline": "Permacomputing Wiki",
+            "_original_url": "https://permacomputing.net/",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31827340",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31827340",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://loganmarchione.com/2022/04/impressions-from-a-first-time-mac-user/",
             "_sensitive": false,
             "_score": 253
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30992322",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30992322",
-            "title": "为什么过去10年的美国生活是独一无二的愚蠢",
-            "summary": "Why the past 10 years of American life have been uniquely stupid",
-            "date_modified": "2022-04-11T17:48:52.000Z",
-            "author": {
-                "name": "pseudolus",
-                "url": "https://news.ycombinator.com/user?id=pseudolus"
-            },
-            "_original_headline": "Why the past 10 years of American life have been uniquely stupid",
-            "_original_url": "https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/",
-            "_sensitive": false,
-            "_score": 254
         }
     ]
 }
