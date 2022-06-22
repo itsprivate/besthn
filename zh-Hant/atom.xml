@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-22T17:25:56.254Z</updated>
+    <updated>2022-06-22T17:52:41.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[尾數SSH
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31837115</id>
+        <link href="https://news.ycombinator.com/item?id=31837115"/>
+        <updated>2022-06-22T15:14:32.000Z</updated>
+        <summary type="html"><![CDATA[Tailscale SSH]]></summary>
+        <author>
+            <name>ignoramous</name>
+            <uri>https://news.ycombinator.com/user?id=ignoramous</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在一對電線上，10MBps超過1公里
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31834532</id>
+        <link href="https://news.ycombinator.com/item?id=31834532"/>
+        <updated>2022-06-22T11:21:03.000Z</updated>
+        <summary type="html"><![CDATA[10mbps over 1km on a single pair of wires]]></summary>
+        <author>
+            <name>yosheli123</name>
+            <uri>https://news.ycombinator.com/user?id=yosheli123</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[創作口譯員。評審
 ]]></title>
@@ -6951,28 +6975,6 @@
         <author>
             <name>qalter</name>
             <uri>https://news.ycombinator.com/user?id=qalter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[還有100家工廠的亞馬遜工人希望成立工會。亞馬遜工會]]></title>
-        <id>https://news.ycombinator.com/item?id=31004363</id>
-        <link href="https://news.ycombinator.com/item?id=31004363"/>
-        <updated>2022-04-12T15:55:43.000Z</updated>
-        <summary type="html"><![CDATA[Amazon workers at 100 more facilities want to unionize: Amazon Labor Union]]></summary>
-        <author>
-            <name>guerrilla</name>
-            <uri>https://news.ycombinator.com/user?id=guerrilla</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[樹莓的免費固件進展如何？]]></title>
-        <id>https://news.ycombinator.com/item?id=31000725</id>
-        <link href="https://news.ycombinator.com/item?id=31000725"/>
-        <updated>2022-04-12T10:23:23.000Z</updated>
-        <summary type="html"><![CDATA[How is the free firmware for the Raspberry progressing?]]></summary>
-        <author>
-            <name>JNRowe</name>
-            <uri>https://news.ycombinator.com/user?id=JNRowe</uri>
         </author>
     </entry>
 </feed>
