@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-21T22:45:10.958Z</updated>
+    <updated>2022-06-22T04:31:03.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[OBS - 開放式廣播電視軟件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31830046</id>
+        <link href="https://news.ycombinator.com/item?id=31830046"/>
+        <updated>2022-06-21T22:55:16.000Z</updated>
+        <summary type="html"><![CDATA[OBS – Open Broadcaster Software]]></summary>
+        <author>
+            <name>axiomdata316</name>
+            <uri>https://news.ycombinator.com/user?id=axiomdata316</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿爾茨海默氏症澱粉樣蛋白假說 "陰謀論 "阻撓了治療進展 (2019)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31828509</id>
+        <link href="https://news.ycombinator.com/item?id=31828509"/>
+        <updated>2022-06-21T20:05:54.000Z</updated>
+        <summary type="html"><![CDATA[Alzheimer’s amyloid hypothesis ‘cabal’ thwarted progress toward a cure (2019)]]></summary>
+        <author>
+            <name>nabla9</name>
+            <uri>https://news.ycombinator.com/user?id=nabla9</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-Plane 12飛行模型更新 - 超音速過渡、三角翼和質量
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31827301</id>
+        <link href="https://news.ycombinator.com/item?id=31827301"/>
+        <updated>2022-06-21T18:24:53.000Z</updated>
+        <summary type="html"><![CDATA[X-Plane 12 Flight Model Update – Supersonic Transition, Delta Wings and Mass]]></summary>
+        <author>
+            <name>Alupis</name>
+            <uri>https://news.ycombinator.com/user?id=Alupis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HDMI 防火牆
 ]]></title>
@@ -6929,39 +6965,6 @@
         <author>
             <name>zsid</name>
             <uri>https://news.ycombinator.com/user?id=zsid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intuit要求Mailchimp員工自掏腰包支付醫療費用]]></title>
-        <id>https://news.ycombinator.com/item?id=30992602</id>
-        <link href="https://news.ycombinator.com/item?id=30992602"/>
-        <updated>2022-04-11T18:16:32.000Z</updated>
-        <summary type="html"><![CDATA[Intuit asked Mailchimp employees to pay medical costs out of pocket]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果開始在印度生產iPhone 13]]></title>
-        <id>https://news.ycombinator.com/item?id=30989355</id>
-        <link href="https://news.ycombinator.com/item?id=30989355"/>
-        <updated>2022-04-11T14:36:36.000Z</updated>
-        <summary type="html"><![CDATA[Apple starts manufacturing iPhone 13 in India]]></summary>
-        <author>
-            <name>nradov</name>
-            <uri>https://news.ycombinator.com/user?id=nradov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真實世界的推薦系統]]></title>
-        <id>https://news.ycombinator.com/item?id=30991392</id>
-        <link href="https://news.ycombinator.com/item?id=30991392"/>
-        <updated>2022-04-11T16:44:26.000Z</updated>
-        <summary type="html"><![CDATA[Real World Recommendation System]]></summary>
-        <author>
-            <name>nikhilgarg28</name>
-            <uri>https://news.ycombinator.com/user?id=nikhilgarg28</uri>
         </author>
     </entry>
 </feed>

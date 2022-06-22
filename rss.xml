@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 21 Jun 2022 22:45:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 04:31:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[OBS - 开放式广播电视软件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31830046</link>
+            <guid>https://news.ycombinator.com/item?id=31830046</guid>
+            <pubDate>Tue, 21 Jun 2022 22:55:16 GMT</pubDate>
+            <description><![CDATA[OBS – Open Broadcaster Software]]></description>
+        </item>
+        <item>
+            <title><![CDATA[阿尔茨海默氏症淀粉样蛋白假说 "阴谋论 "阻挠了治疗进展 (2019)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31828509</link>
+            <guid>https://news.ycombinator.com/item?id=31828509</guid>
+            <pubDate>Tue, 21 Jun 2022 20:05:54 GMT</pubDate>
+            <description><![CDATA[Alzheimer’s amyloid hypothesis ‘cabal’ thwarted progress toward a cure (2019)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[X-Plane 12飞行模型更新 - 超音速过渡、三角翼和质量
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31827301</link>
+            <guid>https://news.ycombinator.com/item?id=31827301</guid>
+            <pubDate>Tue, 21 Jun 2022 18:24:53 GMT</pubDate>
+            <description><![CDATA[X-Plane 12 Flight Model Update – Supersonic Transition, Delta Wings and Mass]]></description>
+        </item>
         <item>
             <title><![CDATA[HDMI 防火墙
 ]]></title>
@@ -4541,27 +4565,6 @@
             <guid>https://news.ycombinator.com/item?id=30995487</guid>
             <pubDate>Mon, 11 Apr 2022 21:43:45 GMT</pubDate>
             <description><![CDATA[Success and Failure at Pebble]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Intuit要求Mailchimp员工自掏腰包支付医疗费用]]></title>
-            <link>https://news.ycombinator.com/item?id=30992602</link>
-            <guid>https://news.ycombinator.com/item?id=30992602</guid>
-            <pubDate>Mon, 11 Apr 2022 18:16:32 GMT</pubDate>
-            <description><![CDATA[Intuit asked Mailchimp employees to pay medical costs out of pocket]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苹果开始在印度生产iPhone 13]]></title>
-            <link>https://news.ycombinator.com/item?id=30989355</link>
-            <guid>https://news.ycombinator.com/item?id=30989355</guid>
-            <pubDate>Mon, 11 Apr 2022 14:36:36 GMT</pubDate>
-            <description><![CDATA[Apple starts manufacturing iPhone 13 in India]]></description>
-        </item>
-        <item>
-            <title><![CDATA[真实世界的推荐系统]]></title>
-            <link>https://news.ycombinator.com/item?id=30991392</link>
-            <guid>https://news.ycombinator.com/item?id=30991392</guid>
-            <pubDate>Mon, 11 Apr 2022 16:44:26 GMT</pubDate>
-            <description><![CDATA[Real World Recommendation System]]></description>
         </item>
     </channel>
 </rss>
