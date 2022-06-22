@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31818960",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31818960",
+            "title": "在将C语言转译为Go语言时出现了令人惊讶的结果\n",
+            "summary": "Surprising result while transpiling C to Go",
+            "date_modified": "2022-06-21T02:07:00.000Z",
+            "author": {
+                "name": "nnx",
+                "url": "https://news.ycombinator.com/user?id=nnx"
+            },
+            "_original_headline": "Surprising result while transpiling C to Go",
+            "_original_url": "https://blog.nobugware.com/post/2022/surprising-result-while-transpiling-go/",
+            "_sensitive": false,
+            "_score": 205
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31830867",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31830867",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://consilienceproject.org/endgames-of-bad-communication/",
             "_sensitive": false,
             "_score": 254
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30997735",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30997735",
-            "title": "通过RFC 8555实现公共证书生命周期管理的自动化（ACME）",
-            "summary": "Automate Public Certificates Lifecycle Management via RFC 8555 (ACME)",
-            "date_modified": "2022-04-12T02:02:16.000Z",
-            "author": {
-                "name": "tvvocold",
-                "url": "https://news.ycombinator.com/user?id=tvvocold"
-            },
-            "_original_headline": "Automate Public Certificates Lifecycle Management via RFC 8555 (ACME)",
-            "_original_url": "https://cloud.google.com/blog/products/identity-security/automate-public-certificate-lifecycle-management-via--acme-client-api",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 22 Jun 2022 12:56:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 13:56:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在将C语言转译为Go语言时出现了令人惊讶的结果
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31818960</link>
+            <guid>https://news.ycombinator.com/item?id=31818960</guid>
+            <pubDate>Tue, 21 Jun 2022 02:07:00 GMT</pubDate>
+            <description><![CDATA[Surprising result while transpiling C to Go]]></description>
+        </item>
         <item>
             <title><![CDATA[为编码员了解人工智能。Tabnine（你的GitHub Copilot的替代品）
 ]]></title>
@@ -4561,13 +4569,6 @@
             <guid>https://news.ycombinator.com/item?id=30997666</guid>
             <pubDate>Tue, 12 Apr 2022 01:53:39 GMT</pubDate>
             <description><![CDATA[The endgames of bad faith communication]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通过RFC 8555实现公共证书生命周期管理的自动化（ACME）]]></title>
-            <link>https://news.ycombinator.com/item?id=30997735</link>
-            <guid>https://news.ycombinator.com/item?id=30997735</guid>
-            <pubDate>Tue, 12 Apr 2022 02:02:16 GMT</pubDate>
-            <description><![CDATA[Automate Public Certificates Lifecycle Management via RFC 8555 (ACME)]]></description>
         </item>
     </channel>
 </rss>
