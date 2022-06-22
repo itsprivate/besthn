@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 22 Jun 2022 19:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 19:59:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美國食品和藥物管理局將命令Juul電子煙退出美國市場
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31835843</link>
+            <guid>https://news.ycombinator.com/item?id=31835843</guid>
+            <pubDate>Wed, 22 Jun 2022 13:38:08 GMT</pubDate>
+            <description><![CDATA[FDA to order Juul e-cigarettes off U.S. market]]></description>
+        </item>
         <item>
             <title><![CDATA[勇敢的搜索在第一年突破25億次查詢
 ]]></title>
@@ -4570,13 +4578,6 @@
             <guid>https://news.ycombinator.com/item?id=31001916</guid>
             <pubDate>Tue, 12 Apr 2022 12:48:45 GMT</pubDate>
             <description><![CDATA[What hacking AOL taught a generation of programmers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[伊甸園]]></title>
-            <link>https://news.ycombinator.com/item?id=31006003</link>
-            <guid>https://news.ycombinator.com/item?id=31006003</guid>
-            <pubDate>Tue, 12 Apr 2022 17:48:44 GMT</pubDate>
-            <description><![CDATA[Eden]]></description>
         </item>
     </channel>
 </rss>
