@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 22 Jun 2022 04:31:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 05:38:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[法国可修复性指数--实施一年后 [pdf]
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31827340</link>
+            <guid>https://news.ycombinator.com/item?id=31827340</guid>
+            <pubDate>Tue, 21 Jun 2022 18:29:07 GMT</pubDate>
+            <description><![CDATA[The French repairability index – one year after its implementation [pdf]]]></description>
+        </item>
         <item>
             <title><![CDATA[OBS - 开放式广播电视软件
 ]]></title>
@@ -4558,13 +4566,6 @@
             <guid>https://news.ycombinator.com/item?id=30992322</guid>
             <pubDate>Mon, 11 Apr 2022 17:48:52 GMT</pubDate>
             <description><![CDATA[Why the past 10 years of American life have been uniquely stupid]]></description>
-        </item>
-        <item>
-            <title><![CDATA[卵石的成功与失败]]></title>
-            <link>https://news.ycombinator.com/item?id=30995487</link>
-            <guid>https://news.ycombinator.com/item?id=30995487</guid>
-            <pubDate>Mon, 11 Apr 2022 21:43:45 GMT</pubDate>
-            <description><![CDATA[Success and Failure at Pebble]]></description>
         </item>
     </channel>
 </rss>

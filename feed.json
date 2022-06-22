@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31827340",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31827340",
+            "title": "法国可修复性指数--实施一年后 [pdf]\n",
+            "summary": "The French repairability index – one year after its implementation [pdf]",
+            "date_modified": "2022-06-21T18:29:07.000Z",
+            "author": {
+                "name": "giuliomagnifico",
+                "url": "https://news.ycombinator.com/user?id=giuliomagnifico"
+            },
+            "_original_headline": "The French repairability index – one year after its implementation [pdf]",
+            "_original_url": "https://www.halteobsolescence.org/wp-content/uploads/2022/02/Rapport-indice-de-reparabilite.pdf",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31830046",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31830046",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/",
             "_sensitive": false,
             "_score": 254
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30995487",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30995487",
-            "title": "卵石的成功与失败",
-            "summary": "Success and Failure at Pebble",
-            "date_modified": "2022-04-11T21:43:45.000Z",
-            "author": {
-                "name": "zsid",
-                "url": "https://news.ycombinator.com/user?id=zsid"
-            },
-            "_original_headline": "Success and Failure at Pebble",
-            "_original_url": "https://medium.com/@ericmigi/why-pebble-failed-d7be937c6232",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }

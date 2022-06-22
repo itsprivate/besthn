@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-22T04:31:03.464Z</updated>
+    <updated>2022-06-22T05:38:17.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[法國可修復性指數--實施一年後 [pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31827340</id>
+        <link href="https://news.ycombinator.com/item?id=31827340"/>
+        <updated>2022-06-21T18:29:07.000Z</updated>
+        <summary type="html"><![CDATA[The French repairability index – one year after its implementation [pdf]]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OBS - 開放式廣播電視軟件
 ]]></title>
@@ -6954,17 +6966,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卵石的成功與失敗]]></title>
-        <id>https://news.ycombinator.com/item?id=30995487</id>
-        <link href="https://news.ycombinator.com/item?id=30995487"/>
-        <updated>2022-04-11T21:43:45.000Z</updated>
-        <summary type="html"><![CDATA[Success and Failure at Pebble]]></summary>
-        <author>
-            <name>zsid</name>
-            <uri>https://news.ycombinator.com/user?id=zsid</uri>
         </author>
     </entry>
 </feed>
