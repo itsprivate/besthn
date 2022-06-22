@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 22 Jun 2022 14:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 15:00:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个只有Chromium的网络会是什么样子？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31833561</link>
+            <guid>https://news.ycombinator.com/item?id=31833561</guid>
+            <pubDate>Wed, 22 Jun 2022 09:04:11 GMT</pubDate>
+            <description><![CDATA[What will a Chromium-only Web look like?]]></description>
+        </item>
         <item>
             <title><![CDATA[在Chromium中尝试使用Rust
 ]]></title>
@@ -4563,13 +4571,6 @@
             <guid>https://news.ycombinator.com/item?id=31002002</guid>
             <pubDate>Tue, 12 Apr 2022 12:56:17 GMT</pubDate>
             <description><![CDATA[Consumer prices rose 8.5% in March – highest since 1981]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么Gov.uk设计系统团队改变了数字的输入类型（2020）？]]></title>
-            <link>https://news.ycombinator.com/item?id=30997822</link>
-            <guid>https://news.ycombinator.com/item?id=30997822</guid>
-            <pubDate>Tue, 12 Apr 2022 02:16:37 GMT</pubDate>
-            <description><![CDATA[Why the Gov.uk Design System team changed the input type for numbers (2020)]]></description>
         </item>
     </channel>
 </rss>

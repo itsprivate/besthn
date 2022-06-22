@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-22T14:33:22.266Z</updated>
+    <updated>2022-06-22T15:00:05.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個只有Chromium的網絡會是什麼樣子？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31833561</id>
+        <link href="https://news.ycombinator.com/item?id=31833561"/>
+        <updated>2022-06-22T09:04:11.000Z</updated>
+        <summary type="html"><![CDATA[What will a Chromium-only Web look like?]]></summary>
+        <author>
+            <name>dochtman</name>
+            <uri>https://news.ycombinator.com/user?id=dochtman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Chromium中嘗試使用Rust
 ]]></title>
@@ -6959,17 +6971,6 @@
         <author>
             <name>arbuge</name>
             <uri>https://news.ycombinator.com/user?id=arbuge</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼Gov.uk設計系統團隊改變了數字的輸入類型（2020）？]]></title>
-        <id>https://news.ycombinator.com/item?id=30997822</id>
-        <link href="https://news.ycombinator.com/item?id=30997822"/>
-        <updated>2022-04-12T02:16:37.000Z</updated>
-        <summary type="html"><![CDATA[Why the Gov.uk Design System team changed the input type for numbers (2020)]]></summary>
-        <author>
-            <name>sebmellen</name>
-            <uri>https://news.ycombinator.com/user?id=sebmellen</uri>
         </author>
     </entry>
 </feed>
