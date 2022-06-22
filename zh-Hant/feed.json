@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31837865",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31837865",
+            "title": "勇敢的搜索在第一年突破25億次查詢\n",
+            "summary": "Brave Search passes 2.5B queries in its first year",
+            "date_modified": "2022-06-22T16:07:01.000Z",
+            "author": {
+                "name": "quick_brown_fox",
+                "url": "https://news.ycombinator.com/user?id=quick_brown_fox"
+            },
+            "_original_headline": "Brave Search passes 2.5B queries in its first year",
+            "_original_url": "https://brave.com/search-anniversary/",
+            "_sensitive": false,
+            "_score": 213
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31837460",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31837460",
+            "title": "航運業的世界末日才剛剛開始\n",
+            "summary": "The End of the World Is Just Beginning for Shipping",
+            "date_modified": "2022-06-22T15:38:32.000Z",
+            "author": {
+                "name": "mooreds",
+                "url": "https://news.ycombinator.com/user?id=mooreds"
+            },
+            "_original_headline": "The End of the World Is Just Beginning for Shipping",
+            "_original_url": "https://gcaptain.com/end-of-the-world-is-just-beginning-book-review/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31837115",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31837115",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://github.com/facebookexperimental/eden",
             "_sensitive": false,
             "_score": 260
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31001155",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31001155",
-            "title": "什麼時候科技不再那麼酷了？",
-            "summary": "Ask HN: When did tech stop being cool?",
-            "date_modified": "2022-04-12T11:31:36.000Z",
-            "author": {
-                "name": "dvh1990",
-                "url": "https://news.ycombinator.com/user?id=dvh1990"
-            },
-            "_original_headline": "Ask HN: When did tech stop being cool?",
-            "_original_url": "https://news.ycombinator.com/item?id=31001155",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31005209",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31005209",
-            "title": "Mullvad應用程序中提供WireGuard多跳功能",
-            "summary": "WireGuard multihop available in the Mullvad app",
-            "date_modified": "2022-04-12T16:54:12.000Z",
-            "author": {
-                "name": "qalter",
-                "url": "https://news.ycombinator.com/user?id=qalter"
-            },
-            "_original_headline": "WireGuard multihop available in the Mullvad app",
-            "_original_url": "https://mullvad.net/en/blog/2022/3/10/wireguard-multihop-now-easy-available-app/",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }

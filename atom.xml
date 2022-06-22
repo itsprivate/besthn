@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-22T17:52:41.836Z</updated>
+    <updated>2022-06-22T19:25:21.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[勇敢的搜索在第一年突破25亿次查询
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31837865</id>
+        <link href="https://news.ycombinator.com/item?id=31837865"/>
+        <updated>2022-06-22T16:07:01.000Z</updated>
+        <summary type="html"><![CDATA[Brave Search passes 2.5B queries in its first year]]></summary>
+        <author>
+            <name>quick_brown_fox</name>
+            <uri>https://news.ycombinator.com/user?id=quick_brown_fox</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[航运业的世界末日才刚刚开始
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31837460</id>
+        <link href="https://news.ycombinator.com/item?id=31837460"/>
+        <updated>2022-06-22T15:38:32.000Z</updated>
+        <summary type="html"><![CDATA[The End of the World Is Just Beginning for Shipping]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尾数SSH
 ]]></title>
@@ -6953,28 +6977,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么时候科技不再那么酷了？]]></title>
-        <id>https://news.ycombinator.com/item?id=31001155</id>
-        <link href="https://news.ycombinator.com/item?id=31001155"/>
-        <updated>2022-04-12T11:31:36.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: When did tech stop being cool?]]></summary>
-        <author>
-            <name>dvh1990</name>
-            <uri>https://news.ycombinator.com/user?id=dvh1990</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mullvad应用程序中提供WireGuard多跳功能]]></title>
-        <id>https://news.ycombinator.com/item?id=31005209</id>
-        <link href="https://news.ycombinator.com/item?id=31005209"/>
-        <updated>2022-04-12T16:54:12.000Z</updated>
-        <summary type="html"><![CDATA[WireGuard multihop available in the Mullvad app]]></summary>
-        <author>
-            <name>qalter</name>
-            <uri>https://news.ycombinator.com/user?id=qalter</uri>
         </author>
     </entry>
 </feed>
