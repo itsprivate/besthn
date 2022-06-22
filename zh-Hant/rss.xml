@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 22 Jun 2022 08:39:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 12:56:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為編碼員瞭解人工智能。Tabnine（你的GitHub Copilot的替代品）
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31830867</link>
+            <guid>https://news.ycombinator.com/item?id=31830867</guid>
+            <pubDate>Wed, 22 Jun 2022 00:58:47 GMT</pubDate>
+            <description><![CDATA[Understanding AI for coders: Tabnine (your alternative to GitHub Copilot)]]></description>
+        </item>
         <item>
             <title><![CDATA[Permacomputing Wiki
 ]]></title>
@@ -4560,13 +4568,6 @@
             <guid>https://news.ycombinator.com/item?id=30997735</guid>
             <pubDate>Tue, 12 Apr 2022 02:02:16 GMT</pubDate>
             <description><![CDATA[Automate Public Certificates Lifecycle Management via RFC 8555 (ACME)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個首次使用Mac的用戶的印象]]></title>
-            <link>https://news.ycombinator.com/item?id=30993350</link>
-            <guid>https://news.ycombinator.com/item?id=30993350</guid>
-            <pubDate>Mon, 11 Apr 2022 19:15:04 GMT</pubDate>
-            <description><![CDATA[Impressions from a first-time Mac user]]></description>
         </item>
     </channel>
 </rss>
