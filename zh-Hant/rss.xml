@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 22 Jun 2022 15:00:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 16:48:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼Apache緊緊抓住OpenOffice不放？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31836293</link>
+            <guid>https://news.ycombinator.com/item?id=31836293</guid>
+            <pubDate>Wed, 22 Jun 2022 14:19:29 GMT</pubDate>
+            <description><![CDATA[Why is Apache clinging to OpenOffice?]]></description>
+        </item>
         <item>
             <title><![CDATA[一個只有Chromium的網絡會是什麼樣子？
 ]]></title>
@@ -4564,13 +4572,6 @@
             <guid>https://news.ycombinator.com/item?id=31002179</guid>
             <pubDate>Tue, 12 Apr 2022 13:11:48 GMT</pubDate>
             <description><![CDATA[Human brain compresses working memories into low-res ‘summaries’]]></description>
-        </item>
-        <item>
-            <title><![CDATA[3月消費者價格上漲8.5%--1981年以來最高]]></title>
-            <link>https://news.ycombinator.com/item?id=31002002</link>
-            <guid>https://news.ycombinator.com/item?id=31002002</guid>
-            <pubDate>Tue, 12 Apr 2022 12:56:17 GMT</pubDate>
-            <description><![CDATA[Consumer prices rose 8.5% in March – highest since 1981]]></description>
         </item>
     </channel>
 </rss>
