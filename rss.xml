@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 23 Jun 2022 17:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 19:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[意大利监督机构禁止使用谷歌分析器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31852384</link>
+            <guid>https://news.ycombinator.com/item?id=31852384</guid>
+            <pubDate>Thu, 23 Jun 2022 17:27:09 GMT</pubDate>
+            <description><![CDATA[Italian watchdog bans use of Google Analytics]]></description>
+        </item>
         <item>
             <title><![CDATA[7-zip 22.00 - APFS, Posix TAR, 高精度时间戳
 ]]></title>
@@ -4587,13 +4595,6 @@
             <guid>https://news.ycombinator.com/item?id=31000658</guid>
             <pubDate>Tue, 12 Apr 2022 10:13:27 GMT</pubDate>
             <description><![CDATA[A dirty dish by the sink can be a big marriage problem]]></description>
-        </item>
-        <item>
-            <title><![CDATA[史上最长的Atlassian中断事件的内幕]]></title>
-            <link>https://news.ycombinator.com/item?id=31015813</link>
-            <guid>https://news.ycombinator.com/item?id=31015813</guid>
-            <pubDate>Wed, 13 Apr 2022 15:27:38 GMT</pubDate>
-            <description><![CDATA[Inside the longest Atlassian outage of all time]]></description>
         </item>
     </channel>
 </rss>

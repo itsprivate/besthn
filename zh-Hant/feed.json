@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31852384",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31852384",
+            "title": "意大利監督機構禁止使用谷歌分析器\n",
+            "summary": "Italian watchdog bans use of Google Analytics",
+            "date_modified": "2022-06-23T17:27:09.000Z",
+            "author": {
+                "name": "giuliomagnifico",
+                "url": "https://news.ycombinator.com/user?id=giuliomagnifico"
+            },
+            "_original_headline": "Italian watchdog bans use of Google Analytics",
+            "_original_url": "https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english",
+            "_sensitive": false,
+            "_score": 207
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31845829",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31845829",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.theatlantic.com/family/archive/2022/04/marriage-problems-fight-dishes/629526/",
             "_sensitive": false,
             "_score": 253
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31015813",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31015813",
-            "title": "史上最長的Atlassian中斷事件的內幕",
-            "summary": "Inside the longest Atlassian outage of all time",
-            "date_modified": "2022-04-13T15:27:38.000Z",
-            "author": {
-                "name": "andyjohnson0",
-                "url": "https://news.ycombinator.com/user?id=andyjohnson0"
-            },
-            "_original_headline": "Inside the longest Atlassian outage of all time",
-            "_original_url": "https://newsletter.pragmaticengineer.com/p/scoop-atlassian",
-            "_sensitive": false,
-            "_score": 298
         }
     ]
 }
