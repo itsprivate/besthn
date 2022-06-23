@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-23T22:48:02.460Z</updated>
+    <updated>2022-06-23T23:27:44.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國聯邦貿易委員會對哈雷戴維森和西屋公司限制維修權的行為採取行動
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31854051</id>
+        <link href="https://news.ycombinator.com/item?id=31854051"/>
+        <updated>2022-06-23T19:26:26.000Z</updated>
+        <summary type="html"><![CDATA[FTC action against Harley-Davidson and Westinghouse for limiting right to repair]]></summary>
+        <author>
+            <name>sinak</name>
+            <uri>https://news.ycombinator.com/user?id=sinak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[所有的命令都以逗號開始（2009）。
 ]]></title>
@@ -6990,17 +7002,6 @@
         <author>
             <name>zegl</name>
             <uri>https://news.ycombinator.com/user?id=zegl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook開源Lexical，一個可擴展的文本編輯器庫]]></title>
-        <id>https://news.ycombinator.com/item?id=31019778</id>
-        <link href="https://news.ycombinator.com/item?id=31019778"/>
-        <updated>2022-04-13T20:22:51.000Z</updated>
-        <summary type="html"><![CDATA[Facebook open sources Lexical, an extensible text editor library]]></summary>
-        <author>
-            <name>crousto</name>
-            <uri>https://news.ycombinator.com/user?id=crousto</uri>
         </author>
     </entry>
 </feed>
