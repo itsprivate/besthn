@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-23T15:55:20.539Z</updated>
+    <updated>2022-06-23T16:47:06.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[林納斯-託瓦爾茲：內核的Rust有可能被合併到Linux 5.20上
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31848499</id>
+        <link href="https://news.ycombinator.com/item?id=31848499"/>
+        <updated>2022-06-23T13:05:47.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds: Rust for the Kernel Could Possibly Be Merged for Linux 5.20]]></summary>
+        <author>
+            <name>FPGAhacker</name>
+            <uri>https://news.ycombinator.com/user?id=FPGAhacker</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[托爾金新書《努曼諾的毀滅》即將出版
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31845968</id>
+        <link href="https://news.ycombinator.com/item?id=31845968"/>
+        <updated>2022-06-23T07:00:09.000Z</updated>
+        <summary type="html"><![CDATA[New Tolkien book, The Fall of Númenor, to be published]]></summary>
+        <author>
+            <name>taubek</name>
+            <uri>https://news.ycombinator.com/user?id=taubek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dolt是數據的Git
 ]]></title>
@@ -6969,28 +6993,6 @@
         <author>
             <name>trueduke</name>
             <uri>https://news.ycombinator.com/user?id=trueduke</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[維基百科停止接受加密貨幣的RFC以多數票通過]]></title>
-        <id>https://news.ycombinator.com/item?id=31011083</id>
-        <link href="https://news.ycombinator.com/item?id=31011083"/>
-        <updated>2022-04-13T03:58:51.000Z</updated>
-        <summary type="html"><![CDATA[Wikipedia RFC to stop accepting cryptocurrencies passes by majority vote]]></summary>
-        <author>
-            <name>SwimSwimHungry</name>
-            <uri>https://news.ycombinator.com/user?id=SwimSwimHungry</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase的內幕交易]]></title>
-        <id>https://news.ycombinator.com/item?id=31012462</id>
-        <link href="https://news.ycombinator.com/item?id=31012462"/>
-        <updated>2022-04-13T08:48:03.000Z</updated>
-        <summary type="html"><![CDATA[Insider Trading at Coinbase]]></summary>
-        <author>
-            <name>Shadonototra</name>
-            <uri>https://news.ycombinator.com/user?id=Shadonototra</uri>
         </author>
     </entry>
 </feed>

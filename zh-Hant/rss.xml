@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 23 Jun 2022 15:55:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 16:47:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[林納斯-託瓦爾茲：內核的Rust有可能被合併到Linux 5.20上
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31848499</link>
+            <guid>https://news.ycombinator.com/item?id=31848499</guid>
+            <pubDate>Thu, 23 Jun 2022 13:05:47 GMT</pubDate>
+            <description><![CDATA[Linus Torvalds: Rust for the Kernel Could Possibly Be Merged for Linux 5.20]]></description>
+        </item>
+        <item>
+            <title><![CDATA[托爾金新書《努曼諾的毀滅》即將出版
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31845968</link>
+            <guid>https://news.ycombinator.com/item?id=31845968</guid>
+            <pubDate>Thu, 23 Jun 2022 07:00:09 GMT</pubDate>
+            <description><![CDATA[New Tolkien book, The Fall of Númenor, to be published]]></description>
+        </item>
         <item>
             <title><![CDATA[Dolt是數據的Git
 ]]></title>
@@ -4577,20 +4593,6 @@
             <guid>https://news.ycombinator.com/item?id=31012269</guid>
             <pubDate>Wed, 13 Apr 2022 08:12:14 GMT</pubDate>
             <description><![CDATA[Create hand-drawn GIFs on paper]]></description>
-        </item>
-        <item>
-            <title><![CDATA[維基百科停止接受加密貨幣的RFC以多數票通過]]></title>
-            <link>https://news.ycombinator.com/item?id=31011083</link>
-            <guid>https://news.ycombinator.com/item?id=31011083</guid>
-            <pubDate>Wed, 13 Apr 2022 03:58:51 GMT</pubDate>
-            <description><![CDATA[Wikipedia RFC to stop accepting cryptocurrencies passes by majority vote]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase的內幕交易]]></title>
-            <link>https://news.ycombinator.com/item?id=31012462</link>
-            <guid>https://news.ycombinator.com/item?id=31012462</guid>
-            <pubDate>Wed, 13 Apr 2022 08:48:03 GMT</pubDate>
-            <description><![CDATA[Insider Trading at Coinbase]]></description>
         </item>
     </channel>
 </rss>
