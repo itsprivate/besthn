@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 23 Jun 2022 06:37:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 10:34:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[将旧的安卓手机作为网络服务器重新利用
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31841051</link>
+            <guid>https://news.ycombinator.com/item?id=31841051</guid>
+            <pubDate>Wed, 22 Jun 2022 19:55:50 GMT</pubDate>
+            <description><![CDATA[Repurposing an old Android phone as a web server]]></description>
+        </item>
         <item>
             <title><![CDATA[介绍PyScript（PyCon主题演讲的摘要）
 ]]></title>
@@ -4579,13 +4587,6 @@
             <guid>https://news.ycombinator.com/item?id=31005399</guid>
             <pubDate>Tue, 12 Apr 2022 17:06:00 GMT</pubDate>
             <description><![CDATA[Apple introduces new version of iMovie featuring Storyboards and Magic Movie]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我为你做了一个网站，以第一人称POV的方式环游世界]]></title>
-            <link>https://news.ycombinator.com/item?id=30970911</link>
-            <guid>https://news.ycombinator.com/item?id=30970911</guid>
-            <pubDate>Sat, 09 Apr 2022 18:58:35 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a website for you to travel the world in first-person POV]]></description>
         </item>
     </channel>
 </rss>
