@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-23T05:58:33.517Z</updated>
+    <updated>2022-06-23T06:37:37.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[介紹PyScript（PyCon主題演講的摘要）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31843996</id>
+        <link href="https://news.ycombinator.com/item?id=31843996"/>
+        <updated>2022-06-23T01:12:06.000Z</updated>
+        <summary type="html"><![CDATA[Introducing PyScript (summary of PyCon keynote)]]></summary>
+        <author>
+            <name>benhoyt</name>
+            <uri>https://news.ycombinator.com/user?id=benhoyt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[網絡認證指南
 ]]></title>
@@ -6974,17 +6986,6 @@
         <author>
             <name>eddieweng</name>
             <uri>https://news.ycombinator.com/user?id=eddieweng</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公佈Git安全漏洞]]></title>
-        <id>https://news.ycombinator.com/item?id=31009675</id>
-        <link href="https://news.ycombinator.com/item?id=31009675"/>
-        <updated>2022-04-13T00:02:29.000Z</updated>
-        <summary type="html"><![CDATA[Git security vulnerability announced]]></summary>
-        <author>
-            <name>delsarto</name>
-            <uri>https://news.ycombinator.com/user?id=delsarto</uri>
         </author>
     </entry>
 </feed>
