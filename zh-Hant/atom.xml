@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-23T19:45:40.175Z</updated>
+    <updated>2022-06-23T20:34:11.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Git中的SHA-256支持是怎麼回事？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31851755</id>
+        <link href="https://news.ycombinator.com/item?id=31851755"/>
+        <updated>2022-06-23T16:47:45.000Z</updated>
+        <summary type="html"><![CDATA[Whatever happened to SHA-256 support in Git?]]></summary>
+        <author>
+            <name>chmaynard</name>
+            <uri>https://news.ycombinator.com/user?id=chmaynard</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minikube現在支持運行Kubernetes的無根podman驅動
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31845746</id>
+        <link href="https://news.ycombinator.com/item?id=31845746"/>
+        <updated>2022-06-23T06:20:02.000Z</updated>
+        <summary type="html"><![CDATA[Minikube now supports rootless podman driver for running Kubernetes]]></summary>
+        <author>
+            <name>encryptluks2</name>
+            <uri>https://news.ycombinator.com/user?id=encryptluks2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究表明，每天睡眠時間超過6.5小時可以幫助你減輕體重
 ]]></title>
@@ -6974,28 +6998,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你被靜音了--還是你被靜音了？視頻會議應用程序可能在麥克風關閉時進行監聽]]></title>
-        <id>https://news.ycombinator.com/item?id=31017098</id>
-        <link href="https://news.ycombinator.com/item?id=31017098"/>
-        <updated>2022-04-13T16:59:20.000Z</updated>
-        <summary type="html"><![CDATA[You’re muted – or are you? Videoconferencing apps may listen when mic is off]]></summary>
-        <author>
-            <name>sizzle</name>
-            <uri>https://news.ycombinator.com/user?id=sizzle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一種沒有活動部件的新型熱機與蒸汽輪機一樣高效]]></title>
-        <id>https://news.ycombinator.com/item?id=31016120</id>
-        <link href="https://news.ycombinator.com/item?id=31016120"/>
-        <updated>2022-04-13T15:48:40.000Z</updated>
-        <summary type="html"><![CDATA[A new heat engine with no moving parts is as efficient as a steam turbine]]></summary>
-        <author>
-            <name>WithinReason</name>
-            <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
         </author>
     </entry>
 </feed>

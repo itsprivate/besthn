@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 23 Jun 2022 19:45:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 20:34:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Git中的SHA-256支持是怎麼回事？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31851755</link>
+            <guid>https://news.ycombinator.com/item?id=31851755</guid>
+            <pubDate>Thu, 23 Jun 2022 16:47:45 GMT</pubDate>
+            <description><![CDATA[Whatever happened to SHA-256 support in Git?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Minikube現在支持運行Kubernetes的無根podman驅動
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31845746</link>
+            <guid>https://news.ycombinator.com/item?id=31845746</guid>
+            <pubDate>Thu, 23 Jun 2022 06:20:02 GMT</pubDate>
+            <description><![CDATA[Minikube now supports rootless podman driver for running Kubernetes]]></description>
+        </item>
         <item>
             <title><![CDATA[研究表明，每天睡眠時間超過6.5小時可以幫助你減輕體重
 ]]></title>
@@ -4582,20 +4598,6 @@
             <guid>https://news.ycombinator.com/item?id=31015652</guid>
             <pubDate>Wed, 13 Apr 2022 15:14:16 GMT</pubDate>
             <description><![CDATA[US sentences crypto expert to 5 years after North Korea blockchain presentation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你被靜音了--還是你被靜音了？視頻會議應用程序可能在麥克風關閉時進行監聽]]></title>
-            <link>https://news.ycombinator.com/item?id=31017098</link>
-            <guid>https://news.ycombinator.com/item?id=31017098</guid>
-            <pubDate>Wed, 13 Apr 2022 16:59:20 GMT</pubDate>
-            <description><![CDATA[You’re muted – or are you? Videoconferencing apps may listen when mic is off]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一種沒有活動部件的新型熱機與蒸汽輪機一樣高效]]></title>
-            <link>https://news.ycombinator.com/item?id=31016120</link>
-            <guid>https://news.ycombinator.com/item?id=31016120</guid>
-            <pubDate>Wed, 13 Apr 2022 15:48:40 GMT</pubDate>
-            <description><![CDATA[A new heat engine with no moving parts is as efficient as a steam turbine]]></description>
         </item>
     </channel>
 </rss>
