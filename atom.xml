@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-23T02:25:29.243Z</updated>
+    <updated>2022-06-23T05:58:33.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[网络认证指南
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31836922</id>
+        <link href="https://news.ycombinator.com/item?id=31836922"/>
+        <updated>2022-06-22T15:02:08.000Z</updated>
+        <summary type="html"><![CDATA[Guide to Web Authentication]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[允许转发的规则导致集装箱的无意暴露(2021)
 ]]></title>
@@ -6973,17 +6985,6 @@
         <author>
             <name>delsarto</name>
             <uri>https://news.ycombinator.com/user?id=delsarto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BBEdit今天已经30岁了]]></title>
-        <id>https://news.ycombinator.com/item?id=31008290</id>
-        <link href="https://news.ycombinator.com/item?id=31008290"/>
-        <updated>2022-04-12T21:12:55.000Z</updated>
-        <summary type="html"><![CDATA[BBEdit is 30 years old today]]></summary>
-        <author>
-            <name>sndean</name>
-            <uri>https://news.ycombinator.com/user?id=sndean</uri>
         </author>
     </entry>
 </feed>

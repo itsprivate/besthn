@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 23 Jun 2022 02:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 05:58:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[网络认证指南
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31836922</link>
+            <guid>https://news.ycombinator.com/item?id=31836922</guid>
+            <pubDate>Wed, 22 Jun 2022 15:02:08 GMT</pubDate>
+            <description><![CDATA[Guide to Web Authentication]]></description>
+        </item>
         <item>
             <title><![CDATA[允许转发的规则导致集装箱的无意暴露(2021)
 ]]></title>
@@ -4577,13 +4585,6 @@
             <guid>https://news.ycombinator.com/item?id=31009675</guid>
             <pubDate>Wed, 13 Apr 2022 00:02:29 GMT</pubDate>
             <description><![CDATA[Git security vulnerability announced]]></description>
-        </item>
-        <item>
-            <title><![CDATA[BBEdit今天已经30岁了]]></title>
-            <link>https://news.ycombinator.com/item?id=31008290</link>
-            <guid>https://news.ycombinator.com/item?id=31008290</guid>
-            <pubDate>Tue, 12 Apr 2022 21:12:55 GMT</pubDate>
-            <description><![CDATA[BBEdit is 30 years old today]]></description>
         </item>
     </channel>
 </rss>
