@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 23 Jun 2022 10:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 11:27:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Copilot只是销售别人写的代码
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31846543</link>
+            <guid>https://news.ycombinator.com/item?id=31846543</guid>
+            <pubDate>Thu, 23 Jun 2022 08:48:46 GMT</pubDate>
+            <description><![CDATA[Copilot just sells code other people wrote]]></description>
+        </item>
         <item>
             <title><![CDATA[将旧的安卓手机作为网络服务器重新利用
 ]]></title>
@@ -4580,13 +4588,6 @@
             <guid>https://news.ycombinator.com/item?id=31004928</guid>
             <pubDate>Tue, 12 Apr 2022 16:34:57 GMT</pubDate>
             <description><![CDATA[The complete guide to protecting your APIs with OAuth2]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苹果推出具有故事板和魔幻电影功能的新版iMovie]]></title>
-            <link>https://news.ycombinator.com/item?id=31005399</link>
-            <guid>https://news.ycombinator.com/item?id=31005399</guid>
-            <pubDate>Tue, 12 Apr 2022 17:06:00 GMT</pubDate>
-            <description><![CDATA[Apple introduces new version of iMovie featuring Storyboards and Magic Movie]]></description>
         </item>
     </channel>
 </rss>

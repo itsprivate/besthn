@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31846543",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31846543",
+            "title": "Copilot只是销售别人写的代码\n",
+            "summary": "Copilot just sells code other people wrote",
+            "date_modified": "2022-06-23T08:48:46.000Z",
+            "author": {
+                "name": "joemanaco",
+                "url": "https://news.ycombinator.com/user?id=joemanaco"
+            },
+            "_original_headline": "Copilot just sells code other people wrote",
+            "_original_url": "https://twitter.com/ReinH/status/1539626662274269185",
+            "_sensitive": false,
+            "_score": 214
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31841051",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31841051",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://stackoverflow.blog/2022/04/11/the-complete-guide-to-protecting-your-apis-with-oauth2/",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31005399",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31005399",
-            "title": "苹果推出具有故事板和魔幻电影功能的新版iMovie",
-            "summary": "Apple introduces new version of iMovie featuring Storyboards and Magic Movie",
-            "date_modified": "2022-04-12T17:06:00.000Z",
-            "author": {
-                "name": "todsacerdoti",
-                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
-            },
-            "_original_headline": "Apple introduces new version of iMovie featuring Storyboards and Magic Movie",
-            "_original_url": "https://www.apple.com/newsroom/2022/04/apple-introduces-new-version-of-imovie-featuring-storyboards-and-magic-movie/",
-            "_sensitive": false,
-            "_score": 253
         }
     ]
 }
