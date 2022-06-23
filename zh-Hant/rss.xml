@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 23 Jun 2022 21:02:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 21:47:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[調查明尼阿波利斯市自行車道的效果
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31848253</link>
+            <guid>https://news.ycombinator.com/item?id=31848253</guid>
+            <pubDate>Thu, 23 Jun 2022 12:44:10 GMT</pubDate>
+            <description><![CDATA[Investigating the effects of bike lanes in Minneapolis]]></description>
+        </item>
         <item>
             <title><![CDATA[還有人使用書籤服務嗎？
 ]]></title>
@@ -4592,13 +4600,6 @@
             <guid>https://news.ycombinator.com/item?id=31018836</guid>
             <pubDate>Wed, 13 Apr 2022 19:05:58 GMT</pubDate>
             <description><![CDATA[Ask HN: Have you created programs for only your personal use?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌搜索落後於競爭對手的三個領域：代碼、烹飪、旅遊]]></title>
-            <link>https://news.ycombinator.com/item?id=31020229</link>
-            <guid>https://news.ycombinator.com/item?id=31020229</guid>
-            <pubDate>Wed, 13 Apr 2022 21:03:15 GMT</pubDate>
-            <description><![CDATA[Three areas where Google Search lags behind competitors: code, cooking, travel]]></description>
         </item>
     </channel>
 </rss>

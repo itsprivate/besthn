@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31848253",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31848253",
+            "title": "調查明尼阿波利斯市自行車道的效果\n",
+            "summary": "Investigating the effects of bike lanes in Minneapolis",
+            "date_modified": "2022-06-23T12:44:10.000Z",
+            "author": {
+                "name": "Cenk",
+                "url": "https://news.ycombinator.com/user?id=Cenk"
+            },
+            "_original_headline": "Investigating the effects of bike lanes in Minneapolis",
+            "_original_url": "https://oa.mg/blog/do-bike-lanes-lead-to-more-cyclists/",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31848210",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31848210",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://news.ycombinator.com/item?id=31018836",
             "_sensitive": false,
             "_score": 253
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31020229",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31020229",
-            "title": "谷歌搜索落後於競爭對手的三個領域：代碼、烹飪、旅遊",
-            "summary": "Three areas where Google Search lags behind competitors: code, cooking, travel",
-            "date_modified": "2022-04-13T21:03:15.000Z",
-            "author": {
-                "name": "swethmandava",
-                "url": "https://news.ycombinator.com/user?id=swethmandava"
-            },
-            "_original_headline": "Three areas where Google Search lags behind competitors: code, cooking, travel",
-            "_original_url": "https://www.surgehq.ai//blog/google-search-is-falling-behind",
-            "_sensitive": false,
-            "_score": 260
         }
     ]
 }

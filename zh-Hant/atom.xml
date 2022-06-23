@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-23T21:02:09.439Z</updated>
+    <updated>2022-06-23T21:47:37.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[調查明尼阿波利斯市自行車道的效果
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31848253</id>
+        <link href="https://news.ycombinator.com/item?id=31848253"/>
+        <updated>2022-06-23T12:44:10.000Z</updated>
+        <summary type="html"><![CDATA[Investigating the effects of bike lanes in Minneapolis]]></summary>
+        <author>
+            <name>Cenk</name>
+            <uri>https://news.ycombinator.com/user?id=Cenk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[還有人使用書籤服務嗎？
 ]]></title>
@@ -6988,17 +7000,6 @@
         <author>
             <name>smarri</name>
             <uri>https://news.ycombinator.com/user?id=smarri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌搜索落後於競爭對手的三個領域：代碼、烹飪、旅遊]]></title>
-        <id>https://news.ycombinator.com/item?id=31020229</id>
-        <link href="https://news.ycombinator.com/item?id=31020229"/>
-        <updated>2022-04-13T21:03:15.000Z</updated>
-        <summary type="html"><![CDATA[Three areas where Google Search lags behind competitors: code, cooking, travel]]></summary>
-        <author>
-            <name>swethmandava</name>
-            <uri>https://news.ycombinator.com/user?id=swethmandava</uri>
         </author>
     </entry>
 </feed>
