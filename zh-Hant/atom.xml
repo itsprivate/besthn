@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-23T21:47:37.435Z</updated>
+    <updated>2022-06-23T22:48:02.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[所有的命令都以逗號開始（2009）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31846902</id>
+        <link href="https://news.ycombinator.com/item?id=31846902"/>
+        <updated>2022-06-23T09:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Start all of your commands with a comma (2009)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[調查明尼阿波利斯市自行車道的效果
 ]]></title>
@@ -6989,17 +7001,6 @@
         <author>
             <name>crousto</name>
             <uri>https://news.ycombinator.com/user?id=crousto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否創建了只供你個人使用的程序？]]></title>
-        <id>https://news.ycombinator.com/item?id=31018836</id>
-        <link href="https://news.ycombinator.com/item?id=31018836"/>
-        <updated>2022-04-13T19:05:58.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Have you created programs for only your personal use?]]></summary>
-        <author>
-            <name>smarri</name>
-            <uri>https://news.ycombinator.com/user?id=smarri</uri>
         </author>
     </entry>
 </feed>

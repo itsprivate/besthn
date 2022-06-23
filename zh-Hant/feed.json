@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31846902",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31846902",
+            "title": "所有的命令都以逗號開始（2009）。\n",
+            "summary": "Start all of your commands with a comma (2009)",
+            "date_modified": "2022-06-23T09:50:35.000Z",
+            "author": {
+                "name": "Tomte",
+                "url": "https://news.ycombinator.com/user?id=Tomte"
+            },
+            "_original_headline": "Start all of your commands with a comma (2009)",
+            "_original_url": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
+            "_sensitive": false,
+            "_score": 206
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31848253",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31848253",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://lexical.dev/",
             "_sensitive": false,
             "_score": 259
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31018836",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31018836",
-            "title": "你是否創建了只供你個人使用的程序？",
-            "summary": "Ask HN: Have you created programs for only your personal use?",
-            "date_modified": "2022-04-13T19:05:58.000Z",
-            "author": {
-                "name": "smarri",
-                "url": "https://news.ycombinator.com/user?id=smarri"
-            },
-            "_original_headline": "Ask HN: Have you created programs for only your personal use?",
-            "_original_url": "https://news.ycombinator.com/item?id=31018836",
-            "_sensitive": false,
-            "_score": 253
         }
     ]
 }
