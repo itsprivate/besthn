@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 23 Jun 2022 11:45:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 14:31:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA["哈巴狗家庭 "持續購買被停產的產品（2019）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31820168</link>
+            <guid>https://news.ycombinator.com/item?id=31820168</guid>
+            <pubDate>Tue, 21 Jun 2022 05:17:35 GMT</pubDate>
+            <description><![CDATA[“Harbinger households” consistently buy products that get discontinued (2019)]]></description>
+        </item>
         <item>
             <title><![CDATA[Yandex開放100B參數的類似GPT的模型資源
 ]]></title>
@@ -4582,13 +4590,6 @@
             <guid>https://news.ycombinator.com/item?id=31012865</guid>
             <pubDate>Wed, 13 Apr 2022 10:01:26 GMT</pubDate>
             <description><![CDATA[U+237C ⍼ Right Angle with Downwards Zigzag Arrow]]></description>
-        </item>
-        <item>
-            <title><![CDATA[玩轉DALL-E 2]]></title>
-            <link>https://news.ycombinator.com/item?id=30989613</link>
-            <guid>https://news.ycombinator.com/item?id=30989613</guid>
-            <pubDate>Mon, 11 Apr 2022 14:52:31 GMT</pubDate>
-            <description><![CDATA[Playing with DALL-E 2]]></description>
         </item>
     </channel>
 </rss>

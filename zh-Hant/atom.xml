@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-23T11:45:09.033Z</updated>
+    <updated>2022-06-23T14:31:45.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["哈巴狗家庭 "持續購買被停產的產品（2019）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31820168</id>
+        <link href="https://news.ycombinator.com/item?id=31820168"/>
+        <updated>2022-06-21T05:17:35.000Z</updated>
+        <summary type="html"><![CDATA[“Harbinger households” consistently buy products that get discontinued (2019)]]></summary>
+        <author>
+            <name>tobr</name>
+            <uri>https://news.ycombinator.com/user?id=tobr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yandex開放100B參數的類似GPT的模型資源
 ]]></title>
@@ -6978,17 +6990,6 @@
         <author>
             <name>cbzbc</name>
             <uri>https://news.ycombinator.com/user?id=cbzbc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[玩轉DALL-E 2]]></title>
-        <id>https://news.ycombinator.com/item?id=30989613</id>
-        <link href="https://news.ycombinator.com/item?id=30989613"/>
-        <updated>2022-04-11T14:52:31.000Z</updated>
-        <summary type="html"><![CDATA[Playing with DALL-E 2]]></summary>
-        <author>
-            <name>nahuel0x</name>
-            <uri>https://news.ycombinator.com/user?id=nahuel0x</uri>
         </author>
     </entry>
 </feed>

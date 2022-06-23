@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31820168",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31820168",
+            "title": "\"哈巴狗家庭 \"持续购买被停产的产品（2019）。\n",
+            "summary": "“Harbinger households” consistently buy products that get discontinued (2019)",
+            "date_modified": "2022-06-21T05:17:35.000Z",
+            "author": {
+                "name": "tobr",
+                "url": "https://news.ycombinator.com/user?id=tobr"
+            },
+            "_original_headline": "“Harbinger households” consistently buy products that get discontinued (2019)",
+            "_original_url": "https://boingboing.net/2019/12/03/harbringer-of-doom.html",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31846593",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31846593",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://ionathan.ch/2022/04/09/angzarr.html",
             "_sensitive": false,
             "_score": 252
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=30989613",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=30989613",
-            "title": "玩转DALL-E 2",
-            "summary": "Playing with DALL-E 2",
-            "date_modified": "2022-04-11T14:52:31.000Z",
-            "author": {
-                "name": "nahuel0x",
-                "url": "https://news.ycombinator.com/user?id=nahuel0x"
-            },
-            "_original_headline": "Playing with DALL-E 2",
-            "_original_url": "https://www.lesswrong.com/posts/r99tazGiLgzqFX7ka/playing-with-dall-e-2",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }
