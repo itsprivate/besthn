@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-23T16:47:06.976Z</updated>
+    <updated>2022-06-23T17:16:17.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[7-zip 22.00 - APFS, Posix TAR, 高精度時間戳
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31845829</id>
+        <link href="https://news.ycombinator.com/item?id=31845829"/>
+        <updated>2022-06-23T06:35:33.000Z</updated>
+        <summary type="html"><![CDATA[7-zip 22.00 – APFS, Posix TAR, high precision timestamps]]></summary>
+        <author>
+            <name>Sami_Lehtinen</name>
+            <uri>https://news.ycombinator.com/user?id=Sami_Lehtinen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[林納斯-託瓦爾茲：內核的Rust有可能被合併到Linux 5.20上
 ]]></title>
@@ -6982,17 +6994,6 @@
         <author>
             <name>andyjohnson0</name>
             <uri>https://news.ycombinator.com/user?id=andyjohnson0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在紙上創建手繪GIF]]></title>
-        <id>https://news.ycombinator.com/item?id=31012269</id>
-        <link href="https://news.ycombinator.com/item?id=31012269"/>
-        <updated>2022-04-13T08:12:14.000Z</updated>
-        <summary type="html"><![CDATA[Create hand-drawn GIFs on paper]]></summary>
-        <author>
-            <name>trueduke</name>
-            <uri>https://news.ycombinator.com/user?id=trueduke</uri>
         </author>
     </entry>
 </feed>
