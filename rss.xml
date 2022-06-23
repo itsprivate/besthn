@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 23 Jun 2022 19:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 19:45:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[研究表明，每天睡眠时间超过6.5小时可以帮助你减轻体重
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31849464</link>
+            <guid>https://news.ycombinator.com/item?id=31849464</guid>
+            <pubDate>Thu, 23 Jun 2022 14:17:59 GMT</pubDate>
+            <description><![CDATA[Sleeping longer than 6.5 hours/day can help you lose weight: study]]></description>
+        </item>
         <item>
             <title><![CDATA[意大利监督机构禁止使用谷歌分析器
 ]]></title>
@@ -4588,13 +4596,6 @@
             <guid>https://news.ycombinator.com/item?id=31016120</guid>
             <pubDate>Wed, 13 Apr 2022 15:48:40 GMT</pubDate>
             <description><![CDATA[A new heat engine with no moving parts is as efficient as a steam turbine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[水槽边的脏盘子可能是一个大的婚姻问题]]></title>
-            <link>https://news.ycombinator.com/item?id=31000658</link>
-            <guid>https://news.ycombinator.com/item?id=31000658</guid>
-            <pubDate>Tue, 12 Apr 2022 10:13:27 GMT</pubDate>
-            <description><![CDATA[A dirty dish by the sink can be a big marriage problem]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-23T19:25:37.390Z</updated>
+    <updated>2022-06-23T19:45:40.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[研究表明，每天睡眠时间超过6.5小时可以帮助你减轻体重
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31849464</id>
+        <link href="https://news.ycombinator.com/item?id=31849464"/>
+        <updated>2022-06-23T14:17:59.000Z</updated>
+        <summary type="html"><![CDATA[Sleeping longer than 6.5 hours/day can help you lose weight: study]]></summary>
+        <author>
+            <name>sgfgross</name>
+            <uri>https://news.ycombinator.com/user?id=sgfgross</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[意大利监督机构禁止使用谷歌分析器
 ]]></title>
@@ -6984,17 +6996,6 @@
         <author>
             <name>WithinReason</name>
             <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[水槽边的脏盘子可能是一个大的婚姻问题]]></title>
-        <id>https://news.ycombinator.com/item?id=31000658</id>
-        <link href="https://news.ycombinator.com/item?id=31000658"/>
-        <updated>2022-04-12T10:13:27.000Z</updated>
-        <summary type="html"><![CDATA[A dirty dish by the sink can be a big marriage problem]]></summary>
-        <author>
-            <name>wiihack</name>
-            <uri>https://news.ycombinator.com/user?id=wiihack</uri>
         </author>
     </entry>
 </feed>
