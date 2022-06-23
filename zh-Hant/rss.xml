@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 23 Jun 2022 14:31:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 15:55:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Dolt是數據的Git
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31847416</link>
+            <guid>https://news.ycombinator.com/item?id=31847416</guid>
+            <pubDate>Thu, 23 Jun 2022 11:04:44 GMT</pubDate>
+            <description><![CDATA[Dolt Is Git for Data]]></description>
+        </item>
         <item>
             <title><![CDATA["哈巴狗家庭 "持續購買被停產的產品（2019）。
 ]]></title>
@@ -4583,13 +4591,6 @@
             <guid>https://news.ycombinator.com/item?id=31012462</guid>
             <pubDate>Wed, 13 Apr 2022 08:48:03 GMT</pubDate>
             <description><![CDATA[Insider Trading at Coinbase]]></description>
-        </item>
-        <item>
-            <title><![CDATA[U+237C ⍼ 直角與向下的人字形箭頭]]></title>
-            <link>https://news.ycombinator.com/item?id=31012865</link>
-            <guid>https://news.ycombinator.com/item?id=31012865</guid>
-            <pubDate>Wed, 13 Apr 2022 10:01:26 GMT</pubDate>
-            <description><![CDATA[U+237C ⍼ Right Angle with Downwards Zigzag Arrow]]></description>
         </item>
     </channel>
 </rss>

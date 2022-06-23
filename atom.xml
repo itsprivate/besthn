@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-23T14:31:45.063Z</updated>
+    <updated>2022-06-23T15:55:20.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Dolt是数据的Git
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31847416</id>
+        <link href="https://news.ycombinator.com/item?id=31847416"/>
+        <updated>2022-06-23T11:04:44.000Z</updated>
+        <summary type="html"><![CDATA[Dolt Is Git for Data]]></summary>
+        <author>
+            <name>gjvc</name>
+            <uri>https://news.ycombinator.com/user?id=gjvc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["哈巴狗家庭 "持续购买被停产的产品（2019）。
 ]]></title>
@@ -6979,17 +6991,6 @@
         <author>
             <name>Shadonototra</name>
             <uri>https://news.ycombinator.com/user?id=Shadonototra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U+237C ⍼ 直角与向下的人字形箭头]]></title>
-        <id>https://news.ycombinator.com/item?id=31012865</id>
-        <link href="https://news.ycombinator.com/item?id=31012865"/>
-        <updated>2022-04-13T10:01:26.000Z</updated>
-        <summary type="html"><![CDATA[U+237C ⍼ Right Angle with Downwards Zigzag Arrow]]></summary>
-        <author>
-            <name>cbzbc</name>
-            <uri>https://news.ycombinator.com/user?id=cbzbc</uri>
         </author>
     </entry>
 </feed>
