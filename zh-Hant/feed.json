@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31860131",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31860131",
+            "title": "告訴HN：兄弟打印機現在鎖定了非OEM的配件\n",
+            "summary": "Tell HN: Brother printers now locking out non-OEM paraphernalia",
+            "date_modified": "2022-06-24T11:17:31.000Z",
+            "author": {
+                "name": "bbarnett",
+                "url": "https://news.ycombinator.com/user?id=bbarnett"
+            },
+            "_original_headline": "Tell HN: Brother printers now locking out non-OEM paraphernalia",
+            "_original_url": "https://news.ycombinator.com/item?id=31860131",
+            "_sensitive": false,
+            "_score": 218
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31857069",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31857069",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://blog.dshr.org/2022/04/ethereum-has-issues.html",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31021611",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31021611",
-            "title": "Youtube.js - 圍繞YouTube的私有API的全功能包裝器",
-            "summary": "Youtube.js – full-featured wrapper around YouTube's private API",
-            "date_modified": "2022-04-13T23:31:54.000Z",
-            "author": {
-                "name": "mahnouel",
-                "url": "https://news.ycombinator.com/user?id=mahnouel"
-            },
-            "_original_headline": "Youtube.js – full-featured wrapper around YouTube's private API",
-            "_original_url": "https://github.com/LuanRT/YouTube.js",
-            "_sensitive": false,
-            "_score": 265
         }
     ]
 }

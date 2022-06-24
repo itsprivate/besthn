@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 24 Jun 2022 08:37:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 12:57:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[告诉HN：兄弟打印机现在锁定了非OEM的配件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31860131</link>
+            <guid>https://news.ycombinator.com/item?id=31860131</guid>
+            <pubDate>Fri, 24 Jun 2022 11:17:31 GMT</pubDate>
+            <description><![CDATA[Tell HN: Brother printers now locking out non-OEM paraphernalia]]></description>
+        </item>
         <item>
             <title><![CDATA[我们如何建立一个100万美元ARR的开源SaaS
 ]]></title>
@@ -4600,13 +4608,6 @@
             <guid>https://news.ycombinator.com/item?id=31029504</guid>
             <pubDate>Thu, 14 Apr 2022 16:46:48 GMT</pubDate>
             <description><![CDATA[Ethereum Has Issues]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Youtube.js - 围绕YouTube的私有API的全功能包装器]]></title>
-            <link>https://news.ycombinator.com/item?id=31021611</link>
-            <guid>https://news.ycombinator.com/item?id=31021611</guid>
-            <pubDate>Wed, 13 Apr 2022 23:31:54 GMT</pubDate>
-            <description><![CDATA[Youtube.js – full-featured wrapper around YouTube's private API]]></description>
         </item>
     </channel>
 </rss>
