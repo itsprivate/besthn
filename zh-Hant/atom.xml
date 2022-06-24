@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-24T16:47:52.273Z</updated>
+    <updated>2022-06-24T17:13:46.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[OCaml編程。正確、高效、美觀
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31848178</id>
+        <link href="https://news.ycombinator.com/item?id=31848178"/>
+        <updated>2022-06-23T12:38:36.000Z</updated>
+        <summary type="html"><![CDATA[OCaml Programming: Correct and Efficient and Beautiful]]></summary>
+        <author>
+            <name>philonoist</name>
+            <uri>https://news.ycombinator.com/user?id=philonoist</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Viddy。一個現代的手錶指令。時間機器和傳呼機等。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31829343</id>
+        <link href="https://news.ycombinator.com/item?id=31829343"/>
+        <updated>2022-06-21T21:31:13.000Z</updated>
+        <summary type="html"><![CDATA[Viddy: A modern watch command. Time machine and pager etc.]]></summary>
+        <author>
+            <name>lapser</name>
+            <uri>https://news.ycombinator.com/user?id=lapser</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科學家發現 "抗飢餓 "分子在運動後形成
 ]]></title>
@@ -6993,28 +7017,6 @@
         <author>
             <name>grishas</name>
             <uri>https://news.ycombinator.com/user?id=grishas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[茴香。一個實用的Lisp]]></title>
-        <id>https://news.ycombinator.com/item?id=31029478</id>
-        <link href="https://news.ycombinator.com/item?id=31029478"/>
-        <updated>2022-04-14T16:45:22.000Z</updated>
-        <summary type="html"><![CDATA[Fennel: A Practical Lisp]]></summary>
-        <author>
-            <name>mattroelle</name>
-            <uri>https://news.ycombinator.com/user?id=mattroelle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neovim 0.7版發佈]]></title>
-        <id>https://news.ycombinator.com/item?id=31039569</id>
-        <link href="https://news.ycombinator.com/item?id=31039569"/>
-        <updated>2022-04-15T12:45:47.000Z</updated>
-        <summary type="html"><![CDATA[Neovim 0.7 Released]]></summary>
-        <author>
-            <name>akrifari</name>
-            <uri>https://news.ycombinator.com/user?id=akrifari</uri>
         </author>
     </entry>
 </feed>
