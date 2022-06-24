@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-24T17:13:46.845Z</updated>
+    <updated>2022-06-24T17:43:29.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[再見，扎克伯格公司
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31863966</id>
+        <link href="https://news.ycombinator.com/item?id=31863966"/>
+        <updated>2022-06-24T15:42:51.000Z</updated>
+        <summary type="html"><![CDATA[Goodbye Zachtronics]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OCaml編程。正確、高效、美觀
 ]]></title>
@@ -7006,17 +7018,6 @@
         <author>
             <name>TangerineDream</name>
             <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鄧寧-克魯格效應就是自相矛盾]]></title>
-        <id>https://news.ycombinator.com/item?id=31036800</id>
-        <link href="https://news.ycombinator.com/item?id=31036800"/>
-        <updated>2022-04-15T05:15:58.000Z</updated>
-        <summary type="html"><![CDATA[The Dunning-Kruger Effect Is Autocorrelation]]></summary>
-        <author>
-            <name>grishas</name>
-            <uri>https://news.ycombinator.com/user?id=grishas</uri>
         </author>
     </entry>
 </feed>
