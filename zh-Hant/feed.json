@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31849553",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31849553",
+            "title": "隨著大麻的威力越來越大，青少年也開始生病了\n",
+            "summary": "As weed gets more potent, teens are getting sick",
+            "date_modified": "2022-06-23T14:26:22.000Z",
+            "author": {
+                "name": "actfrench",
+                "url": "https://news.ycombinator.com/user?id=actfrench"
+            },
+            "_original_headline": "As weed gets more potent, teens are getting sick",
+            "_original_url": "https://www.nytimes.com/2022/06/23/well/mind/teens-thc-canabis.html",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31850347",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31850347",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://badmodems.com/Why.htm",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31020484",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31020484",
-            "title": "蘋果的M1 Ultra帶有32MB的TLB瓶頸",
-            "summary": "Apple's M1 Ultra comes with a 32MB TLB bottleneck",
-            "date_modified": "2022-04-13T21:24:41.000Z",
-            "author": {
-                "name": "retskrad",
-                "url": "https://news.ycombinator.com/user?id=retskrad"
-            },
-            "_original_headline": "Apple's M1 Ultra comes with a 32MB TLB bottleneck",
-            "_original_url": "https://twitter.com/VadimYuryev/status/1514295682777059329",
-            "_sensitive": false,
-            "_score": 252
         }
     ]
 }

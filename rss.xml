@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 24 Jun 2022 02:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 04:00:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[随着大麻的威力越来越大，青少年也开始生病了
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31849553</link>
+            <guid>https://news.ycombinator.com/item?id=31849553</guid>
+            <pubDate>Thu, 23 Jun 2022 14:26:22 GMT</pubDate>
+            <description><![CDATA[As weed gets more potent, teens are getting sick]]></description>
+        </item>
         <item>
             <title><![CDATA[Zig的安全性如何？
 ]]></title>
@@ -4596,13 +4604,6 @@
             <guid>https://news.ycombinator.com/item?id=31021652</guid>
             <pubDate>Wed, 13 Apr 2022 23:37:21 GMT</pubDate>
             <description><![CDATA[Why I quit this battle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苹果的M1 Ultra带有32MB的TLB瓶颈]]></title>
-            <link>https://news.ycombinator.com/item?id=31020484</link>
-            <guid>https://news.ycombinator.com/item?id=31020484</guid>
-            <pubDate>Wed, 13 Apr 2022 21:24:41 GMT</pubDate>
-            <description><![CDATA[Apple's M1 Ultra comes with a 32MB TLB bottleneck]]></description>
         </item>
     </channel>
 </rss>
