@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 24 Jun 2022 12:57:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 14:06:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[告诉HN：Coinbase现在要求在加密货币转账中提供收款人的实际地址
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31858460</link>
+            <guid>https://news.ycombinator.com/item?id=31858460</guid>
+            <pubDate>Fri, 24 Jun 2022 06:39:52 GMT</pubDate>
+            <description><![CDATA[Tell HN: Coinbase now requires physical address of recipient in crypto transfers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我每次启动Django项目时都会做的事情
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31853546</link>
+            <guid>https://news.ycombinator.com/item?id=31853546</guid>
+            <pubDate>Thu, 23 Jun 2022 18:49:20 GMT</pubDate>
+            <description><![CDATA[Things I do every time I start a Django project]]></description>
+        </item>
+        <item>
+            <title><![CDATA[随机的Ultima Online轶事#2--玩家内部的马匹（2014）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31844479</link>
+            <guid>https://news.ycombinator.com/item?id=31844479</guid>
+            <pubDate>Thu, 23 Jun 2022 02:22:26 GMT</pubDate>
+            <description><![CDATA[Random Ultima Online anecdote #2 – Horses inside players (2014)]]></description>
+        </item>
         <item>
             <title><![CDATA[告诉HN：兄弟打印机现在锁定了非OEM的配件
 ]]></title>
@@ -4587,27 +4611,6 @@
             <guid>https://news.ycombinator.com/item?id=31034024</guid>
             <pubDate>Thu, 14 Apr 2022 22:15:51 GMT</pubDate>
             <description><![CDATA[Star Labs StarBook – AMD 14" Linux Laptop with coreboot and “Open warranty”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[5分钟的呼吸训练降低血压的效果不亚于运动和药物 (2021)]]></title>
-            <link>https://news.ycombinator.com/item?id=31034740</link>
-            <guid>https://news.ycombinator.com/item?id=31034740</guid>
-            <pubDate>Thu, 14 Apr 2022 23:20:57 GMT</pubDate>
-            <description><![CDATA[5-min breathing workout lowers blood pressure as much as exercise, drugs (2021)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[东京的手稿写作咖啡馆在完成之前不会让作家离开]]></title>
-            <link>https://news.ycombinator.com/item?id=31012685</link>
-            <guid>https://news.ycombinator.com/item?id=31012685</guid>
-            <pubDate>Wed, 13 Apr 2022 09:32:35 GMT</pubDate>
-            <description><![CDATA[Tokyo’s Manuscript Writing Cafe won't let writers leave until they are finished]]></description>
-        </item>
-        <item>
-            <title><![CDATA[以太坊有问题]]></title>
-            <link>https://news.ycombinator.com/item?id=31029504</link>
-            <guid>https://news.ycombinator.com/item?id=31029504</guid>
-            <pubDate>Thu, 14 Apr 2022 16:46:48 GMT</pubDate>
-            <description><![CDATA[Ethereum Has Issues]]></description>
         </item>
     </channel>
 </rss>

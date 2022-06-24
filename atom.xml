@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-24T12:57:28.445Z</updated>
+    <updated>2022-06-24T14:06:20.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：Coinbase现在要求在加密货币转账中提供收款人的实际地址
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31858460</id>
+        <link href="https://news.ycombinator.com/item?id=31858460"/>
+        <updated>2022-06-24T06:39:52.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Coinbase now requires physical address of recipient in crypto transfers]]></summary>
+        <author>
+            <name>jb1991</name>
+            <uri>https://news.ycombinator.com/user?id=jb1991</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我每次启动Django项目时都会做的事情
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31853546</id>
+        <link href="https://news.ycombinator.com/item?id=31853546"/>
+        <updated>2022-06-23T18:49:20.000Z</updated>
+        <summary type="html"><![CDATA[Things I do every time I start a Django project]]></summary>
+        <author>
+            <name>8b16380d</name>
+            <uri>https://news.ycombinator.com/user?id=8b16380d</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[随机的Ultima Online轶事#2--玩家内部的马匹（2014）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31844479</id>
+        <link href="https://news.ycombinator.com/item?id=31844479"/>
+        <updated>2022-06-23T02:22:26.000Z</updated>
+        <summary type="html"><![CDATA[Random Ultima Online anecdote #2 – Horses inside players (2014)]]></summary>
+        <author>
+            <name>nieve</name>
+            <uri>https://news.ycombinator.com/user?id=nieve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告诉HN：兄弟打印机现在锁定了非OEM的配件
 ]]></title>
@@ -6975,39 +7011,6 @@
         <author>
             <name>capableweb</name>
             <uri>https://news.ycombinator.com/user?id=capableweb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5分钟的呼吸训练降低血压的效果不亚于运动和药物 (2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=31034740</id>
-        <link href="https://news.ycombinator.com/item?id=31034740"/>
-        <updated>2022-04-14T23:20:57.000Z</updated>
-        <summary type="html"><![CDATA[5-min breathing workout lowers blood pressure as much as exercise, drugs (2021)]]></summary>
-        <author>
-            <name>car</name>
-            <uri>https://news.ycombinator.com/user?id=car</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[东京的手稿写作咖啡馆在完成之前不会让作家离开]]></title>
-        <id>https://news.ycombinator.com/item?id=31012685</id>
-        <link href="https://news.ycombinator.com/item?id=31012685"/>
-        <updated>2022-04-13T09:32:35.000Z</updated>
-        <summary type="html"><![CDATA[Tokyo’s Manuscript Writing Cafe won't let writers leave until they are finished]]></summary>
-        <author>
-            <name>mellosouls</name>
-            <uri>https://news.ycombinator.com/user?id=mellosouls</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊有问题]]></title>
-        <id>https://news.ycombinator.com/item?id=31029504</id>
-        <link href="https://news.ycombinator.com/item?id=31029504"/>
-        <updated>2022-04-14T16:46:48.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum Has Issues]]></summary>
-        <author>
-            <name>danso</name>
-            <uri>https://news.ycombinator.com/user?id=danso</uri>
         </author>
     </entry>
 </feed>
