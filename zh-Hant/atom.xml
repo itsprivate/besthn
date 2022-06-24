@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-24T17:43:29.868Z</updated>
+    <updated>2022-06-24T18:39:33.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[短信釣魚太容易了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31862994</id>
+        <link href="https://news.ycombinator.com/item?id=31862994"/>
+        <updated>2022-06-24T14:52:11.000Z</updated>
+        <summary type="html"><![CDATA[SMS phishing is way too easy]]></summary>
+        <author>
+            <name>ricardbejarano</name>
+            <uri>https://news.ycombinator.com/user?id=ricardbejarano</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丟失的裝有46萬城市居民個人數據的USB被發現
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31859806</id>
+        <link href="https://news.ycombinator.com/item?id=31859806"/>
+        <updated>2022-06-24T10:25:21.000Z</updated>
+        <summary type="html"><![CDATA[Lost USB with 460k city residents’ personal data found]]></summary>
+        <author>
+            <name>Kaibeezy</name>
+            <uri>https://news.ycombinator.com/user?id=Kaibeezy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[再見，扎克伯格公司
 ]]></title>
@@ -6996,28 +7020,6 @@
         <author>
             <name>grogu88</name>
             <uri>https://news.ycombinator.com/user?id=grogu88</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moreutils。一個很久以前沒有人想到要寫的Unix工具集]]></title>
-        <id>https://news.ycombinator.com/item?id=31043655</id>
-        <link href="https://news.ycombinator.com/item?id=31043655"/>
-        <updated>2022-04-15T18:16:08.000Z</updated>
-        <summary type="html"><![CDATA[Moreutils: A collection of Unix tools that nobody thought to write long ago]]></summary>
-        <author>
-            <name>escot</name>
-            <uri>https://news.ycombinator.com/user?id=escot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DuckDuckGo從其搜索結果中刪除了海盜網站和YouTube-DL]]></title>
-        <id>https://news.ycombinator.com/item?id=31044587</id>
-        <link href="https://news.ycombinator.com/item?id=31044587"/>
-        <updated>2022-04-15T19:22:11.000Z</updated>
-        <summary type="html"><![CDATA[DuckDuckGo Removes Pirate Sites and YouTube-DL from Its Search Results]]></summary>
-        <author>
-            <name>TangerineDream</name>
-            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
         </author>
     </entry>
 </feed>
