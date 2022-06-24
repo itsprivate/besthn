@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 24 Jun 2022 04:00:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 07:28:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[發現一釐米長的細菌
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31854347</link>
+            <guid>https://news.ycombinator.com/item?id=31854347</guid>
+            <pubDate>Thu, 23 Jun 2022 19:53:23 GMT</pubDate>
+            <description><![CDATA[One centimeter long bacterium discovered]]></description>
+        </item>
+        <item>
+            <title><![CDATA[薛定諤的流媒體服務剛剛死亡
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31845699</link>
+            <guid>https://news.ycombinator.com/item?id=31845699</guid>
+            <pubDate>Thu, 23 Jun 2022 06:10:53 GMT</pubDate>
+            <description><![CDATA[Schroedinger's streaming service just died]]></description>
+        </item>
         <item>
             <title><![CDATA[隨著大麻的威力越來越大，青少年也開始生病了
 ]]></title>
@@ -4590,20 +4606,6 @@
             <guid>https://news.ycombinator.com/item?id=31033758</guid>
             <pubDate>Thu, 14 Apr 2022 21:51:09 GMT</pubDate>
             <description><![CDATA[We lost 54k GitHub stars]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告訴HN：今天44歲了，我很迷茫]]></title>
-            <link>https://news.ycombinator.com/item?id=31028795</link>
-            <guid>https://news.ycombinator.com/item?id=31028795</guid>
-            <pubDate>Thu, 14 Apr 2022 16:04:55 GMT</pubDate>
-            <description><![CDATA[Tell HN: Turned 44 today and I'm lost]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我為什麼退出這場戰鬥]]></title>
-            <link>https://news.ycombinator.com/item?id=31021652</link>
-            <guid>https://news.ycombinator.com/item?id=31021652</guid>
-            <pubDate>Wed, 13 Apr 2022 23:37:21 GMT</pubDate>
-            <description><![CDATA[Why I quit this battle]]></description>
         </item>
     </channel>
 </rss>

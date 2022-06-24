@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-24T04:00:49.606Z</updated>
+    <updated>2022-06-24T07:28:10.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[發現一釐米長的細菌
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31854347</id>
+        <link href="https://news.ycombinator.com/item?id=31854347"/>
+        <updated>2022-06-23T19:53:23.000Z</updated>
+        <summary type="html"><![CDATA[One centimeter long bacterium discovered]]></summary>
+        <author>
+            <name>deathgripsss</name>
+            <uri>https://news.ycombinator.com/user?id=deathgripsss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[薛定諤的流媒體服務剛剛死亡
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31845699</id>
+        <link href="https://news.ycombinator.com/item?id=31845699"/>
+        <updated>2022-06-23T06:10:53.000Z</updated>
+        <summary type="html"><![CDATA[Schroedinger's streaming service just died]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隨著大麻的威力越來越大，青少年也開始生病了
 ]]></title>
@@ -6982,28 +7006,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告訴HN：今天44歲了，我很迷茫]]></title>
-        <id>https://news.ycombinator.com/item?id=31028795</id>
-        <link href="https://news.ycombinator.com/item?id=31028795"/>
-        <updated>2022-04-14T16:04:55.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: Turned 44 today and I'm lost]]></summary>
-        <author>
-            <name>0414throwaway</name>
-            <uri>https://news.ycombinator.com/user?id=0414throwaway</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我為什麼退出這場戰鬥]]></title>
-        <id>https://news.ycombinator.com/item?id=31021652</id>
-        <link href="https://news.ycombinator.com/item?id=31021652"/>
-        <updated>2022-04-13T23:37:21.000Z</updated>
-        <summary type="html"><![CDATA[Why I quit this battle]]></summary>
-        <author>
-            <name>Flollop</name>
-            <uri>https://news.ycombinator.com/user?id=Flollop</uri>
         </author>
     </entry>
 </feed>
