@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31858413",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31858413",
+            "title": "苹果不为浏览器引擎的选择辩护\n",
+            "summary": "Apple is not defending browser engine choice",
+            "date_modified": "2022-06-24T06:32:57.000Z",
+            "author": {
+                "name": "bertman",
+                "url": "https://news.ycombinator.com/user?id=bertman"
+            },
+            "_original_headline": "Apple is not defending browser engine choice",
+            "_original_url": "https://infrequently.org/2022/06/apple-is-not-defending-browser-engine-choice/",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31858460",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31858460",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://unchartedterritories.tomaspueyo.com/p/why-germany-wont-keep-its-nuclear",
             "_sensitive": false,
             "_score": 252
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31034024",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31034024",
-            "title": "Star Labs StarBook - AMD 14\" Linux笔记本电脑，采用coreboot和 \"开放保修\"。",
-            "summary": "Star Labs StarBook – AMD 14\" Linux Laptop with coreboot and “Open warranty”",
-            "date_modified": "2022-04-14T22:15:51.000Z",
-            "author": {
-                "name": "capableweb",
-                "url": "https://news.ycombinator.com/user?id=capableweb"
-            },
-            "_original_headline": "Star Labs StarBook – AMD 14\" Linux Laptop with coreboot and “Open warranty”",
-            "_original_url": "https://starlabs.systems/pages/starbook",
-            "_sensitive": false,
-            "_score": 256
         }
     ]
 }
