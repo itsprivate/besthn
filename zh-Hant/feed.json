@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31850347",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31850347",
+            "title": "Zig的安全性如何？\n",
+            "summary": "How safe is Zig?",
+            "date_modified": "2022-06-23T15:19:41.000Z",
+            "author": {
+                "name": "orf",
+                "url": "https://news.ycombinator.com/user?id=orf"
+            },
+            "_original_headline": "How safe is Zig?",
+            "_original_url": "https://www.scattered-thoughts.net/writing/how-safe-is-zig/",
+            "_sensitive": false,
+            "_score": 210
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31854051",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31854051",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://twitter.com/VadimYuryev/status/1514295682777059329",
             "_sensitive": false,
             "_score": 252
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31025061",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31025061",
-            "title": "埃隆-馬斯克啟動430億美元敵意收購Twitter",
-            "summary": "Elon Musk Launches $43B Hostile Takeover of Twitter",
-            "date_modified": "2022-04-14T10:24:06.000Z",
-            "author": {
-                "name": "zegl",
-                "url": "https://news.ycombinator.com/user?id=zegl"
-            },
-            "_original_headline": "Elon Musk Launches $43B Hostile Takeover of Twitter",
-            "_original_url": "https://www.bloomberg.com/news/articles/2022-04-14/elon-musk-launches-43-billion-hostile-takeover-of-twitter",
-            "_sensitive": false,
-            "_score": 258
         }
     ]
 }
