@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 24 Jun 2022 15:38:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 16:47:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[科学家发现 "抗饥饿 "分子在运动后形成
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31858063</link>
+            <guid>https://news.ycombinator.com/item?id=31858063</guid>
+            <pubDate>Fri, 24 Jun 2022 05:20:27 GMT</pubDate>
+            <description><![CDATA[‘Anti-hunger’ molecule forms after exercise, scientists discover]]></description>
+        </item>
         <item>
             <title><![CDATA[最高法院推翻了 "罗伊与韦德 "案
 ]]></title>
@@ -4607,13 +4615,6 @@
             <guid>https://news.ycombinator.com/item?id=31039569</guid>
             <pubDate>Fri, 15 Apr 2022 12:45:47 GMT</pubDate>
             <description><![CDATA[Neovim 0.7 Released]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用再生疗法逆转听力损失]]></title>
-            <link>https://news.ycombinator.com/item?id=31039242</link>
-            <guid>https://news.ycombinator.com/item?id=31039242</guid>
-            <pubDate>Fri, 15 Apr 2022 12:09:16 GMT</pubDate>
-            <description><![CDATA[Reversing hearing loss with regenerative therapy]]></description>
         </item>
     </channel>
 </rss>

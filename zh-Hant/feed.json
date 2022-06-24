@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31858063",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31858063",
+            "title": "科學家發現 \"抗飢餓 \"分子在運動後形成\n",
+            "summary": "‘Anti-hunger’ molecule forms after exercise, scientists discover",
+            "date_modified": "2022-06-24T05:20:27.000Z",
+            "author": {
+                "name": "echen",
+                "url": "https://news.ycombinator.com/user?id=echen"
+            },
+            "_original_headline": "‘Anti-hunger’ molecule forms after exercise, scientists discover",
+            "_original_url": "https://med.stanford.edu/news/all-news/2022/06/anti-hunger-molecule-exercise.html",
+            "_sensitive": false,
+            "_score": 209
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31862258",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31862258",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://github.com/neovim/neovim/releases/tag/v0.7.0",
             "_sensitive": false,
             "_score": 253
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31039242",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31039242",
-            "title": "用再生療法逆轉聽力損失",
-            "summary": "Reversing hearing loss with regenerative therapy",
-            "date_modified": "2022-04-15T12:09:16.000Z",
-            "author": {
-                "name": "maxerickson",
-                "url": "https://news.ycombinator.com/user?id=maxerickson"
-            },
-            "_original_headline": "Reversing hearing loss with regenerative therapy",
-            "_original_url": "https://news.mit.edu/2022/frequency-therapeutics-hearing-regeneration-0329",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }

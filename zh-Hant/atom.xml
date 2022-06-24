@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-24T15:38:45.099Z</updated>
+    <updated>2022-06-24T16:47:52.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[科學家發現 "抗飢餓 "分子在運動後形成
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31858063</id>
+        <link href="https://news.ycombinator.com/item?id=31858063"/>
+        <updated>2022-06-24T05:20:27.000Z</updated>
+        <summary type="html"><![CDATA[‘Anti-hunger’ molecule forms after exercise, scientists discover]]></summary>
+        <author>
+            <name>echen</name>
+            <uri>https://news.ycombinator.com/user?id=echen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最高法院推翻了 "羅伊與韋德 "案
 ]]></title>
@@ -7003,17 +7015,6 @@
         <author>
             <name>akrifari</name>
             <uri>https://news.ycombinator.com/user?id=akrifari</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用再生療法逆轉聽力損失]]></title>
-        <id>https://news.ycombinator.com/item?id=31039242</id>
-        <link href="https://news.ycombinator.com/item?id=31039242"/>
-        <updated>2022-04-15T12:09:16.000Z</updated>
-        <summary type="html"><![CDATA[Reversing hearing loss with regenerative therapy]]></summary>
-        <author>
-            <name>maxerickson</name>
-            <uri>https://news.ycombinator.com/user?id=maxerickson</uri>
         </author>
     </entry>
 </feed>
