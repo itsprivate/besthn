@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 24 Jun 2022 14:47:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 14:59:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Mattermost - 安全協作的開源平臺
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31858829</link>
+            <guid>https://news.ycombinator.com/item?id=31858829</guid>
+            <pubDate>Fri, 24 Jun 2022 07:48:24 GMT</pubDate>
+            <description><![CDATA[Mattermost – open-source platform for secure collaboration]]></description>
+        </item>
         <item>
             <title><![CDATA[蘋果不為瀏覽器引擎的選擇辯護
 ]]></title>
@@ -4605,13 +4613,6 @@
             <guid>https://news.ycombinator.com/item?id=31037729</guid>
             <pubDate>Fri, 15 Apr 2022 08:16:53 GMT</pubDate>
             <description><![CDATA[It’s Still Stupidly, Difficult to Buy a ‘Dumb’ TV]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼德國不會繼續開放其核電站]]></title>
-            <link>https://news.ycombinator.com/item?id=31033412</link>
-            <guid>https://news.ycombinator.com/item?id=31033412</guid>
-            <pubDate>Thu, 14 Apr 2022 21:16:21 GMT</pubDate>
-            <description><![CDATA[Why Germany won’t keep its nuclear plants open]]></description>
         </item>
     </channel>
 </rss>
