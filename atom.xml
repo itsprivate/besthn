@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-24T07:28:10.595Z</updated>
+    <updated>2022-06-24T08:37:14.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们如何建立一个100万美元ARR的开源SaaS
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31857069</id>
+        <link href="https://news.ycombinator.com/item?id=31857069"/>
+        <updated>2022-06-24T01:54:50.000Z</updated>
+        <summary type="html"><![CDATA[How We built a $1M ARR open source SaaS]]></summary>
+        <author>
+            <name>caust1c</name>
+            <uri>https://news.ycombinator.com/user?id=caust1c</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[发现一厘米长的细菌
 ]]></title>
@@ -6995,17 +7007,6 @@
         <author>
             <name>mahnouel</name>
             <uri>https://news.ycombinator.com/user?id=mahnouel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们失去了54000个GitHub之星]]></title>
-        <id>https://news.ycombinator.com/item?id=31033758</id>
-        <link href="https://news.ycombinator.com/item?id=31033758"/>
-        <updated>2022-04-14T21:51:09.000Z</updated>
-        <summary type="html"><![CDATA[We lost 54k GitHub stars]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>

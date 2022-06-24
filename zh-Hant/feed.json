@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31857069",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31857069",
+            "title": "我們如何建立一個100萬美元ARR的開源SaaS\n",
+            "summary": "How We built a $1M ARR open source SaaS",
+            "date_modified": "2022-06-24T01:54:50.000Z",
+            "author": {
+                "name": "caust1c",
+                "url": "https://news.ycombinator.com/user?id=caust1c"
+            },
+            "_original_headline": "How We built a $1M ARR open source SaaS",
+            "_original_url": "https://plausible.io/blog/open-source-saas",
+            "_sensitive": false,
+            "_score": 222
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31854347",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31854347",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://github.com/LuanRT/YouTube.js",
             "_sensitive": false,
             "_score": 265
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31033758",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31033758",
-            "title": "我們失去了54000個GitHub之星",
-            "summary": "We lost 54k GitHub stars",
-            "date_modified": "2022-04-14T21:51:09.000Z",
-            "author": {
-                "name": "todsacerdoti",
-                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
-            },
-            "_original_headline": "We lost 54k GitHub stars",
-            "_original_url": "https://httpie.io/blog/stardust",
-            "_sensitive": false,
-            "_score": 276
         }
     ]
 }
