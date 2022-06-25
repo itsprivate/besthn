@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 25 Jun 2022 03:50:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 08:34:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[ffsend。一個功能齊全的Firefox Send命令行客戶端
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31867800</link>
+            <guid>https://news.ycombinator.com/item?id=31867800</guid>
+            <pubDate>Fri, 24 Jun 2022 19:05:37 GMT</pubDate>
+            <description><![CDATA[ffsend: A fully featured Firefox Send command line client]]></description>
+        </item>
         <item>
             <title><![CDATA[Bungie如何識別大規模發送虛假DMCA通知的人
 ]]></title>
@@ -4617,13 +4625,6 @@
             <guid>https://news.ycombinator.com/item?id=31037273</guid>
             <pubDate>Fri, 15 Apr 2022 06:56:23 GMT</pubDate>
             <description><![CDATA[Rustaceans at the border]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在招聘開發人員時，讓候選人閱讀現有的代碼]]></title>
-            <link>https://news.ycombinator.com/item?id=31047409</link>
-            <guid>https://news.ycombinator.com/item?id=31047409</guid>
-            <pubDate>Fri, 15 Apr 2022 23:51:19 GMT</pubDate>
-            <description><![CDATA[When hiring developers, have the candidate read existing code]]></description>
         </item>
     </channel>
 </rss>
