@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 24 Jun 2022 19:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 02:33:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[硬化MacOS
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31864974</link>
+            <guid>https://news.ycombinator.com/item?id=31864974</guid>
+            <pubDate>Fri, 24 Jun 2022 16:27:08 GMT</pubDate>
+            <description><![CDATA[Hardening macOS]]></description>
+        </item>
+        <item>
+            <title><![CDATA[六月份五顆行星在天空中排成一排，今晚將達到頂峰
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31862026</link>
+            <guid>https://news.ycombinator.com/item?id=31862026</guid>
+            <pubDate>Fri, 24 Jun 2022 14:05:41 GMT</pubDate>
+            <description><![CDATA[Five planets are lining up in the sky in June and will peak tonight]]></description>
+        </item>
         <item>
             <title><![CDATA[實驗室洩漏的假說是怎麼回事？
 ]]></title>
@@ -4607,20 +4623,6 @@
             <guid>https://news.ycombinator.com/item?id=31044693</guid>
             <pubDate>Fri, 15 Apr 2022 19:30:08 GMT</pubDate>
             <description><![CDATA[My take on Elon's offer for Twitter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Shirky.com已經消失了]]></title>
-            <link>https://news.ycombinator.com/item?id=31038660</link>
-            <guid>https://news.ycombinator.com/item?id=31038660</guid>
-            <pubDate>Fri, 15 Apr 2022 10:49:38 GMT</pubDate>
-            <description><![CDATA[Shirky.com is gone]]></description>
-        </item>
-        <item>
-            <title><![CDATA[科羅拉多州的安全站是國家的法律]]></title>
-            <link>https://news.ycombinator.com/item?id=31040669</link>
-            <guid>https://news.ycombinator.com/item?id=31040669</guid>
-            <pubDate>Fri, 15 Apr 2022 14:29:55 GMT</pubDate>
-            <description><![CDATA[The Colorado Safety Stop is the law of the land]]></description>
         </item>
     </channel>
 </rss>

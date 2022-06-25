@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-24T19:25:41.598Z</updated>
+    <updated>2022-06-25T02:33:41.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[硬化MacOS
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31864974</id>
+        <link href="https://news.ycombinator.com/item?id=31864974"/>
+        <updated>2022-06-24T16:27:08.000Z</updated>
+        <summary type="html"><![CDATA[Hardening macOS]]></summary>
+        <author>
+            <name>charlieirish</name>
+            <uri>https://news.ycombinator.com/user?id=charlieirish</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[六月份五颗行星在天空中排成一排，今晚将达到顶峰
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31862026</id>
+        <link href="https://news.ycombinator.com/item?id=31862026"/>
+        <updated>2022-06-24T14:05:41.000Z</updated>
+        <summary type="html"><![CDATA[Five planets are lining up in the sky in June and will peak tonight]]></summary>
+        <author>
+            <name>gmays</name>
+            <uri>https://news.ycombinator.com/user?id=gmays</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[实验室泄漏的假说是怎么回事？
 ]]></title>
@@ -6999,28 +7023,6 @@
         <author>
             <name>slg</name>
             <uri>https://news.ycombinator.com/user?id=slg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shirky.com已经消失了]]></title>
-        <id>https://news.ycombinator.com/item?id=31038660</id>
-        <link href="https://news.ycombinator.com/item?id=31038660"/>
-        <updated>2022-04-15T10:49:38.000Z</updated>
-        <summary type="html"><![CDATA[Shirky.com is gone]]></summary>
-        <author>
-            <name>lkrubner</name>
-            <uri>https://news.ycombinator.com/user?id=lkrubner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科罗拉多州的安全站是国家的法律]]></title>
-        <id>https://news.ycombinator.com/item?id=31040669</id>
-        <link href="https://news.ycombinator.com/item?id=31040669"/>
-        <updated>2022-04-15T14:29:55.000Z</updated>
-        <summary type="html"><![CDATA[The Colorado Safety Stop is the law of the land]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
