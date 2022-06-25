@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31859040",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31859040",
+            "title": "如何提高你的技術寫作水平？\n",
+            "summary": "Ask HN: How to level up your technical writing?",
+            "date_modified": "2022-06-24T08:23:29.000Z",
+            "author": {
+                "name": "maxekman",
+                "url": "https://news.ycombinator.com/user?id=maxekman"
+            },
+            "_original_headline": "Ask HN: How to level up your technical writing?",
+            "_original_url": "https://news.ycombinator.com/item?id=31859040",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31874802",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31874802",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://github.com/ziglang/zig/pull/11442",
             "_sensitive": false,
             "_score": 258
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31045335",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31045335",
-            "title": "上海2022年封鎖的沉默之死",
-            "summary": "The silenced deaths of the Shanghai 2022 lockdown",
-            "date_modified": "2022-04-15T20:21:38.000Z",
-            "author": {
-                "name": "ilamont",
-                "url": "https://news.ycombinator.com/user?id=ilamont"
-            },
-            "_original_headline": "The silenced deaths of the Shanghai 2022 lockdown",
-            "_original_url": "https://storiesfromthestateofexception.wordpress.com/2022/04/14/the-silenced-deaths-of-the-shanghai-2022-lockdown/",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }
