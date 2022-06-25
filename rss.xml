@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 25 Jun 2022 12:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 14:44:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[哦，妈的，笨蛋
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31874308</link>
+            <guid>https://news.ycombinator.com/item?id=31874308</guid>
+            <pubDate>Sat, 25 Jun 2022 11:16:26 GMT</pubDate>
+            <description><![CDATA[Oh Shit, Git]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌称美国员工可迁往有堕胎权的州
 ]]></title>
@@ -4620,13 +4628,6 @@
             <guid>https://news.ycombinator.com/item?id=31048646</guid>
             <pubDate>Sat, 16 Apr 2022 02:20:10 GMT</pubDate>
             <description><![CDATA[Heroku Security Notification]]></description>
-        </item>
-        <item>
-            <title><![CDATA[国际股票操纵团伙的10名成员在曼哈顿被起诉]]></title>
-            <link>https://news.ycombinator.com/item?id=31044629</link>
-            <guid>https://news.ycombinator.com/item?id=31044629</guid>
-            <pubDate>Fri, 15 Apr 2022 19:25:23 GMT</pubDate>
-            <description><![CDATA[Ten members of international stock manipulation ring charged in Manhattan]]></description>
         </item>
     </channel>
 </rss>

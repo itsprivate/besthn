@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31874308",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31874308",
+            "title": "哦，妈的，笨蛋\n",
+            "summary": "Oh Shit, Git",
+            "date_modified": "2022-06-25T11:16:26.000Z",
+            "author": {
+                "name": "layer8",
+                "url": "https://news.ycombinator.com/user?id=layer8"
+            },
+            "_original_headline": "Oh Shit, Git",
+            "_original_url": "https://ohshitgit.com/",
+            "_sensitive": false,
+            "_score": 208
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31871581",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31871581",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://status.heroku.com/incidents/2413",
             "_sensitive": false,
             "_score": 258
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31044629",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31044629",
-            "title": "国际股票操纵团伙的10名成员在曼哈顿被起诉",
-            "summary": "Ten members of international stock manipulation ring charged in Manhattan",
-            "date_modified": "2022-04-15T19:25:23.000Z",
-            "author": {
-                "name": "mzs",
-                "url": "https://news.ycombinator.com/user?id=mzs"
-            },
-            "_original_headline": "Ten members of international stock manipulation ring charged in Manhattan",
-            "_original_url": "https://www.justice.gov/usao-sdny/pr/ten-members-international-stock-manipulation-ring-charged-manhattan-federal-court",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }

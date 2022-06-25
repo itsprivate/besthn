@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-25T12:45:46.424Z</updated>
+    <updated>2022-06-25T14:44:09.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[哦，妈的，笨蛋
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31874308</id>
+        <link href="https://news.ycombinator.com/item?id=31874308"/>
+        <updated>2022-06-25T11:16:26.000Z</updated>
+        <summary type="html"><![CDATA[Oh Shit, Git]]></summary>
+        <author>
+            <name>layer8</name>
+            <uri>https://news.ycombinator.com/user?id=layer8</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌称美国员工可迁往有堕胎权的州
 ]]></title>
@@ -7016,17 +7028,6 @@
         <author>
             <name>chizhik-pyzhik</name>
             <uri>https://news.ycombinator.com/user?id=chizhik-pyzhik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国际股票操纵团伙的10名成员在曼哈顿被起诉]]></title>
-        <id>https://news.ycombinator.com/item?id=31044629</id>
-        <link href="https://news.ycombinator.com/item?id=31044629"/>
-        <updated>2022-04-15T19:25:23.000Z</updated>
-        <summary type="html"><![CDATA[Ten members of international stock manipulation ring charged in Manhattan]]></summary>
-        <author>
-            <name>mzs</name>
-            <uri>https://news.ycombinator.com/user?id=mzs</uri>
         </author>
     </entry>
 </feed>
