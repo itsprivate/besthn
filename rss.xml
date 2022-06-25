@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 25 Jun 2022 02:33:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 03:50:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Bungie如何识别大规模发送虚假DMCA通知的人
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31869800</link>
+            <guid>https://news.ycombinator.com/item?id=31869800</guid>
+            <pubDate>Fri, 24 Jun 2022 21:44:53 GMT</pubDate>
+            <description><![CDATA[How Bungie identified a mass sender of fake DMCA notices]]></description>
+        </item>
         <item>
             <title><![CDATA[硬化MacOS
 ]]></title>
@@ -4616,13 +4624,6 @@
             <guid>https://news.ycombinator.com/item?id=31047409</guid>
             <pubDate>Fri, 15 Apr 2022 23:51:19 GMT</pubDate>
             <description><![CDATA[When hiring developers, have the candidate read existing code]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我对埃隆对推特的提议的看法]]></title>
-            <link>https://news.ycombinator.com/item?id=31044693</link>
-            <guid>https://news.ycombinator.com/item?id=31044693</guid>
-            <pubDate>Fri, 15 Apr 2022 19:30:08 GMT</pubDate>
-            <description><![CDATA[My take on Elon's offer for Twitter]]></description>
         </item>
     </channel>
 </rss>

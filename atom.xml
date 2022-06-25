@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-25T02:33:41.309Z</updated>
+    <updated>2022-06-25T03:50:17.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Bungie如何识别大规模发送虚假DMCA通知的人
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31869800</id>
+        <link href="https://news.ycombinator.com/item?id=31869800"/>
+        <updated>2022-06-24T21:44:53.000Z</updated>
+        <summary type="html"><![CDATA[How Bungie identified a mass sender of fake DMCA notices]]></summary>
+        <author>
+            <name>perihelions</name>
+            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[硬化MacOS
 ]]></title>
@@ -7012,17 +7024,6 @@
         <author>
             <name>ewag</name>
             <uri>https://news.ycombinator.com/user?id=ewag</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我对埃隆对推特的提议的看法]]></title>
-        <id>https://news.ycombinator.com/item?id=31044693</id>
-        <link href="https://news.ycombinator.com/item?id=31044693"/>
-        <updated>2022-04-15T19:30:08.000Z</updated>
-        <summary type="html"><![CDATA[My take on Elon's offer for Twitter]]></summary>
-        <author>
-            <name>slg</name>
-            <uri>https://news.ycombinator.com/user?id=slg</uri>
         </author>
     </entry>
 </feed>
