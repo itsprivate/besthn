@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 25 Jun 2022 14:44:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 17:06:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有什麼認證是值得的嗎？合法地幫助了你的職業生涯？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31874802</link>
+            <guid>https://news.ycombinator.com/item?id=31874802</guid>
+            <pubDate>Sat, 25 Jun 2022 12:39:54 GMT</pubDate>
+            <description><![CDATA[Ask HN: Any certification that is worth it? Legitimately helped your career?]]></description>
+        </item>
         <item>
             <title><![CDATA[哦，媽的，笨蛋
 ]]></title>
@@ -4621,13 +4629,6 @@
             <guid>https://news.ycombinator.com/item?id=31045335</guid>
             <pubDate>Fri, 15 Apr 2022 20:21:38 GMT</pubDate>
             <description><![CDATA[The silenced deaths of the Shanghai 2022 lockdown]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Heroku安全通知]]></title>
-            <link>https://news.ycombinator.com/item?id=31048646</link>
-            <guid>https://news.ycombinator.com/item?id=31048646</guid>
-            <pubDate>Sat, 16 Apr 2022 02:20:10 GMT</pubDate>
-            <description><![CDATA[Heroku Security Notification]]></description>
         </item>
     </channel>
 </rss>
