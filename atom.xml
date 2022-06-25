@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-25T08:34:51.346Z</updated>
+    <updated>2022-06-25T12:45:46.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌称美国员工可迁往有堕胎权的州
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31871581</id>
+        <link href="https://news.ycombinator.com/item?id=31871581"/>
+        <updated>2022-06-25T01:23:37.000Z</updated>
+        <summary type="html"><![CDATA[Google says US employees can relocate to states with abortion rights]]></summary>
+        <author>
+            <name>acalmon</name>
+            <uri>https://news.ycombinator.com/user?id=acalmon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BrachioGraph - 最便宜、最简单的笔式绘图仪
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31864209</id>
+        <link href="https://news.ycombinator.com/item?id=31864209"/>
+        <updated>2022-06-24T15:54:08.000Z</updated>
+        <summary type="html"><![CDATA[BrachioGraph – the cheapest, simplest possible pen-plotter]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ffsend。一个功能齐全的Firefox Send命令行客户端
 ]]></title>
@@ -7003,28 +7027,6 @@
         <author>
             <name>mzs</name>
             <uri>https://news.ycombinator.com/user?id=mzs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[过度工程化的日本机械铅笔[视频]]]></title>
-        <id>https://news.ycombinator.com/item?id=31024600</id>
-        <link href="https://news.ycombinator.com/item?id=31024600"/>
-        <updated>2022-04-14T08:43:27.000Z</updated>
-        <summary type="html"><![CDATA[Overengineered Japanese Mechanical Pencils [video]]]></summary>
-        <author>
-            <name>jkellermann</name>
-            <uri>https://news.ycombinator.com/user?id=jkellermann</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[边境上的拉斯塔斯人]]></title>
-        <id>https://news.ycombinator.com/item?id=31037273</id>
-        <link href="https://news.ycombinator.com/item?id=31037273"/>
-        <updated>2022-04-15T06:56:23.000Z</updated>
-        <summary type="html"><![CDATA[Rustaceans at the border]]></summary>
-        <author>
-            <name>bitcharmer</name>
-            <uri>https://news.ycombinator.com/user?id=bitcharmer</uri>
         </author>
     </entry>
 </feed>

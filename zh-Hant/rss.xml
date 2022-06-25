@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 25 Jun 2022 08:34:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 12:45:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谷歌稱美國員工可遷往有墮胎權的州
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31871581</link>
+            <guid>https://news.ycombinator.com/item?id=31871581</guid>
+            <pubDate>Sat, 25 Jun 2022 01:23:37 GMT</pubDate>
+            <description><![CDATA[Google says US employees can relocate to states with abortion rights]]></description>
+        </item>
+        <item>
+            <title><![CDATA[BrachioGraph - 最便宜、最簡單的筆式繪圖儀
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31864209</link>
+            <guid>https://news.ycombinator.com/item?id=31864209</guid>
+            <pubDate>Fri, 24 Jun 2022 15:54:08 GMT</pubDate>
+            <description><![CDATA[BrachioGraph – the cheapest, simplest possible pen-plotter]]></description>
+        </item>
         <item>
             <title><![CDATA[ffsend。一個功能齊全的Firefox Send命令行客戶端
 ]]></title>
@@ -4611,20 +4627,6 @@
             <guid>https://news.ycombinator.com/item?id=31044629</guid>
             <pubDate>Fri, 15 Apr 2022 19:25:23 GMT</pubDate>
             <description><![CDATA[Ten members of international stock manipulation ring charged in Manhattan]]></description>
-        </item>
-        <item>
-            <title><![CDATA[過度工程化的日本機械鉛筆[視頻]]]></title>
-            <link>https://news.ycombinator.com/item?id=31024600</link>
-            <guid>https://news.ycombinator.com/item?id=31024600</guid>
-            <pubDate>Thu, 14 Apr 2022 08:43:27 GMT</pubDate>
-            <description><![CDATA[Overengineered Japanese Mechanical Pencils [video]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[邊境上的拉斯塔斯人]]></title>
-            <link>https://news.ycombinator.com/item?id=31037273</link>
-            <guid>https://news.ycombinator.com/item?id=31037273</guid>
-            <pubDate>Fri, 15 Apr 2022 06:56:23 GMT</pubDate>
-            <description><![CDATA[Rustaceans at the border]]></description>
         </item>
     </channel>
 </rss>
