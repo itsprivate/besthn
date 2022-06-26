@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-26T00:53:49.234Z</updated>
+    <updated>2022-06-26T05:06:12.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[飞地。一把无法打开的锁
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31880108</id>
+        <link href="https://news.ycombinator.com/item?id=31880108"/>
+        <updated>2022-06-26T01:05:50.000Z</updated>
+        <summary type="html"><![CDATA[Enclave: An Unpickable Lock]]></summary>
+        <author>
+            <name>lisper</name>
+            <uri>https://news.ycombinator.com/user?id=lisper</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AT&T律师阻止Plan 9发行CD，其中包括Lou Reed、Debbie Harry的歌曲
 ]]></title>
@@ -7027,17 +7039,6 @@
         <author>
             <name>istoica</name>
             <uri>https://news.ycombinator.com/user?id=istoica</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100位在新泽西州同一所高中就读的罕见癌症患者要求回答]]></title>
-        <id>https://news.ycombinator.com/item?id=31056262</id>
-        <link href="https://news.ycombinator.com/item?id=31056262"/>
-        <updated>2022-04-16T21:30:58.000Z</updated>
-        <summary type="html"><![CDATA[100 People with rare cancers who attended same NJ high school demand answers]]></summary>
-        <author>
-            <name>RickJWagner</name>
-            <uri>https://news.ycombinator.com/user?id=RickJWagner</uri>
         </author>
     </entry>
 </feed>
