@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31866573",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31866573",
+            "title": "豬的心臟移植手術因其心肌細胞死亡而失敗\n",
+            "summary": "Pig heart transplant failed as its heart muscle cells died",
+            "date_modified": "2022-06-24T17:52:46.000Z",
+            "author": {
+                "name": "samizdis",
+                "url": "https://news.ycombinator.com/user?id=samizdis"
+            },
+            "_original_headline": "Pig heart transplant failed as its heart muscle cells died",
+            "_original_url": "https://arstechnica.com/science/2022/06/pig-heart-transplant-failed-as-its-heart-muscle-cells-died/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31880108",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31880108",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://mjg59.dreamwidth.org/59479.html",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31055475",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31055475",
-            "title": "波德曼桌面伴侶GUI--在所有主要操作系統上的平等性",
-            "summary": "Podman Desktop Companion GUI – Parity on All Major Operating Systems",
-            "date_modified": "2022-04-16T19:45:37.000Z",
-            "author": {
-                "name": "istoica",
-                "url": "https://news.ycombinator.com/user?id=istoica"
-            },
-            "_original_headline": "Podman Desktop Companion GUI – Parity on All Major Operating Systems",
-            "_original_url": "https://iongion.github.io/podman-desktop-companion/",
-            "_sensitive": false,
-            "_score": 251
         }
     ]
 }

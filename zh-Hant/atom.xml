@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-26T05:06:12.097Z</updated>
+    <updated>2022-06-26T07:57:36.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[豬的心臟移植手術因其心肌細胞死亡而失敗
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31866573</id>
+        <link href="https://news.ycombinator.com/item?id=31866573"/>
+        <updated>2022-06-24T17:52:46.000Z</updated>
+        <summary type="html"><![CDATA[Pig heart transplant failed as its heart muscle cells died]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[飛地。一把無法打開的鎖
 ]]></title>
@@ -7028,17 +7040,6 @@
         <author>
             <name>emme</name>
             <uri>https://news.ycombinator.com/user?id=emme</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波德曼桌面伴侶GUI--在所有主要操作系統上的平等性]]></title>
-        <id>https://news.ycombinator.com/item?id=31055475</id>
-        <link href="https://news.ycombinator.com/item?id=31055475"/>
-        <updated>2022-04-16T19:45:37.000Z</updated>
-        <summary type="html"><![CDATA[Podman Desktop Companion GUI – Parity on All Major Operating Systems]]></summary>
-        <author>
-            <name>istoica</name>
-            <uri>https://news.ycombinator.com/user?id=istoica</uri>
         </author>
     </entry>
 </feed>
