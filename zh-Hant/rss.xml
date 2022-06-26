@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 26 Jun 2022 07:57:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 09:28:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我的一張照片
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31859072</link>
+            <guid>https://news.ycombinator.com/item?id=31859072</guid>
+            <pubDate>Fri, 24 Jun 2022 08:30:43 GMT</pubDate>
+            <description><![CDATA[A picture of me]]></description>
+        </item>
         <item>
             <title><![CDATA[豬的心臟移植手術因其心肌細胞死亡而失敗
 ]]></title>
@@ -4633,13 +4641,6 @@
             <guid>https://news.ycombinator.com/item?id=31060362</guid>
             <pubDate>Sun, 17 Apr 2022 12:23:43 GMT</pubDate>
             <description><![CDATA[How to write more clearly, think more clearly, and learn complex material [pdf]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[自由電話在隱私方面並不出色]]></title>
-            <link>https://news.ycombinator.com/item?id=31057615</link>
-            <guid>https://news.ycombinator.com/item?id=31057615</guid>
-            <pubDate>Sun, 17 Apr 2022 01:26:17 GMT</pubDate>
-            <description><![CDATA[The Freedom Phone is not great at privacy]]></description>
         </item>
     </channel>
 </rss>

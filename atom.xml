@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-26T07:57:36.615Z</updated>
+    <updated>2022-06-26T09:28:02.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的一张照片
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31859072</id>
+        <link href="https://news.ycombinator.com/item?id=31859072"/>
+        <updated>2022-06-24T08:30:43.000Z</updated>
+        <summary type="html"><![CDATA[A picture of me]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[猪的心脏移植手术因其心肌细胞死亡而失败
 ]]></title>
@@ -7029,17 +7041,6 @@
         <author>
             <name>Secrethus</name>
             <uri>https://news.ycombinator.com/user?id=Secrethus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自由电话在隐私方面并不出色]]></title>
-        <id>https://news.ycombinator.com/item?id=31057615</id>
-        <link href="https://news.ycombinator.com/item?id=31057615"/>
-        <updated>2022-04-17T01:26:17.000Z</updated>
-        <summary type="html"><![CDATA[The Freedom Phone is not great at privacy]]></summary>
-        <author>
-            <name>emme</name>
-            <uri>https://news.ycombinator.com/user?id=emme</uri>
         </author>
     </entry>
 </feed>
