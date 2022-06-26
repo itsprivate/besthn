@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-25T17:49:52.341Z</updated>
+    <updated>2022-06-26T00:53:49.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,102 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AT&T律师阻止Plan 9发行CD，其中包括Lou Reed、Debbie Harry的歌曲
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31876981</id>
+        <link href="https://news.ycombinator.com/item?id=31876981"/>
+        <updated>2022-06-25T17:19:19.000Z</updated>
+        <summary type="html"><![CDATA[AT&T lawyer stopped Plan 9 release CD with songs by Lou Reed, Debbie Harry]]></summary>
+        <author>
+            <name>asjo</name>
+            <uri>https://news.ycombinator.com/user?id=asjo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[献给阿尔杰农的花 (1965) [pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31875692</id>
+        <link href="https://news.ycombinator.com/item?id=31875692"/>
+        <updated>2022-06-25T14:43:42.000Z</updated>
+        <summary type="html"><![CDATA[Flowers for Algernon (1965) [pdf]]]></summary>
+        <author>
+            <name>vagab0nd</name>
+            <uri>https://news.ycombinator.com/user?id=vagab0nd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无论蜜蜂启示录发生了什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31875002</id>
+        <link href="https://news.ycombinator.com/item?id=31875002"/>
+        <updated>2022-06-25T13:09:50.000Z</updated>
+        <summary type="html"><![CDATA[Whatever happened to the bee apocalypse?]]></summary>
+        <author>
+            <name>nsoonhui</name>
+            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我对智能手机如何分散我们的注意力的觉醒时刻
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31874846</id>
+        <link href="https://news.ycombinator.com/item?id=31874846"/>
+        <updated>2022-06-25T12:45:42.000Z</updated>
+        <summary type="html"><![CDATA[My awakening moment about how smartphones fragment our attention span]]></summary>
+        <author>
+            <name>llui85</name>
+            <uri>https://news.ycombinator.com/user?id=llui85</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xlite。将Excel和Open Document电子表格作为SQLite虚拟表进行查询
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31874767</id>
+        <link href="https://news.ycombinator.com/item?id=31874767"/>
+        <updated>2022-06-25T12:34:51.000Z</updated>
+        <summary type="html"><![CDATA[Xlite: Query Excel and Open Document spreadsheets as SQLite virtual tables]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我终于找到了一个可靠的Debian平板电脑。淘宝网上有很多卖家，他们的产品都是在淘宝网上销售的。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31873440</id>
+        <link href="https://news.ycombinator.com/item?id=31873440"/>
+        <updated>2022-06-25T08:13:16.000Z</updated>
+        <summary type="html"><![CDATA[I Finally Found a Solid Debian Tablet: The Surface Go 2]]></summary>
+        <author>
+            <name>edward</name>
+            <uri>https://news.ycombinator.com/user?id=edward</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL的升级很困难
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31873063</id>
+        <link href="https://news.ycombinator.com/item?id=31873063"/>
+        <updated>2022-06-25T06:32:19.000Z</updated>
+        <summary type="html"><![CDATA[PostgreSQL upgrades are hard]]></summary>
+        <author>
+            <name>omnibrain</name>
+            <uri>https://news.ycombinator.com/user?id=omnibrain</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在市场下滑的情况下进行种子轮融资？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31847941</id>
+        <link href="https://news.ycombinator.com/item?id=31847941"/>
+        <updated>2022-06-23T12:13:06.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to raise a seed round in a down market?]]></summary>
+        <author>
+            <name>hubraumhugo</name>
+            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何提高你的技术写作水平？
 ]]></title>
@@ -6942,94 +7038,6 @@
         <author>
             <name>RickJWagner</name>
             <uri>https://news.ycombinator.com/user?id=RickJWagner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蝙蝠侠效应"：拥有另一个自我是如何赋予你力量的]]></title>
-        <id>https://news.ycombinator.com/item?id=31055709</id>
-        <link href="https://news.ycombinator.com/item?id=31055709"/>
-        <updated>2022-04-16T20:13:54.000Z</updated>
-        <summary type="html"><![CDATA[The 'Batman Effect': How having an alter ego empowers you]]></summary>
-        <author>
-            <name>mrleinad</name>
-            <uri>https://news.ycombinator.com/user?id=mrleinad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix第一系列结束]]></title>
-        <id>https://news.ycombinator.com/item?id=31051662</id>
-        <link href="https://news.ycombinator.com/item?id=31051662"/>
-        <updated>2022-04-16T12:09:27.000Z</updated>
-        <summary type="html"><![CDATA[Netflix End of Series 1]]></summary>
-        <author>
-            <name>heinrichhartman</name>
-            <uri>https://news.ycombinator.com/user?id=heinrichhartman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[27年前，我意外地举办了最难、最奇怪的复活节彩蛋活动]]></title>
-        <id>https://news.ycombinator.com/item?id=31051223</id>
-        <link href="https://news.ycombinator.com/item?id=31051223"/>
-        <updated>2022-04-16T10:28:10.000Z</updated>
-        <summary type="html"><![CDATA[27 years ago I accidentally ran the hardest, strangest Easter egg hunt]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitch上最受欢迎的国际象棋流媒体人]]></title>
-        <id>https://news.ycombinator.com/item?id=31013829</id>
-        <link href="https://news.ycombinator.com/item?id=31013829"/>
-        <updated>2022-04-13T12:27:32.000Z</updated>
-        <summary type="html"><![CDATA[The most popular chess streamer on Twitch]]></summary>
-        <author>
-            <name>mitchbob</name>
-            <uri>https://news.ycombinator.com/user?id=mitchbob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[胶片相机如何将日期叠加到照片上[视频]]]></title>
-        <id>https://news.ycombinator.com/item?id=31031929</id>
-        <link href="https://news.ycombinator.com/item?id=31031929"/>
-        <updated>2022-04-14T19:15:37.000Z</updated>
-        <summary type="html"><![CDATA[How a film camera superimposes the date onto photos [video]]]></summary>
-        <author>
-            <name>aacook</name>
-            <uri>https://news.ycombinator.com/user?id=aacook</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[慢速社交，一个为朋友而非影响者建立的社交网络]]></title>
-        <id>https://news.ycombinator.com/item?id=31054029</id>
-        <link href="https://news.ycombinator.com/item?id=31054029"/>
-        <updated>2022-04-16T17:09:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Slow Social, a social network built for friends, not influencers]]></summary>
-        <author>
-            <name>CitrusFruits</name>
-            <uri>https://news.ycombinator.com/user?id=CitrusFruits</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[涉及向第三方集成商发放的被盗OAuth令牌的攻击活动]]></title>
-        <id>https://news.ycombinator.com/item?id=31046791</id>
-        <link href="https://news.ycombinator.com/item?id=31046791"/>
-        <updated>2022-04-15T22:39:16.000Z</updated>
-        <summary type="html"><![CDATA[Attack campaign involving stolen OAuth tokens issued to third-party integrators]]></summary>
-        <author>
-            <name>heyoni</name>
-            <uri>https://news.ycombinator.com/user?id=heyoni</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zig自我托管的编译器现在能够自我构建。]]></title>
-        <id>https://news.ycombinator.com/item?id=31052029</id>
-        <link href="https://news.ycombinator.com/item?id=31052029"/>
-        <updated>2022-04-16T13:11:28.000Z</updated>
-        <summary type="html"><![CDATA[Zig self hosted compiler is now capable of building itself]]></summary>
-        <author>
-            <name>marcthe12</name>
-            <uri>https://news.ycombinator.com/user?id=marcthe12</uri>
         </author>
     </entry>
 </feed>

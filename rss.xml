@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 25 Jun 2022 17:49:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 00:53:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,70 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[AT&T律师阻止Plan 9发行CD，其中包括Lou Reed、Debbie Harry的歌曲
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31876981</link>
+            <guid>https://news.ycombinator.com/item?id=31876981</guid>
+            <pubDate>Sat, 25 Jun 2022 17:19:19 GMT</pubDate>
+            <description><![CDATA[AT&T lawyer stopped Plan 9 release CD with songs by Lou Reed, Debbie Harry]]></description>
+        </item>
+        <item>
+            <title><![CDATA[献给阿尔杰农的花 (1965) [pdf]
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31875692</link>
+            <guid>https://news.ycombinator.com/item?id=31875692</guid>
+            <pubDate>Sat, 25 Jun 2022 14:43:42 GMT</pubDate>
+            <description><![CDATA[Flowers for Algernon (1965) [pdf]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[无论蜜蜂启示录发生了什么？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31875002</link>
+            <guid>https://news.ycombinator.com/item?id=31875002</guid>
+            <pubDate>Sat, 25 Jun 2022 13:09:50 GMT</pubDate>
+            <description><![CDATA[Whatever happened to the bee apocalypse?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我对智能手机如何分散我们的注意力的觉醒时刻
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31874846</link>
+            <guid>https://news.ycombinator.com/item?id=31874846</guid>
+            <pubDate>Sat, 25 Jun 2022 12:45:42 GMT</pubDate>
+            <description><![CDATA[My awakening moment about how smartphones fragment our attention span]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Xlite。将Excel和Open Document电子表格作为SQLite虚拟表进行查询
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31874767</link>
+            <guid>https://news.ycombinator.com/item?id=31874767</guid>
+            <pubDate>Sat, 25 Jun 2022 12:34:51 GMT</pubDate>
+            <description><![CDATA[Xlite: Query Excel and Open Document spreadsheets as SQLite virtual tables]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我终于找到了一个可靠的Debian平板电脑。淘宝网上有很多卖家，他们的产品都是在淘宝网上销售的。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31873440</link>
+            <guid>https://news.ycombinator.com/item?id=31873440</guid>
+            <pubDate>Sat, 25 Jun 2022 08:13:16 GMT</pubDate>
+            <description><![CDATA[I Finally Found a Solid Debian Tablet: The Surface Go 2]]></description>
+        </item>
+        <item>
+            <title><![CDATA[PostgreSQL的升级很困难
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31873063</link>
+            <guid>https://news.ycombinator.com/item?id=31873063</guid>
+            <pubDate>Sat, 25 Jun 2022 06:32:19 GMT</pubDate>
+            <description><![CDATA[PostgreSQL upgrades are hard]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何在市场下滑的情况下进行种子轮融资？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31847941</link>
+            <guid>https://news.ycombinator.com/item?id=31847941</guid>
+            <pubDate>Thu, 23 Jun 2022 12:13:06 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to raise a seed round in a down market?]]></description>
+        </item>
         <item>
             <title><![CDATA[如何提高你的技术写作水平？
 ]]></title>
@@ -4574,62 +4638,6 @@
             <guid>https://news.ycombinator.com/item?id=31056262</guid>
             <pubDate>Sat, 16 Apr 2022 21:30:58 GMT</pubDate>
             <description><![CDATA[100 People with rare cancers who attended same NJ high school demand answers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蝙蝠侠效应"：拥有另一个自我是如何赋予你力量的]]></title>
-            <link>https://news.ycombinator.com/item?id=31055709</link>
-            <guid>https://news.ycombinator.com/item?id=31055709</guid>
-            <pubDate>Sat, 16 Apr 2022 20:13:54 GMT</pubDate>
-            <description><![CDATA[The 'Batman Effect': How having an alter ego empowers you]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Netflix第一系列结束]]></title>
-            <link>https://news.ycombinator.com/item?id=31051662</link>
-            <guid>https://news.ycombinator.com/item?id=31051662</guid>
-            <pubDate>Sat, 16 Apr 2022 12:09:27 GMT</pubDate>
-            <description><![CDATA[Netflix End of Series 1]]></description>
-        </item>
-        <item>
-            <title><![CDATA[27年前，我意外地举办了最难、最奇怪的复活节彩蛋活动]]></title>
-            <link>https://news.ycombinator.com/item?id=31051223</link>
-            <guid>https://news.ycombinator.com/item?id=31051223</guid>
-            <pubDate>Sat, 16 Apr 2022 10:28:10 GMT</pubDate>
-            <description><![CDATA[27 years ago I accidentally ran the hardest, strangest Easter egg hunt]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Twitch上最受欢迎的国际象棋流媒体人]]></title>
-            <link>https://news.ycombinator.com/item?id=31013829</link>
-            <guid>https://news.ycombinator.com/item?id=31013829</guid>
-            <pubDate>Wed, 13 Apr 2022 12:27:32 GMT</pubDate>
-            <description><![CDATA[The most popular chess streamer on Twitch]]></description>
-        </item>
-        <item>
-            <title><![CDATA[胶片相机如何将日期叠加到照片上[视频]]]></title>
-            <link>https://news.ycombinator.com/item?id=31031929</link>
-            <guid>https://news.ycombinator.com/item?id=31031929</guid>
-            <pubDate>Thu, 14 Apr 2022 19:15:37 GMT</pubDate>
-            <description><![CDATA[How a film camera superimposes the date onto photos [video]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[慢速社交，一个为朋友而非影响者建立的社交网络]]></title>
-            <link>https://news.ycombinator.com/item?id=31054029</link>
-            <guid>https://news.ycombinator.com/item?id=31054029</guid>
-            <pubDate>Sat, 16 Apr 2022 17:09:02 GMT</pubDate>
-            <description><![CDATA[Show HN: Slow Social, a social network built for friends, not influencers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[涉及向第三方集成商发放的被盗OAuth令牌的攻击活动]]></title>
-            <link>https://news.ycombinator.com/item?id=31046791</link>
-            <guid>https://news.ycombinator.com/item?id=31046791</guid>
-            <pubDate>Fri, 15 Apr 2022 22:39:16 GMT</pubDate>
-            <description><![CDATA[Attack campaign involving stolen OAuth tokens issued to third-party integrators]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Zig自我托管的编译器现在能够自我构建。]]></title>
-            <link>https://news.ycombinator.com/item?id=31052029</link>
-            <guid>https://news.ycombinator.com/item?id=31052029</guid>
-            <pubDate>Sat, 16 Apr 2022 13:11:28 GMT</pubDate>
-            <description><![CDATA[Zig self hosted compiler is now capable of building itself]]></description>
         </item>
     </channel>
 </rss>
