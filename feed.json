@@ -11,6 +11,70 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31885137",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31885137",
+            "title": "生命并不短暂\n",
+            "summary": "Life is not short",
+            "date_modified": "2022-06-26T16:02:10.000Z",
+            "author": {
+                "name": "dbrereton",
+                "url": "https://news.ycombinator.com/user?id=dbrereton"
+            },
+            "_original_headline": "Life is not short",
+            "_original_url": "https://dkb.show/post/life-is-not-short",
+            "_sensitive": false,
+            "_score": 370
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31883206",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31883206",
+            "title": "长尾巴去哪儿了？\n",
+            "summary": "Where did the long tail go?",
+            "date_modified": "2022-06-26T12:06:49.000Z",
+            "author": {
+                "name": "jger15",
+                "url": "https://news.ycombinator.com/user?id=jger15"
+            },
+            "_original_headline": "Where did the long tail go?",
+            "_original_url": "https://tedgioia.substack.com/p/where-did-the-long-tail-go",
+            "_sensitive": false,
+            "_score": 224
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31881973",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31881973",
+            "title": "政府承包商复制开源3D打印概念并申请专利\n",
+            "summary": "Gov’t Contractor Copies Open Source 3D Printing Concept and Patents It",
+            "date_modified": "2022-06-26T07:54:37.000Z",
+            "author": {
+                "name": "danboarder",
+                "url": "https://news.ycombinator.com/user?id=danboarder"
+            },
+            "_original_headline": "Gov’t Contractor Copies Open Source 3D Printing Concept and Patents It",
+            "_original_url": "https://www.techdirt.com/2022/06/24/ridiculous-govt-contractor-copies-open-source-3d-printing-concept-and-patents-it/",
+            "_sensitive": false,
+            "_score": 212
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31880394",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31880394",
+            "title": "为什么我仍然推荐朱莉娅\n",
+            "summary": "Why I still recommend Julia",
+            "date_modified": "2022-06-26T01:59:59.000Z",
+            "author": {
+                "name": "amkkma",
+                "url": "https://news.ycombinator.com/user?id=amkkma"
+            },
+            "_original_headline": "Why I still recommend Julia",
+            "_original_url": "https://huijzer.xyz/posts/recommend/",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31878876",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31878876",
@@ -9545,70 +9609,6 @@
             "_original_url": "https://pahouse.com/InTheNews/NewsRelease/?id=124404",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31065143",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31065143",
-            "title": "我所收到的最好的工程面试问题",
-            "summary": "The best engineering interview question I've ever gotten",
-            "date_modified": "2022-04-17T22:34:08.000Z",
-            "author": {
-                "name": "db48x",
-                "url": "https://news.ycombinator.com/user?id=db48x"
-            },
-            "_original_headline": "The best engineering interview question I've ever gotten",
-            "_original_url": "https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/",
-            "_sensitive": false,
-            "_score": 274
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31061154",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31061154",
-            "title": "任天堂不想让你玩的游戏。腾博会官网诚信为本",
-            "summary": "The games Nintendo didn't want you to play: Tengen",
-            "date_modified": "2022-04-17T14:40:49.000Z",
-            "author": {
-                "name": "luu",
-                "url": "https://news.ycombinator.com/user?id=luu"
-            },
-            "_original_headline": "The games Nintendo didn't want you to play: Tengen",
-            "_original_url": "https://nicole.express/2022/the-center-point-can-not-hold.html",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31061138",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31061138",
-            "title": "在低技能、低工资的世界里，\"低劣的工作 \"意味着什么？",
-            "summary": "What does “shitty job” mean in the low-skill, low-pay world?",
-            "date_modified": "2022-04-17T14:38:49.000Z",
-            "author": {
-                "name": "hn-0001",
-                "url": "https://news.ycombinator.com/user?id=hn-0001"
-            },
-            "_original_headline": "What does “shitty job” mean in the low-skill, low-pay world?",
-            "_original_url": "https://www.residentcontrarian.com/p/what-does-shitty-job-mean-in-the",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31059524",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31059524",
-            "title": "为什么有些蛋黄是橙色的？",
-            "summary": "Why are some egg yolks so orange?",
-            "date_modified": "2022-04-17T08:55:00.000Z",
-            "author": {
-                "name": "azizsaya",
-                "url": "https://news.ycombinator.com/user?id=azizsaya"
-            },
-            "_original_headline": "Why are some egg yolks so orange?",
-            "_original_url": "https://www.foodunfolded.com/article/why-are-some-egg-yolks-so-orange",
-            "_sensitive": false,
-            "_score": 253
         }
     ]
 }

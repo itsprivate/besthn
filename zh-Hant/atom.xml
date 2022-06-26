@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-26T14:24:48.885Z</updated>
+    <updated>2022-06-26T23:00:36.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[生命並不短暫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31885137</id>
+        <link href="https://news.ycombinator.com/item?id=31885137"/>
+        <updated>2022-06-26T16:02:10.000Z</updated>
+        <summary type="html"><![CDATA[Life is not short]]></summary>
+        <author>
+            <name>dbrereton</name>
+            <uri>https://news.ycombinator.com/user?id=dbrereton</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[長尾巴去哪兒了？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31883206</id>
+        <link href="https://news.ycombinator.com/item?id=31883206"/>
+        <updated>2022-06-26T12:06:49.000Z</updated>
+        <summary type="html"><![CDATA[Where did the long tail go?]]></summary>
+        <author>
+            <name>jger15</name>
+            <uri>https://news.ycombinator.com/user?id=jger15</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[政府承包商複製開源3D打印概念並申請專利
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31881973</id>
+        <link href="https://news.ycombinator.com/item?id=31881973"/>
+        <updated>2022-06-26T07:54:37.000Z</updated>
+        <summary type="html"><![CDATA[Gov’t Contractor Copies Open Source 3D Printing Concept and Patents It]]></summary>
+        <author>
+            <name>danboarder</name>
+            <uri>https://news.ycombinator.com/user?id=danboarder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼我仍然推薦朱莉婭
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31880394</id>
+        <link href="https://news.ycombinator.com/item?id=31880394"/>
+        <updated>2022-06-26T01:59:59.000Z</updated>
+        <summary type="html"><![CDATA[Why I still recommend Julia]]></summary>
+        <author>
+            <name>amkkma</name>
+            <uri>https://news.ycombinator.com/user?id=amkkma</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VirtualBuddy。虛擬化蘋果硅上的macOS 12和更高版本
 ]]></title>
@@ -7001,50 +7049,6 @@
         <author>
             <name>barlo</name>
             <uri>https://news.ycombinator.com/user?id=barlo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我所收到的最好的工程面試問題]]></title>
-        <id>https://news.ycombinator.com/item?id=31065143</id>
-        <link href="https://news.ycombinator.com/item?id=31065143"/>
-        <updated>2022-04-17T22:34:08.000Z</updated>
-        <summary type="html"><![CDATA[The best engineering interview question I've ever gotten]]></summary>
-        <author>
-            <name>db48x</name>
-            <uri>https://news.ycombinator.com/user?id=db48x</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任天堂不想讓你玩的遊戲。騰博會官網誠信為本]]></title>
-        <id>https://news.ycombinator.com/item?id=31061154</id>
-        <link href="https://news.ycombinator.com/item?id=31061154"/>
-        <updated>2022-04-17T14:40:49.000Z</updated>
-        <summary type="html"><![CDATA[The games Nintendo didn't want you to play: Tengen]]></summary>
-        <author>
-            <name>luu</name>
-            <uri>https://news.ycombinator.com/user?id=luu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在低技能、低工資的世界裡，"低劣的工作 "意味著什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=31061138</id>
-        <link href="https://news.ycombinator.com/item?id=31061138"/>
-        <updated>2022-04-17T14:38:49.000Z</updated>
-        <summary type="html"><![CDATA[What does “shitty job” mean in the low-skill, low-pay world?]]></summary>
-        <author>
-            <name>hn-0001</name>
-            <uri>https://news.ycombinator.com/user?id=hn-0001</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼有些蛋黃是橙色的？]]></title>
-        <id>https://news.ycombinator.com/item?id=31059524</id>
-        <link href="https://news.ycombinator.com/item?id=31059524"/>
-        <updated>2022-04-17T08:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Why are some egg yolks so orange?]]></summary>
-        <author>
-            <name>azizsaya</name>
-            <uri>https://news.ycombinator.com/user?id=azizsaya</uri>
         </author>
     </entry>
 </feed>
