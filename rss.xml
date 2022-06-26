@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 26 Jun 2022 13:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 13:58:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GPT-3将我的全名透露给任何询问的人。我可以做什么吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31883373</link>
+            <guid>https://news.ycombinator.com/item?id=31883373</guid>
+            <pubDate>Sun, 26 Jun 2022 12:37:21 GMT</pubDate>
+            <description><![CDATA[Ask HN: GPT-3 reveals my full name to anybody who asks. Can I do anything?]]></description>
+        </item>
         <item>
             <title><![CDATA[汤姆-戴维斯已经成为GeoGuessr的一个受人喜爱的标志。
 ]]></title>
@@ -4636,13 +4644,6 @@
             <guid>https://news.ycombinator.com/item?id=31062799</guid>
             <pubDate>Sun, 17 Apr 2022 18:01:05 GMT</pubDate>
             <description><![CDATA[Internet magically gets faster when opening speedtest?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我小时候攒的钱今天可以买一皮克的黄金了]]></title>
-            <link>https://news.ycombinator.com/item?id=31062465</link>
-            <guid>https://news.ycombinator.com/item?id=31062465</guid>
-            <pubDate>Sun, 17 Apr 2022 17:20:33 GMT</pubDate>
-            <description><![CDATA[The money I saved as a child would buy one picogram of gold today]]></description>
         </item>
     </channel>
 </rss>

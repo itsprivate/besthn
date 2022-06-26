@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31883373",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31883373",
+            "title": "GPT-3將我的全名透露給任何詢問的人。我可以做什麼嗎？\n",
+            "summary": "Ask HN: GPT-3 reveals my full name to anybody who asks. Can I do anything?",
+            "date_modified": "2022-06-26T12:37:21.000Z",
+            "author": {
+                "name": "BoppreH",
+                "url": "https://news.ycombinator.com/user?id=BoppreH"
+            },
+            "_original_headline": "Ask HN: GPT-3 reveals my full name to anybody who asks. Can I do anything?",
+            "_original_url": "https://news.ycombinator.com/item?id=31883373",
+            "_sensitive": false,
+            "_score": 213
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31878396",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31878396",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://news.ycombinator.com/item?id=31062799",
             "_sensitive": false,
             "_score": 254
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31062465",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31062465",
-            "title": "我小時候攢的錢今天可以買一皮克的黃金了",
-            "summary": "The money I saved as a child would buy one picogram of gold today",
-            "date_modified": "2022-04-17T17:20:33.000Z",
-            "author": {
-                "name": "diego",
-                "url": "https://news.ycombinator.com/user?id=diego"
-            },
-            "_original_headline": "The money I saved as a child would buy one picogram of gold today",
-            "_original_url": "https://twitter.com/dbasch/status/1515737443395383299",
-            "_sensitive": false,
-            "_score": 251
         }
     ]
 }
