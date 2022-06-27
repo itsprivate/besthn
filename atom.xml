@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-27T17:59:42.820Z</updated>
+    <updated>2022-06-27T18:46:04.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[三箭资本公司已经拖欠了一笔价值超过6.7亿美元的贷款
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31895820</id>
+        <link href="https://news.ycombinator.com/item?id=31895820"/>
+        <updated>2022-06-27T15:21:27.000Z</updated>
+        <summary type="html"><![CDATA[Three Arrows Capital has defaulted on a loan worth more than $670M]]></summary>
+        <author>
+            <name>misiti3780</name>
+            <uri>https://news.ycombinator.com/user?id=misiti3780</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于数据库需要知道的事情
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31895623</id>
+        <link href="https://news.ycombinator.com/item?id=31895623"/>
+        <updated>2022-06-27T15:08:58.000Z</updated>
+        <summary type="html"><![CDATA[Things to know about databases]]></summary>
+        <author>
+            <name>grech</name>
+            <uri>https://news.ycombinator.com/user?id=grech</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果公司的说法是，为了安全，它禁止使用其他浏览器
 ]]></title>
@@ -7039,28 +7063,6 @@
         <author>
             <name>spenvo</name>
             <uri>https://news.ycombinator.com/user?id=spenvo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[詹姆斯-韦伯望远镜最冷的仪器达到工作温度]]></title>
-        <id>https://news.ycombinator.com/item?id=31072590</id>
-        <link href="https://news.ycombinator.com/item?id=31072590"/>
-        <updated>2022-04-18T16:07:12.000Z</updated>
-        <summary type="html"><![CDATA[James Webb telescope's coldest instrument reaches operating temperature]]></summary>
-        <author>
-            <name>wglb</name>
-            <uri>https://news.ycombinator.com/user?id=wglb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M1 Thunderbolt端口不完全支持USB 3.1 Gen 2]]></title>
-        <id>https://news.ycombinator.com/item?id=31068479</id>
-        <link href="https://news.ycombinator.com/item?id=31068479"/>
-        <updated>2022-04-18T08:20:21.000Z</updated>
-        <summary type="html"><![CDATA[M1 Thunderbolt ports don’t fully support USB 3.1 Gen 2]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
         </author>
     </entry>
 </feed>
