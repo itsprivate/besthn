@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 27 Jun 2022 19:06:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 19:48:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用ASCII藝術解釋代碼
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31891226</link>
+            <guid>https://news.ycombinator.com/item?id=31891226</guid>
+            <pubDate>Mon, 27 Jun 2022 06:24:02 GMT</pubDate>
+            <description><![CDATA[Explaining Code Using ASCII Art]]></description>
+        </item>
         <item>
             <title><![CDATA[超級馬里奧兄弟的翹曲區的工作原理略有不同[視頻]
 ]]></title>
@@ -4657,13 +4665,6 @@
             <guid>https://news.ycombinator.com/item?id=31075558</guid>
             <pubDate>Mon, 18 Apr 2022 19:49:57 GMT</pubDate>
             <description><![CDATA[UK Government Officials Infected with Pegasus]]></description>
-        </item>
-        <item>
-            <title><![CDATA[BirdNET-Pi。自動的、本地運行的鳥類聲音識別和跟蹤]]></title>
-            <link>https://news.ycombinator.com/item?id=31072485</link>
-            <guid>https://news.ycombinator.com/item?id=31072485</guid>
-            <pubDate>Mon, 18 Apr 2022 16:00:09 GMT</pubDate>
-            <description><![CDATA[BirdNET-Pi: Automated, locally run bird sound identification and tracking]]></description>
         </item>
     </channel>
 </rss>

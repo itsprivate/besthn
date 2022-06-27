@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-27T19:06:04.050Z</updated>
+    <updated>2022-06-27T19:48:49.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用ASCII艺术解释代码
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31891226</id>
+        <link href="https://news.ycombinator.com/item?id=31891226"/>
+        <updated>2022-06-27T06:24:02.000Z</updated>
+        <summary type="html"><![CDATA[Explaining Code Using ASCII Art]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超级马里奥兄弟的翘曲区的工作原理略有不同[视频]
 ]]></title>
@@ -7053,17 +7065,6 @@
         <author>
             <name>yablak</name>
             <uri>https://news.ycombinator.com/user?id=yablak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BirdNET-Pi。自动的、本地运行的鸟类声音识别和跟踪]]></title>
-        <id>https://news.ycombinator.com/item?id=31072485</id>
-        <link href="https://news.ycombinator.com/item?id=31072485"/>
-        <updated>2022-04-18T16:00:09.000Z</updated>
-        <summary type="html"><![CDATA[BirdNET-Pi: Automated, locally run bird sound identification and tracking]]></summary>
-        <author>
-            <name>superkuh</name>
-            <uri>https://news.ycombinator.com/user?id=superkuh</uri>
         </author>
     </entry>
 </feed>
