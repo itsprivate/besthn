@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-27T19:48:49.247Z</updated>
+    <updated>2022-06-27T21:48:33.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Meta公司正邀請研究人員挑剔其GPT-3版本中的缺陷
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31897101</id>
+        <link href="https://news.ycombinator.com/item?id=31897101"/>
+        <updated>2022-06-27T16:41:06.000Z</updated>
+        <summary type="html"><![CDATA[Meta is inviting researchers to pick apart the flaws in its version of GPT-3]]></summary>
+        <author>
+            <name>mgl</name>
+            <uri>https://news.ycombinator.com/user?id=mgl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[野生海龜衰老速度很慢，有些海龜基本上沒有衰老。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31881557</id>
+        <link href="https://news.ycombinator.com/item?id=31881557"/>
+        <updated>2022-06-26T06:14:07.000Z</updated>
+        <summary type="html"><![CDATA[Wild turtles age slowly, and some basically don’t age at all]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PRQL 0.2 - 一個更好的SQL
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31897430</id>
+        <link href="https://news.ycombinator.com/item?id=31897430"/>
+        <updated>2022-06-27T17:03:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PRQL 0.2 – a better SQL]]></summary>
+        <author>
+            <name>maximilianroos</name>
+            <uri>https://news.ycombinator.com/user?id=maximilianroos</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用ASCII藝術解釋代碼
 ]]></title>
@@ -7032,39 +7068,6 @@
         <author>
             <name>bandibus</name>
             <uri>https://news.ycombinator.com/user?id=bandibus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[衛星圖像行業仍然不知道客戶需要什麼]]></title>
-        <id>https://news.ycombinator.com/item?id=31074177</id>
-        <link href="https://news.ycombinator.com/item?id=31074177"/>
-        <updated>2022-04-18T17:56:57.000Z</updated>
-        <summary type="html"><![CDATA[The satellite imagery industry still has no idea what customers want]]></summary>
-        <author>
-            <name>campchase</name>
-            <uri>https://news.ycombinator.com/user?id=campchase</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[六家公司控制了你所讀、所看、所聽的90%的內容]]></title>
-        <id>https://news.ycombinator.com/item?id=31077525</id>
-        <link href="https://news.ycombinator.com/item?id=31077525"/>
-        <updated>2022-04-18T22:35:32.000Z</updated>
-        <summary type="html"><![CDATA[Six companies control 90% of what you read, watch, and hear]]></summary>
-        <author>
-            <name>tomohawk</name>
-            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英國政府官員感染飛馬病毒]]></title>
-        <id>https://news.ycombinator.com/item?id=31075558</id>
-        <link href="https://news.ycombinator.com/item?id=31075558"/>
-        <updated>2022-04-18T19:49:57.000Z</updated>
-        <summary type="html"><![CDATA[UK Government Officials Infected with Pegasus]]></summary>
-        <author>
-            <name>yablak</name>
-            <uri>https://news.ycombinator.com/user?id=yablak</uri>
         </author>
     </entry>
 </feed>

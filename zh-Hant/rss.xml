@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 27 Jun 2022 19:48:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 21:48:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Meta公司正邀請研究人員挑剔其GPT-3版本中的缺陷
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31897101</link>
+            <guid>https://news.ycombinator.com/item?id=31897101</guid>
+            <pubDate>Mon, 27 Jun 2022 16:41:06 GMT</pubDate>
+            <description><![CDATA[Meta is inviting researchers to pick apart the flaws in its version of GPT-3]]></description>
+        </item>
+        <item>
+            <title><![CDATA[野生海龜衰老速度很慢，有些海龜基本上沒有衰老。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31881557</link>
+            <guid>https://news.ycombinator.com/item?id=31881557</guid>
+            <pubDate>Sun, 26 Jun 2022 06:14:07 GMT</pubDate>
+            <description><![CDATA[Wild turtles age slowly, and some basically don’t age at all]]></description>
+        </item>
+        <item>
+            <title><![CDATA[PRQL 0.2 - 一個更好的SQL
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31897430</link>
+            <guid>https://news.ycombinator.com/item?id=31897430</guid>
+            <pubDate>Mon, 27 Jun 2022 17:03:33 GMT</pubDate>
+            <description><![CDATA[Show HN: PRQL 0.2 – a better SQL]]></description>
+        </item>
         <item>
             <title><![CDATA[用ASCII藝術解釋代碼
 ]]></title>
@@ -4644,27 +4668,6 @@
             <guid>https://news.ycombinator.com/item?id=31072198</guid>
             <pubDate>Mon, 18 Apr 2022 15:41:59 GMT</pubDate>
             <description><![CDATA[Europe's now-drowned 'lost world' and the 25m-high tsunami that finished it off]]></description>
-        </item>
-        <item>
-            <title><![CDATA[衛星圖像行業仍然不知道客戶需要什麼]]></title>
-            <link>https://news.ycombinator.com/item?id=31074177</link>
-            <guid>https://news.ycombinator.com/item?id=31074177</guid>
-            <pubDate>Mon, 18 Apr 2022 17:56:57 GMT</pubDate>
-            <description><![CDATA[The satellite imagery industry still has no idea what customers want]]></description>
-        </item>
-        <item>
-            <title><![CDATA[六家公司控制了你所讀、所看、所聽的90%的內容]]></title>
-            <link>https://news.ycombinator.com/item?id=31077525</link>
-            <guid>https://news.ycombinator.com/item?id=31077525</guid>
-            <pubDate>Mon, 18 Apr 2022 22:35:32 GMT</pubDate>
-            <description><![CDATA[Six companies control 90% of what you read, watch, and hear]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英國政府官員感染飛馬病毒]]></title>
-            <link>https://news.ycombinator.com/item?id=31075558</link>
-            <guid>https://news.ycombinator.com/item?id=31075558</guid>
-            <pubDate>Mon, 18 Apr 2022 19:49:57 GMT</pubDate>
-            <description><![CDATA[UK Government Officials Infected with Pegasus]]></description>
         </item>
     </channel>
 </rss>
