@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-27T14:36:29.288Z</updated>
+    <updated>2022-06-27T14:50:19.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亞馬遜正在恐嚇和騷擾蒙特利爾的組織工人
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31891907</id>
+        <link href="https://news.ycombinator.com/item?id=31891907"/>
+        <updated>2022-06-27T08:23:09.000Z</updated>
+        <summary type="html"><![CDATA[Amazon is intimidating and harassing organizing workers in Montreal]]></summary>
+        <author>
+            <name>hubraumhugo</name>
+            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Outlook掃描進入收件箱的電子郵件，並將所有發現的URL發送至Bing
 ]]></title>
@@ -7047,17 +7059,6 @@
         <author>
             <name>elsewhen</name>
             <uri>https://news.ycombinator.com/user?id=elsewhen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利用Pegasus和Candiru對加泰羅尼亞人進行廣泛的僱傭軍間諜軟件行動]]></title>
-        <id>https://news.ycombinator.com/item?id=31069422</id>
-        <link href="https://news.ycombinator.com/item?id=31069422"/>
-        <updated>2022-04-18T11:36:03.000Z</updated>
-        <summary type="html"><![CDATA[Extensive Mercenary Spyware Operation Against Catalans Using Pegasus and Candiru]]></summary>
-        <author>
-            <name>jonbraun</name>
-            <uri>https://news.ycombinator.com/user?id=jonbraun</uri>
         </author>
     </entry>
 </feed>

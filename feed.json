@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31891907",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31891907",
+            "title": "亚马逊正在恐吓和骚扰蒙特利尔的组织工人\n",
+            "summary": "Amazon is intimidating and harassing organizing workers in Montreal",
+            "date_modified": "2022-06-27T08:23:09.000Z",
+            "author": {
+                "name": "hubraumhugo",
+                "url": "https://news.ycombinator.com/user?id=hubraumhugo"
+            },
+            "_original_headline": "Amazon is intimidating and harassing organizing workers in Montreal",
+            "_original_url": "https://jacobin.com/2022/06/amazon-workers-union-drive-intimidation-anti-labor-law-montreal-canada/",
+            "_sensitive": false,
+            "_score": 206
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31892299",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31892299",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.axios.com/spam-texts-calls-email-social-media-2af7cd73-6d7a-4f80-8026-1e5706cf3854.html",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31069422",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31069422",
-            "title": "利用Pegasus和Candiru对加泰罗尼亚人进行广泛的雇佣军间谍软件行动",
-            "summary": "Extensive Mercenary Spyware Operation Against Catalans Using Pegasus and Candiru",
-            "date_modified": "2022-04-18T11:36:03.000Z",
-            "author": {
-                "name": "jonbraun",
-                "url": "https://news.ycombinator.com/user?id=jonbraun"
-            },
-            "_original_headline": "Extensive Mercenary Spyware Operation Against Catalans Using Pegasus and Candiru",
-            "_original_url": "https://citizenlab.ca/2022/04/catalangate-extensive-mercenary-spyware-operation-against-catalans-using-pegasus-candiru/",
-            "_sensitive": false,
-            "_score": 256
         }
     ]
 }

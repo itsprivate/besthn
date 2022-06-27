@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 27 Jun 2022 14:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 14:50:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[亚马逊正在恐吓和骚扰蒙特利尔的组织工人
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31891907</link>
+            <guid>https://news.ycombinator.com/item?id=31891907</guid>
+            <pubDate>Mon, 27 Jun 2022 08:23:09 GMT</pubDate>
+            <description><![CDATA[Amazon is intimidating and harassing organizing workers in Montreal]]></description>
+        </item>
         <item>
             <title><![CDATA[Outlook扫描进入收件箱的电子邮件，并将所有发现的URL发送至Bing
 ]]></title>
@@ -4651,13 +4659,6 @@
             <guid>https://news.ycombinator.com/item?id=31070141</guid>
             <pubDate>Mon, 18 Apr 2022 13:18:03 GMT</pubDate>
             <description><![CDATA[Americans are drowning in spam]]></description>
-        </item>
-        <item>
-            <title><![CDATA[利用Pegasus和Candiru对加泰罗尼亚人进行广泛的雇佣军间谍软件行动]]></title>
-            <link>https://news.ycombinator.com/item?id=31069422</link>
-            <guid>https://news.ycombinator.com/item?id=31069422</guid>
-            <pubDate>Mon, 18 Apr 2022 11:36:03 GMT</pubDate>
-            <description><![CDATA[Extensive Mercenary Spyware Operation Against Catalans Using Pegasus and Candiru]]></description>
         </item>
     </channel>
 </rss>
