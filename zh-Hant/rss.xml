@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 27 Jun 2022 18:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 19:06:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[超級馬里奧兄弟的翹曲區的工作原理略有不同[視頻]
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31883621</link>
+            <guid>https://news.ycombinator.com/item?id=31883621</guid>
+            <pubDate>Sun, 26 Jun 2022 13:17:26 GMT</pubDate>
+            <description><![CDATA[Super Mario Bros warp zones were intended to work slightly differently [video]]]></description>
+        </item>
         <item>
             <title><![CDATA[三箭資本公司已經拖欠了一筆價值超過6.7億美元的貸款
 ]]></title>
@@ -4656,13 +4664,6 @@
             <guid>https://news.ycombinator.com/item?id=31072485</guid>
             <pubDate>Mon, 18 Apr 2022 16:00:09 GMT</pubDate>
             <description><![CDATA[BirdNET-Pi: Automated, locally run bird sound identification and tracking]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美國上訴法院重申網絡搜刮是合法的]]></title>
-            <link>https://news.ycombinator.com/item?id=31075396</link>
-            <guid>https://news.ycombinator.com/item?id=31075396</guid>
-            <pubDate>Mon, 18 Apr 2022 19:37:55 GMT</pubDate>
-            <description><![CDATA[Web scraping is legal, US appeals court reaffirms]]></description>
         </item>
     </channel>
 </rss>

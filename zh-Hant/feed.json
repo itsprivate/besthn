@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31883621",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31883621",
+            "title": "超級馬里奧兄弟的翹曲區的工作原理略有不同[視頻]\n",
+            "summary": "Super Mario Bros warp zones were intended to work slightly differently [video]",
+            "date_modified": "2022-06-26T13:17:26.000Z",
+            "author": {
+                "name": "raldi",
+                "url": "https://news.ycombinator.com/user?id=raldi"
+            },
+            "_original_headline": "Super Mario Bros warp zones were intended to work slightly differently [video]",
+            "_original_url": "https://www.youtube.com/watch?v=61m5MiyC17s",
+            "_sensitive": false,
+            "_score": 207
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31895820",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31895820",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://birdnetpi.com/",
             "_sensitive": false,
             "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31075396",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31075396",
-            "title": "美國上訴法院重申網絡搜刮是合法的",
-            "summary": "Web scraping is legal, US appeals court reaffirms",
-            "date_modified": "2022-04-18T19:37:55.000Z",
-            "author": {
-                "name": "spenvo",
-                "url": "https://news.ycombinator.com/user?id=spenvo"
-            },
-            "_original_headline": "Web scraping is legal, US appeals court reaffirms",
-            "_original_url": "https://techcrunch.com/2022/04/18/web-scraping-legal-court/",
-            "_sensitive": false,
-            "_score": 253
         }
     ]
 }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-27T18:46:04.670Z</updated>
+    <updated>2022-06-27T19:06:04.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[超级马里奥兄弟的翘曲区的工作原理略有不同[视频]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31883621</id>
+        <link href="https://news.ycombinator.com/item?id=31883621"/>
+        <updated>2022-06-26T13:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Super Mario Bros warp zones were intended to work slightly differently [video]]]></summary>
+        <author>
+            <name>raldi</name>
+            <uri>https://news.ycombinator.com/user?id=raldi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三箭资本公司已经拖欠了一笔价值超过6.7亿美元的贷款
 ]]></title>
@@ -7052,17 +7064,6 @@
         <author>
             <name>superkuh</name>
             <uri>https://news.ycombinator.com/user?id=superkuh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国上诉法院重申网络搜刮是合法的]]></title>
-        <id>https://news.ycombinator.com/item?id=31075396</id>
-        <link href="https://news.ycombinator.com/item?id=31075396"/>
-        <updated>2022-04-18T19:37:55.000Z</updated>
-        <summary type="html"><![CDATA[Web scraping is legal, US appeals court reaffirms]]></summary>
-        <author>
-            <name>spenvo</name>
-            <uri>https://news.ycombinator.com/user?id=spenvo</uri>
         </author>
     </entry>
 </feed>
