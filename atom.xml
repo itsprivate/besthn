@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-27T21:48:33.321Z</updated>
+    <updated>2022-06-27T22:48:05.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国为什么不能建造
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31890048</id>
+        <link href="https://news.ycombinator.com/item?id=31890048"/>
+        <updated>2022-06-27T02:41:55.000Z</updated>
+        <summary type="html"><![CDATA[Why America can’t build]]></summary>
+        <author>
+            <name>fra</name>
+            <uri>https://news.ycombinator.com/user?id=fra</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta公司正邀请研究人员挑剔其GPT-3版本中的缺陷
 ]]></title>
@@ -7057,17 +7069,6 @@
         <author>
             <name>thebiblelover7</name>
             <uri>https://news.ycombinator.com/user?id=thebiblelover7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧洲现在被淹没的 "失落的世界 "和导致其灭亡的25米高的海啸]]></title>
-        <id>https://news.ycombinator.com/item?id=31072198</id>
-        <link href="https://news.ycombinator.com/item?id=31072198"/>
-        <updated>2022-04-18T15:41:59.000Z</updated>
-        <summary type="html"><![CDATA[Europe's now-drowned 'lost world' and the 25m-high tsunami that finished it off]]></summary>
-        <author>
-            <name>bandibus</name>
-            <uri>https://news.ycombinator.com/user?id=bandibus</uri>
         </author>
     </entry>
 </feed>
