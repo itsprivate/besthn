@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 27 Jun 2022 02:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 10:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,46 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Python 3.11有什么新内容？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31888624</link>
+            <guid>https://news.ycombinator.com/item?id=31888624</guid>
+            <pubDate>Sun, 26 Jun 2022 22:14:59 GMT</pubDate>
+            <description><![CDATA[What's New in Python 3.11?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[DevOps是一种失败
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31887322</link>
+            <guid>https://news.ycombinator.com/item?id=31887322</guid>
+            <pubDate>Sun, 26 Jun 2022 19:50:48 GMT</pubDate>
+            <description><![CDATA[DevOps is a failure]]></description>
+        </item>
+        <item>
+            <title><![CDATA[闲置的CPU是做什么的？(2014)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31887202</link>
+            <guid>https://news.ycombinator.com/item?id=31887202</guid>
+            <pubDate>Sun, 26 Jun 2022 19:36:54 GMT</pubDate>
+            <description><![CDATA[What does an idle CPU do? (2014)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Reddit的衰落。为什么它迅速衰落到混乱之中
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31881238</link>
+            <guid>https://news.ycombinator.com/item?id=31881238</guid>
+            <pubDate>Sun, 26 Jun 2022 05:03:04 GMT</pubDate>
+            <description><![CDATA[The fall of Reddit: Why it’s quickly declining into chaos]]></description>
+        </item>
+        <item>
+            <title><![CDATA[精工电视表
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31874318</link>
+            <guid>https://news.ycombinator.com/item?id=31874318</guid>
+            <pubDate>Sat, 25 Jun 2022 11:20:29 GMT</pubDate>
+            <description><![CDATA[The Seiko TV watch]]></description>
+        </item>
         <item>
             <title><![CDATA[银翼杀手》四十岁时
 ]]></title>
@@ -4616,41 +4656,6 @@
             <guid>https://news.ycombinator.com/item?id=31068388</guid>
             <pubDate>Mon, 18 Apr 2022 07:57:35 GMT</pubDate>
             <description><![CDATA[Mental speed is high until age sixty]]></description>
-        </item>
-        <item>
-            <title><![CDATA[弗吉尼亚州警方经常使用秘密的GPS定位器来追踪人们的手机]]></title>
-            <link>https://news.ycombinator.com/item?id=31054432</link>
-            <guid>https://news.ycombinator.com/item?id=31054432</guid>
-            <pubDate>Sat, 16 Apr 2022 17:54:43 GMT</pubDate>
-            <description><![CDATA[Virginia police routinely use secret GPS pings to track people’s cell phones]]></description>
-        </item>
-        <item>
-            <title><![CDATA[假设你的设备已被破坏]]></title>
-            <link>https://news.ycombinator.com/item?id=31063702</link>
-            <guid>https://news.ycombinator.com/item?id=31063702</guid>
-            <pubDate>Sun, 17 Apr 2022 19:39:19 GMT</pubDate>
-            <description><![CDATA[Assume your devices are compromised]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Uber的泡沫]]></title>
-            <link>https://news.ycombinator.com/item?id=31064626</link>
-            <guid>https://news.ycombinator.com/item?id=31064626</guid>
-            <pubDate>Sun, 17 Apr 2022 21:21:27 GMT</pubDate>
-            <description><![CDATA[The Uber Bubble]]></description>
-        </item>
-        <item>
-            <title><![CDATA[三星电子的文化问题给晶圆厂、LSI、DRAM带来灾难]]></title>
-            <link>https://news.ycombinator.com/item?id=31064080</link>
-            <guid>https://news.ycombinator.com/item?id=31064080</guid>
-            <pubDate>Sun, 17 Apr 2022 20:19:58 GMT</pubDate>
-            <description><![CDATA[Samsung Electronics cultural issues causing disasters in foundry, LSI, DRAM]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Richard Stallman - 自由软件运动的现状]]></title>
-            <link>https://news.ycombinator.com/item?id=31065575</link>
-            <guid>https://news.ycombinator.com/item?id=31065575</guid>
-            <pubDate>Sun, 17 Apr 2022 23:31:41 GMT</pubDate>
-            <description><![CDATA[Richard Stallman – The state of the Free Software movement]]></description>
         </item>
     </channel>
 </rss>

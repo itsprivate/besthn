@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-27T02:25:16.679Z</updated>
+    <updated>2022-06-27T10:21:10.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Python 3.11有什麼新內容？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31888624</id>
+        <link href="https://news.ycombinator.com/item?id=31888624"/>
+        <updated>2022-06-26T22:14:59.000Z</updated>
+        <summary type="html"><![CDATA[What's New in Python 3.11?]]></summary>
+        <author>
+            <name>sanketsaurav</name>
+            <uri>https://news.ycombinator.com/user?id=sanketsaurav</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps是一種失敗
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31887322</id>
+        <link href="https://news.ycombinator.com/item?id=31887322"/>
+        <updated>2022-06-26T19:50:48.000Z</updated>
+        <summary type="html"><![CDATA[DevOps is a failure]]></summary>
+        <author>
+            <name>blopeur</name>
+            <uri>https://news.ycombinator.com/user?id=blopeur</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[閒置的CPU是做什麼的？(2014)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31887202</id>
+        <link href="https://news.ycombinator.com/item?id=31887202"/>
+        <updated>2022-06-26T19:36:54.000Z</updated>
+        <summary type="html"><![CDATA[What does an idle CPU do? (2014)]]></summary>
+        <author>
+            <name>ivanvas</name>
+            <uri>https://news.ycombinator.com/user?id=ivanvas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit的衰落。為什麼它迅速衰落到混亂之中
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31881238</id>
+        <link href="https://news.ycombinator.com/item?id=31881238"/>
+        <updated>2022-06-26T05:03:04.000Z</updated>
+        <summary type="html"><![CDATA[The fall of Reddit: Why it’s quickly declining into chaos]]></summary>
+        <author>
+            <name>ko3us</name>
+            <uri>https://news.ycombinator.com/user?id=ko3us</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[精工電視表
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31874318</id>
+        <link href="https://news.ycombinator.com/item?id=31874318"/>
+        <updated>2022-06-25T11:20:29.000Z</updated>
+        <summary type="html"><![CDATA[The Seiko TV watch]]></summary>
+        <author>
+            <name>jjjjjjjjjjjjjjj</name>
+            <uri>https://news.ycombinator.com/user?id=jjjjjjjjjjjjjjj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[銀翼殺手》四十歲時
 ]]></title>
@@ -6996,61 +7056,6 @@
         <author>
             <name>qw</name>
             <uri>https://news.ycombinator.com/user?id=qw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弗吉尼亞州警方經常使用秘密的GPS定位器來追蹤人們的手機]]></title>
-        <id>https://news.ycombinator.com/item?id=31054432</id>
-        <link href="https://news.ycombinator.com/item?id=31054432"/>
-        <updated>2022-04-16T17:54:43.000Z</updated>
-        <summary type="html"><![CDATA[Virginia police routinely use secret GPS pings to track people’s cell phones]]></summary>
-        <author>
-            <name>croh</name>
-            <uri>https://news.ycombinator.com/user?id=croh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[假設你的設備已被破壞]]></title>
-        <id>https://news.ycombinator.com/item?id=31063702</id>
-        <link href="https://news.ycombinator.com/item?id=31063702"/>
-        <updated>2022-04-17T19:39:19.000Z</updated>
-        <summary type="html"><![CDATA[Assume your devices are compromised]]></summary>
-        <author>
-            <name>_wldu</name>
-            <uri>https://news.ycombinator.com/user?id=_wldu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uber的泡沫]]></title>
-        <id>https://news.ycombinator.com/item?id=31064626</id>
-        <link href="https://news.ycombinator.com/item?id=31064626"/>
-        <updated>2022-04-17T21:21:27.000Z</updated>
-        <summary type="html"><![CDATA[The Uber Bubble]]></summary>
-        <author>
-            <name>maxerickson</name>
-            <uri>https://news.ycombinator.com/user?id=maxerickson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星電子的文化問題給晶圓廠、LSI、DRAM帶來災難]]></title>
-        <id>https://news.ycombinator.com/item?id=31064080</id>
-        <link href="https://news.ycombinator.com/item?id=31064080"/>
-        <updated>2022-04-17T20:19:58.000Z</updated>
-        <summary type="html"><![CDATA[Samsung Electronics cultural issues causing disasters in foundry, LSI, DRAM]]></summary>
-        <author>
-            <name>craigjb</name>
-            <uri>https://news.ycombinator.com/user?id=craigjb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Richard Stallman - 自由軟件運動的現狀]]></title>
-        <id>https://news.ycombinator.com/item?id=31065575</id>
-        <link href="https://news.ycombinator.com/item?id=31065575"/>
-        <updated>2022-04-17T23:31:41.000Z</updated>
-        <summary type="html"><![CDATA[Richard Stallman – The state of the Free Software movement]]></summary>
-        <author>
-            <name>WoodenChair</name>
-            <uri>https://news.ycombinator.com/user?id=WoodenChair</uri>
         </author>
     </entry>
 </feed>

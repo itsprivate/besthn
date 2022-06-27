@@ -11,6 +11,86 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31888624",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31888624",
+            "title": "Python 3.11有什麼新內容？\n",
+            "summary": "What's New in Python 3.11?",
+            "date_modified": "2022-06-26T22:14:59.000Z",
+            "author": {
+                "name": "sanketsaurav",
+                "url": "https://news.ycombinator.com/user?id=sanketsaurav"
+            },
+            "_original_headline": "What's New in Python 3.11?",
+            "_original_url": "https://deepsource.io/blog/python-3-11-whats-new/",
+            "_sensitive": false,
+            "_score": 212
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31887322",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31887322",
+            "title": "DevOps是一種失敗\n",
+            "summary": "DevOps is a failure",
+            "date_modified": "2022-06-26T19:50:48.000Z",
+            "author": {
+                "name": "blopeur",
+                "url": "https://news.ycombinator.com/user?id=blopeur"
+            },
+            "_original_headline": "DevOps is a failure",
+            "_original_url": "https://leebriggs.co.uk/blog/2022/06/21/devops-is-a-failure",
+            "_sensitive": false,
+            "_score": 229
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31887202",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31887202",
+            "title": "閒置的CPU是做什麼的？(2014)\n",
+            "summary": "What does an idle CPU do? (2014)",
+            "date_modified": "2022-06-26T19:36:54.000Z",
+            "author": {
+                "name": "ivanvas",
+                "url": "https://news.ycombinator.com/user?id=ivanvas"
+            },
+            "_original_headline": "What does an idle CPU do? (2014)",
+            "_original_url": "https://manybutfinite.com/post/what-does-an-idle-cpu-do/",
+            "_sensitive": false,
+            "_score": 281
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31881238",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31881238",
+            "title": "Reddit的衰落。為什麼它迅速衰落到混亂之中\n",
+            "summary": "The fall of Reddit: Why it’s quickly declining into chaos",
+            "date_modified": "2022-06-26T05:03:04.000Z",
+            "author": {
+                "name": "ko3us",
+                "url": "https://news.ycombinator.com/user?id=ko3us"
+            },
+            "_original_headline": "The fall of Reddit: Why it’s quickly declining into chaos",
+            "_original_url": "https://medium.com/yardcouch-com/the-fall-of-reddit-why-its-quickly-declining-into-chaos-cb0da61aca56",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31874318",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31874318",
+            "title": "精工電視表\n",
+            "summary": "The Seiko TV watch",
+            "date_modified": "2022-06-25T11:20:29.000Z",
+            "author": {
+                "name": "jjjjjjjjjjjjjjj",
+                "url": "https://news.ycombinator.com/user?id=jjjjjjjjjjjjjjj"
+            },
+            "_original_headline": "The Seiko TV watch",
+            "_original_url": "https://sabukaru.online/articles/the-watch-for-which-james-bond-gave-up-his-rolex-the-seiko-tv-watch",
+            "_sensitive": false,
+            "_score": 241
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31887748",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31887748",
@@ -9529,86 +9609,6 @@
             "_original_url": "https://www.nature.com/articles/s41562-021-01282-7",
             "_sensitive": false,
             "_score": 256
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31054432",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31054432",
-            "title": "弗吉尼亞州警方經常使用秘密的GPS定位器來追蹤人們的手機",
-            "summary": "Virginia police routinely use secret GPS pings to track people’s cell phones",
-            "date_modified": "2022-04-16T17:54:43.000Z",
-            "author": {
-                "name": "croh",
-                "url": "https://news.ycombinator.com/user?id=croh"
-            },
-            "_original_headline": "Virginia police routinely use secret GPS pings to track people’s cell phones",
-            "_original_url": "https://www.insidenova.com/headlines/virginia-police-routinely-use-secret-gps-pings-to-track-people-s-cell-phones/article_e9c5e028-bbd4-11ec-8934-ab3eea0e9aa5.html",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31063702",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31063702",
-            "title": "假設你的設備已被破壞",
-            "summary": "Assume your devices are compromised",
-            "date_modified": "2022-04-17T19:39:19.000Z",
-            "author": {
-                "name": "_wldu",
-                "url": "https://news.ycombinator.com/user?id=_wldu"
-            },
-            "_original_headline": "Assume your devices are compromised",
-            "_original_url": "https://www.go350.com/posts/digital-secrets/",
-            "_sensitive": false,
-            "_score": 253
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31064626",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31064626",
-            "title": "Uber的泡沫",
-            "summary": "The Uber Bubble",
-            "date_modified": "2022-04-17T21:21:27.000Z",
-            "author": {
-                "name": "maxerickson",
-                "url": "https://news.ycombinator.com/user?id=maxerickson"
-            },
-            "_original_headline": "The Uber Bubble",
-            "_original_url": "https://braveneweurope.com/hubert-horan-the-uber-bubble-why-is-a-company-that-lost-20-billion-claimed-to-be-successful",
-            "_sensitive": false,
-            "_score": 252
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31064080",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31064080",
-            "title": "三星電子的文化問題給晶圓廠、LSI、DRAM帶來災難",
-            "summary": "Samsung Electronics cultural issues causing disasters in foundry, LSI, DRAM",
-            "date_modified": "2022-04-17T20:19:58.000Z",
-            "author": {
-                "name": "craigjb",
-                "url": "https://news.ycombinator.com/user?id=craigjb"
-            },
-            "_original_headline": "Samsung Electronics cultural issues causing disasters in foundry, LSI, DRAM",
-            "_original_url": "https://semianalysis.substack.com/p/samsung-electronics-cultural-issues",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31065575",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31065575",
-            "title": "Richard Stallman - 自由軟件運動的現狀",
-            "summary": "Richard Stallman – The state of the Free Software movement",
-            "date_modified": "2022-04-17T23:31:41.000Z",
-            "author": {
-                "name": "WoodenChair",
-                "url": "https://news.ycombinator.com/user?id=WoodenChair"
-            },
-            "_original_headline": "Richard Stallman – The state of the Free Software movement",
-            "_original_url": "https://lunduke.substack.com/p/richard-stallman-the-state-of-the",
-            "_sensitive": false,
-            "_score": 252
         }
     ]
 }
