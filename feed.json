@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31894690",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31894690",
+            "title": "苹果公司的说法是，为了安全，它禁止使用其他浏览器\n",
+            "summary": "Apple's claim is that it bans other browsers for security",
+            "date_modified": "2022-06-27T14:00:05.000Z",
+            "author": {
+                "name": "mtomweb",
+                "url": "https://news.ycombinator.com/user?id=mtomweb"
+            },
+            "_original_headline": "Apple's claim is that it bans other browsers for security",
+            "_original_url": "https://twitter.com/OpenWebAdvocacy/status/1541318055636369409",
+            "_sensitive": false,
+            "_score": 205
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31893408",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31893408",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://eclecticlight.co/2022/04/18/m1-thunderbolt-ports-dont-fully-support-usb-3-1-gen-2/",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31072202",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31072202",
-            "title": "TurboTax对免费报税的斗争",
-            "summary": "TurboTax’s fight against free tax filing",
-            "date_modified": "2022-04-18T15:42:03.000Z",
-            "author": {
-                "name": "xweb",
-                "url": "https://news.ycombinator.com/user?id=xweb"
-            },
-            "_original_headline": "TurboTax’s fight against free tax filing",
-            "_original_url": "https://slate.com/technology/2022/04/turbotax-free-file-online-ftc.html",
-            "_sensitive": false,
-            "_score": 268
         }
     ]
 }
