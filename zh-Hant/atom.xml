@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-27T11:27:56.967Z</updated>
+    <updated>2022-06-27T14:36:29.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Outlook掃描進入收件箱的電子郵件，並將所有發現的URL發送至Bing
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31892299</id>
+        <link href="https://news.ycombinator.com/item?id=31892299"/>
+        <updated>2022-06-27T09:26:11.000Z</updated>
+        <summary type="html"><![CDATA[Outlook scans emails arriving in your inbox and sends all found URLs to Bing]]></summary>
+        <author>
+            <name>rsbadger</name>
+            <uri>https://news.ycombinator.com/user?id=rsbadger</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenSnitch是Little Snitch應用防火牆的一個GNU/Linux端口。
 ]]></title>
@@ -7046,17 +7058,6 @@
         <author>
             <name>jonbraun</name>
             <uri>https://news.ycombinator.com/user?id=jonbraun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cytopia: 開源的城市模擬器與像素藝術圖形]]></title>
-        <id>https://news.ycombinator.com/item?id=31066478</id>
-        <link href="https://news.ycombinator.com/item?id=31066478"/>
-        <updated>2022-04-18T01:54:15.000Z</updated>
-        <summary type="html"><![CDATA[Cytopia: Open-source city simulator with pixel-art graphics]]></summary>
-        <author>
-            <name>poser-boy</name>
-            <uri>https://news.ycombinator.com/user?id=poser-boy</uri>
         </author>
     </entry>
 </feed>

@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31892299",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31892299",
+            "title": "Outlook掃描進入收件箱的電子郵件，並將所有發現的URL發送至Bing\n",
+            "summary": "Outlook scans emails arriving in your inbox and sends all found URLs to Bing",
+            "date_modified": "2022-06-27T09:26:11.000Z",
+            "author": {
+                "name": "rsbadger",
+                "url": "https://news.ycombinator.com/user?id=rsbadger"
+            },
+            "_original_headline": "Outlook scans emails arriving in your inbox and sends all found URLs to Bing",
+            "_original_url": "https://medium.com/@ryanbadger/magic-links-can-end-up-in-bing-search-results-rendering-them-useless-37def0fae994",
+            "_sensitive": false,
+            "_score": 209
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31876220",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31876220",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://citizenlab.ca/2022/04/catalangate-extensive-mercenary-spyware-operation-against-catalans-using-pegasus-candiru/",
             "_sensitive": false,
             "_score": 256
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31066478",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31066478",
-            "title": "Cytopia: 開源的城市模擬器與像素藝術圖形",
-            "summary": "Cytopia: Open-source city simulator with pixel-art graphics",
-            "date_modified": "2022-04-18T01:54:15.000Z",
-            "author": {
-                "name": "poser-boy",
-                "url": "https://news.ycombinator.com/user?id=poser-boy"
-            },
-            "_original_headline": "Cytopia: Open-source city simulator with pixel-art graphics",
-            "_original_url": "https://github.com/CytopiaTeam/Cytopia",
-            "_sensitive": false,
-            "_score": 253
         }
     ]
 }
