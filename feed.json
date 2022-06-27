@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31876220",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31876220",
+            "title": "OpenSnitch是Little Snitch应用防火墙的一个GNU/Linux端口。\n",
+            "summary": "OpenSnitch is a GNU/Linux port of the Little Snitch application firewall",
+            "date_modified": "2022-06-25T15:51:33.000Z",
+            "author": {
+                "name": "btdmaster",
+                "url": "https://news.ycombinator.com/user?id=btdmaster"
+            },
+            "_original_headline": "OpenSnitch is a GNU/Linux port of the Little Snitch application firewall",
+            "_original_url": "https://github.com/evilsocket/opensnitch",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31888624",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31888624",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://github.com/CytopiaTeam/Cytopia",
             "_sensitive": false,
             "_score": 253
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31068388",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31068388",
-            "title": "六十岁之前，智力速度都很高",
-            "summary": "Mental speed is high until age sixty",
-            "date_modified": "2022-04-18T07:57:35.000Z",
-            "author": {
-                "name": "qw",
-                "url": "https://news.ycombinator.com/user?id=qw"
-            },
-            "_original_headline": "Mental speed is high until age sixty",
-            "_original_url": "https://www.nature.com/articles/s41562-021-01282-7",
-            "_sensitive": false,
-            "_score": 256
         }
     ]
 }

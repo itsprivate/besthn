@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-27T10:21:10.355Z</updated>
+    <updated>2022-06-27T11:27:56.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[OpenSnitch是Little Snitch應用防火牆的一個GNU/Linux端口。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31876220</id>
+        <link href="https://news.ycombinator.com/item?id=31876220"/>
+        <updated>2022-06-25T15:51:33.000Z</updated>
+        <summary type="html"><![CDATA[OpenSnitch is a GNU/Linux port of the Little Snitch application firewall]]></summary>
+        <author>
+            <name>btdmaster</name>
+            <uri>https://news.ycombinator.com/user?id=btdmaster</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python 3.11有什麼新內容？
 ]]></title>
@@ -7045,17 +7057,6 @@
         <author>
             <name>poser-boy</name>
             <uri>https://news.ycombinator.com/user?id=poser-boy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[六十歲之前，智力速度都很高]]></title>
-        <id>https://news.ycombinator.com/item?id=31068388</id>
-        <link href="https://news.ycombinator.com/item?id=31068388"/>
-        <updated>2022-04-18T07:57:35.000Z</updated>
-        <summary type="html"><![CDATA[Mental speed is high until age sixty]]></summary>
-        <author>
-            <name>qw</name>
-            <uri>https://news.ycombinator.com/user?id=qw</uri>
         </author>
     </entry>
 </feed>
