@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 26 Jun 2022 23:00:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 02:25:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[银翼杀手》四十岁时
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31887748</link>
+            <guid>https://news.ycombinator.com/item?id=31887748</guid>
+            <pubDate>Sun, 26 Jun 2022 20:42:53 GMT</pubDate>
+            <description><![CDATA[Blade Runner at forty]]></description>
+        </item>
+        <item>
+            <title><![CDATA[SQLite的道德准则
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31886687</link>
+            <guid>https://news.ycombinator.com/item?id=31886687</guid>
+            <pubDate>Sun, 26 Jun 2022 18:44:25 GMT</pubDate>
+            <description><![CDATA[The SQLite Code of Ethics]]></description>
+        </item>
         <item>
             <title><![CDATA[生命并不短暂
 ]]></title>
@@ -4635,20 +4651,6 @@
             <guid>https://news.ycombinator.com/item?id=31065575</guid>
             <pubDate>Sun, 17 Apr 2022 23:31:41 GMT</pubDate>
             <description><![CDATA[Richard Stallman – The state of the Free Software movement]]></description>
-        </item>
-        <item>
-            <title><![CDATA[虚幻与统一的意见]]></title>
-            <link>https://news.ycombinator.com/item?id=31064552</link>
-            <guid>https://news.ycombinator.com/item?id=31064552</guid>
-            <pubDate>Sun, 17 Apr 2022 21:10:10 GMT</pubDate>
-            <description><![CDATA[Unreal vs. Unity Opinion]]></description>
-        </item>
-        <item>
-            <title><![CDATA[宾夕法尼亚州推出 "点击取消 "立法]]></title>
-            <link>https://news.ycombinator.com/item?id=31066553</link>
-            <guid>https://news.ycombinator.com/item?id=31066553</guid>
-            <pubDate>Mon, 18 Apr 2022 02:10:31 GMT</pubDate>
-            <description><![CDATA[‘Click to Cancel’ legislation introduced in Pennsylvania]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-26T23:00:36.048Z</updated>
+    <updated>2022-06-27T02:25:16.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[銀翼殺手》四十歲時
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31887748</id>
+        <link href="https://news.ycombinator.com/item?id=31887748"/>
+        <updated>2022-06-26T20:42:53.000Z</updated>
+        <summary type="html"><![CDATA[Blade Runner at forty]]></summary>
+        <author>
+            <name>gumby</name>
+            <uri>https://news.ycombinator.com/user?id=gumby</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite的道德準則
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31886687</id>
+        <link href="https://news.ycombinator.com/item?id=31886687"/>
+        <updated>2022-06-26T18:44:25.000Z</updated>
+        <summary type="html"><![CDATA[The SQLite Code of Ethics]]></summary>
+        <author>
+            <name>zaksingh</name>
+            <uri>https://news.ycombinator.com/user?id=zaksingh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生命並不短暫
 ]]></title>
@@ -7027,28 +7051,6 @@
         <author>
             <name>WoodenChair</name>
             <uri>https://news.ycombinator.com/user?id=WoodenChair</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虛幻與統一的意見]]></title>
-        <id>https://news.ycombinator.com/item?id=31064552</id>
-        <link href="https://news.ycombinator.com/item?id=31064552"/>
-        <updated>2022-04-17T21:10:10.000Z</updated>
-        <summary type="html"><![CDATA[Unreal vs. Unity Opinion]]></summary>
-        <author>
-            <name>ibobev</name>
-            <uri>https://news.ycombinator.com/user?id=ibobev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[賓夕法尼亞州推出 "點擊取消 "立法]]></title>
-        <id>https://news.ycombinator.com/item?id=31066553</id>
-        <link href="https://news.ycombinator.com/item?id=31066553"/>
-        <updated>2022-04-18T02:10:31.000Z</updated>
-        <summary type="html"><![CDATA[‘Click to Cancel’ legislation introduced in Pennsylvania]]></summary>
-        <author>
-            <name>barlo</name>
-            <uri>https://news.ycombinator.com/user?id=barlo</uri>
         </author>
     </entry>
 </feed>
