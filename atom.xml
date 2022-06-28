@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-28T10:01:42.487Z</updated>
+    <updated>2022-06-28T10:53:35.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["雅达利是非常、非常困难的"--50年后诺兰-布什内尔谈雅达利
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31899775</id>
+        <link href="https://news.ycombinator.com/item?id=31899775"/>
+        <updated>2022-06-27T19:45:10.000Z</updated>
+        <summary type="html"><![CDATA[“Atari Was Very, Very Hard” – Nolan Bushnell on Atari, 50 Years Later]]></summary>
+        <author>
+            <name>bookofjoe</name>
+            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在速度上的tolower()的批量化
 ]]></title>
@@ -7067,17 +7079,6 @@
         <author>
             <name>hecanjog</name>
             <uri>https://news.ycombinator.com/user?id=hecanjog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我刚刚在GitHub赞助上达到10万美元/年（2020年）]]></title>
-        <id>https://news.ycombinator.com/item?id=31085385</id>
-        <link href="https://news.ycombinator.com/item?id=31085385"/>
-        <updated>2022-04-19T16:30:32.000Z</updated>
-        <summary type="html"><![CDATA[I Just Hit $100k/Yr on GitHub Sponsors (2020)]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
