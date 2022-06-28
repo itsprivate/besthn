@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-28T04:03:34.075Z</updated>
+    <updated>2022-06-28T05:37:31.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Kanopy - 用你的公共圖書館或大學卡播放電影
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31882374</id>
+        <link href="https://news.ycombinator.com/item?id=31882374"/>
+        <updated>2022-06-26T09:28:32.000Z</updated>
+        <summary type="html"><![CDATA[Kanopy – Stream films with your public library or university card]]></summary>
+        <author>
+            <name>philonoist</name>
+            <uri>https://news.ycombinator.com/user?id=philonoist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[流感疫苗接種與阿爾茨海默病風險降低40%有關
 ]]></title>
@@ -7060,17 +7072,6 @@
         <author>
             <name>diimdeep</name>
             <uri>https://news.ycombinator.com/user?id=diimdeep</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[指數級更好的輪換]]></title>
-        <id>https://news.ycombinator.com/item?id=31067525</id>
-        <link href="https://news.ycombinator.com/item?id=31067525"/>
-        <updated>2022-04-18T04:45:27.000Z</updated>
-        <summary type="html"><![CDATA[Exponentially Better Rotations]]></summary>
-        <author>
-            <name>signa11</name>
-            <uri>https://news.ycombinator.com/user?id=signa11</uri>
         </author>
     </entry>
 </feed>
