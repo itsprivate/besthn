@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 28 Jun 2022 20:50:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 22:33:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[万事达卡和签证是色情业的事实上的监管者
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31912763</link>
+            <guid>https://news.ycombinator.com/item?id=31912763</guid>
+            <pubDate>Tue, 28 Jun 2022 20:43:29 GMT</pubDate>
+            <description><![CDATA[Mastercard and visa are the de facto regulators of porn]]></description>
+        </item>
         <item>
             <title><![CDATA[告诉HN：我使用CloudFront和Lambda Edge对自己进行DDoS攻击，得到了4.5万美元的账单
 ]]></title>
@@ -4678,13 +4686,6 @@
             <guid>https://news.ycombinator.com/item?id=31064787</guid>
             <pubDate>Sun, 17 Apr 2022 21:46:48 GMT</pubDate>
             <description><![CDATA[Planting Undetectable Backdoors in Machine Learning Models]]></description>
-        </item>
-        <item>
-            <title><![CDATA[服务器端渲染的荒谬复杂性]]></title>
-            <link>https://news.ycombinator.com/item?id=31087795</link>
-            <guid>https://news.ycombinator.com/item?id=31087795</guid>
-            <pubDate>Tue, 19 Apr 2022 19:30:58 GMT</pubDate>
-            <description><![CDATA[The absurd complexity of server-side rendering]]></description>
         </item>
     </channel>
 </rss>

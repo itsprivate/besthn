@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-28T20:50:10.237Z</updated>
+    <updated>2022-06-28T22:33:18.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[万事达卡和签证是色情业的事实上的监管者
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31912763</id>
+        <link href="https://news.ycombinator.com/item?id=31912763"/>
+        <updated>2022-06-28T20:43:29.000Z</updated>
+        <summary type="html"><![CDATA[Mastercard and visa are the de facto regulators of porn]]></summary>
+        <author>
+            <name>notnice</name>
+            <uri>https://news.ycombinator.com/user?id=notnice</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告诉HN：我使用CloudFront和Lambda Edge对自己进行DDoS攻击，得到了4.5万美元的账单
 ]]></title>
@@ -7074,17 +7086,6 @@
         <author>
             <name>belter</name>
             <uri>https://news.ycombinator.com/user?id=belter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[服务器端渲染的荒谬复杂性]]></title>
-        <id>https://news.ycombinator.com/item?id=31087795</id>
-        <link href="https://news.ycombinator.com/item?id=31087795"/>
-        <updated>2022-04-19T19:30:58.000Z</updated>
-        <summary type="html"><![CDATA[The absurd complexity of server-side rendering]]></summary>
-        <author>
-            <name>takiwatanga</name>
-            <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
         </author>
     </entry>
 </feed>
