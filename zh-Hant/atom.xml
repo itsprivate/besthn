@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-28T15:53:35.337Z</updated>
+    <updated>2022-06-28T16:51:48.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Fresh是Deno的一個新的全棧網絡框架
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31908170</id>
+        <link href="https://news.ycombinator.com/item?id=31908170"/>
+        <updated>2022-06-28T14:32:02.000Z</updated>
+        <summary type="html"><![CDATA[Fresh is a new full stack web framework for Deno]]></summary>
+        <author>
+            <name>maeln</name>
+            <uri>https://news.ycombinator.com/user?id=maeln</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[工程師應該問，但不應該問的工作面試問題
 ]]></title>
@@ -7070,17 +7082,6 @@
         <author>
             <name>scubakid</name>
             <uri>https://news.ycombinator.com/user?id=scubakid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[秦始皇兵馬俑是中國歷史上最古老的兵馬俑之一，也是世界上最古老的兵馬俑之一，被譽為 "世界上最古老的兵馬俑"。]]></title>
-        <id>https://news.ycombinator.com/item?id=31087175</id>
-        <link href="https://news.ycombinator.com/item?id=31087175"/>
-        <updated>2022-04-19T18:43:03.000Z</updated>
-        <summary type="html"><![CDATA[HackerRank (YC S11) DMCA'ed the SymPy Docs]]></summary>
-        <author>
-            <name>kilovoltaire</name>
-            <uri>https://news.ycombinator.com/user?id=kilovoltaire</uri>
         </author>
     </entry>
 </feed>

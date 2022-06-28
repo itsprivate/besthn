@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 28 Jun 2022 15:53:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 16:51:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Fresh是Deno的一個新的全棧網絡框架
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31908170</link>
+            <guid>https://news.ycombinator.com/item?id=31908170</guid>
+            <pubDate>Tue, 28 Jun 2022 14:32:02 GMT</pubDate>
+            <description><![CDATA[Fresh is a new full stack web framework for Deno]]></description>
+        </item>
         <item>
             <title><![CDATA[工程師應該問，但不應該問的工作面試問題
 ]]></title>
@@ -4674,13 +4682,6 @@
             <guid>https://news.ycombinator.com/item?id=31083093</guid>
             <pubDate>Tue, 19 Apr 2022 13:52:15 GMT</pubDate>
             <description><![CDATA[Show HN: I built a simulator for personal finance]]></description>
-        </item>
-        <item>
-            <title><![CDATA[秦始皇兵馬俑是中國歷史上最古老的兵馬俑之一，也是世界上最古老的兵馬俑之一，被譽為 "世界上最古老的兵馬俑"。]]></title>
-            <link>https://news.ycombinator.com/item?id=31087175</link>
-            <guid>https://news.ycombinator.com/item?id=31087175</guid>
-            <pubDate>Tue, 19 Apr 2022 18:43:03 GMT</pubDate>
-            <description><![CDATA[HackerRank (YC S11) DMCA'ed the SymPy Docs]]></description>
         </item>
     </channel>
 </rss>
