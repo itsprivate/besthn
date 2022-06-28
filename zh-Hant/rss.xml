@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 28 Jun 2022 16:51:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 18:43:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[需要一定的組裝。一個平易近人的組裝介紹
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31909183</link>
+            <guid>https://news.ycombinator.com/item?id=31909183</guid>
+            <pubDate>Tue, 28 Jun 2022 15:42:42 GMT</pubDate>
+            <description><![CDATA[Some-assembly-required: An approachable introduction to assembly]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Fenix發佈兩年後，Firefox插件在安卓上仍不可用
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31905948</link>
+            <guid>https://news.ycombinator.com/item?id=31905948</guid>
+            <pubDate>Tue, 28 Jun 2022 10:02:17 GMT</pubDate>
+            <description><![CDATA[Firefox addons are still unavailable on Android, two years after Fenix release]]></description>
+        </item>
         <item>
             <title><![CDATA[Fresh是Deno的一個新的全棧網絡框架
 ]]></title>
@@ -4668,20 +4684,6 @@
             <guid>https://news.ycombinator.com/item?id=31086217</guid>
             <pubDate>Tue, 19 Apr 2022 17:36:29 GMT</pubDate>
             <description><![CDATA[WebAssembly 2.0 First Working Draft]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Emacs配置生成器]]></title>
-            <link>https://news.ycombinator.com/item?id=31083515</link>
-            <guid>https://news.ycombinator.com/item?id=31083515</guid>
-            <pubDate>Tue, 19 Apr 2022 14:20:56 GMT</pubDate>
-            <description><![CDATA[Show HN: Emacs Configuration Generator]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我為個人財務建立了一個模擬器]]></title>
-            <link>https://news.ycombinator.com/item?id=31083093</link>
-            <guid>https://news.ycombinator.com/item?id=31083093</guid>
-            <pubDate>Tue, 19 Apr 2022 13:52:15 GMT</pubDate>
-            <description><![CDATA[Show HN: I built a simulator for personal finance]]></description>
         </item>
     </channel>
 </rss>

@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31909183",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31909183",
+            "title": "需要一定的组装。一个平易近人的组装介绍\n",
+            "summary": "Some-assembly-required: An approachable introduction to assembly",
+            "date_modified": "2022-06-28T15:42:42.000Z",
+            "author": {
+                "name": "quackduck",
+                "url": "https://news.ycombinator.com/user?id=quackduck"
+            },
+            "_original_headline": "Some-assembly-required: An approachable introduction to assembly",
+            "_original_url": "https://github.com/hackclub/some-assembly-required",
+            "_sensitive": false,
+            "_score": 208
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31905948",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31905948",
+            "title": "Fenix发布两年后，Firefox插件在安卓上仍不可用\n",
+            "summary": "Firefox addons are still unavailable on Android, two years after Fenix release",
+            "date_modified": "2022-06-28T10:02:17.000Z",
+            "author": {
+                "name": "karlicoss",
+                "url": "https://news.ycombinator.com/user?id=karlicoss"
+            },
+            "_original_headline": "Firefox addons are still unavailable on Android, two years after Fenix release",
+            "_original_url": "https://discourse.mozilla.org/t/add-on-support-in-new-firefox-for-android/53488?page=8",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31908170",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31908170",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://www.w3.org/TR/wasm-core-2/",
             "_sensitive": false,
             "_score": 254
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31083515",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31083515",
-            "title": "Emacs配置生成器",
-            "summary": "Show HN: Emacs Configuration Generator",
-            "date_modified": "2022-04-19T14:20:56.000Z",
-            "author": {
-                "name": "daptaq",
-                "url": "https://news.ycombinator.com/user?id=daptaq"
-            },
-            "_original_headline": "Show HN: Emacs Configuration Generator",
-            "_original_url": "https://emacs.amodernist.com/",
-            "_sensitive": false,
-            "_score": 252
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31083093",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31083093",
-            "title": "我为个人财务建立了一个模拟器",
-            "summary": "Show HN: I built a simulator for personal finance",
-            "date_modified": "2022-04-19T13:52:15.000Z",
-            "author": {
-                "name": "scubakid",
-                "url": "https://news.ycombinator.com/user?id=scubakid"
-            },
-            "_original_headline": "Show HN: I built a simulator for personal finance",
-            "_original_url": "https://projectionlab.com",
-            "_sensitive": false,
-            "_score": 275
         }
     ]
 }

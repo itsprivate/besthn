@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-28T16:51:48.697Z</updated>
+    <updated>2022-06-28T18:43:39.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[需要一定的组装。一个平易近人的组装介绍
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31909183</id>
+        <link href="https://news.ycombinator.com/item?id=31909183"/>
+        <updated>2022-06-28T15:42:42.000Z</updated>
+        <summary type="html"><![CDATA[Some-assembly-required: An approachable introduction to assembly]]></summary>
+        <author>
+            <name>quackduck</name>
+            <uri>https://news.ycombinator.com/user?id=quackduck</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fenix发布两年后，Firefox插件在安卓上仍不可用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31905948</id>
+        <link href="https://news.ycombinator.com/item?id=31905948"/>
+        <updated>2022-06-28T10:02:17.000Z</updated>
+        <summary type="html"><![CDATA[Firefox addons are still unavailable on Android, two years after Fenix release]]></summary>
+        <author>
+            <name>karlicoss</name>
+            <uri>https://news.ycombinator.com/user?id=karlicoss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fresh是Deno的一个新的全栈网络框架
 ]]></title>
@@ -7060,28 +7084,6 @@
         <author>
             <name>syrusakbary</name>
             <uri>https://news.ycombinator.com/user?id=syrusakbary</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emacs配置生成器]]></title>
-        <id>https://news.ycombinator.com/item?id=31083515</id>
-        <link href="https://news.ycombinator.com/item?id=31083515"/>
-        <updated>2022-04-19T14:20:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Emacs Configuration Generator]]></summary>
-        <author>
-            <name>daptaq</name>
-            <uri>https://news.ycombinator.com/user?id=daptaq</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我为个人财务建立了一个模拟器]]></title>
-        <id>https://news.ycombinator.com/item?id=31083093</id>
-        <link href="https://news.ycombinator.com/item?id=31083093"/>
-        <updated>2022-04-19T13:52:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a simulator for personal finance]]></summary>
-        <author>
-            <name>scubakid</name>
-            <uri>https://news.ycombinator.com/user?id=scubakid</uri>
         </author>
     </entry>
 </feed>
