@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-28T22:33:18.776Z</updated>
+    <updated>2022-06-28T23:31:24.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[加州总检察长泄露枪支所有者的私人信息
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31910724</id>
+        <link href="https://news.ycombinator.com/item?id=31910724"/>
+        <updated>2022-06-28T17:45:30.000Z</updated>
+        <summary type="html"><![CDATA[Gun owners’ private information leaked by California Attorney General]]></summary>
+        <author>
+            <name>Acrobatic_Road</name>
+            <uri>https://news.ycombinator.com/user?id=Acrobatic_Road</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[万事达卡和签证是色情业的事实上的监管者
 ]]></title>
@@ -7075,17 +7087,6 @@
         <author>
             <name>pabs3</name>
             <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在机器学习模型中植入不可察觉的后门]]></title>
-        <id>https://news.ycombinator.com/item?id=31064787</id>
-        <link href="https://news.ycombinator.com/item?id=31064787"/>
-        <updated>2022-04-17T21:46:48.000Z</updated>
-        <summary type="html"><![CDATA[Planting Undetectable Backdoors in Machine Learning Models]]></summary>
-        <author>
-            <name>belter</name>
-            <uri>https://news.ycombinator.com/user?id=belter</uri>
         </author>
     </entry>
 </feed>
