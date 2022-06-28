@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31899781",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31899781",
+            "title": "流感疫苗接種與阿爾茨海默病風險降低40%有關\n",
+            "summary": "Flu vaccination linked to 40% reduced risk of Alzheimer’s disease",
+            "date_modified": "2022-06-27T19:45:25.000Z",
+            "author": {
+                "name": "cachecrab",
+                "url": "https://news.ycombinator.com/user?id=cachecrab"
+            },
+            "_original_headline": "Flu vaccination linked to 40% reduced risk of Alzheimer’s disease",
+            "_original_url": "https://www.uth.edu/news/story/uthealth-houston-study-flu-vaccination-linked-to-40-reduced-risk-of-alzheimers-disease",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31897530",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31897530",
+            "title": "用豆子、扁豆和彩色大米檢測未經授權的物理訪問\n",
+            "summary": "Detecting unauthorized physical access with beans, lentils and colored rice",
+            "date_modified": "2022-06-27T17:10:25.000Z",
+            "author": {
+                "name": "layer8",
+                "url": "https://news.ycombinator.com/user?id=layer8"
+            },
+            "_original_headline": "Detecting unauthorized physical access with beans, lentils and colored rice",
+            "_original_url": "https://dys2p.com/en/2021-12-tamper-evident-protection.html",
+            "_sensitive": false,
+            "_score": 209
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31890048",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31890048",
@@ -9575,38 +9607,6 @@
             },
             "_original_headline": "Exponentially Better Rotations",
             "_original_url": "https://thenumbat.github.io/Exponential-Rotations/",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31081417",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31081417",
-            "title": "加拿大禁止外國購房者兩年",
-            "summary": "Canada bans foreign home buyers for two years",
-            "date_modified": "2022-04-19T10:29:24.000Z",
-            "author": {
-                "name": "cwwc",
-                "url": "https://news.ycombinator.com/user?id=cwwc"
-            },
-            "_original_headline": "Canada bans foreign home buyers for two years",
-            "_original_url": "https://www.axios.com/canada-foreign-home-buyers-ban-589fdf10-844f-4160-afe0-e8452df92fa8.html",
-            "_sensitive": false,
-            "_score": 255
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31080518",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31080518",
-            "title": "Oggify: 直接從Spotify下載歌曲",
-            "summary": "Oggify: Download Songs Directly from Spotify",
-            "date_modified": "2022-04-19T07:36:36.000Z",
-            "author": {
-                "name": "thebiblelover7",
-                "url": "https://news.ycombinator.com/user?id=thebiblelover7"
-            },
-            "_original_headline": "Oggify: Download Songs Directly from Spotify",
-            "_original_url": "https://github.com/pisto/oggify",
             "_sensitive": false,
             "_score": 250
         }

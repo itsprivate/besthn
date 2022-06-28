@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-27T22:48:05.747Z</updated>
+    <updated>2022-06-28T04:03:34.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[流感疫苗接种与阿尔茨海默病风险降低40%有关
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31899781</id>
+        <link href="https://news.ycombinator.com/item?id=31899781"/>
+        <updated>2022-06-27T19:45:25.000Z</updated>
+        <summary type="html"><![CDATA[Flu vaccination linked to 40% reduced risk of Alzheimer’s disease]]></summary>
+        <author>
+            <name>cachecrab</name>
+            <uri>https://news.ycombinator.com/user?id=cachecrab</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用豆子、扁豆和彩色大米检测未经授权的物理访问
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31897530</id>
+        <link href="https://news.ycombinator.com/item?id=31897530"/>
+        <updated>2022-06-27T17:10:25.000Z</updated>
+        <summary type="html"><![CDATA[Detecting unauthorized physical access with beans, lentils and colored rice]]></summary>
+        <author>
+            <name>layer8</name>
+            <uri>https://news.ycombinator.com/user?id=layer8</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国为什么不能建造
 ]]></title>
@@ -7047,28 +7071,6 @@
         <author>
             <name>signa11</name>
             <uri>https://news.ycombinator.com/user?id=signa11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加拿大禁止外国购房者两年]]></title>
-        <id>https://news.ycombinator.com/item?id=31081417</id>
-        <link href="https://news.ycombinator.com/item?id=31081417"/>
-        <updated>2022-04-19T10:29:24.000Z</updated>
-        <summary type="html"><![CDATA[Canada bans foreign home buyers for two years]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oggify: 直接从Spotify下载歌曲]]></title>
-        <id>https://news.ycombinator.com/item?id=31080518</id>
-        <link href="https://news.ycombinator.com/item?id=31080518"/>
-        <updated>2022-04-19T07:36:36.000Z</updated>
-        <summary type="html"><![CDATA[Oggify: Download Songs Directly from Spotify]]></summary>
-        <author>
-            <name>thebiblelover7</name>
-            <uri>https://news.ycombinator.com/user?id=thebiblelover7</uri>
         </author>
     </entry>
 </feed>
