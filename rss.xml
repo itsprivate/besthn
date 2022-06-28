@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 28 Jun 2022 07:29:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 08:39:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[PocketReform是一款在柏林制造的Linux手持设备。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31903480</link>
+            <guid>https://news.ycombinator.com/item?id=31903480</guid>
+            <pubDate>Tue, 28 Jun 2022 02:36:22 GMT</pubDate>
+            <description><![CDATA[The PocketReform is a made-in-Berlin Linux handheld]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在技术面试中浪费时间
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31898454</link>
+            <guid>https://news.ycombinator.com/item?id=31898454</guid>
+            <pubDate>Mon, 27 Jun 2022 18:15:35 GMT</pubDate>
+            <description><![CDATA[Wasting time in tech interviews]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你的Kubernetes梦魇是什么？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31892384</link>
+            <guid>https://news.ycombinator.com/item?id=31892384</guid>
+            <pubDate>Mon, 27 Jun 2022 09:39:57 GMT</pubDate>
+            <description><![CDATA[Ask HN: What is your Kubernetes nightmare?]]></description>
+        </item>
         <item>
             <title><![CDATA[我把DALL-E Mini剥离到最基本的部分，并将其转换为火炬。
 ]]></title>
@@ -4653,27 +4677,6 @@
             <guid>https://news.ycombinator.com/item?id=31077047</guid>
             <pubDate>Mon, 18 Apr 2022 21:49:18 GMT</pubDate>
             <description><![CDATA[Introducing a16z START]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们如何升级我们的4TB Postgres数据库]]></title>
-            <link>https://news.ycombinator.com/item?id=31084147</link>
-            <guid>https://news.ycombinator.com/item?id=31084147</guid>
-            <pubDate>Tue, 19 Apr 2022 15:07:10 GMT</pubDate>
-            <description><![CDATA[How we upgraded our 4TB Postgres database]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌文档将 "警告你远离不恰当的词语"？]]></title>
-            <link>https://news.ycombinator.com/item?id=31086310</link>
-            <guid>https://news.ycombinator.com/item?id=31086310</guid>
-            <pubDate>Tue, 19 Apr 2022 17:43:20 GMT</pubDate>
-            <description><![CDATA[Google Docs will “warn you away from inappropriate words”?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[去掉AMP。剔除谷歌，增强隐私]]></title>
-            <link>https://news.ycombinator.com/item?id=31085051</link>
-            <guid>https://news.ycombinator.com/item?id=31085051</guid>
-            <pubDate>Tue, 19 Apr 2022 16:07:58 GMT</pubDate>
-            <description><![CDATA[De-AMP: Cutting out Google and enhancing privacy]]></description>
         </item>
     </channel>
 </rss>

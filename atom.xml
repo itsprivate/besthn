@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-28T07:29:01.114Z</updated>
+    <updated>2022-06-28T08:39:54.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PocketReform是一款在柏林制造的Linux手持设备。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31903480</id>
+        <link href="https://news.ycombinator.com/item?id=31903480"/>
+        <updated>2022-06-28T02:36:22.000Z</updated>
+        <summary type="html"><![CDATA[The PocketReform is a made-in-Berlin Linux handheld]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在技术面试中浪费时间
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31898454</id>
+        <link href="https://news.ycombinator.com/item?id=31898454"/>
+        <updated>2022-06-27T18:15:35.000Z</updated>
+        <summary type="html"><![CDATA[Wasting time in tech interviews]]></summary>
+        <author>
+            <name>carrozo</name>
+            <uri>https://news.ycombinator.com/user?id=carrozo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的Kubernetes梦魇是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31892384</id>
+        <link href="https://news.ycombinator.com/item?id=31892384"/>
+        <updated>2022-06-27T09:39:57.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is your Kubernetes nightmare?]]></summary>
+        <author>
+            <name>wg0</name>
+            <uri>https://news.ycombinator.com/user?id=wg0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我把DALL-E Mini剥离到最基本的部分，并将其转换为火炬。
 ]]></title>
@@ -7041,39 +7077,6 @@
         <author>
             <name>picture</name>
             <uri>https://news.ycombinator.com/user?id=picture</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们如何升级我们的4TB Postgres数据库]]></title>
-        <id>https://news.ycombinator.com/item?id=31084147</id>
-        <link href="https://news.ycombinator.com/item?id=31084147"/>
-        <updated>2022-04-19T15:07:10.000Z</updated>
-        <summary type="html"><![CDATA[How we upgraded our 4TB Postgres database]]></summary>
-        <author>
-            <name>mrbabbage</name>
-            <uri>https://news.ycombinator.com/user?id=mrbabbage</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌文档将 "警告你远离不恰当的词语"？]]></title>
-        <id>https://news.ycombinator.com/item?id=31086310</id>
-        <link href="https://news.ycombinator.com/item?id=31086310"/>
-        <updated>2022-04-19T17:43:20.000Z</updated>
-        <summary type="html"><![CDATA[Google Docs will “warn you away from inappropriate words”?]]></summary>
-        <author>
-            <name>memish</name>
-            <uri>https://news.ycombinator.com/user?id=memish</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去掉AMP。剔除谷歌，增强隐私]]></title>
-        <id>https://news.ycombinator.com/item?id=31085051</id>
-        <link href="https://news.ycombinator.com/item?id=31085051"/>
-        <updated>2022-04-19T16:07:58.000Z</updated>
-        <summary type="html"><![CDATA[De-AMP: Cutting out Google and enhancing privacy]]></summary>
-        <author>
-            <name>w0ts0n</name>
-            <uri>https://news.ycombinator.com/user?id=w0ts0n</uri>
         </author>
     </entry>
 </feed>
