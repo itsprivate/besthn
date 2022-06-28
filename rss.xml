@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 28 Jun 2022 14:34:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 15:53:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[工程师应该问，但不应该问的工作面试问题
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31906933</link>
+            <guid>https://news.ycombinator.com/item?id=31906933</guid>
+            <pubDate>Tue, 28 Jun 2022 12:45:43 GMT</pubDate>
+            <description><![CDATA[Job interview questions engineers should ask, but don't]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么中土世界没有工业革命？
 ]]></title>
@@ -4673,13 +4681,6 @@
             <guid>https://news.ycombinator.com/item?id=31087175</guid>
             <pubDate>Tue, 19 Apr 2022 18:43:03 GMT</pubDate>
             <description><![CDATA[HackerRank (YC S11) DMCA'ed the SymPy Docs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Netlify边缘功能。由Deno提供的新的无服务器运行时间]]></title>
-            <link>https://news.ycombinator.com/item?id=31084301</link>
-            <guid>https://news.ycombinator.com/item?id=31084301</guid>
-            <pubDate>Tue, 19 Apr 2022 15:18:06 GMT</pubDate>
-            <description><![CDATA[Netlify Edge Functions: A new serverless runtime powered by Deno]]></description>
         </item>
     </channel>
 </rss>

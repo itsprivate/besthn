@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-28T14:34:21.364Z</updated>
+    <updated>2022-06-28T15:53:35.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[工程师应该问，但不应该问的工作面试问题
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31906933</id>
+        <link href="https://news.ycombinator.com/item?id=31906933"/>
+        <updated>2022-06-28T12:45:43.000Z</updated>
+        <summary type="html"><![CDATA[Job interview questions engineers should ask, but don't]]></summary>
+        <author>
+            <name>james_impliu</name>
+            <uri>https://news.ycombinator.com/user?id=james_impliu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么中土世界没有工业革命？
 ]]></title>
@@ -7069,17 +7081,6 @@
         <author>
             <name>kilovoltaire</name>
             <uri>https://news.ycombinator.com/user?id=kilovoltaire</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netlify边缘功能。由Deno提供的新的无服务器运行时间]]></title>
-        <id>https://news.ycombinator.com/item?id=31084301</id>
-        <link href="https://news.ycombinator.com/item?id=31084301"/>
-        <updated>2022-04-19T15:18:06.000Z</updated>
-        <summary type="html"><![CDATA[Netlify Edge Functions: A new serverless runtime powered by Deno]]></summary>
-        <author>
-            <name>csmajorfive</name>
-            <uri>https://news.ycombinator.com/user?id=csmajorfive</uri>
         </author>
     </entry>
 </feed>
