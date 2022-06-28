@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-28T18:43:39.709Z</updated>
+    <updated>2022-06-28T20:50:10.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：我使用CloudFront和Lambda Edge对自己进行DDoS攻击，得到了4.5万美元的账单
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31907374</id>
+        <link href="https://news.ycombinator.com/item?id=31907374"/>
+        <updated>2022-06-28T13:23:44.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: I DDoSed myself using CloudFront and Lambda Edge and got a $4.5k bill]]></summary>
+        <author>
+            <name>huksley</name>
+            <uri>https://news.ycombinator.com/user?id=huksley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[需要一定的组装。一个平易近人的组装介绍
 ]]></title>
@@ -7073,17 +7085,6 @@
         <author>
             <name>takiwatanga</name>
             <uri>https://news.ycombinator.com/user?id=takiwatanga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebAssembly 2.0第一个工作草案]]></title>
-        <id>https://news.ycombinator.com/item?id=31086217</id>
-        <link href="https://news.ycombinator.com/item?id=31086217"/>
-        <updated>2022-04-19T17:36:29.000Z</updated>
-        <summary type="html"><![CDATA[WebAssembly 2.0 First Working Draft]]></summary>
-        <author>
-            <name>syrusakbary</name>
-            <uri>https://news.ycombinator.com/user?id=syrusakbary</uri>
         </author>
     </entry>
 </feed>

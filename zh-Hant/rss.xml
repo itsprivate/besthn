@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 28 Jun 2022 18:43:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 20:50:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[告訴HN：我使用CloudFront和Lambda Edge對自己進行DDoS攻擊，得到了4.5萬美元的賬單
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31907374</link>
+            <guid>https://news.ycombinator.com/item?id=31907374</guid>
+            <pubDate>Tue, 28 Jun 2022 13:23:44 GMT</pubDate>
+            <description><![CDATA[Tell HN: I DDoSed myself using CloudFront and Lambda Edge and got a $4.5k bill]]></description>
+        </item>
         <item>
             <title><![CDATA[需要一定的組裝。一個平易近人的組裝介紹
 ]]></title>
@@ -4677,13 +4685,6 @@
             <guid>https://news.ycombinator.com/item?id=31087795</guid>
             <pubDate>Tue, 19 Apr 2022 19:30:58 GMT</pubDate>
             <description><![CDATA[The absurd complexity of server-side rendering]]></description>
-        </item>
-        <item>
-            <title><![CDATA[WebAssembly 2.0第一個工作草案]]></title>
-            <link>https://news.ycombinator.com/item?id=31086217</link>
-            <guid>https://news.ycombinator.com/item?id=31086217</guid>
-            <pubDate>Tue, 19 Apr 2022 17:36:29 GMT</pubDate>
-            <description><![CDATA[WebAssembly 2.0 First Working Draft]]></description>
         </item>
     </channel>
 </rss>
