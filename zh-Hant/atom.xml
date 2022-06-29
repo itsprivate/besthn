@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-29T10:35:21.703Z</updated>
+    <updated>2022-06-29T11:28:09.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一箇中國女人寫了數百萬字的假維基百科歷史
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31915937</id>
+        <link href="https://news.ycombinator.com/item?id=31915937"/>
+        <updated>2022-06-29T02:54:51.000Z</updated>
+        <summary type="html"><![CDATA[A Chinese woman wrote millions of words of fake Wikipedia history]]></summary>
+        <author>
+            <name>Zuider</name>
+            <uri>https://news.ycombinator.com/user?id=Zuider</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[木材數據庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31912178</id>
+        <link href="https://news.ycombinator.com/item?id=31912178"/>
+        <updated>2022-06-28T19:49:45.000Z</updated>
+        <summary type="html"><![CDATA[The Wood Database]]></summary>
+        <author>
+            <name>sinab</name>
+            <uri>https://news.ycombinator.com/user?id=sinab</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitJournal。移動端首次實現與Git同步的Markdown筆記
 ]]></title>
@@ -7073,28 +7097,6 @@
         <author>
             <name>yodon</name>
             <uri>https://news.ycombinator.com/user?id=yodon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大修馬里奧64的代碼，以達到30FPS，並在N64上渲染6倍的速度[視頻]]]></title>
-        <id>https://news.ycombinator.com/item?id=31075622</id>
-        <link href="https://news.ycombinator.com/item?id=31075622"/>
-        <updated>2022-04-18T19:54:26.000Z</updated>
-        <summary type="html"><![CDATA[Overhauling Mario 64's code to reach 30 FPS and render 6x faster on N64 [video]]]></summary>
-        <author>
-            <name>kibwen</name>
-            <uri>https://news.ycombinator.com/user?id=kibwen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4歲的孩子可以獨自跑腿，而且不僅僅是在真人秀節目中]]></title>
-        <id>https://news.ycombinator.com/item?id=31097578</id>
-        <link href="https://news.ycombinator.com/item?id=31097578"/>
-        <updated>2022-04-20T14:36:12.000Z</updated>
-        <summary type="html"><![CDATA[A 4-year-old can run errands alone and not just on reality TV]]></summary>
-        <author>
-            <name>JTbane</name>
-            <uri>https://news.ycombinator.com/user?id=JTbane</uri>
         </author>
     </entry>
 </feed>
