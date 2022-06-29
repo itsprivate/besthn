@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 29 Jun 2022 13:55:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 14:06:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Forebruary是一个挂历，你不需要每年更换（2013）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31918019</link>
+            <guid>https://news.ycombinator.com/item?id=31918019</guid>
+            <pubDate>Wed, 29 Jun 2022 09:28:36 GMT</pubDate>
+            <description><![CDATA[Forebruary is a wall calendar that you do not need to replace every year (2013)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[这比你想象的更糟糕
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31916864</link>
+            <guid>https://news.ycombinator.com/item?id=31916864</guid>
+            <pubDate>Wed, 29 Jun 2022 05:41:32 GMT</pubDate>
+            <description><![CDATA[It's worse than you think]]></description>
+        </item>
         <item>
             <title><![CDATA[乐高凡尔登战役[视频]
 ]]></title>
@@ -4685,20 +4701,6 @@
             <guid>https://news.ycombinator.com/item?id=31104691</guid>
             <pubDate>Thu, 21 Apr 2022 00:14:32 GMT</pubDate>
             <description><![CDATA[A YouTuber Purposely Crashed His Plane in California, FAA Says]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你可能不需要AWS，没有它更好。]]></title>
-            <link>https://news.ycombinator.com/item?id=31101516</link>
-            <guid>https://news.ycombinator.com/item?id=31101516</guid>
-            <pubDate>Wed, 20 Apr 2022 19:09:29 GMT</pubDate>
-            <description><![CDATA[You probably don’t need AWS and are better off without it]]></description>
-        </item>
-        <item>
-            <title><![CDATA[加州电网在4月3日创造了97%的可再生能源电力记录]]></title>
-            <link>https://news.ycombinator.com/item?id=31103275</link>
-            <guid>https://news.ycombinator.com/item?id=31103275</guid>
-            <pubDate>Wed, 20 Apr 2022 21:30:16 GMT</pubDate>
-            <description><![CDATA[California grid set record of 97% renewable power on April 3]]></description>
         </item>
     </channel>
 </rss>
