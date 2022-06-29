@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31891067",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31891067",
+            "title": "光學傳聲器可以從遠處分離多個儀器\n",
+            "summary": "Optical microphone can separate multiple instruments from afar",
+            "date_modified": "2022-06-27T05:58:46.000Z",
+            "author": {
+                "name": "sohkamyung",
+                "url": "https://news.ycombinator.com/user?id=sohkamyung"
+            },
+            "_original_headline": "Optical microphone can separate multiple instruments from afar",
+            "_original_url": "https://newatlas.com/music/optical-microphone-sound/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31915937",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31915937",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://github.com/bloomberg/memray",
             "_sensitive": false,
             "_score": 260
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31099791",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31099791",
-            "title": "如果創始人像對待員工那樣對待投資者",
-            "summary": "If founders treated investors the way they treat employees",
-            "date_modified": "2022-04-20T16:55:01.000Z",
-            "author": {
-                "name": "yodon",
-                "url": "https://news.ycombinator.com/user?id=yodon"
-            },
-            "_original_headline": "If founders treated investors the way they treat employees",
-            "_original_url": "https://software.rajivprab.com/2020/08/18/if-founders-treated-their-investors-the-same-way-they-treated-their-employees/",
-            "_sensitive": false,
-            "_score": 262
         }
     ]
 }

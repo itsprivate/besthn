@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-29T11:28:09.764Z</updated>
+    <updated>2022-06-29T13:04:02.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[光学传声器可以从远处分离多个仪器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31891067</id>
+        <link href="https://news.ycombinator.com/item?id=31891067"/>
+        <updated>2022-06-27T05:58:46.000Z</updated>
+        <summary type="html"><![CDATA[Optical microphone can separate multiple instruments from afar]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个中国女人写了数百万字的假维基百科历史
 ]]></title>
@@ -7086,17 +7098,6 @@
         <author>
             <name>shcheklein</name>
             <uri>https://news.ycombinator.com/user?id=shcheklein</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果创始人像对待员工那样对待投资者]]></title>
-        <id>https://news.ycombinator.com/item?id=31099791</id>
-        <link href="https://news.ycombinator.com/item?id=31099791"/>
-        <updated>2022-04-20T16:55:01.000Z</updated>
-        <summary type="html"><![CDATA[If founders treated investors the way they treat employees]]></summary>
-        <author>
-            <name>yodon</name>
-            <uri>https://news.ycombinator.com/user?id=yodon</uri>
         </author>
     </entry>
 </feed>

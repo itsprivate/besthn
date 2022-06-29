@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 29 Jun 2022 11:28:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 13:04:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[光學傳聲器可以從遠處分離多個儀器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31891067</link>
+            <guid>https://news.ycombinator.com/item?id=31891067</guid>
+            <pubDate>Mon, 27 Jun 2022 05:58:46 GMT</pubDate>
+            <description><![CDATA[Optical microphone can separate multiple instruments from afar]]></description>
+        </item>
         <item>
             <title><![CDATA[一箇中國女人寫了數百萬字的假維基百科歷史
 ]]></title>
@@ -4690,13 +4698,6 @@
             <guid>https://news.ycombinator.com/item?id=31102089</guid>
             <pubDate>Wed, 20 Apr 2022 19:54:19 GMT</pubDate>
             <description><![CDATA[Memray: a memory profiler for Python]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果創始人像對待員工那樣對待投資者]]></title>
-            <link>https://news.ycombinator.com/item?id=31099791</link>
-            <guid>https://news.ycombinator.com/item?id=31099791</guid>
-            <pubDate>Wed, 20 Apr 2022 16:55:01 GMT</pubDate>
-            <description><![CDATA[If founders treated investors the way they treat employees]]></description>
         </item>
     </channel>
 </rss>
