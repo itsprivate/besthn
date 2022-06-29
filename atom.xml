@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-29T17:09:49.301Z</updated>
+    <updated>2022-06-29T19:47:43.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[欧盟委员会称无法找到与辉瑞公司CEO的信息
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31920941</id>
+        <link href="https://news.ycombinator.com/item?id=31920941"/>
+        <updated>2022-06-29T14:49:35.000Z</updated>
+        <summary type="html"><![CDATA[EU Commission says it cannot find messages with Pfizer CEO]]></summary>
+        <author>
+            <name>Markoff</name>
+            <uri>https://news.ycombinator.com/user?id=Markoff</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软击败苹果，以1400万美元收购PowerPoint（2016年）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31905741</id>
+        <link href="https://news.ycombinator.com/item?id=31905741"/>
+        <updated>2022-06-28T09:18:22.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft beat Apple to buy PowerPoint for $14M (2016)]]></summary>
+        <author>
+            <name>jasim</name>
+            <uri>https://news.ycombinator.com/user?id=jasim</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TikTok更新隐私政策，收集脸部指纹和声纹（2021年）
 ]]></title>
@@ -7081,28 +7105,6 @@
         <author>
             <name>19870213</name>
             <uri>https://news.ycombinator.com/user?id=19870213</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[市政宽带的不合理之争]]></title>
-        <id>https://news.ycombinator.com/item?id=31103133</id>
-        <link href="https://news.ycombinator.com/item?id=31103133"/>
-        <updated>2022-04-20T21:17:21.000Z</updated>
-        <summary type="html"><![CDATA[The unreasonable fight for municipal broadband]]></summary>
-        <author>
-            <name>thcipriani</name>
-            <uri>https://news.ycombinator.com/user?id=thcipriani</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go将在下一个版本中使用pdqsort]]></title>
-        <id>https://news.ycombinator.com/item?id=31106157</id>
-        <link href="https://news.ycombinator.com/item?id=31106157"/>
-        <updated>2022-04-21T05:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Go will use pdqsort in next release]]></summary>
-        <author>
-            <name>ngaut</name>
-            <uri>https://news.ycombinator.com/user?id=ngaut</uri>
         </author>
     </entry>
 </feed>

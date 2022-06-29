@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 29 Jun 2022 17:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 19:47:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[歐盟委員會稱無法找到與輝瑞公司CEO的信息
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31920941</link>
+            <guid>https://news.ycombinator.com/item?id=31920941</guid>
+            <pubDate>Wed, 29 Jun 2022 14:49:35 GMT</pubDate>
+            <description><![CDATA[EU Commission says it cannot find messages with Pfizer CEO]]></description>
+        </item>
+        <item>
+            <title><![CDATA[微軟擊敗蘋果，以1400萬美元收購PowerPoint（2016年）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31905741</link>
+            <guid>https://news.ycombinator.com/item?id=31905741</guid>
+            <pubDate>Tue, 28 Jun 2022 09:18:22 GMT</pubDate>
+            <description><![CDATA[Microsoft beat Apple to buy PowerPoint for $14M (2016)]]></description>
+        </item>
         <item>
             <title><![CDATA[TikTok更新隱私政策，收集臉部指紋和聲紋（2021年）
 ]]></title>
@@ -4689,20 +4705,6 @@
             <guid>https://news.ycombinator.com/item?id=31089216</guid>
             <pubDate>Tue, 19 Apr 2022 21:09:34 GMT</pubDate>
             <description><![CDATA[Psychic Signatures in Java]]></description>
-        </item>
-        <item>
-            <title><![CDATA[市政寬帶的不合理之爭]]></title>
-            <link>https://news.ycombinator.com/item?id=31103133</link>
-            <guid>https://news.ycombinator.com/item?id=31103133</guid>
-            <pubDate>Wed, 20 Apr 2022 21:17:21 GMT</pubDate>
-            <description><![CDATA[The unreasonable fight for municipal broadband]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Go將在下一個版本中使用pdqsort]]></title>
-            <link>https://news.ycombinator.com/item?id=31106157</link>
-            <guid>https://news.ycombinator.com/item?id=31106157</guid>
-            <pubDate>Thu, 21 Apr 2022 05:00:19 GMT</pubDate>
-            <description><![CDATA[Go will use pdqsort in next release]]></description>
         </item>
     </channel>
 </rss>
