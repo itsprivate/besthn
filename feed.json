@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31913057",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31913057",
+            "title": "机器学习的笔和纸练习\n",
+            "summary": "Pen and paper exercises in machine learning",
+            "date_modified": "2022-06-28T21:11:16.000Z",
+            "author": {
+                "name": "beefman",
+                "url": "https://news.ycombinator.com/user?id=beefman"
+            },
+            "_original_headline": "Pen and paper exercises in machine learning",
+            "_original_url": "https://arxiv.org/abs/2206.13446",
+            "_sensitive": false,
+            "_score": 214
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31914288",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31914288",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://danlark.org/2022/04/20/changing-stdsort-at-googles-scale-and-beyond/",
             "_sensitive": false,
             "_score": 254
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31094130",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31094130",
-            "title": "移植到Rust的Ruby YJIT",
-            "summary": "Ruby YJIT Ported to Rust",
-            "date_modified": "2022-04-20T08:18:30.000Z",
-            "author": {
-                "name": "the_duke",
-                "url": "https://news.ycombinator.com/user?id=the_duke"
-            },
-            "_original_headline": "Ruby YJIT Ported to Rust",
-            "_original_url": "https://github.com/ruby/ruby/pull/5826",
-            "_sensitive": false,
-            "_score": 251
         }
     ]
 }
