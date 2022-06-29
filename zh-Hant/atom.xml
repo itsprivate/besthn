@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-28T23:31:24.119Z</updated>
+    <updated>2022-06-29T02:39:42.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[雷鳥102發佈
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31914288</id>
+        <link href="https://news.ycombinator.com/item?id=31914288"/>
+        <updated>2022-06-28T23:09:02.000Z</updated>
+        <summary type="html"><![CDATA[Thunderbird 102 Released]]></summary>
+        <author>
+            <name>moojacob</name>
+            <uri>https://news.ycombinator.com/user?id=moojacob</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我按速度對新聞網站進行排名
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31910622</id>
+        <link href="https://news.ycombinator.com/item?id=31910622"/>
+        <updated>2022-06-28T17:35:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I ranked news websites by speed]]></summary>
+        <author>
+            <name>bradgessler</name>
+            <uri>https://news.ycombinator.com/user?id=bradgessler</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聯邦調查局。盜取的PII和深層假象被用於申請遠程技術工作
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31908874</id>
+        <link href="https://news.ycombinator.com/item?id=31908874"/>
+        <updated>2022-06-28T15:21:13.000Z</updated>
+        <summary type="html"><![CDATA[FBI: Stolen PII and deepfakes used to apply for remote tech jobs]]></summary>
+        <author>
+            <name>mikece</name>
+            <uri>https://news.ycombinator.com/user?id=mikece</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite還是PostgreSQL？這很複雜
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31908186</id>
+        <link href="https://news.ycombinator.com/item?id=31908186"/>
+        <updated>2022-06-28T14:33:14.000Z</updated>
+        <summary type="html"><![CDATA[SQLite or PostgreSQL? It's Complicated]]></summary>
+        <author>
+            <name>makaimc</name>
+            <uri>https://news.ycombinator.com/user?id=makaimc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國農業部無視低碳水化合物飲食的科學性
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31889785</id>
+        <link href="https://news.ycombinator.com/item?id=31889785"/>
+        <updated>2022-06-27T01:45:52.000Z</updated>
+        <summary type="html"><![CDATA[USDA ignoring the science on low-carb diets]]></summary>
+        <author>
+            <name>RelaxedTree</name>
+            <uri>https://news.ycombinator.com/user?id=RelaxedTree</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加州總檢察長洩露槍支所有者的私人信息
 ]]></title>
@@ -7032,61 +7092,6 @@
         <author>
             <name>the_duke</name>
             <uri>https://news.ycombinator.com/user?id=the_duke</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN用的Favicons]]></title>
-        <id>https://news.ycombinator.com/item?id=31095046</id>
-        <link href="https://news.ycombinator.com/item?id=31095046"/>
-        <updated>2022-04-20T10:52:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Favicons for HN]]></summary>
-        <author>
-            <name>frabert</name>
-            <uri>https://news.ycombinator.com/user?id=frabert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2千美元左右的軟件開發的好筆記本電腦是什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=31094361</id>
-        <link href="https://news.ycombinator.com/item?id=31094361"/>
-        <updated>2022-04-20T09:03:56.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What’s a good laptop for software development at around $2k?]]></summary>
-        <author>
-            <name>kellogs_aran</name>
-            <uri>https://news.ycombinator.com/user?id=kellogs_aran</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QEMU 7.0]]></title>
-        <id>https://news.ycombinator.com/item?id=31093564</id>
-        <link href="https://news.ycombinator.com/item?id=31093564"/>
-        <updated>2022-04-20T06:41:24.000Z</updated>
-        <summary type="html"><![CDATA[QEMU 7.0]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怎樣才能讓我的男朋友不再挖他的隧道？]]></title>
-        <id>https://news.ycombinator.com/item?id=31096994</id>
-        <link href="https://news.ycombinator.com/item?id=31096994"/>
-        <updated>2022-04-20T13:55:35.000Z</updated>
-        <summary type="html"><![CDATA[How can I get my boyfriend to stop digging his tunnel?]]></summary>
-        <author>
-            <name>throwaway284534</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway284534</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蝶變和固件]]></title>
-        <id>https://news.ycombinator.com/item?id=31079253</id>
-        <link href="https://news.ycombinator.com/item?id=31079253"/>
-        <updated>2022-04-19T02:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Debian and firmware]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>

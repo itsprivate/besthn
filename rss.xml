@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 28 Jun 2022 23:31:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 02:39:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,46 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[雷鸟102发布
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31914288</link>
+            <guid>https://news.ycombinator.com/item?id=31914288</guid>
+            <pubDate>Tue, 28 Jun 2022 23:09:02 GMT</pubDate>
+            <description><![CDATA[Thunderbird 102 Released]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我按速度对新闻网站进行排名
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31910622</link>
+            <guid>https://news.ycombinator.com/item?id=31910622</guid>
+            <pubDate>Tue, 28 Jun 2022 17:35:18 GMT</pubDate>
+            <description><![CDATA[Show HN: I ranked news websites by speed]]></description>
+        </item>
+        <item>
+            <title><![CDATA[联邦调查局。盗取的PII和深层假象被用于申请远程技术工作
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31908874</link>
+            <guid>https://news.ycombinator.com/item?id=31908874</guid>
+            <pubDate>Tue, 28 Jun 2022 15:21:13 GMT</pubDate>
+            <description><![CDATA[FBI: Stolen PII and deepfakes used to apply for remote tech jobs]]></description>
+        </item>
+        <item>
+            <title><![CDATA[SQLite还是PostgreSQL？这很复杂
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31908186</link>
+            <guid>https://news.ycombinator.com/item?id=31908186</guid>
+            <pubDate>Tue, 28 Jun 2022 14:33:14 GMT</pubDate>
+            <description><![CDATA[SQLite or PostgreSQL? It's Complicated]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美国农业部无视低碳水化合物饮食的科学性
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31889785</link>
+            <guid>https://news.ycombinator.com/item?id=31889785</guid>
+            <pubDate>Mon, 27 Jun 2022 01:45:52 GMT</pubDate>
+            <description><![CDATA[USDA ignoring the science on low-carb diets]]></description>
+        </item>
         <item>
             <title><![CDATA[加州总检察长泄露枪支所有者的私人信息
 ]]></title>
@@ -4652,41 +4692,6 @@
             <guid>https://news.ycombinator.com/item?id=31094130</guid>
             <pubDate>Wed, 20 Apr 2022 08:18:30 GMT</pubDate>
             <description><![CDATA[Ruby YJIT Ported to Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HN用的Favicons]]></title>
-            <link>https://news.ycombinator.com/item?id=31095046</link>
-            <guid>https://news.ycombinator.com/item?id=31095046</guid>
-            <pubDate>Wed, 20 Apr 2022 10:52:15 GMT</pubDate>
-            <description><![CDATA[Show HN: Favicons for HN]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2千美元左右的软件开发的好笔记本电脑是什么？]]></title>
-            <link>https://news.ycombinator.com/item?id=31094361</link>
-            <guid>https://news.ycombinator.com/item?id=31094361</guid>
-            <pubDate>Wed, 20 Apr 2022 09:03:56 GMT</pubDate>
-            <description><![CDATA[Ask HN: What’s a good laptop for software development at around $2k?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[QEMU 7.0]]></title>
-            <link>https://news.ycombinator.com/item?id=31093564</link>
-            <guid>https://news.ycombinator.com/item?id=31093564</guid>
-            <pubDate>Wed, 20 Apr 2022 06:41:24 GMT</pubDate>
-            <description><![CDATA[QEMU 7.0]]></description>
-        </item>
-        <item>
-            <title><![CDATA[怎样才能让我的男朋友不再挖他的隧道？]]></title>
-            <link>https://news.ycombinator.com/item?id=31096994</link>
-            <guid>https://news.ycombinator.com/item?id=31096994</guid>
-            <pubDate>Wed, 20 Apr 2022 13:55:35 GMT</pubDate>
-            <description><![CDATA[How can I get my boyfriend to stop digging his tunnel?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蝶变和固件]]></title>
-            <link>https://news.ycombinator.com/item?id=31079253</link>
-            <guid>https://news.ycombinator.com/item?id=31079253</guid>
-            <pubDate>Tue, 19 Apr 2022 02:34:00 GMT</pubDate>
-            <description><![CDATA[Debian and firmware]]></description>
         </item>
     </channel>
 </rss>
