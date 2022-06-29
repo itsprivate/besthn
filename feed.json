@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31920756",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31920756",
+            "title": "TikTok更新隐私政策，收集脸部指纹和声纹（2021年）\n",
+            "summary": "TikTok updated privacy policy to collect faceprints and voiceprints (2021)",
+            "date_modified": "2022-06-29T14:37:44.000Z",
+            "author": {
+                "name": "thesecretceo",
+                "url": "https://news.ycombinator.com/user?id=thesecretceo"
+            },
+            "_original_headline": "TikTok updated privacy policy to collect faceprints and voiceprints (2021)",
+            "_original_url": "https://www.pandasecurity.com/en/mediacenter/security/tiktok-privacy-faceprints/",
+            "_sensitive": false,
+            "_score": 241
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31918156",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31918156",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257",
             "_sensitive": false,
             "_score": 255
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31099655",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31099655",
-            "title": "你是那个混蛋吗？- 人工智能驱动的回答机器人",
-            "summary": "Are you the asshole? – AI powered answer bot",
-            "date_modified": "2022-04-20T16:45:00.000Z",
-            "author": {
-                "name": "davidcelis",
-                "url": "https://news.ycombinator.com/user?id=davidcelis"
-            },
-            "_original_headline": "Are you the asshole? – AI powered answer bot",
-            "_original_url": "https://areyoutheasshole.com/",
-            "_sensitive": false,
-            "_score": 252
         }
     ]
 }
