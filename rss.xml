@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 29 Jun 2022 14:06:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 16:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[人类不能像以前认为的那样忍受高温度和高湿度
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31918156</link>
+            <guid>https://news.ycombinator.com/item?id=31918156</guid>
+            <pubDate>Wed, 29 Jun 2022 09:54:42 GMT</pubDate>
+            <description><![CDATA[Humans can't endure temperatures and humidities as high as previously thought]]></description>
+        </item>
         <item>
             <title><![CDATA[Forebruary是一个挂历，你不需要每年更换（2013）。
 ]]></title>
@@ -4694,13 +4702,6 @@
             <guid>https://news.ycombinator.com/item?id=31099655</guid>
             <pubDate>Wed, 20 Apr 2022 16:45:00 GMT</pubDate>
             <description><![CDATA[Are you the asshole? – AI powered answer bot]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦航空局称，一名优酷网友故意在加州坠毁飞机]]></title>
-            <link>https://news.ycombinator.com/item?id=31104691</link>
-            <guid>https://news.ycombinator.com/item?id=31104691</guid>
-            <pubDate>Thu, 21 Apr 2022 00:14:32 GMT</pubDate>
-            <description><![CDATA[A YouTuber Purposely Crashed His Plane in California, FAA Says]]></description>
         </item>
     </channel>
 </rss>

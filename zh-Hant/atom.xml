@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-29T14:06:49.098Z</updated>
+    <updated>2022-06-29T16:19:01.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人類不能像以前認為的那樣忍受高溫度和高溼度
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31918156</id>
+        <link href="https://news.ycombinator.com/item?id=31918156"/>
+        <updated>2022-06-29T09:54:42.000Z</updated>
+        <summary type="html"><![CDATA[Humans can't endure temperatures and humidities as high as previously thought]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Forebruary是一個掛曆，你不需要每年更換（2013）。
 ]]></title>
@@ -7090,17 +7102,6 @@
         <author>
             <name>davidcelis</name>
             <uri>https://news.ycombinator.com/user?id=davidcelis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國聯邦航空局稱，一名優酷網友故意在加州墜毀飛機]]></title>
-        <id>https://news.ycombinator.com/item?id=31104691</id>
-        <link href="https://news.ycombinator.com/item?id=31104691"/>
-        <updated>2022-04-21T00:14:32.000Z</updated>
-        <summary type="html"><![CDATA[A YouTuber Purposely Crashed His Plane in California, FAA Says]]></summary>
-        <author>
-            <name>chrononaut</name>
-            <uri>https://news.ycombinator.com/user?id=chrononaut</uri>
         </author>
     </entry>
 </feed>
