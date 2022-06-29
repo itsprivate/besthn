@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-29T19:47:43.499Z</updated>
+    <updated>2022-06-29T20:33:01.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国联邦通信委员会委员要求将TikTok从应用商店中删除，因为他们担心间谍活动。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31923483</id>
+        <link href="https://news.ycombinator.com/item?id=31923483"/>
+        <updated>2022-06-29T17:49:51.000Z</updated>
+        <summary type="html"><![CDATA[FCC commissioner wants TikTok removed from app stores over spying concerns]]></summary>
+        <author>
+            <name>breitling</name>
+            <uri>https://news.ycombinator.com/user?id=breitling</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[肠道代谢物吲哚-3丙酸酯促进神经再生和修复
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31919881</id>
+        <link href="https://news.ycombinator.com/item?id=31919881"/>
+        <updated>2022-06-29T13:33:45.000Z</updated>
+        <summary type="html"><![CDATA[The gut metabolite indole-3 propionate promotes nerve regeneration and repair]]></summary>
+        <author>
+            <name>bookofjoe</name>
+            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧盟委员会称无法找到与辉瑞公司CEO的信息
 ]]></title>
@@ -7083,28 +7107,6 @@
         <author>
             <name>Aissen</name>
             <uri>https://news.ycombinator.com/user?id=Aissen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix 10多年来首次失去用户]]></title>
-        <id>https://news.ycombinator.com/item?id=31088353</id>
-        <link href="https://news.ycombinator.com/item?id=31088353"/>
-        <updated>2022-04-19T20:11:06.000Z</updated>
-        <summary type="html"><![CDATA[Netflix loses subscribers for the first time in 10+ years]]></summary>
-        <author>
-            <name>gordon_freeman</name>
-            <uri>https://news.ycombinator.com/user?id=gordon_freeman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java中的通灵签名]]></title>
-        <id>https://news.ycombinator.com/item?id=31089216</id>
-        <link href="https://news.ycombinator.com/item?id=31089216"/>
-        <updated>2022-04-19T21:09:34.000Z</updated>
-        <summary type="html"><![CDATA[Psychic Signatures in Java]]></summary>
-        <author>
-            <name>19870213</name>
-            <uri>https://news.ycombinator.com/user?id=19870213</uri>
         </author>
     </entry>
 </feed>

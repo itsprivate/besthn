@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31923483",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31923483",
+            "title": "美国联邦通信委员会委员要求将TikTok从应用商店中删除，因为他们担心间谍活动。\n",
+            "summary": "FCC commissioner wants TikTok removed from app stores over spying concerns",
+            "date_modified": "2022-06-29T17:49:51.000Z",
+            "author": {
+                "name": "breitling",
+                "url": "https://news.ycombinator.com/user?id=breitling"
+            },
+            "_original_headline": "FCC commissioner wants TikTok removed from app stores over spying concerns",
+            "_original_url": "https://www.cbc.ca/news/business/tiktok-fcc-1.6505269",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31919881",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31919881",
+            "title": "肠道代谢物吲哚-3丙酸酯促进神经再生和修复\n",
+            "summary": "The gut metabolite indole-3 propionate promotes nerve regeneration and repair",
+            "date_modified": "2022-06-29T13:33:45.000Z",
+            "author": {
+                "name": "bookofjoe",
+                "url": "https://news.ycombinator.com/user?id=bookofjoe"
+            },
+            "_original_headline": "The gut metabolite indole-3 propionate promotes nerve regeneration and repair",
+            "_original_url": "https://www.nature.com/articles/s41586-022-04884-x",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31920941",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31920941",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://webcolorisstillbroken.com/",
             "_sensitive": false,
             "_score": 264
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31088353",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31088353",
-            "title": "Netflix 10多年来首次失去用户",
-            "summary": "Netflix loses subscribers for the first time in 10+ years",
-            "date_modified": "2022-04-19T20:11:06.000Z",
-            "author": {
-                "name": "gordon_freeman",
-                "url": "https://news.ycombinator.com/user?id=gordon_freeman"
-            },
-            "_original_headline": "Netflix loses subscribers for the first time in 10+ years",
-            "_original_url": "https://www.cnbc.com/2022/04/19/netflix-nflx-earnings-q1-2022.html",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31089216",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31089216",
-            "title": "Java中的通灵签名",
-            "summary": "Psychic Signatures in Java",
-            "date_modified": "2022-04-19T21:09:34.000Z",
-            "author": {
-                "name": "19870213",
-                "url": "https://news.ycombinator.com/user?id=19870213"
-            },
-            "_original_headline": "Psychic Signatures in Java",
-            "_original_url": "https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/",
-            "_sensitive": false,
-            "_score": 253
         }
     ]
 }
