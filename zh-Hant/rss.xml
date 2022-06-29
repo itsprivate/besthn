@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 29 Jun 2022 06:35:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 10:35:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GitJournal。移動端首次實現與Git同步的Markdown筆記
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31914003</link>
+            <guid>https://news.ycombinator.com/item?id=31914003</guid>
+            <pubDate>Tue, 28 Jun 2022 22:38:50 GMT</pubDate>
+            <description><![CDATA[GitJournal: Mobile first Markdown notes synchronized with Git]]></description>
+        </item>
         <item>
             <title><![CDATA[個人貢獻者是如何被卡住的(2017)
 ]]></title>
@@ -4687,13 +4695,6 @@
             <guid>https://news.ycombinator.com/item?id=31097578</guid>
             <pubDate>Wed, 20 Apr 2022 14:36:12 GMT</pubDate>
             <description><![CDATA[A 4-year-old can run errands alone and not just on reality TV]]></description>
-        </item>
-        <item>
-            <title><![CDATA[吉多-範-羅素 讓Web3在一個燃燒的火球中死亡]]></title>
-            <link>https://news.ycombinator.com/item?id=31101082</link>
-            <guid>https://news.ycombinator.com/item?id=31101082</guid>
-            <pubDate>Wed, 20 Apr 2022 18:34:09 GMT</pubDate>
-            <description><![CDATA[Guido van Rossum: Let Web3 die in a flaming ball of fire]]></description>
         </item>
     </channel>
 </rss>
