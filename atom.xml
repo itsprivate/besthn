@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-29T13:04:02.298Z</updated>
+    <updated>2022-06-29T13:55:15.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[乐高凡尔登战役[视频]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31902665</id>
+        <link href="https://news.ycombinator.com/item?id=31902665"/>
+        <updated>2022-06-28T00:24:54.000Z</updated>
+        <summary type="html"><![CDATA[Lego Battle of Verdun [video]]]></summary>
+        <author>
+            <name>brudgers</name>
+            <uri>https://news.ycombinator.com/user?id=brudgers</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[光学传声器可以从远处分离多个仪器
 ]]></title>
@@ -7087,17 +7099,6 @@
         <author>
             <name>lizparody23</name>
             <uri>https://news.ycombinator.com/user?id=lizparody23</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memray：Python的内存分析器]]></title>
-        <id>https://news.ycombinator.com/item?id=31102089</id>
-        <link href="https://news.ycombinator.com/item?id=31102089"/>
-        <updated>2022-04-20T19:54:19.000Z</updated>
-        <summary type="html"><![CDATA[Memray: a memory profiler for Python]]></summary>
-        <author>
-            <name>shcheklein</name>
-            <uri>https://news.ycombinator.com/user?id=shcheklein</uri>
         </author>
     </entry>
 </feed>

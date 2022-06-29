@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 29 Jun 2022 13:04:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 13:55:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[樂高凡爾登戰役[視頻]
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31902665</link>
+            <guid>https://news.ycombinator.com/item?id=31902665</guid>
+            <pubDate>Tue, 28 Jun 2022 00:24:54 GMT</pubDate>
+            <description><![CDATA[Lego Battle of Verdun [video]]]></description>
+        </item>
         <item>
             <title><![CDATA[光學傳聲器可以從遠處分離多個儀器
 ]]></title>
@@ -4691,13 +4699,6 @@
             <guid>https://news.ycombinator.com/item?id=31103275</guid>
             <pubDate>Wed, 20 Apr 2022 21:30:16 GMT</pubDate>
             <description><![CDATA[California grid set record of 97% renewable power on April 3]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Memray：Python的內存分析器]]></title>
-            <link>https://news.ycombinator.com/item?id=31102089</link>
-            <guid>https://news.ycombinator.com/item?id=31102089</guid>
-            <pubDate>Wed, 20 Apr 2022 19:54:19 GMT</pubDate>
-            <description><![CDATA[Memray: a memory profiler for Python]]></description>
         </item>
     </channel>
 </rss>
