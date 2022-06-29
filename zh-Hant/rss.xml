@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 29 Jun 2022 04:58:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 06:35:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[個人貢獻者是如何被卡住的(2017)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31907688</link>
+            <guid>https://news.ycombinator.com/item?id=31907688</guid>
+            <pubDate>Tue, 28 Jun 2022 13:53:51 GMT</pubDate>
+            <description><![CDATA[How individual contributors get stuck (2017)]]></description>
+        </item>
         <item>
             <title><![CDATA[機器學習的筆和紙練習
 ]]></title>
@@ -4686,13 +4694,6 @@
             <guid>https://news.ycombinator.com/item?id=31101082</guid>
             <pubDate>Wed, 20 Apr 2022 18:34:09 GMT</pubDate>
             <description><![CDATA[Guido van Rossum: Let Web3 die in a flaming ball of fire]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在谷歌的規模和範圍內改變std:sort]]></title>
-            <link>https://news.ycombinator.com/item?id=31098822</link>
-            <guid>https://news.ycombinator.com/item?id=31098822</guid>
-            <pubDate>Wed, 20 Apr 2022 15:57:01 GMT</pubDate>
-            <description><![CDATA[Changing std:sort at Google’s scale and beyond]]></description>
         </item>
     </channel>
 </rss>
