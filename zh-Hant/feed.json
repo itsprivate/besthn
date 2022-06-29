@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31922682",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31922682",
+            "title": "蕁麻魔法項目。邊緣有條形碼的紙牌掃描器\n",
+            "summary": "The Nettle Magic Project: Scanner for decks of cards with bar codes on edges",
+            "date_modified": "2022-06-29T16:49:28.000Z",
+            "author": {
+                "name": "fortran77",
+                "url": "https://news.ycombinator.com/user?id=fortran77"
+            },
+            "_original_headline": "The Nettle Magic Project: Scanner for decks of cards with bar codes on edges",
+            "_original_url": "https://github.com/nettlep/magic",
+            "_sensitive": false,
+            "_score": 213
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31923483",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31923483",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://news.ycombinator.com/item?id=31099186",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31107643",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31107643",
-            "title": "網頁顏色仍然破損",
-            "summary": "Web color is still broken",
-            "date_modified": "2022-04-21T10:08:35.000Z",
-            "author": {
-                "name": "Aissen",
-                "url": "https://news.ycombinator.com/user?id=Aissen"
-            },
-            "_original_headline": "Web color is still broken",
-            "_original_url": "https://webcolorisstillbroken.com/",
-            "_sensitive": false,
-            "_score": 264
         }
     ]
 }

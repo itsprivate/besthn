@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 29 Jun 2022 20:33:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 20:50:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[荨麻魔法项目。边缘有条形码的纸牌扫描器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31922682</link>
+            <guid>https://news.ycombinator.com/item?id=31922682</guid>
+            <pubDate>Wed, 29 Jun 2022 16:49:28 GMT</pubDate>
+            <description><![CDATA[The Nettle Magic Project: Scanner for decks of cards with bar codes on edges]]></description>
+        </item>
         <item>
             <title><![CDATA[美国联邦通信委员会委员要求将TikTok从应用商店中删除，因为他们担心间谍活动。
 ]]></title>
@@ -4700,13 +4708,6 @@
             <guid>https://news.ycombinator.com/item?id=31099186</guid>
             <pubDate>Wed, 20 Apr 2022 16:16:41 GMT</pubDate>
             <description><![CDATA[Ask HN: Do you use an optimization solver? Which one? Do you like it?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[网页颜色仍然破损]]></title>
-            <link>https://news.ycombinator.com/item?id=31107643</link>
-            <guid>https://news.ycombinator.com/item?id=31107643</guid>
-            <pubDate>Thu, 21 Apr 2022 10:08:35 GMT</pubDate>
-            <description><![CDATA[Web color is still broken]]></description>
         </item>
     </channel>
 </rss>
