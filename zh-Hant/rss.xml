@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 30 Jun 2022 13:50:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 14:06:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我可以看看你的作弊表嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31928736</link>
+            <guid>https://news.ycombinator.com/item?id=31928736</guid>
+            <pubDate>Thu, 30 Jun 2022 04:32:59 GMT</pubDate>
+            <description><![CDATA[Ask HN: Can I see your cheatsheet?]]></description>
+        </item>
         <item>
             <title><![CDATA[瑞典電臺製造假藥房 揭示Facebook如何存儲敏感數據
 ]]></title>
@@ -4713,13 +4721,6 @@
             <guid>https://news.ycombinator.com/item?id=31114554</guid>
             <pubDate>Thu, 21 Apr 2022 20:05:35 GMT</pubDate>
             <description><![CDATA[Python’s “type hints” are a bit of a disappointment to me]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我放不下 "鄧寧-克魯格效應就是自相矛盾"]]></title>
-            <link>https://news.ycombinator.com/item?id=31115078</link>
-            <guid>https://news.ycombinator.com/item?id=31115078</guid>
-            <pubDate>Thu, 21 Apr 2022 20:56:49 GMT</pubDate>
-            <description><![CDATA[I can't let go of “The Dunning-Kruger Effect is Autocorrelation”]]></description>
         </item>
     </channel>
 </rss>
