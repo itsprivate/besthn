@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 30 Jun 2022 12:59:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 13:50:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[瑞典電臺製造假藥房 揭示Facebook如何存儲敏感數據
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31930008</link>
+            <guid>https://news.ycombinator.com/item?id=31930008</guid>
+            <pubDate>Thu, 30 Jun 2022 08:31:00 GMT</pubDate>
+            <description><![CDATA[Swedish Radio created fake pharmacy, reveals how Facebook stored sensitive data]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Raspberry Pi Pico W：你的6美元物聯網平臺
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31929451</link>
+            <guid>https://news.ycombinator.com/item?id=31929451</guid>
+            <pubDate>Thu, 30 Jun 2022 06:59:39 GMT</pubDate>
+            <description><![CDATA[Raspberry Pi Pico W: your $6 IoT platform]]></description>
+        </item>
         <item>
             <title><![CDATA[關於熱水是否比冷水凍結得更快的爭論仍在繼續
 ]]></title>
@@ -4704,20 +4720,6 @@
             <guid>https://news.ycombinator.com/item?id=31115078</guid>
             <pubDate>Thu, 21 Apr 2022 20:56:49 GMT</pubDate>
             <description><![CDATA[I can't let go of “The Dunning-Kruger Effect is Autocorrelation”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[最小的256x256單色PNG文件，以及你在哪裡見過它（2015年）]]></title>
-            <link>https://news.ycombinator.com/item?id=31115857</link>
-            <guid>https://news.ycombinator.com/item?id=31115857</guid>
-            <pubDate>Thu, 21 Apr 2022 22:17:38 GMT</pubDate>
-            <description><![CDATA[The smallest 256x256 single-color PNG file, and where you've seen it (2015)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美國的 "飛行航空母艦"--阿克倫號和梅肯號。]]></title>
-            <link>https://news.ycombinator.com/item?id=31112278</link>
-            <guid>https://news.ycombinator.com/item?id=31112278</guid>
-            <pubDate>Thu, 21 Apr 2022 17:14:24 GMT</pubDate>
-            <description><![CDATA[The U.S.S. Akron and U.S.S. Macon, America's “flying aircraft carriers”]]></description>
         </item>
     </channel>
 </rss>
