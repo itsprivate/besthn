@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 30 Jun 2022 04:53:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 05:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Shrugs.app - macOS的原生Slack客户端
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31926594</link>
+            <guid>https://news.ycombinator.com/item?id=31926594</guid>
+            <pubDate>Wed, 29 Jun 2022 22:43:10 GMT</pubDate>
+            <description><![CDATA[Shrugs.app – A native Slack client for macOS]]></description>
+        </item>
         <item>
             <title><![CDATA[我希望每个人都知道关于Git的事情（第一部分）。
 ]]></title>
@@ -4706,13 +4714,6 @@
             <guid>https://news.ycombinator.com/item?id=31084312</guid>
             <pubDate>Tue, 19 Apr 2022 15:19:09 GMT</pubDate>
             <description><![CDATA[How DALL-E 2 Works]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苹果停用macOS服务器]]></title>
-            <link>https://news.ycombinator.com/item?id=31112639</link>
-            <guid>https://news.ycombinator.com/item?id=31112639</guid>
-            <pubDate>Thu, 21 Apr 2022 17:37:34 GMT</pubDate>
-            <description><![CDATA[Apple Discontinues macOS Server]]></description>
         </item>
     </channel>
 </rss>
