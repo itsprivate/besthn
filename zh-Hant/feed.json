@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31926813",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31926813",
+            "title": "邁克羅夫特的《模仿者3\n",
+            "summary": "Mimic 3 by Mycroft",
+            "date_modified": "2022-06-29T23:03:50.000Z",
+            "author": {
+                "name": "Vinnl",
+                "url": "https://news.ycombinator.com/user?id=Vinnl"
+            },
+            "_original_headline": "Mimic 3 by Mycroft",
+            "_original_url": "https://mycroft.ai/blog/introducing-mimic-3/",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31924849",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31924849",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.wsj.com/articles/warner-bros-discovery-is-shutting-down-cnn-streaming-service-11650556680",
             "_sensitive": false,
             "_score": 253
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31109456",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31109456",
-            "title": "你需要什麼和絃？",
-            "summary": "What chords do you need?",
-            "date_modified": "2022-04-21T13:56:09.000Z",
-            "author": {
-                "name": "janvdberg",
-                "url": "https://news.ycombinator.com/user?id=janvdberg"
-            },
-            "_original_headline": "What chords do you need?",
-            "_original_url": "https://www.jefftk.com/p/what-chords-do-you-need",
-            "_sensitive": false,
-            "_score": 251
         }
     ]
 }

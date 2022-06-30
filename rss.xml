@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 30 Jun 2022 07:58:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 08:38:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[迈克罗夫特的《模仿者3
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31926813</link>
+            <guid>https://news.ycombinator.com/item?id=31926813</guid>
+            <pubDate>Wed, 29 Jun 2022 23:03:50 GMT</pubDate>
+            <description><![CDATA[Mimic 3 by Mycroft]]></description>
+        </item>
         <item>
             <title><![CDATA[线性地址空间。在任何速度下都不安全
 ]]></title>
@@ -4708,13 +4716,6 @@
             <guid>https://news.ycombinator.com/item?id=31111276</guid>
             <pubDate>Thu, 21 Apr 2022 16:04:39 GMT</pubDate>
             <description><![CDATA[CNN+ streaming service is shutting down a month after launching]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你需要什么和弦？]]></title>
-            <link>https://news.ycombinator.com/item?id=31109456</link>
-            <guid>https://news.ycombinator.com/item?id=31109456</guid>
-            <pubDate>Thu, 21 Apr 2022 13:56:09 GMT</pubDate>
-            <description><![CDATA[What chords do you need?]]></description>
         </item>
     </channel>
 </rss>
