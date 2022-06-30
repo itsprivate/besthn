@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 30 Jun 2022 05:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 07:58:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[線性地址空間。在任何速度下都不安全
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31924849</link>
+            <guid>https://news.ycombinator.com/item?id=31924849</guid>
+            <pubDate>Wed, 29 Jun 2022 19:45:00 GMT</pubDate>
+            <description><![CDATA[Linear Address Spaces: Unsafe at any speed]]></description>
+        </item>
         <item>
             <title><![CDATA[Shrugs.app - macOS的原生Slack客戶端
 ]]></title>
@@ -4707,13 +4715,6 @@
             <guid>https://news.ycombinator.com/item?id=31109456</guid>
             <pubDate>Thu, 21 Apr 2022 13:56:09 GMT</pubDate>
             <description><![CDATA[What chords do you need?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DALL-E 2如何運作]]></title>
-            <link>https://news.ycombinator.com/item?id=31084312</link>
-            <guid>https://news.ycombinator.com/item?id=31084312</guid>
-            <pubDate>Tue, 19 Apr 2022 15:19:09 GMT</pubDate>
-            <description><![CDATA[How DALL-E 2 Works]]></description>
         </item>
     </channel>
 </rss>

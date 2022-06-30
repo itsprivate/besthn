@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-30T05:33:44.935Z</updated>
+    <updated>2022-06-30T07:58:06.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[线性地址空间。在任何速度下都不安全
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31924849</id>
+        <link href="https://news.ycombinator.com/item?id=31924849"/>
+        <updated>2022-06-29T19:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Linear Address Spaces: Unsafe at any speed]]></summary>
+        <author>
+            <name>gbrown_</name>
+            <uri>https://news.ycombinator.com/user?id=gbrown_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shrugs.app - macOS的原生Slack客户端
 ]]></title>
@@ -7103,17 +7115,6 @@
         <author>
             <name>janvdberg</name>
             <uri>https://news.ycombinator.com/user?id=janvdberg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DALL-E 2如何运作]]></title>
-        <id>https://news.ycombinator.com/item?id=31084312</id>
-        <link href="https://news.ycombinator.com/item?id=31084312"/>
-        <updated>2022-04-19T15:19:09.000Z</updated>
-        <summary type="html"><![CDATA[How DALL-E 2 Works]]></summary>
-        <author>
-            <name>SleekEagle</name>
-            <uri>https://news.ycombinator.com/user?id=SleekEagle</uri>
         </author>
     </entry>
 </feed>
