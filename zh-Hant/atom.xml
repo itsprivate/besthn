@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-30T14:06:27.585Z</updated>
+    <updated>2022-06-30T16:49:52.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最高法院限制環保局的減排權力
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31932808</id>
+        <link href="https://news.ycombinator.com/item?id=31932808"/>
+        <updated>2022-06-30T14:31:45.000Z</updated>
+        <summary type="html"><![CDATA[Supreme Court limits EPA’s power to cut emissions]]></summary>
+        <author>
+            <name>ComputerGuru</name>
+            <uri>https://news.ycombinator.com/user?id=ComputerGuru</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[據報道，Coinbase正在向ICE出售地理位置數據
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31932349</id>
+        <link href="https://news.ycombinator.com/item?id=31932349"/>
+        <updated>2022-06-30T13:52:54.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase is reportedly selling geolocation data to ICE]]></summary>
+        <author>
+            <name>rukshn</name>
+            <uri>https://news.ycombinator.com/user?id=rukshn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[統一公司正在裁減數百名員工
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31930384</id>
+        <link href="https://news.ycombinator.com/item?id=31930384"/>
+        <updated>2022-06-30T09:39:56.000Z</updated>
+        <summary type="html"><![CDATA[Unity is laying off hundreds of employees]]></summary>
+        <author>
+            <name>pjmlp</name>
+            <uri>https://news.ycombinator.com/user?id=pjmlp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我可以看看你的作弊表嗎？
 ]]></title>
@@ -7088,39 +7124,6 @@
         <author>
             <name>dyingkneepad</name>
             <uri>https://news.ycombinator.com/user?id=dyingkneepad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postgres如何為查詢選擇使用的索引]]></title>
-        <id>https://news.ycombinator.com/item?id=31115492</id>
-        <link href="https://news.ycombinator.com/item?id=31115492"/>
-        <updated>2022-04-21T21:37:14.000Z</updated>
-        <summary type="html"><![CDATA[How Postgres chooses which index to use for a query]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互聯網公司找不到任何會阻止加州網絡中立性法律的法官]]></title>
-        <id>https://news.ycombinator.com/item?id=31114876</id>
-        <link href="https://news.ycombinator.com/item?id=31114876"/>
-        <updated>2022-04-21T20:38:50.000Z</updated>
-        <summary type="html"><![CDATA[ISPs can’t find any judges who will block California net neutrality law]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python的 "類型提示 "讓我感到有點失望]]></title>
-        <id>https://news.ycombinator.com/item?id=31114554</id>
-        <link href="https://news.ycombinator.com/item?id=31114554"/>
-        <updated>2022-04-21T20:05:35.000Z</updated>
-        <summary type="html"><![CDATA[Python’s “type hints” are a bit of a disappointment to me]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>

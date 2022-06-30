@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31932808",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31932808",
+            "title": "最高法院限制環保局的減排權力\n",
+            "summary": "Supreme Court limits EPA’s power to cut emissions",
+            "date_modified": "2022-06-30T14:31:45.000Z",
+            "author": {
+                "name": "ComputerGuru",
+                "url": "https://news.ycombinator.com/user?id=ComputerGuru"
+            },
+            "_original_headline": "Supreme Court limits EPA’s power to cut emissions",
+            "_original_url": "https://www.bbc.com/news/science-environment-62000742",
+            "_sensitive": false,
+            "_score": 238
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31932349",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31932349",
+            "title": "據報道，Coinbase正在向ICE出售地理位置數據\n",
+            "summary": "Coinbase is reportedly selling geolocation data to ICE",
+            "date_modified": "2022-06-30T13:52:54.000Z",
+            "author": {
+                "name": "rukshn",
+                "url": "https://news.ycombinator.com/user?id=rukshn"
+            },
+            "_original_headline": "Coinbase is reportedly selling geolocation data to ICE",
+            "_original_url": "https://www.coindesk.com/business/2022/06/29/coinbase-is-reportedly-selling-geo-location-data-to-ice/",
+            "_sensitive": false,
+            "_score": 233
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31930384",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31930384",
+            "title": "統一公司正在裁減數百名員工\n",
+            "summary": "Unity is laying off hundreds of employees",
+            "date_modified": "2022-06-30T09:39:56.000Z",
+            "author": {
+                "name": "pjmlp",
+                "url": "https://news.ycombinator.com/user?id=pjmlp"
+            },
+            "_original_headline": "Unity is laying off hundreds of employees",
+            "_original_url": "https://www.protocol.com/bulletins/unity-layoffs-game-engine",
+            "_sensitive": false,
+            "_score": 208
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31928736",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31928736",
@@ -9561,54 +9609,6 @@
             "_original_url": "https://news.ycombinator.com/item?id=31116861",
             "_sensitive": false,
             "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31115492",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31115492",
-            "title": "Postgres如何為查詢選擇使用的索引",
-            "summary": "How Postgres chooses which index to use for a query",
-            "date_modified": "2022-04-21T21:37:14.000Z",
-            "author": {
-                "name": "tosh",
-                "url": "https://news.ycombinator.com/user?id=tosh"
-            },
-            "_original_headline": "How Postgres chooses which index to use for a query",
-            "_original_url": "https://pganalyze.com/blog/how-postgres-chooses-index",
-            "_sensitive": false,
-            "_score": 253
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31114876",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31114876",
-            "title": "互聯網公司找不到任何會阻止加州網絡中立性法律的法官",
-            "summary": "ISPs can’t find any judges who will block California net neutrality law",
-            "date_modified": "2022-04-21T20:38:50.000Z",
-            "author": {
-                "name": "zdw",
-                "url": "https://news.ycombinator.com/user?id=zdw"
-            },
-            "_original_headline": "ISPs can’t find any judges who will block California net neutrality law",
-            "_original_url": "https://arstechnica.com/tech-policy/2022/04/isps-cant-find-any-judges-who-will-block-california-net-neutrality-law/",
-            "_sensitive": false,
-            "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31114554",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31114554",
-            "title": "Python的 \"類型提示 \"讓我感到有點失望",
-            "summary": "Python’s “type hints” are a bit of a disappointment to me",
-            "date_modified": "2022-04-21T20:05:35.000Z",
-            "author": {
-                "name": "zdw",
-                "url": "https://news.ycombinator.com/user?id=zdw"
-            },
-            "_original_headline": "Python’s “type hints” are a bit of a disappointment to me",
-            "_original_url": "https://www.uninformativ.de/blog/postings/2022-04-21/0/POSTING-en.html",
-            "_sensitive": false,
-            "_score": 253
         }
     ]
 }
