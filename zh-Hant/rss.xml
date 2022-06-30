@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 30 Jun 2022 11:59:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 12:59:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[關於熱水是否比冷水凍結得更快的爭論仍在繼續
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31927658</link>
+            <guid>https://news.ycombinator.com/item?id=31927658</guid>
+            <pubDate>Thu, 30 Jun 2022 01:12:28 GMT</pubDate>
+            <description><![CDATA[Controversy continues over whether hot water freezes faster than cold]]></description>
+        </item>
         <item>
             <title><![CDATA[阿特拉斯公司已經有20年的歷史，而且沒有盈利能力
 ]]></title>
@@ -4710,13 +4718,6 @@
             <guid>https://news.ycombinator.com/item?id=31112278</guid>
             <pubDate>Thu, 21 Apr 2022 17:14:24 GMT</pubDate>
             <description><![CDATA[The U.S.S. Akron and U.S.S. Macon, America's “flying aircraft carriers”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[參議員希望在全網強制推行反盜版技術]]></title>
-            <link>https://news.ycombinator.com/item?id=31109560</link>
-            <guid>https://news.ycombinator.com/item?id=31109560</guid>
-            <pubDate>Thu, 21 Apr 2022 14:04:32 GMT</pubDate>
-            <description><![CDATA[Senators want to mandate anti-piracy technology across the web]]></description>
         </item>
     </channel>
 </rss>

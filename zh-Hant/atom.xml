@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-30T11:59:45.173Z</updated>
+    <updated>2022-06-30T12:59:00.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於熱水是否比冷水凍結得更快的爭論仍在繼續
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31927658</id>
+        <link href="https://news.ycombinator.com/item?id=31927658"/>
+        <updated>2022-06-30T01:12:28.000Z</updated>
+        <summary type="html"><![CDATA[Controversy continues over whether hot water freezes faster than cold]]></summary>
+        <author>
+            <name>sohkamyung</name>
+            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿特拉斯公司已經有20年的歷史，而且沒有盈利能力
 ]]></title>
@@ -7106,17 +7118,6 @@
         <author>
             <name>ilamont</name>
             <uri>https://news.ycombinator.com/user?id=ilamont</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[參議員希望在全網強制推行反盜版技術]]></title>
-        <id>https://news.ycombinator.com/item?id=31109560</id>
-        <link href="https://news.ycombinator.com/item?id=31109560"/>
-        <updated>2022-04-21T14:04:32.000Z</updated>
-        <summary type="html"><![CDATA[Senators want to mandate anti-piracy technology across the web]]></summary>
-        <author>
-            <name>carride</name>
-            <uri>https://news.ycombinator.com/user?id=carride</uri>
         </author>
     </entry>
 </feed>

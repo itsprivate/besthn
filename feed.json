@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31927658",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31927658",
+            "title": "关于热水是否比冷水冻结得更快的争论仍在继续\n",
+            "summary": "Controversy continues over whether hot water freezes faster than cold",
+            "date_modified": "2022-06-30T01:12:28.000Z",
+            "author": {
+                "name": "sohkamyung",
+                "url": "https://news.ycombinator.com/user?id=sohkamyung"
+            },
+            "_original_headline": "Controversy continues over whether hot water freezes faster than cold",
+            "_original_url": "https://www.quantamagazine.org/does-hot-water-freeze-faster-than-cold-physicists-keep-asking-20220629/",
+            "_sensitive": false,
+            "_score": 213
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31929941",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31929941",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.airships.net/us-navy-rigid-airships/uss-akron-macon/",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31109560",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31109560",
-            "title": "参议员希望在全网强制推行反盗版技术",
-            "summary": "Senators want to mandate anti-piracy technology across the web",
-            "date_modified": "2022-04-21T14:04:32.000Z",
-            "author": {
-                "name": "carride",
-                "url": "https://news.ycombinator.com/user?id=carride"
-            },
-            "_original_headline": "Senators want to mandate anti-piracy technology across the web",
-            "_original_url": "https://arstechnica.com/tech-policy/2022/04/if-you-like-youtubes-copyright-takedown-process-youll-love-this-bill/",
-            "_sensitive": false,
-            "_score": 254
         }
     ]
 }
