@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 30 Jun 2022 02:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 04:00:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美国个人所得税计算器，从1970年到现在
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31925871</link>
+            <guid>https://news.ycombinator.com/item?id=31925871</guid>
+            <pubDate>Wed, 29 Jun 2022 21:22:27 GMT</pubDate>
+            <description><![CDATA[Show HN: Calculator for US individual income tax, from 1970-present]]></description>
+        </item>
         <item>
             <title><![CDATA[Reddit上的复合贬义词
 ]]></title>
@@ -4704,13 +4712,6 @@
             <guid>https://news.ycombinator.com/item?id=31109325</guid>
             <pubDate>Thu, 21 Apr 2022 13:47:15 GMT</pubDate>
             <description><![CDATA[TX-6 – Teenage Engineering]]></description>
-        </item>
-        <item>
-            <title><![CDATA[专栏--开发商的特许银行]]></title>
-            <link>https://news.ycombinator.com/item?id=31109170</link>
-            <guid>https://news.ycombinator.com/item?id=31109170</guid>
-            <pubDate>Thu, 21 Apr 2022 13:33:51 GMT</pubDate>
-            <description><![CDATA[Column – a chartered bank for developers]]></description>
         </item>
     </channel>
 </rss>
