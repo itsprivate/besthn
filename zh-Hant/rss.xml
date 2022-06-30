@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 30 Jun 2022 18:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 19:44:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Cell Lang: 為什麼又是一種編程語言？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31915925</link>
+            <guid>https://news.ycombinator.com/item?id=31915925</guid>
+            <pubDate>Wed, 29 Jun 2022 02:52:49 GMT</pubDate>
+            <description><![CDATA[Cell Lang: Why yet another programming language?]]></description>
+        </item>
         <item>
             <title><![CDATA[麻省理工學院的工程師們首次駕駛沒有移動部件的飛機 (2018)
 ]]></title>
@@ -4721,13 +4729,6 @@
             <guid>https://news.ycombinator.com/item?id=31113920</guid>
             <pubDate>Thu, 21 Apr 2022 19:09:37 GMT</pubDate>
             <description><![CDATA[Thatcher killed the UK’s superfast broadband before it even existed]]></description>
-        </item>
-        <item>
-            <title><![CDATA[網飛公司的底線正在跌落]]></title>
-            <link>https://news.ycombinator.com/item?id=31120094</link>
-            <guid>https://news.ycombinator.com/item?id=31120094</guid>
-            <pubDate>Fri, 22 Apr 2022 10:45:53 GMT</pubDate>
-            <description><![CDATA[The Bottom Is Dropping Out of Netflix]]></description>
         </item>
     </channel>
 </rss>
