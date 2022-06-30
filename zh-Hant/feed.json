@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31923429",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31923429",
+            "title": "我希望每個人都知道關於Git的事情（第一部分）。\n",
+            "summary": "Things I wish everyone knew about Git (Part I)",
+            "date_modified": "2022-06-29T17:46:27.000Z",
+            "author": {
+                "name": "Tomte",
+                "url": "https://news.ycombinator.com/user?id=Tomte"
+            },
+            "_original_headline": "Things I wish everyone knew about Git (Part I)",
+            "_original_url": "https://blog.plover.com/2022/06/29/#tips",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31925871",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31925871",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://support.apple.com/en-us/HT208312",
             "_sensitive": false,
             "_score": 259
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31109325",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31109325",
-            "title": "TX-6 - 青少年工程",
-            "summary": "TX-6 – Teenage Engineering",
-            "date_modified": "2022-04-21T13:47:15.000Z",
-            "author": {
-                "name": "yurivish",
-                "url": "https://news.ycombinator.com/user?id=yurivish"
-            },
-            "_original_headline": "TX-6 – Teenage Engineering",
-            "_original_url": "https://teenage.engineering/products/tx-6",
-            "_sensitive": false,
-            "_score": 256
         }
     ]
 }

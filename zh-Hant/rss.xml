@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 30 Jun 2022 04:00:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 04:53:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我希望每個人都知道關於Git的事情（第一部分）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31923429</link>
+            <guid>https://news.ycombinator.com/item?id=31923429</guid>
+            <pubDate>Wed, 29 Jun 2022 17:46:27 GMT</pubDate>
+            <description><![CDATA[Things I wish everyone knew about Git (Part I)]]></description>
+        </item>
         <item>
             <title><![CDATA[美國個人所得稅計算器，從1970年到現在
 ]]></title>
@@ -4705,13 +4713,6 @@
             <guid>https://news.ycombinator.com/item?id=31112639</guid>
             <pubDate>Thu, 21 Apr 2022 17:37:34 GMT</pubDate>
             <description><![CDATA[Apple Discontinues macOS Server]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TX-6 - 青少年工程]]></title>
-            <link>https://news.ycombinator.com/item?id=31109325</link>
-            <guid>https://news.ycombinator.com/item?id=31109325</guid>
-            <pubDate>Thu, 21 Apr 2022 13:47:15 GMT</pubDate>
-            <description><![CDATA[TX-6 – Teenage Engineering]]></description>
         </item>
     </channel>
 </rss>
