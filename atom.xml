@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-30T19:44:41.830Z</updated>
+    <updated>2022-06-30T20:33:15.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么没有更多的人使用喉振式麦克风？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31931887</id>
+        <link href="https://news.ycombinator.com/item?id=31931887"/>
+        <updated>2022-06-30T13:08:03.000Z</updated>
+        <summary type="html"><![CDATA[Why don't more people use throat mics?]]></summary>
+        <author>
+            <name>hardwaresofton</name>
+            <uri>https://news.ycombinator.com/user?id=hardwaresofton</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cell Lang: 为什么又是一种编程语言？
 ]]></title>
@@ -7118,17 +7130,6 @@
         <author>
             <name>mindcrime</name>
             <uri>https://news.ycombinator.com/user?id=mindcrime</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[撒切尔夫人在英国的超高速宽带还没有出现的时候就将其扼杀了]]></title>
-        <id>https://news.ycombinator.com/item?id=31113920</id>
-        <link href="https://news.ycombinator.com/item?id=31113920"/>
-        <updated>2022-04-21T19:09:37.000Z</updated>
-        <summary type="html"><![CDATA[Thatcher killed the UK’s superfast broadband before it even existed]]></summary>
-        <author>
-            <name>car_analogy</name>
-            <uri>https://news.ycombinator.com/user?id=car_analogy</uri>
         </author>
     </entry>
 </feed>

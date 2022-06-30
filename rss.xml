@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 30 Jun 2022 19:44:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 20:33:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么没有更多的人使用喉振式麦克风？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31931887</link>
+            <guid>https://news.ycombinator.com/item?id=31931887</guid>
+            <pubDate>Thu, 30 Jun 2022 13:08:03 GMT</pubDate>
+            <description><![CDATA[Why don't more people use throat mics?]]></description>
+        </item>
         <item>
             <title><![CDATA[Cell Lang: 为什么又是一种编程语言？
 ]]></title>
@@ -4722,13 +4730,6 @@
             <guid>https://news.ycombinator.com/item?id=31123683</guid>
             <pubDate>Fri, 22 Apr 2022 16:21:56 GMT</pubDate>
             <description><![CDATA[Algorithms for Decision Making [pdf]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[撒切尔夫人在英国的超高速宽带还没有出现的时候就将其扼杀了]]></title>
-            <link>https://news.ycombinator.com/item?id=31113920</link>
-            <guid>https://news.ycombinator.com/item?id=31113920</guid>
-            <pubDate>Thu, 21 Apr 2022 19:09:37 GMT</pubDate>
-            <description><![CDATA[Thatcher killed the UK’s superfast broadband before it even existed]]></description>
         </item>
     </channel>
 </rss>
