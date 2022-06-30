@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31921996",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31921996",
+            "title": "用Scratch（一种儿童可视化编程语言）编写的Linux内核模块\n",
+            "summary": "Linux Kernel Module written in Scratch (a visual programming language for kids)",
+            "date_modified": "2022-06-29T15:58:37.000Z",
+            "author": {
+                "name": "isp",
+                "url": "https://news.ycombinator.com/user?id=isp"
+            },
+            "_original_headline": "Linux Kernel Module written in Scratch (a visual programming language for kids)",
+            "_original_url": "https://lunduke.substack.com/p/a-linux-kernel-module-written-in",
+            "_sensitive": false,
+            "_score": 206
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31932808",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31932808",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://github.com/janestreet/magic-trace",
             "_sensitive": false,
             "_score": 261
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31116861",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31116861",
-            "title": "到处使用不同电子邮件的人，谁把你卖给了垃圾邮件发送者？",
-            "summary": "Ask HN: People who use different emails everywhere, who sold you to spammers?",
-            "date_modified": "2022-04-22T00:31:49.000Z",
-            "author": {
-                "name": "dyingkneepad",
-                "url": "https://news.ycombinator.com/user?id=dyingkneepad"
-            },
-            "_original_headline": "Ask HN: People who use different emails everywhere, who sold you to spammers?",
-            "_original_url": "https://news.ycombinator.com/item?id=31116861",
-            "_sensitive": false,
-            "_score": 251
         }
     ]
 }
