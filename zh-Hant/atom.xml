@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-06-29T20:50:33.146Z</updated>
+    <updated>2022-06-30T02:35:55.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Reddit上的複合貶義詞
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31924052</id>
+        <link href="https://news.ycombinator.com/item?id=31924052"/>
+        <updated>2022-06-29T18:36:57.000Z</updated>
+        <summary type="html"><![CDATA[Compound pejoratives on Reddit]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[當網絡比瀏覽器緩存快時（2020年）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31922762</id>
+        <link href="https://news.ycombinator.com/item?id=31922762"/>
+        <updated>2022-06-29T16:55:15.000Z</updated>
+        <summary type="html"><![CDATA[When network is faster than browser cache (2020)]]></summary>
+        <author>
+            <name>harporoeder</name>
+            <uri>https://news.ycombinator.com/user?id=harporoeder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[老鼠天堂還是老鼠地獄？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31905218</id>
+        <link href="https://news.ycombinator.com/item?id=31905218"/>
+        <updated>2022-06-28T07:45:29.000Z</updated>
+        <summary type="html"><![CDATA[Mouse Heaven or Mouse Hell?]]></summary>
+        <author>
+            <name>xvmt</name>
+            <uri>https://news.ycombinator.com/user?id=xvmt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蕁麻魔法項目。邊緣有條形碼的紙牌掃描器
 ]]></title>
@@ -7075,39 +7111,6 @@
         <author>
             <name>whockey</name>
             <uri>https://news.ycombinator.com/user?id=whockey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[馬斯克宣佈收購Twitter的資金已經到位]]></title>
-        <id>https://news.ycombinator.com/item?id=31109355</id>
-        <link href="https://news.ycombinator.com/item?id=31109355"/>
-        <updated>2022-04-21T13:49:34.000Z</updated>
-        <summary type="html"><![CDATA[Musk announces funding secured for Twitter buy]]></summary>
-        <author>
-            <name>coloneltcb</name>
-            <uri>https://news.ycombinator.com/user?id=coloneltcb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[把廢銅變成美麗的水晶]]></title>
-        <id>https://news.ycombinator.com/item?id=31105320</id>
-        <link href="https://news.ycombinator.com/item?id=31105320"/>
-        <updated>2022-04-21T02:04:41.000Z</updated>
-        <summary type="html"><![CDATA[Turning scrap copper into beautiful crystals]]></summary>
-        <author>
-            <name>jamesy0ung</name>
-            <uri>https://news.ycombinator.com/user?id=jamesy0ung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你使用優化求解器嗎？哪一個？你喜歡它嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=31099186</id>
-        <link href="https://news.ycombinator.com/item?id=31099186"/>
-        <updated>2022-04-20T16:16:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Do you use an optimization solver? Which one? Do you like it?]]></summary>
-        <author>
-            <name>ryan-nextmv</name>
-            <uri>https://news.ycombinator.com/user?id=ryan-nextmv</uri>
         </author>
     </entry>
 </feed>

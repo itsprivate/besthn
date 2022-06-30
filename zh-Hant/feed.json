@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31924052",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31924052",
+            "title": "Reddit上的複合貶義詞\n",
+            "summary": "Compound pejoratives on Reddit",
+            "date_modified": "2022-06-29T18:36:57.000Z",
+            "author": {
+                "name": "bryanrasmussen",
+                "url": "https://news.ycombinator.com/user?id=bryanrasmussen"
+            },
+            "_original_headline": "Compound pejoratives on Reddit",
+            "_original_url": "http://colinmorris.github.io/blog/compound-curse-words",
+            "_sensitive": false,
+            "_score": 225
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31922762",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31922762",
+            "title": "當網絡比瀏覽器緩存快時（2020年）。\n",
+            "summary": "When network is faster than browser cache (2020)",
+            "date_modified": "2022-06-29T16:55:15.000Z",
+            "author": {
+                "name": "harporoeder",
+                "url": "https://news.ycombinator.com/user?id=harporoeder"
+            },
+            "_original_headline": "When network is faster than browser cache (2020)",
+            "_original_url": "https://simonhearne.com/2020/network-faster-than-cache/",
+            "_sensitive": false,
+            "_score": 219
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31905218",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31905218",
+            "title": "老鼠天堂還是老鼠地獄？\n",
+            "summary": "Mouse Heaven or Mouse Hell?",
+            "date_modified": "2022-06-28T07:45:29.000Z",
+            "author": {
+                "name": "xvmt",
+                "url": "https://news.ycombinator.com/user?id=xvmt"
+            },
+            "_original_headline": "Mouse Heaven or Mouse Hell?",
+            "_original_url": "https://www.sciencehistory.org/distillations/mouse-heaven-or-mouse-hell",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31922682",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31922682",
@@ -9561,54 +9609,6 @@
             "_original_url": "https://column.com",
             "_sensitive": false,
             "_score": 256
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31109355",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31109355",
-            "title": "馬斯克宣佈收購Twitter的資金已經到位",
-            "summary": "Musk announces funding secured for Twitter buy",
-            "date_modified": "2022-04-21T13:49:34.000Z",
-            "author": {
-                "name": "coloneltcb",
-                "url": "https://news.ycombinator.com/user?id=coloneltcb"
-            },
-            "_original_headline": "Musk announces funding secured for Twitter buy",
-            "_original_url": "https://www.sec.gov/Archives/edgar/data/1418091/000110465922048128/tm2213229d1_sc13da.htm",
-            "_sensitive": false,
-            "_score": 257
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31105320",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31105320",
-            "title": "把廢銅變成美麗的水晶",
-            "summary": "Turning scrap copper into beautiful crystals",
-            "date_modified": "2022-04-21T02:04:41.000Z",
-            "author": {
-                "name": "jamesy0ung",
-                "url": "https://news.ycombinator.com/user?id=jamesy0ung"
-            },
-            "_original_headline": "Turning scrap copper into beautiful crystals",
-            "_original_url": "https://crystalverse.com/copper-acetate-crystals/",
-            "_sensitive": false,
-            "_score": 260
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31099186",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31099186",
-            "title": "你使用優化求解器嗎？哪一個？你喜歡它嗎？",
-            "summary": "Ask HN: Do you use an optimization solver? Which one? Do you like it?",
-            "date_modified": "2022-04-20T16:16:41.000Z",
-            "author": {
-                "name": "ryan-nextmv",
-                "url": "https://news.ycombinator.com/user?id=ryan-nextmv"
-            },
-            "_original_headline": "Ask HN: Do you use an optimization solver? Which one? Do you like it?",
-            "_original_url": "https://news.ycombinator.com/item?id=31099186",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }
