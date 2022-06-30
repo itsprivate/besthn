@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 30 Jun 2022 18:00:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 18:45:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[麻省理工学院的工程师们首次驾驶没有移动部件的飞机 (2018)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31932423</link>
+            <guid>https://news.ycombinator.com/item?id=31932423</guid>
+            <pubDate>Thu, 30 Jun 2022 13:59:20 GMT</pubDate>
+            <description><![CDATA[MIT engineers fly first-ever plane with no moving parts (2018)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[OpenBSD有两个新的C语言编译器：chibicc和kefir
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31930718</link>
+            <guid>https://news.ycombinator.com/item?id=31930718</guid>
+            <pubDate>Thu, 30 Jun 2022 10:37:59 GMT</pubDate>
+            <description><![CDATA[OpenBSD has two new C compilers: chibicc and kefir]]></description>
+        </item>
         <item>
             <title><![CDATA[放弃GitHub。时机已到
 ]]></title>
@@ -4712,20 +4728,6 @@
             <guid>https://news.ycombinator.com/item?id=31120094</guid>
             <pubDate>Fri, 22 Apr 2022 10:45:53 GMT</pubDate>
             <description><![CDATA[The Bottom Is Dropping Out of Netflix]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌的人工智能驱动的 "包容性警告 "功能非常糟糕]]></title>
-            <link>https://news.ycombinator.com/item?id=31123323</link>
-            <guid>https://news.ycombinator.com/item?id=31123323</guid>
-            <pubDate>Fri, 22 Apr 2022 15:59:53 GMT</pubDate>
-            <description><![CDATA[Google’s AI-powered ‘inclusive warnings’ feature is very broken]]></description>
-        </item>
-        <item>
-            <title><![CDATA[雇佣歧视：女性为主的职业中男性的问题]]></title>
-            <link>https://news.ycombinator.com/item?id=31123102</link>
-            <guid>https://news.ycombinator.com/item?id=31123102</guid>
-            <pubDate>Fri, 22 Apr 2022 15:46:53 GMT</pubDate>
-            <description><![CDATA[Hiring discrimination: a problem for men in female-dominated occupations]]></description>
         </item>
     </channel>
 </rss>

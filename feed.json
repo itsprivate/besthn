@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31932423",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31932423",
+            "title": "麻省理工学院的工程师们首次驾驶没有移动部件的飞机 (2018)\n",
+            "summary": "MIT engineers fly first-ever plane with no moving parts (2018)",
+            "date_modified": "2022-06-30T13:59:20.000Z",
+            "author": {
+                "name": "pen2l",
+                "url": "https://news.ycombinator.com/user?id=pen2l"
+            },
+            "_original_headline": "MIT engineers fly first-ever plane with no moving parts (2018)",
+            "_original_url": "https://news.mit.edu/2018/first-ionic-wind-plane-no-moving-parts-1121",
+            "_sensitive": false,
+            "_score": 221
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31930718",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31930718",
+            "title": "OpenBSD有两个新的C语言编译器：chibicc和kefir\n",
+            "summary": "OpenBSD has two new C compilers: chibicc and kefir",
+            "date_modified": "2022-06-30T10:37:59.000Z",
+            "author": {
+                "name": "hucste",
+                "url": "https://news.ycombinator.com/user?id=hucste"
+            },
+            "_original_headline": "OpenBSD has two new C compilers: chibicc and kefir",
+            "_original_url": "https://briancallahan.net/blog/20220629.html",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31932250",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31932250",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://www.pajiba.com/tv_reviews/the-bottom-is-dropping-out-of-netflix.php",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31123323",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31123323",
-            "title": "谷歌的人工智能驱动的 \"包容性警告 \"功能非常糟糕",
-            "summary": "Google’s AI-powered ‘inclusive warnings’ feature is very broken",
-            "date_modified": "2022-04-22T15:59:53.000Z",
-            "author": {
-                "name": "signor_bosco",
-                "url": "https://news.ycombinator.com/user?id=signor_bosco"
-            },
-            "_original_headline": "Google’s AI-powered ‘inclusive warnings’ feature is very broken",
-            "_original_url": "https://www.vice.com/en/article/v7dk8m/googles-ai-powered-inclusive-warnings-feature-is-very-broken",
-            "_sensitive": false,
-            "_score": 262
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31123102",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31123102",
-            "title": "雇佣歧视：女性为主的职业中男性的问题",
-            "summary": "Hiring discrimination: a problem for men in female-dominated occupations",
-            "date_modified": "2022-04-22T15:46:53.000Z",
-            "author": {
-                "name": "behnamoh",
-                "url": "https://news.ycombinator.com/user?id=behnamoh"
-            },
-            "_original_headline": "Hiring discrimination: a problem for men in female-dominated occupations",
-            "_original_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245513",
-            "_sensitive": false,
-            "_score": 263
         }
     ]
 }
