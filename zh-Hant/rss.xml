@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 01 Jul 2022 18:40:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 19:00:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[不遺漏任何冷媒
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31946390</link>
+            <guid>https://news.ycombinator.com/item?id=31946390</guid>
+            <pubDate>Fri, 01 Jul 2022 13:53:14 GMT</pubDate>
+            <description><![CDATA[No Refrigerant Left Behind]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美達公司削減招聘計劃，準備應對 "激烈的 "逆風
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31941777</link>
+            <guid>https://news.ycombinator.com/item?id=31941777</guid>
+            <pubDate>Fri, 01 Jul 2022 03:00:14 GMT</pubDate>
+            <description><![CDATA[Meta slashes hiring plans, girds for 'fierce' headwinds]]></description>
+        </item>
         <item>
             <title><![CDATA[科技界的裁員人數不斷堆積
 ]]></title>
@@ -4734,20 +4750,6 @@
             <guid>https://news.ycombinator.com/item?id=31145709</guid>
             <pubDate>Sun, 24 Apr 2022 16:40:13 GMT</pubDate>
             <description><![CDATA[10 years since Google said to “hang tight” about Linux support for Google Drive]]></description>
-        </item>
-        <item>
-            <title><![CDATA[法國戰鬥機歡樂之旅出了大問題 (2020)]]></title>
-            <link>https://news.ycombinator.com/item?id=31145266</link>
-            <guid>https://news.ycombinator.com/item?id=31145266</guid>
-            <pubDate>Sun, 24 Apr 2022 15:56:46 GMT</pubDate>
-            <description><![CDATA[French fighter jet joy ride goes très, très wrong (2020)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[文本化 - 構建文本用戶界面應用程序的框架]]></title>
-            <link>https://news.ycombinator.com/item?id=31143327</link>
-            <guid>https://news.ycombinator.com/item?id=31143327</guid>
-            <pubDate>Sun, 24 Apr 2022 12:15:36 GMT</pubDate>
-            <description><![CDATA[Textualize – A framework for building Text User Interface applications]]></description>
         </item>
     </channel>
 </rss>

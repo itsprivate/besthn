@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-01T18:40:25.097Z</updated>
+    <updated>2022-07-01T19:00:24.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不遗漏任何冷媒
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31946390</id>
+        <link href="https://news.ycombinator.com/item?id=31946390"/>
+        <updated>2022-07-01T13:53:14.000Z</updated>
+        <summary type="html"><![CDATA[No Refrigerant Left Behind]]></summary>
+        <author>
+            <name>exp1orer</name>
+            <uri>https://news.ycombinator.com/user?id=exp1orer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美达公司削减招聘计划，准备应对 "激烈的 "逆风
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31941777</id>
+        <link href="https://news.ycombinator.com/item?id=31941777"/>
+        <updated>2022-07-01T03:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Meta slashes hiring plans, girds for 'fierce' headwinds]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技界的裁员人数不断堆积
 ]]></title>
@@ -7126,28 +7150,6 @@
         <author>
             <name>politelemon</name>
             <uri>https://news.ycombinator.com/user?id=politelemon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法国战斗机欢乐之旅出了大问题 (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=31145266</id>
-        <link href="https://news.ycombinator.com/item?id=31145266"/>
-        <updated>2022-04-24T15:56:46.000Z</updated>
-        <summary type="html"><![CDATA[French fighter jet joy ride goes très, très wrong (2020)]]></summary>
-        <author>
-            <name>curmudgeon22</name>
-            <uri>https://news.ycombinator.com/user?id=curmudgeon22</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文本化 - 构建文本用户界面应用程序的框架]]></title>
-        <id>https://news.ycombinator.com/item?id=31143327</id>
-        <link href="https://news.ycombinator.com/item?id=31143327"/>
-        <updated>2022-04-24T12:15:36.000Z</updated>
-        <summary type="html"><![CDATA[Textualize – A framework for building Text User Interface applications]]></summary>
-        <author>
-            <name>wey-gu</name>
-            <uri>https://news.ycombinator.com/user?id=wey-gu</uri>
         </author>
     </entry>
 </feed>
