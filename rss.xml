@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 01 Jul 2022 19:00:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 19:31:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谁在招聘？(2022年7月)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31947297</link>
+            <guid>https://news.ycombinator.com/item?id=31947297</guid>
+            <pubDate>Fri, 01 Jul 2022 15:00:14 GMT</pubDate>
+            <description><![CDATA[Ask HN: Who is hiring? (July 2022)]]></description>
+        </item>
         <item>
             <title><![CDATA[不遗漏任何冷媒
 ]]></title>
@@ -4743,13 +4751,6 @@
             <guid>https://news.ycombinator.com/item?id=31142959</guid>
             <pubDate>Sun, 24 Apr 2022 11:12:26 GMT</pubDate>
             <description><![CDATA[The afterlife of used hotel soap]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌称对谷歌硬盘的Linux支持要 "抓紧 "10年了]]></title>
-            <link>https://news.ycombinator.com/item?id=31145709</link>
-            <guid>https://news.ycombinator.com/item?id=31145709</guid>
-            <pubDate>Sun, 24 Apr 2022 16:40:13 GMT</pubDate>
-            <description><![CDATA[10 years since Google said to “hang tight” about Linux support for Google Drive]]></description>
         </item>
     </channel>
 </rss>
