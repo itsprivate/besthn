@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-01T07:30:31.151Z</updated>
+    <updated>2022-07-01T09:29:58.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[罗技MX产品与AirPods不兼容
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31939424</id>
+        <link href="https://news.ycombinator.com/item?id=31939424"/>
+        <updated>2022-06-30T22:20:27.000Z</updated>
+        <summary type="html"><![CDATA[Logitech MX Products are incompatible with AirPods]]></summary>
+        <author>
+            <name>frankfrank13</name>
+            <uri>https://news.ycombinator.com/user?id=frankfrank13</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Minecraft内容创作者Technoblade已去世
 ]]></title>
@@ -7125,17 +7137,6 @@
         <author>
             <name>keleftheriou</name>
             <uri>https://news.ycombinator.com/user?id=keleftheriou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我停止了对黑洞信息丢失的工作]]></title>
-        <id>https://news.ycombinator.com/item?id=31134074</id>
-        <link href="https://news.ycombinator.com/item?id=31134074"/>
-        <updated>2022-04-23T13:28:21.000Z</updated>
-        <summary type="html"><![CDATA[I stopped working on black hole information loss]]></summary>
-        <author>
-            <name>nsoonhui</name>
-            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 01 Jul 2022 07:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 09:29:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[罗技MX产品与AirPods不兼容
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31939424</link>
+            <guid>https://news.ycombinator.com/item?id=31939424</guid>
+            <pubDate>Thu, 30 Jun 2022 22:20:27 GMT</pubDate>
+            <description><![CDATA[Logitech MX Products are incompatible with AirPods]]></description>
+        </item>
         <item>
             <title><![CDATA[Minecraft内容创作者Technoblade已去世
 ]]></title>
@@ -4729,13 +4737,6 @@
             <guid>https://news.ycombinator.com/item?id=31135972</guid>
             <pubDate>Sat, 23 Apr 2022 16:55:46 GMT</pubDate>
             <description><![CDATA[Apple says they're removing my game because it's more than 2 years old]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我停止了对黑洞信息丢失的工作]]></title>
-            <link>https://news.ycombinator.com/item?id=31134074</link>
-            <guid>https://news.ycombinator.com/item?id=31134074</guid>
-            <pubDate>Sat, 23 Apr 2022 13:28:21 GMT</pubDate>
-            <description><![CDATA[I stopped working on black hole information loss]]></description>
         </item>
     </channel>
 </rss>
