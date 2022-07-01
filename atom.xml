@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-01T13:55:45.952Z</updated>
+    <updated>2022-07-01T14:59:33.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[多人游戏的现代云
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31934181</id>
+        <link href="https://news.ycombinator.com/item?id=31934181"/>
+        <updated>2022-06-30T15:46:45.000Z</updated>
+        <summary type="html"><![CDATA[Modern cloud for multiplayer games]]></summary>
+        <author>
+            <name>hpx7</name>
+            <uri>https://news.ycombinator.com/user?id=hpx7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YouTube删除了对危险的分形木材燃烧的批评，留下致命的提示
 ]]></title>
@@ -7129,17 +7141,6 @@
         <author>
             <name>mgh2</name>
             <uri>https://news.ycombinator.com/user?id=mgh2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[根据新的欧盟立法，谷歌、Meta和其他公司将不得不解释其算法]]></title>
-        <id>https://news.ycombinator.com/item?id=31132769</id>
-        <link href="https://news.ycombinator.com/item?id=31132769"/>
-        <updated>2022-04-23T09:56:48.000Z</updated>
-        <summary type="html"><![CDATA[Google, Meta, others will have to explain algorithms under new EU legislation]]></summary>
-        <author>
-            <name>niklasmtj</name>
-            <uri>https://news.ycombinator.com/user?id=niklasmtj</uri>
         </author>
     </entry>
 </feed>

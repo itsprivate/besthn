@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 01 Jul 2022 13:55:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 14:59:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[多人游戏的现代云
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31934181</link>
+            <guid>https://news.ycombinator.com/item?id=31934181</guid>
+            <pubDate>Thu, 30 Jun 2022 15:46:45 GMT</pubDate>
+            <description><![CDATA[Modern cloud for multiplayer games]]></description>
+        </item>
         <item>
             <title><![CDATA[YouTube删除了对危险的分形木材燃烧的批评，留下致命的提示
 ]]></title>
@@ -4733,13 +4741,6 @@
             <guid>https://news.ycombinator.com/item?id=31134749</guid>
             <pubDate>Sat, 23 Apr 2022 14:53:06 GMT</pubDate>
             <description><![CDATA[U.S. interest rates have soared everywhere but savings accounts]]></description>
-        </item>
-        <item>
-            <title><![CDATA[根据新的欧盟立法，谷歌、Meta和其他公司将不得不解释其算法]]></title>
-            <link>https://news.ycombinator.com/item?id=31132769</link>
-            <guid>https://news.ycombinator.com/item?id=31132769</guid>
-            <pubDate>Sat, 23 Apr 2022 09:56:48 GMT</pubDate>
-            <description><![CDATA[Google, Meta, others will have to explain algorithms under new EU legislation]]></description>
         </item>
     </channel>
 </rss>
