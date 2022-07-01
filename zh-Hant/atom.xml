@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-01T09:29:58.286Z</updated>
+    <updated>2022-07-01T11:26:27.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[W3C推翻了Mozilla和Google對 "分散標識符 "的反對意見
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31939871</id>
+        <link href="https://news.ycombinator.com/item?id=31939871"/>
+        <updated>2022-06-30T23:08:51.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla and Google Objections Overruled on “Decentralized Identifiers” by W3C]]></summary>
+        <author>
+            <name>shiftingleft</name>
+            <uri>https://news.ycombinator.com/user?id=shiftingleft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[羅技MX產品與AirPods不兼容
 ]]></title>
@@ -7126,17 +7138,6 @@
         <author>
             <name>lnyan</name>
             <uri>https://news.ycombinator.com/user?id=lnyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果公司說他們要刪除我的遊戲，因為它已經超過2年了]]></title>
-        <id>https://news.ycombinator.com/item?id=31135972</id>
-        <link href="https://news.ycombinator.com/item?id=31135972"/>
-        <updated>2022-04-23T16:55:46.000Z</updated>
-        <summary type="html"><![CDATA[Apple says they're removing my game because it's more than 2 years old]]></summary>
-        <author>
-            <name>keleftheriou</name>
-            <uri>https://news.ycombinator.com/user?id=keleftheriou</uri>
         </author>
     </entry>
 </feed>

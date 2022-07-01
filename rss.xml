@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 01 Jul 2022 09:29:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 11:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[W3C推翻了Mozilla和Google对 "分散标识符 "的反对意见
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31939871</link>
+            <guid>https://news.ycombinator.com/item?id=31939871</guid>
+            <pubDate>Thu, 30 Jun 2022 23:08:51 GMT</pubDate>
+            <description><![CDATA[Mozilla and Google Objections Overruled on “Decentralized Identifiers” by W3C]]></description>
+        </item>
         <item>
             <title><![CDATA[罗技MX产品与AirPods不兼容
 ]]></title>
@@ -4730,13 +4738,6 @@
             <guid>https://news.ycombinator.com/item?id=31120139</guid>
             <pubDate>Fri, 22 Apr 2022 10:52:50 GMT</pubDate>
             <description><![CDATA[Repulsive Curves]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苹果公司说他们要删除我的游戏，因为它已经超过2年了]]></title>
-            <link>https://news.ycombinator.com/item?id=31135972</link>
-            <guid>https://news.ycombinator.com/item?id=31135972</guid>
-            <pubDate>Sat, 23 Apr 2022 16:55:46 GMT</pubDate>
-            <description><![CDATA[Apple says they're removing my game because it's more than 2 years old]]></description>
         </item>
     </channel>
 </rss>

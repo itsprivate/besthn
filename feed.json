@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31939871",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31939871",
+            "title": "W3C推翻了Mozilla和Google对 \"分散标识符 \"的反对意见\n",
+            "summary": "Mozilla and Google Objections Overruled on “Decentralized Identifiers” by W3C",
+            "date_modified": "2022-06-30T23:08:51.000Z",
+            "author": {
+                "name": "shiftingleft",
+                "url": "https://news.ycombinator.com/user?id=shiftingleft"
+            },
+            "_original_headline": "Mozilla and Google Objections Overruled on “Decentralized Identifiers” by W3C",
+            "_original_url": "https://www.w3.org/2022/06/DIDRecommendationDecision.html",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31939424",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31939424",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.cs.cmu.edu/~kmcrane/Projects/RepulsiveCurves/index.html",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31135972",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31135972",
-            "title": "苹果公司说他们要删除我的游戏，因为它已经超过2年了",
-            "summary": "Apple says they're removing my game because it's more than 2 years old",
-            "date_modified": "2022-04-23T16:55:46.000Z",
-            "author": {
-                "name": "keleftheriou",
-                "url": "https://news.ycombinator.com/user?id=keleftheriou"
-            },
-            "_original_headline": "Apple says they're removing my game because it's more than 2 years old",
-            "_original_url": "https://twitter.com/protopop/status/1517701619374338050",
-            "_sensitive": false,
-            "_score": 257
         }
     ]
 }
