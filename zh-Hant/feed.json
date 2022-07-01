@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31945564",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31945564",
+            "title": "像專家一樣在Python中登錄\n",
+            "summary": "Logging in Python like a pro",
+            "date_modified": "2022-07-01T12:38:56.000Z",
+            "author": {
+                "name": "EntICOnc",
+                "url": "https://news.ycombinator.com/user?id=EntICOnc"
+            },
+            "_original_headline": "Logging in Python like a pro",
+            "_original_url": "https://guicommits.com/how-to-log-in-python-like-a-pro/",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31949731",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31949731",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.wired.com/story/drones-have-transformed-blood-delivery-in-rwanda/",
             "_sensitive": false,
             "_score": 253
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31144106",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31144106",
-            "title": "用Ghidra修補一個1996年的嵌入式合成器操作系統",
-            "summary": "Patching an embedded synthesiser OS from 1996 with Ghidra",
-            "date_modified": "2022-04-24T14:05:17.000Z",
-            "author": {
-                "name": "tomduncalf",
-                "url": "https://news.ycombinator.com/user?id=tomduncalf"
-            },
-            "_original_headline": "Patching an embedded synthesiser OS from 1996 with Ghidra",
-            "_original_url": "http://blog.petersobot.com/patching-the-k2500",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }
