@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-01T16:50:19.994Z</updated>
+    <updated>2022-07-01T18:00:13.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[香港如何成为一个警察国家
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31946528</id>
+        <link href="https://news.ycombinator.com/item?id=31946528"/>
+        <updated>2022-07-01T14:02:34.000Z</updated>
+        <summary type="html"><![CDATA[How Hong Kong became a police state]]></summary>
+        <author>
+            <name>shalmanese</name>
+            <uri>https://news.ycombinator.com/user?id=shalmanese</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌允许被制裁的俄罗斯广告公司收集用户数据达数月之久
 ]]></title>
@@ -7134,17 +7146,6 @@
         <author>
             <name>galogon</name>
             <uri>https://news.ycombinator.com/user?id=galogon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互联网春季大扫除。如何删除Instagram、Facebook和其他账户]]></title>
-        <id>https://news.ycombinator.com/item?id=31142938</id>
-        <link href="https://news.ycombinator.com/item?id=31142938"/>
-        <updated>2022-04-24T11:08:20.000Z</updated>
-        <summary type="html"><![CDATA[Internet spring cleaning: How to delete Instagram, Facebook and other accounts]]></summary>
-        <author>
-            <name>Ashoka_rkt</name>
-            <uri>https://news.ycombinator.com/user?id=Ashoka_rkt</uri>
         </author>
     </entry>
 </feed>

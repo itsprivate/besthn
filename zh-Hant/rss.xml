@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 01 Jul 2022 16:50:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 18:00:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[香港如何成為一個警察國家
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31946528</link>
+            <guid>https://news.ycombinator.com/item?id=31946528</guid>
+            <pubDate>Fri, 01 Jul 2022 14:02:34 GMT</pubDate>
+            <description><![CDATA[How Hong Kong became a police state]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌允許被制裁的俄羅斯廣告公司收集用戶數據達數月之久
 ]]></title>
@@ -4738,13 +4746,6 @@
             <guid>https://news.ycombinator.com/item?id=31136586</guid>
             <pubDate>Sat, 23 Apr 2022 17:57:53 GMT</pubDate>
             <description><![CDATA[Android loses 8% of its global OS market share in five years]]></description>
-        </item>
-        <item>
-            <title><![CDATA[互聯網春季大掃除。如何刪除Instagram、Facebook和其他賬戶]]></title>
-            <link>https://news.ycombinator.com/item?id=31142938</link>
-            <guid>https://news.ycombinator.com/item?id=31142938</guid>
-            <pubDate>Sun, 24 Apr 2022 11:08:20 GMT</pubDate>
-            <description><![CDATA[Internet spring cleaning: How to delete Instagram, Facebook and other accounts]]></description>
         </item>
     </channel>
 </rss>
