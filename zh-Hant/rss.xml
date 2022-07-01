@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 01 Jul 2022 02:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 04:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[無人駕駛的機器人出租車隊在舊金山癱瘓了幾個小時
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31939983</link>
+            <guid>https://news.ycombinator.com/item?id=31939983</guid>
+            <pubDate>Thu, 30 Jun 2022 23:19:55 GMT</pubDate>
+            <description><![CDATA[Driverless robotaxi fleet paralyzed for hours in San Francisco]]></description>
+        </item>
         <item>
             <title><![CDATA[現代城市居民已經失去了大約一半的腸道微生物
 ]]></title>
@@ -4727,13 +4735,6 @@
             <guid>https://news.ycombinator.com/item?id=31134534</guid>
             <pubDate>Sat, 23 Apr 2022 14:25:22 GMT</pubDate>
             <description><![CDATA[My upgrade to 25 Gbit/s Fiber To The Home]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是我瘋了還是區塊鏈技術真的沒有價值？]]></title>
-            <link>https://news.ycombinator.com/item?id=31132610</link>
-            <guid>https://news.ycombinator.com/item?id=31132610</guid>
-            <pubDate>Sat, 23 Apr 2022 09:18:53 GMT</pubDate>
-            <description><![CDATA[Ask HN: Am I going insane or is there genuinely no value in blockchain tech?]]></description>
         </item>
     </channel>
 </rss>

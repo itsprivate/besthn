@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-01T02:45:52.495Z</updated>
+    <updated>2022-07-01T04:16:11.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[无人驾驶的机器人出租车队在旧金山瘫痪了几个小时
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31939983</id>
+        <link href="https://news.ycombinator.com/item?id=31939983"/>
+        <updated>2022-06-30T23:19:55.000Z</updated>
+        <summary type="html"><![CDATA[Driverless robotaxi fleet paralyzed for hours in San Francisco]]></summary>
+        <author>
+            <name>georgecmu</name>
+            <uri>https://news.ycombinator.com/user?id=georgecmu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[现代城市居民已经失去了大约一半的肠道微生物
 ]]></title>
@@ -7123,17 +7135,6 @@
         <author>
             <name>secure</name>
             <uri>https://news.ycombinator.com/user?id=secure</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是我疯了还是区块链技术真的没有价值？]]></title>
-        <id>https://news.ycombinator.com/item?id=31132610</id>
-        <link href="https://news.ycombinator.com/item?id=31132610"/>
-        <updated>2022-04-23T09:18:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Am I going insane or is there genuinely no value in blockchain tech?]]></summary>
-        <author>
-            <name>ak_111</name>
-            <uri>https://news.ycombinator.com/user?id=ak_111</uri>
         </author>
     </entry>
 </feed>
