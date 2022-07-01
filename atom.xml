@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-01T13:00:51.136Z</updated>
+    <updated>2022-07-01T13:55:45.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[YouTube删除了对危险的分形木材燃烧的批评，留下致命的提示
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31945425</id>
+        <link href="https://news.ycombinator.com/item?id=31945425"/>
+        <updated>2022-07-01T12:21:16.000Z</updated>
+        <summary type="html"><![CDATA[YouTube removes criticism of dangerous fractal wood burning, leaves lethal tips]]></summary>
+        <author>
+            <name>PretzelFisch</name>
+            <uri>https://news.ycombinator.com/user?id=PretzelFisch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[炼钢术。通过帮助你的对手发现真相
 ]]></title>
@@ -7128,17 +7140,6 @@
         <author>
             <name>niklasmtj</name>
             <uri>https://news.ycombinator.com/user?id=niklasmtj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[庆祝ZX Spectrum诞生40周年]]></title>
-        <id>https://news.ycombinator.com/item?id=31132115</id>
-        <link href="https://news.ycombinator.com/item?id=31132115"/>
-        <updated>2022-04-23T07:12:43.000Z</updated>
-        <summary type="html"><![CDATA[Celebrating 40 years of ZX Spectrum]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>

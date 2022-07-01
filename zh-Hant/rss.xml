@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 01 Jul 2022 13:00:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 13:55:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[YouTube刪除了對危險的分形木材燃燒的批評，留下致命的提示
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31945425</link>
+            <guid>https://news.ycombinator.com/item?id=31945425</guid>
+            <pubDate>Fri, 01 Jul 2022 12:21:16 GMT</pubDate>
+            <description><![CDATA[YouTube removes criticism of dangerous fractal wood burning, leaves lethal tips]]></description>
+        </item>
         <item>
             <title><![CDATA[鍊鋼術。通過幫助你的對手發現真相
 ]]></title>
@@ -4732,13 +4740,6 @@
             <guid>https://news.ycombinator.com/item?id=31132769</guid>
             <pubDate>Sat, 23 Apr 2022 09:56:48 GMT</pubDate>
             <description><![CDATA[Google, Meta, others will have to explain algorithms under new EU legislation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[慶祝ZX Spectrum誕生40週年]]></title>
-            <link>https://news.ycombinator.com/item?id=31132115</link>
-            <guid>https://news.ycombinator.com/item?id=31132115</guid>
-            <pubDate>Sat, 23 Apr 2022 07:12:43 GMT</pubDate>
-            <description><![CDATA[Celebrating 40 years of ZX Spectrum]]></description>
         </item>
     </channel>
 </rss>
