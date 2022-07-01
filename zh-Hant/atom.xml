@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-01T15:55:37.931Z</updated>
+    <updated>2022-07-01T16:50:20.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌允許被制裁的俄羅斯廣告公司收集用戶數據達數月之久
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31945924</id>
+        <link href="https://news.ycombinator.com/item?id=31945924"/>
+        <updated>2022-07-01T13:16:33.000Z</updated>
+        <summary type="html"><![CDATA[Google Allowed a Sanctioned Russian Ad Company to Harvest User Data for Months]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[V 0.3
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31944777</id>
+        <link href="https://news.ycombinator.com/item?id=31944777"/>
+        <updated>2022-07-01T11:10:21.000Z</updated>
+        <summary type="html"><![CDATA[V 0.3]]></summary>
+        <author>
+            <name>amedvednikov</name>
+            <uri>https://news.ycombinator.com/user?id=amedvednikov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[算法的可視化 (2014)
 ]]></title>
@@ -7121,28 +7145,6 @@
         <author>
             <name>Ashoka_rkt</name>
             <uri>https://news.ycombinator.com/user?id=Ashoka_rkt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沒有人期望年輕人做什麼，而他們的反應是什麼都不做]]></title>
-        <id>https://news.ycombinator.com/item?id=31143279</id>
-        <link href="https://news.ycombinator.com/item?id=31143279"/>
-        <updated>2022-04-24T12:07:16.000Z</updated>
-        <summary type="html"><![CDATA[No one expects young men to do anything and they are responding by doing nothing]]></summary>
-        <author>
-            <name>Bostonian</name>
-            <uri>https://news.ycombinator.com/user?id=Bostonian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris Lattner談垃圾收集與自動引用計數（2017）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31139610</id>
-        <link href="https://news.ycombinator.com/item?id=31139610"/>
-        <updated>2022-04-23T23:14:28.000Z</updated>
-        <summary type="html"><![CDATA[Chris Lattner on garbage collection vs. Automatic Reference Counting (2017)]]></summary>
-        <author>
-            <name>Austin_Conlon</name>
-            <uri>https://news.ycombinator.com/user?id=Austin_Conlon</uri>
         </author>
     </entry>
 </feed>

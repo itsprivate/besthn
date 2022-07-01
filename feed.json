@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31945924",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31945924",
+            "title": "谷歌允许被制裁的俄罗斯广告公司收集用户数据达数月之久\n",
+            "summary": "Google Allowed a Sanctioned Russian Ad Company to Harvest User Data for Months",
+            "date_modified": "2022-07-01T13:16:33.000Z",
+            "author": {
+                "name": "danso",
+                "url": "https://news.ycombinator.com/user?id=danso"
+            },
+            "_original_headline": "Google Allowed a Sanctioned Russian Ad Company to Harvest User Data for Months",
+            "_original_url": "https://www.propublica.org/article/google-russia-rutarget-sberbank-sanctions-ukraine",
+            "_sensitive": false,
+            "_score": 212
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31944777",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31944777",
+            "title": "V 0.3\n",
+            "summary": "V 0.3",
+            "date_modified": "2022-07-01T11:10:21.000Z",
+            "author": {
+                "name": "amedvednikov",
+                "url": "https://news.ycombinator.com/user?id=amedvednikov"
+            },
+            "_original_headline": "V 0.3",
+            "_original_url": "https://github.com/vlang/v/discussions/14895",
+            "_sensitive": false,
+            "_score": 214
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31943531",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31943531",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://blog.mozilla.org/en/internet-culture/how-to-delete-instagram-facebook-online-accounts/",
             "_sensitive": false,
             "_score": 279
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31143279",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31143279",
-            "title": "没有人期望年轻人做什么，而他们的反应是什么都不做",
-            "summary": "No one expects young men to do anything and they are responding by doing nothing",
-            "date_modified": "2022-04-24T12:07:16.000Z",
-            "author": {
-                "name": "Bostonian",
-                "url": "https://news.ycombinator.com/user?id=Bostonian"
-            },
-            "_original_headline": "No one expects young men to do anything and they are responding by doing nothing",
-            "_original_url": "https://robkhenderson.substack.com/p/no-one-expects-young-men-to-do-anything",
-            "_sensitive": false,
-            "_score": 255
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31139610",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31139610",
-            "title": "Chris Lattner谈垃圾收集与自动引用计数（2017）。",
-            "summary": "Chris Lattner on garbage collection vs. Automatic Reference Counting (2017)",
-            "date_modified": "2022-04-23T23:14:28.000Z",
-            "author": {
-                "name": "Austin_Conlon",
-                "url": "https://news.ycombinator.com/user?id=Austin_Conlon"
-            },
-            "_original_headline": "Chris Lattner on garbage collection vs. Automatic Reference Counting (2017)",
-            "_original_url": "https://atp.fm/205-chris-lattner-interview-transcript#gc",
-            "_sensitive": false,
-            "_score": 255
         }
     ]
 }

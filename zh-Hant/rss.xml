@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 01 Jul 2022 15:55:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 16:50:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谷歌允許被制裁的俄羅斯廣告公司收集用戶數據達數月之久
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31945924</link>
+            <guid>https://news.ycombinator.com/item?id=31945924</guid>
+            <pubDate>Fri, 01 Jul 2022 13:16:33 GMT</pubDate>
+            <description><![CDATA[Google Allowed a Sanctioned Russian Ad Company to Harvest User Data for Months]]></description>
+        </item>
+        <item>
+            <title><![CDATA[V 0.3
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31944777</link>
+            <guid>https://news.ycombinator.com/item?id=31944777</guid>
+            <pubDate>Fri, 01 Jul 2022 11:10:21 GMT</pubDate>
+            <description><![CDATA[V 0.3]]></description>
+        </item>
         <item>
             <title><![CDATA[算法的可視化 (2014)
 ]]></title>
@@ -4729,20 +4745,6 @@
             <guid>https://news.ycombinator.com/item?id=31142938</guid>
             <pubDate>Sun, 24 Apr 2022 11:08:20 GMT</pubDate>
             <description><![CDATA[Internet spring cleaning: How to delete Instagram, Facebook and other accounts]]></description>
-        </item>
-        <item>
-            <title><![CDATA[沒有人期望年輕人做什麼，而他們的反應是什麼都不做]]></title>
-            <link>https://news.ycombinator.com/item?id=31143279</link>
-            <guid>https://news.ycombinator.com/item?id=31143279</guid>
-            <pubDate>Sun, 24 Apr 2022 12:07:16 GMT</pubDate>
-            <description><![CDATA[No one expects young men to do anything and they are responding by doing nothing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Chris Lattner談垃圾收集與自動引用計數（2017）。]]></title>
-            <link>https://news.ycombinator.com/item?id=31139610</link>
-            <guid>https://news.ycombinator.com/item?id=31139610</guid>
-            <pubDate>Sat, 23 Apr 2022 23:14:28 GMT</pubDate>
-            <description><![CDATA[Chris Lattner on garbage collection vs. Automatic Reference Counting (2017)]]></description>
         </item>
     </channel>
 </rss>
