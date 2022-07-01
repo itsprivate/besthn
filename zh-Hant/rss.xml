@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 01 Jul 2022 04:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 07:30:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Minecraft內容創作者Technoblade已去世
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31941902</link>
+            <guid>https://news.ycombinator.com/item?id=31941902</guid>
+            <pubDate>Fri, 01 Jul 2022 03:18:19 GMT</pubDate>
+            <description><![CDATA[Minecraft content creator Technoblade has died]]></description>
+        </item>
         <item>
             <title><![CDATA[無人駕駛的機器人出租車隊在舊金山癱瘓了幾個小時
 ]]></title>
@@ -4728,13 +4736,6 @@
             <guid>https://news.ycombinator.com/item?id=31134074</guid>
             <pubDate>Sat, 23 Apr 2022 13:28:21 GMT</pubDate>
             <description><![CDATA[I stopped working on black hole information loss]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我升級到25Gbit/s光纖到戶]]></title>
-            <link>https://news.ycombinator.com/item?id=31134534</link>
-            <guid>https://news.ycombinator.com/item?id=31134534</guid>
-            <pubDate>Sat, 23 Apr 2022 14:25:22 GMT</pubDate>
-            <description><![CDATA[My upgrade to 25 Gbit/s Fiber To The Home]]></description>
         </item>
     </channel>
 </rss>
