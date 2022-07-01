@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 01 Jul 2022 20:32:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 21:28:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[那些奇怪的錯誤數字短信是怎麼回事？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31949731</link>
+            <guid>https://news.ycombinator.com/item?id=31949731</guid>
+            <pubDate>Fri, 01 Jul 2022 17:25:30 GMT</pubDate>
+            <description><![CDATA[What's the deal with all those weird wrong-number texts?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[執行內幕交易規則的蘋果前高管承認內幕交易
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31939114</link>
+            <guid>https://news.ycombinator.com/item?id=31939114</guid>
+            <pubDate>Thu, 30 Jun 2022 21:51:39 GMT</pubDate>
+            <description><![CDATA[Former Apple exec who enforced insider trading rules admits to insider trading]]></description>
+        </item>
         <item>
             <title><![CDATA[醫療保險機構為幾乎所有的事情支付多少錢即將公開
 ]]></title>
@@ -4738,20 +4754,6 @@
             <guid>https://news.ycombinator.com/item?id=31144106</guid>
             <pubDate>Sun, 24 Apr 2022 14:05:17 GMT</pubDate>
             <description><![CDATA[Patching an embedded synthesiser OS from 1996 with Ghidra]]></description>
-        </item>
-        <item>
-            <title><![CDATA[反擊合同要求是可怕的，但請還是要嘗試一下]]></title>
-            <link>https://news.ycombinator.com/item?id=31147785</link>
-            <guid>https://news.ycombinator.com/item?id=31147785</guid>
-            <pubDate>Sun, 24 Apr 2022 20:03:04 GMT</pubDate>
-            <description><![CDATA[Pushing back against contract demands is scary but please try anyway]]></description>
-        </item>
-        <item>
-            <title><![CDATA[系統思考者的詛咒]]></title>
-            <link>https://news.ycombinator.com/item?id=31139884</link>
-            <guid>https://news.ycombinator.com/item?id=31139884</guid>
-            <pubDate>Sat, 23 Apr 2022 23:53:32 GMT</pubDate>
-            <description><![CDATA[The Curse of Systems Thinkers]]></description>
         </item>
     </channel>
 </rss>
