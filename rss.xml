@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 30 Jun 2022 23:29:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 02:45:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[现代城市居民已经失去了大约一半的肠道微生物
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31938261</link>
+            <guid>https://news.ycombinator.com/item?id=31938261</guid>
+            <pubDate>Thu, 30 Jun 2022 20:37:23 GMT</pubDate>
+            <description><![CDATA[Modern city dwellers have lost about half their gut microbes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Vim 9.0
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31936725</link>
+            <guid>https://news.ycombinator.com/item?id=31936725</guid>
+            <pubDate>Thu, 30 Jun 2022 18:42:21 GMT</pubDate>
+            <description><![CDATA[Vim 9.0]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Rust 1.62.0
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31935116</link>
+            <guid>https://news.ycombinator.com/item?id=31935116</guid>
+            <pubDate>Thu, 30 Jun 2022 16:42:20 GMT</pubDate>
+            <description><![CDATA[Rust 1.62.0]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么我有密码恐惧症？
 ]]></title>
@@ -4710,27 +4734,6 @@
             <guid>https://news.ycombinator.com/item?id=31132610</guid>
             <pubDate>Sat, 23 Apr 2022 09:18:53 GMT</pubDate>
             <description><![CDATA[Ask HN: Am I going insane or is there genuinely no value in blockchain tech?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[融化的KiCad]]></title>
-            <link>https://news.ycombinator.com/item?id=31108652</link>
-            <guid>https://news.ycombinator.com/item?id=31108652</guid>
-            <pubDate>Thu, 21 Apr 2022 12:43:59 GMT</pubDate>
-            <description><![CDATA[Melting KiCad]]></description>
-        </item>
-        <item>
-            <title><![CDATA[黑客新闻准则]]></title>
-            <link>https://news.ycombinator.com/item?id=31128903</link>
-            <guid>https://news.ycombinator.com/item?id=31128903</guid>
-            <pubDate>Fri, 22 Apr 2022 22:17:44 GMT</pubDate>
-            <description><![CDATA[Hacker News Guidelines]]></description>
-        </item>
-        <item>
-            <title><![CDATA[从物理上讲，小平箱是不可能超过重量限制的。]]></title>
-            <link>https://news.ycombinator.com/item?id=31116024</link>
-            <guid>https://news.ycombinator.com/item?id=31116024</guid>
-            <pubDate>Thu, 21 Apr 2022 22:35:54 GMT</pubDate>
-            <description><![CDATA[It is physically impossible to exceed the weight limit for a small flat-rate box]]></description>
         </item>
     </channel>
 </rss>
