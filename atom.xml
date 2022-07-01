@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-01T11:26:27.722Z</updated>
+    <updated>2022-07-01T13:00:51.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[炼钢术。通过帮助你的对手发现真相
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31940277</id>
+        <link href="https://news.ycombinator.com/item?id=31940277"/>
+        <updated>2022-06-30T23:52:48.000Z</updated>
+        <summary type="html"><![CDATA[Steelmanning: Discover the truth by helping your opponent]]></summary>
+        <author>
+            <name>kjhughes</name>
+            <uri>https://news.ycombinator.com/user?id=kjhughes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[W3C推翻了Mozilla和Google对 "分散标识符 "的反对意见
 ]]></title>
@@ -7127,17 +7139,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[令人讨厌的曲线]]></title>
-        <id>https://news.ycombinator.com/item?id=31120139</id>
-        <link href="https://news.ycombinator.com/item?id=31120139"/>
-        <updated>2022-04-22T10:52:50.000Z</updated>
-        <summary type="html"><![CDATA[Repulsive Curves]]></summary>
-        <author>
-            <name>lnyan</name>
-            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
         </author>
     </entry>
 </feed>

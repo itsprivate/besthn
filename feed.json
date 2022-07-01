@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31940277",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31940277",
+            "title": "炼钢术。通过帮助你的对手发现真相\n",
+            "summary": "Steelmanning: Discover the truth by helping your opponent",
+            "date_modified": "2022-06-30T23:52:48.000Z",
+            "author": {
+                "name": "kjhughes",
+                "url": "https://news.ycombinator.com/user?id=kjhughes"
+            },
+            "_original_headline": "Steelmanning: Discover the truth by helping your opponent",
+            "_original_url": "https://themindcollection.com/steelmanning-how-to-discover-the-truth-by-helping-your-opponent/",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31939871",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31939871",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://github.blog/2022-04-23-zx-spectrum-40-year-anniversary/",
             "_sensitive": false,
             "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31120139",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31120139",
-            "title": "令人讨厌的曲线",
-            "summary": "Repulsive Curves",
-            "date_modified": "2022-04-22T10:52:50.000Z",
-            "author": {
-                "name": "lnyan",
-                "url": "https://news.ycombinator.com/user?id=lnyan"
-            },
-            "_original_headline": "Repulsive Curves",
-            "_original_url": "https://www.cs.cmu.edu/~kmcrane/Projects/RepulsiveCurves/index.html",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }
