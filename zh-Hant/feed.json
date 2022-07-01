@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31949348",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31949348",
+            "title": "醫療保險機構為幾乎所有的事情支付多少錢即將公開\n",
+            "summary": "How much health insurers pay for almost everything is about to go public",
+            "date_modified": "2022-07-01T16:58:42.000Z",
+            "author": {
+                "name": "nojito",
+                "url": "https://news.ycombinator.com/user?id=nojito"
+            },
+            "_original_headline": "How much health insurers pay for almost everything is about to go public",
+            "_original_url": "https://khn.org/news/article/health-insurers-price-transparency-public-rates-costs/",
+            "_sensitive": false,
+            "_score": 299
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31947297",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31947297",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://blog.relyabilit.ie/the-curse-of-systems-thinkers/",
             "_sensitive": false,
             "_score": 253
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31142959",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31142959",
-            "title": "用過的酒店肥皂的來世",
-            "summary": "The afterlife of used hotel soap",
-            "date_modified": "2022-04-24T11:12:26.000Z",
-            "author": {
-                "name": "Anon84",
-                "url": "https://news.ycombinator.com/user?id=Anon84"
-            },
-            "_original_headline": "The afterlife of used hotel soap",
-            "_original_url": "https://thehustle.co/the-surprising-afterlife-of-used-hotel-soap/",
-            "_sensitive": false,
-            "_score": 255
         }
     ]
 }

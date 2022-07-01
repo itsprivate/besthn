@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 01 Jul 2022 19:31:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 20:32:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[醫療保險機構為幾乎所有的事情支付多少錢即將公開
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31949348</link>
+            <guid>https://news.ycombinator.com/item?id=31949348</guid>
+            <pubDate>Fri, 01 Jul 2022 16:58:42 GMT</pubDate>
+            <description><![CDATA[How much health insurers pay for almost everything is about to go public]]></description>
+        </item>
         <item>
             <title><![CDATA[誰在招聘？(2022年7月)
 ]]></title>
@@ -4744,13 +4752,6 @@
             <guid>https://news.ycombinator.com/item?id=31139884</guid>
             <pubDate>Sat, 23 Apr 2022 23:53:32 GMT</pubDate>
             <description><![CDATA[The Curse of Systems Thinkers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用過的酒店肥皂的來世]]></title>
-            <link>https://news.ycombinator.com/item?id=31142959</link>
-            <guid>https://news.ycombinator.com/item?id=31142959</guid>
-            <pubDate>Sun, 24 Apr 2022 11:12:26 GMT</pubDate>
-            <description><![CDATA[The afterlife of used hotel soap]]></description>
         </item>
     </channel>
 </rss>
