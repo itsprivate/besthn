@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 01 Jul 2022 18:00:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 18:40:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[科技界的裁員人數不斷堆積
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31945841</link>
+            <guid>https://news.ycombinator.com/item?id=31945841</guid>
+            <pubDate>Fri, 01 Jul 2022 13:07:59 GMT</pubDate>
+            <description><![CDATA[Tech layoffs keep stacking up]]></description>
+        </item>
+        <item>
+            <title><![CDATA[掌握尼姆 - 現已在亞馬遜上市
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31925716</link>
+            <guid>https://news.ycombinator.com/item?id=31925716</guid>
+            <pubDate>Wed, 29 Jun 2022 21:07:06 GMT</pubDate>
+            <description><![CDATA[Mastering Nim – now available on Amazon]]></description>
+        </item>
         <item>
             <title><![CDATA[香港如何成為一個警察國家
 ]]></title>
@@ -4732,20 +4748,6 @@
             <guid>https://news.ycombinator.com/item?id=31143327</guid>
             <pubDate>Sun, 24 Apr 2022 12:15:36 GMT</pubDate>
             <description><![CDATA[Textualize – A framework for building Text User Interface applications]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌為歐洲提供了一個 "拒絕所有 "的追蹤cookies按鈕]]></title>
-            <link>https://news.ycombinator.com/item?id=31144313</link>
-            <guid>https://news.ycombinator.com/item?id=31144313</guid>
-            <pubDate>Sun, 24 Apr 2022 14:27:46 GMT</pubDate>
-            <description><![CDATA[Google gives Europe a ‘reject all’ button for tracking cookies]]></description>
-        </item>
-        <item>
-            <title><![CDATA[安卓在五年內失去了8%的全球操作系統市場份額]]></title>
-            <link>https://news.ycombinator.com/item?id=31136586</link>
-            <guid>https://news.ycombinator.com/item?id=31136586</guid>
-            <pubDate>Sat, 23 Apr 2022 17:57:53 GMT</pubDate>
-            <description><![CDATA[Android loses 8% of its global OS market share in five years]]></description>
         </item>
     </channel>
 </rss>

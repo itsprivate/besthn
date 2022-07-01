@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31945841",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31945841",
+            "title": "科技界的裁员人数不断堆积\n",
+            "summary": "Tech layoffs keep stacking up",
+            "date_modified": "2022-07-01T13:07:59.000Z",
+            "author": {
+                "name": "Swizec",
+                "url": "https://news.ycombinator.com/user?id=Swizec"
+            },
+            "_original_headline": "Tech layoffs keep stacking up",
+            "_original_url": "https://twitter.com/HayekAndKeynes/status/1541760176826499073",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31925716",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31925716",
+            "title": "掌握尼姆 - 现已在亚马逊上市\n",
+            "summary": "Mastering Nim – now available on Amazon",
+            "date_modified": "2022-06-29T21:07:06.000Z",
+            "author": {
+                "name": "kindaAnIdiot",
+                "url": "https://news.ycombinator.com/user?id=kindaAnIdiot"
+            },
+            "_original_headline": "Mastering Nim – now available on Amazon",
+            "_original_url": "https://nim-lang.org/blog/2022/06/29/mastering-nim.html",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31946528",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31946528",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://www.textualize.io/",
             "_sensitive": false,
             "_score": 254
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31144313",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31144313",
-            "title": "谷歌为欧洲提供了一个 \"拒绝所有 \"的追踪cookies按钮",
-            "summary": "Google gives Europe a ‘reject all’ button for tracking cookies",
-            "date_modified": "2022-04-24T14:27:46.000Z",
-            "author": {
-                "name": "amirmasoudabdol",
-                "url": "https://news.ycombinator.com/user?id=amirmasoudabdol"
-            },
-            "_original_headline": "Google gives Europe a ‘reject all’ button for tracking cookies",
-            "_original_url": "https://www.theverge.com/2022/4/21/23035289/google-reject-all-cookie-button-eu-privacy-data-laws",
-            "_sensitive": false,
-            "_score": 255
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31136586",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31136586",
-            "title": "安卓在五年内失去了8%的全球操作系统市场份额",
-            "summary": "Android loses 8% of its global OS market share in five years",
-            "date_modified": "2022-04-23T17:57:53.000Z",
-            "author": {
-                "name": "galogon",
-                "url": "https://news.ycombinator.com/user?id=galogon"
-            },
-            "_original_headline": "Android loses 8% of its global OS market share in five years",
-            "_original_url": "https://stockapps.com/blog/android-loses-8-of-its-global-os-market-share-in-five-years/",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }

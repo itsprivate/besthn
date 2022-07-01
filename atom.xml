@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-01T18:00:13.222Z</updated>
+    <updated>2022-07-01T18:40:25.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[科技界的裁员人数不断堆积
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31945841</id>
+        <link href="https://news.ycombinator.com/item?id=31945841"/>
+        <updated>2022-07-01T13:07:59.000Z</updated>
+        <summary type="html"><![CDATA[Tech layoffs keep stacking up]]></summary>
+        <author>
+            <name>Swizec</name>
+            <uri>https://news.ycombinator.com/user?id=Swizec</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[掌握尼姆 - 现已在亚马逊上市
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31925716</id>
+        <link href="https://news.ycombinator.com/item?id=31925716"/>
+        <updated>2022-06-29T21:07:06.000Z</updated>
+        <summary type="html"><![CDATA[Mastering Nim – now available on Amazon]]></summary>
+        <author>
+            <name>kindaAnIdiot</name>
+            <uri>https://news.ycombinator.com/user?id=kindaAnIdiot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港如何成为一个警察国家
 ]]></title>
@@ -7124,28 +7148,6 @@
         <author>
             <name>wey-gu</name>
             <uri>https://news.ycombinator.com/user?id=wey-gu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌为欧洲提供了一个 "拒绝所有 "的追踪cookies按钮]]></title>
-        <id>https://news.ycombinator.com/item?id=31144313</id>
-        <link href="https://news.ycombinator.com/item?id=31144313"/>
-        <updated>2022-04-24T14:27:46.000Z</updated>
-        <summary type="html"><![CDATA[Google gives Europe a ‘reject all’ button for tracking cookies]]></summary>
-        <author>
-            <name>amirmasoudabdol</name>
-            <uri>https://news.ycombinator.com/user?id=amirmasoudabdol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安卓在五年内失去了8%的全球操作系统市场份额]]></title>
-        <id>https://news.ycombinator.com/item?id=31136586</id>
-        <link href="https://news.ycombinator.com/item?id=31136586"/>
-        <updated>2022-04-23T17:57:53.000Z</updated>
-        <summary type="html"><![CDATA[Android loses 8% of its global OS market share in five years]]></summary>
-        <author>
-            <name>galogon</name>
-            <uri>https://news.ycombinator.com/user?id=galogon</uri>
         </author>
     </entry>
 </feed>
