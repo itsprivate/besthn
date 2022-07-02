@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-02T02:33:44.482Z</updated>
+    <updated>2022-07-02T04:02:06.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[學習TLA+
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31952643</id>
+        <link href="https://news.ycombinator.com/item?id=31952643"/>
+        <updated>2022-07-01T20:48:09.000Z</updated>
+        <summary type="html"><![CDATA[Learn TLA+]]></summary>
+        <author>
+            <name>MindGods</name>
+            <uri>https://news.ycombinator.com/user?id=MindGods</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uzi Nissan（nissan.com）在2020年7月死於covid，現在網站已經癱瘓。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31950097</id>
+        <link href="https://news.ycombinator.com/item?id=31950097"/>
+        <updated>2022-07-01T17:51:53.000Z</updated>
+        <summary type="html"><![CDATA[Uzi Nissan (nissan.com) died of covid July 2020 and the website is now down]]></summary>
+        <author>
+            <name>bmcahren</name>
+            <uri>https://news.ycombinator.com/user?id=bmcahren</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flask上沒有開放的問題或拉動請求
 ]]></title>
@@ -7134,28 +7158,6 @@
         <author>
             <name>hongsy</name>
             <uri>https://news.ycombinator.com/user?id=hongsy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[呼叫NSA找到你的加密密鑰，在幾個比特被翻轉後（2010年）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31137345</id>
-        <link href="https://news.ycombinator.com/item?id=31137345"/>
-        <updated>2022-04-23T19:06:21.000Z</updated>
-        <summary type="html"><![CDATA[Calling NSA to find your encryption key after a few bits were flipped (2010)]]></summary>
-        <author>
-            <name>marcodiego</name>
-            <uri>https://news.ycombinator.com/user?id=marcodiego</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在2022年，要找到一個SHA1碰撞有多容易？]]></title>
-        <id>https://news.ycombinator.com/item?id=31148839</id>
-        <link href="https://news.ycombinator.com/item?id=31148839"/>
-        <updated>2022-04-24T22:17:20.000Z</updated>
-        <summary type="html"><![CDATA[How easy is it in 2022 to find a SHA1 collision?]]></summary>
-        <author>
-            <name>gary_0</name>
-            <uri>https://news.ycombinator.com/user?id=gary_0</uri>
         </author>
     </entry>
 </feed>

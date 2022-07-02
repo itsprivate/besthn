@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31952643",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31952643",
+            "title": "学习TLA+\n",
+            "summary": "Learn TLA+",
+            "date_modified": "2022-07-01T20:48:09.000Z",
+            "author": {
+                "name": "MindGods",
+                "url": "https://news.ycombinator.com/user?id=MindGods"
+            },
+            "_original_headline": "Learn TLA+",
+            "_original_url": "https://www.hillelwayne.com/post/learntla/",
+            "_sensitive": false,
+            "_score": 210
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31950097",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31950097",
+            "title": "Uzi Nissan（nissan.com）在2020年7月死于covid，现在网站已经瘫痪。\n",
+            "summary": "Uzi Nissan (nissan.com) died of covid July 2020 and the website is now down",
+            "date_modified": "2022-07-01T17:51:53.000Z",
+            "author": {
+                "name": "bmcahren",
+                "url": "https://news.ycombinator.com/user?id=bmcahren"
+            },
+            "_original_headline": "Uzi Nissan (nissan.com) died of covid July 2020 and the website is now down",
+            "_original_url": "http://www.nissan.com/",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31953470",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31953470",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://austrianchina.substack.com/p/shanghai-video-gets-400m-views",
             "_sensitive": false,
             "_score": 254
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31137345",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31137345",
-            "title": "呼叫NSA找到你的加密密钥，在几个比特被翻转后（2010年）。",
-            "summary": "Calling NSA to find your encryption key after a few bits were flipped (2010)",
-            "date_modified": "2022-04-23T19:06:21.000Z",
-            "author": {
-                "name": "marcodiego",
-                "url": "https://news.ycombinator.com/user?id=marcodiego"
-            },
-            "_original_headline": "Calling NSA to find your encryption key after a few bits were flipped (2010)",
-            "_original_url": "https://astroengineer.wordpress.com/2010/05/12/voyager-2-has-flipped-its-bit/",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31148839",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31148839",
-            "title": "在2022年，要找到一个SHA1碰撞有多容易？",
-            "summary": "How easy is it in 2022 to find a SHA1 collision?",
-            "date_modified": "2022-04-24T22:17:20.000Z",
-            "author": {
-                "name": "gary_0",
-                "url": "https://news.ycombinator.com/user?id=gary_0"
-            },
-            "_original_headline": "How easy is it in 2022 to find a SHA1 collision?",
-            "_original_url": "https://crypto.stackexchange.com/questions/99767/how-easy-is-it-in-2022-to-find-a-sha1-collision",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }

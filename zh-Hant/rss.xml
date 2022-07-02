@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 02 Jul 2022 02:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 04:02:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[學習TLA+
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31952643</link>
+            <guid>https://news.ycombinator.com/item?id=31952643</guid>
+            <pubDate>Fri, 01 Jul 2022 20:48:09 GMT</pubDate>
+            <description><![CDATA[Learn TLA+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Uzi Nissan（nissan.com）在2020年7月死於covid，現在網站已經癱瘓。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31950097</link>
+            <guid>https://news.ycombinator.com/item?id=31950097</guid>
+            <pubDate>Fri, 01 Jul 2022 17:51:53 GMT</pubDate>
+            <description><![CDATA[Uzi Nissan (nissan.com) died of covid July 2020 and the website is now down]]></description>
+        </item>
         <item>
             <title><![CDATA[Flask上沒有開放的問題或拉動請求
 ]]></title>
@@ -4742,20 +4758,6 @@
             <guid>https://news.ycombinator.com/item?id=31150370</guid>
             <pubDate>Mon, 25 Apr 2022 02:57:30 GMT</pubDate>
             <description><![CDATA[Shanghai video overwhelms Chinese censor, gets 400M views]]></description>
-        </item>
-        <item>
-            <title><![CDATA[呼叫NSA找到你的加密密鑰，在幾個比特被翻轉後（2010年）。]]></title>
-            <link>https://news.ycombinator.com/item?id=31137345</link>
-            <guid>https://news.ycombinator.com/item?id=31137345</guid>
-            <pubDate>Sat, 23 Apr 2022 19:06:21 GMT</pubDate>
-            <description><![CDATA[Calling NSA to find your encryption key after a few bits were flipped (2010)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在2022年，要找到一個SHA1碰撞有多容易？]]></title>
-            <link>https://news.ycombinator.com/item?id=31148839</link>
-            <guid>https://news.ycombinator.com/item?id=31148839</guid>
-            <pubDate>Sun, 24 Apr 2022 22:17:20 GMT</pubDate>
-            <description><![CDATA[How easy is it in 2022 to find a SHA1 collision?]]></description>
         </item>
     </channel>
 </rss>
