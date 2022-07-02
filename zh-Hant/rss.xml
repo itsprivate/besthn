@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 02 Jul 2022 04:02:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 07:25:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Voyager暫停交易、存款、提款和忠誠度獎勵
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31952379</link>
+            <guid>https://news.ycombinator.com/item?id=31952379</guid>
+            <pubDate>Fri, 01 Jul 2022 20:28:37 GMT</pubDate>
+            <description><![CDATA[Voyager suspends trading, deposits, withdrawals, and loyalty rewards]]></description>
+        </item>
         <item>
             <title><![CDATA[學習TLA+
 ]]></title>
@@ -4751,13 +4759,6 @@
             <guid>https://news.ycombinator.com/item?id=31153277</guid>
             <pubDate>Mon, 25 Apr 2022 11:58:20 GMT</pubDate>
             <description><![CDATA[Twitter set to accept Musk's $43B offer – sources]]></description>
-        </item>
-        <item>
-            <title><![CDATA[上海的視頻壓倒了中國的審查員，獲得了4億的瀏覽量]]></title>
-            <link>https://news.ycombinator.com/item?id=31150370</link>
-            <guid>https://news.ycombinator.com/item?id=31150370</guid>
-            <pubDate>Mon, 25 Apr 2022 02:57:30 GMT</pubDate>
-            <description><![CDATA[Shanghai video overwhelms Chinese censor, gets 400M views]]></description>
         </item>
     </channel>
 </rss>
