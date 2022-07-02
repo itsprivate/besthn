@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31953662",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31953662",
+            "title": "GPU的短缺已经结束\n",
+            "summary": "The GPU shortage is over",
+            "date_modified": "2022-07-01T22:09:36.000Z",
+            "author": {
+                "name": "mfiguiere",
+                "url": "https://news.ycombinator.com/user?id=mfiguiere"
+            },
+            "_original_headline": "The GPU shortage is over",
+            "_original_url": "https://www.theverge.com/2022/7/1/23191634/nvidia-amd-gpu-shortage-over-3080-3070-3060-radeon-rx-6900-6800",
+            "_sensitive": false,
+            "_score": 205
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31952379",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31952379",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://matklad.github.io//2022/04/25/why-lsp.html",
             "_sensitive": false,
             "_score": 254
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31153277",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31153277",
-            "title": "消息人士称Twitter将接受马斯克430亿美元的报价",
-            "summary": "Twitter set to accept Musk's $43B offer – sources",
-            "date_modified": "2022-04-25T11:58:20.000Z",
-            "author": {
-                "name": "marban",
-                "url": "https://news.ycombinator.com/user?id=marban"
-            },
-            "_original_headline": "Twitter set to accept Musk's $43B offer – sources",
-            "_original_url": "https://www.reuters.com/technology/exclusive-twitter-set-accept-musks-best-final-offer-sources-2022-04-25/",
-            "_sensitive": false,
-            "_score": 290
         }
     ]
 }
