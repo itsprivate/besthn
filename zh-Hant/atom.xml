@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-02T20:59:10.832Z</updated>
+    <updated>2022-07-02T21:24:37.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用htmx和超文本重新想象前端網絡開發
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31949621</id>
+        <link href="https://news.ycombinator.com/item?id=31949621"/>
+        <updated>2022-07-01T17:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Reimagining front-end web development with htmx and hyperscript]]></summary>
+        <author>
+            <name>mpweiher</name>
+            <uri>https://news.ycombinator.com/user?id=mpweiher</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[rsync是如何工作的？
 ]]></title>
@@ -7153,17 +7165,6 @@
         <author>
             <name>im_dario</name>
             <uri>https://news.ycombinator.com/user?id=im_dario</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本的故鄉稅 (2018)]]></title>
-        <id>https://news.ycombinator.com/item?id=31152365</id>
-        <link href="https://news.ycombinator.com/item?id=31152365"/>
-        <updated>2022-04-25T09:48:34.000Z</updated>
-        <summary type="html"><![CDATA[Japan's Hometown Tax (2018)]]></summary>
-        <author>
-            <name>harporoeder</name>
-            <uri>https://news.ycombinator.com/user?id=harporoeder</uri>
         </author>
     </entry>
 </feed>

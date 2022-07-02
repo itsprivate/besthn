@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31949621",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31949621",
+            "title": "用htmx和超文本重新想象前端網絡開發\n",
+            "summary": "Reimagining front-end web development with htmx and hyperscript",
+            "date_modified": "2022-07-01T17:18:01.000Z",
+            "author": {
+                "name": "mpweiher",
+                "url": "https://news.ycombinator.com/user?id=mpweiher"
+            },
+            "_original_headline": "Reimagining front-end web development with htmx and hyperscript",
+            "_original_url": "https://nomadiq.hashnode.dev/reimagining-front-end-web-development-with-htmx-and-hyperscript",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31958536",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31958536",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://acjay.com/2022/03/11/11-principles-of-engineering-management/",
             "_sensitive": false,
             "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31152365",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31152365",
-            "title": "日本的故鄉稅 (2018)",
-            "summary": "Japan's Hometown Tax (2018)",
-            "date_modified": "2022-04-25T09:48:34.000Z",
-            "author": {
-                "name": "harporoeder",
-                "url": "https://news.ycombinator.com/user?id=harporoeder"
-            },
-            "_original_headline": "Japan's Hometown Tax (2018)",
-            "_original_url": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
-            "_sensitive": false,
-            "_score": 253
         }
     ]
 }
