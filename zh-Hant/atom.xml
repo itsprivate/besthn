@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-01T22:29:21.745Z</updated>
+    <updated>2022-07-02T02:33:44.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Flask上沒有開放的問題或拉動請求
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31953470</id>
+        <link href="https://news.ycombinator.com/item?id=31953470"/>
+        <updated>2022-07-01T21:50:44.000Z</updated>
+        <summary type="html"><![CDATA[There are no open issues or pull requests on Flask]]></summary>
+        <author>
+            <name>b_mc2</name>
+            <uri>https://news.ycombinator.com/user?id=b_mc2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[像專家一樣在Python中登錄
 ]]></title>
@@ -7144,17 +7156,6 @@
         <author>
             <name>gary_0</name>
             <uri>https://news.ycombinator.com/user?id=gary_0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無人機改變了盧旺達的血液輸送狀況]]></title>
-        <id>https://news.ycombinator.com/item?id=31146299</id>
-        <link href="https://news.ycombinator.com/item?id=31146299"/>
-        <updated>2022-04-24T17:42:19.000Z</updated>
-        <summary type="html"><![CDATA[Drones have transformed blood delivery in Rwanda]]></summary>
-        <author>
-            <name>arunbahl</name>
-            <uri>https://news.ycombinator.com/user?id=arunbahl</uri>
         </author>
     </entry>
 </feed>
