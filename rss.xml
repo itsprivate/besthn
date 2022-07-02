@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 02 Jul 2022 21:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 22:28:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个工程师写文档的技巧，让开发者喜欢
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31945863</link>
+            <guid>https://news.ycombinator.com/item?id=31945863</guid>
+            <pubDate>Fri, 01 Jul 2022 13:09:46 GMT</pubDate>
+            <description><![CDATA[An engineer’s tips for writing documentation devs love]]></description>
+        </item>
         <item>
             <title><![CDATA[用htmx和超文本重新想象前端网络开发
 ]]></title>
@@ -4758,13 +4766,6 @@
             <guid>https://news.ycombinator.com/item?id=31150996</guid>
             <pubDate>Mon, 25 Apr 2022 05:31:45 GMT</pubDate>
             <description><![CDATA[Swedish slow TV: The great moose migration [video]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[工程管理的原则]]></title>
-            <link>https://news.ycombinator.com/item?id=31154738</link>
-            <guid>https://news.ycombinator.com/item?id=31154738</guid>
-            <pubDate>Mon, 25 Apr 2022 13:52:59 GMT</pubDate>
-            <description><![CDATA[Principles of Engineering Management]]></description>
         </item>
     </channel>
 </rss>
