@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 02 Jul 2022 19:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 20:59:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[rsync是如何工作的？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31958536</link>
+            <guid>https://news.ycombinator.com/item?id=31958536</guid>
+            <pubDate>Sat, 02 Jul 2022 12:41:23 GMT</pubDate>
+            <description><![CDATA[How does rsync work?]]></description>
+        </item>
         <item>
             <title><![CDATA[Scunthorpe Sans, 一种能自动审查不良语言的字体
 ]]></title>
@@ -4756,13 +4764,6 @@
             <guid>https://news.ycombinator.com/item?id=31152365</guid>
             <pubDate>Mon, 25 Apr 2022 09:48:34 GMT</pubDate>
             <description><![CDATA[Japan's Hometown Tax (2018)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hare编程语言]]></title>
-            <link>https://news.ycombinator.com/item?id=31151591</link>
-            <guid>https://news.ycombinator.com/item?id=31151591</guid>
-            <pubDate>Mon, 25 Apr 2022 07:44:19 GMT</pubDate>
-            <description><![CDATA[The Hare programming language]]></description>
         </item>
     </channel>
 </rss>

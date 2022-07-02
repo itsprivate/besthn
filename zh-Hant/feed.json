@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31958536",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31958536",
+            "title": "rsync是如何工作的？\n",
+            "summary": "How does rsync work?",
+            "date_modified": "2022-07-02T12:41:23.000Z",
+            "author": {
+                "name": "secure",
+                "url": "https://news.ycombinator.com/user?id=secure"
+            },
+            "_original_headline": "How does rsync work?",
+            "_original_url": "https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work/",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31957551",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31957551",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "Japan's Hometown Tax (2018)",
             "_original_url": "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/",
-            "_sensitive": false,
-            "_score": 253
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31151591",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31151591",
-            "title": "Hare編程語言",
-            "summary": "The Hare programming language",
-            "date_modified": "2022-04-25T07:44:19.000Z",
-            "author": {
-                "name": "ddevault",
-                "url": "https://news.ycombinator.com/user?id=ddevault"
-            },
-            "_original_headline": "The Hare programming language",
-            "_original_url": "https://harelang.org/blog/2022-04-25-announcing-hare/",
             "_sensitive": false,
             "_score": 253
         }
