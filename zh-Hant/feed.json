@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31957554",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31957554",
+            "title": "開源不是為了你（2018）\n",
+            "summary": "Open source is not about you (2018)",
+            "date_modified": "2022-07-02T09:39:39.000Z",
+            "author": {
+                "name": "capableweb",
+                "url": "https://news.ycombinator.com/user?id=capableweb"
+            },
+            "_original_headline": "Open source is not about you (2018)",
+            "_original_url": "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31955970",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31955970",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://balintreczey.hu/blog/firefox-on-ubuntu-22-04-from-deb-not-from-snap/",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31152490",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31152490",
-            "title": "你是否使用過SQLite作為主數據庫？",
-            "summary": "Ask HN: Have you used SQLite as a primary database?",
-            "date_modified": "2022-04-25T10:06:05.000Z",
-            "author": {
-                "name": "barryhennessy",
-                "url": "https://news.ycombinator.com/user?id=barryhennessy"
-            },
-            "_original_headline": "Ask HN: Have you used SQLite as a primary database?",
-            "_original_url": "https://news.ycombinator.com/item?id=31152490",
-            "_sensitive": false,
-            "_score": 255
         }
     ]
 }
