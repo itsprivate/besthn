@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-02T17:07:44.506Z</updated>
+    <updated>2022-07-02T19:23:15.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Scunthorpe Sans, 一種能自動審查不良語言的字體
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31957551</id>
+        <link href="https://news.ycombinator.com/item?id=31957551"/>
+        <updated>2022-07-02T09:38:50.000Z</updated>
+        <summary type="html"><![CDATA[Scunthorpe Sans, A font that censors bad language automatically]]></summary>
+        <author>
+            <name>WayToDoor</name>
+            <uri>https://news.ycombinator.com/user?id=WayToDoor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[開源不是為了你（2018）
 ]]></title>
@@ -7151,17 +7163,6 @@
         <author>
             <name>ddevault</name>
             <uri>https://news.ycombinator.com/user?id=ddevault</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Ubuntu 22.04上從.deb（不是從snap）下載火狐。]]></title>
-        <id>https://news.ycombinator.com/item?id=31138413</id>
-        <link href="https://news.ycombinator.com/item?id=31138413"/>
-        <updated>2022-04-23T20:51:44.000Z</updated>
-        <summary type="html"><![CDATA[Firefox on Ubuntu 22.04 from .deb (not from snap)]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>
