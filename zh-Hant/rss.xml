@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 02 Jul 2022 22:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 23:26:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[數據分析的Python，第三版--在線開放存取版
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31957908</link>
+            <guid>https://news.ycombinator.com/item?id=31957908</guid>
+            <pubDate>Sat, 02 Jul 2022 10:53:05 GMT</pubDate>
+            <description><![CDATA[Python for Data Analysis, 3rd Edition – The Open Access Version Online]]></description>
+        </item>
         <item>
             <title><![CDATA[一個工程師寫文檔的技巧，讓開發者喜歡
 ]]></title>
@@ -4759,13 +4767,6 @@
             <guid>https://news.ycombinator.com/item?id=31160546</guid>
             <pubDate>Mon, 25 Apr 2022 21:01:53 GMT</pubDate>
             <description><![CDATA[twitter/the-algorithm]]></description>
-        </item>
-        <item>
-            <title><![CDATA[瑞典慢電視。麋鹿大遷徙 [視頻]]]></title>
-            <link>https://news.ycombinator.com/item?id=31150996</link>
-            <guid>https://news.ycombinator.com/item?id=31150996</guid>
-            <pubDate>Mon, 25 Apr 2022 05:31:45 GMT</pubDate>
-            <description><![CDATA[Swedish slow TV: The great moose migration [video]]]></description>
         </item>
     </channel>
 </rss>
