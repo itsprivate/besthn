@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 03 Jul 2022 14:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 17:05:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[發現。催化作用的聖盃--將甲烷變成甲醇
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31944541</link>
+            <guid>https://news.ycombinator.com/item?id=31944541</guid>
+            <pubDate>Fri, 01 Jul 2022 10:29:26 GMT</pubDate>
+            <description><![CDATA[Found: The 'holy grail of catalysis'– turning methane into methanol]]></description>
+        </item>
         <item>
             <title><![CDATA[京都項目正在從GitHub轉移到Sourcehut
 ]]></title>
@@ -4773,13 +4781,6 @@
             <guid>https://news.ycombinator.com/item?id=31168862</guid>
             <pubDate>Tue, 26 Apr 2022 15:38:51 GMT</pubDate>
             <description><![CDATA[3,200-year-old Egyptian tablet records excuses for why people missed work]]></description>
-        </item>
-        <item>
-            <title><![CDATA[捍衛加州嚴肅數學教育運動的最新情況]]></title>
-            <link>https://news.ycombinator.com/item?id=31170431</link>
-            <guid>https://news.ycombinator.com/item?id=31170431</guid>
-            <pubDate>Tue, 26 Apr 2022 17:30:50 GMT</pubDate>
-            <description><![CDATA[An update on the campaign to defend serious math education in California]]></description>
         </item>
     </channel>
 </rss>
