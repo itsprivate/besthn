@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 03 Jul 2022 21:57:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 22:45:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[海盗图书馆镜像。保存7TB的书籍（不在Libgen中）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31970805</link>
+            <guid>https://news.ycombinator.com/item?id=31970805</guid>
+            <pubDate>Sun, 03 Jul 2022 20:39:29 GMT</pubDate>
+            <description><![CDATA[Pirate Library Mirror: Preserving 7TB of books (that are not in Libgen)]]></description>
+        </item>
         <item>
             <title><![CDATA[枪手行动--苏联人如何窃听IBM打字机(2015)
 ]]></title>
@@ -4779,13 +4787,6 @@
             <guid>https://news.ycombinator.com/item?id=31176752</guid>
             <pubDate>Wed, 27 Apr 2022 05:49:21 GMT</pubDate>
             <description><![CDATA[Deutsche Bank whistleblower found dead in LA's Lincoln Park]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SELinux是无法管理的；如果它妨碍了你，就把它关掉吧]]></title>
-            <link>https://news.ycombinator.com/item?id=31176138</link>
-            <guid>https://news.ycombinator.com/item?id=31176138</guid>
-            <pubDate>Wed, 27 Apr 2022 04:00:36 GMT</pubDate>
-            <description><![CDATA[SELinux is unmanageable; just turn it off if it gets in your way]]></description>
         </item>
     </channel>
 </rss>
