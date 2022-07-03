@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-03T20:28:52.953Z</updated>
+    <updated>2022-07-03T21:57:46.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[槍手行動--蘇聯人如何竊聽IBM打字機(2015)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31965969</id>
+        <link href="https://news.ycombinator.com/item?id=31965969"/>
+        <updated>2022-07-03T08:01:43.000Z</updated>
+        <summary type="html"><![CDATA[Operation Gunman – how the Soviets bugged IBM typewriters (2015)]]></summary>
+        <author>
+            <name>mtmail</name>
+            <uri>https://news.ycombinator.com/user?id=mtmail</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[要失去Duolingo的連勝是相當困難的。
 ]]></title>
@@ -7174,17 +7186,6 @@
         <author>
             <name>HyphenSam</name>
             <uri>https://news.ycombinator.com/user?id=HyphenSam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caddy v2.5.0]]></title>
-        <id>https://news.ycombinator.com/item?id=31170280</id>
-        <link href="https://news.ycombinator.com/item?id=31170280"/>
-        <updated>2022-04-26T17:20:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Caddy v2.5.0]]></summary>
-        <author>
-            <name>francislavoie</name>
-            <uri>https://news.ycombinator.com/user?id=francislavoie</uri>
         </author>
     </entry>
 </feed>
