@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31963813",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31963813",
+            "title": "文件顯示麥肯錫的作用是在2019年前增加阿片類藥物的銷量\n",
+            "summary": "Documents reveal McKinsey's role increasing opioid sales until 2019",
+            "date_modified": "2022-07-03T00:23:07.000Z",
+            "author": {
+                "name": "Jerry2",
+                "url": "https://news.ycombinator.com/user?id=Jerry2"
+            },
+            "_original_headline": "Documents reveal McKinsey's role increasing opioid sales until 2019",
+            "_original_url": "https://www.axios.com/2022/07/01/mckinsey-opioid-documents",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31961912",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31961912",
+            "title": "MSVCRT的Windows malloc()實現很慢\n",
+            "summary": "The Windows malloc() implementation from MSVCRT is slow",
+            "date_modified": "2022-07-02T20:08:38.000Z",
+            "author": {
+                "name": "blackhole",
+                "url": "https://news.ycombinator.com/user?id=blackhole"
+            },
+            "_original_headline": "The Windows malloc() implementation from MSVCRT is slow",
+            "_original_url": "https://erikmcclure.com/blog/windows-malloc-implementation-is-a-trash-fire/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31963460",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31963460",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://quii.gitbook.io/learn-go-with-tests/",
             "_sensitive": false,
             "_score": 254
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31165505",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31165505",
-            "title": "我在macOS上不能做而在Ubuntu上可以做的事情",
-            "summary": "Things I can’t do on macOS which I can do on Ubuntu",
-            "date_modified": "2022-04-26T09:31:44.000Z",
-            "author": {
-                "name": "robin_reala",
-                "url": "https://news.ycombinator.com/user?id=robin_reala"
-            },
-            "_original_headline": "Things I can’t do on macOS which I can do on Ubuntu",
-            "_original_url": "https://shkspr.mobi/blog/2020/04/things-i-cant-do-on-macos-which-i-can-do-on-ubuntu/",
-            "_sensitive": false,
-            "_score": 262
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31153963",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31153963",
-            "title": "我在一年內賣出了640本我的書",
-            "summary": "I sold 640 copies of my book in one year",
-            "date_modified": "2022-04-25T13:07:59.000Z",
-            "author": {
-                "name": "strzibny",
-                "url": "https://news.ycombinator.com/user?id=strzibny"
-            },
-            "_original_headline": "I sold 640 copies of my book in one year",
-            "_original_url": "https://nts.strzibny.name/one-year-of-sales/",
-            "_sensitive": false,
-            "_score": 252
         }
     ]
 }
