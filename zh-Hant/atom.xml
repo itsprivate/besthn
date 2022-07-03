@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-03T08:30:33.750Z</updated>
+    <updated>2022-07-03T09:59:16.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AWS Nuke - 刪除與AWS賬戶相關的所有資源
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31962014</id>
+        <link href="https://news.ycombinator.com/item?id=31962014"/>
+        <updated>2022-07-02T20:23:46.000Z</updated>
+        <summary type="html"><![CDATA[AWS Nuke – delete all resources associated with AWS account]]></summary>
+        <author>
+            <name>fortran77</name>
+            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文件顯示麥肯錫的作用是在2019年前增加阿片類藥物的銷量
 ]]></title>
@@ -7164,17 +7176,6 @@
         <author>
             <name>doener</name>
             <uri>https://news.ycombinator.com/user?id=doener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過測試學習圍棋]]></title>
-        <id>https://news.ycombinator.com/item?id=31163709</id>
-        <link href="https://news.ycombinator.com/item?id=31163709"/>
-        <updated>2022-04-26T03:43:32.000Z</updated>
-        <summary type="html"><![CDATA[Learn Go with Tests]]></summary>
-        <author>
-            <name>Lantt</name>
-            <uri>https://news.ycombinator.com/user?id=Lantt</uri>
         </author>
     </entry>
 </feed>

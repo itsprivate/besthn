@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 03 Jul 2022 08:30:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 09:59:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[AWS Nuke - 删除与AWS账户相关的所有资源
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31962014</link>
+            <guid>https://news.ycombinator.com/item?id=31962014</guid>
+            <pubDate>Sat, 02 Jul 2022 20:23:46 GMT</pubDate>
+            <description><![CDATA[AWS Nuke – delete all resources associated with AWS account]]></description>
+        </item>
         <item>
             <title><![CDATA[文件显示麦肯锡的作用是在2019年前增加阿片类药物的销量
 ]]></title>
@@ -4768,13 +4776,6 @@
             <guid>https://news.ycombinator.com/item?id=31166346</guid>
             <pubDate>Tue, 26 Apr 2022 11:53:30 GMT</pubDate>
             <description><![CDATA[LineageOS 19]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通过测试学习围棋]]></title>
-            <link>https://news.ycombinator.com/item?id=31163709</link>
-            <guid>https://news.ycombinator.com/item?id=31163709</guid>
-            <pubDate>Tue, 26 Apr 2022 03:43:32 GMT</pubDate>
-            <description><![CDATA[Learn Go with Tests]]></description>
         </item>
     </channel>
 </rss>
