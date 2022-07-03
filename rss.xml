@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 02 Jul 2022 23:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 04:01:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Darktable 4.0
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31960962</link>
+            <guid>https://news.ycombinator.com/item?id=31960962</guid>
+            <pubDate>Sat, 02 Jul 2022 17:49:15 GMT</pubDate>
+            <description><![CDATA[Darktable 4.0]]></description>
+        </item>
+        <item>
+            <title><![CDATA[雅虎承认篡改电子邮件 (2002)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31959890</link>
+            <guid>https://news.ycombinator.com/item?id=31959890</guid>
+            <pubDate>Sat, 02 Jul 2022 15:33:20 GMT</pubDate>
+            <description><![CDATA[Yahoo admits mangling e-mail (2002)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[React状态管理的新浪潮
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31959289</link>
+            <guid>https://news.ycombinator.com/item?id=31959289</guid>
+            <pubDate>Sat, 02 Jul 2022 14:31:17 GMT</pubDate>
+            <description><![CDATA[The new wave of React state management]]></description>
+        </item>
         <item>
             <title><![CDATA[数据分析的Python，第三版--在线开放存取版
 ]]></title>
@@ -4746,27 +4770,6 @@
             <guid>https://news.ycombinator.com/item?id=31157969</guid>
             <pubDate>Mon, 25 Apr 2022 17:22:21 GMT</pubDate>
             <description><![CDATA[Ask HN: What happened to Twitter poison pill?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[优雅的六页证明揭示了随机结构的出现]]></title>
-            <link>https://news.ycombinator.com/item?id=31162576</link>
-            <guid>https://news.ycombinator.com/item?id=31162576</guid>
-            <pubDate>Tue, 26 Apr 2022 00:25:49 GMT</pubDate>
-            <description><![CDATA[Elegant six-page proof reveals the emergence of random structure]]></description>
-        </item>
-        <item>
-            <title><![CDATA[核子、核子和锥子。核潜艇上独特的社会等级制度]]></title>
-            <link>https://news.ycombinator.com/item?id=31155242</link>
-            <guid>https://news.ycombinator.com/item?id=31155242</guid>
-            <pubDate>Mon, 25 Apr 2022 14:24:14 GMT</pubDate>
-            <description><![CDATA[Nukes, nubs and coners: The unique social hierarchy aboard a nuclear submarine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[twitter/the-algorithm]]></title>
-            <link>https://news.ycombinator.com/item?id=31160546</link>
-            <guid>https://news.ycombinator.com/item?id=31160546</guid>
-            <pubDate>Mon, 25 Apr 2022 21:01:53 GMT</pubDate>
-            <description><![CDATA[twitter/the-algorithm]]></description>
         </item>
     </channel>
 </rss>

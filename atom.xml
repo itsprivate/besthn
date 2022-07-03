@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-02T23:26:33.377Z</updated>
+    <updated>2022-07-03T04:01:03.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Darktable 4.0
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31960962</id>
+        <link href="https://news.ycombinator.com/item?id=31960962"/>
+        <updated>2022-07-02T17:49:15.000Z</updated>
+        <summary type="html"><![CDATA[Darktable 4.0]]></summary>
+        <author>
+            <name>aendruk</name>
+            <uri>https://news.ycombinator.com/user?id=aendruk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雅虎承认篡改电子邮件 (2002)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31959890</id>
+        <link href="https://news.ycombinator.com/item?id=31959890"/>
+        <updated>2022-07-02T15:33:20.000Z</updated>
+        <summary type="html"><![CDATA[Yahoo admits mangling e-mail (2002)]]></summary>
+        <author>
+            <name>Andoryuuta</name>
+            <uri>https://news.ycombinator.com/user?id=Andoryuuta</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React状态管理的新浪潮
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31959289</id>
+        <link href="https://news.ycombinator.com/item?id=31959289"/>
+        <updated>2022-07-02T14:31:17.000Z</updated>
+        <summary type="html"><![CDATA[The new wave of React state management]]></summary>
+        <author>
+            <name>remrem</name>
+            <uri>https://news.ycombinator.com/user?id=remrem</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数据分析的Python，第三版--在线开放存取版
 ]]></title>
@@ -7134,39 +7170,6 @@
         <author>
             <name>rukshn</name>
             <uri>https://news.ycombinator.com/user?id=rukshn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[优雅的六页证明揭示了随机结构的出现]]></title>
-        <id>https://news.ycombinator.com/item?id=31162576</id>
-        <link href="https://news.ycombinator.com/item?id=31162576"/>
-        <updated>2022-04-26T00:25:49.000Z</updated>
-        <summary type="html"><![CDATA[Elegant six-page proof reveals the emergence of random structure]]></summary>
-        <author>
-            <name>davidvarela_us</name>
-            <uri>https://news.ycombinator.com/user?id=davidvarela_us</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[核子、核子和锥子。核潜艇上独特的社会等级制度]]></title>
-        <id>https://news.ycombinator.com/item?id=31155242</id>
-        <link href="https://news.ycombinator.com/item?id=31155242"/>
-        <updated>2022-04-25T14:24:14.000Z</updated>
-        <summary type="html"><![CDATA[Nukes, nubs and coners: The unique social hierarchy aboard a nuclear submarine]]></summary>
-        <author>
-            <name>ColinWright</name>
-            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[twitter/the-algorithm]]></title>
-        <id>https://news.ycombinator.com/item?id=31160546</id>
-        <link href="https://news.ycombinator.com/item?id=31160546"/>
-        <updated>2022-04-25T21:01:53.000Z</updated>
-        <summary type="html"><![CDATA[twitter/the-algorithm]]></summary>
-        <author>
-            <name>johns</name>
-            <uri>https://news.ycombinator.com/user?id=johns</uri>
         </author>
     </entry>
 </feed>
