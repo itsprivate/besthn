@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 03 Jul 2022 07:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 07:56:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[看着一个收购者毁掉你的公司
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31963460</link>
+            <guid>https://news.ycombinator.com/item?id=31963460</guid>
+            <pubDate>Sat, 02 Jul 2022 23:26:55 GMT</pubDate>
+            <description><![CDATA[Watching an acquirer ruin your company]]></description>
+        </item>
         <item>
             <title><![CDATA[加州新法律要求高中推迟开学
 ]]></title>
@@ -4765,13 +4773,6 @@
             <guid>https://news.ycombinator.com/item?id=31153963</guid>
             <pubDate>Mon, 25 Apr 2022 13:07:59 GMT</pubDate>
             <description><![CDATA[I sold 640 copies of my book in one year]]></description>
-        </item>
-        <item>
-            <title><![CDATA[机器学习就业市场]]></title>
-            <link>https://news.ycombinator.com/item?id=31155782</link>
-            <guid>https://news.ycombinator.com/item?id=31155782</guid>
-            <pubDate>Mon, 25 Apr 2022 14:58:25 GMT</pubDate>
-            <description><![CDATA[The Machine Learning Job Market]]></description>
         </item>
     </channel>
 </rss>

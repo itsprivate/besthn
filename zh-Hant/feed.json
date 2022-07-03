@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31963460",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31963460",
+            "title": "看著一個收購者毀掉你的公司\n",
+            "summary": "Watching an acquirer ruin your company",
+            "date_modified": "2022-07-02T23:26:55.000Z",
+            "author": {
+                "name": "kelsus",
+                "url": "https://news.ycombinator.com/user?id=kelsus"
+            },
+            "_original_headline": "Watching an acquirer ruin your company",
+            "_original_url": "https://startupwin.kelsus.com/p/watching-an-acquirer-ruin-your-company",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31952132",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31952132",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://nts.strzibny.name/one-year-of-sales/",
             "_sensitive": false,
             "_score": 252
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31155782",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31155782",
-            "title": "機器學習就業市場",
-            "summary": "The Machine Learning Job Market",
-            "date_modified": "2022-04-25T14:58:25.000Z",
-            "author": {
-                "name": "sebg",
-                "url": "https://news.ycombinator.com/user?id=sebg"
-            },
-            "_original_headline": "The Machine Learning Job Market",
-            "_original_url": "https://evjang.com/2022/04/25/rome.html",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }
