@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 03 Jul 2022 17:05:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 18:02:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Vite - 下一代前端工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31967420</link>
+            <guid>https://news.ycombinator.com/item?id=31967420</guid>
+            <pubDate>Sun, 03 Jul 2022 13:06:54 GMT</pubDate>
+            <description><![CDATA[Vite – Next Generation Front End Tooling]]></description>
+        </item>
         <item>
             <title><![CDATA[发现。催化作用的圣杯--将甲烷变成甲醇
 ]]></title>
@@ -4774,13 +4782,6 @@
             <guid>https://news.ycombinator.com/item?id=31170528</guid>
             <pubDate>Tue, 26 Apr 2022 17:38:37 GMT</pubDate>
             <description><![CDATA[Stress hormone reduces altruistic behavior in empathetic people]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有3200年历史的埃及石碑记录了人们错过工作的借口]]></title>
-            <link>https://news.ycombinator.com/item?id=31168862</link>
-            <guid>https://news.ycombinator.com/item?id=31168862</guid>
-            <pubDate>Tue, 26 Apr 2022 15:38:51 GMT</pubDate>
-            <description><![CDATA[3,200-year-old Egyptian tablet records excuses for why people missed work]]></description>
         </item>
     </channel>
 </rss>

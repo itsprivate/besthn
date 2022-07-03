@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-03T17:05:45.099Z</updated>
+    <updated>2022-07-03T18:02:52.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Vite - 下一代前端工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31967420</id>
+        <link href="https://news.ycombinator.com/item?id=31967420"/>
+        <updated>2022-07-03T13:06:54.000Z</updated>
+        <summary type="html"><![CDATA[Vite – Next Generation Front End Tooling]]></summary>
+        <author>
+            <name>legrande</name>
+            <uri>https://news.ycombinator.com/user?id=legrande</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[发现。催化作用的圣杯--将甲烷变成甲醇
 ]]></title>
@@ -7170,17 +7182,6 @@
         <author>
             <name>community</name>
             <uri>https://news.ycombinator.com/user?id=community</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有3200年历史的埃及石碑记录了人们错过工作的借口]]></title>
-        <id>https://news.ycombinator.com/item?id=31168862</id>
-        <link href="https://news.ycombinator.com/item?id=31168862"/>
-        <updated>2022-04-26T15:38:51.000Z</updated>
-        <summary type="html"><![CDATA[3,200-year-old Egyptian tablet records excuses for why people missed work]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
         </author>
     </entry>
 </feed>
