@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-03T04:20:18.176Z</updated>
+    <updated>2022-07-03T07:25:56.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[加州新法律要求高中推遲開學
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31952132</id>
+        <link href="https://news.ycombinator.com/item?id=31952132"/>
+        <updated>2022-07-01T20:12:22.000Z</updated>
+        <summary type="html"><![CDATA[New California law requires high schools to start later]]></summary>
+        <author>
+            <name>thnaks</name>
+            <uri>https://news.ycombinator.com/user?id=thnaks</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[荷蘭和歐洲的軟件工資的三態性（2021）。
 ]]></title>
@@ -7160,17 +7172,6 @@
         <author>
             <name>sebg</name>
             <uri>https://news.ycombinator.com/user?id=sebg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只用一個網頁就能防止你的電腦睡覺]]></title>
-        <id>https://news.ycombinator.com/item?id=31123522</id>
-        <link href="https://news.ycombinator.com/item?id=31123522"/>
-        <updated>2022-04-22T16:12:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Prevent your computer sleeping with just a webpage]]></summary>
-        <author>
-            <name>bradleyjkemp</name>
-            <uri>https://news.ycombinator.com/user?id=bradleyjkemp</uri>
         </author>
     </entry>
 </feed>
