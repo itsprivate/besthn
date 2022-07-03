@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-03T11:00:57.148Z</updated>
+    <updated>2022-07-03T11:43:20.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[他們是用肉做的 (1991)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31965062</id>
+        <link href="https://news.ycombinator.com/item?id=31965062"/>
+        <updated>2022-07-03T04:26:40.000Z</updated>
+        <summary type="html"><![CDATA[They're made out of meat (1991)]]></summary>
+        <author>
+            <name>6502nerdface</name>
+            <uri>https://news.ycombinator.com/user?id=6502nerdface</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[開放邏輯項目
 ]]></title>
@@ -7166,17 +7178,6 @@
         <author>
             <name>njaaazi</name>
             <uri>https://news.ycombinator.com/user?id=njaaazi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zq：一個更容易、更快速的jq替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=31166956</id>
-        <link href="https://news.ycombinator.com/item?id=31166956"/>
-        <updated>2022-04-26T13:02:59.000Z</updated>
-        <summary type="html"><![CDATA[Zq: An easier and faster alternative to jq]]></summary>
-        <author>
-            <name>mccanne</name>
-            <uri>https://news.ycombinator.com/user?id=mccanne</uri>
         </author>
     </entry>
 </feed>
