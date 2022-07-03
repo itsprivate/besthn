@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-03T09:59:16.553Z</updated>
+    <updated>2022-07-03T11:00:57.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开放逻辑项目
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31960219</id>
+        <link href="https://news.ycombinator.com/item?id=31960219"/>
+        <updated>2022-07-02T16:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Open Logic Project]]></summary>
+        <author>
+            <name>peanutcrisis</name>
+            <uri>https://news.ycombinator.com/user?id=peanutcrisis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Nuke - 删除与AWS账户相关的所有资源
 ]]></title>
@@ -7165,17 +7177,6 @@
         <author>
             <name>mccanne</name>
             <uri>https://news.ycombinator.com/user?id=mccanne</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[洛克斯堡大学]]></title>
-        <id>https://news.ycombinator.com/item?id=31166346</id>
-        <link href="https://news.ycombinator.com/item?id=31166346"/>
-        <updated>2022-04-26T11:53:30.000Z</updated>
-        <summary type="html"><![CDATA[LineageOS 19]]></summary>
-        <author>
-            <name>doener</name>
-            <uri>https://news.ycombinator.com/user?id=doener</uri>
         </author>
     </entry>
 </feed>

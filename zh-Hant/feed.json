@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31960219",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31960219",
+            "title": "開放邏輯項目\n",
+            "summary": "Open Logic Project",
+            "date_modified": "2022-07-02T16:12:00.000Z",
+            "author": {
+                "name": "peanutcrisis",
+                "url": "https://news.ycombinator.com/user?id=peanutcrisis"
+            },
+            "_original_headline": "Open Logic Project",
+            "_original_url": "http://builds.openlogicproject.org/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31962014",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31962014",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.brimdata.io/blog/introducing-zq/",
             "_sensitive": false,
             "_score": 256
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31166346",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31166346",
-            "title": "洛克斯堡大學",
-            "summary": "LineageOS 19",
-            "date_modified": "2022-04-26T11:53:30.000Z",
-            "author": {
-                "name": "doener",
-                "url": "https://news.ycombinator.com/user?id=doener"
-            },
-            "_original_headline": "LineageOS 19",
-            "_original_url": "https://lineageos.org/Changelog-26/",
-            "_sensitive": false,
-            "_score": 267
         }
     ]
 }
