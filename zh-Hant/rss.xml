@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 03 Jul 2022 22:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 23:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我已經41歲了，仍然沒有結婚--我應該怎麼辦？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31961992</link>
+            <guid>https://news.ycombinator.com/item?id=31961992</guid>
+            <pubDate>Sat, 02 Jul 2022 20:19:12 GMT</pubDate>
+            <description><![CDATA[Ask HN: I’m 41 and still unmarried – what should I do?]]></description>
+        </item>
         <item>
             <title><![CDATA[海盜圖書館鏡像。保存7TB的書籍（不在Libgen中）。
 ]]></title>
@@ -4780,13 +4788,6 @@
             <guid>https://news.ycombinator.com/item?id=31176828</guid>
             <pubDate>Wed, 27 Apr 2022 06:02:24 GMT</pubDate>
             <description><![CDATA[Khan Academy launches Khan World School online high school]]></description>
-        </item>
-        <item>
-            <title><![CDATA[德意志銀行舉報人在洛杉磯林肯公園被發現死亡]]></title>
-            <link>https://news.ycombinator.com/item?id=31176752</link>
-            <guid>https://news.ycombinator.com/item?id=31176752</guid>
-            <pubDate>Wed, 27 Apr 2022 05:49:21 GMT</pubDate>
-            <description><![CDATA[Deutsche Bank whistleblower found dead in LA's Lincoln Park]]></description>
         </item>
     </channel>
 </rss>
