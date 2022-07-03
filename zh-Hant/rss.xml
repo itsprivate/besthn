@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 03 Jul 2022 18:32:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 19:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何建立一個國際象棋引擎
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31964685</link>
+            <guid>https://news.ycombinator.com/item?id=31964685</guid>
+            <pubDate>Sun, 03 Jul 2022 03:05:10 GMT</pubDate>
+            <description><![CDATA[How to build a chess engine]]></description>
+        </item>
         <item>
             <title><![CDATA[40%的谷歌用戶現在通過IPv6連接
 ]]></title>
@@ -4776,13 +4784,6 @@
             <guid>https://news.ycombinator.com/item?id=31163083</guid>
             <pubDate>Tue, 26 Apr 2022 01:47:10 GMT</pubDate>
             <description><![CDATA[Hush, a modern shell scripting language]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2-22-22發生的斯拉克事件]]></title>
-            <link>https://news.ycombinator.com/item?id=31170370</link>
-            <guid>https://news.ycombinator.com/item?id=31170370</guid>
-            <pubDate>Tue, 26 Apr 2022 17:26:56 GMT</pubDate>
-            <description><![CDATA[Slack’s Incident on 2-22-22]]></description>
         </item>
     </channel>
 </rss>
