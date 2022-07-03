@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31967221",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31967221",
+            "title": "40%的谷歌用戶現在通過IPv6連接\n",
+            "summary": "40% of Google users now connect via IPv6",
+            "date_modified": "2022-07-03T12:33:32.000Z",
+            "author": {
+                "name": "leohonexus",
+                "url": "https://news.ycombinator.com/user?id=leohonexus"
+            },
+            "_original_headline": "40% of Google users now connect via IPv6",
+            "_original_url": "https://www.google.com/intl/en/ipv6/statistics.html",
+            "_sensitive": false,
+            "_score": 206
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31967420",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31967420",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "Slack’s Incident on 2-22-22",
             "_original_url": "https://slack.engineering/slacks-incident-on-2-22-22/",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31170528",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31170528",
-            "title": "壓力荷爾蒙會減少有同情心的人的利他行為",
-            "summary": "Stress hormone reduces altruistic behavior in empathetic people",
-            "date_modified": "2022-04-26T17:38:37.000Z",
-            "author": {
-                "name": "community",
-                "url": "https://news.ycombinator.com/user?id=community"
-            },
-            "_original_headline": "Stress hormone reduces altruistic behavior in empathetic people",
-            "_original_url": "https://neurosciencenews.com/cortisol-altrusim-empathy-20262/",
             "_sensitive": false,
             "_score": 250
         }
