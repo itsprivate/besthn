@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 03 Jul 2022 12:45:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 14:25:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[京都項目正在從GitHub轉移到Sourcehut
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31961402</link>
+            <guid>https://news.ycombinator.com/item?id=31961402</guid>
+            <pubDate>Sat, 02 Jul 2022 18:56:00 GMT</pubDate>
+            <description><![CDATA[Kyoto project is moving from GitHub to Sourcehut]]></description>
+        </item>
         <item>
             <title><![CDATA[天氣預報工具(WeatherKit)
 ]]></title>
@@ -4772,13 +4780,6 @@
             <guid>https://news.ycombinator.com/item?id=31170431</guid>
             <pubDate>Tue, 26 Apr 2022 17:30:50 GMT</pubDate>
             <description><![CDATA[An update on the campaign to defend serious math education in California]]></description>
-        </item>
-        <item>
-            <title><![CDATA[無限麥]]></title>
-            <link>https://news.ycombinator.com/item?id=31168646</link>
-            <guid>https://news.ycombinator.com/item?id=31168646</guid>
-            <pubDate>Tue, 26 Apr 2022 15:25:15 GMT</pubDate>
-            <description><![CDATA[Infinite Mac]]></description>
         </item>
     </channel>
 </rss>
