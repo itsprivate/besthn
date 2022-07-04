@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31972681",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31972681",
+            "title": "爆米花時間回來了\n",
+            "summary": "Popcorn Time Is Back",
+            "date_modified": "2022-07-04T01:47:51.000Z",
+            "author": {
+                "name": "lawgimenez",
+                "url": "https://news.ycombinator.com/user?id=lawgimenez"
+            },
+            "_original_headline": "Popcorn Time Is Back",
+            "_original_url": "https://github.com/popcorn-official/popcorn-android/releases/tag/v0.3.5",
+            "_sensitive": false,
+            "_score": 210
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31971858",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31971858",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://cbea.ms/git-commit/",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31180646",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31180646",
-            "title": "90%的護士考慮在未來一年內離開這個行業",
-            "summary": "90% of nurses considering leaving the profession in the next year",
-            "date_modified": "2022-04-27T14:54:06.000Z",
-            "author": {
-                "name": "dr_pardee",
-                "url": "https://news.ycombinator.com/user?id=dr_pardee"
-            },
-            "_original_headline": "90% of nurses considering leaving the profession in the next year",
-            "_original_url": "https://www.healthcareitnews.com/news/report-90-nurses-considering-leaving-profession-next-year",
-            "_sensitive": false,
-            "_score": 326
         }
     ]
 }

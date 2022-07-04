@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-04T02:42:42.375Z</updated>
+    <updated>2022-07-04T09:31:07.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[爆米花時間回來了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31972681</id>
+        <link href="https://news.ycombinator.com/item?id=31972681"/>
+        <updated>2022-07-04T01:47:51.000Z</updated>
+        <summary type="html"><![CDATA[Popcorn Time Is Back]]></summary>
+        <author>
+            <name>lawgimenez</name>
+            <uri>https://news.ycombinator.com/user?id=lawgimenez</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼從來沒有人在商場贏過車(2018)
 ]]></title>
@@ -7180,17 +7192,6 @@
         <author>
             <name>baristaGeek</name>
             <uri>https://news.ycombinator.com/user?id=baristaGeek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[90%的護士考慮在未來一年內離開這個行業]]></title>
-        <id>https://news.ycombinator.com/item?id=31180646</id>
-        <link href="https://news.ycombinator.com/item?id=31180646"/>
-        <updated>2022-04-27T14:54:06.000Z</updated>
-        <summary type="html"><![CDATA[90% of nurses considering leaving the profession in the next year]]></summary>
-        <author>
-            <name>dr_pardee</name>
-            <uri>https://news.ycombinator.com/user?id=dr_pardee</uri>
         </author>
     </entry>
 </feed>
