@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-04T18:00:13.412Z</updated>
+    <updated>2022-07-04T19:00:38.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我是残疾人，没有钱了。现在怎么办？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31979104</id>
+        <link href="https://news.ycombinator.com/item?id=31979104"/>
+        <updated>2022-07-04T16:49:13.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: I'm disabled and out of money. Now what?]]></summary>
+        <author>
+            <name>thrwtllwy</name>
+            <uri>https://news.ycombinator.com/user?id=thrwtllwy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[红色引擎：用于Python应用程序的现代调度框架
 ]]></title>
@@ -7187,17 +7199,6 @@
         <author>
             <name>RafelMri</name>
             <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小心那个东西，它是一个保密的咖啡机]]></title>
-        <id>https://news.ycombinator.com/item?id=31168150</id>
-        <link href="https://news.ycombinator.com/item?id=31168150"/>
-        <updated>2022-04-26T14:48:27.000Z</updated>
-        <summary type="html"><![CDATA[Be careful with that thing, it's a confidential coffee maker]]></summary>
-        <author>
-            <name>signa11</name>
-            <uri>https://news.ycombinator.com/user?id=signa11</uri>
         </author>
     </entry>
 </feed>
