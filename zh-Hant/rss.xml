@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 04 Jul 2022 19:58:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 20:31:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[羅伯遜與托克斯螺桿驅動器 (2021)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31958512</link>
+            <guid>https://news.ycombinator.com/item?id=31958512</guid>
+            <pubDate>Sat, 02 Jul 2022 12:35:56 GMT</pubDate>
+            <description><![CDATA[Robertson vs. Torx screw drives (2021)]]></description>
+        </item>
         <item>
             <title><![CDATA[地方新聞危機正在加深美國的分歧
 ]]></title>
@@ -4794,13 +4802,6 @@
             <guid>https://news.ycombinator.com/item?id=31180379</guid>
             <pubDate>Wed, 27 Apr 2022 14:31:52 GMT</pubDate>
             <description><![CDATA[Ask HN: Why can't I host my own email?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不，你不能通過關閉你的 "待機 "設備每年節省30英鎊]]></title>
-            <link>https://news.ycombinator.com/item?id=31178506</link>
-            <guid>https://news.ycombinator.com/item?id=31178506</guid>
-            <pubDate>Wed, 27 Apr 2022 11:09:50 GMT</pubDate>
-            <description><![CDATA[No, you can’t save £30 per year by switching off your “standby” devices]]></description>
         </item>
     </channel>
 </rss>
