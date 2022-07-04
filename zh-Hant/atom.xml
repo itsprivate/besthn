@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-04T19:00:38.648Z</updated>
+    <updated>2022-07-04T19:24:51.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我不相信我可以證明它可以排序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31975507</id>
+        <link href="https://news.ycombinator.com/item?id=31975507"/>
+        <updated>2022-07-04T10:24:38.000Z</updated>
+        <summary type="html"><![CDATA[I can’t believe that I can prove that it can sort]]></summary>
+        <author>
+            <name>Raphael_Amiard</name>
+            <uri>https://news.ycombinator.com/user?id=Raphael_Amiard</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我是殘疾人，沒有錢了。現在怎麼辦？
 ]]></title>
@@ -7188,17 +7200,6 @@
         <author>
             <name>modinfo</name>
             <uri>https://news.ycombinator.com/user?id=modinfo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript框架的四個時代]]></title>
-        <id>https://news.ycombinator.com/item?id=31176910</id>
-        <link href="https://news.ycombinator.com/item?id=31176910"/>
-        <updated>2022-04-27T06:21:47.000Z</updated>
-        <summary type="html"><![CDATA[Four Eras of JavaScript Frameworks]]></summary>
-        <author>
-            <name>RafelMri</name>
-            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
         </author>
     </entry>
 </feed>

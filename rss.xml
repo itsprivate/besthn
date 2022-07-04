@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 04 Jul 2022 19:00:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 19:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我不相信我可以证明它可以排序
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31975507</link>
+            <guid>https://news.ycombinator.com/item?id=31975507</guid>
+            <pubDate>Mon, 04 Jul 2022 10:24:38 GMT</pubDate>
+            <description><![CDATA[I can’t believe that I can prove that it can sort]]></description>
+        </item>
         <item>
             <title><![CDATA[我是残疾人，没有钱了。现在怎么办？
 ]]></title>
@@ -4792,13 +4800,6 @@
             <guid>https://news.ycombinator.com/item?id=31183882</guid>
             <pubDate>Wed, 27 Apr 2022 18:29:36 GMT</pubDate>
             <description><![CDATA[Public Money, Public Code]]></description>
-        </item>
-        <item>
-            <title><![CDATA[JavaScript框架的四个时代]]></title>
-            <link>https://news.ycombinator.com/item?id=31176910</link>
-            <guid>https://news.ycombinator.com/item?id=31176910</guid>
-            <pubDate>Wed, 27 Apr 2022 06:21:47 GMT</pubDate>
-            <description><![CDATA[Four Eras of JavaScript Frameworks]]></description>
         </item>
     </channel>
 </rss>
