@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 04 Jul 2022 20:59:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 22:47:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[暂停数年后Ubuntu Unity桌面起死回生
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31957054</link>
+            <guid>https://news.ycombinator.com/item?id=31957054</guid>
+            <pubDate>Sat, 02 Jul 2022 07:45:48 GMT</pubDate>
+            <description><![CDATA[Ubuntu Unity desktop back from the dead after several years' hiatus]]></description>
+        </item>
         <item>
             <title><![CDATA[Tiny Core Linux 13.0是一个完整的Linux桌面，容量为22MB。
 ]]></title>
@@ -4797,13 +4805,6 @@
             <guid>https://news.ycombinator.com/item?id=31184724</guid>
             <pubDate>Wed, 27 Apr 2022 19:35:52 GMT</pubDate>
             <description><![CDATA[North Koreans are jailbreaking phones to access forbidden media]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lists.sh - 列表的微博客]]></title>
-            <link>https://news.ycombinator.com/item?id=31154567</link>
-            <guid>https://news.ycombinator.com/item?id=31154567</guid>
-            <pubDate>Mon, 25 Apr 2022 13:44:02 GMT</pubDate>
-            <description><![CDATA[Show HN: Lists.sh – A Microblog for Lists]]></description>
         </item>
     </channel>
 </rss>
