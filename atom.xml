@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-04T09:31:06.961Z</updated>
+    <updated>2022-07-04T11:28:51.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes是一个红旗，标志着过早的优化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31974420</id>
+        <link href="https://news.ycombinator.com/item?id=31974420"/>
+        <updated>2022-07-04T07:27:03.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes is a red flag signalling premature optimisation]]></summary>
+        <author>
+            <name>tenfourty</name>
+            <uri>https://news.ycombinator.com/user?id=tenfourty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[爆米花时间回来了
 ]]></title>
@@ -7181,17 +7193,6 @@
         <author>
             <name>crazypython</name>
             <uri>https://news.ycombinator.com/user?id=crazypython</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何写好Git提交信息（2014年）]]></title>
-        <id>https://news.ycombinator.com/item?id=31173484</id>
-        <link href="https://news.ycombinator.com/item?id=31173484"/>
-        <updated>2022-04-26T21:35:44.000Z</updated>
-        <summary type="html"><![CDATA[How to write a Git commit message (2014)]]></summary>
-        <author>
-            <name>baristaGeek</name>
-            <uri>https://news.ycombinator.com/user?id=baristaGeek</uri>
         </author>
     </entry>
 </feed>

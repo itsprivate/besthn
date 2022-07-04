@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 04 Jul 2022 09:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 11:28:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Kubernetes是一个红旗，标志着过早的优化
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31974420</link>
+            <guid>https://news.ycombinator.com/item?id=31974420</guid>
+            <pubDate>Mon, 04 Jul 2022 07:27:03 GMT</pubDate>
+            <description><![CDATA[Kubernetes is a red flag signalling premature optimisation]]></description>
+        </item>
         <item>
             <title><![CDATA[爆米花时间回来了
 ]]></title>
@@ -4785,13 +4793,6 @@
             <guid>https://news.ycombinator.com/item?id=31175291</guid>
             <pubDate>Wed, 27 Apr 2022 01:42:45 GMT</pubDate>
             <description><![CDATA[Textsynth: Bellard's free GPT-NeoX-20B, GPT-J playground and paid API]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何写好Git提交信息（2014年）]]></title>
-            <link>https://news.ycombinator.com/item?id=31173484</link>
-            <guid>https://news.ycombinator.com/item?id=31173484</guid>
-            <pubDate>Tue, 26 Apr 2022 21:35:44 GMT</pubDate>
-            <description><![CDATA[How to write a Git commit message (2014)]]></description>
         </item>
     </channel>
 </rss>
