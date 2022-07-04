@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31971684",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31971684",
+            "title": "Gitlab架構概述\n",
+            "summary": "Gitlab Architecture Overview",
+            "date_modified": "2022-07-03T22:52:09.000Z",
+            "author": {
+                "name": "Lukas1994",
+                "url": "https://news.ycombinator.com/user?id=Lukas1994"
+            },
+            "_original_headline": "Gitlab Architecture Overview",
+            "_original_url": "https://docs.gitlab.com/ee/development/architecture.html",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31958512",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31958512",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://github.com/rabbibotton/clog/blob/main/LEARN.md",
             "_sensitive": false,
             "_score": 257
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31180379",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31180379",
-            "title": "為什麼我不能託管自己的電子郵件？",
-            "summary": "Ask HN: Why can't I host my own email?",
-            "date_modified": "2022-04-27T14:31:52.000Z",
-            "author": {
-                "name": "warent",
-                "url": "https://news.ycombinator.com/user?id=warent"
-            },
-            "_original_headline": "Ask HN: Why can't I host my own email?",
-            "_original_url": "https://news.ycombinator.com/item?id=31180379",
-            "_sensitive": false,
-            "_score": 252
         }
     ]
 }

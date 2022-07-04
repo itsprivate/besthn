@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 04 Jul 2022 20:31:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 20:48:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Gitlab架構概述
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31971684</link>
+            <guid>https://news.ycombinator.com/item?id=31971684</guid>
+            <pubDate>Sun, 03 Jul 2022 22:52:09 GMT</pubDate>
+            <description><![CDATA[Gitlab Architecture Overview]]></description>
+        </item>
         <item>
             <title><![CDATA[羅伯遜與托克斯螺桿驅動器 (2021)
 ]]></title>
@@ -4795,13 +4803,6 @@
             <guid>https://news.ycombinator.com/item?id=31178737</guid>
             <pubDate>Wed, 27 Apr 2022 11:48:32 GMT</pubDate>
             <description><![CDATA[Tutorial Series to learn Common Lisp quickly]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼我不能託管自己的電子郵件？]]></title>
-            <link>https://news.ycombinator.com/item?id=31180379</link>
-            <guid>https://news.ycombinator.com/item?id=31180379</guid>
-            <pubDate>Wed, 27 Apr 2022 14:31:52 GMT</pubDate>
-            <description><![CDATA[Ask HN: Why can't I host my own email?]]></description>
         </item>
     </channel>
 </rss>
