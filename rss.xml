@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 04 Jul 2022 17:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 17:43:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何让我的女儿忙碌起来，同时又能勾起她的好奇心
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31965616</link>
+            <guid>https://news.ycombinator.com/item?id=31965616</guid>
+            <pubDate>Sun, 03 Jul 2022 06:38:07 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to keep my daughter busy while tickling her curiosity]]></description>
+        </item>
         <item>
             <title><![CDATA[密苏里州门顿市
 ]]></title>
@@ -4789,13 +4797,6 @@
             <guid>https://news.ycombinator.com/item?id=31155625</guid>
             <pubDate>Mon, 25 Apr 2022 14:47:00 GMT</pubDate>
             <description><![CDATA[We unplugged a data center to test our disaster readiness]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我在3个月内以不到5000美元的价格拿到了计算机科学学位（2020）。]]></title>
-            <link>https://news.ycombinator.com/item?id=31180816</link>
-            <guid>https://news.ycombinator.com/item?id=31180816</guid>
-            <pubDate>Wed, 27 Apr 2022 15:07:16 GMT</pubDate>
-            <description><![CDATA[I got a computer science degree in 3 months for less than $5000 (2020)]]></description>
         </item>
     </channel>
 </rss>

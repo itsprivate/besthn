@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-04T17:12:55.940Z</updated>
+    <updated>2022-07-04T17:43:28.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何讓我的女兒忙碌起來，同時又能勾起她的好奇心
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31965616</id>
+        <link href="https://news.ycombinator.com/item?id=31965616"/>
+        <updated>2022-07-03T06:38:07.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to keep my daughter busy while tickling her curiosity]]></summary>
+        <author>
+            <name>mquarks</name>
+            <uri>https://news.ycombinator.com/user?id=mquarks</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[密蘇里州門頓市
 ]]></title>
@@ -7185,17 +7197,6 @@
         <author>
             <name>ianrahman</name>
             <uri>https://news.ycombinator.com/user?id=ianrahman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在3個月內以不到5000美元的價格拿到了計算機科學學位（2020）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31180816</id>
-        <link href="https://news.ycombinator.com/item?id=31180816"/>
-        <updated>2022-04-27T15:07:16.000Z</updated>
-        <summary type="html"><![CDATA[I got a computer science degree in 3 months for less than $5000 (2020)]]></summary>
-        <author>
-            <name>miguelrochefort</name>
-            <uri>https://news.ycombinator.com/user?id=miguelrochefort</uri>
         </author>
     </entry>
 </feed>

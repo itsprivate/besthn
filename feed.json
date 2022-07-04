@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31965616",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31965616",
+            "title": "如何让我的女儿忙碌起来，同时又能勾起她的好奇心\n",
+            "summary": "Ask HN: How to keep my daughter busy while tickling her curiosity",
+            "date_modified": "2022-07-03T06:38:07.000Z",
+            "author": {
+                "name": "mquarks",
+                "url": "https://news.ycombinator.com/user?id=mquarks"
+            },
+            "_original_headline": "Ask HN: How to keep my daughter busy while tickling her curiosity",
+            "_original_url": "https://news.ycombinator.com/item?id=31965616",
+            "_sensitive": false,
+            "_score": 208
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31977144",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31977144",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://dropbox.tech/infrastructure/disaster-readiness-test-failover-blackhole-sjc",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31180816",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31180816",
-            "title": "我在3个月内以不到5000美元的价格拿到了计算机科学学位（2020）。",
-            "summary": "I got a computer science degree in 3 months for less than $5000 (2020)",
-            "date_modified": "2022-04-27T15:07:16.000Z",
-            "author": {
-                "name": "miguelrochefort",
-                "url": "https://news.ycombinator.com/user?id=miguelrochefort"
-            },
-            "_original_headline": "I got a computer science degree in 3 months for less than $5000 (2020)",
-            "_original_url": "https://miguelrochefort.com/blog/cs-degree/",
-            "_sensitive": false,
-            "_score": 251
         }
     ]
 }
