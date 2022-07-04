@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-04T20:48:47.035Z</updated>
+    <updated>2022-07-04T20:59:17.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Tiny Core Linux 13.0是一个完整的Linux桌面，容量为22MB。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31977164</id>
+        <link href="https://news.ycombinator.com/item?id=31977164"/>
+        <updated>2022-07-04T14:05:50.000Z</updated>
+        <summary type="html"><![CDATA[Tiny Core Linux 13.0 is a full Linux desktop in 22 MB]]></summary>
+        <author>
+            <name>tsujp</name>
+            <uri>https://news.ycombinator.com/user?id=tsujp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gitlab架构概述
 ]]></title>
@@ -7192,17 +7204,6 @@
         <author>
             <name>qudat</name>
             <uri>https://news.ycombinator.com/user?id=qudat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快速学习Common Lisp的系列教程]]></title>
-        <id>https://news.ycombinator.com/item?id=31178737</id>
-        <link href="https://news.ycombinator.com/item?id=31178737"/>
-        <updated>2022-04-27T11:48:32.000Z</updated>
-        <summary type="html"><![CDATA[Tutorial Series to learn Common Lisp quickly]]></summary>
-        <author>
-            <name>oumua_don17</name>
-            <uri>https://news.ycombinator.com/user?id=oumua_don17</uri>
         </author>
     </entry>
 </feed>

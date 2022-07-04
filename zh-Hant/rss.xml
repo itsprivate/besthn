@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 04 Jul 2022 20:48:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 20:59:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Tiny Core Linux 13.0是一個完整的Linux桌面，容量為22MB。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31977164</link>
+            <guid>https://news.ycombinator.com/item?id=31977164</guid>
+            <pubDate>Mon, 04 Jul 2022 14:05:50 GMT</pubDate>
+            <description><![CDATA[Tiny Core Linux 13.0 is a full Linux desktop in 22 MB]]></description>
+        </item>
         <item>
             <title><![CDATA[Gitlab架構概述
 ]]></title>
@@ -4796,13 +4804,6 @@
             <guid>https://news.ycombinator.com/item?id=31154567</guid>
             <pubDate>Mon, 25 Apr 2022 13:44:02 GMT</pubDate>
             <description><![CDATA[Show HN: Lists.sh – A Microblog for Lists]]></description>
-        </item>
-        <item>
-            <title><![CDATA[快速學習Common Lisp的系列教程]]></title>
-            <link>https://news.ycombinator.com/item?id=31178737</link>
-            <guid>https://news.ycombinator.com/item?id=31178737</guid>
-            <pubDate>Wed, 27 Apr 2022 11:48:32 GMT</pubDate>
-            <description><![CDATA[Tutorial Series to learn Common Lisp quickly]]></description>
         </item>
     </channel>
 </rss>
