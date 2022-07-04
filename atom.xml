@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-04T11:51:47.847Z</updated>
+    <updated>2022-07-04T12:57:42.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们需要多少个π的小数？(2016)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31944705</id>
+        <link href="https://news.ycombinator.com/item?id=31944705"/>
+        <updated>2022-07-01T11:01:06.000Z</updated>
+        <summary type="html"><![CDATA[How many decimals of pi do we need? (2016)]]></summary>
+        <author>
+            <name>Abishek_Muthian</name>
+            <uri>https://news.ycombinator.com/user?id=Abishek_Muthian</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的新索尼NW-A55随身听
 ]]></title>
@@ -7183,17 +7195,6 @@
         <author>
             <name>BeniBoy</name>
             <uri>https://news.ycombinator.com/user?id=BeniBoy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[麻省理工学院的研究人员开发出一种纸质薄型扬声器]]></title>
-        <id>https://news.ycombinator.com/item?id=31178022</id>
-        <link href="https://news.ycombinator.com/item?id=31178022"/>
-        <updated>2022-04-27T09:34:39.000Z</updated>
-        <summary type="html"><![CDATA[MIT researchers develop a paper thin loudspeaker]]></summary>
-        <author>
-            <name>go_prodev</name>
-            <uri>https://news.ycombinator.com/user?id=go_prodev</uri>
         </author>
     </entry>
 </feed>
