@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 04 Jul 2022 11:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 11:51:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我的新索尼NW-A55隨身聽
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31956392</link>
+            <guid>https://news.ycombinator.com/item?id=31956392</guid>
+            <pubDate>Sat, 02 Jul 2022 04:57:41 GMT</pubDate>
+            <description><![CDATA[My New Sony NW-A55 Walkman]]></description>
+        </item>
         <item>
             <title><![CDATA[Kubernetes是一個紅旗，標誌著過早的優化
 ]]></title>
@@ -4786,13 +4794,6 @@
             <guid>https://news.ycombinator.com/item?id=31178022</guid>
             <pubDate>Wed, 27 Apr 2022 09:34:39 GMT</pubDate>
             <description><![CDATA[MIT researchers develop a paper thin loudspeaker]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Textsynth。Bellard的免費GPT-NeoX-20B、GPT-J遊樂場和付費API]]></title>
-            <link>https://news.ycombinator.com/item?id=31175291</link>
-            <guid>https://news.ycombinator.com/item?id=31175291</guid>
-            <pubDate>Wed, 27 Apr 2022 01:42:45 GMT</pubDate>
-            <description><![CDATA[Textsynth: Bellard's free GPT-NeoX-20B, GPT-J playground and paid API]]></description>
         </item>
     </channel>
 </rss>

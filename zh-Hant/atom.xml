@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-04T11:28:51.779Z</updated>
+    <updated>2022-07-04T11:51:47.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的新索尼NW-A55隨身聽
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31956392</id>
+        <link href="https://news.ycombinator.com/item?id=31956392"/>
+        <updated>2022-07-02T04:57:41.000Z</updated>
+        <summary type="html"><![CDATA[My New Sony NW-A55 Walkman]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kubernetes是一個紅旗，標誌著過早的優化
 ]]></title>
@@ -7182,17 +7194,6 @@
         <author>
             <name>go_prodev</name>
             <uri>https://news.ycombinator.com/user?id=go_prodev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Textsynth。Bellard的免費GPT-NeoX-20B、GPT-J遊樂場和付費API]]></title>
-        <id>https://news.ycombinator.com/item?id=31175291</id>
-        <link href="https://news.ycombinator.com/item?id=31175291"/>
-        <updated>2022-04-27T01:42:45.000Z</updated>
-        <summary type="html"><![CDATA[Textsynth: Bellard's free GPT-NeoX-20B, GPT-J playground and paid API]]></summary>
-        <author>
-            <name>crazypython</name>
-            <uri>https://news.ycombinator.com/user?id=crazypython</uri>
         </author>
     </entry>
 </feed>
