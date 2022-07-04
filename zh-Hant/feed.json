@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31971858",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31971858",
+            "title": "為什麼從來沒有人在商場贏過車(2018)\n",
+            "summary": "Why nobody ever wins the car at the mall (2018)",
+            "date_modified": "2022-07-03T23:20:09.000Z",
+            "author": {
+                "name": "paulpauper",
+                "url": "https://news.ycombinator.com/user?id=paulpauper"
+            },
+            "_original_headline": "Why nobody ever wins the car at the mall (2018)",
+            "_original_url": "https://thehustle.co/why-nobody-ever-wins-the-mall-car-giveaway/",
+            "_sensitive": false,
+            "_score": 211
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31968114",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31968114",
+            "title": "為什麼即使沒有貧血，缺鐵也會導致疲勞？\n",
+            "summary": "Why does iron deficiency cause fatigue, even in the absence of anemia?",
+            "date_modified": "2022-07-03T14:50:02.000Z",
+            "author": {
+                "name": "panabee",
+                "url": "https://news.ycombinator.com/user?id=panabee"
+            },
+            "_original_headline": "Why does iron deficiency cause fatigue, even in the absence of anemia?",
+            "_original_url": "https://twitter.com/tony_breu/status/1543311124560592898",
+            "_sensitive": false,
+            "_score": 205
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31947277",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31947277",
+            "title": "如何搞砸一個機場\n",
+            "summary": "How to fuck up an airport",
+            "date_modified": "2022-07-01T14:59:00.000Z",
+            "author": {
+                "name": "danso",
+                "url": "https://news.ycombinator.com/user?id=danso"
+            },
+            "_original_headline": "How to fuck up an airport",
+            "_original_url": "https://www.radiospaetkauf.com/ber/",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31961992",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31961992",
@@ -9561,54 +9609,6 @@
             "_original_url": "https://www.healthcareitnews.com/news/report-90-nurses-considering-leaving-profession-next-year",
             "_sensitive": false,
             "_score": 326
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31178887",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31178887",
-            "title": "蘋果公司的自助維修服務現已推出",
-            "summary": "Apple’s Self Service Repair now available",
-            "date_modified": "2022-04-27T12:07:49.000Z",
-            "author": {
-                "name": "todsacerdoti",
-                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
-            },
-            "_original_headline": "Apple’s Self Service Repair now available",
-            "_original_url": "https://www.apple.com/newsroom/2022/04/apples-self-service-repair-now-available/",
-            "_sensitive": false,
-            "_score": 252
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31178908",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31178908",
-            "title": "谷歌幾乎說服了我花400美元做無用的激光治療",
-            "summary": "Google almost convinced me to spend $400 on useless laser treatments",
-            "date_modified": "2022-04-27T12:10:20.000Z",
-            "author": {
-                "name": "tomjcleveland",
-                "url": "https://news.ycombinator.com/user?id=tomjcleveland"
-            },
-            "_original_headline": "Google almost convinced me to spend $400 on useless laser treatments",
-            "_original_url": "https://blog.tjcx.me/p/google-terrible-health-information",
-            "_sensitive": false,
-            "_score": 257
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31176828",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31176828",
-            "title": "可汗學院推出可汗世界學校在線高中",
-            "summary": "Khan Academy launches Khan World School online high school",
-            "date_modified": "2022-04-27T06:02:24.000Z",
-            "author": {
-                "name": "webmaven",
-                "url": "https://news.ycombinator.com/user?id=webmaven"
-            },
-            "_original_headline": "Khan Academy launches Khan World School online high school",
-            "_original_url": "https://asuprep.asu.edu/khan-world-school/",
-            "_sensitive": false,
-            "_score": 259
         }
     ]
 }

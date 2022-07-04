@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 03 Jul 2022 23:46:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 02:42:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼從來沒有人在商場贏過車(2018)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31971858</link>
+            <guid>https://news.ycombinator.com/item?id=31971858</guid>
+            <pubDate>Sun, 03 Jul 2022 23:20:09 GMT</pubDate>
+            <description><![CDATA[Why nobody ever wins the car at the mall (2018)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為什麼即使沒有貧血，缺鐵也會導致疲勞？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31968114</link>
+            <guid>https://news.ycombinator.com/item?id=31968114</guid>
+            <pubDate>Sun, 03 Jul 2022 14:50:02 GMT</pubDate>
+            <description><![CDATA[Why does iron deficiency cause fatigue, even in the absence of anemia?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何搞砸一個機場
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31947277</link>
+            <guid>https://news.ycombinator.com/item?id=31947277</guid>
+            <pubDate>Fri, 01 Jul 2022 14:59:00 GMT</pubDate>
+            <description><![CDATA[How to fuck up an airport]]></description>
+        </item>
         <item>
             <title><![CDATA[我已經41歲了，仍然沒有結婚--我應該怎麼辦？
 ]]></title>
@@ -4767,27 +4791,6 @@
             <guid>https://news.ycombinator.com/item?id=31180646</guid>
             <pubDate>Wed, 27 Apr 2022 14:54:06 GMT</pubDate>
             <description><![CDATA[90% of nurses considering leaving the profession in the next year]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蘋果公司的自助維修服務現已推出]]></title>
-            <link>https://news.ycombinator.com/item?id=31178887</link>
-            <guid>https://news.ycombinator.com/item?id=31178887</guid>
-            <pubDate>Wed, 27 Apr 2022 12:07:49 GMT</pubDate>
-            <description><![CDATA[Apple’s Self Service Repair now available]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌幾乎說服了我花400美元做無用的激光治療]]></title>
-            <link>https://news.ycombinator.com/item?id=31178908</link>
-            <guid>https://news.ycombinator.com/item?id=31178908</guid>
-            <pubDate>Wed, 27 Apr 2022 12:10:20 GMT</pubDate>
-            <description><![CDATA[Google almost convinced me to spend $400 on useless laser treatments]]></description>
-        </item>
-        <item>
-            <title><![CDATA[可汗學院推出可汗世界學校在線高中]]></title>
-            <link>https://news.ycombinator.com/item?id=31176828</link>
-            <guid>https://news.ycombinator.com/item?id=31176828</guid>
-            <pubDate>Wed, 27 Apr 2022 06:02:24 GMT</pubDate>
-            <description><![CDATA[Khan Academy launches Khan World School online high school]]></description>
         </item>
     </channel>
 </rss>
