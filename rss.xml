@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 04 Jul 2022 12:57:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 17:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[密苏里州门顿市
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31977144</link>
+            <guid>https://news.ycombinator.com/item?id=31977144</guid>
+            <pubDate>Mon, 04 Jul 2022 14:03:34 GMT</pubDate>
+            <description><![CDATA[Mendon, Missouri]]></description>
+        </item>
         <item>
             <title><![CDATA[我们需要多少个π的小数？(2016)
 ]]></title>
@@ -4788,13 +4796,6 @@
             <guid>https://news.ycombinator.com/item?id=31180816</guid>
             <pubDate>Wed, 27 Apr 2022 15:07:16 GMT</pubDate>
             <description><![CDATA[I got a computer science degree in 3 months for less than $5000 (2020)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[统计分析显示Echos处理语音以提供广告服务]]></title>
-            <link>https://news.ycombinator.com/item?id=31177454</link>
-            <guid>https://news.ycombinator.com/item?id=31177454</guid>
-            <pubDate>Wed, 27 Apr 2022 07:56:15 GMT</pubDate>
-            <description><![CDATA[Statistical Analysis shows Echos process voice to serve ads]]></description>
         </item>
     </channel>
 </rss>
