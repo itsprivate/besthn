@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-05T15:01:31.429Z</updated>
+    <updated>2022-07-05T15:35:54.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大型强子对撞机发现三个新的异域粒子
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31987128</id>
+        <link href="https://news.ycombinator.com/item?id=31987128"/>
+        <updated>2022-07-05T11:58:19.000Z</updated>
+        <summary type="html"><![CDATA[Large Hadron Collider discovers three new exotic particles]]></summary>
+        <author>
+            <name>geox</name>
+            <uri>https://news.ycombinator.com/user?id=geox</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[他退学后成为一名诗人--现在他获得了菲尔兹奖
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31985400</id>
+        <link href="https://news.ycombinator.com/item?id=31985400"/>
+        <updated>2022-07-05T07:31:34.000Z</updated>
+        <summary type="html"><![CDATA[He dropped out to become a poet – now he’s won a Fields Medal]]></summary>
+        <author>
+            <name>digital55</name>
+            <uri>https://news.ycombinator.com/user?id=digital55</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[联邦快递将关闭数据中心，到2024年退休所有主机，节省4亿美元
 ]]></title>
@@ -7189,29 +7213,6 @@
         <author>
             <name>pabs3</name>
             <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源的替代方案
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31589924</id>
-        <link href="https://news.ycombinator.com/item?id=31589924"/>
-        <updated>2022-06-02T00:33:23.000Z</updated>
-        <summary type="html"><![CDATA[Open Source Alternative To]]></summary>
-        <author>
-            <name>saikan</name>
-            <uri>https://news.ycombinator.com/user?id=saikan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我通过写非小说类书籍获得了16万美元的被动收入]]></title>
-        <id>https://news.ycombinator.com/item?id=31188672</id>
-        <link href="https://news.ycombinator.com/item?id=31188672"/>
-        <updated>2022-04-28T04:15:27.000Z</updated>
-        <summary type="html"><![CDATA[I earned $160k in passive income from writing non-fiction books]]></summary>
-        <author>
-            <name>greglim81</name>
-            <uri>https://news.ycombinator.com/user?id=greglim81</uri>
         </author>
     </entry>
 </feed>
