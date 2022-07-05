@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 05 Jul 2022 16:49:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 17:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[歐盟批准具有里程碑意義的立法，對蘋果和其他大型科技公司進行監管
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31988367</link>
+            <guid>https://news.ycombinator.com/item?id=31988367</guid>
+            <pubDate>Tue, 05 Jul 2022 14:09:12 GMT</pubDate>
+            <description><![CDATA[EU Approves Landmark Legislation to Regulate Apple and Other Big Tech Firms]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CUDA編程如何工作
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31983460</link>
+            <guid>https://news.ycombinator.com/item?id=31983460</guid>
+            <pubDate>Tue, 05 Jul 2022 01:49:27 GMT</pubDate>
+            <description><![CDATA[How CUDA Programming Works]]></description>
+        </item>
         <item>
             <title><![CDATA[SHGA上海政府全國警察數據庫出售（1B條）。
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31587316</guid>
             <pubDate>Wed, 01 Jun 2022 20:08:28 GMT</pubDate>
             <description><![CDATA[No, DALL-E doesn’t have a secret language]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌取消了關於種姓偏見的講座
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31593799</link>
-            <guid>https://news.ycombinator.com/item?id=31593799</guid>
-            <pubDate>Thu, 02 Jun 2022 12:02:19 GMT</pubDate>
-            <description><![CDATA[Google cancelled a talk on caste bias]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美國的 "勞動力短缺 "只是工資短缺 (2021)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31579997</link>
-            <guid>https://news.ycombinator.com/item?id=31579997</guid>
-            <pubDate>Wed, 01 Jun 2022 10:27:13 GMT</pubDate>
-            <description><![CDATA[The US “labor shortage” is just a wage shortage (2021)]]></description>
         </item>
     </channel>
 </rss>

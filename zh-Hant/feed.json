@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31988367",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31988367",
+            "title": "歐盟批准具有里程碑意義的立法，對蘋果和其他大型科技公司進行監管\n",
+            "summary": "EU Approves Landmark Legislation to Regulate Apple and Other Big Tech Firms",
+            "date_modified": "2022-07-05T14:09:12.000Z",
+            "author": {
+                "name": "marcobambini",
+                "url": "https://news.ycombinator.com/user?id=marcobambini"
+            },
+            "_original_headline": "EU Approves Landmark Legislation to Regulate Apple and Other Big Tech Firms",
+            "_original_url": "https://www.macrumors.com/2022/07/05/eu-approves-landmark-legislation-to-regulate-apple/",
+            "_sensitive": false,
+            "_score": 239
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31983460",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31983460",
+            "title": "CUDA編程如何工作\n",
+            "summary": "How CUDA Programming Works",
+            "date_modified": "2022-07-05T01:49:27.000Z",
+            "author": {
+                "name": "bangonkeyboard",
+                "url": "https://news.ycombinator.com/user?id=bangonkeyboard"
+            },
+            "_original_headline": "How CUDA Programming Works",
+            "_original_url": "https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41487/",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31986907",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31986907",
@@ -9575,38 +9607,6 @@
             },
             "_original_headline": "No, DALL-E doesn’t have a secret language",
             "_original_url": "https://twitter.com/benjamin_hilton/status/1531780892972175361",
-            "_sensitive": false,
-            "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31593799",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31593799",
-            "title": "谷歌取消了關於種姓偏見的講座\n",
-            "summary": "Google cancelled a talk on caste bias",
-            "date_modified": "2022-06-02T12:02:19.000Z",
-            "author": {
-                "name": "devnonymous",
-                "url": "https://news.ycombinator.com/user?id=devnonymous"
-            },
-            "_original_headline": "Google cancelled a talk on caste bias",
-            "_original_url": "https://www.washingtonpost.com/technology/2022/06/02/google-caste-equality-labs-tanuja-gupta/",
-            "_sensitive": false,
-            "_score": 285
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31579997",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31579997",
-            "title": "美國的 \"勞動力短缺 \"只是工資短缺 (2021)\n",
-            "summary": "The US “labor shortage” is just a wage shortage (2021)",
-            "date_modified": "2022-06-01T10:27:13.000Z",
-            "author": {
-                "name": "webmobdev",
-                "url": "https://news.ycombinator.com/user?id=webmobdev"
-            },
-            "_original_headline": "The US “labor shortage” is just a wage shortage (2021)",
-            "_original_url": "https://qz.com/2012965/the-us-labor-shortage-is-just-a-wage-shortage/",
             "_sensitive": false,
             "_score": 251
         }
