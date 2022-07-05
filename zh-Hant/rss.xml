@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 05 Jul 2022 14:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 15:01:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[聯邦快遞將關閉數據中心，到2024年退休所有主機，節省4億美元
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31986205</link>
+            <guid>https://news.ycombinator.com/item?id=31986205</guid>
+            <pubDate>Tue, 05 Jul 2022 09:38:41 GMT</pubDate>
+            <description><![CDATA[FedEx to close data centers, retire all mainframes by 2024, saving $400m]]></description>
+        </item>
         <item>
             <title><![CDATA[我有多正常？
 ]]></title>
@@ -4804,13 +4812,6 @@
             <guid>https://news.ycombinator.com/item?id=31188672</guid>
             <pubDate>Thu, 28 Apr 2022 04:15:27 GMT</pubDate>
             <description><![CDATA[I earned $160k in passive income from writing non-fiction books]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼公司要搬離Heroku（除了成本）？]]></title>
-            <link>https://news.ycombinator.com/item?id=31183573</link>
-            <guid>https://news.ycombinator.com/item?id=31183573</guid>
-            <pubDate>Wed, 27 Apr 2022 18:06:03 GMT</pubDate>
-            <description><![CDATA[Why companies move off Heroku (besides the cost)]]></description>
         </item>
     </channel>
 </rss>
