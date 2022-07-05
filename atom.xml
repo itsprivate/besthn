@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-04T22:47:27.751Z</updated>
+    <updated>2022-07-05T02:33:35.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[毛毡
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31982959</id>
+        <link href="https://news.ycombinator.com/item?id=31982959"/>
+        <updated>2022-07-05T00:05:54.000Z</updated>
+        <summary type="html"><![CDATA[Felt]]></summary>
+        <author>
+            <name>bookofjoe</name>
+            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于生命的使用(2020)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31981486</id>
+        <link href="https://news.ycombinator.com/item?id=31981486"/>
+        <updated>2022-07-04T20:34:39.000Z</updated>
+        <summary type="html"><![CDATA[On the use of a life (2020)]]></summary>
+        <author>
+            <name>metadat</name>
+            <uri>https://news.ycombinator.com/user?id=metadat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暂停数年后Ubuntu Unity桌面起死回生
 ]]></title>
@@ -7183,28 +7207,6 @@
         <author>
             <name>ingve</name>
             <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何让你的思想喋喋不休地安静下来 (2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=31151546</id>
-        <link href="https://news.ycombinator.com/item?id=31151546"/>
-        <updated>2022-04-25T07:35:57.000Z</updated>
-        <summary type="html"><![CDATA[How to Quiet Your Mind Chatter (2021)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朝鲜人正在对手机进行越狱以获取被禁止的媒体]]></title>
-        <id>https://news.ycombinator.com/item?id=31184724</id>
-        <link href="https://news.ycombinator.com/item?id=31184724"/>
-        <updated>2022-04-27T19:35:52.000Z</updated>
-        <summary type="html"><![CDATA[North Koreans are jailbreaking phones to access forbidden media]]></summary>
-        <author>
-            <name>8bitsrule</name>
-            <uri>https://news.ycombinator.com/user?id=8bitsrule</uri>
         </author>
     </entry>
 </feed>

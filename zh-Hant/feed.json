@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31982959",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31982959",
+            "title": "毛氈\n",
+            "summary": "Felt",
+            "date_modified": "2022-07-05T00:05:54.000Z",
+            "author": {
+                "name": "bookofjoe",
+                "url": "https://news.ycombinator.com/user?id=bookofjoe"
+            },
+            "_original_headline": "Felt",
+            "_original_url": "https://felt.com/",
+            "_sensitive": false,
+            "_score": 221
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31981486",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31981486",
+            "title": "關於生命的使用(2020)\n",
+            "summary": "On the use of a life (2020)",
+            "date_modified": "2022-07-04T20:34:39.000Z",
+            "author": {
+                "name": "metadat",
+                "url": "https://news.ycombinator.com/user?id=metadat"
+            },
+            "_original_headline": "On the use of a life (2020)",
+            "_original_url": "https://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html",
+            "_sensitive": false,
+            "_score": 230
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31957054",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31957054",
@@ -9575,38 +9607,6 @@
             },
             "_original_headline": "I put my whole life into a single database",
             "_original_url": "https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database",
-            "_sensitive": false,
-            "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31151546",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31151546",
-            "title": "如何讓你的思想喋喋不休地安靜下來 (2021)",
-            "summary": "How to Quiet Your Mind Chatter (2021)",
-            "date_modified": "2022-04-25T07:35:57.000Z",
-            "author": {
-                "name": "Tomte",
-                "url": "https://news.ycombinator.com/user?id=Tomte"
-            },
-            "_original_headline": "How to Quiet Your Mind Chatter (2021)",
-            "_original_url": "https://nautil.us/how-to-quiet-your-mind-chatter-9641/",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31184724",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31184724",
-            "title": "朝鮮人正在對手機進行越獄以獲取被禁止的媒體",
-            "summary": "North Koreans are jailbreaking phones to access forbidden media",
-            "date_modified": "2022-04-27T19:35:52.000Z",
-            "author": {
-                "name": "8bitsrule",
-                "url": "https://news.ycombinator.com/user?id=8bitsrule"
-            },
-            "_original_headline": "North Koreans are jailbreaking phones to access forbidden media",
-            "_original_url": "https://www.wired.com/story/north-korean-phone-jailbreakers/",
             "_sensitive": false,
             "_score": 251
         }
