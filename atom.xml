@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-05T17:20:23.761Z</updated>
+    <updated>2022-07-05T20:34:41.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亚马逊花费4.65亿美元购买《指环王》系列第一季
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31986688</id>
+        <link href="https://news.ycombinator.com/item?id=31986688"/>
+        <updated>2022-07-05T10:57:24.000Z</updated>
+        <summary type="html"><![CDATA[Amazon spending $465M on season 1 of The Lord of the Rings series]]></summary>
+        <author>
+            <name>matthewsinclair</name>
+            <uri>https://news.ycombinator.com/user?id=matthewsinclair</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果]["旅鼠 "概念验证
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31985142</id>
+        <link href="https://news.ycombinator.com/item?id=31985142"/>
+        <updated>2022-07-05T06:48:17.000Z</updated>
+        <summary type="html"><![CDATA[Apple ][ "Lemmings" Proof of Concept]]></summary>
+        <author>
+            <name>killittosaveit</name>
+            <uri>https://news.ycombinator.com/user?id=killittosaveit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧盟批准具有里程碑意义的立法，对苹果和其他大型科技公司进行监管
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>asplake</name>
             <uri>https://news.ycombinator.com/user?id=asplake</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[游戏机佳能EF镜头支架(2018)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31595583</id>
-        <link href="https://news.ycombinator.com/item?id=31595583"/>
-        <updated>2022-06-02T14:50:09.000Z</updated>
-        <summary type="html"><![CDATA[Game Boy Camera Canon EF Lens Mount (2018)]]></summary>
-        <author>
-            <name>ddtaylor</name>
-            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不，DALL-E没有秘密语言
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31587316</id>
-        <link href="https://news.ycombinator.com/item?id=31587316"/>
-        <updated>2022-06-01T20:08:28.000Z</updated>
-        <summary type="html"><![CDATA[No, DALL-E doesn’t have a secret language]]></summary>
-        <author>
-            <name>doener</name>
-            <uri>https://news.ycombinator.com/user?id=doener</uri>
         </author>
     </entry>
 </feed>

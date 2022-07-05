@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 05 Jul 2022 17:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 20:34:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[亞馬遜花費4.65億美元購買《指環王》系列第一季
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31986688</link>
+            <guid>https://news.ycombinator.com/item?id=31986688</guid>
+            <pubDate>Tue, 05 Jul 2022 10:57:24 GMT</pubDate>
+            <description><![CDATA[Amazon spending $465M on season 1 of The Lord of the Rings series]]></description>
+        </item>
+        <item>
+            <title><![CDATA[蘋果]["旅鼠 "概念驗證
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31985142</link>
+            <guid>https://news.ycombinator.com/item?id=31985142</guid>
+            <pubDate>Tue, 05 Jul 2022 06:48:17 GMT</pubDate>
+            <description><![CDATA[Apple ][ "Lemmings" Proof of Concept]]></description>
+        </item>
         <item>
             <title><![CDATA[歐盟批准具有里程碑意義的立法，對蘋果和其他大型科技公司進行監管
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31598324</guid>
             <pubDate>Thu, 02 Jun 2022 17:59:14 GMT</pubDate>
             <description><![CDATA[CNN cutting back on over-hyping everything as “breaking news”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[遊戲機佳能EF鏡頭支架(2018)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31595583</link>
-            <guid>https://news.ycombinator.com/item?id=31595583</guid>
-            <pubDate>Thu, 02 Jun 2022 14:50:09 GMT</pubDate>
-            <description><![CDATA[Game Boy Camera Canon EF Lens Mount (2018)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不，DALL-E沒有秘密語言
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31587316</link>
-            <guid>https://news.ycombinator.com/item?id=31587316</guid>
-            <pubDate>Wed, 01 Jun 2022 20:08:28 GMT</pubDate>
-            <description><![CDATA[No, DALL-E doesn’t have a secret language]]></description>
         </item>
     </channel>
 </rss>
