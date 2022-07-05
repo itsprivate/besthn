@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 05 Jul 2022 11:57:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 13:00:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[iOS上的延遲信息
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31980548</link>
+            <guid>https://news.ycombinator.com/item?id=31980548</guid>
+            <pubDate>Mon, 04 Jul 2022 18:54:09 GMT</pubDate>
+            <description><![CDATA[Delayed Messages on iOS]]></description>
+        </item>
         <item>
             <title><![CDATA[如果用戶代理是Linux，Xbox雲就會節制性能
 ]]></title>
@@ -4802,13 +4810,6 @@
             <guid>https://news.ycombinator.com/item?id=31164725</guid>
             <pubDate>Tue, 26 Apr 2022 06:50:31 GMT</pubDate>
             <description><![CDATA[It took me 10 years to understand entropy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用假的iMessage彈出窗口創造尷尬的局面]]></title>
-            <link>https://news.ycombinator.com/item?id=31185121</link>
-            <guid>https://news.ycombinator.com/item?id=31185121</guid>
-            <pubDate>Wed, 27 Apr 2022 20:11:59 GMT</pubDate>
-            <description><![CDATA[Show HN: Create awkward situations with a fake iMessage Popup]]></description>
         </item>
     </channel>
 </rss>
