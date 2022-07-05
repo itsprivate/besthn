@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-05T09:04:34.845Z</updated>
+    <updated>2022-07-05T11:57:40.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果用户代理是Linux，Xbox云就会节制性能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31985605</id>
+        <link href="https://news.ycombinator.com/item?id=31985605"/>
+        <updated>2022-07-05T08:03:13.000Z</updated>
+        <summary type="html"><![CDATA[Xbox Cloud throttles performance if user agent is Linux]]></summary>
+        <author>
+            <name>kaladin-jasnah</name>
+            <uri>https://news.ycombinator.com/user?id=kaladin-jasnah</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们不能再在Google Play上检查应用程序的权限了
 ]]></title>
@@ -7197,17 +7209,6 @@
         <author>
             <name>adnanaga</name>
             <uri>https://news.ycombinator.com/user?id=adnanaga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基亚仪器]]></title>
-        <id>https://news.ycombinator.com/item?id=31184957</id>
-        <link href="https://news.ycombinator.com/item?id=31184957"/>
-        <updated>2022-04-27T19:57:07.000Z</updated>
-        <summary type="html"><![CDATA[The Kia Instrument]]></summary>
-        <author>
-            <name>rgbrgb</name>
-            <uri>https://news.ycombinator.com/user?id=rgbrgb</uri>
         </author>
     </entry>
 </feed>

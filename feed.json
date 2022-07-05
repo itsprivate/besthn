@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31985605",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31985605",
+            "title": "如果用户代理是Linux，Xbox云就会节制性能\n",
+            "summary": "Xbox Cloud throttles performance if user agent is Linux",
+            "date_modified": "2022-07-05T08:03:13.000Z",
+            "author": {
+                "name": "kaladin-jasnah",
+                "url": "https://news.ycombinator.com/user?id=kaladin-jasnah"
+            },
+            "_original_headline": "Xbox Cloud throttles performance if user agent is Linux",
+            "_original_url": "https://old.reddit.com/r/xcloud/comments/vrfmuz/quality_on_linux/",
+            "_sensitive": false,
+            "_score": 205
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31983782",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31983782",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://github.com/adnanaga/pushy",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31184957",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31184957",
-            "title": "基亚仪器",
-            "summary": "The Kia Instrument",
-            "date_modified": "2022-04-27T19:57:07.000Z",
-            "author": {
-                "name": "rgbrgb",
-                "url": "https://news.ycombinator.com/user?id=rgbrgb"
-            },
-            "_original_headline": "The Kia Instrument",
-            "_original_url": "https://www.kia.com/us/en/movement/our-instrument",
-            "_sensitive": false,
-            "_score": 252
         }
     ]
 }
