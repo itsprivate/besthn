@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-05T21:30:46.005Z</updated>
+    <updated>2022-07-05T21:59:18.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Bun: 用Zig编写的快速JavaScript运行时、转码器和npm客户端
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31993429</id>
+        <link href="https://news.ycombinator.com/item?id=31993429"/>
+        <updated>2022-07-05T20:41:53.000Z</updated>
+        <summary type="html"><![CDATA[Bun: Fast JavaScript runtime, transpiler, and npm client written in Zig]]></summary>
+        <author>
+            <name>firloop</name>
+            <uri>https://news.ycombinator.com/user?id=firloop</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[被盗的10亿条记录的中国数据库在漏洞论坛上出售
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>awillettnyc</name>
             <uri>https://news.ycombinator.com/user?id=awillettnyc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我担心我们会被关闭
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31598978</id>
-        <link href="https://news.ycombinator.com/item?id=31598978"/>
-        <updated>2022-06-02T18:47:03.000Z</updated>
-        <summary type="html"><![CDATA[I'm Afraid We're Shutting Down]]></summary>
-        <author>
-            <name>RBBronson123</name>
-            <uri>https://news.ycombinator.com/user?id=RBBronson123</uri>
         </author>
     </entry>
 </feed>
