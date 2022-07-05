@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 05 Jul 2022 02:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 09:04:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我們不能再在Google Play上檢查應用程序的權限了
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31983782</link>
+            <guid>https://news.ycombinator.com/item?id=31983782</guid>
+            <pubDate>Tue, 05 Jul 2022 02:46:53 GMT</pubDate>
+            <description><![CDATA[We can't check the app permissions on Google Play anymore]]></description>
+        </item>
         <item>
             <title><![CDATA[毛氈
 ]]></title>
@@ -4800,13 +4808,6 @@
             <guid>https://news.ycombinator.com/item?id=31184957</guid>
             <pubDate>Wed, 27 Apr 2022 19:57:07 GMT</pubDate>
             <description><![CDATA[The Kia Instrument]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我把我的整個生命放在一個數據庫中]]></title>
-            <link>https://news.ycombinator.com/item?id=31186696</link>
-            <guid>https://news.ycombinator.com/item?id=31186696</guid>
-            <pubDate>Wed, 27 Apr 2022 22:37:22 GMT</pubDate>
-            <description><![CDATA[I put my whole life into a single database]]></description>
         </item>
     </channel>
 </rss>

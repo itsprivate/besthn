@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31983782",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31983782",
+            "title": "我們不能再在Google Play上檢查應用程序的權限了\n",
+            "summary": "We can't check the app permissions on Google Play anymore",
+            "date_modified": "2022-07-05T02:46:53.000Z",
+            "author": {
+                "name": "oledeveloper",
+                "url": "https://news.ycombinator.com/user?id=oledeveloper"
+            },
+            "_original_headline": "We can't check the app permissions on Google Play anymore",
+            "_original_url": "https://www.bluespace.tech/blog/google-play-permissions-list/",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31982959",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31982959",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.kia.com/us/en/movement/our-instrument",
             "_sensitive": false,
             "_score": 252
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31186696",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31186696",
-            "title": "我把我的整個生命放在一個數據庫中",
-            "summary": "I put my whole life into a single database",
-            "date_modified": "2022-04-27T22:37:22.000Z",
-            "author": {
-                "name": "ingve",
-                "url": "https://news.ycombinator.com/user?id=ingve"
-            },
-            "_original_headline": "I put my whole life into a single database",
-            "_original_url": "https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database",
-            "_sensitive": false,
-            "_score": 251
         }
     ]
 }
