@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-05T20:34:41.246Z</updated>
+    <updated>2022-07-05T21:30:46.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[被盗的10亿条记录的中国数据库在漏洞论坛上出售
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31986441</id>
+        <link href="https://news.ycombinator.com/item?id=31986441"/>
+        <updated>2022-07-05T10:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Billion-record stolen Chinese database for sale on breach forum]]></summary>
+        <author>
+            <name>ellen364</name>
+            <uri>https://news.ycombinator.com/user?id=ellen364</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tao: 一种静态类型的函数式语言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31977220</id>
+        <link href="https://news.ycombinator.com/item?id=31977220"/>
+        <updated>2022-07-04T14:11:03.000Z</updated>
+        <summary type="html"><![CDATA[Tao: A statically-typed functional language]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亚马逊花费4.65亿美元购买《指环王》系列第一季
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>RBBronson123</name>
             <uri>https://news.ycombinator.com/user?id=RBBronson123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla发布本地机器翻译工具作为Project Bergamot的一部分
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31596888</id>
-        <link href="https://news.ycombinator.com/item?id=31596888"/>
-        <updated>2022-06-02T16:23:49.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla releases local machine translation tools as part of Project Bergamot]]></summary>
-        <author>
-            <name>Vinnl</name>
-            <uri>https://news.ycombinator.com/user?id=Vinnl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国有线电视新闻网（CNN）减少了对一切 "突发新闻 "的过度炒作
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31598324</id>
-        <link href="https://news.ycombinator.com/item?id=31598324"/>
-        <updated>2022-06-02T17:59:14.000Z</updated>
-        <summary type="html"><![CDATA[CNN cutting back on over-hyping everything as “breaking news”]]></summary>
-        <author>
-            <name>asplake</name>
-            <uri>https://news.ycombinator.com/user?id=asplake</uri>
         </author>
     </entry>
 </feed>

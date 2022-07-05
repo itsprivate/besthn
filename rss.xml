@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 05 Jul 2022 20:34:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 21:30:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[被盗的10亿条记录的中国数据库在漏洞论坛上出售
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31986441</link>
+            <guid>https://news.ycombinator.com/item?id=31986441</guid>
+            <pubDate>Tue, 05 Jul 2022 10:21:00 GMT</pubDate>
+            <description><![CDATA[Billion-record stolen Chinese database for sale on breach forum]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Tao: 一种静态类型的函数式语言
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31977220</link>
+            <guid>https://news.ycombinator.com/item?id=31977220</guid>
+            <pubDate>Mon, 04 Jul 2022 14:11:03 GMT</pubDate>
+            <description><![CDATA[Tao: A statically-typed functional language]]></description>
+        </item>
         <item>
             <title><![CDATA[亚马逊花费4.65亿美元购买《指环王》系列第一季
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31598978</guid>
             <pubDate>Thu, 02 Jun 2022 18:47:03 GMT</pubDate>
             <description><![CDATA[I'm Afraid We're Shutting Down]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mozilla发布本地机器翻译工具作为Project Bergamot的一部分
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31596888</link>
-            <guid>https://news.ycombinator.com/item?id=31596888</guid>
-            <pubDate>Thu, 02 Jun 2022 16:23:49 GMT</pubDate>
-            <description><![CDATA[Mozilla releases local machine translation tools as part of Project Bergamot]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国有线电视新闻网（CNN）减少了对一切 "突发新闻 "的过度炒作
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31598324</link>
-            <guid>https://news.ycombinator.com/item?id=31598324</guid>
-            <pubDate>Thu, 02 Jun 2022 17:59:14 GMT</pubDate>
-            <description><![CDATA[CNN cutting back on over-hyping everything as “breaking news”]]></description>
         </item>
     </channel>
 </rss>
