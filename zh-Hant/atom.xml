@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-06T07:45:56.296Z</updated>
+    <updated>2022-07-06T11:57:19.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GTA GeoGuesser
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31996214</id>
+        <link href="https://news.ycombinator.com/item?id=31996214"/>
+        <updated>2022-07-06T02:58:34.000Z</updated>
+        <summary type="html"><![CDATA[GTA GeoGuesser]]></summary>
+        <author>
+            <name>popcalc</name>
+            <uri>https://news.ycombinator.com/user?id=popcalc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基於樹莓Pico的100-Msps邏輯分析器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pabs3</name>
             <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從掩體中擴大創業公司規模：來自烏克蘭的創始人的故事
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31583789</id>
-        <link href="https://news.ycombinator.com/item?id=31583789"/>
-        <updated>2022-06-01T15:57:02.000Z</updated>
-        <summary type="html"><![CDATA[Scaling a startup from a bunker: founders' story from Ukraine]]></summary>
-        <author>
-            <name>Pavlyshyna</name>
-            <uri>https://news.ycombinator.com/user?id=Pavlyshyna</uri>
         </author>
     </entry>
 </feed>
