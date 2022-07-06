@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-06T05:48:27.050Z</updated>
+    <updated>2022-07-06T07:45:56.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基於樹莓Pico的100-Msps邏輯分析器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31980989</id>
+        <link href="https://news.ycombinator.com/item?id=31980989"/>
+        <updated>2022-07-04T19:44:54.000Z</updated>
+        <summary type="html"><![CDATA[Raspberry Pico-based 100-Msps logic analyzer]]></summary>
+        <author>
+            <name>unwind</name>
+            <uri>https://news.ycombinator.com/user?id=unwind</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[荒謬的手推車問題
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Pavlyshyna</name>
             <uri>https://news.ycombinator.com/user?id=Pavlyshyna</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust很難，或者說：主流編程的苦難
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31601040</id>
-        <link href="https://news.ycombinator.com/item?id=31601040"/>
-        <updated>2022-06-02T21:58:16.000Z</updated>
-        <summary type="html"><![CDATA[Rust Is Hard, Or: The Misery of Mainstream Programming]]></summary>
-        <author>
-            <name>avgcorrection</name>
-            <uri>https://news.ycombinator.com/user?id=avgcorrection</uri>
         </author>
     </entry>
 </feed>

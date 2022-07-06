@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 06 Jul 2022 05:48:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 07:45:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[基於樹莓Pico的100-Msps邏輯分析器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31980989</link>
+            <guid>https://news.ycombinator.com/item?id=31980989</guid>
+            <pubDate>Mon, 04 Jul 2022 19:44:54 GMT</pubDate>
+            <description><![CDATA[Raspberry Pico-based 100-Msps logic analyzer]]></description>
+        </item>
         <item>
             <title><![CDATA[荒謬的手推車問題
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31583789</guid>
             <pubDate>Wed, 01 Jun 2022 15:57:02 GMT</pubDate>
             <description><![CDATA[Scaling a startup from a bunker: founders' story from Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rust很難，或者說：主流編程的苦難
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31601040</link>
-            <guid>https://news.ycombinator.com/item?id=31601040</guid>
-            <pubDate>Thu, 02 Jun 2022 21:58:16 GMT</pubDate>
-            <description><![CDATA[Rust Is Hard, Or: The Misery of Mainstream Programming]]></description>
         </item>
     </channel>
 </rss>
