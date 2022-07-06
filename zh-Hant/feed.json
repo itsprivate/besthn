@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32001742",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32001742",
+            "title": "一個假的工作機會扳倒了Axie Infinity\n",
+            "summary": "A fake job offer took down Axie Infinity",
+            "date_modified": "2022-07-06T14:43:30.000Z",
+            "author": {
+                "name": "danso",
+                "url": "https://news.ycombinator.com/user?id=danso"
+            },
+            "_original_headline": "A fake job offer took down Axie Infinity",
+            "_original_url": "https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game",
+            "_sensitive": false,
+            "_score": 221
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32002057",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32002057",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.webosarchive.com",
             "_sensitive": false,
             "_score": 255
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31589839",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31589839",
-            "title": "紀念戴夫-史密斯，1950-2022\n",
-            "summary": "Remembering Dave Smith, 1950–2022",
-            "date_modified": "2022-06-02T00:21:25.000Z",
-            "author": {
-                "name": "throw_m239339",
-                "url": "https://news.ycombinator.com/user?id=throw_m239339"
-            },
-            "_original_headline": "Remembering Dave Smith, 1950–2022",
-            "_original_url": "https://www.sequential.com/",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }
