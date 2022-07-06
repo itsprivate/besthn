@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 06 Jul 2022 21:00:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 22:29:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么我对公司的会议感到费劲呢？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32003266</link>
+            <guid>https://news.ycombinator.com/item?id=32003266</guid>
+            <pubDate>Wed, 06 Jul 2022 16:27:18 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why do I struggle to follow corporate meetings?]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么互联网没有更多的乐趣和怪异？(2019)
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31614518</guid>
             <pubDate>Fri, 03 Jun 2022 22:33:20 GMT</pubDate>
             <description><![CDATA[Yep: Google alternative that shares revenue with creators – by Ahrefs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[异步Rust不一定很困难
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31611456</link>
-            <guid>https://news.ycombinator.com/item?id=31611456</guid>
-            <pubDate>Fri, 03 Jun 2022 17:45:55 GMT</pubDate>
-            <description><![CDATA[Async Rust doesn't have to be hard]]></description>
         </item>
     </channel>
 </rss>
