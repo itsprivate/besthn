@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 06 Jul 2022 14:40:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 15:38:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[中世紀早期是否曾發生過？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31997109</link>
+            <guid>https://news.ycombinator.com/item?id=31997109</guid>
+            <pubDate>Wed, 06 Jul 2022 05:37:12 GMT</pubDate>
+            <description><![CDATA[Did the early medieval era ever take place?]]></description>
+        </item>
         <item>
             <title><![CDATA[告訴HN：Razorpay一家YC公司在沒有法院命令的情況下共享捐贈者數據
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31606334</guid>
             <pubDate>Fri, 03 Jun 2022 10:01:29 GMT</pubDate>
             <description><![CDATA[Dalle2 generates fascinating images of Kermit The Frog in various films]]></description>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉將削減10%的工作
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31607248</link>
-            <guid>https://news.ycombinator.com/item?id=31607248</guid>
-            <pubDate>Fri, 03 Jun 2022 12:16:55 GMT</pubDate>
-            <description><![CDATA[Tesla to Cut 10% of Jobs]]></description>
         </item>
     </channel>
 </rss>

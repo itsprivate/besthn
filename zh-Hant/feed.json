@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31997109",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31997109",
+            "title": "中世紀早期是否曾發生過？\n",
+            "summary": "Did the early medieval era ever take place?",
+            "date_modified": "2022-07-06T05:37:12.000Z",
+            "author": {
+                "name": "memorable",
+                "url": "https://news.ycombinator.com/user?id=memorable"
+            },
+            "_original_headline": "Did the early medieval era ever take place?",
+            "_original_url": "https://jonn.substack.com/p/did-the-early-medieval-era-ever-really",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31999714",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31999714",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://twitter.com/HvnsLstAngel/status/1531506455714492416",
             "_sensitive": false,
             "_score": 263
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31607248",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31607248",
-            "title": "特斯拉將削減10%的工作\n",
-            "summary": "Tesla to Cut 10% of Jobs",
-            "date_modified": "2022-06-03T12:16:55.000Z",
-            "author": {
-                "name": "ra7",
-                "url": "https://news.ycombinator.com/user?id=ra7"
-            },
-            "_original_headline": "Tesla to Cut 10% of Jobs",
-            "_original_url": "https://www.cnbc.com/2022/06/03/feeling-super-bad-about-economy-musk-wants-to-cut-10percent-of-tesla-jobs.html",
-            "_sensitive": false,
-            "_score": 253
         }
     ]
 }
