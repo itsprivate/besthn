@@ -11,6 +11,70 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31990043",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31990043",
+            "title": "為了改善YouTube上的搜索結果，使用搜索前綴 \"intitle:\"\n",
+            "summary": "To improve search results on YouTube, use the search prefix “intitle:”",
+            "date_modified": "2022-07-05T16:10:38.000Z",
+            "author": {
+                "name": "normhill",
+                "url": "https://news.ycombinator.com/user?id=normhill"
+            },
+            "_original_headline": "To improve search results on YouTube, use the search prefix “intitle:”",
+            "_original_url": "https://xn--1-zfa.com/youtube/",
+            "_sensitive": false,
+            "_score": 225
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31988820",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31988820",
+            "title": "使用eBPF的Linux的憑證轉儲器\n",
+            "summary": "Show HN: Credentials dumper for Linux using eBPF",
+            "date_modified": "2022-07-05T14:44:55.000Z",
+            "author": {
+                "name": "citronneur",
+                "url": "https://news.ycombinator.com/user?id=citronneur"
+            },
+            "_original_headline": "Show HN: Credentials dumper for Linux using eBPF",
+            "_original_url": "https://github.com/citronneur/pamspy",
+            "_sensitive": false,
+            "_score": 206
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31987713",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31987713",
+            "title": "如何為多人遊標製作動畫\n",
+            "summary": "How to Animate Multiplayer Cursors",
+            "date_modified": "2022-07-05T13:04:11.000Z",
+            "author": {
+                "name": "stevenfabre",
+                "url": "https://news.ycombinator.com/user?id=stevenfabre"
+            },
+            "_original_headline": "How to Animate Multiplayer Cursors",
+            "_original_url": "https://liveblocks.io/blog/how-to-animate-multiplayer-cursors",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31984450",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31984450",
+            "title": "Git之後是什麼\n",
+            "summary": "What comes after Git",
+            "date_modified": "2022-07-05T04:54:59.000Z",
+            "author": {
+                "name": "rckrd",
+                "url": "https://news.ycombinator.com/user?id=rckrd"
+            },
+            "_original_headline": "What comes after Git",
+            "_original_url": "https://matt-rickard.com/what-comes-after-git/",
+            "_sensitive": false,
+            "_score": 205
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31993429",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31993429",
@@ -9545,70 +9609,6 @@
             "_original_url": "https://www.usatoday.com/story/money/cars/2022/06/01/ev-online-sales-ford-uber-lyft/7474822001/?gnt-cfr=1",
             "_sensitive": false,
             "_score": 316
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31600848",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31600848",
-            "title": "微軟Purview。通信合規性的額外分類器(預覽)\n",
-            "summary": "Microsoft Purview: Additional classifiers for Communication Compliance (preview)",
-            "date_modified": "2022-06-02T21:39:39.000Z",
-            "author": {
-                "name": "CPAhem",
-                "url": "https://news.ycombinator.com/user?id=CPAhem"
-            },
-            "_original_headline": "Microsoft Purview: Additional classifiers for Communication Compliance (preview)",
-            "_original_url": "https://pupuweb.com/mc387035-microsoft-purview-additional-classifiers-communication-compliance-preview/",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31593726",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31593726",
-            "title": "我做了一個看似簡單卻很難滑動的拼圖\n",
-            "summary": "Show HN: I made a deceptively simple but hard sliding puzzle",
-            "date_modified": "2022-06-02T11:50:18.000Z",
-            "author": {
-                "name": "amenghra",
-                "url": "https://news.ycombinator.com/user?id=amenghra"
-            },
-            "_original_headline": "Show HN: I made a deceptively simple but hard sliding puzzle",
-            "_original_url": "https://www.quaxio.com/sliding_puzzle/puzzle.html",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31600505",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31600505",
-            "title": "招聘計劃的最新情況\n",
-            "summary": "Update on Hiring Plans",
-            "date_modified": "2022-06-02T21:06:06.000Z",
-            "author": {
-                "name": "tempsy",
-                "url": "https://news.ycombinator.com/user?id=tempsy"
-            },
-            "_original_headline": "Update on Hiring Plans",
-            "_original_url": "https://blog.coinbase.com/update-on-hiring-plans-bcedfa634989",
-            "_sensitive": false,
-            "_score": 258
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31595822",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31595822",
-            "title": "Svelvet - 一個用於構建交互式流程圖的組件庫\n",
-            "summary": "Show HN: Svelvet – A component library for building interactive flow diagrams",
-            "date_modified": "2022-06-02T15:09:16.000Z",
-            "author": {
-                "name": "awillettnyc",
-                "url": "https://news.ycombinator.com/user?id=awillettnyc"
-            },
-            "_original_headline": "Show HN: Svelvet – A component library for building interactive flow diagrams",
-            "_original_url": "https://svelvet.io/",
-            "_sensitive": false,
-            "_score": 252
         }
     ]
 }

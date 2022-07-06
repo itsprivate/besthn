@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-05T21:59:18.573Z</updated>
+    <updated>2022-07-06T02:46:49.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為了改善YouTube上的搜索結果，使用搜索前綴 "intitle:"
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31990043</id>
+        <link href="https://news.ycombinator.com/item?id=31990043"/>
+        <updated>2022-07-05T16:10:38.000Z</updated>
+        <summary type="html"><![CDATA[To improve search results on YouTube, use the search prefix “intitle:”]]></summary>
+        <author>
+            <name>normhill</name>
+            <uri>https://news.ycombinator.com/user?id=normhill</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用eBPF的Linux的憑證轉儲器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31988820</id>
+        <link href="https://news.ycombinator.com/item?id=31988820"/>
+        <updated>2022-07-05T14:44:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Credentials dumper for Linux using eBPF]]></summary>
+        <author>
+            <name>citronneur</name>
+            <uri>https://news.ycombinator.com/user?id=citronneur</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何為多人遊標製作動畫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31987713</id>
+        <link href="https://news.ycombinator.com/item?id=31987713"/>
+        <updated>2022-07-05T13:04:11.000Z</updated>
+        <summary type="html"><![CDATA[How to Animate Multiplayer Cursors]]></summary>
+        <author>
+            <name>stevenfabre</name>
+            <uri>https://news.ycombinator.com/user?id=stevenfabre</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git之後是什麼
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31984450</id>
+        <link href="https://news.ycombinator.com/item?id=31984450"/>
+        <updated>2022-07-05T04:54:59.000Z</updated>
+        <summary type="html"><![CDATA[What comes after Git]]></summary>
+        <author>
+            <name>rckrd</name>
+            <uri>https://news.ycombinator.com/user?id=rckrd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bun: 用Zig編寫的快速JavaScript運行時、轉碼器和npm客戶端
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>ddtaylor</name>
             <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微軟Purview。通信合規性的額外分類器(預覽)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31600848</id>
-        <link href="https://news.ycombinator.com/item?id=31600848"/>
-        <updated>2022-06-02T21:39:39.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Purview: Additional classifiers for Communication Compliance (preview)]]></summary>
-        <author>
-            <name>CPAhem</name>
-            <uri>https://news.ycombinator.com/user?id=CPAhem</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個看似簡單卻很難滑動的拼圖
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31593726</id>
-        <link href="https://news.ycombinator.com/item?id=31593726"/>
-        <updated>2022-06-02T11:50:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a deceptively simple but hard sliding puzzle]]></summary>
-        <author>
-            <name>amenghra</name>
-            <uri>https://news.ycombinator.com/user?id=amenghra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[招聘計劃的最新情況
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31600505</id>
-        <link href="https://news.ycombinator.com/item?id=31600505"/>
-        <updated>2022-06-02T21:06:06.000Z</updated>
-        <summary type="html"><![CDATA[Update on Hiring Plans]]></summary>
-        <author>
-            <name>tempsy</name>
-            <uri>https://news.ycombinator.com/user?id=tempsy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Svelvet - 一個用於構建交互式流程圖的組件庫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31595822</id>
-        <link href="https://news.ycombinator.com/item?id=31595822"/>
-        <updated>2022-06-02T15:09:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Svelvet – A component library for building interactive flow diagrams]]></summary>
-        <author>
-            <name>awillettnyc</name>
-            <uri>https://news.ycombinator.com/user?id=awillettnyc</uri>
         </author>
     </entry>
 </feed>
