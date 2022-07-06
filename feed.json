@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32003900",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32003900",
+            "title": "红宝石盾牌。Shopify捐赠100万美元给rubygems、bundler的管理人\n",
+            "summary": "Ruby Shield: Shopify donates $1M to stewards of rubygems, bundler",
+            "date_modified": "2022-07-06T17:12:20.000Z",
+            "author": {
+                "name": "jacques_chester",
+                "url": "https://news.ycombinator.com/user?id=jacques_chester"
+            },
+            "_original_headline": "Ruby Shield: Shopify donates $1M to stewards of rubygems, bundler",
+            "_original_url": "http://rubycentral.org/ruby-shield",
+            "_sensitive": false,
+            "_score": 220
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32000400",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32000400",
+            "title": "将我们的电子表格引擎从数千个单元格扩展到数十亿个单元格\n",
+            "summary": "Scaling our spreadsheet engine from thousands to billions of cells",
+            "date_modified": "2022-07-06T13:18:35.000Z",
+            "author": {
+                "name": "Lukas1994",
+                "url": "https://news.ycombinator.com/user?id=Lukas1994"
+            },
+            "_original_headline": "Scaling our spreadsheet engine from thousands to billions of cells",
+            "_original_url": "https://www.causal.app/blog/scaling",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32003756",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32003756",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://www.zkcrush.xyz/",
             "_sensitive": false,
             "_score": 252
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31605345",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31605345",
-            "title": "战争雷霆论坛上的机密规格第三次被泄露\n",
-            "summary": "Classified specs leaked on War Thunder forum for third time",
-            "date_modified": "2022-06-03T07:37:19.000Z",
-            "author": {
-                "name": "haunter",
-                "url": "https://news.ycombinator.com/user?id=haunter"
-            },
-            "_original_headline": "Classified specs leaked on War Thunder forum for third time",
-            "_original_url": "https://ukdefencejournal.org.uk/classified-specs-leaked-on-war-thunder-forum-for-third-time/",
-            "_sensitive": false,
-            "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31609602",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31609602",
-            "title": "危险的礼物\n",
-            "summary": "Dangerous Gift",
-            "date_modified": "2022-06-03T15:25:53.000Z",
-            "author": {
-                "name": "rdpintqogeogsaa",
-                "url": "https://news.ycombinator.com/user?id=rdpintqogeogsaa"
-            },
-            "_original_headline": "Dangerous Gift",
-            "_original_url": "https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift",
-            "_sensitive": false,
-            "_score": 260
         }
     ]
 }

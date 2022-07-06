@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-06T18:58:40.806Z</updated>
+    <updated>2022-07-06T20:31:33.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[紅寶石盾牌。Shopify捐贈100萬美元給rubygems、bundler的管理人
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32003900</id>
+        <link href="https://news.ycombinator.com/item?id=32003900"/>
+        <updated>2022-07-06T17:12:20.000Z</updated>
+        <summary type="html"><![CDATA[Ruby Shield: Shopify donates $1M to stewards of rubygems, bundler]]></summary>
+        <author>
+            <name>jacques_chester</name>
+            <uri>https://news.ycombinator.com/user?id=jacques_chester</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將我們的電子表格引擎從數千個單元格擴展到數十億個單元格
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32000400</id>
+        <link href="https://news.ycombinator.com/item?id=32000400"/>
+        <updated>2022-07-06T13:18:35.000Z</updated>
+        <summary type="html"><![CDATA[Scaling our spreadsheet engine from thousands to billions of cells]]></summary>
+        <author>
+            <name>Lukas1994</name>
+            <uri>https://news.ycombinator.com/user?id=Lukas1994</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果公司擴大承諾，保護用戶免受僱傭軍間諜軟件的影響
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>amirGi</name>
             <uri>https://news.ycombinator.com/user?id=amirGi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戰爭雷霆論壇上的機密規格第三次被洩露
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31605345</id>
-        <link href="https://news.ycombinator.com/item?id=31605345"/>
-        <updated>2022-06-03T07:37:19.000Z</updated>
-        <summary type="html"><![CDATA[Classified specs leaked on War Thunder forum for third time]]></summary>
-        <author>
-            <name>haunter</name>
-            <uri>https://news.ycombinator.com/user?id=haunter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[危險的禮物
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31609602</id>
-        <link href="https://news.ycombinator.com/item?id=31609602"/>
-        <updated>2022-06-03T15:25:53.000Z</updated>
-        <summary type="html"><![CDATA[Dangerous Gift]]></summary>
-        <author>
-            <name>rdpintqogeogsaa</name>
-            <uri>https://news.ycombinator.com/user?id=rdpintqogeogsaa</uri>
         </author>
     </entry>
 </feed>
