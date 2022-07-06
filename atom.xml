@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-06T02:46:49.757Z</updated>
+    <updated>2022-07-06T05:48:26.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[荒谬的手推车问题
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31996235</id>
+        <link href="https://news.ycombinator.com/item?id=31996235"/>
+        <updated>2022-07-06T03:04:04.000Z</updated>
+        <summary type="html"><![CDATA[Absurd Trolley Problems]]></summary>
+        <author>
+            <name>sebg</name>
+            <uri>https://news.ycombinator.com/user?id=sebg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[揭开亚麻布的神秘面纱，或者说亚麻布盔甲是如何主宰我们的生活的（2013）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31991008</id>
+        <link href="https://news.ycombinator.com/item?id=31991008"/>
+        <updated>2022-07-05T17:19:57.000Z</updated>
+        <summary type="html"><![CDATA[Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)]]></summary>
+        <author>
+            <name>pavel_lishin</name>
+            <uri>https://news.ycombinator.com/user?id=pavel_lishin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memzoom - 在你的UTF-8终端中查看/监控进程/文件的原始内存
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31989399</id>
+        <link href="https://news.ycombinator.com/item?id=31989399"/>
+        <updated>2022-07-05T15:31:29.000Z</updated>
+        <summary type="html"><![CDATA[Memzoom – view/monitor the raw memory of processes/files in your UTF-8 terminal]]></summary>
+        <author>
+            <name>tsujp</name>
+            <uri>https://news.ycombinator.com/user?id=tsujp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为了改善YouTube上的搜索结果，使用搜索前缀 "intitle:"
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>avgcorrection</name>
             <uri>https://news.ycombinator.com/user?id=avgcorrection</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在我的房子里安装一个公共电话
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31593248</id>
-        <link href="https://news.ycombinator.com/item?id=31593248"/>
-        <updated>2022-06-02T10:20:25.000Z</updated>
-        <summary type="html"><![CDATA[Installing a payphone in my house]]></summary>
-        <author>
-            <name>itsjloh</name>
-            <uri>https://news.ycombinator.com/user?id=itsjloh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用一个总括性的域名是一个错误
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31585463</id>
-        <link href="https://news.ycombinator.com/item?id=31585463"/>
-        <updated>2022-06-01T17:48:42.000Z</updated>
-        <summary type="html"><![CDATA[Using a catch-all domain is a mistake]]></summary>
-        <author>
-            <name>withzombies</name>
-            <uri>https://news.ycombinator.com/user?id=withzombies</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[福特CEO称电动汽车将100%在线销售，价格没得商量
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31602417</id>
-        <link href="https://news.ycombinator.com/item?id=31602417"/>
-        <updated>2022-06-03T00:20:12.000Z</updated>
-        <summary type="html"><![CDATA[Ford CEO says EVs will be sold 100% online with nonnegotiable price]]></summary>
-        <author>
-            <name>ddtaylor</name>
-            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
         </author>
     </entry>
 </feed>
