@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32000668",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32000668",
+            "title": "在一項概念驗證研究中，微型機器人可以刷牙和使用牙線\n",
+            "summary": "Microrobots can brush and floss teeth in a proof-of-concept study",
+            "date_modified": "2022-07-06T13:36:23.000Z",
+            "author": {
+                "name": "geox",
+                "url": "https://news.ycombinator.com/user?id=geox"
+            },
+            "_original_headline": "Microrobots can brush and floss teeth in a proof-of-concept study",
+            "_original_url": "https://penntoday.upenn.edu/news/penn-dental-engineering-shapeshifting-microrobots-can-brush-and-floss-teeth",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32003266",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32003266",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "WorldWideWeb.app",
             "_original_url": "https://blog.iconfactory.com/2022/06/worldwideweb-part-2/",
-            "_sensitive": false,
-            "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31614518",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31614518",
-            "title": "是的：與創作者分享收入的谷歌替代品 - Ahrefs報道\n",
-            "summary": "Yep: Google alternative that shares revenue with creators – by Ahrefs",
-            "date_modified": "2022-06-03T22:33:20.000Z",
-            "author": {
-                "name": "daolf",
-                "url": "https://news.ycombinator.com/user?id=daolf"
-            },
-            "_original_headline": "Yep: Google alternative that shares revenue with creators – by Ahrefs",
-            "_original_url": "https://yep.com",
             "_sensitive": false,
             "_score": 251
         }

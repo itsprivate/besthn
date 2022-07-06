@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 06 Jul 2022 22:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 23:00:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在一項概念驗證研究中，微型機器人可以刷牙和使用牙線
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32000668</link>
+            <guid>https://news.ycombinator.com/item?id=32000668</guid>
+            <pubDate>Wed, 06 Jul 2022 13:36:23 GMT</pubDate>
+            <description><![CDATA[Microrobots can brush and floss teeth in a proof-of-concept study]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼我對公司的會議感到費勁呢？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31613624</guid>
             <pubDate>Fri, 03 Jun 2022 21:07:52 GMT</pubDate>
             <description><![CDATA[WorldWideWeb.app]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是的：與創作者分享收入的谷歌替代品 - Ahrefs報道
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31614518</link>
-            <guid>https://news.ycombinator.com/item?id=31614518</guid>
-            <pubDate>Fri, 03 Jun 2022 22:33:20 GMT</pubDate>
-            <description><![CDATA[Yep: Google alternative that shares revenue with creators – by Ahrefs]]></description>
         </item>
     </channel>
 </rss>
