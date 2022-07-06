@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31998348",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31998348",
+            "title": "汽車製造商家族樹。誰擁有什麼？\n",
+            "summary": "Auto manufacturer family tree: Who owns what?",
+            "date_modified": "2022-07-06T08:44:23.000Z",
+            "author": {
+                "name": "batirch",
+                "url": "https://news.ycombinator.com/user?id=batirch"
+            },
+            "_original_headline": "Auto manufacturer family tree: Who owns what?",
+            "_original_url": "https://www.whichcar.com.au/car-advice/car-manufacturer-brands-family-tree",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32003900",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32003900",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.thequint.com/us-nri-news/google-dalit-rights-activist-thenmozhi-soundararajan-presentation-lecture-anti-hindu-tanuja-gupta-senior-manager-resigns",
             "_sensitive": false,
             "_score": 270
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31610005",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31610005",
-            "title": "以零知識告白你的愛\n",
-            "summary": "Confess your love with zero-knowledge",
-            "date_modified": "2022-06-03T15:52:23.000Z",
-            "author": {
-                "name": "amirGi",
-                "url": "https://news.ycombinator.com/user?id=amirGi"
-            },
-            "_original_headline": "Confess your love with zero-knowledge",
-            "_original_url": "https://www.zkcrush.xyz/",
-            "_sensitive": false,
-            "_score": 252
         }
     ]
 }

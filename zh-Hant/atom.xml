@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-06T20:31:33.045Z</updated>
+    <updated>2022-07-06T20:49:56.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[汽車製造商家族樹。誰擁有什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31998348</id>
+        <link href="https://news.ycombinator.com/item?id=31998348"/>
+        <updated>2022-07-06T08:44:23.000Z</updated>
+        <summary type="html"><![CDATA[Auto manufacturer family tree: Who owns what?]]></summary>
+        <author>
+            <name>batirch</name>
+            <uri>https://news.ycombinator.com/user?id=batirch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[紅寶石盾牌。Shopify捐贈100萬美元給rubygems、bundler的管理人
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ddtaylor</name>
             <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以零知識告白你的愛
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31610005</id>
-        <link href="https://news.ycombinator.com/item?id=31610005"/>
-        <updated>2022-06-03T15:52:23.000Z</updated>
-        <summary type="html"><![CDATA[Confess your love with zero-knowledge]]></summary>
-        <author>
-            <name>amirGi</name>
-            <uri>https://news.ycombinator.com/user?id=amirGi</uri>
         </author>
     </entry>
 </feed>
