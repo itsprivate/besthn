@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32003756",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32003756",
+            "title": "苹果公司扩大承诺，保护用户免受雇佣军间谍软件的影响\n",
+            "summary": "Apple expands commitment to protect users from mercenary spyware",
+            "date_modified": "2022-07-06T17:01:32.000Z",
+            "author": {
+                "name": "todsacerdoti",
+                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
+            },
+            "_original_headline": "Apple expands commitment to protect users from mercenary spyware",
+            "_original_url": "https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/",
+            "_sensitive": false,
+            "_score": 232
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32001742",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32001742",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.tbray.org/ongoing/When/202x/2022/06/02/Dangerous-Gift",
             "_sensitive": false,
             "_score": 260
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31607318",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31607318",
-            "title": "我恢复了Palm的webOS应用目录、SDK和在线帮助系统\n",
-            "summary": "Show HN: I restored Palm's webOS App Catalog, SDK and online help system",
-            "date_modified": "2022-06-03T12:28:06.000Z",
-            "author": {
-                "name": "codepoet80",
-                "url": "https://news.ycombinator.com/user?id=codepoet80"
-            },
-            "_original_headline": "Show HN: I restored Palm's webOS App Catalog, SDK and online help system",
-            "_original_url": "https://www.webosarchive.com",
-            "_sensitive": false,
-            "_score": 255
         }
     ]
 }
