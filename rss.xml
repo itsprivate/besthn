@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 06 Jul 2022 11:57:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 14:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[乌班图的一个内核错误导致容器崩溃
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31994774</link>
+            <guid>https://news.ycombinator.com/item?id=31994774</guid>
+            <pubDate>Tue, 05 Jul 2022 22:58:38 GMT</pubDate>
+            <description><![CDATA[An Ubuntu kernel bug causes container crashes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用QEMU在虚拟机中运行Steam Deck的操作系统
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31993597</link>
+            <guid>https://news.ycombinator.com/item?id=31993597</guid>
+            <pubDate>Tue, 05 Jul 2022 20:57:18 GMT</pubDate>
+            <description><![CDATA[Running the Steam Deck’s OS in a virtual machine using QEMU]]></description>
+        </item>
         <item>
             <title><![CDATA[GTA GeoGuesser
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31600817</guid>
             <pubDate>Thu, 02 Jun 2022 21:37:10 GMT</pubDate>
             <description><![CDATA[Record labels dig their own grave, and the shovel is called TikTok]]></description>
-        </item>
-        <item>
-            <title><![CDATA[阿特拉斯--Confluence的零日漏洞利用
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31602288</link>
-            <guid>https://news.ycombinator.com/item?id=31602288</guid>
-            <pubDate>Fri, 03 Jun 2022 00:04:33 GMT</pubDate>
-            <description><![CDATA[Zero-Day Exploitation of Atlassian Confluence]]></description>
-        </item>
-        <item>
-            <title><![CDATA[VSCodium - 免费/自由的VS代码的开源软件二进制文件
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31604932</link>
-            <guid>https://news.ycombinator.com/item?id=31604932</guid>
-            <pubDate>Fri, 03 Jun 2022 06:28:58 GMT</pubDate>
-            <description><![CDATA[VSCodium – Free/Libre Open Source Software Binaries of VS Code]]></description>
         </item>
     </channel>
 </rss>

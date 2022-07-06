@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-06T11:57:19.066Z</updated>
+    <updated>2022-07-06T14:12:12.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[烏班圖的一個內核錯誤導致容器崩潰
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31994774</id>
+        <link href="https://news.ycombinator.com/item?id=31994774"/>
+        <updated>2022-07-05T22:58:38.000Z</updated>
+        <summary type="html"><![CDATA[An Ubuntu kernel bug causes container crashes]]></summary>
+        <author>
+            <name>kennethko</name>
+            <uri>https://news.ycombinator.com/user?id=kennethko</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用QEMU在虛擬機中運行Steam Deck的操作系統
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31993597</id>
+        <link href="https://news.ycombinator.com/item?id=31993597"/>
+        <updated>2022-07-05T20:57:18.000Z</updated>
+        <summary type="html"><![CDATA[Running the Steam Deck’s OS in a virtual machine using QEMU]]></summary>
+        <author>
+            <name>caution</name>
+            <uri>https://news.ycombinator.com/user?id=caution</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GTA GeoGuesser
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>jger15</name>
             <uri>https://news.ycombinator.com/user?id=jger15</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿特拉斯--Confluence的零日漏洞利用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31602288</id>
-        <link href="https://news.ycombinator.com/item?id=31602288"/>
-        <updated>2022-06-03T00:04:33.000Z</updated>
-        <summary type="html"><![CDATA[Zero-Day Exploitation of Atlassian Confluence]]></summary>
-        <author>
-            <name>afrcnc</name>
-            <uri>https://news.ycombinator.com/user?id=afrcnc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VSCodium - 免費/自由的VS代碼的開源軟件二進制文件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31604932</id>
-        <link href="https://news.ycombinator.com/item?id=31604932"/>
-        <updated>2022-06-03T06:28:58.000Z</updated>
-        <summary type="html"><![CDATA[VSCodium – Free/Libre Open Source Software Binaries of VS Code]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>
