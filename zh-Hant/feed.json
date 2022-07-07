@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32010699",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32010699",
+            "title": "為什麼DRY是最被高估的編程原則？\n",
+            "summary": "Why DRY is the most over-rated programming principle",
+            "date_modified": "2022-07-07T06:51:42.000Z",
+            "author": {
+                "name": "gcassie",
+                "url": "https://news.ycombinator.com/user?id=gcassie"
+            },
+            "_original_headline": "Why DRY is the most over-rated programming principle",
+            "_original_url": "https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32009009",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32009009",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://content.fme.de/en/blog/docker-is-dead-podman-an-alternative-tool",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31621101",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31621101",
-            "title": "挪威跟蹤所有超市的採購？\n",
-            "summary": "Norway to track all supermarket purchases?",
-            "date_modified": "2022-06-04T15:02:09.000Z",
-            "author": {
-                "name": "croes",
-                "url": "https://news.ycombinator.com/user?id=croes"
-            },
-            "_original_headline": "Norway to track all supermarket purchases?",
-            "_original_url": "https://www.lifeinnorway.net/norway-to-track-all-supermarket-purchases/",
-            "_sensitive": false,
-            "_score": 255
         }
     ]
 }
