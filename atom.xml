@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-07T21:48:56.163Z</updated>
+    <updated>2022-07-07T22:34:01.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SOC2: 截图将继续下去，直到安全性得到改善
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32018066</id>
+        <link href="https://news.ycombinator.com/item?id=32018066"/>
+        <updated>2022-07-07T19:14:19.000Z</updated>
+        <summary type="html"><![CDATA[SOC2: The screenshots will continue until security improves]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月8日世界上99%的人口同时在阳光下？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32017952</id>
+        <link href="https://news.ycombinator.com/item?id=32017952"/>
+        <updated>2022-07-07T19:05:48.000Z</updated>
+        <summary type="html"><![CDATA[July 8 99% of the world’s population in sunlight simultaneously?]]></summary>
+        <author>
+            <name>cft</name>
+            <uri>https://news.ycombinator.com/user?id=cft</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[采取行动，打击出租刮削行为
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32013202</id>
+        <link href="https://news.ycombinator.com/item?id=32013202"/>
+        <updated>2022-07-07T12:33:46.000Z</updated>
+        <summary type="html"><![CDATA[Taking action against scraping for hire]]></summary>
+        <author>
+            <name>pawelkobojek</name>
+            <uri>https://news.ycombinator.com/user?id=pawelkobojek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[星联海运
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>thunderbong</name>
             <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有一个旧的iPad躺在身边？你可能很快就能让它运行Linux了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31624185</id>
-        <link href="https://news.ycombinator.com/item?id=31624185"/>
-        <updated>2022-06-04T19:26:32.000Z</updated>
-        <summary type="html"><![CDATA[Have an old iPad lying around? You might be able to make it run Linux soon]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我只关心有帮助的通知，不关心促销的通知。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31632137</id>
-        <link href="https://news.ycombinator.com/item?id=31632137"/>
-        <updated>2022-06-05T16:00:06.000Z</updated>
-        <summary type="html"><![CDATA[I only care about the helpful notifications, not the promotional ones]]></summary>
-        <author>
-            <name>otras</name>
-            <uri>https://news.ycombinator.com/user?id=otras</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个癌症试验的意外结果。每位患者的病情都得到了缓解
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31630679</id>
-        <link href="https://news.ycombinator.com/item?id=31630679"/>
-        <updated>2022-06-05T13:13:57.000Z</updated>
-        <summary type="html"><![CDATA[A Cancer Trial’s Unexpected Result: Remission in Every Patient]]></summary>
-        <author>
-            <name>mhb</name>
-            <uri>https://news.ycombinator.com/user?id=mhb</uri>
         </author>
     </entry>
 </feed>

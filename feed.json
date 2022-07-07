@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32018066",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32018066",
+            "title": "SOC2: 截图将继续下去，直到安全性得到改善\n",
+            "summary": "SOC2: The screenshots will continue until security improves",
+            "date_modified": "2022-07-07T19:14:19.000Z",
+            "author": {
+                "name": "todsacerdoti",
+                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
+            },
+            "_original_headline": "SOC2: The screenshots will continue until security improves",
+            "_original_url": "https://fly.io/blog/soc2-the-screenshots-will-continue-until-security-improves/",
+            "_sensitive": false,
+            "_score": 218
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32017952",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32017952",
+            "title": "7月8日世界上99%的人口同时在阳光下？\n",
+            "summary": "July 8 99% of the world’s population in sunlight simultaneously?",
+            "date_modified": "2022-07-07T19:05:48.000Z",
+            "author": {
+                "name": "cft",
+                "url": "https://news.ycombinator.com/user?id=cft"
+            },
+            "_original_headline": "July 8 99% of the world’s population in sunlight simultaneously?",
+            "_original_url": "https://www.timeanddate.com/news/astronomy/99-percent-sunlight-july-8",
+            "_sensitive": false,
+            "_score": 214
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32013202",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32013202",
+            "title": "采取行动，打击出租刮削行为\n",
+            "summary": "Taking action against scraping for hire",
+            "date_modified": "2022-07-07T12:33:46.000Z",
+            "author": {
+                "name": "pawelkobojek",
+                "url": "https://news.ycombinator.com/user?id=pawelkobojek"
+            },
+            "_original_headline": "Taking action against scraping for hire",
+            "_original_url": "https://about.fb.com/news/2022/07/actions-against-scraping-for-hire/",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32018218",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32018218",
@@ -9561,54 +9609,6 @@
             "_original_url": "https://gitea.io/en-us/",
             "_sensitive": false,
             "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31624185",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31624185",
-            "title": "有一个旧的iPad躺在身边？你可能很快就能让它运行Linux了\n",
-            "summary": "Have an old iPad lying around? You might be able to make it run Linux soon",
-            "date_modified": "2022-06-04T19:26:32.000Z",
-            "author": {
-                "name": "tosh",
-                "url": "https://news.ycombinator.com/user?id=tosh"
-            },
-            "_original_headline": "Have an old iPad lying around? You might be able to make it run Linux soon",
-            "_original_url": "https://arstechnica.com/gadgets/2022/06/developers-get-linux-up-and-running-on-old-ipad-air-2-hardware/",
-            "_sensitive": false,
-            "_score": 253
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31632137",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31632137",
-            "title": "我只关心有帮助的通知，不关心促销的通知。\n",
-            "summary": "I only care about the helpful notifications, not the promotional ones",
-            "date_modified": "2022-06-05T16:00:06.000Z",
-            "author": {
-                "name": "otras",
-                "url": "https://news.ycombinator.com/user?id=otras"
-            },
-            "_original_headline": "I only care about the helpful notifications, not the promotional ones",
-            "_original_url": "https://alexanderell.is/posts/sneaking-notifications/",
-            "_sensitive": false,
-            "_score": 266
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31630679",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31630679",
-            "title": "一个癌症试验的意外结果。每位患者的病情都得到了缓解\n",
-            "summary": "A Cancer Trial’s Unexpected Result: Remission in Every Patient",
-            "date_modified": "2022-06-05T13:13:57.000Z",
-            "author": {
-                "name": "mhb",
-                "url": "https://news.ycombinator.com/user?id=mhb"
-            },
-            "_original_headline": "A Cancer Trial’s Unexpected Result: Remission in Every Patient",
-            "_original_url": "https://www.nytimes.com/2022/06/05/health/rectal-cancer-checkpoint-inhibitor.html",
-            "_sensitive": false,
-            "_score": 256
         }
     ]
 }

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 07 Jul 2022 21:48:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 22:34:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[SOC2: 截圖將繼續下去，直到安全性得到改善
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32018066</link>
+            <guid>https://news.ycombinator.com/item?id=32018066</guid>
+            <pubDate>Thu, 07 Jul 2022 19:14:19 GMT</pubDate>
+            <description><![CDATA[SOC2: The screenshots will continue until security improves]]></description>
+        </item>
+        <item>
+            <title><![CDATA[7月8日世界上99%的人口同時在陽光下？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32017952</link>
+            <guid>https://news.ycombinator.com/item?id=32017952</guid>
+            <pubDate>Thu, 07 Jul 2022 19:05:48 GMT</pubDate>
+            <description><![CDATA[July 8 99% of the world’s population in sunlight simultaneously?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[採取行動，打擊出租刮削行為
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32013202</link>
+            <guid>https://news.ycombinator.com/item?id=32013202</guid>
+            <pubDate>Thu, 07 Jul 2022 12:33:46 GMT</pubDate>
+            <description><![CDATA[Taking action against scraping for hire]]></description>
+        </item>
         <item>
             <title><![CDATA[星聯海運
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31628939</guid>
             <pubDate>Sun, 05 Jun 2022 08:03:13 GMT</pubDate>
             <description><![CDATA[Gitea – a painless self-hosted Git service]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有一箇舊的iPad躺在身邊？你可能很快就能讓它運行Linux了
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31624185</link>
-            <guid>https://news.ycombinator.com/item?id=31624185</guid>
-            <pubDate>Sat, 04 Jun 2022 19:26:32 GMT</pubDate>
-            <description><![CDATA[Have an old iPad lying around? You might be able to make it run Linux soon]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我只關心有幫助的通知，不關心促銷的通知。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31632137</link>
-            <guid>https://news.ycombinator.com/item?id=31632137</guid>
-            <pubDate>Sun, 05 Jun 2022 16:00:06 GMT</pubDate>
-            <description><![CDATA[I only care about the helpful notifications, not the promotional ones]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個癌症試驗的意外結果。每位患者的病情都得到了緩解
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31630679</link>
-            <guid>https://news.ycombinator.com/item?id=31630679</guid>
-            <pubDate>Sun, 05 Jun 2022 13:13:57 GMT</pubDate>
-            <description><![CDATA[A Cancer Trial’s Unexpected Result: Remission in Every Patient]]></description>
         </item>
     </channel>
 </rss>
