@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 07 Jul 2022 16:53:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 17:24:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,38 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[PocketBase - 一個文件中的開源實時後端
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32013330</link>
+            <guid>https://news.ycombinator.com/item?id=32013330</guid>
+            <pubDate>Thu, 07 Jul 2022 12:45:11 GMT</pubDate>
+            <description><![CDATA[Show HN: PocketBase – Open Source realtime backend in one file]]></description>
+        </item>
+        <item>
+            <title><![CDATA[私募股權可能正在走向衰落
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32013295</link>
+            <guid>https://news.ycombinator.com/item?id=32013295</guid>
+            <pubDate>Thu, 07 Jul 2022 12:42:08 GMT</pubDate>
+            <description><![CDATA[Private equity may be heading for a fall]]></description>
+        </item>
+        <item>
+            <title><![CDATA[以太坊的 "權益證明"(Proof-of-Stake)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32012352</link>
+            <guid>https://news.ycombinator.com/item?id=32012352</guid>
+            <pubDate>Thu, 07 Jul 2022 10:51:04 GMT</pubDate>
+            <description><![CDATA[Ethereum Proof-of-Stake]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在簡單的前端開發中，你的首選工具集是什麼？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32011439</link>
+            <guid>https://news.ycombinator.com/item?id=32011439</guid>
+            <pubDate>Thu, 07 Jul 2022 08:45:39 GMT</pubDate>
+            <description><![CDATA[Ask HN: What's is your go to toolset for simple front end development?]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼人們沒有注意到我們巨大的、突出的、清晰的、對比強烈的橫幅？
 ]]></title>
@@ -4781,38 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31624930</guid>
             <pubDate>Sat, 04 Jun 2022 20:50:50 GMT</pubDate>
             <description><![CDATA[Do not combine footers and infinite scrolling]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在《暗黑破壞神》中，完全裝備好需要11萬美金
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31628848</link>
-            <guid>https://news.ycombinator.com/item?id=31628848</guid>
-            <pubDate>Sun, 05 Jun 2022 07:40:11 GMT</pubDate>
-            <description><![CDATA[It Costs $110k to Fully Gear-Up in Diablo Immortal]]></description>
-        </item>
-        <item>
-            <title><![CDATA[5月份DDR5內存價格暴跌20
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31625509</link>
-            <guid>https://news.ycombinator.com/item?id=31625509</guid>
-            <pubDate>Sat, 04 Jun 2022 22:00:15 GMT</pubDate>
-            <description><![CDATA[DDR5 RAM prices crashed by 20% in May]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GitHub用戶向40萬用戶發送通知
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31627061</link>
-            <guid>https://news.ycombinator.com/item?id=31627061</guid>
-            <pubDate>Sun, 05 Jun 2022 01:37:04 GMT</pubDate>
-            <description><![CDATA[GitHub user sends notification to 400k users]]></description>
-        </item>
-        <item>
-            <title><![CDATA[聯邦調查局試圖伏擊我的消息來源
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31622250</link>
-            <guid>https://news.ycombinator.com/item?id=31622250</guid>
-            <pubDate>Sat, 04 Jun 2022 16:24:58 GMT</pubDate>
-            <description><![CDATA[The FBI tried to ambush my source]]></description>
         </item>
     </channel>
 </rss>

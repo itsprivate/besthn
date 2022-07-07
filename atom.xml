@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-07T16:53:24.342Z</updated>
+    <updated>2022-07-07T17:24:38.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PocketBase - 一个文件中的开源实时后端
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32013330</id>
+        <link href="https://news.ycombinator.com/item?id=32013330"/>
+        <updated>2022-07-07T12:45:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PocketBase – Open Source realtime backend in one file]]></summary>
+        <author>
+            <name>randomwebdev</name>
+            <uri>https://news.ycombinator.com/user?id=randomwebdev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[私募股权可能正在走向衰落
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32013295</id>
+        <link href="https://news.ycombinator.com/item?id=32013295"/>
+        <updated>2022-07-07T12:42:08.000Z</updated>
+        <summary type="html"><![CDATA[Private equity may be heading for a fall]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊的 "权益证明"(Proof-of-Stake)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32012352</id>
+        <link href="https://news.ycombinator.com/item?id=32012352"/>
+        <updated>2022-07-07T10:51:04.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Proof-of-Stake]]></summary>
+        <author>
+            <name>matthewsinclair</name>
+            <uri>https://news.ycombinator.com/user?id=matthewsinclair</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在简单的前端开发中，你的首选工具集是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32011439</id>
+        <link href="https://news.ycombinator.com/item?id=32011439"/>
+        <updated>2022-07-07T08:45:39.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's is your go to toolset for simple front end development?]]></summary>
+        <author>
+            <name>anakaine</name>
+            <uri>https://news.ycombinator.com/user?id=anakaine</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么人们没有注意到我们巨大的、突出的、清晰的、对比强烈的横幅？
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>harryvederci</name>
             <uri>https://news.ycombinator.com/user?id=harryvederci</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在《暗黑破坏神》中，完全装备好需要11万美金
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31628848</id>
-        <link href="https://news.ycombinator.com/item?id=31628848"/>
-        <updated>2022-06-05T07:40:11.000Z</updated>
-        <summary type="html"><![CDATA[It Costs $110k to Fully Gear-Up in Diablo Immortal]]></summary>
-        <author>
-            <name>ddtaylor</name>
-            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5月份DDR5内存价格暴跌20
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31625509</id>
-        <link href="https://news.ycombinator.com/item?id=31625509"/>
-        <updated>2022-06-04T22:00:15.000Z</updated>
-        <summary type="html"><![CDATA[DDR5 RAM prices crashed by 20% in May]]></summary>
-        <author>
-            <name>ddtaylor</name>
-            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub用户向40万用户发送通知
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31627061</id>
-        <link href="https://news.ycombinator.com/item?id=31627061"/>
-        <updated>2022-06-05T01:37:04.000Z</updated>
-        <summary type="html"><![CDATA[GitHub user sends notification to 400k users]]></summary>
-        <author>
-            <name>adamnemecek</name>
-            <uri>https://news.ycombinator.com/user?id=adamnemecek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联邦调查局试图伏击我的消息来源
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31622250</id>
-        <link href="https://news.ycombinator.com/item?id=31622250"/>
-        <updated>2022-06-04T16:24:58.000Z</updated>
-        <summary type="html"><![CDATA[The FBI tried to ambush my source]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
         </author>
     </entry>
 </feed>
