@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32018508",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32018508",
+            "title": "Twitter今天开始裁员\n",
+            "summary": "Twitter Layoff Started Today",
+            "date_modified": "2022-07-07T19:51:38.000Z",
+            "author": {
+                "name": "amrrs",
+                "url": "https://news.ycombinator.com/user?id=amrrs"
+            },
+            "_original_headline": "Twitter Layoff Started Today",
+            "_original_url": "https://www.linkedin.com/posts/ingridjohnson_twitter-layoffs-started-today-there-are-activity-6950869057071980545-1Q4t",
+            "_sensitive": false,
+            "_score": 209
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32018066",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32018066",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://news.ycombinator.com/item?id=31618955",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31628939",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31628939",
-            "title": "Gitea - 一个无痛的自我托管的Git服务\n",
-            "summary": "Gitea – a painless self-hosted Git service",
-            "date_modified": "2022-06-05T08:03:13.000Z",
-            "author": {
-                "name": "thunderbong",
-                "url": "https://news.ycombinator.com/user?id=thunderbong"
-            },
-            "_original_headline": "Gitea – a painless self-hosted Git service",
-            "_original_url": "https://gitea.io/en-us/",
-            "_sensitive": false,
-            "_score": 251
         }
     ]
 }
