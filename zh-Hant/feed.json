@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32008586",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32008586",
+            "title": "我分析了醫院的價格表，所以你不必分析。\n",
+            "summary": "I analyzed hospital price lists so you didn't have to",
+            "date_modified": "2022-07-07T00:25:18.000Z",
+            "author": {
+                "name": "PainfullyNormal",
+                "url": "https://news.ycombinator.com/user?id=PainfullyNormal"
+            },
+            "_original_headline": "I analyzed hospital price lists so you didn't have to",
+            "_original_url": "https://www.dolthub.com/blog/2022-07-01-hospitals-compliance/",
+            "_sensitive": false,
+            "_score": 223
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31999936",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31999936",
+            "title": "讓IRC變得更好\n",
+            "summary": "Making IRC better",
+            "date_modified": "2022-07-06T12:40:01.000Z",
+            "author": {
+                "name": "Tomte",
+                "url": "https://news.ycombinator.com/user?id=Tomte"
+            },
+            "_original_headline": "Making IRC better",
+            "_original_url": "https://sourcehut.org/blog/2022-07-06-sourcehut-and-irc/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32000668",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32000668",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://neil.computer/notes/dear-spotify-can-we-just-get-table-of-songs/",
             "_sensitive": false,
             "_score": 276
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31590773",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31590773",
-            "title": "吊頂式空氣淨化器\n",
-            "summary": "Ceiling Air Purifier",
-            "date_modified": "2022-06-02T02:57:46.000Z",
-            "author": {
-                "name": "pavel_lishin",
-                "url": "https://news.ycombinator.com/user?id=pavel_lishin"
-            },
-            "_original_headline": "Ceiling Air Purifier",
-            "_original_url": "https://www.jefftk.com/p/ceiling-air-purifier",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31613624",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31613624",
-            "title": "WorldWideWeb.app\n",
-            "summary": "WorldWideWeb.app",
-            "date_modified": "2022-06-03T21:07:52.000Z",
-            "author": {
-                "name": "Arubis",
-                "url": "https://news.ycombinator.com/user?id=Arubis"
-            },
-            "_original_headline": "WorldWideWeb.app",
-            "_original_url": "https://blog.iconfactory.com/2022/06/worldwideweb-part-2/",
-            "_sensitive": false,
-            "_score": 251
         }
     ]
 }

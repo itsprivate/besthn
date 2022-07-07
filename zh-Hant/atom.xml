@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-06T23:00:12.117Z</updated>
+    <updated>2022-07-07T04:06:51.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我分析了醫院的價格表，所以你不必分析。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32008586</id>
+        <link href="https://news.ycombinator.com/item?id=32008586"/>
+        <updated>2022-07-07T00:25:18.000Z</updated>
+        <summary type="html"><![CDATA[I analyzed hospital price lists so you didn't have to]]></summary>
+        <author>
+            <name>PainfullyNormal</name>
+            <uri>https://news.ycombinator.com/user?id=PainfullyNormal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[讓IRC變得更好
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31999936</id>
+        <link href="https://news.ycombinator.com/item?id=31999936"/>
+        <updated>2022-07-06T12:40:01.000Z</updated>
+        <summary type="html"><![CDATA[Making IRC better]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在一項概念驗證研究中，微型機器人可以刷牙和使用牙線
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>neilpanchal</name>
             <uri>https://news.ycombinator.com/user?id=neilpanchal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吊頂式空氣淨化器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31590773</id>
-        <link href="https://news.ycombinator.com/item?id=31590773"/>
-        <updated>2022-06-02T02:57:46.000Z</updated>
-        <summary type="html"><![CDATA[Ceiling Air Purifier]]></summary>
-        <author>
-            <name>pavel_lishin</name>
-            <uri>https://news.ycombinator.com/user?id=pavel_lishin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WorldWideWeb.app
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31613624</id>
-        <link href="https://news.ycombinator.com/item?id=31613624"/>
-        <updated>2022-06-03T21:07:52.000Z</updated>
-        <summary type="html"><![CDATA[WorldWideWeb.app]]></summary>
-        <author>
-            <name>Arubis</name>
-            <uri>https://news.ycombinator.com/user?id=Arubis</uri>
         </author>
     </entry>
 </feed>
