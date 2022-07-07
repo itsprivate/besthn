@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 07 Jul 2022 04:06:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 04:59:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[雾卷在Godot 4.0中出现
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32003065</link>
+            <guid>https://news.ycombinator.com/item?id=32003065</guid>
+            <pubDate>Wed, 06 Jul 2022 16:14:28 GMT</pubDate>
+            <description><![CDATA[Fog Volumes arrive in Godot 4.0]]></description>
+        </item>
         <item>
             <title><![CDATA[我分析了医院的价格表，所以你不必分析。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31617600</guid>
             <pubDate>Sat, 04 Jun 2022 06:28:03 GMT</pubDate>
             <description><![CDATA[Rr]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亲爱的Spotify，我们能不能把歌曲摆到桌子上？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31618092</link>
-            <guid>https://news.ycombinator.com/item?id=31618092</guid>
-            <pubDate>Sat, 04 Jun 2022 08:12:02 GMT</pubDate>
-            <description><![CDATA[Dear Spotify, can we just get table of songs?]]></description>
         </item>
     </channel>
 </rss>
