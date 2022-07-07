@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-07T19:27:08.746Z</updated>
+    <updated>2022-07-07T19:59:04.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用CSS实现类似着色器的全息效果
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32016391</id>
+        <link href="https://news.ycombinator.com/item?id=32016391"/>
+        <updated>2022-07-07T16:53:09.000Z</updated>
+        <summary type="html"><![CDATA[Shader-like holographic effects with CSS]]></summary>
+        <author>
+            <name>skilled</name>
+            <uri>https://news.ycombinator.com/user?id=skilled</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[只能由人眼阅读的PDF文件
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sanketpatrikar</name>
             <uri>https://news.ycombinator.com/user?id=sanketpatrikar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第一个在M1 Mac上用完全开源的驱动程序渲染的三角形
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31626830</id>
-        <link href="https://news.ycombinator.com/item?id=31626830"/>
-        <updated>2022-06-05T00:57:59.000Z</updated>
-        <summary type="html"><![CDATA[First triangle ever rendered on an M1 Mac with a fully open-source driver]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
         </author>
     </entry>
 </feed>

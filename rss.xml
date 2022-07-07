@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 07 Jul 2022 19:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 19:59:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用CSS实现类似着色器的全息效果
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32016391</link>
+            <guid>https://news.ycombinator.com/item?id=32016391</guid>
+            <pubDate>Thu, 07 Jul 2022 16:53:09 GMT</pubDate>
+            <description><![CDATA[Shader-like holographic effects with CSS]]></description>
+        </item>
         <item>
             <title><![CDATA[只能由人眼阅读的PDF文件
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31628832</guid>
             <pubDate>Sun, 05 Jun 2022 07:34:16 GMT</pubDate>
             <description><![CDATA[RNA spontaneously forms on basalt lava glass (abundant on Earth 4.35B years ago)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[第一个在M1 Mac上用完全开源的驱动程序渲染的三角形
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31626830</link>
-            <guid>https://news.ycombinator.com/item?id=31626830</guid>
-            <pubDate>Sun, 05 Jun 2022 00:57:59 GMT</pubDate>
-            <description><![CDATA[First triangle ever rendered on an M1 Mac with a fully open-source driver]]></description>
         </item>
     </channel>
 </rss>
