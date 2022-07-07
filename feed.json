@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32002555",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32002555",
+            "title": "只能由人眼阅读的PDF文件\n",
+            "summary": "Show HN: PDFs that are readable by human eyes only",
+            "date_modified": "2022-07-06T15:38:58.000Z",
+            "author": {
+                "name": "viggity",
+                "url": "https://news.ycombinator.com/user?id=viggity"
+            },
+            "_original_headline": "Show HN: PDFs that are readable by human eyes only",
+            "_original_url": "https://humaneyesonly.com",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32014754",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32014754",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "First triangle ever rendered on an M1 Mac with a fully open-source driver",
             "_original_url": "https://twitter.com/AsahiLinux/status/1532035506539995136",
-            "_sensitive": false,
-            "_score": 253
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31628886",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31628886",
-            "title": "我在微软的面试中作弊\n",
-            "summary": "I Cheated on My Microsoft Interview",
-            "date_modified": "2022-06-05T07:50:08.000Z",
-            "author": {
-                "name": "DeathArrow",
-                "url": "https://news.ycombinator.com/user?id=DeathArrow"
-            },
-            "_original_headline": "I Cheated on My Microsoft Interview",
-            "_original_url": "https://www.facet.net/posts/i-cheated-on-my-microsoft-interview",
             "_sensitive": false,
             "_score": 253
         }
