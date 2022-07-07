@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 07 Jul 2022 19:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 20:33:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用Meta VR設備不再需要Facebook賬戶了
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32016484</link>
+            <guid>https://news.ycombinator.com/item?id=32016484</guid>
+            <pubDate>Thu, 07 Jul 2022 17:00:47 GMT</pubDate>
+            <description><![CDATA[A Facebook account is no longer required to use Meta VR devices]]></description>
+        </item>
         <item>
             <title><![CDATA[用CSS實現類似著色器的全息效果
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31630148</guid>
             <pubDate>Sun, 05 Jun 2022 11:55:18 GMT</pubDate>
             <description><![CDATA[Spotify podcasters are making $18k a month with nothing but white noise]]></description>
-        </item>
-        <item>
-            <title><![CDATA[RNA在玄武岩熔岩玻璃上自發形成（4.35B年前在地球上大量存在）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31628832</link>
-            <guid>https://news.ycombinator.com/item?id=31628832</guid>
-            <pubDate>Sun, 05 Jun 2022 07:34:16 GMT</pubDate>
-            <description><![CDATA[RNA spontaneously forms on basalt lava glass (abundant on Earth 4.35B years ago)]]></description>
         </item>
     </channel>
 </rss>

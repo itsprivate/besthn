@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-07T19:59:04.381Z</updated>
+    <updated>2022-07-07T20:33:17.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Meta VR设备不再需要Facebook账户了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32016484</id>
+        <link href="https://news.ycombinator.com/item?id=32016484"/>
+        <updated>2022-07-07T17:00:47.000Z</updated>
+        <summary type="html"><![CDATA[A Facebook account is no longer required to use Meta VR devices]]></summary>
+        <author>
+            <name>pesenti</name>
+            <uri>https://news.ycombinator.com/user?id=pesenti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用CSS实现类似着色器的全息效果
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Michelangelo11</name>
             <uri>https://news.ycombinator.com/user?id=Michelangelo11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RNA在玄武岩熔岩玻璃上自发形成（4.35B年前在地球上大量存在）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31628832</id>
-        <link href="https://news.ycombinator.com/item?id=31628832"/>
-        <updated>2022-06-05T07:34:16.000Z</updated>
-        <summary type="html"><![CDATA[RNA spontaneously forms on basalt lava glass (abundant on Earth 4.35B years ago)]]></summary>
-        <author>
-            <name>sanketpatrikar</name>
-            <uri>https://news.ycombinator.com/user?id=sanketpatrikar</uri>
         </author>
     </entry>
 </feed>
