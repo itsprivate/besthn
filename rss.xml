@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 07 Jul 2022 11:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 14:49:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[第四代KDE Slimbook - 配备AMD Ryzen 7 5700U的Linux超极本
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32011432</link>
+            <guid>https://news.ycombinator.com/item?id=32011432</guid>
+            <pubDate>Thu, 07 Jul 2022 08:44:47 GMT</pubDate>
+            <description><![CDATA[4th Gen KDE Slimbook – Linux Ultrabook with an AMD Ryzen 7 5700U]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Playstation商店删除了Studiocanal电影，不提供退款
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32010317</link>
+            <guid>https://news.ycombinator.com/item?id=32010317</guid>
+            <pubDate>Thu, 07 Jul 2022 05:41:42 GMT</pubDate>
+            <description><![CDATA[Playstation Store removes Studiocanal movies, no refunds offered]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么DRY是最被高估的编程原则？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31625472</guid>
             <pubDate>Sat, 04 Jun 2022 21:54:10 GMT</pubDate>
             <description><![CDATA[How to stop junk mail]]></description>
-        </item>
-        <item>
-            <title><![CDATA[还有人对亚马逊迅速失去信心吗？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31624401</link>
-            <guid>https://news.ycombinator.com/item?id=31624401</guid>
-            <pubDate>Sat, 04 Jun 2022 19:52:32 GMT</pubDate>
-            <description><![CDATA[Ask HN: Anyone else quickly losing confidence in Amazon?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Docker已死？Podman--一个替代工具？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31615517</link>
-            <guid>https://news.ycombinator.com/item?id=31615517</guid>
-            <pubDate>Sat, 04 Jun 2022 00:22:17 GMT</pubDate>
-            <description><![CDATA[Docker is dead? Podman – an alternative tool?]]></description>
         </item>
     </channel>
 </rss>
