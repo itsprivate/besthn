@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 07 Jul 2022 14:49:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 16:53:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼人們沒有注意到我們巨大的、突出的、清晰的、對比強烈的橫幅？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32012875</link>
+            <guid>https://news.ycombinator.com/item?id=32012875</guid>
+            <pubDate>Thu, 07 Jul 2022 11:59:47 GMT</pubDate>
+            <description><![CDATA[Why do people not notice our enormous, prominent, clear and contrasting banner?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[歐盟議會批准新的分類法，核電變綠了
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32011288</link>
+            <guid>https://news.ycombinator.com/item?id=32011288</guid>
+            <pubDate>Thu, 07 Jul 2022 08:26:24 GMT</pubDate>
+            <description><![CDATA[Nuclear turn green as EU parliament approves new taxonomy]]></description>
+        </item>
         <item>
             <title><![CDATA[第四代KDE Slimbook - 配備AMD Ryzen 7 5700U的Linux超極本
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31622250</guid>
             <pubDate>Sat, 04 Jun 2022 16:24:58 GMT</pubDate>
             <description><![CDATA[The FBI tried to ambush my source]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蘋果手錶上的連續葡萄糖監測
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31614694</link>
-            <guid>https://news.ycombinator.com/item?id=31614694</guid>
-            <pubDate>Fri, 03 Jun 2022 22:50:11 GMT</pubDate>
-            <description><![CDATA[Continuous glucose monitoring on the Apple Watch]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何阻止垃圾郵件
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31625472</link>
-            <guid>https://news.ycombinator.com/item?id=31625472</guid>
-            <pubDate>Sat, 04 Jun 2022 21:54:10 GMT</pubDate>
-            <description><![CDATA[How to stop junk mail]]></description>
         </item>
     </channel>
 </rss>

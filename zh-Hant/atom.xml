@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-07T14:49:21.344Z</updated>
+    <updated>2022-07-07T16:53:24.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼人們沒有注意到我們巨大的、突出的、清晰的、對比強烈的橫幅？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32012875</id>
+        <link href="https://news.ycombinator.com/item?id=32012875"/>
+        <updated>2022-07-07T11:59:47.000Z</updated>
+        <summary type="html"><![CDATA[Why do people not notice our enormous, prominent, clear and contrasting banner?]]></summary>
+        <author>
+            <name>mmillin</name>
+            <uri>https://news.ycombinator.com/user?id=mmillin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歐盟議會批准新的分類法，核電變綠了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32011288</id>
+        <link href="https://news.ycombinator.com/item?id=32011288"/>
+        <updated>2022-07-07T08:26:24.000Z</updated>
+        <summary type="html"><![CDATA[Nuclear turn green as EU parliament approves new taxonomy]]></summary>
+        <author>
+            <name>goindeep</name>
+            <uri>https://news.ycombinator.com/user?id=goindeep</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第四代KDE Slimbook - 配備AMD Ryzen 7 5700U的Linux超極本
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>giuliomagnifico</name>
             <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果手錶上的連續葡萄糖監測
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31614694</id>
-        <link href="https://news.ycombinator.com/item?id=31614694"/>
-        <updated>2022-06-03T22:50:11.000Z</updated>
-        <summary type="html"><![CDATA[Continuous glucose monitoring on the Apple Watch]]></summary>
-        <author>
-            <name>hturan</name>
-            <uri>https://news.ycombinator.com/user?id=hturan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何阻止垃圾郵件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31625472</id>
-        <link href="https://news.ycombinator.com/item?id=31625472"/>
-        <updated>2022-06-04T21:54:10.000Z</updated>
-        <summary type="html"><![CDATA[How to stop junk mail]]></summary>
-        <author>
-            <name>user3939382</name>
-            <uri>https://news.ycombinator.com/user?id=user3939382</uri>
         </author>
     </entry>
 </feed>

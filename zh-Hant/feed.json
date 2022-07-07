@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32012875",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32012875",
+            "title": "為什麼人們沒有注意到我們巨大的、突出的、清晰的、對比強烈的橫幅？\n",
+            "summary": "Why do people not notice our enormous, prominent, clear and contrasting banner?",
+            "date_modified": "2022-07-07T11:59:47.000Z",
+            "author": {
+                "name": "mmillin",
+                "url": "https://news.ycombinator.com/user?id=mmillin"
+            },
+            "_original_headline": "Why do people not notice our enormous, prominent, clear and contrasting banner?",
+            "_original_url": "https://ux.stackexchange.com/questions/120541/why-do-people-not-notice-our-enormous-prominent-clear-and-contrasting-purple-b",
+            "_sensitive": false,
+            "_score": 213
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32011288",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32011288",
+            "title": "歐盟議會批准新的分類法，核電變綠了\n",
+            "summary": "Nuclear turn green as EU parliament approves new taxonomy",
+            "date_modified": "2022-07-07T08:26:24.000Z",
+            "author": {
+                "name": "goindeep",
+                "url": "https://news.ycombinator.com/user?id=goindeep"
+            },
+            "_original_headline": "Nuclear turn green as EU parliament approves new taxonomy",
+            "_original_url": "https://earth.org/gas-and-nuclear-turn-green-eu-taxonomy/",
+            "_sensitive": false,
+            "_score": 218
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32011432",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32011432",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://theintercept.com/2022/06/03/fbi-ambush-leak-reporter-source/",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31614694",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31614694",
-            "title": "蘋果手錶上的連續葡萄糖監測\n",
-            "summary": "Continuous glucose monitoring on the Apple Watch",
-            "date_modified": "2022-06-03T22:50:11.000Z",
-            "author": {
-                "name": "hturan",
-                "url": "https://news.ycombinator.com/user?id=hturan"
-            },
-            "_original_headline": "Continuous glucose monitoring on the Apple Watch",
-            "_original_url": "https://hturan.com/writing/apple-watch-continuous-glucose-monitoring",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31625472",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31625472",
-            "title": "如何阻止垃圾郵件\n",
-            "summary": "How to stop junk mail",
-            "date_modified": "2022-06-04T21:54:10.000Z",
-            "author": {
-                "name": "user3939382",
-                "url": "https://news.ycombinator.com/user?id=user3939382"
-            },
-            "_original_headline": "How to stop junk mail",
-            "_original_url": "https://consumer.ftc.gov/articles/how-stop-junk-mail",
-            "_sensitive": false,
-            "_score": 258
         }
     ]
 }
