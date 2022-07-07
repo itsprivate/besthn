@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-07T20:33:17.380Z</updated>
+    <updated>2022-07-07T21:48:56.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[星聯海運
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32018218</id>
+        <link href="https://news.ycombinator.com/item?id=32018218"/>
+        <updated>2022-07-07T19:26:04.000Z</updated>
+        <summary type="html"><![CDATA[Starlink Maritime]]></summary>
+        <author>
+            <name>Yukonv</name>
+            <uri>https://news.ycombinator.com/user?id=Yukonv</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Meta VR設備不再需要Facebook賬戶了
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mhb</name>
             <uri>https://news.ycombinator.com/user?id=mhb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify的播客們除了白噪聲，每月還能賺到18000美元
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31630148</id>
-        <link href="https://news.ycombinator.com/item?id=31630148"/>
-        <updated>2022-06-05T11:55:18.000Z</updated>
-        <summary type="html"><![CDATA[Spotify podcasters are making $18k a month with nothing but white noise]]></summary>
-        <author>
-            <name>Michelangelo11</name>
-            <uri>https://news.ycombinator.com/user?id=Michelangelo11</uri>
         </author>
     </entry>
 </feed>
