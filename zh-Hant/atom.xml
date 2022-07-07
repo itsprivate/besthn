@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-07T04:59:51.835Z</updated>
+    <updated>2022-07-07T07:58:26.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大規模的 "沙子電池 "在芬蘭上線
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32006791</id>
+        <link href="https://news.ycombinator.com/item?id=32006791"/>
+        <updated>2022-07-06T21:03:09.000Z</updated>
+        <summary type="html"><![CDATA[Large-scale ‘sand battery’ goes online in Finland]]></summary>
+        <author>
+            <name>bobse</name>
+            <uri>https://news.ycombinator.com/user?id=bobse</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[啟動HN：Hello (YC S22) - 一個面向開發者的搜索引擎
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32003215</id>
+        <link href="https://news.ycombinator.com/item?id=32003215"/>
+        <updated>2022-07-06T16:24:30.000Z</updated>
+        <summary type="html"><![CDATA[Launch HN: Hello (YC S22) – A search engine for developers]]></summary>
+        <author>
+            <name>wayy</name>
+            <uri>https://news.ycombinator.com/user?id=wayy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在過渡到微服務之前，如何改進你的單片機？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32000598</id>
+        <link href="https://news.ycombinator.com/item?id=32000598"/>
+        <updated>2022-07-06T13:31:40.000Z</updated>
+        <summary type="html"><![CDATA[How to Improve Your Monolith Before Transitioning to Microservices]]></summary>
+        <author>
+            <name>ahamez</name>
+            <uri>https://news.ycombinator.com/user?id=ahamez</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[霧卷在Godot 4.0中出現
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>slackerIII</name>
             <uri>https://news.ycombinator.com/user?id=slackerIII</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase正在撤銷已經接受的工作邀請
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31620765</id>
-        <link href="https://news.ycombinator.com/item?id=31620765"/>
-        <updated>2022-06-04T14:32:44.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase is rescinding already-accepted job offers]]></summary>
-        <author>
-            <name>r0m4n0</name>
-            <uri>https://news.ycombinator.com/user?id=r0m4n0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果音樂是我使用的最有問題和最煩人的軟件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31618746</id>
-        <link href="https://news.ycombinator.com/item?id=31618746"/>
-        <updated>2022-06-04T10:20:18.000Z</updated>
-        <summary type="html"><![CDATA[Apple Music is the most buggy and annoying software I use]]></summary>
-        <author>
-            <name>nephics</name>
-            <uri>https://news.ycombinator.com/user?id=nephics</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rr
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31617600</id>
-        <link href="https://news.ycombinator.com/item?id=31617600"/>
-        <updated>2022-06-04T06:28:03.000Z</updated>
-        <summary type="html"><![CDATA[Rr]]></summary>
-        <author>
-            <name>mmarq</name>
-            <uri>https://news.ycombinator.com/user?id=mmarq</uri>
         </author>
     </entry>
 </feed>
