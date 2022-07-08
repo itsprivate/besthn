@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32024716",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32024716",
+            "title": "前首相安倍晉三遭槍擊後去世\n",
+            "summary": "Former PM Abe Shinzo dies after being shot",
+            "date_modified": "2022-07-08T09:17:49.000Z",
+            "author": {
+                "name": "coolandsmartrr",
+                "url": "https://news.ycombinator.com/user?id=coolandsmartrr"
+            },
+            "_original_headline": "Former PM Abe Shinzo dies after being shot",
+            "_original_url": "https://www3.nhk.or.jp/nhkworld/en/news/20220708_49/",
+            "_sensitive": false,
+            "_score": 212
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32023868",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32023868",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://github.com/jwilk/python-syntax-errors",
             "_sensitive": false,
             "_score": 252
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31627925",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31627925",
-            "title": "複雜系統崩潰得更快\n",
-            "summary": "Complex systems collapse faster",
-            "date_modified": "2022-06-05T04:08:32.000Z",
-            "author": {
-                "name": "nsoonhui",
-                "url": "https://news.ycombinator.com/user?id=nsoonhui"
-            },
-            "_original_headline": "Complex systems collapse faster",
-            "_original_url": "https://www.tabletmag.com/sections/science/articles/why-complex-systems-collapse-faster",
-            "_sensitive": false,
-            "_score": 251
         }
     ]
 }
