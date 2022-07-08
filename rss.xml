@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 08 Jul 2022 12:56:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 21:43:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[HN再次上升
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32026571</link>
+            <guid>https://news.ycombinator.com/item?id=32026571</guid>
+            <pubDate>Fri, 08 Jul 2022 20:30:55 GMT</pubDate>
+            <description><![CDATA[HN Is Up Again]]></description>
+        </item>
         <item>
             <title><![CDATA[Notepad++ v8.4.3: 不快乐的用户版
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31643917</guid>
             <pubDate>Mon, 06 Jun 2022 18:24:03 GMT</pubDate>
             <description><![CDATA[Apple Passkey]]></description>
-        </item>
-        <item>
-            <title><![CDATA[研究生的副业项目证明了素数猜想
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31640297</link>
-            <guid>https://news.ycombinator.com/item?id=31640297</guid>
-            <pubDate>Mon, 06 Jun 2022 13:40:48 GMT</pubDate>
-            <description><![CDATA[Graduate Student’s Side Project Proves Prime Number Conjecture]]></description>
         </item>
     </channel>
 </rss>
