@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32025562",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32025562",
+            "title": "Notepad++ v8.4.3: 不快乐的用户版\n",
+            "summary": "Notepad++ v8.4.3: Unhappy Users' Edition",
+            "date_modified": "2022-07-08T11:07:07.000Z",
+            "author": {
+                "name": "p4bl0",
+                "url": "https://news.ycombinator.com/user?id=p4bl0"
+            },
+            "_original_headline": "Notepad++ v8.4.3: Unhappy Users' Edition",
+            "_original_url": "https://notepad-plus-plus.org/news/v843-unhappy-users-edition/",
+            "_sensitive": false,
+            "_score": 215
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32020055",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32020055",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.quantamagazine.org/graduate-students-side-project-proves-prime-number-conjecture-20220606/",
             "_sensitive": false,
             "_score": 259
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31637664",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31637664",
-            "title": "日本隼鸟2号探测器收集的小行星样本中发现氨基酸\n",
-            "summary": "Amino acids found in asteroid samples collected by Japan's Hayabusa2 probe",
-            "date_modified": "2022-06-06T06:12:37.000Z",
-            "author": {
-                "name": "jiocrag",
-                "url": "https://news.ycombinator.com/user?id=jiocrag"
-            },
-            "_original_headline": "Amino acids found in asteroid samples collected by Japan's Hayabusa2 probe",
-            "_original_url": "https://english.kyodonews.net/news/2022/06/9a7dbced6c3a-amino-acids-found-in-asteroid-samples-collected-by-hayabusa2-probe.html",
-            "_sensitive": false,
-            "_score": 257
         }
     ]
 }

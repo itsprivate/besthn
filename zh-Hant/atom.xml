@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-08T11:30:01.667Z</updated>
+    <updated>2022-07-08T12:56:33.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Notepad++ v8.4.3: 不快樂的用戶版
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32025562</id>
+        <link href="https://news.ycombinator.com/item?id=32025562"/>
+        <updated>2022-07-08T11:07:07.000Z</updated>
+        <summary type="html"><![CDATA[Notepad++ v8.4.3: Unhappy Users' Edition]]></summary>
+        <author>
+            <name>p4bl0</name>
+            <uri>https://news.ycombinator.com/user?id=p4bl0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[元素公司（Matrix）推出Chatterbox，端到端加密的嵌入式聊天。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>theafh</name>
             <uri>https://news.ycombinator.com/user?id=theafh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本隼鳥2號探測器收集的小行星樣本中發現氨基酸
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31637664</id>
-        <link href="https://news.ycombinator.com/item?id=31637664"/>
-        <updated>2022-06-06T06:12:37.000Z</updated>
-        <summary type="html"><![CDATA[Amino acids found in asteroid samples collected by Japan's Hayabusa2 probe]]></summary>
-        <author>
-            <name>jiocrag</name>
-            <uri>https://news.ycombinator.com/user?id=jiocrag</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 08 Jul 2022 11:30:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 12:56:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Notepad++ v8.4.3: 不快樂的用戶版
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32025562</link>
+            <guid>https://news.ycombinator.com/item?id=32025562</guid>
+            <pubDate>Fri, 08 Jul 2022 11:07:07 GMT</pubDate>
+            <description><![CDATA[Notepad++ v8.4.3: Unhappy Users' Edition]]></description>
+        </item>
         <item>
             <title><![CDATA[元素公司（Matrix）推出Chatterbox，端到端加密的嵌入式聊天。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31640297</guid>
             <pubDate>Mon, 06 Jun 2022 13:40:48 GMT</pubDate>
             <description><![CDATA[Graduate Student’s Side Project Proves Prime Number Conjecture]]></description>
-        </item>
-        <item>
-            <title><![CDATA[日本隼鳥2號探測器收集的小行星樣本中發現氨基酸
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31637664</link>
-            <guid>https://news.ycombinator.com/item?id=31637664</guid>
-            <pubDate>Mon, 06 Jun 2022 06:12:37 GMT</pubDate>
-            <description><![CDATA[Amino acids found in asteroid samples collected by Japan's Hayabusa2 probe]]></description>
         </item>
     </channel>
 </rss>
