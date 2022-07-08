@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 08 Jul 2022 05:50:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 06:34:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[马尔科夫聊天机器人的灾难故事
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32021269</link>
+            <guid>https://news.ycombinator.com/item?id=32021269</guid>
+            <pubDate>Thu, 07 Jul 2022 23:55:58 GMT</pubDate>
+            <description><![CDATA[Markov Chat Bot Disaster Story]]></description>
+        </item>
         <item>
             <title><![CDATA[Brain.js: JavaScript中的GPU加速的神经网络
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31621900</guid>
             <pubDate>Sat, 04 Jun 2022 15:58:25 GMT</pubDate>
             <description><![CDATA[Heightened dream recall ability linked to increased creativity, connectivity]]></description>
-        </item>
-        <item>
-            <title><![CDATA[纯文本，有行
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31637910</link>
-            <guid>https://news.ycombinator.com/item?id=31637910</guid>
-            <pubDate>Mon, 06 Jun 2022 07:01:28 GMT</pubDate>
-            <description><![CDATA[Plain text, with lines]]></description>
         </item>
     </channel>
 </rss>

@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32021269",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32021269",
+            "title": "馬爾科夫聊天機器人的災難故事\n",
+            "summary": "Markov Chat Bot Disaster Story",
+            "date_modified": "2022-07-07T23:55:58.000Z",
+            "author": {
+                "name": "choult",
+                "url": "https://news.ycombinator.com/user?id=choult"
+            },
+            "_original_headline": "Markov Chat Bot Disaster Story",
+            "_original_url": "https://gist.github.com/aconbere/1982a5eb17b77817017a3da50914732f",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32015246",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32015246",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.psypost.org/2022/05/heightened-dream-recall-ability-linked-to-increased-creativity-and-functional-brain-connectivity-63139",
             "_sensitive": false,
             "_score": 258
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31637910",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31637910",
-            "title": "純文本，有行\n",
-            "summary": "Plain text, with lines",
-            "date_modified": "2022-06-06T07:01:28.000Z",
-            "author": {
-                "name": "mpweiher",
-                "url": "https://news.ycombinator.com/user?id=mpweiher"
-            },
-            "_original_headline": "Plain text, with lines",
-            "_original_url": "http://akkartik.name/lines.html",
-            "_sensitive": false,
-            "_score": 272
         }
     ]
 }
