@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-08T02:44:02.878Z</updated>
+    <updated>2022-07-08T04:53:41.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[日本前首相安倍晉三在演講中被暗殺
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32022506</id>
+        <link href="https://news.ycombinator.com/item?id=32022506"/>
+        <updated>2022-07-08T02:56:26.000Z</updated>
+        <summary type="html"><![CDATA[Japan’s Ex-PM Abe assassinated during speech]]></summary>
+        <author>
+            <name>cwwc</name>
+            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9,000磅的電動悍馬錶明我們不能忽視電動車的效率
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ddtaylor</name>
             <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dashy - 為你的家庭實驗室提供一個自我託管的主頁
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31636036</id>
-        <link href="https://news.ycombinator.com/item?id=31636036"/>
-        <updated>2022-06-06T00:07:39.000Z</updated>
-        <summary type="html"><![CDATA[Dashy – A self-hosted homepage for your homelab]]></summary>
-        <author>
-            <name>mmmmkay</name>
-            <uri>https://news.ycombinator.com/user?id=mmmmkay</uri>
         </author>
     </entry>
 </feed>
