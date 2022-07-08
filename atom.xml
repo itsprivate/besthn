@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-08T06:34:16.428Z</updated>
+    <updated>2022-07-08T09:00:58.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[联想出货的新笔记本电脑默认只启动Windows系统
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32023868</id>
+        <link href="https://news.ycombinator.com/item?id=32023868"/>
+        <updated>2022-07-08T07:25:45.000Z</updated>
+        <summary type="html"><![CDATA[Lenovo shipping new laptops that only boot Windows by default]]></summary>
+        <author>
+            <name>HieronymusBosch</name>
+            <uri>https://news.ycombinator.com/user?id=HieronymusBosch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马尔科夫聊天机器人的灾难故事
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nsoonhui</name>
             <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[增强的梦境回忆能力与增加的创造力和连通性有关
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31621900</id>
-        <link href="https://news.ycombinator.com/item?id=31621900"/>
-        <updated>2022-06-04T15:58:25.000Z</updated>
-        <summary type="html"><![CDATA[Heightened dream recall ability linked to increased creativity, connectivity]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
         </author>
     </entry>
 </feed>

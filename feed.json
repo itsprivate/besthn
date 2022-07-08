@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32023868",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32023868",
+            "title": "联想出货的新笔记本电脑默认只启动Windows系统\n",
+            "summary": "Lenovo shipping new laptops that only boot Windows by default",
+            "date_modified": "2022-07-08T07:25:45.000Z",
+            "author": {
+                "name": "HieronymusBosch",
+                "url": "https://news.ycombinator.com/user?id=HieronymusBosch"
+            },
+            "_original_headline": "Lenovo shipping new laptops that only boot Windows by default",
+            "_original_url": "https://mjg59.dreamwidth.org/59931.html",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32021269",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32021269",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.tabletmag.com/sections/science/articles/why-complex-systems-collapse-faster",
             "_sensitive": false,
             "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31621900",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31621900",
-            "title": "增强的梦境回忆能力与增加的创造力和连通性有关\n",
-            "summary": "Heightened dream recall ability linked to increased creativity, connectivity",
-            "date_modified": "2022-06-04T15:58:25.000Z",
-            "author": {
-                "name": "prostoalex",
-                "url": "https://news.ycombinator.com/user?id=prostoalex"
-            },
-            "_original_headline": "Heightened dream recall ability linked to increased creativity, connectivity",
-            "_original_url": "https://www.psypost.org/2022/05/heightened-dream-recall-ability-linked-to-increased-creativity-and-functional-brain-connectivity-63139",
-            "_sensitive": false,
-            "_score": 258
         }
     ]
 }
