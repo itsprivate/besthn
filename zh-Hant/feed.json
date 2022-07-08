@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32027341",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32027341",
+            "title": "埃隆-馬斯克試圖退出Twitter交易\n",
+            "summary": "Elon Musk Trying to Back Out of Twitter Deal",
+            "date_modified": "2022-07-08T21:24:56.000Z",
+            "author": {
+                "name": "coloneltcb",
+                "url": "https://news.ycombinator.com/user?id=coloneltcb"
+            },
+            "_original_headline": "Elon Musk Trying to Back Out of Twitter Deal",
+            "_original_url": "https://www.sec.gov/Archives/edgar/data/1418091/000110465922078413/tm2220599d1_ex99-p.htm",
+            "_sensitive": false,
+            "_score": 265
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32026637",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32026637",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.apple.com/newsroom/2022/06/apple-unveils-m2-with-breakthrough-performance-and-capabilities/",
             "_sensitive": false,
             "_score": 293
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31641716",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31641716",
-            "title": "飛行員解釋他如何在3.2馬赫的黑鳥解體中倖存下來\n",
-            "summary": "Pilot explains how he Survived Blackbird Disintegration at Mach 3.2",
-            "date_modified": "2022-06-06T15:28:22.000Z",
-            "author": {
-                "name": "mzs",
-                "url": "https://news.ycombinator.com/user?id=mzs"
-            },
-            "_original_headline": "Pilot explains how he Survived Blackbird Disintegration at Mach 3.2",
-            "_original_url": "https://theaviationgeekclub.com/sr-71-pilot-explains-how-he-survived-to-his-blackbird-disintegration-at-a-speed-of-mach-3-2/",
-            "_sensitive": false,
-            "_score": 255
         }
     ]
 }
