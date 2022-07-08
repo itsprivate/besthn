@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-07T23:31:06.863Z</updated>
+    <updated>2022-07-08T02:44:02.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[9,000磅的電動悍馬錶明我們不能忽視電動車的效率
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32018748</id>
+        <link href="https://news.ycombinator.com/item?id=32018748"/>
+        <updated>2022-07-07T20:13:53.000Z</updated>
+        <summary type="html"><![CDATA[9,000-pound electric Hummer shows we can’t ignore efficiency of EVs]]></summary>
+        <author>
+            <name>cwwc</name>
+            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[國土安全局工作人員被起訴參與在美國壓制中國批評者的計劃。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32017941</id>
+        <link href="https://news.ycombinator.com/item?id=32017941"/>
+        <updated>2022-07-07T19:04:58.000Z</updated>
+        <summary type="html"><![CDATA[Homeland security workers indicted in scheme to silence China critics in U.S.]]></summary>
+        <author>
+            <name>cwwc</name>
+            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Theranos前總裁被認定犯有所有欺詐罪
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32017919</id>
+        <link href="https://news.ycombinator.com/item?id=32017919"/>
+        <updated>2022-07-07T19:03:12.000Z</updated>
+        <summary type="html"><![CDATA[Theranos former president found guilty on all fraud counts]]></summary>
+        <author>
+            <name>cwwc</name>
+            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meshtastic是一個用於Lora RF協議的加密通信平臺
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32016142</id>
+        <link href="https://news.ycombinator.com/item?id=32016142"/>
+        <updated>2022-07-07T16:34:31.000Z</updated>
+        <summary type="html"><![CDATA[Meshtastic is an encrypted communications platform for the Lora RF protocol]]></summary>
+        <author>
+            <name>buescher</name>
+            <uri>https://news.ycombinator.com/user?id=buescher</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter今天開始裁員
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>mmmmkay</name>
             <uri>https://news.ycombinator.com/user?id=mmmmkay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韭菜戰爭，為你的人工智能編程，消滅你的韭菜敵人
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31633858</id>
-        <link href="https://news.ycombinator.com/item?id=31633858"/>
-        <updated>2022-06-05T19:01:38.000Z</updated>
-        <summary type="html"><![CDATA[LeekWars, program your AI to destroy your leek enemies]]></summary>
-        <author>
-            <name>pil0u</name>
-            <uri>https://news.ycombinator.com/user?id=pil0u</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好的技術寫作的例子？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31630915</id>
-        <link href="https://news.ycombinator.com/item?id=31630915"/>
-        <updated>2022-06-05T13:42:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Examples of good technical writing?]]></summary>
-        <author>
-            <name>u385639</name>
-            <uri>https://news.ycombinator.com/user?id=u385639</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AOL 3.0的反向工程
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31630216</id>
-        <link href="https://news.ycombinator.com/item?id=31630216"/>
-        <updated>2022-06-05T12:03:39.000Z</updated>
-        <summary type="html"><![CDATA[AOL 3.0 reverse engineered]]></summary>
-        <author>
-            <name>pbear2k21</name>
-            <uri>https://news.ycombinator.com/user?id=pbear2k21</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具有偉大故事的非暴力視頻遊戲？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31618955</id>
-        <link href="https://news.ycombinator.com/item?id=31618955"/>
-        <updated>2022-06-04T10:58:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Non-violent video games with great stories?]]></summary>
-        <author>
-            <name>recvonline</name>
-            <uri>https://news.ycombinator.com/user?id=recvonline</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 07 Jul 2022 23:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 02:44:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,38 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[9,000磅的電動悍馬錶明我們不能忽視電動車的效率
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32018748</link>
+            <guid>https://news.ycombinator.com/item?id=32018748</guid>
+            <pubDate>Thu, 07 Jul 2022 20:13:53 GMT</pubDate>
+            <description><![CDATA[9,000-pound electric Hummer shows we can’t ignore efficiency of EVs]]></description>
+        </item>
+        <item>
+            <title><![CDATA[國土安全局工作人員被起訴參與在美國壓制中國批評者的計劃。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32017941</link>
+            <guid>https://news.ycombinator.com/item?id=32017941</guid>
+            <pubDate>Thu, 07 Jul 2022 19:04:58 GMT</pubDate>
+            <description><![CDATA[Homeland security workers indicted in scheme to silence China critics in U.S.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Theranos前總裁被認定犯有所有欺詐罪
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32017919</link>
+            <guid>https://news.ycombinator.com/item?id=32017919</guid>
+            <pubDate>Thu, 07 Jul 2022 19:03:12 GMT</pubDate>
+            <description><![CDATA[Theranos former president found guilty on all fraud counts]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Meshtastic是一個用於Lora RF協議的加密通信平臺
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32016142</link>
+            <guid>https://news.ycombinator.com/item?id=32016142</guid>
+            <pubDate>Thu, 07 Jul 2022 16:34:31 GMT</pubDate>
+            <description><![CDATA[Meshtastic is an encrypted communications platform for the Lora RF protocol]]></description>
+        </item>
         <item>
             <title><![CDATA[Twitter今天開始裁員
 ]]></title>
@@ -4781,38 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31636036</guid>
             <pubDate>Mon, 06 Jun 2022 00:07:39 GMT</pubDate>
             <description><![CDATA[Dashy – A self-hosted homepage for your homelab]]></description>
-        </item>
-        <item>
-            <title><![CDATA[韭菜戰爭，為你的人工智能編程，消滅你的韭菜敵人
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31633858</link>
-            <guid>https://news.ycombinator.com/item?id=31633858</guid>
-            <pubDate>Sun, 05 Jun 2022 19:01:38 GMT</pubDate>
-            <description><![CDATA[LeekWars, program your AI to destroy your leek enemies]]></description>
-        </item>
-        <item>
-            <title><![CDATA[好的技術寫作的例子？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31630915</link>
-            <guid>https://news.ycombinator.com/item?id=31630915</guid>
-            <pubDate>Sun, 05 Jun 2022 13:42:59 GMT</pubDate>
-            <description><![CDATA[Ask HN: Examples of good technical writing?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AOL 3.0的反向工程
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31630216</link>
-            <guid>https://news.ycombinator.com/item?id=31630216</guid>
-            <pubDate>Sun, 05 Jun 2022 12:03:39 GMT</pubDate>
-            <description><![CDATA[AOL 3.0 reverse engineered]]></description>
-        </item>
-        <item>
-            <title><![CDATA[具有偉大故事的非暴力視頻遊戲？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31618955</link>
-            <guid>https://news.ycombinator.com/item?id=31618955</guid>
-            <pubDate>Sat, 04 Jun 2022 10:58:54 GMT</pubDate>
-            <description><![CDATA[Ask HN: Non-violent video games with great stories?]]></description>
         </item>
     </channel>
 </rss>
