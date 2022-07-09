@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32038081",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32038081",
+            "title": "凯特-布什的 \"Running Up That Hill \"合成器声音\n",
+            "summary": "Kate Bush’s “Running Up That Hill” synth sounds",
+            "date_modified": "2022-07-09T18:43:53.000Z",
+            "author": {
+                "name": "daverol",
+                "url": "https://news.ycombinator.com/user?id=daverol"
+            },
+            "_original_headline": "Kate Bush’s “Running Up That Hill” synth sounds",
+            "_original_url": "https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/",
+            "_sensitive": false,
+            "_score": 213
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32035569",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32035569",
+            "title": "埃隆出局\n",
+            "summary": "Elon’s Out",
+            "date_modified": "2022-07-09T14:46:09.000Z",
+            "author": {
+                "name": "jaxonrice",
+                "url": "https://news.ycombinator.com/user?id=jaxonrice"
+            },
+            "_original_headline": "Elon’s Out",
+            "_original_url": "https://www.bloomberg.com/opinion/articles/2022-07-09/elon-s-out",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32037740",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32037740",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://www.kitfoxgames.com/sendy/w/PjLUMcR8c67NlCEI4ruCLA/v763r5W81UUq567qGrvqMoZg/wEYCyTRE9HwQjDLPGvIBzg",
             "_sensitive": false,
             "_score": 257
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31638058",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31638058",
-            "title": "二氧化碳现在比工业化前的水平高50%以上\n",
-            "summary": "Carbon dioxide now more than 50% higher than pre-industrial levels",
-            "date_modified": "2022-06-06T07:32:35.000Z",
-            "author": {
-                "name": "ingve",
-                "url": "https://news.ycombinator.com/user?id=ingve"
-            },
-            "_original_headline": "Carbon dioxide now more than 50% higher than pre-industrial levels",
-            "_original_url": "https://www.noaa.gov/news-release/carbon-dioxide-now-more-than-50-higher-than-pre-industrial-levels",
-            "_sensitive": false,
-            "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31673662",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31673662",
-            "title": "六角词。与单词相似的十六进制颜色\n",
-            "summary": "Hexwords: Hex colors that are similar to words",
-            "date_modified": "2022-06-08T20:35:46.000Z",
-            "author": {
-                "name": "cialowicz",
-                "url": "https://news.ycombinator.com/user?id=cialowicz"
-            },
-            "_original_headline": "Hexwords: Hex colors that are similar to words",
-            "_original_url": "https://hexwords.netlify.app/",
-            "_sensitive": false,
-            "_score": 297
         }
     ]
 }

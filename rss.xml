@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 09 Jul 2022 22:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 23:29:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[凯特-布什的 "Running Up That Hill "合成器声音
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32038081</link>
+            <guid>https://news.ycombinator.com/item?id=32038081</guid>
+            <pubDate>Sat, 09 Jul 2022 18:43:53 GMT</pubDate>
+            <description><![CDATA[Kate Bush’s “Running Up That Hill” synth sounds]]></description>
+        </item>
+        <item>
+            <title><![CDATA[埃隆出局
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32035569</link>
+            <guid>https://news.ycombinator.com/item?id=32035569</guid>
+            <pubDate>Sat, 09 Jul 2022 14:46:09 GMT</pubDate>
+            <description><![CDATA[Elon’s Out]]></description>
+        </item>
         <item>
             <title><![CDATA[从任何网站复制React代码
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31667240</guid>
             <pubDate>Wed, 08 Jun 2022 13:44:19 GMT</pubDate>
             <description><![CDATA[Dwarf Fortress Update – Tutorials and Tooltips]]></description>
-        </item>
-        <item>
-            <title><![CDATA[二氧化碳现在比工业化前的水平高50%以上
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31638058</link>
-            <guid>https://news.ycombinator.com/item?id=31638058</guid>
-            <pubDate>Mon, 06 Jun 2022 07:32:35 GMT</pubDate>
-            <description><![CDATA[Carbon dioxide now more than 50% higher than pre-industrial levels]]></description>
-        </item>
-        <item>
-            <title><![CDATA[六角词。与单词相似的十六进制颜色
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31673662</link>
-            <guid>https://news.ycombinator.com/item?id=31673662</guid>
-            <pubDate>Wed, 08 Jun 2022 20:35:46 GMT</pubDate>
-            <description><![CDATA[Hexwords: Hex colors that are similar to words]]></description>
         </item>
     </channel>
 </rss>

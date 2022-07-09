@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-09T22:28:04.552Z</updated>
+    <updated>2022-07-09T23:29:06.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[凱特-布什的 "Running Up That Hill "合成器聲音
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32038081</id>
+        <link href="https://news.ycombinator.com/item?id=32038081"/>
+        <updated>2022-07-09T18:43:53.000Z</updated>
+        <summary type="html"><![CDATA[Kate Bush’s “Running Up That Hill” synth sounds]]></summary>
+        <author>
+            <name>daverol</name>
+            <uri>https://news.ycombinator.com/user?id=daverol</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[埃隆出局
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32035569</id>
+        <link href="https://news.ycombinator.com/item?id=32035569"/>
+        <updated>2022-07-09T14:46:09.000Z</updated>
+        <summary type="html"><![CDATA[Elon’s Out]]></summary>
+        <author>
+            <name>jaxonrice</name>
+            <uri>https://news.ycombinator.com/user?id=jaxonrice</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從任何網站複製React代碼
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>capableweb</name>
             <uri>https://news.ycombinator.com/user?id=capableweb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[二氧化碳現在比工業化前的水平高50%以上
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31638058</id>
-        <link href="https://news.ycombinator.com/item?id=31638058"/>
-        <updated>2022-06-06T07:32:35.000Z</updated>
-        <summary type="html"><![CDATA[Carbon dioxide now more than 50% higher than pre-industrial levels]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[六角詞。與單詞相似的十六進制顏色
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31673662</id>
-        <link href="https://news.ycombinator.com/item?id=31673662"/>
-        <updated>2022-06-08T20:35:46.000Z</updated>
-        <summary type="html"><![CDATA[Hexwords: Hex colors that are similar to words]]></summary>
-        <author>
-            <name>cialowicz</name>
-            <uri>https://news.ycombinator.com/user?id=cialowicz</uri>
         </author>
     </entry>
 </feed>
