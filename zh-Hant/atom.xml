@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-09T14:26:56.746Z</updated>
+    <updated>2022-07-09T16:42:21.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[System76 Lemur Pro Linux筆記本電腦，電池壽命14小時
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32033037</id>
+        <link href="https://news.ycombinator.com/item?id=32033037"/>
+        <updated>2022-07-09T08:16:43.000Z</updated>
+        <summary type="html"><![CDATA[System76 Lemur Pro Linux laptop with 14 hours of battery life]]></summary>
+        <author>
+            <name>MasterYoda</name>
+            <uri>https://news.ycombinator.com/user?id=MasterYoda</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[編程字體
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32032029</id>
+        <link href="https://news.ycombinator.com/item?id=32032029"/>
+        <updated>2022-07-09T05:25:07.000Z</updated>
+        <summary type="html"><![CDATA[Programming Fonts]]></summary>
+        <author>
+            <name>olalonde</name>
+            <uri>https://news.ycombinator.com/user?id=olalonde</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruffle。WebAssembly Flash Player仿真器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32011842</id>
+        <link href="https://news.ycombinator.com/item?id=32011842"/>
+        <updated>2022-07-07T09:49:34.000Z</updated>
+        <summary type="html"><![CDATA[Ruffle: WebAssembly Flash Player Emulator]]></summary>
+        <author>
+            <name>tux1968</name>
+            <uri>https://news.ycombinator.com/user?id=tux1968</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[很少有人能掌握丹尼爾-蓋克爾為經營HN所花費的精力（2020年）。
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>strict9</name>
             <uri>https://news.ycombinator.com/user?id=strict9</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特幣票據--安全、自我監護的現金形式的比特幣錢包
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31653726</id>
-        <link href="https://news.ycombinator.com/item?id=31653726"/>
-        <updated>2022-06-07T13:11:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The Bitcoin Note – Secure, Self-Custodial Bitcoin Wallets in Cash Form]]></summary>
-        <author>
-            <name>paulgerhardt</name>
-            <uri>https://news.ycombinator.com/user?id=paulgerhardt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消除辛勞
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31651146</id>
-        <link href="https://news.ycombinator.com/item?id=31651146"/>
-        <updated>2022-06-07T08:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Eliminating Toil]]></summary>
-        <author>
-            <name>omarfarooq</name>
-            <uri>https://news.ycombinator.com/user?id=omarfarooq</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歡迎來到M1窗口項目
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31657591</id>
-        <link href="https://news.ycombinator.com/item?id=31657591"/>
-        <updated>2022-06-07T17:31:30.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the M1 Windows project]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
         </author>
     </entry>
 </feed>

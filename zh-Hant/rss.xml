@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 09 Jul 2022 14:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 16:42:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[System76 Lemur Pro Linux筆記本電腦，電池壽命14小時
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32033037</link>
+            <guid>https://news.ycombinator.com/item?id=32033037</guid>
+            <pubDate>Sat, 09 Jul 2022 08:16:43 GMT</pubDate>
+            <description><![CDATA[System76 Lemur Pro Linux laptop with 14 hours of battery life]]></description>
+        </item>
+        <item>
+            <title><![CDATA[編程字體
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32032029</link>
+            <guid>https://news.ycombinator.com/item?id=32032029</guid>
+            <pubDate>Sat, 09 Jul 2022 05:25:07 GMT</pubDate>
+            <description><![CDATA[Programming Fonts]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Ruffle。WebAssembly Flash Player仿真器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32011842</link>
+            <guid>https://news.ycombinator.com/item?id=32011842</guid>
+            <pubDate>Thu, 07 Jul 2022 09:49:34 GMT</pubDate>
+            <description><![CDATA[Ruffle: WebAssembly Flash Player Emulator]]></description>
+        </item>
         <item>
             <title><![CDATA[很少有人能掌握丹尼爾-蓋克爾為經營HN所花費的精力（2020年）。
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31657068</guid>
             <pubDate>Tue, 07 Jun 2022 16:51:02 GMT</pubDate>
             <description><![CDATA[Inbound container volumes to the US are reverting to pre-pandemic levels]]></description>
-        </item>
-        <item>
-            <title><![CDATA[比特幣票據--安全、自我監護的現金形式的比特幣錢包
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31653726</link>
-            <guid>https://news.ycombinator.com/item?id=31653726</guid>
-            <pubDate>Tue, 07 Jun 2022 13:11:51 GMT</pubDate>
-            <description><![CDATA[Show HN: The Bitcoin Note – Secure, Self-Custodial Bitcoin Wallets in Cash Form]]></description>
-        </item>
-        <item>
-            <title><![CDATA[消除辛勞
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31651146</link>
-            <guid>https://news.ycombinator.com/item?id=31651146</guid>
-            <pubDate>Tue, 07 Jun 2022 08:00:04 GMT</pubDate>
-            <description><![CDATA[Eliminating Toil]]></description>
-        </item>
-        <item>
-            <title><![CDATA[歡迎來到M1窗口項目
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31657591</link>
-            <guid>https://news.ycombinator.com/item?id=31657591</guid>
-            <pubDate>Tue, 07 Jun 2022 17:31:30 GMT</pubDate>
-            <description><![CDATA[Welcome to the M1 Windows project]]></description>
         </item>
     </channel>
 </rss>

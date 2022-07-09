@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32033037",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32033037",
+            "title": "System76 Lemur Pro Linux筆記本電腦，電池壽命14小時\n",
+            "summary": "System76 Lemur Pro Linux laptop with 14 hours of battery life",
+            "date_modified": "2022-07-09T08:16:43.000Z",
+            "author": {
+                "name": "MasterYoda",
+                "url": "https://news.ycombinator.com/user?id=MasterYoda"
+            },
+            "_original_headline": "System76 Lemur Pro Linux laptop with 14 hours of battery life",
+            "_original_url": "https://system76.com/laptops/lemur",
+            "_sensitive": false,
+            "_score": 208
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32032029",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32032029",
+            "title": "編程字體\n",
+            "summary": "Programming Fonts",
+            "date_modified": "2022-07-09T05:25:07.000Z",
+            "author": {
+                "name": "olalonde",
+                "url": "https://news.ycombinator.com/user?id=olalonde"
+            },
+            "_original_headline": "Programming Fonts",
+            "_original_url": "https://www.programmingfonts.org/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32011842",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32011842",
+            "title": "Ruffle。WebAssembly Flash Player仿真器\n",
+            "summary": "Ruffle: WebAssembly Flash Player Emulator",
+            "date_modified": "2022-07-07T09:49:34.000Z",
+            "author": {
+                "name": "tux1968",
+                "url": "https://news.ycombinator.com/user?id=tux1968"
+            },
+            "_original_headline": "Ruffle: WebAssembly Flash Player Emulator",
+            "_original_url": "https://ruffle.rs/demo/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32034114",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32034114",
@@ -9561,54 +9609,6 @@
             "_original_url": "https://www.freightwaves.com/news/us-import-demand-drops-off-a-cliff",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31653726",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31653726",
-            "title": "比特幣票據--安全、自我監護的現金形式的比特幣錢包\n",
-            "summary": "Show HN: The Bitcoin Note – Secure, Self-Custodial Bitcoin Wallets in Cash Form",
-            "date_modified": "2022-06-07T13:11:51.000Z",
-            "author": {
-                "name": "paulgerhardt",
-                "url": "https://news.ycombinator.com/user?id=paulgerhardt"
-            },
-            "_original_headline": "Show HN: The Bitcoin Note – Secure, Self-Custodial Bitcoin Wallets in Cash Form",
-            "_original_url": "https://www.offline.cash/",
-            "_sensitive": false,
-            "_score": 271
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31651146",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31651146",
-            "title": "消除辛勞\n",
-            "summary": "Eliminating Toil",
-            "date_modified": "2022-06-07T08:00:04.000Z",
-            "author": {
-                "name": "omarfarooq",
-                "url": "https://news.ycombinator.com/user?id=omarfarooq"
-            },
-            "_original_headline": "Eliminating Toil",
-            "_original_url": "https://sre.google/sre-book/eliminating-toil/",
-            "_sensitive": false,
-            "_score": 253
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31657591",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31657591",
-            "title": "歡迎來到M1窗口項目\n",
-            "summary": "Welcome to the M1 Windows project",
-            "date_modified": "2022-06-07T17:31:30.000Z",
-            "author": {
-                "name": "giuliomagnifico",
-                "url": "https://news.ycombinator.com/user?id=giuliomagnifico"
-            },
-            "_original_headline": "Welcome to the M1 Windows project",
-            "_original_url": "https://amarioguy.github.io/m1windowsproject/",
-            "_sensitive": false,
-            "_score": 264
         }
     ]
 }
