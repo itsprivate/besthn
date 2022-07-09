@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 09 Jul 2022 07:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 09:46:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[围棋的通用性并不差
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32027855</link>
+            <guid>https://news.ycombinator.com/item?id=32027855</guid>
+            <pubDate>Fri, 08 Jul 2022 21:55:56 GMT</pubDate>
+            <description><![CDATA[Go generics are not bad]]></description>
+        </item>
         <item>
             <title><![CDATA[告诉HN：HN从M5转到AWS了
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31650797</guid>
             <pubDate>Tue, 07 Jun 2022 07:07:38 GMT</pubDate>
             <description><![CDATA[Deepfake Offensive Toolkit (real-time deepfakes for virtual cameras)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[OpenStreetMap的数据模型
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31638648</link>
-            <guid>https://news.ycombinator.com/item?id=31638648</guid>
-            <pubDate>Mon, 06 Jun 2022 09:51:51 GMT</pubDate>
-            <description><![CDATA[OpenStreetMap's Data Model]]></description>
         </item>
     </channel>
 </rss>
