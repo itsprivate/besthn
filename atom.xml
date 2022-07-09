@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-08T22:29:02.737Z</updated>
+    <updated>2022-07-09T03:38:37.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么我们要坚持使用Ruby on Rails？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32025882</id>
+        <link href="https://news.ycombinator.com/item?id=32025882"/>
+        <updated>2022-07-08T11:47:20.000Z</updated>
+        <summary type="html"><![CDATA[Why we're sticking with Ruby on Rails]]></summary>
+        <author>
+            <name>lutrinus</name>
+            <uri>https://news.ycombinator.com/user?id=lutrinus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天文狐 - 将音频变成视频
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32018459</id>
+        <link href="https://news.ycombinator.com/item?id=32018459"/>
+        <updated>2022-07-07T19:47:35.000Z</updated>
+        <summary type="html"><![CDATA[Astrofox – Turn Audio into Videos]]></summary>
+        <author>
+            <name>GenericCanadian</name>
+            <uri>https://news.ycombinator.com/user?id=GenericCanadian</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[埃隆-马斯克试图退出Twitter交易
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>gok</name>
             <uri>https://news.ycombinator.com/user?id=gok</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果公司推出全新的MacBook Air，由新的M2芯片提供超强动力
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31644019</id>
-        <link href="https://news.ycombinator.com/item?id=31644019"/>
-        <updated>2022-06-06T18:34:16.000Z</updated>
-        <summary type="html"><![CDATA[Apple unveils all-new MacBook Air, supercharged by the new M2 chip]]></summary>
-        <author>
-            <name>yottabyte47</name>
-            <uri>https://news.ycombinator.com/user?id=yottabyte47</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果发布M2
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31644008</id>
-        <link href="https://news.ycombinator.com/item?id=31644008"/>
-        <updated>2022-06-06T18:33:27.000Z</updated>
-        <summary type="html"><![CDATA[Apple Unveils M2]]></summary>
-        <author>
-            <name>yottabyte47</name>
-            <uri>https://news.ycombinator.com/user?id=yottabyte47</uri>
         </author>
     </entry>
 </feed>

@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32025882",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32025882",
+            "title": "为什么我们要坚持使用Ruby on Rails？\n",
+            "summary": "Why we're sticking with Ruby on Rails",
+            "date_modified": "2022-07-08T11:47:20.000Z",
+            "author": {
+                "name": "lutrinus",
+                "url": "https://news.ycombinator.com/user?id=lutrinus"
+            },
+            "_original_headline": "Why we're sticking with Ruby on Rails",
+            "_original_url": "https://about.gitlab.com/blog/2022/07/06/why-were-sticking-with-ruby-on-rails/",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32018459",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32018459",
+            "title": "天文狐 - 将音频变成视频\n",
+            "summary": "Astrofox – Turn Audio into Videos",
+            "date_modified": "2022-07-07T19:47:35.000Z",
+            "author": {
+                "name": "GenericCanadian",
+                "url": "https://news.ycombinator.com/user?id=GenericCanadian"
+            },
+            "_original_headline": "Astrofox – Turn Audio into Videos",
+            "_original_url": "https://astrofox.io/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32027341",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32027341",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta?language=objc",
             "_sensitive": false,
             "_score": 273
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31644019",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31644019",
-            "title": "苹果公司推出全新的MacBook Air，由新的M2芯片提供超强动力\n",
-            "summary": "Apple unveils all-new MacBook Air, supercharged by the new M2 chip",
-            "date_modified": "2022-06-06T18:34:16.000Z",
-            "author": {
-                "name": "yottabyte47",
-                "url": "https://news.ycombinator.com/user?id=yottabyte47"
-            },
-            "_original_headline": "Apple unveils all-new MacBook Air, supercharged by the new M2 chip",
-            "_original_url": "https://www.apple.com/newsroom/2022/06/apple-unveils-all-new-macbook-air-supercharged-by-the-new-m2-chip/",
-            "_sensitive": false,
-            "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31644008",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31644008",
-            "title": "苹果发布M2\n",
-            "summary": "Apple Unveils M2",
-            "date_modified": "2022-06-06T18:33:27.000Z",
-            "author": {
-                "name": "yottabyte47",
-                "url": "https://news.ycombinator.com/user?id=yottabyte47"
-            },
-            "_original_headline": "Apple Unveils M2",
-            "_original_url": "https://www.apple.com/newsroom/2022/06/apple-unveils-m2-with-breakthrough-performance-and-capabilities/",
-            "_sensitive": false,
-            "_score": 293
         }
     ]
 }

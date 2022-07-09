@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 08 Jul 2022 22:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 03:38:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼我們要堅持使用Ruby on Rails？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32025882</link>
+            <guid>https://news.ycombinator.com/item?id=32025882</guid>
+            <pubDate>Fri, 08 Jul 2022 11:47:20 GMT</pubDate>
+            <description><![CDATA[Why we're sticking with Ruby on Rails]]></description>
+        </item>
+        <item>
+            <title><![CDATA[天文狐 - 將音頻變成視頻
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32018459</link>
+            <guid>https://news.ycombinator.com/item?id=32018459</guid>
+            <pubDate>Thu, 07 Jul 2022 19:47:35 GMT</pubDate>
+            <description><![CDATA[Astrofox – Turn Audio into Videos]]></description>
+        </item>
         <item>
             <title><![CDATA[埃隆-馬斯克試圖退出Twitter交易
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31644990</guid>
             <pubDate>Mon, 06 Jun 2022 19:35:18 GMT</pubDate>
             <description><![CDATA[Running Intel Binaries in Linux VMs with Rosetta]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蘋果公司推出全新的MacBook Air，由新的M2芯片提供超強動力
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31644019</link>
-            <guid>https://news.ycombinator.com/item?id=31644019</guid>
-            <pubDate>Mon, 06 Jun 2022 18:34:16 GMT</pubDate>
-            <description><![CDATA[Apple unveils all-new MacBook Air, supercharged by the new M2 chip]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蘋果發佈M2
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31644008</link>
-            <guid>https://news.ycombinator.com/item?id=31644008</guid>
-            <pubDate>Mon, 06 Jun 2022 18:33:27 GMT</pubDate>
-            <description><![CDATA[Apple Unveils M2]]></description>
         </item>
     </channel>
 </rss>
