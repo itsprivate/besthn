@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32026663",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32026663",
+            "title": "亚马逊存在图书盗版问题\n",
+            "summary": "Amazon has a book piracy problem",
+            "date_modified": "2022-07-08T20:38:32.000Z",
+            "author": {
+                "name": "tosh",
+                "url": "https://news.ycombinator.com/user?id=tosh"
+            },
+            "_original_headline": "Amazon has a book piracy problem",
+            "_original_url": "https://twitter.com/fchollet/status/1545477267932864512",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32027855",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32027855",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://shkspr.mobi/blog/2022/06/ive-locked-myself-out-of-my-digital-life/",
             "_sensitive": false,
             "_score": 291
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31650797",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31650797",
-            "title": "Deepfake Offensive Toolkit（用于虚拟摄像机的实时深度伪造）。\n",
-            "summary": "Deepfake Offensive Toolkit (real-time deepfakes for virtual cameras)",
-            "date_modified": "2022-06-07T07:07:38.000Z",
-            "author": {
-                "name": "draugadrotten",
-                "url": "https://news.ycombinator.com/user?id=draugadrotten"
-            },
-            "_original_headline": "Deepfake Offensive Toolkit (real-time deepfakes for virtual cameras)",
-            "_original_url": "https://github.com/sensity-ai/dot",
-            "_sensitive": false,
-            "_score": 265
         }
     ]
 }

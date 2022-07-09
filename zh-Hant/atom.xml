@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-09T09:46:24.978Z</updated>
+    <updated>2022-07-09T10:30:49.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亞馬遜存在圖書盜版問題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32026663</id>
+        <link href="https://news.ycombinator.com/item?id=32026663"/>
+        <updated>2022-07-08T20:38:32.000Z</updated>
+        <summary type="html"><![CDATA[Amazon has a book piracy problem]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[圍棋的通用性並不差
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>edent</name>
             <uri>https://news.ycombinator.com/user?id=edent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deepfake Offensive Toolkit（用於虛擬攝像機的實時深度偽造）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31650797</id>
-        <link href="https://news.ycombinator.com/item?id=31650797"/>
-        <updated>2022-06-07T07:07:38.000Z</updated>
-        <summary type="html"><![CDATA[Deepfake Offensive Toolkit (real-time deepfakes for virtual cameras)]]></summary>
-        <author>
-            <name>draugadrotten</name>
-            <uri>https://news.ycombinator.com/user?id=draugadrotten</uri>
         </author>
     </entry>
 </feed>
