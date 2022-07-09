@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 09 Jul 2022 10:30:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 11:44:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[瑞士推進地下自動貨物運輸
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32029033</link>
+            <guid>https://news.ycombinator.com/item?id=32029033</guid>
+            <pubDate>Fri, 08 Jul 2022 23:10:40 GMT</pubDate>
+            <description><![CDATA[Switzerland moves ahead with underground autonomous cargo delivery]]></description>
+        </item>
         <item>
             <title><![CDATA[亞馬遜存在圖書盜版問題
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31651423</guid>
             <pubDate>Tue, 07 Jun 2022 08:39:17 GMT</pubDate>
             <description><![CDATA[We're moving to a four-day work week at Beacon]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我已經把自己鎖在數字生活之外了
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31652650</link>
-            <guid>https://news.ycombinator.com/item?id=31652650</guid>
-            <pubDate>Tue, 07 Jun 2022 11:36:43 GMT</pubDate>
-            <description><![CDATA[I've locked myself out of my digital life]]></description>
         </item>
     </channel>
 </rss>
