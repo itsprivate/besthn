@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32034114",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32034114",
+            "title": "很少有人能掌握丹尼尔-盖克尔为经营HN所花费的精力（2020年）。\n",
+            "summary": "Few people grasp the amount of effort Daniel Gackle expends running HN (2020)",
+            "date_modified": "2022-07-09T11:44:26.000Z",
+            "author": {
+                "name": "QuarkForMrMark",
+                "url": "https://news.ycombinator.com/user?id=QuarkForMrMark"
+            },
+            "_original_headline": "Few people grasp the amount of effort Daniel Gackle expends running HN (2020)",
+            "_original_url": "https://twitter.com/paulg/status/1282055086433284103",
+            "_sensitive": false,
+            "_score": 206
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32028752",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32028752",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://amarioguy.github.io/m1windowsproject/",
             "_sensitive": false,
             "_score": 264
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31652291",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31652291",
-            "title": "欧盟达成协议，使USB-C成为大多数电子设备的通用充电器\n",
-            "summary": "EU reaches deal to make USB-C a common charger for most electronic devices",
-            "date_modified": "2022-06-07T10:50:09.000Z",
-            "author": {
-                "name": "geox",
-                "url": "https://news.ycombinator.com/user?id=geox"
-            },
-            "_original_headline": "EU reaches deal to make USB-C a common charger for most electronic devices",
-            "_original_url": "https://www.engadget.com/eu-reaches-deal-to-make-usb-c-a-common-charger-for-most-electronic-devices-104605067.html",
-            "_sensitive": false,
-            "_score": 252
         }
     ]
 }
