@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 09 Jul 2022 03:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 04:49:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[佛羅里達州科技公司CEO因銷售價值10億美元的假冒思科設備被起訴
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32026782</link>
+            <guid>https://news.ycombinator.com/item?id=32026782</guid>
+            <pubDate>Fri, 08 Jul 2022 20:45:57 GMT</pubDate>
+            <description><![CDATA[Florida Tech CEO Indicted for Selling $1B Worth of Counterfeit Cisco Equipment]]></description>
+        </item>
+        <item>
+            <title><![CDATA[HN癱瘓時你做了什麼？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32026639</link>
+            <guid>https://news.ycombinator.com/item?id=32026639</guid>
+            <pubDate>Fri, 08 Jul 2022 20:36:22 GMT</pubDate>
+            <description><![CDATA[Ask HN: What'd you do while HN was down?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[聯邦調查局的Anom加密信息應用程序的代碼
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32013591</link>
+            <guid>https://news.ycombinator.com/item?id=32013591</guid>
+            <pubDate>Thu, 07 Jul 2022 13:07:37 GMT</pubDate>
+            <description><![CDATA[Code from the FBI’s Anom encrypted messaging app]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼我們要堅持使用Ruby on Rails？
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31648326</guid>
             <pubDate>Tue, 07 Jun 2022 00:22:47 GMT</pubDate>
             <description><![CDATA[Tell HN: I used the same computer since 2007 (with minor upgrades)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[iPadOS 16
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31644188</link>
-            <guid>https://news.ycombinator.com/item?id=31644188</guid>
-            <pubDate>Mon, 06 Jun 2022 18:49:53 GMT</pubDate>
-            <description><![CDATA[iPadOS 16]]></description>
-        </item>
-        <item>
-            <title><![CDATA[改善思維的工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31647181</link>
-            <guid>https://news.ycombinator.com/item?id=31647181</guid>
-            <pubDate>Mon, 06 Jun 2022 22:24:04 GMT</pubDate>
-            <description><![CDATA[Tools for Better Thinking]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Rosetta在Linux虛擬機中運行英特爾二進制文件
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31644990</link>
-            <guid>https://news.ycombinator.com/item?id=31644990</guid>
-            <pubDate>Mon, 06 Jun 2022 19:35:18 GMT</pubDate>
-            <description><![CDATA[Running Intel Binaries in Linux VMs with Rosetta]]></description>
         </item>
     </channel>
 </rss>

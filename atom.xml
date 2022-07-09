@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-09T03:38:37.024Z</updated>
+    <updated>2022-07-09T04:49:36.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[佛罗里达州科技公司CEO因销售价值10亿美元的假冒思科设备被起诉
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32026782</id>
+        <link href="https://news.ycombinator.com/item?id=32026782"/>
+        <updated>2022-07-08T20:45:57.000Z</updated>
+        <summary type="html"><![CDATA[Florida Tech CEO Indicted for Selling $1B Worth of Counterfeit Cisco Equipment]]></summary>
+        <author>
+            <name>boeingUH60</name>
+            <uri>https://news.ycombinator.com/user?id=boeingUH60</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HN瘫痪时你做了什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32026639</id>
+        <link href="https://news.ycombinator.com/item?id=32026639"/>
+        <updated>2022-07-08T20:36:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What'd you do while HN was down?]]></summary>
+        <author>
+            <name>quicksnap</name>
+            <uri>https://news.ycombinator.com/user?id=quicksnap</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联邦调查局的Anom加密信息应用程序的代码
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32013591</id>
+        <link href="https://news.ycombinator.com/item?id=32013591"/>
+        <updated>2022-07-07T13:07:37.000Z</updated>
+        <summary type="html"><![CDATA[Code from the FBI’s Anom encrypted messaging app]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么我们要坚持使用Ruby on Rails？
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>andrecarini</name>
             <uri>https://news.ycombinator.com/user?id=andrecarini</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPadOS 16
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31644188</id>
-        <link href="https://news.ycombinator.com/item?id=31644188"/>
-        <updated>2022-06-06T18:49:53.000Z</updated>
-        <summary type="html"><![CDATA[iPadOS 16]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[改善思维的工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31647181</id>
-        <link href="https://news.ycombinator.com/item?id=31647181"/>
-        <updated>2022-06-06T22:24:04.000Z</updated>
-        <summary type="html"><![CDATA[Tools for Better Thinking]]></summary>
-        <author>
-            <name>andsoitis</name>
-            <uri>https://news.ycombinator.com/user?id=andsoitis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Rosetta在Linux虚拟机中运行英特尔二进制文件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31644990</id>
-        <link href="https://news.ycombinator.com/item?id=31644990"/>
-        <updated>2022-06-06T19:35:18.000Z</updated>
-        <summary type="html"><![CDATA[Running Intel Binaries in Linux VMs with Rosetta]]></summary>
-        <author>
-            <name>gok</name>
-            <uri>https://news.ycombinator.com/user?id=gok</uri>
         </author>
     </entry>
 </feed>
