@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32028752",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32028752",
+            "title": "OCRmyPDF。為掃描的PDF文件添加OCR文本層\n",
+            "summary": "OCRmyPDF: Add an OCR text layer to scanned PDF file",
+            "date_modified": "2022-07-08T22:50:59.000Z",
+            "author": {
+                "name": "danso",
+                "url": "https://news.ycombinator.com/user?id=danso"
+            },
+            "_original_headline": "OCRmyPDF: Add an OCR text layer to scanned PDF file",
+            "_original_url": "https://ocrmypdf.readthedocs.io/en/latest/index.html",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32013779",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32013779",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.engadget.com/eu-reaches-deal-to-make-usb-c-a-common-charger-for-most-electronic-devices-104605067.html",
             "_sensitive": false,
             "_score": 252
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31651086",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31651086",
-            "title": "請不要再建一個大型強子對撞機了\n",
-            "summary": "Please, don't build another Large Hadron Collider",
-            "date_modified": "2022-06-07T07:51:38.000Z",
-            "author": {
-                "name": "khaled_ismaeel",
-                "url": "https://news.ycombinator.com/user?id=khaled_ismaeel"
-            },
-            "_original_headline": "Please, don't build another Large Hadron Collider",
-            "_original_url": "https://bigthink.com/hard-science/large-hadron-collider-economics/",
-            "_sensitive": false,
-            "_score": 257
         }
     ]
 }
