@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32031131",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32031131",
+            "title": "为什么BART使用非标准的宽轨距\n",
+            "summary": "Why BART uses a nonstandard broad gauge",
+            "date_modified": "2022-07-09T03:03:38.000Z",
+            "author": {
+                "name": "runarberg",
+                "url": "https://news.ycombinator.com/user?id=runarberg"
+            },
+            "_original_headline": "Why BART uses a nonstandard broad gauge",
+            "_original_url": "https://www.bart.gov/news/articles/2022/news20220708-2",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32029033",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32029033",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.electronicsweekly.com/news/business/793299-2022-03/",
             "_sensitive": false,
             "_score": 253
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31651423",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31651423",
-            "title": "我们将在灯塔改为每周四天工作制\n",
-            "summary": "We're moving to a four-day work week at Beacon",
-            "date_modified": "2022-06-07T08:39:17.000Z",
-            "author": {
-                "name": "500and4",
-                "url": "https://news.ycombinator.com/user?id=500and4"
-            },
-            "_original_headline": "We're moving to a four-day work week at Beacon",
-            "_original_url": "https://www.beaconcrm.org/blog/beacon-switching-to-four-day-work-week",
-            "_sensitive": false,
-            "_score": 268
         }
     ]
 }

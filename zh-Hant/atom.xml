@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-09T11:44:08.594Z</updated>
+    <updated>2022-07-09T11:59:00.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼BART使用非標準的寬軌距
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32031131</id>
+        <link href="https://news.ycombinator.com/item?id=32031131"/>
+        <updated>2022-07-09T03:03:38.000Z</updated>
+        <summary type="html"><![CDATA[Why BART uses a nonstandard broad gauge]]></summary>
+        <author>
+            <name>runarberg</name>
+            <uri>https://news.ycombinator.com/user?id=runarberg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[瑞士推進地下自動貨物運輸
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>throwaway4good</name>
             <uri>https://news.ycombinator.com/user?id=throwaway4good</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們將在燈塔改為每週四天工作制
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31651423</id>
-        <link href="https://news.ycombinator.com/item?id=31651423"/>
-        <updated>2022-06-07T08:39:17.000Z</updated>
-        <summary type="html"><![CDATA[We're moving to a four-day work week at Beacon]]></summary>
-        <author>
-            <name>500and4</name>
-            <uri>https://news.ycombinator.com/user?id=500and4</uri>
         </author>
     </entry>
 </feed>
