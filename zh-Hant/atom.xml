@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-09T11:59:00.149Z</updated>
+    <updated>2022-07-09T12:48:10.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Ed是標準的文本編輯器（2014）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32013779</id>
+        <link href="https://news.ycombinator.com/item?id=32013779"/>
+        <updated>2022-07-07T13:25:43.000Z</updated>
+        <summary type="html"><![CDATA[Ed is the standard text editor (2014)]]></summary>
+        <author>
+            <name>harporoeder</name>
+            <uri>https://news.ycombinator.com/user?id=harporoeder</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼BART使用非標準的寬軌距
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>khaled_ismaeel</name>
             <uri>https://news.ycombinator.com/user?id=khaled_ismaeel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德國為英特爾工廠支付55億美元
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31654762</id>
-        <link href="https://news.ycombinator.com/item?id=31654762"/>
-        <updated>2022-06-07T14:22:43.000Z</updated>
-        <summary type="html"><![CDATA[Germany paying $5.5bn for Intel fab]]></summary>
-        <author>
-            <name>throwaway4good</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway4good</uri>
         </author>
     </entry>
 </feed>

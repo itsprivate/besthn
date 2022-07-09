@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32013779",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32013779",
+            "title": "Ed是标准的文本编辑器（2014）。\n",
+            "summary": "Ed is the standard text editor (2014)",
+            "date_modified": "2022-07-07T13:25:43.000Z",
+            "author": {
+                "name": "harporoeder",
+                "url": "https://news.ycombinator.com/user?id=harporoeder"
+            },
+            "_original_headline": "Ed is the standard text editor (2014)",
+            "_original_url": "https://wiki.c2.com/?EdIsTheStandardTextEditor",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32031131",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32031131",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://bigthink.com/hard-science/large-hadron-collider-economics/",
             "_sensitive": false,
             "_score": 257
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31654762",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31654762",
-            "title": "德国为英特尔工厂支付55亿美元\n",
-            "summary": "Germany paying $5.5bn for Intel fab",
-            "date_modified": "2022-06-07T14:22:43.000Z",
-            "author": {
-                "name": "throwaway4good",
-                "url": "https://news.ycombinator.com/user?id=throwaway4good"
-            },
-            "_original_headline": "Germany paying $5.5bn for Intel fab",
-            "_original_url": "https://www.electronicsweekly.com/news/business/793299-2022-03/",
-            "_sensitive": false,
-            "_score": 253
         }
     ]
 }
