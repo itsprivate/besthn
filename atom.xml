@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-09T17:07:14.432Z</updated>
+    <updated>2022-07-09T17:47:31.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国80%的尿液样本中发现与癌症有关的除草剂成分
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32035538</id>
+        <link href="https://news.ycombinator.com/item?id=32035538"/>
+        <updated>2022-07-09T14:43:31.000Z</updated>
+        <summary type="html"><![CDATA[Weedkiller ingredient tied to cancer found in 80% of US urine samples]]></summary>
+        <author>
+            <name>mindracer</name>
+            <uri>https://news.ycombinator.com/user?id=mindracer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自动Regex
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32032134</id>
+        <link href="https://news.ycombinator.com/item?id=32032134"/>
+        <updated>2022-07-09T05:41:04.000Z</updated>
+        <summary type="html"><![CDATA[AutoRegex]]></summary>
+        <author>
+            <name>fbuilesv</name>
+            <uri>https://news.ycombinator.com/user?id=fbuilesv</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我应该喜欢生物学
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ewired</name>
             <uri>https://news.ycombinator.com/user?id=ewired</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[找到一个好的可用.com域名
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31664440</id>
-        <link href="https://news.ycombinator.com/item?id=31664440"/>
-        <updated>2022-06-08T07:39:38.000Z</updated>
-        <summary type="html"><![CDATA[Find a good available .com domain]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[男子因身份证明问题起诉美国航空公司，被判入狱
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31662962</id>
-        <link href="https://news.ycombinator.com/item?id=31662962"/>
-        <updated>2022-06-08T03:45:45.000Z</updated>
-        <summary type="html"><![CDATA[Man sues American Airlines over identification, jail time]]></summary>
-        <author>
-            <name>nabilhat</name>
-            <uri>https://news.ycombinator.com/user?id=nabilhat</uri>
         </author>
     </entry>
 </feed>
