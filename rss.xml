@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 09 Jul 2022 23:29:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 02:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[帮助我识别在我的车上发现的可能的跟踪装置
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32040251</link>
+            <guid>https://news.ycombinator.com/item?id=32040251</guid>
+            <pubDate>Sat, 09 Jul 2022 23:21:26 GMT</pubDate>
+            <description><![CDATA[Help me identify possible tracking device found in my car]]></description>
+        </item>
+        <item>
+            <title><![CDATA[恭喜你。我们现在对你的开放源码贡献有意见了
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32037562</link>
+            <guid>https://news.ycombinator.com/item?id=32037562</guid>
+            <pubDate>Sat, 09 Jul 2022 17:48:55 GMT</pubDate>
+            <description><![CDATA[Congratulations: We now have opinions on your open source contributions]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Shopify的黑暗面
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32034643</link>
+            <guid>https://news.ycombinator.com/item?id=32034643</guid>
+            <pubDate>Sat, 09 Jul 2022 12:57:06 GMT</pubDate>
+            <description><![CDATA[The dark side of Shopify]]></description>
+        </item>
         <item>
             <title><![CDATA[凯特-布什的 "Running Up That Hill "合成器声音
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31675015</guid>
             <pubDate>Wed, 08 Jun 2022 22:09:15 GMT</pubDate>
             <description><![CDATA[Researchers achieve ‘absurdly fast’ algorithm for network flow]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Windows剪贴板数据是否有一个最大的尺寸？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31667701</link>
-            <guid>https://news.ycombinator.com/item?id=31667701</guid>
-            <pubDate>Wed, 08 Jun 2022 14:16:29 GMT</pubDate>
-            <description><![CDATA[Is there a maximum size for Windows clipboard data?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用同态加密法私下阅读维基百科
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31668814</link>
-            <guid>https://news.ycombinator.com/item?id=31668814</guid>
-            <pubDate>Wed, 08 Jun 2022 15:29:33 GMT</pubDate>
-            <description><![CDATA[Show HN: Read Wikipedia privately using homomorphic encryption]]></description>
-        </item>
-        <item>
-            <title><![CDATA[矮人堡垒更新--教程和工具提示
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31667240</link>
-            <guid>https://news.ycombinator.com/item?id=31667240</guid>
-            <pubDate>Wed, 08 Jun 2022 13:44:19 GMT</pubDate>
-            <description><![CDATA[Dwarf Fortress Update – Tutorials and Tooltips]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-09T23:29:06.722Z</updated>
+    <updated>2022-07-10T02:46:07.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[幫助我識別在我的車上發現的可能的跟蹤裝置
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32040251</id>
+        <link href="https://news.ycombinator.com/item?id=32040251"/>
+        <updated>2022-07-09T23:21:26.000Z</updated>
+        <summary type="html"><![CDATA[Help me identify possible tracking device found in my car]]></summary>
+        <author>
+            <name>jeffbee</name>
+            <uri>https://news.ycombinator.com/user?id=jeffbee</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[恭喜你。我們現在對你的開放源碼貢獻有意見了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32037562</id>
+        <link href="https://news.ycombinator.com/item?id=32037562"/>
+        <updated>2022-07-09T17:48:55.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations: We now have opinions on your open source contributions]]></summary>
+        <author>
+            <name>the_mitsuhiko</name>
+            <uri>https://news.ycombinator.com/user?id=the_mitsuhiko</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shopify的黑暗面
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32034643</id>
+        <link href="https://news.ycombinator.com/item?id=32034643"/>
+        <updated>2022-07-09T12:57:06.000Z</updated>
+        <summary type="html"><![CDATA[The dark side of Shopify]]></summary>
+        <author>
+            <name>danpalmer</name>
+            <uri>https://news.ycombinator.com/user?id=danpalmer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[凱特-布什的 "Running Up That Hill "合成器聲音
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>aaraujo002</name>
             <uri>https://news.ycombinator.com/user?id=aaraujo002</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows剪貼板數據是否有一個最大的尺寸？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31667701</id>
-        <link href="https://news.ycombinator.com/item?id=31667701"/>
-        <updated>2022-06-08T14:16:29.000Z</updated>
-        <summary type="html"><![CDATA[Is there a maximum size for Windows clipboard data?]]></summary>
-        <author>
-            <name>kencausey</name>
-            <uri>https://news.ycombinator.com/user?id=kencausey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用同態加密法私下閱讀維基百科
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31668814</id>
-        <link href="https://news.ycombinator.com/item?id=31668814"/>
-        <updated>2022-06-08T15:29:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Read Wikipedia privately using homomorphic encryption]]></summary>
-        <author>
-            <name>blintz</name>
-            <uri>https://news.ycombinator.com/user?id=blintz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[矮人堡壘更新--教程和工具提示
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31667240</id>
-        <link href="https://news.ycombinator.com/item?id=31667240"/>
-        <updated>2022-06-08T13:44:19.000Z</updated>
-        <summary type="html"><![CDATA[Dwarf Fortress Update – Tutorials and Tooltips]]></summary>
-        <author>
-            <name>capableweb</name>
-            <uri>https://news.ycombinator.com/user?id=capableweb</uri>
         </author>
     </entry>
 </feed>
