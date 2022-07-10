@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 10 Jul 2022 14:58:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 17:06:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[CS101: 计算机原理介绍
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32043433</link>
+            <guid>https://news.ycombinator.com/item?id=32043433</guid>
+            <pubDate>Sun, 10 Jul 2022 10:29:57 GMT</pubDate>
+            <description><![CDATA[CS101: Introduction to Computing Principles]]></description>
+        </item>
+        <item>
+            <title><![CDATA[监测微小的网络服务
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32037356</link>
+            <guid>https://news.ycombinator.com/item?id=32037356</guid>
+            <pubDate>Sat, 09 Jul 2022 17:29:02 GMT</pubDate>
+            <description><![CDATA[Monitoring tiny web services]]></description>
+        </item>
         <item>
             <title><![CDATA[什么是Qubes操作系统？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31681515</guid>
             <pubDate>Thu, 09 Jun 2022 14:22:16 GMT</pubDate>
             <description><![CDATA[I cut GTA Online loading times (2021)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们在iPhone、iPad和其他iDevices上实现了Linux。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31679293</link>
-            <guid>https://news.ycombinator.com/item?id=31679293</guid>
-            <pubDate>Thu, 09 Jun 2022 09:42:59 GMT</pubDate>
-            <description><![CDATA[We Got Linux on the iPhone, iPad and Other iDevices]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dropbox删除了《瑞克与莫蒂》创作者的账户，因为他们秘密违反了TOS规定
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31680894</link>
-            <guid>https://news.ycombinator.com/item?id=31680894</guid>
-            <pubDate>Thu, 09 Jun 2022 13:29:30 GMT</pubDate>
-            <description><![CDATA[Dropbox deletes Rick and Morty creators account for secret TOS violation]]></description>
         </item>
     </channel>
 </rss>
