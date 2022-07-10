@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-10T06:36:16.431Z</updated>
+    <updated>2022-07-10T08:33:18.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[没有抗生素起作用，所以这个女人转向了噬菌体科学家
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32036825</id>
+        <link href="https://news.ycombinator.com/item?id=32036825"/>
+        <updated>2022-07-09T16:41:31.000Z</updated>
+        <summary type="html"><![CDATA[No antibiotics worked, so this woman turned to phage scientists]]></summary>
+        <author>
+            <name>LinuxBender</name>
+            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么这么多品牌要改变他们的标志，看起来像其他人一样？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nikolaedison</name>
             <uri>https://news.ycombinator.com/user?id=nikolaedison</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德莫之母50周年纪念（2018年）
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31676445</id>
-        <link href="https://news.ycombinator.com/item?id=31676445"/>
-        <updated>2022-06-09T01:01:36.000Z</updated>
-        <summary type="html"><![CDATA[50th Anniversary of the Mother of All Demos (2018)]]></summary>
-        <author>
-            <name>jdcampolargo</name>
-            <uri>https://news.ycombinator.com/user?id=jdcampolargo</uri>
         </author>
     </entry>
 </feed>
