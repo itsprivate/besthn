@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-10T17:37:17.539Z</updated>
+    <updated>2022-07-10T17:59:57.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lichess: 自由和開源的國際象棋服務器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32045763</id>
+        <link href="https://news.ycombinator.com/item?id=32045763"/>
+        <updated>2022-07-10T15:46:18.000Z</updated>
+        <summary type="html"><![CDATA[Lichess: The free and open source chess server]]></summary>
+        <author>
+            <name>perihelions</name>
+            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[洩密者透露：Uber違反法律，欺騙警方，建立秘密遊說行動
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cwwc</name>
             <uri>https://news.ycombinator.com/user?id=cwwc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼核電建設成本如此之高？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31682361</id>
-        <link href="https://news.ycombinator.com/item?id=31682361"/>
-        <updated>2022-06-09T15:22:26.000Z</updated>
-        <summary type="html"><![CDATA[Why are nuclear power construction costs so high?]]></summary>
-        <author>
-            <name>spenrose</name>
-            <uri>https://news.ycombinator.com/user?id=spenrose</uri>
         </author>
     </entry>
 </feed>

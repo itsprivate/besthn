@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 10 Jul 2022 17:37:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 17:59:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Lichess: 自由和开源的国际象棋服务器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32045763</link>
+            <guid>https://news.ycombinator.com/item?id=32045763</guid>
+            <pubDate>Sun, 10 Jul 2022 15:46:18 GMT</pubDate>
+            <description><![CDATA[Lichess: The free and open source chess server]]></description>
+        </item>
         <item>
             <title><![CDATA[泄密者透露：Uber违反法律，欺骗警方，建立秘密游说行动
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31685545</guid>
             <pubDate>Thu, 09 Jun 2022 19:16:04 GMT</pubDate>
             <description><![CDATA[Do Kwon Sent $80M a Month to Himself]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么核电建设成本如此之高？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31682361</link>
-            <guid>https://news.ycombinator.com/item?id=31682361</guid>
-            <pubDate>Thu, 09 Jun 2022 15:22:26 GMT</pubDate>
-            <description><![CDATA[Why are nuclear power construction costs so high?]]></description>
         </item>
     </channel>
 </rss>

@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32045763",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32045763",
+            "title": "Lichess: 自由和開源的國際象棋服務器\n",
+            "summary": "Lichess: The free and open source chess server",
+            "date_modified": "2022-07-10T15:46:18.000Z",
+            "author": {
+                "name": "perihelions",
+                "url": "https://news.ycombinator.com/user?id=perihelions"
+            },
+            "_original_headline": "Lichess: The free and open source chess server",
+            "_original_url": "https://github.com/lichess-org/",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32045906",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32045906",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://watcher.guru/news/do-kwon-sent-80-million-a-month-to-secret-wallets",
             "_sensitive": false,
             "_score": 280
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31682361",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31682361",
-            "title": "為什麼核電建設成本如此之高？\n",
-            "summary": "Why are nuclear power construction costs so high?",
-            "date_modified": "2022-06-09T15:22:26.000Z",
-            "author": {
-                "name": "spenrose",
-                "url": "https://news.ycombinator.com/user?id=spenrose"
-            },
-            "_original_headline": "Why are nuclear power construction costs so high?",
-            "_original_url": "https://constructionphysics.substack.com/p/why-are-nuclear-power-construction",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }
