@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-10T11:43:46.122Z</updated>
+    <updated>2022-07-10T14:58:42.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什么是Qubes操作系统？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32036899</id>
+        <link href="https://news.ycombinator.com/item?id=32036899"/>
+        <updated>2022-07-09T16:47:52.000Z</updated>
+        <summary type="html"><![CDATA[What Is Qubes OS?]]></summary>
+        <author>
+            <name>LinuxBender</name>
+            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[杀害安倍晋三的罪行
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>casefields</name>
             <uri>https://news.ycombinator.com/user?id=casefields</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最后的问题
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31675727</id>
-        <link href="https://news.ycombinator.com/item?id=31675727"/>
-        <updated>2022-06-08T23:19:59.000Z</updated>
-        <summary type="html"><![CDATA[The Last Question]]></summary>
-        <author>
-            <name>thewarpaint</name>
-            <uri>https://news.ycombinator.com/user?id=thewarpaint</uri>
         </author>
     </entry>
 </feed>
