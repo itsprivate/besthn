@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32045735",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32045735",
+            "title": "亞利桑那州新法律規定在警察8英尺範圍內拍攝是非法的\n",
+            "summary": "New Arizona law makes it illegal to film within 8 feet of police",
+            "date_modified": "2022-07-10T15:43:12.000Z",
+            "author": {
+                "name": "latchkey",
+                "url": "https://news.ycombinator.com/user?id=latchkey"
+            },
+            "_original_headline": "New Arizona law makes it illegal to film within 8 feet of police",
+            "_original_url": "https://www.axios.com/2022/07/08/arizona-law-illegal-film-police-8-feet",
+            "_sensitive": false,
+            "_score": 225
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32043229",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32043229",
+            "title": "螞蟻沙箱--螞蟻模擬器\n",
+            "summary": "Show HN: Ants Sandbox - an ants simulator",
+            "date_modified": "2022-07-10T09:48:30.000Z",
+            "author": {
+                "name": "tulustul",
+                "url": "https://news.ycombinator.com/user?id=tulustul"
+            },
+            "_original_headline": "Show HN: Ants Sandbox - an ants simulator",
+            "_original_url": "https://www.ants-sandbox.io/",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32037105",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32037105",
+            "title": "兒童時期的抗生素是克羅恩病的一個風險因素。隊列研究\n",
+            "summary": "Childhood antibiotics as a risk factor for Crohn's disease: Cohort study",
+            "date_modified": "2022-07-09T17:05:38.000Z",
+            "author": {
+                "name": "Jimmc414",
+                "url": "https://news.ycombinator.com/user?id=Jimmc414"
+            },
+            "_original_headline": "Childhood antibiotics as a risk factor for Crohn's disease: Cohort study",
+            "_original_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9218523/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32045763",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32045763",
@@ -9561,54 +9609,6 @@
             "_original_url": "https://www.linuxjournal.com/content/whats-our-next-fight",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31682303",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31682303",
-            "title": "複雜軟件的崩潰\n",
-            "summary": "The collapse of complex software",
-            "date_modified": "2022-06-09T15:18:12.000Z",
-            "author": {
-                "name": "feross",
-                "url": "https://news.ycombinator.com/user?id=feross"
-            },
-            "_original_headline": "The collapse of complex software",
-            "_original_url": "https://nolanlawson.com/2022/06/09/the-collapse-of-complex-software/",
-            "_sensitive": false,
-            "_score": 253
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31679811",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31679811",
-            "title": "Ory Kratos - 用Go編寫的開源身份服務器\n",
-            "summary": "Show HN: Ory Kratos – Open-source identity server written in Go",
-            "date_modified": "2022-06-09T11:17:44.000Z",
-            "author": {
-                "name": "nottennis",
-                "url": "https://news.ycombinator.com/user?id=nottennis"
-            },
-            "_original_headline": "Show HN: Ory Kratos – Open-source identity server written in Go",
-            "_original_url": "https://github.com/ory/kratos",
-            "_sensitive": false,
-            "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31685545",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31685545",
-            "title": "杜權每個月給自己送去8000萬美元\n",
-            "summary": "Do Kwon Sent $80M a Month to Himself",
-            "date_modified": "2022-06-09T19:16:04.000Z",
-            "author": {
-                "name": "cwwc",
-                "url": "https://news.ycombinator.com/user?id=cwwc"
-            },
-            "_original_headline": "Do Kwon Sent $80M a Month to Himself",
-            "_original_url": "https://watcher.guru/news/do-kwon-sent-80-million-a-month-to-secret-wallets",
-            "_sensitive": false,
-            "_score": 280
         }
     ]
 }

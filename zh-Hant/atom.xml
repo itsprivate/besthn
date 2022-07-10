@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-10T17:59:57.964Z</updated>
+    <updated>2022-07-10T19:25:06.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亞利桑那州新法律規定在警察8英尺範圍內拍攝是非法的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32045735</id>
+        <link href="https://news.ycombinator.com/item?id=32045735"/>
+        <updated>2022-07-10T15:43:12.000Z</updated>
+        <summary type="html"><![CDATA[New Arizona law makes it illegal to film within 8 feet of police]]></summary>
+        <author>
+            <name>latchkey</name>
+            <uri>https://news.ycombinator.com/user?id=latchkey</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[螞蟻沙箱--螞蟻模擬器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32043229</id>
+        <link href="https://news.ycombinator.com/item?id=32043229"/>
+        <updated>2022-07-10T09:48:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Ants Sandbox - an ants simulator]]></summary>
+        <author>
+            <name>tulustul</name>
+            <uri>https://news.ycombinator.com/user?id=tulustul</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[兒童時期的抗生素是克羅恩病的一個風險因素。隊列研究
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32037105</id>
+        <link href="https://news.ycombinator.com/item?id=32037105"/>
+        <updated>2022-07-09T17:05:38.000Z</updated>
+        <summary type="html"><![CDATA[Childhood antibiotics as a risk factor for Crohn's disease: Cohort study]]></summary>
+        <author>
+            <name>Jimmc414</name>
+            <uri>https://news.ycombinator.com/user?id=Jimmc414</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lichess: 自由和開源的國際象棋服務器
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>ddtaylor</name>
             <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[複雜軟件的崩潰
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31682303</id>
-        <link href="https://news.ycombinator.com/item?id=31682303"/>
-        <updated>2022-06-09T15:18:12.000Z</updated>
-        <summary type="html"><![CDATA[The collapse of complex software]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ory Kratos - 用Go編寫的開源身份服務器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31679811</id>
-        <link href="https://news.ycombinator.com/item?id=31679811"/>
-        <updated>2022-06-09T11:17:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ory Kratos – Open-source identity server written in Go]]></summary>
-        <author>
-            <name>nottennis</name>
-            <uri>https://news.ycombinator.com/user?id=nottennis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[杜權每個月給自己送去8000萬美元
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31685545</id>
-        <link href="https://news.ycombinator.com/item?id=31685545"/>
-        <updated>2022-06-09T19:16:04.000Z</updated>
-        <summary type="html"><![CDATA[Do Kwon Sent $80M a Month to Himself]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
         </author>
     </entry>
 </feed>
