@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-10T17:06:41.469Z</updated>
+    <updated>2022-07-10T17:37:17.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[泄密者透露：Uber违反法律，欺骗警方，建立秘密游说行动
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32045906</id>
+        <link href="https://news.ycombinator.com/item?id=32045906"/>
+        <updated>2022-07-10T16:02:56.000Z</updated>
+        <summary type="html"><![CDATA[Uber broke laws, duped police and built secret lobbying operation, leak reveals]]></summary>
+        <author>
+            <name>colin_jack</name>
+            <uri>https://news.ycombinator.com/user?id=colin_jack</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CS101: 计算机原理介绍
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>spenrose</name>
             <uri>https://news.ycombinator.com/user?id=spenrose</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我缩短了GTA在线的加载时间(2021)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31681515</id>
-        <link href="https://news.ycombinator.com/item?id=31681515"/>
-        <updated>2022-06-09T14:22:16.000Z</updated>
-        <summary type="html"><![CDATA[I cut GTA Online loading times (2021)]]></summary>
-        <author>
-            <name>ddtaylor</name>
-            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
         </author>
     </entry>
 </feed>
