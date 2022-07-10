@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 10 Jul 2022 10:30:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 11:43:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[杀害安倍晋三的罪行
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32042054</link>
+            <guid>https://news.ycombinator.com/item?id=32042054</guid>
+            <pubDate>Sun, 10 Jul 2022 05:15:24 GMT</pubDate>
+            <description><![CDATA[The Crime That Killed Shinzo Abe]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么世界需要一个非营利性的搜索引擎
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31675727</guid>
             <pubDate>Wed, 08 Jun 2022 23:19:59 GMT</pubDate>
             <description><![CDATA[The Last Question]]></description>
-        </item>
-        <item>
-            <title><![CDATA[停止用利特代码进行面试
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31677736</link>
-            <guid>https://news.ycombinator.com/item?id=31677736</guid>
-            <pubDate>Thu, 09 Jun 2022 05:04:38 GMT</pubDate>
-            <description><![CDATA[Stop Interviewing with Leet Code]]></description>
         </item>
     </channel>
 </rss>
