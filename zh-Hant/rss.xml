@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 10 Jul 2022 19:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 23:59:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[固態硬盤在開機4萬小時後會失效（2021年）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32048148</link>
+            <guid>https://news.ycombinator.com/item?id=32048148</guid>
+            <pubDate>Sun, 10 Jul 2022 19:36:58 GMT</pubDate>
+            <description><![CDATA[SSD will fail at 40k power-on hours (2021)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[歐文--保護Lichess不受所有國際象棋選手的反派影響的人
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32047230</link>
+            <guid>https://news.ycombinator.com/item?id=32047230</guid>
+            <pubDate>Sun, 10 Jul 2022 18:09:23 GMT</pubDate>
+            <description><![CDATA[Irwin – the protector of Lichess from all chess players villainous]]></description>
+        </item>
+        <item>
+            <title><![CDATA[隨著TikTok的發展，人們的懷疑也在增加
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32045339</link>
+            <guid>https://news.ycombinator.com/item?id=32045339</guid>
+            <pubDate>Sun, 10 Jul 2022 14:56:39 GMT</pubDate>
+            <description><![CDATA[As TikTok grows, so does suspicion]]></description>
+        </item>
         <item>
             <title><![CDATA[亞利桑那州新法律規定在警察8英尺範圍內拍攝是非法的
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31686615</guid>
             <pubDate>Thu, 09 Jun 2022 20:45:09 GMT</pubDate>
             <description><![CDATA[Always Own Your Platform (2019)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[任天堂的盜版大案是一個悲傷的故事
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31665928</link>
-            <guid>https://news.ycombinator.com/item?id=31665928</guid>
-            <pubDate>Wed, 08 Jun 2022 11:46:10 GMT</pubDate>
-            <description><![CDATA[Nintendo's big piracy case is a sad story]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Shotcut是一個免費的、開源的、跨平臺的視頻編輯器。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31681787</link>
-            <guid>https://news.ycombinator.com/item?id=31681787</guid>
-            <pubDate>Thu, 09 Jun 2022 14:42:23 GMT</pubDate>
-            <description><![CDATA[Shotcut is a free, open-source, cross-platform video editor]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們贏得了Linux之戰，但我們正在失去自由之戰 (2016)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31676011</link>
-            <guid>https://news.ycombinator.com/item?id=31676011</guid>
-            <pubDate>Wed, 08 Jun 2022 23:55:10 GMT</pubDate>
-            <description><![CDATA[We won the battle for Linux, but we're losing the battle for freedom (2016)]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-10T19:25:06.559Z</updated>
+    <updated>2022-07-10T23:59:27.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[固態硬盤在開機4萬小時後會失效（2021年）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32048148</id>
+        <link href="https://news.ycombinator.com/item?id=32048148"/>
+        <updated>2022-07-10T19:36:58.000Z</updated>
+        <summary type="html"><![CDATA[SSD will fail at 40k power-on hours (2021)]]></summary>
+        <author>
+            <name>dredmorbius</name>
+            <uri>https://news.ycombinator.com/user?id=dredmorbius</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歐文--保護Lichess不受所有國際象棋選手的反派影響的人
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32047230</id>
+        <link href="https://news.ycombinator.com/item?id=32047230"/>
+        <updated>2022-07-10T18:09:23.000Z</updated>
+        <summary type="html"><![CDATA[Irwin – the protector of Lichess from all chess players villainous]]></summary>
+        <author>
+            <name>myle</name>
+            <uri>https://news.ycombinator.com/user?id=myle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隨著TikTok的發展，人們的懷疑也在增加
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32045339</id>
+        <link href="https://news.ycombinator.com/item?id=32045339"/>
+        <updated>2022-07-10T14:56:39.000Z</updated>
+        <summary type="html"><![CDATA[As TikTok grows, so does suspicion]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亞利桑那州新法律規定在警察8英尺範圍內拍攝是非法的
 ]]></title>
@@ -7174,42 +7210,6 @@
         <link href="https://news.ycombinator.com/item?id=31686615"/>
         <updated>2022-06-09T20:45:09.000Z</updated>
         <summary type="html"><![CDATA[Always Own Your Platform (2019)]]></summary>
-        <author>
-            <name>ddtaylor</name>
-            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任天堂的盜版大案是一個悲傷的故事
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31665928</id>
-        <link href="https://news.ycombinator.com/item?id=31665928"/>
-        <updated>2022-06-08T11:46:10.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo's big piracy case is a sad story]]></summary>
-        <author>
-            <name>danso</name>
-            <uri>https://news.ycombinator.com/user?id=danso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shotcut是一個免費的、開源的、跨平臺的視頻編輯器。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31681787</id>
-        <link href="https://news.ycombinator.com/item?id=31681787"/>
-        <updated>2022-06-09T14:42:23.000Z</updated>
-        <summary type="html"><![CDATA[Shotcut is a free, open-source, cross-platform video editor]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們贏得了Linux之戰，但我們正在失去自由之戰 (2016)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31676011</id>
-        <link href="https://news.ycombinator.com/item?id=31676011"/>
-        <updated>2022-06-08T23:55:10.000Z</updated>
-        <summary type="html"><![CDATA[We won the battle for Linux, but we're losing the battle for freedom (2016)]]></summary>
         <author>
             <name>ddtaylor</name>
             <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
