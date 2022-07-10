@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 10 Jul 2022 03:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 06:36:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么这么多品牌要改变他们的标志，看起来像其他人一样？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32040506</link>
+            <guid>https://news.ycombinator.com/item?id=32040506</guid>
+            <pubDate>Sat, 09 Jul 2022 23:58:43 GMT</pubDate>
+            <description><![CDATA[Why do so many brands change their logos and look like everyone else?]]></description>
+        </item>
         <item>
             <title><![CDATA[使用GPT-3来解释代码的工作原理
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31676445</guid>
             <pubDate>Thu, 09 Jun 2022 01:01:36 GMT</pubDate>
             <description><![CDATA[50th Anniversary of the Mother of All Demos (2018)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[缓存的一致性。Meta的缓存失效解决方案
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31671252</link>
-            <guid>https://news.ycombinator.com/item?id=31671252</guid>
-            <pubDate>Wed, 08 Jun 2022 17:46:22 GMT</pubDate>
-            <description><![CDATA[Cache made consistent: Meta’s cache invalidation solution]]></description>
         </item>
     </channel>
 </rss>

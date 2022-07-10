@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-10T03:51:46.331Z</updated>
+    <updated>2022-07-10T06:36:16.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼這麼多品牌要改變他們的標誌，看起來像其他人一樣？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32040506</id>
+        <link href="https://news.ycombinator.com/item?id=32040506"/>
+        <updated>2022-07-09T23:58:43.000Z</updated>
+        <summary type="html"><![CDATA[Why do so many brands change their logos and look like everyone else?]]></summary>
+        <author>
+            <name>herbertl</name>
+            <uri>https://news.ycombinator.com/user?id=herbertl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用GPT-3來解釋代碼的工作原理
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jdcampolargo</name>
             <uri>https://news.ycombinator.com/user?id=jdcampolargo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[緩存的一致性。Meta的緩存失效解決方案
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31671252</id>
-        <link href="https://news.ycombinator.com/item?id=31671252"/>
-        <updated>2022-06-08T17:46:22.000Z</updated>
-        <summary type="html"><![CDATA[Cache made consistent: Meta’s cache invalidation solution]]></summary>
-        <author>
-            <name>uvdn7</name>
-            <uri>https://news.ycombinator.com/user?id=uvdn7</uri>
         </author>
     </entry>
 </feed>

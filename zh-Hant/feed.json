@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32040506",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32040506",
+            "title": "為什麼這麼多品牌要改變他們的標誌，看起來像其他人一樣？\n",
+            "summary": "Why do so many brands change their logos and look like everyone else?",
+            "date_modified": "2022-07-09T23:58:43.000Z",
+            "author": {
+                "name": "herbertl",
+                "url": "https://news.ycombinator.com/user?id=herbertl"
+            },
+            "_original_headline": "Why do so many brands change their logos and look like everyone else?",
+            "_original_url": "https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else",
+            "_sensitive": false,
+            "_score": 207
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32036224",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32036224",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://amasad.me/moad",
             "_sensitive": false,
             "_score": 252
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31671252",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31671252",
-            "title": "緩存的一致性。Meta的緩存失效解決方案\n",
-            "summary": "Cache made consistent: Meta’s cache invalidation solution",
-            "date_modified": "2022-06-08T17:46:22.000Z",
-            "author": {
-                "name": "uvdn7",
-                "url": "https://news.ycombinator.com/user?id=uvdn7"
-            },
-            "_original_headline": "Cache made consistent: Meta’s cache invalidation solution",
-            "_original_url": "https://engineering.fb.com/2022/06/08/core-data/cache-invalidation/",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }
