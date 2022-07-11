@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32034320",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32034320",
+            "title": "美国新闻》将哥伦比亚大学从其2022年的排名中撤下\n",
+            "summary": "U.S. News pulls Columbia University from its 2022 rankings",
+            "date_modified": "2022-07-09T12:12:57.000Z",
+            "author": {
+                "name": "selimthegrim",
+                "url": "https://news.ycombinator.com/user?id=selimthegrim"
+            },
+            "_original_headline": "U.S. News pulls Columbia University from its 2022 rankings",
+            "_original_url": "https://www.forbes.com/sites/michaeltnietzel/2022/07/07/the-fallout-continues-us-news-pulls-columbia-university-from-its-2022-rankings/",
+            "_sensitive": false,
+            "_score": 208
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32061587",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32061587",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://atrailtale.com/",
             "_sensitive": false,
             "_score": 253
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31704789",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31704789",
-            "title": "DNS玩具\n",
-            "summary": "DNS Toys",
-            "date_modified": "2022-06-11T14:44:00.000Z",
-            "author": {
-                "name": "edent",
-                "url": "https://news.ycombinator.com/user?id=edent"
-            },
-            "_original_headline": "DNS Toys",
-            "_original_url": "https://www.dns.toys/",
-            "_sensitive": false,
-            "_score": 290
         }
     ]
 }
