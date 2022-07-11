@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 11 Jul 2022 02:31:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 03:56:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[三角形網格
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32045779</link>
+            <guid>https://news.ycombinator.com/item?id=32045779</guid>
+            <pubDate>Sun, 10 Jul 2022 15:48:20 GMT</pubDate>
+            <description><![CDATA[Triangle Grids]]></description>
+        </item>
         <item>
             <title><![CDATA[刺客信條解放》退市，9月1日起連業主都不能玩了
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31677745</guid>
             <pubDate>Thu, 09 Jun 2022 05:07:55 GMT</pubDate>
             <description><![CDATA[Privacy Badger is a browser extension that learns to block invisible trackers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[重要的PostgreSQL 14更新以避免索引的無聲損壞
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31687782</link>
-            <guid>https://news.ycombinator.com/item?id=31687782</guid>
-            <pubDate>Thu, 09 Jun 2022 22:29:42 GMT</pubDate>
-            <description><![CDATA[Important PostgreSQL 14 update to avoid silent corruption of indexes]]></description>
         </item>
     </channel>
 </rss>

@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32045779",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32045779",
+            "title": "三角形网格\n",
+            "summary": "Triangle Grids",
+            "date_modified": "2022-07-10T15:48:20.000Z",
+            "author": {
+                "name": "jsnell",
+                "url": "https://news.ycombinator.com/user?id=jsnell"
+            },
+            "_original_headline": "Triangle Grids",
+            "_original_url": "https://kvachev.com/blog/posts/triangular-grid/",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32049508",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32049508",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://privacybadger.org/",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31687782",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31687782",
-            "title": "重要的PostgreSQL 14更新以避免索引的无声损坏\n",
-            "summary": "Important PostgreSQL 14 update to avoid silent corruption of indexes",
-            "date_modified": "2022-06-09T22:29:42.000Z",
-            "author": {
-                "name": "avi_vallarapu",
-                "url": "https://news.ycombinator.com/user?id=avi_vallarapu"
-            },
-            "_original_headline": "Important PostgreSQL 14 update to avoid silent corruption of indexes",
-            "_original_url": "https://www.migops.com/blog/2022/06/09/important-postgresql-14-update-to-avoid-silent-corruption-of-indexes/",
-            "_sensitive": false,
-            "_score": 252
         }
     ]
 }

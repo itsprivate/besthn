@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-11T02:31:19.363Z</updated>
+    <updated>2022-07-11T03:56:34.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[三角形網格
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32045779</id>
+        <link href="https://news.ycombinator.com/item?id=32045779"/>
+        <updated>2022-07-10T15:48:20.000Z</updated>
+        <summary type="html"><![CDATA[Triangle Grids]]></summary>
+        <author>
+            <name>jsnell</name>
+            <uri>https://news.ycombinator.com/user?id=jsnell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[刺客信條解放》退市，9月1日起連業主都不能玩了
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>memorable</name>
             <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重要的PostgreSQL 14更新以避免索引的無聲損壞
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31687782</id>
-        <link href="https://news.ycombinator.com/item?id=31687782"/>
-        <updated>2022-06-09T22:29:42.000Z</updated>
-        <summary type="html"><![CDATA[Important PostgreSQL 14 update to avoid silent corruption of indexes]]></summary>
-        <author>
-            <name>avi_vallarapu</name>
-            <uri>https://news.ycombinator.com/user?id=avi_vallarapu</uri>
         </author>
     </entry>
 </feed>
