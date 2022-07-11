@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-11T23:47:04.292Z</updated>
+    <updated>2022-07-11T23:59:39.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于马铃薯饮食的思考
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32058674</id>
+        <link href="https://news.ycombinator.com/item?id=32058674"/>
+        <updated>2022-07-11T16:58:39.000Z</updated>
+        <summary type="html"><![CDATA[Thoughts on the potato diet]]></summary>
+        <author>
+            <name>mediocregopher</name>
+            <uri>https://news.ycombinator.com/user?id=mediocregopher</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[宇宙中最深的红外图像
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>feross</name>
             <uri>https://news.ycombinator.com/user?id=feross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[正确书写HTML
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31694849</id>
-        <link href="https://news.ycombinator.com/item?id=31694849"/>
-        <updated>2022-06-10T14:39:06.000Z</updated>
-        <summary type="html"><![CDATA[Write HTML Right]]></summary>
-        <author>
-            <name>aparks517</name>
-            <uri>https://news.ycombinator.com/user?id=aparks517</uri>
         </author>
     </entry>
 </feed>
