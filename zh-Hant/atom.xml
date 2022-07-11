@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-11T14:36:53.590Z</updated>
+    <updated>2022-07-11T15:55:55.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在軟件行業工作，大約在1989年
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32054181</id>
+        <link href="https://news.ycombinator.com/item?id=32054181"/>
+        <updated>2022-07-11T10:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Working in the software industry, circa 1989]]></summary>
+        <author>
+            <name>firstSpeaker</name>
+            <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Replibyte - 用真實的數據作為你的數據庫的種子
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>markus_zhang</name>
             <uri>https://news.ycombinator.com/user?id=markus_zhang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有毒的生產力
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31690239</id>
-        <link href="https://news.ycombinator.com/item?id=31690239"/>
-        <updated>2022-06-10T05:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Toxic Productivity]]></summary>
-        <author>
-            <name>jackdelaney</name>
-            <uri>https://news.ycombinator.com/user?id=jackdelaney</uri>
         </author>
     </entry>
 </feed>
