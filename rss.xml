@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 11 Jul 2022 14:01:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 14:36:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Replibyte - 用真实的数据作为你的数据库的种子
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32047535</link>
+            <guid>https://news.ycombinator.com/item?id=32047535</guid>
+            <pubDate>Sun, 10 Jul 2022 18:39:08 GMT</pubDate>
+            <description><![CDATA[Replibyte – Seed your database with real data]]></description>
+        </item>
         <item>
             <title><![CDATA[Postgres 15改进了UNIQUE和NULL
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31690239</guid>
             <pubDate>Fri, 10 Jun 2022 05:01:04 GMT</pubDate>
             <description><![CDATA[Toxic Productivity]]></description>
-        </item>
-        <item>
-            <title><![CDATA[微软宣布将在美国所有的招聘信息中包括薪酬范围
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31693830</link>
-            <guid>https://news.ycombinator.com/item?id=31693830</guid>
-            <pubDate>Fri, 10 Jun 2022 13:24:53 GMT</pubDate>
-            <description><![CDATA[Microsoft Announces It Will Include Pay Ranges in All U.S. Job Postings]]></description>
         </item>
     </channel>
 </rss>

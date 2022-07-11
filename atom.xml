@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-11T14:01:33.277Z</updated>
+    <updated>2022-07-11T14:36:53.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Replibyte - 用真实的数据作为你的数据库的种子
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32047535</id>
+        <link href="https://news.ycombinator.com/item?id=32047535"/>
+        <updated>2022-07-10T18:39:08.000Z</updated>
+        <summary type="html"><![CDATA[Replibyte – Seed your database with real data]]></summary>
+        <author>
+            <name>evoxmusic</name>
+            <uri>https://news.ycombinator.com/user?id=evoxmusic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Postgres 15改进了UNIQUE和NULL
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jackdelaney</name>
             <uri>https://news.ycombinator.com/user?id=jackdelaney</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软宣布将在美国所有的招聘信息中包括薪酬范围
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31693830</id>
-        <link href="https://news.ycombinator.com/item?id=31693830"/>
-        <updated>2022-06-10T13:24:53.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Announces It Will Include Pay Ranges in All U.S. Job Postings]]></summary>
-        <author>
-            <name>blue_box</name>
-            <uri>https://news.ycombinator.com/user?id=blue_box</uri>
         </author>
     </entry>
 </feed>
