@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 11 Jul 2022 12:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 14:01:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Postgres 15改进了UNIQUE和NULL
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32053293</link>
+            <guid>https://news.ycombinator.com/item?id=32053293</guid>
+            <pubDate>Mon, 11 Jul 2022 07:29:47 GMT</pubDate>
+            <description><![CDATA[Postgres 15 improves UNIQUE and NULL]]></description>
+        </item>
+        <item>
+            <title><![CDATA[益百利公司，你有一些解释工作要做
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32052140</link>
+            <guid>https://news.ycombinator.com/item?id=32052140</guid>
+            <pubDate>Mon, 11 Jul 2022 04:18:24 GMT</pubDate>
+            <description><![CDATA[Experian, you have some explaining to do]]></description>
+        </item>
         <item>
             <title><![CDATA[数据显示，来自精英背景的人在学术界越来越占优势
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31693830</guid>
             <pubDate>Fri, 10 Jun 2022 13:24:53 GMT</pubDate>
             <description><![CDATA[Microsoft Announces It Will Include Pay Ranges in All U.S. Job Postings]]></description>
-        </item>
-        <item>
-            <title><![CDATA[uBlacklist - 阻止特定网站出现在谷歌搜索结果中
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31693287</link>
-            <guid>https://news.ycombinator.com/item?id=31693287</guid>
-            <pubDate>Fri, 10 Jun 2022 12:44:50 GMT</pubDate>
-            <description><![CDATA[uBlacklist – Block specific sites from appearing in Google search results]]></description>
-        </item>
-        <item>
-            <title><![CDATA[推特计划遵守马斯克的数据要求
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31686055</link>
-            <guid>https://news.ycombinator.com/item?id=31686055</guid>
-            <pubDate>Thu, 09 Jun 2022 20:02:34 GMT</pubDate>
-            <description><![CDATA[Twitter plans to comply with Musk’s demands for data]]></description>
         </item>
     </channel>
 </rss>

@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32053293",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32053293",
+            "title": "Postgres 15改進了UNIQUE和NULL\n",
+            "summary": "Postgres 15 improves UNIQUE and NULL",
+            "date_modified": "2022-07-11T07:29:47.000Z",
+            "author": {
+                "name": "Twisell",
+                "url": "https://news.ycombinator.com/user?id=Twisell"
+            },
+            "_original_headline": "Postgres 15 improves UNIQUE and NULL",
+            "_original_url": "https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null",
+            "_sensitive": false,
+            "_score": 207
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32052140",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32052140",
+            "title": "益百利公司，你有一些解釋工作要做\n",
+            "summary": "Experian, you have some explaining to do",
+            "date_modified": "2022-07-11T04:18:24.000Z",
+            "author": {
+                "name": "todsacerdoti",
+                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
+            },
+            "_original_headline": "Experian, you have some explaining to do",
+            "_original_url": "https://krebsonsecurity.com/2022/07/experian-you-have-some-explaining-to-do/",
+            "_sensitive": false,
+            "_score": 226
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32051703",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32051703",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://www.forbes.com/sites/jenamcgregor/2022/06/09/microsoft-announces-it-will-include-pay-ranges-in-all-us-job-postings-experts-predict-it-will-be-the-first-of-many/",
             "_sensitive": false,
             "_score": 281
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31693287",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31693287",
-            "title": "uBlacklist - 阻止特定網站出現在谷歌搜索結果中\n",
-            "summary": "uBlacklist – Block specific sites from appearing in Google search results",
-            "date_modified": "2022-06-10T12:44:50.000Z",
-            "author": {
-                "name": "sanketpatrikar",
-                "url": "https://news.ycombinator.com/user?id=sanketpatrikar"
-            },
-            "_original_headline": "uBlacklist – Block specific sites from appearing in Google search results",
-            "_original_url": "https://github.com/iorate/ublacklist",
-            "_sensitive": false,
-            "_score": 297
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31686055",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31686055",
-            "title": "推特計劃遵守馬斯克的數據要求\n",
-            "summary": "Twitter plans to comply with Musk’s demands for data",
-            "date_modified": "2022-06-09T20:02:34.000Z",
-            "author": {
-                "name": "Balgair",
-                "url": "https://news.ycombinator.com/user?id=Balgair"
-            },
-            "_original_headline": "Twitter plans to comply with Musk’s demands for data",
-            "_original_url": "https://www.forbes.com/sites/abrambrown/2022/06/09/twitter-elon-musk-bots-data-firehose-api/",
-            "_sensitive": false,
-            "_score": 251
         }
     ]
 }
