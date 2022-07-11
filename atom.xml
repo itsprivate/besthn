@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-11T20:01:07.666Z</updated>
+    <updated>2022-07-11T20:43:21.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Colorvote.io - 按受欢迎程度对所有16,777,216种sRGB网络颜色进行排名
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32053816</id>
+        <link href="https://news.ycombinator.com/item?id=32053816"/>
+        <updated>2022-07-11T09:05:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Colorvote.io – ranking all 16,777,216 sRGB web colors by popularity]]></summary>
+        <author>
+            <name>gcuth</name>
+            <uri>https://news.ycombinator.com/user?id=gcuth</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告诉HN：我有一份完美的工作，为什么还不够呢？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>statenjason</name>
             <uri>https://news.ycombinator.com/user?id=statenjason</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox 360架构
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31678045</id>
-        <link href="https://news.ycombinator.com/item?id=31678045"/>
-        <updated>2022-06-09T06:10:27.000Z</updated>
-        <summary type="html"><![CDATA[Xbox 360 Architecture]]></summary>
-        <author>
-            <name>itsjloh</name>
-            <uri>https://news.ycombinator.com/user?id=itsjloh</uri>
         </author>
     </entry>
 </feed>
