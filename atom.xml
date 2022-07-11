@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-11T03:56:34.193Z</updated>
+    <updated>2022-07-11T05:57:38.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[致好市多的情歌
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32049672</id>
+        <link href="https://news.ycombinator.com/item?id=32049672"/>
+        <updated>2022-07-10T22:16:59.000Z</updated>
+        <summary type="html"><![CDATA[Love Song to Costco]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三角形网格
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jbay808</name>
             <uri>https://news.ycombinator.com/user?id=jbay808</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隐私獾是一个浏览器扩展，可以学习阻止看不见的跟踪器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31677745</id>
-        <link href="https://news.ycombinator.com/item?id=31677745"/>
-        <updated>2022-06-09T05:07:55.000Z</updated>
-        <summary type="html"><![CDATA[Privacy Badger is a browser extension that learns to block invisible trackers]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
         </author>
     </entry>
 </feed>

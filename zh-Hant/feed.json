@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32049672",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32049672",
+            "title": "致好市多的情歌\n",
+            "summary": "Love Song to Costco",
+            "date_modified": "2022-07-10T22:16:59.000Z",
+            "author": {
+                "name": "prostoalex",
+                "url": "https://news.ycombinator.com/user?id=prostoalex"
+            },
+            "_original_headline": "Love Song to Costco",
+            "_original_url": "https://longreads.com/2022/06/16/love-song-to-costco/",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32045779",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32045779",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://jbconsulting.substack.com/p/you-need-to-know-what-right-half",
             "_sensitive": false,
             "_score": 267
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31677745",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31677745",
-            "title": "隱私獾是一個瀏覽器擴展，可以學習阻止看不見的跟蹤器\n",
-            "summary": "Privacy Badger is a browser extension that learns to block invisible trackers",
-            "date_modified": "2022-06-09T05:07:55.000Z",
-            "author": {
-                "name": "memorable",
-                "url": "https://news.ycombinator.com/user?id=memorable"
-            },
-            "_original_headline": "Privacy Badger is a browser extension that learns to block invisible trackers",
-            "_original_url": "https://privacybadger.org/",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }
