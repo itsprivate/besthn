@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 11 Jul 2022 23:30:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 23:47:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[宇宙中最深的紅外圖像
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32062849</link>
+            <guid>https://news.ycombinator.com/item?id=32062849</guid>
+            <pubDate>Mon, 11 Jul 2022 22:24:04 GMT</pubDate>
+            <description><![CDATA[Deepest infrared image of universe]]></description>
+        </item>
         <item>
             <title><![CDATA[普拉諾人保持百視通的活力
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31694849</guid>
             <pubDate>Fri, 10 Jun 2022 14:39:06 GMT</pubDate>
             <description><![CDATA[Write HTML Right]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AirPlay和觸摸條=網絡災難
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31706283</link>
-            <guid>https://news.ycombinator.com/item?id=31706283</guid>
-            <pubDate>Sat, 11 Jun 2022 17:31:03 GMT</pubDate>
-            <description><![CDATA[AirPlay and Touch Bar = Network Disaster]]></description>
         </item>
     </channel>
 </rss>

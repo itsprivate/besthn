@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-11T23:30:28.184Z</updated>
+    <updated>2022-07-11T23:47:04.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[宇宙中最深的紅外圖像
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32062849</id>
+        <link href="https://news.ycombinator.com/item?id=32062849"/>
+        <updated>2022-07-11T22:24:04.000Z</updated>
+        <summary type="html"><![CDATA[Deepest infrared image of universe]]></summary>
+        <author>
+            <name>potiuper</name>
+            <uri>https://news.ycombinator.com/user?id=potiuper</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普拉諾人保持百視通的活力
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>aparks517</name>
             <uri>https://news.ycombinator.com/user?id=aparks517</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AirPlay和觸摸條=網絡災難
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31706283</id>
-        <link href="https://news.ycombinator.com/item?id=31706283"/>
-        <updated>2022-06-11T17:31:03.000Z</updated>
-        <summary type="html"><![CDATA[AirPlay and Touch Bar = Network Disaster]]></summary>
-        <author>
-            <name>davidbarker</name>
-            <uri>https://news.ycombinator.com/user?id=davidbarker</uri>
         </author>
     </entry>
 </feed>
