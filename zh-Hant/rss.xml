@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 11 Jul 2022 15:55:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 17:52:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[歡迎來到地獄；或英國在線安全法案合規義務
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32055756</link>
+            <guid>https://news.ycombinator.com/item?id=32055756</guid>
+            <pubDate>Mon, 11 Jul 2022 13:19:06 GMT</pubDate>
+            <description><![CDATA[Welcome to hell; or UK online safety bill compliance obligations]]></description>
+        </item>
         <item>
             <title><![CDATA[在軟件行業工作，大約在1989年
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31696901</guid>
             <pubDate>Fri, 10 Jun 2022 17:14:44 GMT</pubDate>
             <description><![CDATA[Petzold's “Code” 2nd Edition]]></description>
-        </item>
-        <item>
-            <title><![CDATA[麻省理工學院研究人員發現蘋果M1芯片存在 "無法修補 "的缺陷
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31693490</link>
-            <guid>https://news.ycombinator.com/item?id=31693490</guid>
-            <pubDate>Fri, 10 Jun 2022 13:03:01 GMT</pubDate>
-            <description><![CDATA[MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips]]></description>
         </item>
     </channel>
 </rss>

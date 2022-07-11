@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-11T15:55:55.113Z</updated>
+    <updated>2022-07-11T17:52:15.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[歡迎來到地獄；或英國在線安全法案合規義務
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32055756</id>
+        <link href="https://news.ycombinator.com/item?id=32055756"/>
+        <updated>2022-07-11T13:19:06.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to hell; or UK online safety bill compliance obligations]]></summary>
+        <author>
+            <name>Arkanum</name>
+            <uri>https://news.ycombinator.com/user?id=Arkanum</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在軟件行業工作，大約在1989年
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>emme</name>
             <uri>https://news.ycombinator.com/user?id=emme</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[麻省理工學院研究人員發現蘋果M1芯片存在 "無法修補 "的缺陷
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31693490</id>
-        <link href="https://news.ycombinator.com/item?id=31693490"/>
-        <updated>2022-06-10T13:03:01.000Z</updated>
-        <summary type="html"><![CDATA[MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips]]></summary>
-        <author>
-            <name>markus_zhang</name>
-            <uri>https://news.ycombinator.com/user?id=markus_zhang</uri>
         </author>
     </entry>
 </feed>
