@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 11 Jul 2022 18:05:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 18:40:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用Common Lisp开发的游戏和游戏引擎--Kandria的技术概述
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32043026</link>
+            <guid>https://news.ycombinator.com/item?id=32043026</guid>
+            <pubDate>Sun, 10 Jul 2022 09:08:47 GMT</pubDate>
+            <description><![CDATA[Technical overview of Kandria, a game and game engine developed in Common Lisp]]></description>
+        </item>
         <item>
             <title><![CDATA[GCC Rust 由GCC指导委员会批准
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31698148</guid>
             <pubDate>Fri, 10 Jun 2022 19:03:54 GMT</pubDate>
             <description><![CDATA[Tell HN: Google does not list application permissions in the Play Store any more]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果OpenSSL是一个GUI
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31697636</link>
-            <guid>https://news.ycombinator.com/item?id=31697636</guid>
-            <pubDate>Fri, 10 Jun 2022 18:21:23 GMT</pubDate>
-            <description><![CDATA[If OpenSSL were a GUI]]></description>
         </item>
     </channel>
 </rss>

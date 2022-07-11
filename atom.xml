@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-11T18:05:17.184Z</updated>
+    <updated>2022-07-11T18:40:30.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Common Lisp开发的游戏和游戏引擎--Kandria的技术概述
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32043026</id>
+        <link href="https://news.ycombinator.com/item?id=32043026"/>
+        <updated>2022-07-10T09:08:47.000Z</updated>
+        <summary type="html"><![CDATA[Technical overview of Kandria, a game and game engine developed in Common Lisp]]></summary>
+        <author>
+            <name>trocado</name>
+            <uri>https://news.ycombinator.com/user?id=trocado</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GCC Rust 由GCC指导委员会批准
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>datalist</name>
             <uri>https://news.ycombinator.com/user?id=datalist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果OpenSSL是一个GUI
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31697636</id>
-        <link href="https://news.ycombinator.com/item?id=31697636"/>
-        <updated>2022-06-10T18:21:23.000Z</updated>
-        <summary type="html"><![CDATA[If OpenSSL were a GUI]]></summary>
-        <author>
-            <name>soheilpro</name>
-            <uri>https://news.ycombinator.com/user?id=soheilpro</uri>
         </author>
     </entry>
 </feed>
