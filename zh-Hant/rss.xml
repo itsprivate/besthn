@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 10 Jul 2022 23:59:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 02:31:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[刺客信條解放》退市，9月1日起連業主都不能玩了
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32049508</link>
+            <guid>https://news.ycombinator.com/item?id=32049508</guid>
+            <pubDate>Sun, 10 Jul 2022 21:58:14 GMT</pubDate>
+            <description><![CDATA[Assassin’s Creed Liberation delisted, unplayable even to owners starting Sept 1]]></description>
+        </item>
         <item>
             <title><![CDATA[固態硬盤在開機4萬小時後會失效（2021年）。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31687782</guid>
             <pubDate>Thu, 09 Jun 2022 22:29:42 GMT</pubDate>
             <description><![CDATA[Important PostgreSQL 14 update to avoid silent corruption of indexes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[始終擁有自己的平臺（2019年）
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31686615</link>
-            <guid>https://news.ycombinator.com/item?id=31686615</guid>
-            <pubDate>Thu, 09 Jun 2022 20:45:09 GMT</pubDate>
-            <description><![CDATA[Always Own Your Platform (2019)]]></description>
         </item>
     </channel>
 </rss>
