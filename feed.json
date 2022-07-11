@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32051703",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32051703",
+            "title": "数据显示，来自精英背景的人在学术界越来越占优势\n",
+            "summary": "People from elite backgrounds increasingly dominate academia, data shows",
+            "date_modified": "2022-07-11T03:00:26.000Z",
+            "author": {
+                "name": "pseudolus",
+                "url": "https://news.ycombinator.com/user?id=pseudolus"
+            },
+            "_original_headline": "People from elite backgrounds increasingly dominate academia, data shows",
+            "_original_url": "https://www.washingtonpost.com/business/2022/07/08/dept-of-data-academia-elite/",
+            "_sensitive": false,
+            "_score": 207
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32052669",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32052669",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.forbes.com/sites/abrambrown/2022/06/09/twitter-elon-musk-bots-data-firehose-api/",
             "_sensitive": false,
             "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31690452",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31690452",
-            "title": "Coinbase员工请愿要求撤换高管\n",
-            "summary": "Coinbase employees petition to remove execs",
-            "date_modified": "2022-06-10T05:37:29.000Z",
-            "author": {
-                "name": "shh-shhh",
-                "url": "https://news.ycombinator.com/user?id=shh-shhh"
-            },
-            "_original_headline": "Coinbase employees petition to remove execs",
-            "_original_url": "https://web.archive.org/web/20220609202836/https://mirror.xyz/0x58E3a8Bc8CBFC10AC2972Fb9d0cF359E21eae56b/ZIO--5ywx1z-aKs0KCQ2PeTNutVKune7zhA1D09R0q0",
-            "_sensitive": false,
-            "_score": 282
         }
     ]
 }
