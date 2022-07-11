@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32049469",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32049469",
+            "title": "使用火狐翻譯的設備上的瀏覽器翻譯\n",
+            "summary": "On-device browser translations with Firefox Translations",
+            "date_modified": "2022-07-10T21:53:13.000Z",
+            "author": {
+                "name": "zaik",
+                "url": "https://news.ycombinator.com/user?id=zaik"
+            },
+            "_original_headline": "On-device browser translations with Firefox Translations",
+            "_original_url": "https://www.ctrl.blog/entry/firefox-translations.html",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32049672",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32049672",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://news.ycombinator.com/item?id=31681234",
             "_sensitive": false,
             "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31689367",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31689367",
-            "title": "你需要知道什麼是右半平面的零點\n",
-            "summary": "You need to know what right-half-plane zeros are",
-            "date_modified": "2022-06-10T02:40:17.000Z",
-            "author": {
-                "name": "jbay808",
-                "url": "https://news.ycombinator.com/user?id=jbay808"
-            },
-            "_original_headline": "You need to know what right-half-plane zeros are",
-            "_original_url": "https://jbconsulting.substack.com/p/you-need-to-know-what-right-half",
-            "_sensitive": false,
-            "_score": 267
         }
     ]
 }
