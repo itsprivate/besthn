@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 11 Jul 2022 22:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 23:30:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[普拉諾人保持百視通的活力
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32041917</link>
+            <guid>https://news.ycombinator.com/item?id=32041917</guid>
+            <pubDate>Sun, 10 Jul 2022 04:40:53 GMT</pubDate>
+            <description><![CDATA[Plano man keeping Blockbuster alive]]></description>
+        </item>
         <item>
             <title><![CDATA[美國新聞》將哥倫比亞大學從其2022年的排名中撤下
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31706283</guid>
             <pubDate>Sat, 11 Jun 2022 17:31:03 GMT</pubDate>
             <description><![CDATA[AirPlay and Touch Bar = Network Disaster]]></description>
-        </item>
-        <item>
-            <title><![CDATA[小路的故事
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31701026</link>
-            <guid>https://news.ycombinator.com/item?id=31701026</guid>
-            <pubDate>Sat, 11 Jun 2022 01:05:24 GMT</pubDate>
-            <description><![CDATA[A Trail Tale]]></description>
         </item>
     </channel>
 </rss>
