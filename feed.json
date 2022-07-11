@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32061587",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32061587",
+            "title": "1.0欧元现在价值1.0美元\n",
+            "summary": "1.0 Euro is now worth $1.0 USD",
+            "date_modified": "2022-07-11T20:46:19.000Z",
+            "author": {
+                "name": "dezmou",
+                "url": "https://news.ycombinator.com/user?id=dezmou"
+            },
+            "_original_headline": "1.0 Euro is now worth $1.0 USD",
+            "_original_url": "https://www.xe.com/currencyconverter/convert/?Amount=1&From=EUR&To=USD",
+            "_sensitive": false,
+            "_score": 210
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32059109",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32059109",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.dns.toys/",
             "_sensitive": false,
             "_score": 290
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31702922",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31702922",
-            "title": "我拒绝了50万美元，惹怒了我的投资者，并关闭了我的创业公司（2016年）\n",
-            "summary": "I turned down $500k, pissed off my investors, and shut down my startup (2016)",
-            "date_modified": "2022-06-11T08:33:40.000Z",
-            "author": {
-                "name": "arunsivadasan",
-                "url": "https://news.ycombinator.com/user?id=arunsivadasan"
-            },
-            "_original_headline": "I turned down $500k, pissed off my investors, and shut down my startup (2016)",
-            "_original_url": "https://www.disruptingjapan.com/turned-500k-pissed-off-investors-shut-startup/",
-            "_sensitive": false,
-            "_score": 252
         }
     ]
 }

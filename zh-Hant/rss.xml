@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 11 Jul 2022 21:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 21:48:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[1.0歐元現在價值1.0美元
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32061587</link>
+            <guid>https://news.ycombinator.com/item?id=32061587</guid>
+            <pubDate>Mon, 11 Jul 2022 20:46:19 GMT</pubDate>
+            <description><![CDATA[1.0 Euro is now worth $1.0 USD]]></description>
+        </item>
         <item>
             <title><![CDATA[歐元跌至與美元平價附近
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31704789</guid>
             <pubDate>Sat, 11 Jun 2022 14:44:00 GMT</pubDate>
             <description><![CDATA[DNS Toys]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我拒絕了50萬美元，惹怒了我的投資者，並關閉了我的創業公司（2016年）
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31702922</link>
-            <guid>https://news.ycombinator.com/item?id=31702922</guid>
-            <pubDate>Sat, 11 Jun 2022 08:33:40 GMT</pubDate>
-            <description><![CDATA[I turned down $500k, pissed off my investors, and shut down my startup (2016)]]></description>
         </item>
     </channel>
 </rss>

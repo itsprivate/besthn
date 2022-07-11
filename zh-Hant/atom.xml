@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-11T21:27:57.557Z</updated>
+    <updated>2022-07-11T21:48:02.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[1.0歐元現在價值1.0美元
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32061587</id>
+        <link href="https://news.ycombinator.com/item?id=32061587"/>
+        <updated>2022-07-11T20:46:19.000Z</updated>
+        <summary type="html"><![CDATA[1.0 Euro is now worth $1.0 USD]]></summary>
+        <author>
+            <name>dezmou</name>
+            <uri>https://news.ycombinator.com/user?id=dezmou</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歐元跌至與美元平價附近
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>edent</name>
             <uri>https://news.ycombinator.com/user?id=edent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我拒絕了50萬美元，惹怒了我的投資者，並關閉了我的創業公司（2016年）
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31702922</id>
-        <link href="https://news.ycombinator.com/item?id=31702922"/>
-        <updated>2022-06-11T08:33:40.000Z</updated>
-        <summary type="html"><![CDATA[I turned down $500k, pissed off my investors, and shut down my startup (2016)]]></summary>
-        <author>
-            <name>arunsivadasan</name>
-            <uri>https://news.ycombinator.com/user?id=arunsivadasan</uri>
         </author>
     </entry>
 </feed>
