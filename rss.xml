@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 11 Jul 2022 18:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 20:01:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[告诉HN：我有一份完美的工作，为什么还不够呢？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32059666</link>
+            <guid>https://news.ycombinator.com/item?id=32059666</guid>
+            <pubDate>Mon, 11 Jul 2022 18:15:08 GMT</pubDate>
+            <description><![CDATA[Tell HN: I have the perfect job, why is it not enough?]]></description>
+        </item>
         <item>
             <title><![CDATA[用Common Lisp开发的游戏和游戏引擎--Kandria的技术概述
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31678045</guid>
             <pubDate>Thu, 09 Jun 2022 06:10:27 GMT</pubDate>
             <description><![CDATA[Xbox 360 Architecture]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告诉HN：谷歌不再在Play Store中列出应用程序的权限
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31698148</link>
-            <guid>https://news.ycombinator.com/item?id=31698148</guid>
-            <pubDate>Fri, 10 Jun 2022 19:03:54 GMT</pubDate>
-            <description><![CDATA[Tell HN: Google does not list application permissions in the Play Store any more]]></description>
         </item>
     </channel>
 </rss>
