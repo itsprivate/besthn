@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 12 Jul 2022 16:45:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 17:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[詹姆斯-韋伯的第一張圖片--全套高分辨率照片現已上線
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32071020</link>
+            <guid>https://news.ycombinator.com/item?id=32071020</guid>
+            <pubDate>Tue, 12 Jul 2022 15:03:49 GMT</pubDate>
+            <description><![CDATA[James Webb first images – complete set of high resolution shots now live]]></description>
+        </item>
         <item>
             <title><![CDATA[不加控制的AB測試破壞了它所接觸的一切
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31716350</guid>
             <pubDate>Sun, 12 Jun 2022 17:28:46 GMT</pubDate>
             <description><![CDATA[ACM Makes Thousands of Research Articles Freely Available; Opens First 50 Years]]></description>
-        </item>
-        <item>
-            <title><![CDATA[國家終於允許青少年睡懶覺了
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31711020</link>
-            <guid>https://news.ycombinator.com/item?id=31711020</guid>
-            <pubDate>Sun, 12 Jun 2022 03:20:21 GMT</pubDate>
-            <description><![CDATA[The State Finally Letting Teens Sleep In]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-12T16:45:47.065Z</updated>
+    <updated>2022-07-12T17:17:07.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[詹姆斯-韋伯的第一張圖片--全套高分辨率照片現已上線
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32071020</id>
+        <link href="https://news.ycombinator.com/item?id=32071020"/>
+        <updated>2022-07-12T15:03:49.000Z</updated>
+        <summary type="html"><![CDATA[James Webb first images – complete set of high resolution shots now live]]></summary>
+        <author>
+            <name>crhulls</name>
+            <uri>https://news.ycombinator.com/user?id=crhulls</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不加控制的AB測試破壞了它所接觸的一切
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kulandai</name>
             <uri>https://news.ycombinator.com/user?id=kulandai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[國家終於允許青少年睡懶覺了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31711020</id>
-        <link href="https://news.ycombinator.com/item?id=31711020"/>
-        <updated>2022-06-12T03:20:21.000Z</updated>
-        <summary type="html"><![CDATA[The State Finally Letting Teens Sleep In]]></summary>
-        <author>
-            <name>gadflyinyoureye</name>
-            <uri>https://news.ycombinator.com/user?id=gadflyinyoureye</uri>
         </author>
     </entry>
 </feed>
