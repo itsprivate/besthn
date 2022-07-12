@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32064324",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32064324",
+            "title": "百事可乐。令人惊叹的设计策略 (2008) [pdf]\n",
+            "summary": "Pepsi: Breathtaking Design Strategy (2008) [pdf]",
+            "date_modified": "2022-07-12T01:08:16.000Z",
+            "author": {
+                "name": "Jimmc414",
+                "url": "https://news.ycombinator.com/user?id=Jimmc414"
+            },
+            "_original_headline": "Pepsi: Breathtaking Design Strategy (2008) [pdf]",
+            "_original_url": "https://jimedwardsnrx.files.wordpress.com/2009/02/pepsi_gravitational_field.pdf",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32059566",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32059566",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://news.ycombinator.com/item?id=31706835",
             "_sensitive": false,
             "_score": 291
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31692267",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31692267",
-            "title": "在浏览器中玩转TailwindCSS\n",
-            "summary": "Play with TailwindCSS in the Browser",
-            "date_modified": "2022-06-10T10:43:28.000Z",
-            "author": {
-                "name": "Brajeshwar",
-                "url": "https://news.ycombinator.com/user?id=Brajeshwar"
-            },
-            "_original_headline": "Play with TailwindCSS in the Browser",
-            "_original_url": "https://play.tailwindcss.com",
-            "_sensitive": false,
-            "_score": 251
         }
     ]
 }

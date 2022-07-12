@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-12T04:21:11.641Z</updated>
+    <updated>2022-07-12T06:36:35.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[百事可乐。令人惊叹的设计策略 (2008) [pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32064324</id>
+        <link href="https://news.ycombinator.com/item?id=32064324"/>
+        <updated>2022-07-12T01:08:16.000Z</updated>
+        <summary type="html"><![CDATA[Pepsi: Breathtaking Design Strategy (2008) [pdf]]]></summary>
+        <author>
+            <name>Jimmc414</name>
+            <uri>https://news.ycombinator.com/user?id=Jimmc414</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Postgres全文搜索。数据库中的搜索引擎 (2021)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nborwankar</name>
             <uri>https://news.ycombinator.com/user?id=nborwankar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在浏览器中玩转TailwindCSS
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31692267</id>
-        <link href="https://news.ycombinator.com/item?id=31692267"/>
-        <updated>2022-06-10T10:43:28.000Z</updated>
-        <summary type="html"><![CDATA[Play with TailwindCSS in the Browser]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>
