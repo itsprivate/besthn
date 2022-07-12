@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 12 Jul 2022 21:31:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 22:48:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[重读。新的投机执行攻击让英特尔和AMD乱了阵脚
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32071949</link>
+            <guid>https://news.ycombinator.com/item?id=32071949</guid>
+            <pubDate>Tue, 12 Jul 2022 16:07:05 GMT</pubDate>
+            <description><![CDATA[Retbleed: New speculative execution attack sends Intel and AMD scrambling]]></description>
+        </item>
         <item>
             <title><![CDATA[ISO对土耳其的改名
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31725103</guid>
             <pubDate>Mon, 13 Jun 2022 13:15:40 GMT</pubDate>
             <description><![CDATA[Our Plans for Thunderbird on Android]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Binance上的比特币提款暂时暂停
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31724351</link>
-            <guid>https://news.ycombinator.com/item?id=31724351</guid>
-            <pubDate>Mon, 13 Jun 2022 12:12:54 GMT</pubDate>
-            <description><![CDATA[Temporary pause of Bitcoin withdrawals on Binance]]></description>
         </item>
     </channel>
 </rss>
