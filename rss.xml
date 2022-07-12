@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 12 Jul 2022 20:51:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 21:31:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[ISO对土耳其的改名
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32066453</link>
+            <guid>https://news.ycombinator.com/item?id=32066453</guid>
+            <pubDate>Tue, 12 Jul 2022 06:47:16 GMT</pubDate>
+            <description><![CDATA[ISO name change for Türkiye]]></description>
+        </item>
         <item>
             <title><![CDATA[将韦伯的图像与哈勃进行比较
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31724351</guid>
             <pubDate>Mon, 13 Jun 2022 12:12:54 GMT</pubDate>
             <description><![CDATA[Temporary pause of Bitcoin withdrawals on Binance]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tether又开始从美元贬值了
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31723438</link>
-            <guid>https://news.ycombinator.com/item?id=31723438</guid>
-            <pubDate>Mon, 13 Jun 2022 10:31:21 GMT</pubDate>
-            <description><![CDATA[Tether is starting to depeg from USD again]]></description>
         </item>
     </channel>
 </rss>

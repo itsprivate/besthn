@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-12T20:51:27.715Z</updated>
+    <updated>2022-07-12T21:31:17.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ISO对土耳其的改名
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32066453</id>
+        <link href="https://news.ycombinator.com/item?id=32066453"/>
+        <updated>2022-07-12T06:47:16.000Z</updated>
+        <summary type="html"><![CDATA[ISO name change for Türkiye]]></summary>
+        <author>
+            <name>Koffiepoeder</name>
+            <uri>https://news.ycombinator.com/user?id=Koffiepoeder</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[将韦伯的图像与哈勃进行比较
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tether又开始从美元贬值了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31723438</id>
-        <link href="https://news.ycombinator.com/item?id=31723438"/>
-        <updated>2022-06-13T10:31:21.000Z</updated>
-        <summary type="html"><![CDATA[Tether is starting to depeg from USD again]]></summary>
-        <author>
-            <name>rsp1984</name>
-            <uri>https://news.ycombinator.com/user?id=rsp1984</uri>
         </author>
     </entry>
 </feed>
