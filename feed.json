@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32067019",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32067019",
+            "title": "用Rust编程一个类似流氓的东西\n",
+            "summary": "Programming a Rogue-Like with Rust",
+            "date_modified": "2022-07-12T08:29:20.000Z",
+            "author": {
+                "name": "wsc981",
+                "url": "https://news.ycombinator.com/user?id=wsc981"
+            },
+            "_original_headline": "Programming a Rogue-Like with Rust",
+            "_original_url": "https://bfnightly.bracketproductions.com/rustbook/chapter_0.html",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32070067",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32070067",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html",
             "_sensitive": false,
             "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31715067",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31715067",
-            "title": "Lilium公司首次实现了全电动飞机的主翼过渡[视频]。\n",
-            "summary": "Lilium achieves first main wing transition for all-electric aircraft [video]",
-            "date_modified": "2022-06-12T15:10:35.000Z",
-            "author": {
-                "name": "tomohawk",
-                "url": "https://news.ycombinator.com/user?id=tomohawk"
-            },
-            "_original_headline": "Lilium achieves first main wing transition for all-electric aircraft [video]",
-            "_original_url": "https://www.youtube.com/watch?v=QNl0DDUnp0E",
-            "_sensitive": false,
-            "_score": 250
         }
     ]
 }
