@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32068164",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32068164",
+            "title": "我看到我的一個朋友通過購買廣告牌在Binance上抽出一個狗屎幣。\n",
+            "summary": "I watched a friend of mine pump a shitcoin on Binance by buying billboards",
+            "date_modified": "2022-07-12T11:06:46.000Z",
+            "author": {
+                "name": "mathgenius",
+                "url": "https://news.ycombinator.com/user?id=mathgenius"
+            },
+            "_original_headline": "I watched a friend of mine pump a shitcoin on Binance by buying billboards",
+            "_original_url": "https://twitter.com/FatManTerra/status/1546791981032030208",
+            "_sensitive": false,
+            "_score": 213
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32068479",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32068479",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.nerdfitness.com/blog/a-beginners-guide-to-handstands/",
             "_sensitive": false,
             "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31703874",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31703874",
-            "title": "Winamp皮膚博物館由一個SQLite3數據庫驅動，擁有1.2GB的元數據。\n",
-            "summary": "The Winamp Skin Museum is powered by a SQLite3 database with 1.2GB of metadata",
-            "date_modified": "2022-06-11T12:06:19.000Z",
-            "author": {
-                "name": "tosh",
-                "url": "https://news.ycombinator.com/user?id=tosh"
-            },
-            "_original_headline": "The Winamp Skin Museum is powered by a SQLite3 database with 1.2GB of metadata",
-            "_original_url": "https://twitter.com/captbaritone/status/1535471373191028737",
-            "_sensitive": false,
-            "_score": 253
         }
     ]
 }

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 12 Jul 2022 13:56:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 14:30:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我看到我的一個朋友通過購買廣告牌在Binance上抽出一個狗屎幣。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32068164</link>
+            <guid>https://news.ycombinator.com/item?id=32068164</guid>
+            <pubDate>Tue, 12 Jul 2022 11:06:46 GMT</pubDate>
+            <description><![CDATA[I watched a friend of mine pump a shitcoin on Binance by buying billboards]]></description>
+        </item>
         <item>
             <title><![CDATA[Uber洩密事件暴露了全球對工人的戰爭
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31708461</guid>
             <pubDate>Sat, 11 Jun 2022 21:12:23 GMT</pubDate>
             <description><![CDATA[How to Do a Handstand]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Winamp皮膚博物館由一個SQLite3數據庫驅動，擁有1.2GB的元數據。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31703874</link>
-            <guid>https://news.ycombinator.com/item?id=31703874</guid>
-            <pubDate>Sat, 11 Jun 2022 12:06:19 GMT</pubDate>
-            <description><![CDATA[The Winamp Skin Museum is powered by a SQLite3 database with 1.2GB of metadata]]></description>
         </item>
     </channel>
 </rss>
