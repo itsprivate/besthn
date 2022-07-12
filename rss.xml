@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 12 Jul 2022 17:58:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 19:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[给人以粪便作为一种服务
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32071349</link>
+            <guid>https://news.ycombinator.com/item?id=32071349</guid>
+            <pubDate>Tue, 12 Jul 2022 15:28:10 GMT</pubDate>
+            <description><![CDATA[Giving a shit as a service]]></description>
+        </item>
         <item>
             <title><![CDATA[告诉HN：我们正在努力将尾部调用纳入WebAssembly标准。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31711071</guid>
             <pubDate>Sun, 12 Jun 2022 03:26:54 GMT</pubDate>
             <description><![CDATA[Writing better by answering why, what, how]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fresh - 下一代网络框架
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31720110</link>
-            <guid>https://news.ycombinator.com/item?id=31720110</guid>
-            <pubDate>Mon, 13 Jun 2022 01:50:22 GMT</pubDate>
-            <description><![CDATA[Fresh – Next-gen web framework]]></description>
         </item>
     </channel>
 </rss>
