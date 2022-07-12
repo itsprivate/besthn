@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 12 Jul 2022 11:45:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 13:56:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Uber泄密事件暴露了全球对工人的战争
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32068479</link>
+            <guid>https://news.ycombinator.com/item?id=32068479</guid>
+            <pubDate>Tue, 12 Jul 2022 11:46:48 GMT</pubDate>
+            <description><![CDATA[The Uber leak exposes the global war on workers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[对UEFI安全启动生态系统进行负责任的管理
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32066919</link>
+            <guid>https://news.ycombinator.com/item?id=32066919</guid>
+            <pubDate>Tue, 12 Jul 2022 08:12:54 GMT</pubDate>
+            <description><![CDATA[Responsible stewardship of the UEFI Secure Boot ecosystem]]></description>
+        </item>
         <item>
             <title><![CDATA[莫-法拉赫爵士透露他曾用另一个孩子的名字被贩卖到英国
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31703874</guid>
             <pubDate>Sat, 11 Jun 2022 12:06:19 GMT</pubDate>
             <description><![CDATA[The Winamp Skin Museum is powered by a SQLite3 database with 1.2GB of metadata]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大科技公司如何运行科技项目以及Scrum的奇特缺席
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31705526</link>
-            <guid>https://news.ycombinator.com/item?id=31705526</guid>
-            <pubDate>Sat, 11 Jun 2022 16:05:13 GMT</pubDate>
-            <description><![CDATA[How big tech runs tech projects and the curious absence of Scrum]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你知道的最酷的网站是什么？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31708366</link>
-            <guid>https://news.ycombinator.com/item?id=31708366</guid>
-            <pubDate>Sat, 11 Jun 2022 21:02:16 GMT</pubDate>
-            <description><![CDATA[Ask HN: What's the coolest website you know?]]></description>
         </item>
     </channel>
 </rss>
