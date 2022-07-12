@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-12T15:53:35.424Z</updated>
+    <updated>2022-07-12T16:45:46.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不加控制的AB测试破坏了它所接触的一切
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32068647</id>
+        <link href="https://news.ycombinator.com/item?id=32068647"/>
+        <updated>2022-07-12T12:05:46.000Z</updated>
+        <summary type="html"><![CDATA[Unchecked AB testing destroys everything it touches]]></summary>
+        <author>
+            <name>pdxdmz</name>
+            <uri>https://news.ycombinator.com/user?id=pdxdmz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[詹姆斯-韦伯望远镜面临的深刻的数据挑战
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32067945</id>
+        <link href="https://news.ycombinator.com/item?id=32067945"/>
+        <updated>2022-07-12T10:38:03.000Z</updated>
+        <summary type="html"><![CDATA[The James Webb Telescope’s Profound Data Challenges]]></summary>
+        <author>
+            <name>MindGods</name>
+            <uri>https://news.ycombinator.com/user?id=MindGods</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Rust编程一个类似流氓的东西
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>gadflyinyoureye</name>
             <uri>https://news.ycombinator.com/user?id=gadflyinyoureye</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15.Ai
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31711118</id>
-        <link href="https://news.ycombinator.com/item?id=31711118"/>
-        <updated>2022-06-12T03:33:55.000Z</updated>
-        <summary type="html"><![CDATA[15.ai]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的UUID格式
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31715119</id>
-        <link href="https://news.ycombinator.com/item?id=31715119"/>
-        <updated>2022-06-12T15:17:32.000Z</updated>
-        <summary type="html"><![CDATA[New UUID Formats]]></summary>
-        <author>
-            <name>swyx</name>
-            <uri>https://news.ycombinator.com/user?id=swyx</uri>
         </author>
     </entry>
 </feed>
