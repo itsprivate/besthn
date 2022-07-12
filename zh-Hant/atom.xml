@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-12T17:17:07.576Z</updated>
+    <updated>2022-07-12T17:45:10.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基恩夢想中的基恩指揮官
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32065472</id>
+        <link href="https://news.ycombinator.com/item?id=32065472"/>
+        <updated>2022-07-12T04:03:32.000Z</updated>
+        <summary type="html"><![CDATA[Commander Keen in Keen Dreams]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[詹姆斯-韋伯的第一張圖片--全套高分辨率照片現已上線
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>belfalas</name>
             <uri>https://news.ycombinator.com/user?id=belfalas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACM免費提供數以千計的研究文章；開放第一個50年
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31716350</id>
-        <link href="https://news.ycombinator.com/item?id=31716350"/>
-        <updated>2022-06-12T17:28:46.000Z</updated>
-        <summary type="html"><![CDATA[ACM Makes Thousands of Research Articles Freely Available; Opens First 50 Years]]></summary>
-        <author>
-            <name>kulandai</name>
-            <uri>https://news.ycombinator.com/user?id=kulandai</uri>
         </author>
     </entry>
 </feed>
