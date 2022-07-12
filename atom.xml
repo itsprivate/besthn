@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-12T20:35:24.407Z</updated>
+    <updated>2022-07-12T20:51:27.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[将韦伯的图像与哈勃进行比较
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32074068</id>
+        <link href="https://news.ycombinator.com/item?id=32074068"/>
+        <updated>2022-07-12T18:41:32.000Z</updated>
+        <summary type="html"><![CDATA[Compare Webb's Images to Hubble]]></summary>
+        <author>
+            <name>hexomancer</name>
+            <uri>https://news.ycombinator.com/user?id=hexomancer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[调查发现，国家彩票将财富从贫困社区转移出去
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rsp1984</name>
             <uri>https://news.ycombinator.com/user?id=rsp1984</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[主要加密货币贷款机构Celsius因市场暴跌而冻结提款
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31723286</id>
-        <link href="https://news.ycombinator.com/item?id=31723286"/>
-        <updated>2022-06-13T10:09:45.000Z</updated>
-        <summary type="html"><![CDATA[Major crypto lender Celsius freezes withdrawals as markets tumble]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
