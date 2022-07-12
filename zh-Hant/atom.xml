@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-12T19:27:37.779Z</updated>
+    <updated>2022-07-12T19:45:04.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用二維碼的訪客WiFi
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32069926</id>
+        <link href="https://news.ycombinator.com/item?id=32069926"/>
+        <updated>2022-07-12T13:52:44.000Z</updated>
+        <summary type="html"><![CDATA[Guest WiFi using a QR code]]></summary>
+        <author>
+            <name>jgrahamc</name>
+            <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[給人以糞便作為一種服務
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>xbmcuser</name>
             <uri>https://news.ycombinator.com/user?id=xbmcuser</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過回答 "為什麼"、"是什麼"、"如何 "來更好地寫作
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31711071</id>
-        <link href="https://news.ycombinator.com/item?id=31711071"/>
-        <updated>2022-06-12T03:26:54.000Z</updated>
-        <summary type="html"><![CDATA[Writing better by answering why, what, how]]></summary>
-        <author>
-            <name>7d7n</name>
-            <uri>https://news.ycombinator.com/user?id=7d7n</uri>
         </author>
     </entry>
 </feed>
