@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-12T06:36:35.808Z</updated>
+    <updated>2022-07-12T11:45:15.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[莫-法拉赫爵士透露他曾用另一個孩子的名字被販賣到英國
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32063341</id>
+        <link href="https://news.ycombinator.com/item?id=32063341"/>
+        <updated>2022-07-11T23:08:13.000Z</updated>
+        <summary type="html"><![CDATA[Sir Mo Farah reveals he was trafficked into the UK using another child’s name]]></summary>
+        <author>
+            <name>nigerian1981</name>
+            <uri>https://news.ycombinator.com/user?id=nigerian1981</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[百事可樂。令人驚歎的設計策略 (2008) [pdf]
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lagrange77</name>
             <uri>https://news.ycombinator.com/user?id=lagrange77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[市場上是否有沒有 "智能電視 "功能的電視？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31706835</id>
-        <link href="https://news.ycombinator.com/item?id=31706835"/>
-        <updated>2022-06-11T18:28:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Is there a TV on the market without “Smart TV” features?]]></summary>
-        <author>
-            <name>nborwankar</name>
-            <uri>https://news.ycombinator.com/user?id=nborwankar</uri>
         </author>
     </entry>
 </feed>

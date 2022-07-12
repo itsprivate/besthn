@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32063341",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32063341",
+            "title": "莫-法拉赫爵士透露他曾用另一個孩子的名字被販賣到英國\n",
+            "summary": "Sir Mo Farah reveals he was trafficked into the UK using another child’s name",
+            "date_modified": "2022-07-11T23:08:13.000Z",
+            "author": {
+                "name": "nigerian1981",
+                "url": "https://news.ycombinator.com/user?id=nigerian1981"
+            },
+            "_original_headline": "Sir Mo Farah reveals he was trafficked into the UK using another child’s name",
+            "_original_url": "https://www.theguardian.com/sport/2022/jul/11/sir-mo-farah-i-was-brought-into-the-uk-illegally-using-another-childs-name",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32064324",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32064324",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://news.ycombinator.com/item?id=31708366",
             "_sensitive": false,
             "_score": 250
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31706835",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31706835",
-            "title": "市場上是否有沒有 \"智能電視 \"功能的電視？\n",
-            "summary": "Ask HN: Is there a TV on the market without “Smart TV” features?",
-            "date_modified": "2022-06-11T18:28:18.000Z",
-            "author": {
-                "name": "nborwankar",
-                "url": "https://news.ycombinator.com/user?id=nborwankar"
-            },
-            "_original_headline": "Ask HN: Is there a TV on the market without “Smart TV” features?",
-            "_original_url": "https://news.ycombinator.com/item?id=31706835",
-            "_sensitive": false,
-            "_score": 291
         }
     ]
 }
