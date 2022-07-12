@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 11 Jul 2022 23:59:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 02:41:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Lldap，一个简化的LDAP服务器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32053961</link>
+            <guid>https://news.ycombinator.com/item?id=32053961</guid>
+            <pubDate>Mon, 11 Jul 2022 09:29:18 GMT</pubDate>
+            <description><![CDATA[Show HN: Lldap, a Simplified LDAP Server]]></description>
+        </item>
         <item>
             <title><![CDATA[关于马铃薯饮食的思考
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31706955</guid>
             <pubDate>Sat, 11 Jun 2022 18:39:48 GMT</pubDate>
             <description><![CDATA[US moves closer to recalling Tesla’s self-driving software]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为加密货币辩护
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31684206</link>
-            <guid>https://news.ycombinator.com/item?id=31684206</guid>
-            <pubDate>Thu, 09 Jun 2022 17:33:07 GMT</pubDate>
-            <description><![CDATA[In defense of cryptocurrency]]></description>
         </item>
     </channel>
 </rss>

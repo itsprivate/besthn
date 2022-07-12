@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-11T23:59:39.353Z</updated>
+    <updated>2022-07-12T02:41:01.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lldap，一个简化的LDAP服务器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32053961</id>
+        <link href="https://news.ycombinator.com/item?id=32053961"/>
+        <updated>2022-07-11T09:29:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lldap, a Simplified LDAP Server]]></summary>
+        <author>
+            <name>nitnelave</name>
+            <uri>https://news.ycombinator.com/user?id=nitnelave</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于马铃薯饮食的思考
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>heavyset_go</name>
             <uri>https://news.ycombinator.com/user?id=heavyset_go</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为加密货币辩护
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31684206</id>
-        <link href="https://news.ycombinator.com/item?id=31684206"/>
-        <updated>2022-06-09T17:33:07.000Z</updated>
-        <summary type="html"><![CDATA[In defense of cryptocurrency]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
         </author>
     </entry>
 </feed>
