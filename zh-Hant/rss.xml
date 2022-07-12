@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 12 Jul 2022 14:30:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 15:34:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[多米諾公司花5040萬美元做電視廣告，吹噓10萬美元的捐款
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32070067</link>
+            <guid>https://news.ycombinator.com/item?id=32070067</guid>
+            <pubDate>Tue, 12 Jul 2022 14:00:18 GMT</pubDate>
+            <description><![CDATA[Domino's spent $50.4M on TV ads to brag about $100k donation]]></description>
+        </item>
+        <item>
+            <title><![CDATA[照片總是指著指針
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32069578</link>
+            <guid>https://news.ycombinator.com/item?id=32069578</guid>
+            <pubDate>Tue, 12 Jul 2022 13:27:23 GMT</pubDate>
+            <description><![CDATA[Photos Always Pointing at the Pointer]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在韓國，寶馬加熱座椅訂閱費用為每月18美元
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32065026</link>
+            <guid>https://news.ycombinator.com/item?id=32065026</guid>
+            <pubDate>Tue, 12 Jul 2022 02:54:04 GMT</pubDate>
+            <description><![CDATA[BMW heated seats subscription costs $18 per month in South Korea]]></description>
+        </item>
         <item>
             <title><![CDATA[我看到我的一個朋友通過購買廣告牌在Binance上抽出一個狗屎幣。
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31715067</guid>
             <pubDate>Sun, 12 Jun 2022 15:10:35 GMT</pubDate>
             <description><![CDATA[Lilium achieves first main wing transition for all-electric aircraft [video]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[瀏覽器擴展可以偽造你的位置數據以匹配你的VPN
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31710603</link>
-            <guid>https://news.ycombinator.com/item?id=31710603</guid>
-            <pubDate>Sun, 12 Jun 2022 02:10:42 GMT</pubDate>
-            <description><![CDATA[Show HN: Browser extension that spoofs your location data to match your VPN]]></description>
-        </item>
-        <item>
-            <title><![CDATA[目光短淺已經成為一種流行病
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31711990</link>
-            <guid>https://news.ycombinator.com/item?id=31711990</guid>
-            <pubDate>Sun, 12 Jun 2022 06:17:34 GMT</pubDate>
-            <description><![CDATA[Shortsightedness has become an epidemic]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何做倒立
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31708461</link>
-            <guid>https://news.ycombinator.com/item?id=31708461</guid>
-            <pubDate>Sat, 11 Jun 2022 21:12:23 GMT</pubDate>
-            <description><![CDATA[How to Do a Handstand]]></description>
         </item>
     </channel>
 </rss>

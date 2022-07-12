@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-12T14:30:27.638Z</updated>
+    <updated>2022-07-12T15:34:27.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[多米諾公司花5040萬美元做電視廣告，吹噓10萬美元的捐款
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32070067</id>
+        <link href="https://news.ycombinator.com/item?id=32070067"/>
+        <updated>2022-07-12T14:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Domino's spent $50.4M on TV ads to brag about $100k donation]]></summary>
+        <author>
+            <name>ushakov</name>
+            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[照片總是指著指針
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32069578</id>
+        <link href="https://news.ycombinator.com/item?id=32069578"/>
+        <updated>2022-07-12T13:27:23.000Z</updated>
+        <summary type="html"><![CDATA[Photos Always Pointing at the Pointer]]></summary>
+        <author>
+            <name>Gedxx</name>
+            <uri>https://news.ycombinator.com/user?id=Gedxx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在韓國，寶馬加熱座椅訂閱費用為每月18美元
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32065026</id>
+        <link href="https://news.ycombinator.com/item?id=32065026"/>
+        <updated>2022-07-12T02:54:04.000Z</updated>
+        <summary type="html"><![CDATA[BMW heated seats subscription costs $18 per month in South Korea]]></summary>
+        <author>
+            <name>ra7</name>
+            <uri>https://news.ycombinator.com/user?id=ra7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我看到我的一個朋友通過購買廣告牌在Binance上抽出一個狗屎幣。
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>tomohawk</name>
             <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瀏覽器擴展可以偽造你的位置數據以匹配你的VPN
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31710603</id>
-        <link href="https://news.ycombinator.com/item?id=31710603"/>
-        <updated>2022-06-12T02:10:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Browser extension that spoofs your location data to match your VPN]]></summary>
-        <author>
-            <name>z0ccc</name>
-            <uri>https://news.ycombinator.com/user?id=z0ccc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[目光短淺已經成為一種流行病
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31711990</id>
-        <link href="https://news.ycombinator.com/item?id=31711990"/>
-        <updated>2022-06-12T06:17:34.000Z</updated>
-        <summary type="html"><![CDATA[Shortsightedness has become an epidemic]]></summary>
-        <author>
-            <name>nilsbunger</name>
-            <uri>https://news.ycombinator.com/user?id=nilsbunger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何做倒立
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31708461</id>
-        <link href="https://news.ycombinator.com/item?id=31708461"/>
-        <updated>2022-06-11T21:12:23.000Z</updated>
-        <summary type="html"><![CDATA[How to Do a Handstand]]></summary>
-        <author>
-            <name>kaycebasques</name>
-            <uri>https://news.ycombinator.com/user?id=kaycebasques</uri>
         </author>
     </entry>
 </feed>
