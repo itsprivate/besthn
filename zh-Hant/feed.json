@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32067473",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32067473",
+            "title": "在PostgreSQL中列的順序確實很重要\n",
+            "summary": "Column order in PostgreSQL does matter",
+            "date_modified": "2022-07-12T09:24:18.000Z",
+            "author": {
+                "name": "todsacerdoti",
+                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
+            },
+            "_original_headline": "Column order in PostgreSQL does matter",
+            "_original_url": "https://www.cybertec-postgresql.com/en/column-order-in-postgresql-does-matter/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32079227",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32079227",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://news.ycombinator.com/item?id=31702594",
             "_sensitive": false,
             "_score": 229
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31701601",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31701601",
-            "title": "\"可接受的非烏托邦 \"的自我主權身份甚至可能嗎？\n",
-            "summary": "Is “acceptably non-dystopian” self-sovereign identity even possible?",
-            "date_modified": "2022-06-11T03:11:29.000Z",
-            "author": {
-                "name": "Liron",
-                "url": "https://news.ycombinator.com/user?id=Liron"
-            },
-            "_original_headline": "Is “acceptably non-dystopian” self-sovereign identity even possible?",
-            "_original_url": "https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/",
-            "_sensitive": false,
-            "_score": 237
         }
     ]
 }

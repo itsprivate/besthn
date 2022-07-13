@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 13 Jul 2022 14:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 14:30:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在PostgreSQL中列的順序確實很重要
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32067473</link>
+            <guid>https://news.ycombinator.com/item?id=32067473</guid>
+            <pubDate>Tue, 12 Jul 2022 09:24:18 GMT</pubDate>
+            <description><![CDATA[Column order in PostgreSQL does matter]]></description>
+        </item>
         <item>
             <title><![CDATA[反編譯器瀏覽器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31702594</guid>
             <pubDate>Sat, 11 Jun 2022 07:07:47 GMT</pubDate>
             <description><![CDATA[Tell HN: Bitwarden does not export attachments in backups]]></description>
-        </item>
-        <item>
-            <title><![CDATA["可接受的非烏托邦 "的自我主權身份甚至可能嗎？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31701601</link>
-            <guid>https://news.ycombinator.com/item?id=31701601</guid>
-            <pubDate>Sat, 11 Jun 2022 03:11:29 GMT</pubDate>
-            <description><![CDATA[Is “acceptably non-dystopian” self-sovereign identity even possible?]]></description>
         </item>
     </channel>
 </rss>
