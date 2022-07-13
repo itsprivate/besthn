@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-13T02:41:06.168Z</updated>
+    <updated>2022-07-13T06:37:24.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[這裡有人從事過Windows內核的工作嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32076677</id>
+        <link href="https://news.ycombinator.com/item?id=32076677"/>
+        <updated>2022-07-12T22:40:10.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Has anyone here worked on the Windows kernel?]]></summary>
+        <author>
+            <name>maybekerneldev</name>
+            <uri>https://news.ycombinator.com/user?id=maybekerneldev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我寫和賣短篇小說的經歷
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32075032</id>
+        <link href="https://news.ycombinator.com/item?id=32075032"/>
+        <updated>2022-07-12T20:13:19.000Z</updated>
+        <summary type="html"><![CDATA[My experience writing and selling a short story]]></summary>
+        <author>
+            <name>superamit</name>
+            <uri>https://news.ycombinator.com/user?id=superamit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[發表你的作品會增加你的運氣
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>c7DJTLrn</name>
             <uri>https://news.ycombinator.com/user?id=c7DJTLrn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弗洛普特龍3.0
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31729040</id>
-        <link href="https://news.ycombinator.com/item?id=31729040"/>
-        <updated>2022-06-13T17:59:10.000Z</updated>
-        <summary type="html"><![CDATA[The Floppotron 3.0]]></summary>
-        <author>
-            <name>perakojotgenije</name>
-            <uri>https://news.ycombinator.com/user?id=perakojotgenije</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LaMDA是沒有知覺的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31721584</id>
-        <link href="https://news.ycombinator.com/item?id=31721584"/>
-        <updated>2022-06-13T05:36:07.000Z</updated>
-        <summary type="html"><![CDATA[LaMDA is not sentient]]></summary>
-        <author>
-            <name>eatonphil</name>
-            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
         </author>
     </entry>
 </feed>

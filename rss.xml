@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 13 Jul 2022 02:41:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 06:37:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[这里有人从事过Windows内核的工作吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32076677</link>
+            <guid>https://news.ycombinator.com/item?id=32076677</guid>
+            <pubDate>Tue, 12 Jul 2022 22:40:10 GMT</pubDate>
+            <description><![CDATA[Ask HN: Has anyone here worked on the Windows kernel?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我写和卖短篇小说的经历
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32075032</link>
+            <guid>https://news.ycombinator.com/item?id=32075032</guid>
+            <pubDate>Tue, 12 Jul 2022 20:13:19 GMT</pubDate>
+            <description><![CDATA[My experience writing and selling a short story]]></description>
+        </item>
         <item>
             <title><![CDATA[发表你的作品会增加你的运气
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31696447</guid>
             <pubDate>Fri, 10 Jun 2022 16:39:51 GMT</pubDate>
             <description><![CDATA[Ask HN: How are you dealing with the M1/ARM migration?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[弗洛普特龙3.0
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31729040</link>
-            <guid>https://news.ycombinator.com/item?id=31729040</guid>
-            <pubDate>Mon, 13 Jun 2022 17:59:10 GMT</pubDate>
-            <description><![CDATA[The Floppotron 3.0]]></description>
-        </item>
-        <item>
-            <title><![CDATA[LaMDA是没有知觉的
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31721584</link>
-            <guid>https://news.ycombinator.com/item?id=31721584</guid>
-            <pubDate>Mon, 13 Jun 2022 05:36:07 GMT</pubDate>
-            <description><![CDATA[LaMDA is not sentient]]></description>
         </item>
     </channel>
 </rss>
