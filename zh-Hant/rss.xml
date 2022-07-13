@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 13 Jul 2022 16:50:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 17:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Vite 3.0
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32082284</link>
+            <guid>https://news.ycombinator.com/item?id=32082284</guid>
+            <pubDate>Wed, 13 Jul 2022 13:20:38 GMT</pubDate>
+            <description><![CDATA[Vite 3.0]]></description>
+        </item>
         <item>
             <title><![CDATA[亞馬遜承認未經同意向警方提供戒指錄像
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31719002</guid>
             <pubDate>Sun, 12 Jun 2022 22:51:04 GMT</pubDate>
             <description><![CDATA[Google Will Eat Itself (2005)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們正在逐步關閉Google Talk
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31717023</link>
-            <guid>https://news.ycombinator.com/item?id=31717023</guid>
-            <pubDate>Sun, 12 Jun 2022 18:37:20 GMT</pubDate>
-            <description><![CDATA[We’re winding down Google Talk]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-13T16:50:48.702Z</updated>
+    <updated>2022-07-13T17:20:24.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Vite 3.0
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32082284</id>
+        <link href="https://news.ycombinator.com/item?id=32082284"/>
+        <updated>2022-07-13T13:20:38.000Z</updated>
+        <summary type="html"><![CDATA[Vite 3.0]]></summary>
+        <author>
+            <name>web2033</name>
+            <uri>https://news.ycombinator.com/user?id=web2033</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亞馬遜承認未經同意向警方提供戒指錄像
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>slater</name>
             <uri>https://news.ycombinator.com/user?id=slater</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們正在逐步關閉Google Talk
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31717023</id>
-        <link href="https://news.ycombinator.com/item?id=31717023"/>
-        <updated>2022-06-12T18:37:20.000Z</updated>
-        <summary type="html"><![CDATA[We’re winding down Google Talk]]></summary>
-        <author>
-            <name>tech234a</name>
-            <uri>https://news.ycombinator.com/user?id=tech234a</uri>
         </author>
     </entry>
 </feed>
