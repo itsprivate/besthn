@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32080469",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32080469",
+            "title": "只需拖動方框就能刪除照片中不需要的物體\n",
+            "summary": "Show HN: Remove unwanted objects in photos simply by dragging boxes",
+            "date_modified": "2022-07-13T09:19:31.000Z",
+            "author": {
+                "name": "gc0119",
+                "url": "https://news.ycombinator.com/user?id=gc0119"
+            },
+            "_original_headline": "Show HN: Remove unwanted objects in photos simply by dragging boxes",
+            "_original_url": "https://cleanupphotos.com",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32081943",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32081943",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://devblogs.microsoft.com/oldnewthing/20201110-00/?p=104434",
             "_sensitive": false,
             "_score": 218
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31723751",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31723751",
-            "title": "Trustpilot如何敲詐企業\n",
-            "summary": "How Trustpilot Extorts Businesses",
-            "date_modified": "2022-06-13T11:09:08.000Z",
-            "author": {
-                "name": "czue",
-                "url": "https://news.ycombinator.com/user?id=czue"
-            },
-            "_original_headline": "How Trustpilot Extorts Businesses",
-            "_original_url": "https://medium.com/@ryanbadger/how-trustpilot-extorts-businesses-91ca4b6a6f62",
-            "_sensitive": false,
-            "_score": 251
         }
     ]
 }
