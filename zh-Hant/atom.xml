@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-13T23:00:49.236Z</updated>
+    <updated>2022-07-13T23:28:55.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我如何清潔我的眼鏡
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32083753</id>
+        <link href="https://news.ycombinator.com/item?id=32083753"/>
+        <updated>2022-07-13T15:08:23.000Z</updated>
+        <summary type="html"><![CDATA[How I clean my glasses]]></summary>
+        <author>
+            <name>ltratt</name>
+            <uri>https://news.ycombinator.com/user?id=ltratt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[供應鏈問題正在扼殺合成物公司
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ac2022</name>
             <uri>https://news.ycombinator.com/user?id=ac2022</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雞群的照片，由雞群拍攝
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31730604</id>
-        <link href="https://news.ycombinator.com/item?id=31730604"/>
-        <updated>2022-06-13T19:36:56.000Z</updated>
-        <summary type="html"><![CDATA[Photos of chickens, taken by chickens]]></summary>
-        <author>
-            <name>kapsteur</name>
-            <uri>https://news.ycombinator.com/user?id=kapsteur</uri>
         </author>
     </entry>
 </feed>

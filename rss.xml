@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 13 Jul 2022 23:00:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 23:28:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我如何清洁我的眼镜
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32083753</link>
+            <guid>https://news.ycombinator.com/item?id=32083753</guid>
+            <pubDate>Wed, 13 Jul 2022 15:08:23 GMT</pubDate>
+            <description><![CDATA[How I clean my glasses]]></description>
+        </item>
         <item>
             <title><![CDATA[供应链问题正在扼杀合成物公司
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31732048</guid>
             <pubDate>Mon, 13 Jun 2022 21:32:36 GMT</pubDate>
             <description><![CDATA[Thank HN: Five months ago, I was feeling like a loser, now I am opposite]]></description>
-        </item>
-        <item>
-            <title><![CDATA[鸡群的照片，由鸡群拍摄
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31730604</link>
-            <guid>https://news.ycombinator.com/item?id=31730604</guid>
-            <pubDate>Mon, 13 Jun 2022 19:36:56 GMT</pubDate>
-            <description><![CDATA[Photos of chickens, taken by chickens]]></description>
         </item>
     </channel>
 </rss>
