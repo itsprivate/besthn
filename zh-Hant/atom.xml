@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-13T21:33:54.661Z</updated>
+    <updated>2022-07-13T23:00:49.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[供應鏈問題正在扼殺合成物公司
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32086740</id>
+        <link href="https://news.ycombinator.com/item?id=32086740"/>
+        <updated>2022-07-13T18:21:23.000Z</updated>
+        <summary type="html"><![CDATA[Supply chain issues are killing synth companies]]></summary>
+        <author>
+            <name>anigbrowl</name>
+            <uri>https://news.ycombinator.com/user?id=anigbrowl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有人冒充我們進行招聘詐騙
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kapsteur</name>
             <uri>https://news.ycombinator.com/user?id=kapsteur</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼我們在Gitlab堅持使用Ruby on Rails？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31726825</id>
-        <link href="https://news.ycombinator.com/item?id=31726825"/>
-        <updated>2022-06-13T15:19:50.000Z</updated>
-        <summary type="html"><![CDATA[Why We’re Sticking with Ruby on Rails at Gitlab]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>

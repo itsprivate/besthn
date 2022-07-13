@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 13 Jul 2022 21:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 23:00:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[供应链问题正在扼杀合成物公司
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32086740</link>
+            <guid>https://news.ycombinator.com/item?id=32086740</guid>
+            <pubDate>Wed, 13 Jul 2022 18:21:23 GMT</pubDate>
+            <description><![CDATA[Supply chain issues are killing synth companies]]></description>
+        </item>
         <item>
             <title><![CDATA[有人冒充我们进行招聘诈骗
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31730604</guid>
             <pubDate>Mon, 13 Jun 2022 19:36:56 GMT</pubDate>
             <description><![CDATA[Photos of chickens, taken by chickens]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么我们在Gitlab坚持使用Ruby on Rails？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31726825</link>
-            <guid>https://news.ycombinator.com/item?id=31726825</guid>
-            <pubDate>Mon, 13 Jun 2022 15:19:50 GMT</pubDate>
-            <description><![CDATA[Why We’re Sticking with Ruby on Rails at Gitlab]]></description>
         </item>
     </channel>
 </rss>
