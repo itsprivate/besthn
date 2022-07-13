@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 13 Jul 2022 07:28:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 07:45:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我的名片上運行著Linux
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32077823</link>
+            <guid>https://news.ycombinator.com/item?id=32077823</guid>
+            <pubDate>Wed, 13 Jul 2022 01:03:51 GMT</pubDate>
+            <description><![CDATA[My business card runs Linux]]></description>
+        </item>
         <item>
             <title><![CDATA[斯里蘭卡正在發生一場教科書般的貨幣危機，由政策錯誤引發
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31697128</guid>
             <pubDate>Fri, 10 Jun 2022 17:35:29 GMT</pubDate>
             <description><![CDATA[Arduino raises $32M Series B round]]></description>
-        </item>
-        <item>
-            <title><![CDATA[讓人類在末世中更快地反彈起來
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31696658</link>
-            <guid>https://news.ycombinator.com/item?id=31696658</guid>
-            <pubDate>Fri, 10 Jun 2022 16:56:07 GMT</pubDate>
-            <description><![CDATA[Getting humanity to bounce back faster in a post-apocalyptic world]]></description>
         </item>
     </channel>
 </rss>

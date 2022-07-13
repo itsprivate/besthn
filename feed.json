@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32077823",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32077823",
+            "title": "我的名片上运行着Linux\n",
+            "summary": "My business card runs Linux",
+            "date_modified": "2022-07-13T01:03:51.000Z",
+            "author": {
+                "name": "pantalaimon",
+                "url": "https://news.ycombinator.com/user?id=pantalaimon"
+            },
+            "_original_headline": "My business card runs Linux",
+            "_original_url": "https://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard",
+            "_sensitive": false,
+            "_score": 208
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32077834",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32077834",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://blog.arduino.cc/2022/06/07/ready-to-transform-the-enterprise-world-we-are/",
             "_sensitive": false,
             "_score": 233
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31696658",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31696658",
-            "title": "让人类在末世中更快地反弹起来\n",
-            "summary": "Getting humanity to bounce back faster in a post-apocalyptic world",
-            "date_modified": "2022-06-10T16:56:07.000Z",
-            "author": {
-                "name": "robertwiblin",
-                "url": "https://news.ycombinator.com/user?id=robertwiblin"
-            },
-            "_original_headline": "Getting humanity to bounce back faster in a post-apocalyptic world",
-            "_original_url": "https://80000hours.org/podcast/episodes/lewis-dartnell-getting-humanity-to-bounce-back-faster/",
-            "_sensitive": false,
-            "_score": 247
         }
     ]
 }
