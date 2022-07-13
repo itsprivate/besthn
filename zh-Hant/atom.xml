@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-13T06:37:24.201Z</updated>
+    <updated>2022-07-13T07:28:03.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[斯里蘭卡正在發生一場教科書般的貨幣危機，由政策錯誤引發
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32077834</id>
+        <link href="https://news.ycombinator.com/item?id=32077834"/>
+        <updated>2022-07-13T01:06:56.000Z</updated>
+        <summary type="html"><![CDATA[Sri Lanka is having a textbook currency crisis, triggered by policy mistakes]]></summary>
+        <author>
+            <name>paulpauper</name>
+            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[這裡有人從事過Windows內核的工作嗎？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>robertwiblin</name>
             <uri>https://news.ycombinator.com/user?id=robertwiblin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是如何處理M1/ARM遷移問題的？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31696447</id>
-        <link href="https://news.ycombinator.com/item?id=31696447"/>
-        <updated>2022-06-10T16:39:51.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: How are you dealing with the M1/ARM migration?]]></summary>
-        <author>
-            <name>c7DJTLrn</name>
-            <uri>https://news.ycombinator.com/user?id=c7DJTLrn</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 13 Jul 2022 06:37:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 07:28:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[斯里蘭卡正在發生一場教科書般的貨幣危機，由政策錯誤引發
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32077834</link>
+            <guid>https://news.ycombinator.com/item?id=32077834</guid>
+            <pubDate>Wed, 13 Jul 2022 01:06:56 GMT</pubDate>
+            <description><![CDATA[Sri Lanka is having a textbook currency crisis, triggered by policy mistakes]]></description>
+        </item>
         <item>
             <title><![CDATA[這裡有人從事過Windows內核的工作嗎？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31696658</guid>
             <pubDate>Fri, 10 Jun 2022 16:56:07 GMT</pubDate>
             <description><![CDATA[Getting humanity to bounce back faster in a post-apocalyptic world]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你是如何處理M1/ARM遷移問題的？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31696447</link>
-            <guid>https://news.ycombinator.com/item?id=31696447</guid>
-            <pubDate>Fri, 10 Jun 2022 16:39:51 GMT</pubDate>
-            <description><![CDATA[Ask HN: How are you dealing with the M1/ARM migration?]]></description>
         </item>
     </channel>
 </rss>
