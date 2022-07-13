@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-13T18:36:36.535Z</updated>
+    <updated>2022-07-13T21:33:54.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有人冒充我们进行招聘诈骗
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32084617</id>
+        <link href="https://news.ycombinator.com/item?id=32084617"/>
+        <updated>2022-07-13T16:06:01.000Z</updated>
+        <summary type="html"><![CDATA[Someone is impersonating us in a recruiting scam]]></summary>
+        <author>
+            <name>jenthoven</name>
+            <uri>https://news.ycombinator.com/user?id=jenthoven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个地方选举的谷歌表格，它已经从谷歌驱动器中被删除了
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌的人工智能不懂餐厅菜单
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31713801</id>
-        <link href="https://news.ycombinator.com/item?id=31713801"/>
-        <updated>2022-06-12T11:49:02.000Z</updated>
-        <summary type="html"><![CDATA[Google's AI doesn't understand restaurant menus]]></summary>
-        <author>
-            <name>edent</name>
-            <uri>https://news.ycombinator.com/user?id=edent</uri>
         </author>
     </entry>
 </feed>
