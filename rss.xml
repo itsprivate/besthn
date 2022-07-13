@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 12 Jul 2022 22:48:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 02:41:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[发表你的作品会增加你的运气
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32071137</link>
+            <guid>https://news.ycombinator.com/item?id=32071137</guid>
+            <pubDate>Tue, 12 Jul 2022 15:12:41 GMT</pubDate>
+            <description><![CDATA[Publishing your work increases your luck]]></description>
+        </item>
         <item>
             <title><![CDATA[重读。新的投机执行攻击让英特尔和AMD乱了阵脚
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31721584</guid>
             <pubDate>Mon, 13 Jun 2022 05:36:07 GMT</pubDate>
             <description><![CDATA[LaMDA is not sentient]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们对安卓版雷鸟的计划
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31725103</link>
-            <guid>https://news.ycombinator.com/item?id=31725103</guid>
-            <pubDate>Mon, 13 Jun 2022 13:15:40 GMT</pubDate>
-            <description><![CDATA[Our Plans for Thunderbird on Android]]></description>
         </item>
     </channel>
 </rss>
