@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-13T15:37:20.859Z</updated>
+    <updated>2022-07-13T16:50:48.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亚马逊承认未经同意向警方提供戒指录像
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081900</id>
+        <link href="https://news.ycombinator.com/item?id=32081900"/>
+        <updated>2022-07-13T12:52:06.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Admits Giving Police Ring Footage Without Consent]]></summary>
+        <author>
+            <name>Pakdef</name>
+            <uri>https://news.ycombinator.com/user?id=Pakdef</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[统一公司与IronSource公司合并
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081051</id>
+        <link href="https://news.ycombinator.com/item?id=32081051"/>
+        <updated>2022-07-13T11:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Unity merges with IronSource]]></summary>
+        <author>
+            <name>Luc</name>
+            <uri>https://news.ycombinator.com/user?id=Luc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在网上卖洋葱 (2019)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32053044</id>
+        <link href="https://news.ycombinator.com/item?id=32053044"/>
+        <updated>2022-07-11T06:48:32.000Z</updated>
+        <summary type="html"><![CDATA[I Sell Onions on the Internet (2019)]]></summary>
+        <author>
+            <name>sylvain_kerkour</name>
+            <uri>https://news.ycombinator.com/user?id=sylvain_kerkour</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌放慢招聘速度，只招聘 "技术和关键角色"。
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>tech234a</name>
             <uri>https://news.ycombinator.com/user?id=tech234a</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[挑战。像素的完美设计
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31715995</id>
-        <link href="https://news.ycombinator.com/item?id=31715995"/>
-        <updated>2022-06-12T16:54:21.000Z</updated>
-        <summary type="html"><![CDATA[Challenge: Pixel perfect design]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宫崎骏和高畑勋的前吉卜力作品
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31715459</id>
-        <link href="https://news.ycombinator.com/item?id=31715459"/>
-        <updated>2022-06-12T15:56:27.000Z</updated>
-        <summary type="html"><![CDATA[The pre-Ghibli work of Hayao Miyazaki and Isao Takahata]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我正在从VS Code切换到VS Codium
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31713625</id>
-        <link href="https://news.ycombinator.com/item?id=31713625"/>
-        <updated>2022-06-12T11:13:43.000Z</updated>
-        <summary type="html"><![CDATA[I’m switching from VS Code to VS Codium]]></summary>
-        <author>
-            <name>rukshn</name>
-            <uri>https://news.ycombinator.com/user?id=rukshn</uri>
         </author>
     </entry>
 </feed>
