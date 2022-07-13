@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32081943",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32081943",
+            "title": "通貨膨脹調整後的股票圖表--實際總回報率\n",
+            "summary": "Show HN: Inflation-adjusted stock charts – Total Real Returns",
+            "date_modified": "2022-07-13T12:55:22.000Z",
+            "author": {
+                "name": "compumike",
+                "url": "https://news.ycombinator.com/user?id=compumike"
+            },
+            "_original_headline": "Show HN: Inflation-adjusted stock charts – Total Real Returns",
+            "_original_url": "https://totalrealreturns.com/",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32081808",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32081808",
+            "title": "我希望看到的六種編程語言\n",
+            "summary": "Six programming languages I’d like to see",
+            "date_modified": "2022-07-13T12:41:13.000Z",
+            "author": {
+                "name": "johndcook",
+                "url": "https://news.ycombinator.com/user?id=johndcook"
+            },
+            "_original_headline": "Six programming languages I’d like to see",
+            "_original_url": "https://buttondown.email/hillelwayne/archive/six-programming-languages-id-like-to-see/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32082284",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32082284",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://medium.com/@ryanbadger/how-trustpilot-extorts-businesses-91ca4b6a6f62",
             "_sensitive": false,
             "_score": 251
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31720277",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31720277",
-            "title": "加密貨幣平臺Celsius暫停提現\n",
-            "summary": "Crypto Platform Celsius Pauses Withdrawals",
-            "date_modified": "2022-06-13T02:17:54.000Z",
-            "author": {
-                "name": "xur17",
-                "url": "https://news.ycombinator.com/user?id=xur17"
-            },
-            "_original_headline": "Crypto Platform Celsius Pauses Withdrawals",
-            "_original_url": "https://blog.celsius.network/a-memo-to-the-celsius-community-59532a06ecc6",
-            "_sensitive": false,
-            "_score": 248
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31719002",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31719002",
-            "title": "谷歌會吃掉自己 (2005)\n",
-            "summary": "Google Will Eat Itself (2005)",
-            "date_modified": "2022-06-12T22:51:04.000Z",
-            "author": {
-                "name": "slater",
-                "url": "https://news.ycombinator.com/user?id=slater"
-            },
-            "_original_headline": "Google Will Eat Itself (2005)",
-            "_original_url": "https://www.gwei.org/index.php",
-            "_sensitive": false,
-            "_score": 203
         }
     ]
 }

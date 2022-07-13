@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-13T17:20:24.726Z</updated>
+    <updated>2022-07-13T17:47:20.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通货膨胀调整后的股票图表--实际总回报率
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081943</id>
+        <link href="https://news.ycombinator.com/item?id=32081943"/>
+        <updated>2022-07-13T12:55:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Inflation-adjusted stock charts – Total Real Returns]]></summary>
+        <author>
+            <name>compumike</name>
+            <uri>https://news.ycombinator.com/user?id=compumike</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我希望看到的六种编程语言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081808</id>
+        <link href="https://news.ycombinator.com/item?id=32081808"/>
+        <updated>2022-07-13T12:41:13.000Z</updated>
+        <summary type="html"><![CDATA[Six programming languages I’d like to see]]></summary>
+        <author>
+            <name>johndcook</name>
+            <uri>https://news.ycombinator.com/user?id=johndcook</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vite 3.0
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>czue</name>
             <uri>https://news.ycombinator.com/user?id=czue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密货币平台Celsius暂停提现
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31720277</id>
-        <link href="https://news.ycombinator.com/item?id=31720277"/>
-        <updated>2022-06-13T02:17:54.000Z</updated>
-        <summary type="html"><![CDATA[Crypto Platform Celsius Pauses Withdrawals]]></summary>
-        <author>
-            <name>xur17</name>
-            <uri>https://news.ycombinator.com/user?id=xur17</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌会吃掉自己 (2005)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31719002</id>
-        <link href="https://news.ycombinator.com/item?id=31719002"/>
-        <updated>2022-06-12T22:51:04.000Z</updated>
-        <summary type="html"><![CDATA[Google Will Eat Itself (2005)]]></summary>
-        <author>
-            <name>slater</name>
-            <uri>https://news.ycombinator.com/user?id=slater</uri>
         </author>
     </entry>
 </feed>
