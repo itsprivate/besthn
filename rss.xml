@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 13 Jul 2022 07:45:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 14:01:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[反编译器浏览器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32079227</link>
+            <guid>https://news.ycombinator.com/item?id=32079227</guid>
+            <pubDate>Wed, 13 Jul 2022 05:14:04 GMT</pubDate>
+            <description><![CDATA[Decompiler Explorer]]></description>
+        </item>
         <item>
             <title><![CDATA[我的名片上运行着Linux
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31701601</guid>
             <pubDate>Sat, 11 Jun 2022 03:11:29 GMT</pubDate>
             <description><![CDATA[Is “acceptably non-dystopian” self-sovereign identity even possible?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Arduino获得3200万美元的B轮融资
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31697128</link>
-            <guid>https://news.ycombinator.com/item?id=31697128</guid>
-            <pubDate>Fri, 10 Jun 2022 17:35:29 GMT</pubDate>
-            <description><![CDATA[Arduino raises $32M Series B round]]></description>
         </item>
     </channel>
 </rss>
