@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-13T18:01:14.900Z</updated>
+    <updated>2022-07-13T18:36:36.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个地方选举的谷歌表格，它已经从谷歌驱动器中被删除了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32084980</id>
+        <link href="https://news.ycombinator.com/item?id=32084980"/>
+        <updated>2022-07-13T16:31:05.000Z</updated>
+        <summary type="html"><![CDATA[I made a Google sheet of local elections and it's been removed from Google Drive]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[团队每天都在扼杀我的Mac
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32084023</id>
+        <link href="https://news.ycombinator.com/item?id=32084023"/>
+        <updated>2022-07-13T15:27:37.000Z</updated>
+        <summary type="html"><![CDATA[Teams is killing my Mac every day]]></summary>
+        <author>
+            <name>sogen</name>
+            <uri>https://news.ycombinator.com/user?id=sogen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轧制你自己的加密货币。从零开始构建AES所需的一切
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32078749</id>
+        <link href="https://news.ycombinator.com/item?id=32078749"/>
+        <updated>2022-07-13T03:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Rolling your own crypto: Everything you need to build AES from scratch]]></summary>
+        <author>
+            <name>prostoalex</name>
+            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[只需拖动方框就能删除照片中不需要的物体
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>edent</name>
             <uri>https://news.ycombinator.com/user?id=edent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联邦贸易委员会采取行动反对私募股权公司收购兽医诊所
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31728350</id>
-        <link href="https://news.ycombinator.com/item?id=31728350"/>
-        <updated>2022-06-13T17:07:04.000Z</updated>
-        <summary type="html"><![CDATA[FTC acts against private equity firm’s acquisition of veterinary clinics]]></summary>
-        <author>
-            <name>demail</name>
-            <uri>https://news.ycombinator.com/user?id=demail</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德州警方希望压制uvalde的监控录像
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31728241</id>
-        <link href="https://news.ycombinator.com/item?id=31728241"/>
-        <updated>2022-06-13T16:59:57.000Z</updated>
-        <summary type="html"><![CDATA[Texas police want uvalde bodycam footage suppressed]]></summary>
-        <author>
-            <name>camjohnson26</name>
-            <uri>https://news.ycombinator.com/user?id=camjohnson26</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个恶作剧的光标导致员工在开始前就被解雇了（2020年）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31727457</id>
-        <link href="https://news.ycombinator.com/item?id=31727457"/>
-        <updated>2022-06-13T16:08:48.000Z</updated>
-        <summary type="html"><![CDATA[A prank cursor resulted in an employee being fired before they started (2020)]]></summary>
-        <author>
-            <name>lazyjeff</name>
-            <uri>https://news.ycombinator.com/user?id=lazyjeff</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 13 Jul 2022 18:01:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 18:36:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一個地方選舉的谷歌表格，它已經從谷歌驅動器中被刪除了
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32084980</link>
+            <guid>https://news.ycombinator.com/item?id=32084980</guid>
+            <pubDate>Wed, 13 Jul 2022 16:31:05 GMT</pubDate>
+            <description><![CDATA[I made a Google sheet of local elections and it's been removed from Google Drive]]></description>
+        </item>
+        <item>
+            <title><![CDATA[團隊每天都在扼殺我的Mac
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32084023</link>
+            <guid>https://news.ycombinator.com/item?id=32084023</guid>
+            <pubDate>Wed, 13 Jul 2022 15:27:37 GMT</pubDate>
+            <description><![CDATA[Teams is killing my Mac every day]]></description>
+        </item>
+        <item>
+            <title><![CDATA[軋製你自己的加密貨幣。從零開始構建AES所需的一切
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32078749</link>
+            <guid>https://news.ycombinator.com/item?id=32078749</guid>
+            <pubDate>Wed, 13 Jul 2022 03:30:52 GMT</pubDate>
+            <description><![CDATA[Rolling your own crypto: Everything you need to build AES from scratch]]></description>
+        </item>
         <item>
             <title><![CDATA[只需拖動方框就能刪除照片中不需要的物體
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31713801</guid>
             <pubDate>Sun, 12 Jun 2022 11:49:02 GMT</pubDate>
             <description><![CDATA[Google's AI doesn't understand restaurant menus]]></description>
-        </item>
-        <item>
-            <title><![CDATA[聯邦貿易委員會採取行動反對私募股權公司收購獸醫診所
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31728350</link>
-            <guid>https://news.ycombinator.com/item?id=31728350</guid>
-            <pubDate>Mon, 13 Jun 2022 17:07:04 GMT</pubDate>
-            <description><![CDATA[FTC acts against private equity firm’s acquisition of veterinary clinics]]></description>
-        </item>
-        <item>
-            <title><![CDATA[德州警方希望壓制uvalde的監控錄像
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31728241</link>
-            <guid>https://news.ycombinator.com/item?id=31728241</guid>
-            <pubDate>Mon, 13 Jun 2022 16:59:57 GMT</pubDate>
-            <description><![CDATA[Texas police want uvalde bodycam footage suppressed]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個惡作劇的光標導致員工在開始前就被解僱了（2020年）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31727457</link>
-            <guid>https://news.ycombinator.com/item?id=31727457</guid>
-            <pubDate>Mon, 13 Jun 2022 16:08:48 GMT</pubDate>
-            <description><![CDATA[A prank cursor resulted in an employee being fired before they started (2020)]]></description>
         </item>
     </channel>
 </rss>
