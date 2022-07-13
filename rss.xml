@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 13 Jul 2022 14:30:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 14:59:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[6月通胀率上升9.1%，甚至超过预期
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32081779</link>
+            <guid>https://news.ycombinator.com/item?id=32081779</guid>
+            <pubDate>Wed, 13 Jul 2022 12:38:03 GMT</pubDate>
+            <description><![CDATA[Inflation rose 9.1% in June, even more than expected]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CP/M现在是开源的
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32080741</link>
+            <guid>https://news.ycombinator.com/item?id=32080741</guid>
+            <pubDate>Wed, 13 Jul 2022 10:12:15 GMT</pubDate>
+            <description><![CDATA[CP/M is open-source now]]></description>
+        </item>
+        <item>
+            <title><![CDATA[发酵辣椒 "开放酱"--我的最主要的 repo 中没有代码
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32079434</link>
+            <guid>https://news.ycombinator.com/item?id=32079434</guid>
+            <pubDate>Wed, 13 Jul 2022 05:57:06 GMT</pubDate>
+            <description><![CDATA[Fermented Chili “Open Sauce” – My most starred repo has no code in it]]></description>
+        </item>
         <item>
             <title><![CDATA[在PostgreSQL中列的顺序确实很重要
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31710562</guid>
             <pubDate>Sun, 12 Jun 2022 02:04:14 GMT</pubDate>
             <description><![CDATA[A new day for Insteon]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告诉HN：我的妻子被禁止使用WhatsApp，没有任何理由和追索权
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31707349</link>
-            <guid>https://news.ycombinator.com/item?id=31707349</guid>
-            <pubDate>Sat, 11 Jun 2022 19:17:28 GMT</pubDate>
-            <description><![CDATA[Tell HN: My wife was banned from WhatsApp without reason or recourse]]></description>
-        </item>
-        <item>
-            <title><![CDATA[允许你做的事情（2020年）
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31705542</link>
-            <guid>https://news.ycombinator.com/item?id=31705542</guid>
-            <pubDate>Sat, 11 Jun 2022 16:07:27 GMT</pubDate>
-            <description><![CDATA[Things you're allowed to do (2020)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告诉HN：Bitwarden不会在备份中导出附件
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31702594</link>
-            <guid>https://news.ycombinator.com/item?id=31702594</guid>
-            <pubDate>Sat, 11 Jun 2022 07:07:47 GMT</pubDate>
-            <description><![CDATA[Tell HN: Bitwarden does not export attachments in backups]]></description>
         </item>
     </channel>
 </rss>
