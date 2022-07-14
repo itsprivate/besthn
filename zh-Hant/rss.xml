@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 14 Jul 2022 10:01:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 11:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[DALLE-2的提示性工程指南
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32088718</link>
+            <guid>https://news.ycombinator.com/item?id=32088718</guid>
+            <pubDate>Wed, 13 Jul 2022 21:02:40 GMT</pubDate>
+            <description><![CDATA[A prompt engineering guide for DALLE-2]]></description>
+        </item>
         <item>
             <title><![CDATA[Niantic進行裁員，取消四款遊戲
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31715738</guid>
             <pubDate>Sun, 12 Jun 2022 16:27:48 GMT</pubDate>
             <description><![CDATA[System Preferences Reimagined on macOS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase宣佈裁員18%
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31738029</link>
-            <guid>https://news.ycombinator.com/item?id=31738029</guid>
-            <pubDate>Tue, 14 Jun 2022 12:13:53 GMT</pubDate>
-            <description><![CDATA[Coinbase Announces 18% Layoffs]]></description>
         </item>
     </channel>
 </rss>

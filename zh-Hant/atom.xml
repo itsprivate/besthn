@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-14T10:01:25.701Z</updated>
+    <updated>2022-07-14T11:25:28.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DALLE-2的提示性工程指南
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32088718</id>
+        <link href="https://news.ycombinator.com/item?id=32088718"/>
+        <updated>2022-07-13T21:02:40.000Z</updated>
+        <summary type="html"><![CDATA[A prompt engineering guide for DALLE-2]]></summary>
+        <author>
+            <name>keveman</name>
+            <uri>https://news.ycombinator.com/user?id=keveman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Niantic進行裁員，取消四款遊戲
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase宣佈裁員18%
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31738029</id>
-        <link href="https://news.ycombinator.com/item?id=31738029"/>
-        <updated>2022-06-14T12:13:53.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase Announces 18% Layoffs]]></summary>
-        <author>
-            <name>npalli</name>
-            <uri>https://news.ycombinator.com/user?id=npalli</uri>
         </author>
     </entry>
 </feed>
