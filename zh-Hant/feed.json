@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32089522",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32089522",
+            "title": "大眾汽車以200億美元的投資進入電池領域\n",
+            "summary": "Volkswagen enters battery business with $20B investment",
+            "date_modified": "2022-07-13T22:28:31.000Z",
+            "author": {
+                "name": "oblio",
+                "url": "https://news.ycombinator.com/user?id=oblio"
+            },
+            "_original_headline": "Volkswagen enters battery business with $20B investment",
+            "_original_url": "https://www.arenaev.com/vw_creates_new_company_and_enters_global_battery_business-news-461.php",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32091054",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32091054",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.science.org/content/article/mammals-can-breathe-through-their-intestines",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31724613",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31724613",
-            "title": "視覺化的數學為三維角色動畫提供動力\n",
-            "summary": "Show HN: Visualizing the math that powers 3D character animation",
-            "date_modified": "2022-06-13T12:37:18.000Z",
-            "author": {
-                "name": "diegomacario",
-                "url": "https://news.ycombinator.com/user?id=diegomacario"
-            },
-            "_original_headline": "Show HN: Visualizing the math that powers 3D character animation",
-            "_original_url": "https://diegomacario.github.io/Animation-Magic/public/index.html",
-            "_sensitive": false,
-            "_score": 204
         }
     ]
 }
