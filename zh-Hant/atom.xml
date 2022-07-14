@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-14T11:25:28.354Z</updated>
+    <updated>2022-07-14T13:01:06.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌30%的情感數據集被誤標了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32090389</id>
+        <link href="https://news.ycombinator.com/item?id=32090389"/>
+        <updated>2022-07-14T00:17:16.000Z</updated>
+        <summary type="html"><![CDATA[30% of Google's Emotions Dataset Is Mislabeled]]></summary>
+        <author>
+            <name>echen</name>
+            <uri>https://news.ycombinator.com/user?id=echen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DALLE-2的提示性工程指南
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在MacOS上重新設計系統偏好設置
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31715738</id>
-        <link href="https://news.ycombinator.com/item?id=31715738"/>
-        <updated>2022-06-12T16:27:48.000Z</updated>
-        <summary type="html"><![CDATA[System Preferences Reimagined on macOS]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
