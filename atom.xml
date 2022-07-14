@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-13T23:28:55.362Z</updated>
+    <updated>2022-07-14T00:00:03.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[多年来，我一直在我的API中滥用HTTP状态代码
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081470</id>
+        <link href="https://news.ycombinator.com/item?id=32081470"/>
+        <updated>2022-07-13T12:00:18.000Z</updated>
+        <summary type="html"><![CDATA[I've been abusing HTTP Status Codes in my APIs for years]]></summary>
+        <author>
+            <name>that_james</name>
+            <uri>https://news.ycombinator.com/user?id=that_james</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我如何清洁我的眼镜
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>barry-cotter</name>
             <uri>https://news.ycombinator.com/user?id=barry-cotter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[感谢HN：五个月前，我还觉得自己是个失败者，现在我反过来了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31732048</id>
-        <link href="https://news.ycombinator.com/item?id=31732048"/>
-        <updated>2022-06-13T21:32:36.000Z</updated>
-        <summary type="html"><![CDATA[Thank HN: Five months ago, I was feeling like a loser, now I am opposite]]></summary>
-        <author>
-            <name>ac2022</name>
-            <uri>https://news.ycombinator.com/user?id=ac2022</uri>
         </author>
     </entry>
 </feed>

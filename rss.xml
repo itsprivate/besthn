@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 13 Jul 2022 23:28:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 00:00:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[多年来，我一直在我的API中滥用HTTP状态代码
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32081470</link>
+            <guid>https://news.ycombinator.com/item?id=32081470</guid>
+            <pubDate>Wed, 13 Jul 2022 12:00:18 GMT</pubDate>
+            <description><![CDATA[I've been abusing HTTP Status Codes in my APIs for years]]></description>
+        </item>
         <item>
             <title><![CDATA[我如何清洁我的眼镜
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31732944</guid>
             <pubDate>Mon, 13 Jun 2022 23:19:42 GMT</pubDate>
             <description><![CDATA[Stanford’s war on social life]]></description>
-        </item>
-        <item>
-            <title><![CDATA[感谢HN：五个月前，我还觉得自己是个失败者，现在我反过来了
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31732048</link>
-            <guid>https://news.ycombinator.com/item?id=31732048</guid>
-            <pubDate>Mon, 13 Jun 2022 21:32:36 GMT</pubDate>
-            <description><![CDATA[Thank HN: Five months ago, I was feeling like a loser, now I am opposite]]></description>
         </item>
     </channel>
 </rss>
