@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32091054",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32091054",
+            "title": "薩斯喀徹溫省和安大略省將推出小型核反應堆\n",
+            "summary": "Saskatchewan, Ontario to roll out mini-nuclear reactors",
+            "date_modified": "2022-07-14T01:50:48.000Z",
+            "author": {
+                "name": "voisin",
+                "url": "https://news.ycombinator.com/user?id=voisin"
+            },
+            "_original_headline": "Saskatchewan, Ontario to roll out mini-nuclear reactors",
+            "_original_url": "https://www.westerninvestor.com/british-columbia/saskatchewan-ontario-to-roll-out-mini-nuclear-reactors-5568249",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32089964",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32089964",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://diegomacario.github.io/Animation-Magic/public/index.html",
             "_sensitive": false,
             "_score": 204
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31734057",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31734057",
-            "title": "亞馬遜在全國範圍內召集警察、解僱工人，試圖阻止工會的成立\n",
-            "summary": "Amazon calls cops, fires workers in attempts to stop unionization nationwide",
-            "date_modified": "2022-06-14T02:12:52.000Z",
-            "author": {
-                "name": "pseudolus",
-                "url": "https://news.ycombinator.com/user?id=pseudolus"
-            },
-            "_original_headline": "Amazon calls cops, fires workers in attempts to stop unionization nationwide",
-            "_original_url": "https://www.washingtonpost.com/technology/2022/06/13/amazon-union-retaliation-allegations/",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }

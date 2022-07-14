@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 14 Jul 2022 06:34:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 07:30:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[薩斯喀徹溫省和安大略省將推出小型核反應堆
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32091054</link>
+            <guid>https://news.ycombinator.com/item?id=32091054</guid>
+            <pubDate>Thu, 14 Jul 2022 01:50:48 GMT</pubDate>
+            <description><![CDATA[Saskatchewan, Ontario to roll out mini-nuclear reactors]]></description>
+        </item>
         <item>
             <title><![CDATA[睡眠負債的影響
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31724613</guid>
             <pubDate>Mon, 13 Jun 2022 12:37:18 GMT</pubDate>
             <description><![CDATA[Show HN: Visualizing the math that powers 3D character animation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亞馬遜在全國範圍內召集警察、解僱工人，試圖阻止工會的成立
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31734057</link>
-            <guid>https://news.ycombinator.com/item?id=31734057</guid>
-            <pubDate>Tue, 14 Jun 2022 02:12:52 GMT</pubDate>
-            <description><![CDATA[Amazon calls cops, fires workers in attempts to stop unionization nationwide]]></description>
         </item>
     </channel>
 </rss>
