@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 14 Jul 2022 00:00:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 02:44:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[安德烈-卡尔帕西离开特斯拉
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32089013</link>
+            <guid>https://news.ycombinator.com/item?id=32089013</guid>
+            <pubDate>Wed, 13 Jul 2022 21:32:30 GMT</pubDate>
+            <description><![CDATA[Andrej Karpathy leaves Tesla]]></description>
+        </item>
+        <item>
+            <title><![CDATA[PostgreSQL 14内部手册
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32088316</link>
+            <guid>https://news.ycombinator.com/item?id=32088316</guid>
+            <pubDate>Wed, 13 Jul 2022 20:26:44 GMT</pubDate>
+            <description><![CDATA[PostgreSQL 14 Internals Book]]></description>
+        </item>
         <item>
             <title><![CDATA[多年来，我一直在我的API中滥用HTTP状态代码
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31726472</guid>
             <pubDate>Mon, 13 Jun 2022 14:55:58 GMT</pubDate>
             <description><![CDATA[Show HN: Tuc – When cut doesn’t cut it]]></description>
-        </item>
-        <item>
-            <title><![CDATA[推动友谊的力量
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31713720</link>
-            <guid>https://news.ycombinator.com/item?id=31713720</guid>
-            <pubDate>Sun, 12 Jun 2022 11:31:37 GMT</pubDate>
-            <description><![CDATA[Forces that fuel friendship]]></description>
-        </item>
-        <item>
-            <title><![CDATA[斯坦福大学对社会生活的战争
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31732944</link>
-            <guid>https://news.ycombinator.com/item?id=31732944</guid>
-            <pubDate>Mon, 13 Jun 2022 23:19:42 GMT</pubDate>
-            <description><![CDATA[Stanford’s war on social life]]></description>
         </item>
     </channel>
 </rss>

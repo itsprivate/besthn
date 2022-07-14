@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-14T00:00:03.741Z</updated>
+    <updated>2022-07-14T02:44:01.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安德烈-卡爾帕西離開特斯拉
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32089013</id>
+        <link href="https://news.ycombinator.com/item?id=32089013"/>
+        <updated>2022-07-13T21:32:30.000Z</updated>
+        <summary type="html"><![CDATA[Andrej Karpathy leaves Tesla]]></summary>
+        <author>
+            <name>danols</name>
+            <uri>https://news.ycombinator.com/user?id=danols</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL 14內部手冊
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32088316</id>
+        <link href="https://news.ycombinator.com/item?id=32088316"/>
+        <updated>2022-07-13T20:26:44.000Z</updated>
+        <summary type="html"><![CDATA[PostgreSQL 14 Internals Book]]></summary>
+        <author>
+            <name>kelvich</name>
+            <uri>https://news.ycombinator.com/user?id=kelvich</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[多年來，我一直在我的API中濫用HTTP狀態代碼
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>riquito</name>
             <uri>https://news.ycombinator.com/user?id=riquito</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推動友誼的力量
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31713720</id>
-        <link href="https://news.ycombinator.com/item?id=31713720"/>
-        <updated>2022-06-12T11:31:37.000Z</updated>
-        <summary type="html"><![CDATA[Forces that fuel friendship]]></summary>
-        <author>
-            <name>throw0101c</name>
-            <uri>https://news.ycombinator.com/user?id=throw0101c</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯坦福大學對社會生活的戰爭
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31732944</id>
-        <link href="https://news.ycombinator.com/item?id=31732944"/>
-        <updated>2022-06-13T23:19:42.000Z</updated>
-        <summary type="html"><![CDATA[Stanford’s war on social life]]></summary>
-        <author>
-            <name>barry-cotter</name>
-            <uri>https://news.ycombinator.com/user?id=barry-cotter</uri>
         </author>
     </entry>
 </feed>
