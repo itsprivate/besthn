@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-14T17:24:55.397Z</updated>
+    <updated>2022-07-14T18:00:51.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Unity首席執行官說，不參與貨幣化的遊戲開發公司是 "他媽的白痴"。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32097752</id>
+        <link href="https://news.ycombinator.com/item?id=32097752"/>
+        <updated>2022-07-14T15:59:35.000Z</updated>
+        <summary type="html"><![CDATA[Gamedevs not baking in monetization are “fucking idiots”, says Unity CEO]]></summary>
+        <author>
+            <name>OskarS</name>
+            <uri>https://news.ycombinator.com/user?id=OskarS</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[曼哈頓租金首次突破5千美元門檻
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32094640</id>
+        <link href="https://news.ycombinator.com/item?id=32094640"/>
+        <updated>2022-07-14T11:45:06.000Z</updated>
+        <summary type="html"><![CDATA[Manhattan rents cross $5k threshold for first time]]></summary>
+        <author>
+            <name>rascul</name>
+            <uri>https://news.ycombinator.com/user?id=rascul</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界上最古老的樹仍然生長在挪威和瑞典邊境附近
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32092637</id>
+        <link href="https://news.ycombinator.com/item?id=32092637"/>
+        <updated>2022-07-14T06:16:37.000Z</updated>
+        <summary type="html"><![CDATA[World's oldest tree still growing near the Norwegian-Swedish border]]></summary>
+        <author>
+            <name>Manheim</name>
+            <uri>https://news.ycombinator.com/user?id=Manheim</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[統一公司正在與一家制作惡意軟件安裝程序的公司合併
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>shadowfacts</name>
             <uri>https://news.ycombinator.com/user?id=shadowfacts</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grafana發佈OnCall開源項目
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31740902</id>
-        <link href="https://news.ycombinator.com/item?id=31740902"/>
-        <updated>2022-06-14T15:28:25.000Z</updated>
-        <summary type="html"><![CDATA[Grafana releases OnCall open source project]]></summary>
-        <author>
-            <name>netingle</name>
-            <uri>https://news.ycombinator.com/user?id=netingle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM被勒令交出前CEO謀劃削減老員工的郵件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31740101</id>
-        <link href="https://news.ycombinator.com/item?id=31740101"/>
-        <updated>2022-06-14T14:31:43.000Z</updated>
-        <summary type="html"><![CDATA[IBM ordered to hand over ex-CEO emails plotting cuts in older workers]]></summary>
-        <author>
-            <name>LinuxBender</name>
-            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人員確認，日本小行星探測器發現23種氨基酸
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31737207</id>
-        <link href="https://news.ycombinator.com/item?id=31737207"/>
-        <updated>2022-06-14T11:04:16.000Z</updated>
-        <summary type="html"><![CDATA[Japan asteroid probe finds 23 amino acids, researchers confirm]]></summary>
-        <author>
-            <name>weare138</name>
-            <uri>https://news.ycombinator.com/user?id=weare138</uri>
         </author>
     </entry>
 </feed>
