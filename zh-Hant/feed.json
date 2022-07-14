@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32096371",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32096371",
+            "title": "統一公司正在與一家制作惡意軟件安裝程序的公司合併\n",
+            "summary": "Unity is merging with a company who made a malware installer",
+            "date_modified": "2022-07-14T14:17:50.000Z",
+            "author": {
+                "name": "doener",
+                "url": "https://news.ycombinator.com/user?id=doener"
+            },
+            "_original_headline": "Unity is merging with a company who made a malware installer",
+            "_original_url": "https://www.pcgamer.com/unity-is-merging-with-a-company-who-made-a-malware-installer/",
+            "_sensitive": false,
+            "_score": 211
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32091679",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32091679",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://asia.nikkei.com/Business/Science/Japan-asteroid-probe-finds-23-amino-acids-researchers-confirm",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31724942",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31724942",
-            "title": "我們永遠不會有足夠的軟件開發人員(2020年)\n",
-            "summary": "We will never have enough software developers (2020)",
-            "date_modified": "2022-06-13T13:02:31.000Z",
-            "author": {
-                "name": "mooreds",
-                "url": "https://news.ycombinator.com/user?id=mooreds"
-            },
-            "_original_headline": "We will never have enough software developers (2020)",
-            "_original_url": "https://whoisnnamdi.com/never-enough-developers/",
-            "_sensitive": false,
-            "_score": 215
         }
     ]
 }
