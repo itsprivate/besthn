@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32090255",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32090255",
+            "title": "Niantic進行裁員，取消四款遊戲\n",
+            "summary": "Niantic undergoes layoffs, cancels four games",
+            "date_modified": "2022-07-13T23:57:46.000Z",
+            "author": {
+                "name": "prostoalex",
+                "url": "https://news.ycombinator.com/user?id=prostoalex"
+            },
+            "_original_headline": "Niantic undergoes layoffs, cancels four games",
+            "_original_url": "https://www.ign.com/articles/niantic-undergoes-layoffs-cancels-four-games-pokemon-go",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32084850",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32084850",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://blog.coinbase.com/a-message-from-coinbase-ceo-and-cofounder-brian-armstrong-578d76eedb12",
             "_sensitive": false,
             "_score": 330
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31736919",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31736919",
-            "title": "蘇格蘭開始重新提出獨立申請\n",
-            "summary": "Scotland starts renewed case for independence",
-            "date_modified": "2022-06-14T10:29:36.000Z",
-            "author": {
-                "name": "binbag",
-                "url": "https://news.ycombinator.com/user?id=binbag"
-            },
-            "_original_headline": "Scotland starts renewed case for independence",
-            "_original_url": "https://www.gov.scot/publications/independence-modern-world-wealthier-happier-fairer-not-scotland/",
-            "_sensitive": false,
-            "_score": 230
         }
     ]
 }
