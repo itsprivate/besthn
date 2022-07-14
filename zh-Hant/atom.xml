@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-14T14:02:43.448Z</updated>
+    <updated>2022-07-14T14:31:04.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[女子被未經同意拍攝的病毒性TikTok "剝奪人性
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32094798</id>
+        <link href="https://news.ycombinator.com/item?id=32094798"/>
+        <updated>2022-07-14T12:03:14.000Z</updated>
+        <summary type="html"><![CDATA[Woman ‘dehumanised’ by viral TikTok filmed without her consent]]></summary>
+        <author>
+            <name>phs318u</name>
+            <uri>https://news.ycombinator.com/user?id=phs318u</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[瞭解金融犯罪需要閱讀的書籍
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>penguin_booze</name>
             <uri>https://news.ycombinator.com/user?id=penguin_booze</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火狐瀏覽器向全球所有用戶推出默認的總Cookie保護功能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31738975</id>
-        <link href="https://news.ycombinator.com/item?id=31738975"/>
-        <updated>2022-06-14T13:16:24.000Z</updated>
-        <summary type="html"><![CDATA[Firefox rolls out Total Cookie Protection by default to all users worldwide]]></summary>
-        <author>
-            <name>BoumTAC</name>
-            <uri>https://news.ycombinator.com/user?id=BoumTAC</uri>
         </author>
     </entry>
 </feed>

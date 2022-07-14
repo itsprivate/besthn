@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32094798",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32094798",
+            "title": "女子被未经同意拍摄的病毒性TikTok \"剥夺人性\n",
+            "summary": "Woman ‘dehumanised’ by viral TikTok filmed without her consent",
+            "date_modified": "2022-07-14T12:03:14.000Z",
+            "author": {
+                "name": "phs318u",
+                "url": "https://news.ycombinator.com/user?id=phs318u"
+            },
+            "_original_headline": "Woman ‘dehumanised’ by viral TikTok filmed without her consent",
+            "_original_url": "https://www.theguardian.com/technology/2022/jul/14/melbourne-woman-dehumanised-by-viral-tiktok-filmed-without-her-consent",
+            "_sensitive": false,
+            "_score": 251
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32091288",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32091288",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://gcc-newbies-guide.readthedocs.io/en/latest/diving-into-gcc-internals.html",
             "_sensitive": false,
             "_score": 201
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31738975",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31738975",
-            "title": "火狐浏览器向全球所有用户推出默认的总Cookie保护功能\n",
-            "summary": "Firefox rolls out Total Cookie Protection by default to all users worldwide",
-            "date_modified": "2022-06-14T13:16:24.000Z",
-            "author": {
-                "name": "BoumTAC",
-                "url": "https://news.ycombinator.com/user?id=BoumTAC"
-            },
-            "_original_headline": "Firefox rolls out Total Cookie Protection by default to all users worldwide",
-            "_original_url": "https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/",
-            "_sensitive": false,
-            "_score": 207
         }
     ]
 }
