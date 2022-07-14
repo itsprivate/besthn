@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-14T14:50:39.100Z</updated>
+    <updated>2022-07-14T15:38:30.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[元素（Matrix）增加了視頻/語音室
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32091679</id>
+        <link href="https://news.ycombinator.com/item?id=32091679"/>
+        <updated>2022-07-14T03:32:53.000Z</updated>
+        <summary type="html"><![CDATA[Element (Matrix) adds video/voice rooms]]></summary>
+        <author>
+            <name>jarbus</name>
+            <uri>https://news.ycombinator.com/user?id=jarbus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DNS Esoterica - 為什麼你不能挖掘瑞士？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人類的注意力已經成為一種商品
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31732930</id>
-        <link href="https://news.ycombinator.com/item?id=31732930"/>
-        <updated>2022-06-13T23:18:03.000Z</updated>
-        <summary type="html"><![CDATA[Human attention has become a commodity]]></summary>
-        <author>
-            <name>mebassett</name>
-            <uri>https://news.ycombinator.com/user?id=mebassett</uri>
         </author>
     </entry>
 </feed>
