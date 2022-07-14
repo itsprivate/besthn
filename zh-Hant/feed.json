@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32094693",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32094693",
+            "title": "預處理程序冰山備忘錄\n",
+            "summary": "The Preprocessor Iceberg Meme",
+            "date_modified": "2022-07-14T11:53:00.000Z",
+            "author": {
+                "name": "camel-cdr",
+                "url": "https://news.ycombinator.com/user?id=camel-cdr"
+            },
+            "_original_headline": "The Preprocessor Iceberg Meme",
+            "_original_url": "https://jadlevesque.github.io/PPMP-Iceberg/",
+            "_sensitive": false,
+            "_score": 206
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32095592",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32095592",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://observablehq.com/@joshpoll/vvt-gog",
             "_sensitive": false,
             "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31724224",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31724224",
-            "title": "Game Boy Advance上的Quake[視頻]。\n",
-            "summary": "Quake on the Game Boy Advance [video]",
-            "date_modified": "2022-06-13T12:01:36.000Z",
-            "author": {
-                "name": "turrini",
-                "url": "https://news.ycombinator.com/user?id=turrini"
-            },
-            "_original_headline": "Quake on the Game Boy Advance [video]",
-            "_original_url": "https://www.youtube.com/watch?v=R43k-p9XdIk",
-            "_sensitive": false,
-            "_score": 205
         }
     ]
 }

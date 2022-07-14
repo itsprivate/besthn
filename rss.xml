@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 14 Jul 2022 20:34:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 23:33:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[预处理程序冰山备忘录
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32094693</link>
+            <guid>https://news.ycombinator.com/item?id=32094693</guid>
+            <pubDate>Thu, 14 Jul 2022 11:53:00 GMT</pubDate>
+            <description><![CDATA[The Preprocessor Iceberg Meme]]></description>
+        </item>
         <item>
             <title><![CDATA[我为自己在网上会议中说得太多的时候做了一个应用程序
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31733365</guid>
             <pubDate>Tue, 14 Jun 2022 00:24:19 GMT</pubDate>
             <description><![CDATA[A Tiny Grammar of Graphics]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Game Boy Advance上的Quake[视频]。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31724224</link>
-            <guid>https://news.ycombinator.com/item?id=31724224</guid>
-            <pubDate>Mon, 13 Jun 2022 12:01:36 GMT</pubDate>
-            <description><![CDATA[Quake on the Game Boy Advance [video]]]></description>
         </item>
     </channel>
 </rss>
