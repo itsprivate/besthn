@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32096575",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32096575",
+            "title": "是時候在Godot中製作那個獨立的C#遊戲了\n",
+            "summary": "It’s time to make that indie C# game in Godot",
+            "date_modified": "2022-07-14T14:35:28.000Z",
+            "author": {
+                "name": "proxybop",
+                "url": "https://news.ycombinator.com/user?id=proxybop"
+            },
+            "_original_headline": "It’s time to make that indie C# game in Godot",
+            "_original_url": "https://jolexxa.medium.com/its-time-to-make-that-indie-c-game-in-godot-cea383151470",
+            "_sensitive": false,
+            "_score": 207
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32095502",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32095502",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/",
             "_sensitive": false,
             "_score": 209
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31720183",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31720183",
-            "title": "最後，沒有對抵押貸款支持的證券進行投標\n",
-            "summary": "Finally, no bid on mortgage-backed securities",
-            "date_modified": "2022-06-13T02:03:01.000Z",
-            "author": {
-                "name": "harambae",
-                "url": "https://news.ycombinator.com/user?id=harambae"
-            },
-            "_original_headline": "Finally, no bid on mortgage-backed securities",
-            "_original_url": "https://notoriousrob.com/2022/06/finally-no-bid-on-mbs/",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }
