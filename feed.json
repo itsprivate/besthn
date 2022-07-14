@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32091288",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32091288",
+            "title": "了解金融犯罪需要阅读的书籍\n",
+            "summary": "Books to read to understand financial crime",
+            "date_modified": "2022-07-14T02:24:17.000Z",
+            "author": {
+                "name": "pseudolus",
+                "url": "https://news.ycombinator.com/user?id=pseudolus"
+            },
+            "_original_headline": "Books to read to understand financial crime",
+            "_original_url": "https://www.economist.com/the-economist-reads/2022/07/11/the-best-books-to-read-to-understand-financial-crime",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32090389",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32090389",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/",
             "_sensitive": false,
             "_score": 207
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31718756",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31718756",
-            "title": "逆向工程 Skifree\n",
-            "summary": "Reverse engineering Skifree",
-            "date_modified": "2022-06-12T22:11:15.000Z",
-            "author": {
-                "name": "todsacerdoti",
-                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
-            },
-            "_original_headline": "Reverse engineering Skifree",
-            "_original_url": "https://twitter.com/Foone/status/1536053690368348160",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }
