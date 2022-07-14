@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32094645",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32094645",
+            "title": "DNS Esoterica - 為什麼你不能挖掘瑞士？\n",
+            "summary": "DNS Esoterica – Why you can't dig Switzerland",
+            "date_modified": "2022-07-14T11:45:33.000Z",
+            "author": {
+                "name": "edent",
+                "url": "https://news.ycombinator.com/user?id=edent"
+            },
+            "_original_headline": "DNS Esoterica – Why you can't dig Switzerland",
+            "_original_url": "https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/",
+            "_sensitive": false,
+            "_score": 222
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32094798",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32094798",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://mebassett.info/human-attention-commodity",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31731145",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31731145",
-            "title": "潛入GCC內部\n",
-            "summary": "Diving into GCC Internals",
-            "date_modified": "2022-06-13T20:12:51.000Z",
-            "author": {
-                "name": "penguin_booze",
-                "url": "https://news.ycombinator.com/user?id=penguin_booze"
-            },
-            "_original_headline": "Diving into GCC Internals",
-            "_original_url": "https://gcc-newbies-guide.readthedocs.io/en/latest/diving-into-gcc-internals.html",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }
