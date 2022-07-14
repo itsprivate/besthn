@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 14 Jul 2022 05:07:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 06:34:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[睡眠负债的影响
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32089964</link>
+            <guid>https://news.ycombinator.com/item?id=32089964</guid>
+            <pubDate>Wed, 13 Jul 2022 23:21:22 GMT</pubDate>
+            <description><![CDATA[The effects of sleep debt]]></description>
+        </item>
         <item>
             <title><![CDATA[尼康将停止生产单反相机并专注于无反光镜机型？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31734057</guid>
             <pubDate>Tue, 14 Jun 2022 02:12:52 GMT</pubDate>
             <description><![CDATA[Amazon calls cops, fires workers in attempts to stop unionization nationwide]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我的博客的20年
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31727464</link>
-            <guid>https://news.ycombinator.com/item?id=31727464</guid>
-            <pubDate>Mon, 13 Jun 2022 16:09:15 GMT</pubDate>
-            <description><![CDATA[Twenty years of my blog]]></description>
         </item>
     </channel>
 </rss>
