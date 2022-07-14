@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-14T19:26:40.653Z</updated>
+    <updated>2022-07-14T19:46:33.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個幽靈在困擾著統一代碼（2018）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32095502</id>
+        <link href="https://news.ycombinator.com/item?id=32095502"/>
+        <updated>2022-07-14T13:00:12.000Z</updated>
+        <summary type="html"><![CDATA[A Spectre Is Haunting Unicode (2018)]]></summary>
+        <author>
+            <name>EvanAnderson</name>
+            <uri>https://news.ycombinator.com/user?id=EvanAnderson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoDaddy鎖定了Chrome的衍生產品
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>harambae</name>
             <uri>https://news.ycombinator.com/user?id=harambae</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase解僱了約1100名員工
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31742590</id>
-        <link href="https://news.ycombinator.com/item?id=31742590"/>
-        <updated>2022-06-14T17:12:37.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase lays off around 1,100 employees]]></summary>
-        <author>
-            <name>kripy</name>
-            <uri>https://news.ycombinator.com/user?id=kripy</uri>
         </author>
     </entry>
 </feed>
