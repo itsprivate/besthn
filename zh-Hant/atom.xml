@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-14T18:00:51.682Z</updated>
+    <updated>2022-07-14T18:58:06.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[將OpenBSD Pledge()移植到Linux上
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32096801</id>
+        <link href="https://news.ycombinator.com/item?id=32096801"/>
+        <updated>2022-07-14T14:52:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Porting OpenBSD Pledge() to Linux]]></summary>
+        <author>
+            <name>jart</name>
+            <uri>https://news.ycombinator.com/user?id=jart</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unity首席執行官說，不參與貨幣化的遊戲開發公司是 "他媽的白痴"。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>arkadiyt</name>
             <uri>https://news.ycombinator.com/user?id=arkadiyt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clarus在macOS Ventura中迴歸家園
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31741589</id>
-        <link href="https://news.ycombinator.com/item?id=31741589"/>
-        <updated>2022-06-14T16:16:06.000Z</updated>
-        <summary type="html"><![CDATA[Clarus returns home in macOS Ventura]]></summary>
-        <author>
-            <name>shadowfacts</name>
-            <uri>https://news.ycombinator.com/user?id=shadowfacts</uri>
         </author>
     </entry>
 </feed>

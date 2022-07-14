@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32096801",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32096801",
+            "title": "將OpenBSD Pledge()移植到Linux上\n",
+            "summary": "Show HN: Porting OpenBSD Pledge() to Linux",
+            "date_modified": "2022-07-14T14:52:42.000Z",
+            "author": {
+                "name": "jart",
+                "url": "https://news.ycombinator.com/user?id=jart"
+            },
+            "_original_headline": "Show HN: Porting OpenBSD Pledge() to Linux",
+            "_original_url": "https://justine.lol/pledge/",
+            "_sensitive": false,
+            "_score": 222
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32097752",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32097752",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.hertzbleed.com/",
             "_sensitive": false,
             "_score": 278
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31741589",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31741589",
-            "title": "Clarus在macOS Ventura中迴歸家園\n",
-            "summary": "Clarus returns home in macOS Ventura",
-            "date_modified": "2022-06-14T16:16:06.000Z",
-            "author": {
-                "name": "shadowfacts",
-                "url": "https://news.ycombinator.com/user?id=shadowfacts"
-            },
-            "_original_headline": "Clarus returns home in macOS Ventura",
-            "_original_url": "https://shadowfacts.net/2022/clarus/",
-            "_sensitive": false,
-            "_score": 204
         }
     ]
 }
