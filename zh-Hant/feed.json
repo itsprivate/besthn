@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32100035",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32100035",
+            "title": "99行C語言中的Lisp以及如何自己寫一個[pdf]\n",
+            "summary": "Lisp in 99 lines of C and how to write one yourself [pdf]",
+            "date_modified": "2022-07-14T18:52:56.000Z",
+            "author": {
+                "name": "jstanley",
+                "url": "https://news.ycombinator.com/user?id=jstanley"
+            },
+            "_original_headline": "Lisp in 99 lines of C and how to write one yourself [pdf]",
+            "_original_url": "https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf",
+            "_sensitive": false,
+            "_score": 213
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32098112",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32098112",
+            "title": "Stripe將內部估值降低了28%。\n",
+            "summary": "Stripe cuts internal valuation by 28%",
+            "date_modified": "2022-07-14T16:25:29.000Z",
+            "author": {
+                "name": "nowherebeen",
+                "url": "https://news.ycombinator.com/user?id=nowherebeen"
+            },
+            "_original_headline": "Stripe cuts internal valuation by 28%",
+            "_original_url": "https://www.wsj.com/articles/stripe-cuts-internal-valuation-by-28-11657815625",
+            "_sensitive": false,
+            "_score": 209
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32093469",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32093469",
+            "title": "厄運黑客讓厄運在厄運中運行\n",
+            "summary": "Doom hacker gets Doom running in Doom",
+            "date_modified": "2022-07-14T08:25:49.000Z",
+            "author": {
+                "name": "doener",
+                "url": "https://news.ycombinator.com/user?id=doener"
+            },
+            "_original_headline": "Doom hacker gets Doom running in Doom",
+            "_original_url": "https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32094693",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32094693",
@@ -9561,54 +9609,6 @@
             "_original_url": "https://thoughtscollected.tech/posts/for-when-im-gone/",
             "_sensitive": false,
             "_score": 213
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31741021",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31741021",
-            "title": "休斯頓將2.5萬人從街頭搬到自己的家中\n",
-            "summary": "Houston moved 25k people from the streets into homes of their own",
-            "date_modified": "2022-06-14T15:35:30.000Z",
-            "author": {
-                "name": "js2",
-                "url": "https://news.ycombinator.com/user?id=js2"
-            },
-            "_original_headline": "Houston moved 25k people from the streets into homes of their own",
-            "_original_url": "https://www.nytimes.com/2022/06/14/headway/houston-homeless-people.html",
-            "_sensitive": false,
-            "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31746090",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31746090",
-            "title": "尋覓集群殺手Erlang的漏洞\n",
-            "summary": "The hunt for a cluster-killer Erlang bug",
-            "date_modified": "2022-06-14T21:05:45.000Z",
-            "author": {
-                "name": "eproxus",
-                "url": "https://news.ycombinator.com/user?id=eproxus"
-            },
-            "_original_headline": "The hunt for a cluster-killer Erlang bug",
-            "_original_url": "https://engineering.klarna.com/the-hunt-for-the-cluster-killer-erlang-bug-81dd0640aa81?gi=e3144c1fcf1b",
-            "_sensitive": false,
-            "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31733365",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31733365",
-            "title": "圖形的微小語法\n",
-            "summary": "A Tiny Grammar of Graphics",
-            "date_modified": "2022-06-14T00:24:19.000Z",
-            "author": {
-                "name": "pavpanchekha",
-                "url": "https://news.ycombinator.com/user?id=pavpanchekha"
-            },
-            "_original_headline": "A Tiny Grammar of Graphics",
-            "_original_url": "https://observablehq.com/@joshpoll/vvt-gog",
-            "_sensitive": false,
-            "_score": 202
         }
     ]
 }

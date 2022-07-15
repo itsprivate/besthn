@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 14 Jul 2022 23:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 06:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[99行C語言中的Lisp以及如何自己寫一個[pdf]
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32100035</link>
+            <guid>https://news.ycombinator.com/item?id=32100035</guid>
+            <pubDate>Thu, 14 Jul 2022 18:52:56 GMT</pubDate>
+            <description><![CDATA[Lisp in 99 lines of C and how to write one yourself [pdf]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Stripe將內部估值降低了28%。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32098112</link>
+            <guid>https://news.ycombinator.com/item?id=32098112</guid>
+            <pubDate>Thu, 14 Jul 2022 16:25:29 GMT</pubDate>
+            <description><![CDATA[Stripe cuts internal valuation by 28%]]></description>
+        </item>
+        <item>
+            <title><![CDATA[厄運黑客讓厄運在厄運中運行
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32093469</link>
+            <guid>https://news.ycombinator.com/item?id=32093469</guid>
+            <pubDate>Thu, 14 Jul 2022 08:25:49 GMT</pubDate>
+            <description><![CDATA[Doom hacker gets Doom running in Doom]]></description>
+        </item>
         <item>
             <title><![CDATA[預處理程序冰山備忘錄
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31748553</guid>
             <pubDate>Wed, 15 Jun 2022 02:43:23 GMT</pubDate>
             <description><![CDATA[Cheat sheet for if I'm gone]]></description>
-        </item>
-        <item>
-            <title><![CDATA[休斯頓將2.5萬人從街頭搬到自己的家中
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31741021</link>
-            <guid>https://news.ycombinator.com/item?id=31741021</guid>
-            <pubDate>Tue, 14 Jun 2022 15:35:30 GMT</pubDate>
-            <description><![CDATA[Houston moved 25k people from the streets into homes of their own]]></description>
-        </item>
-        <item>
-            <title><![CDATA[尋覓集群殺手Erlang的漏洞
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31746090</link>
-            <guid>https://news.ycombinator.com/item?id=31746090</guid>
-            <pubDate>Tue, 14 Jun 2022 21:05:45 GMT</pubDate>
-            <description><![CDATA[The hunt for a cluster-killer Erlang bug]]></description>
-        </item>
-        <item>
-            <title><![CDATA[圖形的微小語法
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31733365</link>
-            <guid>https://news.ycombinator.com/item?id=31733365</guid>
-            <pubDate>Tue, 14 Jun 2022 00:24:19 GMT</pubDate>
-            <description><![CDATA[A Tiny Grammar of Graphics]]></description>
         </item>
     </channel>
 </rss>

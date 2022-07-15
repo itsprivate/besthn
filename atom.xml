@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-14T23:33:54.964Z</updated>
+    <updated>2022-07-15T06:14:30.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[99行C语言中的Lisp以及如何自己写一个[pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32100035</id>
+        <link href="https://news.ycombinator.com/item?id=32100035"/>
+        <updated>2022-07-14T18:52:56.000Z</updated>
+        <summary type="html"><![CDATA[Lisp in 99 lines of C and how to write one yourself [pdf]]]></summary>
+        <author>
+            <name>jstanley</name>
+            <uri>https://news.ycombinator.com/user?id=jstanley</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stripe将内部估值降低了28%。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32098112</id>
+        <link href="https://news.ycombinator.com/item?id=32098112"/>
+        <updated>2022-07-14T16:25:29.000Z</updated>
+        <summary type="html"><![CDATA[Stripe cuts internal valuation by 28%]]></summary>
+        <author>
+            <name>nowherebeen</name>
+            <uri>https://news.ycombinator.com/user?id=nowherebeen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[厄运黑客让厄运在厄运中运行
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32093469</id>
+        <link href="https://news.ycombinator.com/item?id=32093469"/>
+        <updated>2022-07-14T08:25:49.000Z</updated>
+        <summary type="html"><![CDATA[Doom hacker gets Doom running in Doom]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[预处理程序冰山备忘录
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>protonbob</name>
             <uri>https://news.ycombinator.com/user?id=protonbob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[休斯顿将2.5万人从街头搬到自己的家中
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31741021</id>
-        <link href="https://news.ycombinator.com/item?id=31741021"/>
-        <updated>2022-06-14T15:35:30.000Z</updated>
-        <summary type="html"><![CDATA[Houston moved 25k people from the streets into homes of their own]]></summary>
-        <author>
-            <name>js2</name>
-            <uri>https://news.ycombinator.com/user?id=js2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻觅集群杀手Erlang的漏洞
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31746090</id>
-        <link href="https://news.ycombinator.com/item?id=31746090"/>
-        <updated>2022-06-14T21:05:45.000Z</updated>
-        <summary type="html"><![CDATA[The hunt for a cluster-killer Erlang bug]]></summary>
-        <author>
-            <name>eproxus</name>
-            <uri>https://news.ycombinator.com/user?id=eproxus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[图形的微小语法
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31733365</id>
-        <link href="https://news.ycombinator.com/item?id=31733365"/>
-        <updated>2022-06-14T00:24:19.000Z</updated>
-        <summary type="html"><![CDATA[A Tiny Grammar of Graphics]]></summary>
-        <author>
-            <name>pavpanchekha</name>
-            <uri>https://news.ycombinator.com/user?id=pavpanchekha</uri>
         </author>
     </entry>
 </feed>
