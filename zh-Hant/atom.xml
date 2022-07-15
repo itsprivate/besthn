@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-15T06:14:30.058Z</updated>
+    <updated>2022-07-15T06:36:17.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蔚來汽車承認資產負債表有12億美元的漏洞
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32101794</id>
+        <link href="https://news.ycombinator.com/item?id=32101794"/>
+        <updated>2022-07-14T21:41:44.000Z</updated>
+        <summary type="html"><![CDATA[Celsius acknowledges $1.2B hole in balance sheet]]></summary>
+        <author>
+            <name>T-A</name>
+            <uri>https://news.ycombinator.com/user?id=T-A</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[告訴HN：Upwork有一個冒名頂替的問題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32096656</id>
+        <link href="https://news.ycombinator.com/item?id=32096656"/>
+        <updated>2022-07-14T14:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Upwork has an impersonation problem]]></summary>
+        <author>
+            <name>aarbor989</name>
+            <uri>https://news.ycombinator.com/user?id=aarbor989</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[99行C語言中的Lisp以及如何自己寫一個[pdf]
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快速提示。啟用Sudo的Touch ID
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31750560</id>
-        <link href="https://news.ycombinator.com/item?id=31750560"/>
-        <updated>2022-06-15T08:48:42.000Z</updated>
-        <summary type="html"><![CDATA[Quick Tip: Enable Touch ID for Sudo]]></summary>
-        <author>
-            <name>polycaster</name>
-            <uri>https://news.ycombinator.com/user?id=polycaster</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果我不在了，就用小抄吧
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31748553</id>
-        <link href="https://news.ycombinator.com/item?id=31748553"/>
-        <updated>2022-06-15T02:43:23.000Z</updated>
-        <summary type="html"><![CDATA[Cheat sheet for if I'm gone]]></summary>
-        <author>
-            <name>protonbob</name>
-            <uri>https://news.ycombinator.com/user?id=protonbob</uri>
         </author>
     </entry>
 </feed>

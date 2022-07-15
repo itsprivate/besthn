@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 15 Jul 2022 06:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 06:36:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[蔚來汽車承認資產負債表有12億美元的漏洞
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32101794</link>
+            <guid>https://news.ycombinator.com/item?id=32101794</guid>
+            <pubDate>Thu, 14 Jul 2022 21:41:44 GMT</pubDate>
+            <description><![CDATA[Celsius acknowledges $1.2B hole in balance sheet]]></description>
+        </item>
+        <item>
+            <title><![CDATA[告訴HN：Upwork有一個冒名頂替的問題
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32096656</link>
+            <guid>https://news.ycombinator.com/item?id=32096656</guid>
+            <pubDate>Thu, 14 Jul 2022 14:42:00 GMT</pubDate>
+            <description><![CDATA[Tell HN: Upwork has an impersonation problem]]></description>
+        </item>
         <item>
             <title><![CDATA[99行C語言中的Lisp以及如何自己寫一個[pdf]
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31741421</guid>
             <pubDate>Tue, 14 Jun 2022 16:05:34 GMT</pubDate>
             <description><![CDATA[Apple and MLS to present all MLS matches for 10 years, beginning in 2023]]></description>
-        </item>
-        <item>
-            <title><![CDATA[快速提示。啟用Sudo的Touch ID
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31750560</link>
-            <guid>https://news.ycombinator.com/item?id=31750560</guid>
-            <pubDate>Wed, 15 Jun 2022 08:48:42 GMT</pubDate>
-            <description><![CDATA[Quick Tip: Enable Touch ID for Sudo]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果我不在了，就用小抄吧
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31748553</link>
-            <guid>https://news.ycombinator.com/item?id=31748553</guid>
-            <pubDate>Wed, 15 Jun 2022 02:43:23 GMT</pubDate>
-            <description><![CDATA[Cheat sheet for if I'm gone]]></description>
         </item>
     </channel>
 </rss>
