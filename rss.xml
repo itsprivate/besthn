@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 15 Jul 2022 13:02:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 14:03:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[从想法到1个月内有1千的收入
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32104669</link>
+            <guid>https://news.ycombinator.com/item?id=32104669</guid>
+            <pubDate>Fri, 15 Jul 2022 04:40:42 GMT</pubDate>
+            <description><![CDATA[From idea to 1k revenue in 1 month]]></description>
+        </item>
+        <item>
+            <title><![CDATA[焦土》。所有游戏之母
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32092060</link>
+            <guid>https://news.ycombinator.com/item?id=32092060</guid>
+            <pubDate>Thu, 14 Jul 2022 04:35:29 GMT</pubDate>
+            <description><![CDATA[Scorched Earth: The Mother of All Games]]></description>
+        </item>
         <item>
             <title><![CDATA[我今天如何体验网络
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31741018</guid>
             <pubDate>Tue, 14 Jun 2022 15:35:13 GMT</pubDate>
             <description><![CDATA[Show HN: My Side Project Rocks – Share and discover side projects]]></description>
-        </item>
-        <item>
-            <title><![CDATA[成长时期的价格冲击使生活中的消费出现疤痕
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31751298</link>
-            <guid>https://news.ycombinator.com/item?id=31751298</guid>
-            <pubDate>Wed, 15 Jun 2022 11:02:56 GMT</pubDate>
-            <description><![CDATA[Price shocks in formative years scar consumption for life]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美联储将利率提高0.75
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31756837</link>
-            <guid>https://news.ycombinator.com/item?id=31756837</guid>
-            <pubDate>Wed, 15 Jun 2022 18:04:55 GMT</pubDate>
-            <description><![CDATA[Federal Reserve raises rates by 0.75%]]></description>
         </item>
     </channel>
 </rss>
