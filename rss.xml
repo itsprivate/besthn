@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 15 Jul 2022 21:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 21:28:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[前100万个网站中的10%已经死亡
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32110573</link>
+            <guid>https://news.ycombinator.com/item?id=32110573</guid>
+            <pubDate>Fri, 15 Jul 2022 17:22:40 GMT</pubDate>
+            <description><![CDATA[10% of the top million sites are dead]]></description>
+        </item>
         <item>
             <title><![CDATA[陪审团认定前中情局程序员犯有泄露中情局黑客资料罪
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31753345</guid>
             <pubDate>Wed, 15 Jun 2022 14:23:52 GMT</pubDate>
             <description><![CDATA[Select ’Hello, World’: Serverless Postgres Built for the Cloud]]></description>
-        </item>
-        <item>
-            <title><![CDATA[平凡的家务事在游戏中大行其道
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31750979</link>
-            <guid>https://news.ycombinator.com/item?id=31750979</guid>
-            <pubDate>Wed, 15 Jun 2022 10:01:43 GMT</pubDate>
-            <description><![CDATA[Mundane chores are all the rage in gaming]]></description>
         </item>
     </channel>
 </rss>
