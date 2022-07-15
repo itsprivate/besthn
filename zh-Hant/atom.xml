@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-15T21:28:24.221Z</updated>
+    <updated>2022-07-15T22:59:53.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[毀滅公爵II》的視差滾動是如何工作的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32108503</id>
+        <link href="https://news.ycombinator.com/item?id=32108503"/>
+        <updated>2022-07-15T14:23:53.000Z</updated>
+        <summary type="html"><![CDATA[How Duke Nukem II’s parallax scrolling worked]]></summary>
+        <author>
+            <name>bpierre</name>
+            <uri>https://news.ycombinator.com/user?id=bpierre</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前100萬個網站中的10%已經死亡
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bryanrasmussen</name>
             <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[選擇 "你好，世界"。為雲計算打造的無服務器Postgres
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31753345</id>
-        <link href="https://news.ycombinator.com/item?id=31753345"/>
-        <updated>2022-06-15T14:23:52.000Z</updated>
-        <summary type="html"><![CDATA[Select ’Hello, World’: Serverless Postgres Built for the Cloud]]></summary>
-        <author>
-            <name>mxstbr</name>
-            <uri>https://news.ycombinator.com/user?id=mxstbr</uri>
         </author>
     </entry>
 </feed>
