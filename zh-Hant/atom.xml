@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-15T11:57:51.576Z</updated>
+    <updated>2022-07-15T13:02:27.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我今天如何體驗網絡
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32106136</id>
+        <link href="https://news.ycombinator.com/item?id=32106136"/>
+        <updated>2022-07-15T08:46:58.000Z</updated>
+        <summary type="html"><![CDATA[How I Experience the Web Today]]></summary>
+        <author>
+            <name>chynkm</name>
+            <uri>https://news.ycombinator.com/user?id=chynkm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dhall配置語言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32102203</id>
+        <link href="https://news.ycombinator.com/item?id=32102203"/>
+        <updated>2022-07-14T22:33:18.000Z</updated>
+        <summary type="html"><![CDATA[The Dhall Configuration Language]]></summary>
+        <author>
+            <name>bjourne</name>
+            <uri>https://news.ycombinator.com/user?id=bjourne</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我是如何去學習Rust的
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>no_wizard</name>
             <uri>https://news.ycombinator.com/user?id=no_wizard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為了綠色的未來，核電又回到了桌面上
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31753566</id>
-        <link href="https://news.ycombinator.com/item?id=31753566"/>
-        <updated>2022-06-15T14:38:52.000Z</updated>
-        <summary type="html"><![CDATA[Nuclear is back on the table for a green future]]></summary>
-        <author>
-            <name>gumby</name>
-            <uri>https://news.ycombinator.com/user?id=gumby</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OCaml 5.0 Alpha發佈
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31751017</id>
-        <link href="https://news.ycombinator.com/item?id=31751017"/>
-        <updated>2022-06-15T10:08:36.000Z</updated>
-        <summary type="html"><![CDATA[OCaml 5.0 Alpha Release]]></summary>
-        <author>
-            <name>momentoftop</name>
-            <uri>https://news.ycombinator.com/user?id=momentoftop</uri>
         </author>
     </entry>
 </feed>

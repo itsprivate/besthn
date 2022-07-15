@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 15 Jul 2022 11:57:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 13:02:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我今天如何體驗網絡
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32106136</link>
+            <guid>https://news.ycombinator.com/item?id=32106136</guid>
+            <pubDate>Fri, 15 Jul 2022 08:46:58 GMT</pubDate>
+            <description><![CDATA[How I Experience the Web Today]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Dhall配置語言
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32102203</link>
+            <guid>https://news.ycombinator.com/item?id=32102203</guid>
+            <pubDate>Thu, 14 Jul 2022 22:33:18 GMT</pubDate>
+            <description><![CDATA[The Dhall Configuration Language]]></description>
+        </item>
         <item>
             <title><![CDATA[我是如何去學習Rust的
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31756837</guid>
             <pubDate>Wed, 15 Jun 2022 18:04:55 GMT</pubDate>
             <description><![CDATA[Federal Reserve raises rates by 0.75%]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為了綠色的未來，核電又回到了桌面上
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31753566</link>
-            <guid>https://news.ycombinator.com/item?id=31753566</guid>
-            <pubDate>Wed, 15 Jun 2022 14:38:52 GMT</pubDate>
-            <description><![CDATA[Nuclear is back on the table for a green future]]></description>
-        </item>
-        <item>
-            <title><![CDATA[OCaml 5.0 Alpha發佈
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31751017</link>
-            <guid>https://news.ycombinator.com/item?id=31751017</guid>
-            <pubDate>Wed, 15 Jun 2022 10:08:36 GMT</pubDate>
-            <description><![CDATA[OCaml 5.0 Alpha Release]]></description>
         </item>
     </channel>
 </rss>
