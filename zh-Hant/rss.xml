@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 15 Jul 2022 15:02:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 19:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[庫爾特-馮內古特談故事的 "形狀"
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32087557</link>
+            <guid>https://news.ycombinator.com/item?id=32087557</guid>
+            <pubDate>Wed, 13 Jul 2022 19:20:37 GMT</pubDate>
+            <description><![CDATA[Kurt Vonnegut on the “shapes” of stories]]></description>
+        </item>
         <item>
             <title><![CDATA[編寫編譯器的教訓
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31735939</guid>
             <pubDate>Tue, 14 Jun 2022 07:46:30 GMT</pubDate>
             <description><![CDATA[Write documentation first, then build]]></description>
-        </item>
-        <item>
-            <title><![CDATA[參議員沃倫提議全面禁止出售位置和健康數據
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31755999</link>
-            <guid>https://news.ycombinator.com/item?id=31755999</guid>
-            <pubDate>Wed, 15 Jun 2022 17:07:36 GMT</pubDate>
-            <description><![CDATA[Senator Warren proposes sweeping ban on location and health data sales]]></description>
         </item>
     </channel>
 </rss>

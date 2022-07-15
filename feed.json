@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32087557",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32087557",
+            "title": "库尔特-冯内古特谈故事的 \"形状\"\n",
+            "summary": "Kurt Vonnegut on the “shapes” of stories",
+            "date_modified": "2022-07-13T19:20:37.000Z",
+            "author": {
+                "name": "aleyan",
+                "url": "https://news.ycombinator.com/user?id=aleyan"
+            },
+            "_original_headline": "Kurt Vonnegut on the “shapes” of stories",
+            "_original_url": "https://bigthink.com/high-culture/vonnegut-shapes/",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32100880",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32100880",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://reproof.app/blog/document-first-then-build",
             "_sensitive": false,
             "_score": 203
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31755999",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31755999",
-            "title": "参议员沃伦提议全面禁止出售位置和健康数据\n",
-            "summary": "Senator Warren proposes sweeping ban on location and health data sales",
-            "date_modified": "2022-06-15T17:07:36.000Z",
-            "author": {
-                "name": "mikece",
-                "url": "https://news.ycombinator.com/user?id=mikece"
-            },
-            "_original_headline": "Senator Warren proposes sweeping ban on location and health data sales",
-            "_original_url": "https://www.theverge.com/2022/6/15/23169718/roe-wade-elizabeth-warren-location-data-tracking-ban-sale-brokers",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }
