@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 15 Jul 2022 06:36:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 09:01:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[官員說，美國公共衛生機構沒有 "遵循科學"。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32099576</link>
+            <guid>https://news.ycombinator.com/item?id=32099576</guid>
+            <pubDate>Thu, 14 Jul 2022 18:14:47 GMT</pubDate>
+            <description><![CDATA[U.S. public health agencies aren't ‘following the science,’ officials say]]></description>
+        </item>
         <item>
             <title><![CDATA[蔚來汽車承認資產負債表有12億美元的漏洞
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31748248</guid>
             <pubDate>Wed, 15 Jun 2022 01:52:41 GMT</pubDate>
             <description><![CDATA[Palm OS developer releases source to classic games, 20 years after release]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蘋果和MLS將從2023年開始連續10年播放MLS的所有比賽
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31741421</link>
-            <guid>https://news.ycombinator.com/item?id=31741421</guid>
-            <pubDate>Tue, 14 Jun 2022 16:05:34 GMT</pubDate>
-            <description><![CDATA[Apple and MLS to present all MLS matches for 10 years, beginning in 2023]]></description>
         </item>
     </channel>
 </rss>
