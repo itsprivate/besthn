@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32106063",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32106063",
+            "title": "陪审团认定前中情局程序员犯有泄露中情局黑客资料罪\n",
+            "summary": "Jury finds former CIA programmer guilty of leaking CIA hacking materials",
+            "date_modified": "2022-07-15T08:34:45.000Z",
+            "author": {
+                "name": "Trouble_007",
+                "url": "https://news.ycombinator.com/user?id=Trouble_007"
+            },
+            "_original_headline": "Jury finds former CIA programmer guilty of leaking CIA hacking materials",
+            "_original_url": "https://thedissenter.org/jury-guilty-cia-programmer-schulte-vault-7-wikileaks/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32087557",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32087557",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.economist.com/culture/2022/06/14/mundane-chores-are-all-the-rage-in-gaming",
             "_sensitive": false,
             "_score": 205
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31735939",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31735939",
-            "title": "先写文档，再构建\n",
-            "summary": "Write documentation first, then build",
-            "date_modified": "2022-06-14T07:46:30.000Z",
-            "author": {
-                "name": "maguay",
-                "url": "https://news.ycombinator.com/user?id=maguay"
-            },
-            "_original_headline": "Write documentation first, then build",
-            "_original_url": "https://reproof.app/blog/document-first-then-build",
-            "_sensitive": false,
-            "_score": 203
         }
     ]
 }
