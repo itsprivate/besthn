@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 15 Jul 2022 09:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 10:02:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[搜索小屋
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32104609</link>
+            <guid>https://news.ycombinator.com/item?id=32104609</guid>
+            <pubDate>Fri, 15 Jul 2022 04:27:30 GMT</pubDate>
+            <description><![CDATA[SearchHut]]></description>
+        </item>
         <item>
             <title><![CDATA[Rocky Linux 9.0
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31753475</guid>
             <pubDate>Wed, 15 Jun 2022 14:33:31 GMT</pubDate>
             <description><![CDATA[Internet Explorer 11 has retired and is officially out of support]]></description>
-        </item>
-        <item>
-            <title><![CDATA[希格斯粒子出現十年後，物理學家面臨著找不到其他東西的噩夢
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31751242</link>
-            <guid>https://news.ycombinator.com/item?id=31751242</guid>
-            <pubDate>Wed, 15 Jun 2022 10:52:52 GMT</pubDate>
-            <description><![CDATA[Ten years after the Higgs, physicists face the nightmare of finding nothing else]]></description>
         </item>
     </channel>
 </rss>
