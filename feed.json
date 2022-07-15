@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32104764",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32104764",
+            "title": "我是如何去学习Rust的\n",
+            "summary": "How I went about learning Rust",
+            "date_modified": "2022-07-15T05:00:51.000Z",
+            "author": {
+                "name": "zdw",
+                "url": "https://news.ycombinator.com/user?id=zdw"
+            },
+            "_original_headline": "How I went about learning Rust",
+            "_original_url": "https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32081288",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32081288",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://discuss.ocaml.org/t/ocaml-5-0-zeroth-alpha-release/10026",
             "_sensitive": false,
             "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31755025",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31755025",
-            "title": "我做了一个网站，显示你可以匿名工作的工作岗位\n",
-            "summary": "Show HN: I made a site that shows jobs where you can work pseudonymously",
-            "date_modified": "2022-06-15T16:00:48.000Z",
-            "author": {
-                "name": "0xPersona",
-                "url": "https://news.ycombinator.com/user?id=0xPersona"
-            },
-            "_original_headline": "Show HN: I made a site that shows jobs where you can work pseudonymously",
-            "_original_url": "https://anonfriendly.com",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }

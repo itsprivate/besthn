@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-15T10:36:02.204Z</updated>
+    <updated>2022-07-15T11:57:51.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我是如何去學習Rust的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32104764</id>
+        <link href="https://news.ycombinator.com/item?id=32104764"/>
+        <updated>2022-07-15T05:00:51.000Z</updated>
+        <summary type="html"><![CDATA[How I went about learning Rust]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我希望得到的教訓 (1996)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>momentoftop</name>
             <uri>https://news.ycombinator.com/user?id=momentoftop</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個網站，顯示你可以匿名工作的工作崗位
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31755025</id>
-        <link href="https://news.ycombinator.com/item?id=31755025"/>
-        <updated>2022-06-15T16:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a site that shows jobs where you can work pseudonymously]]></summary>
-        <author>
-            <name>0xPersona</name>
-            <uri>https://news.ycombinator.com/user?id=0xPersona</uri>
         </author>
     </entry>
 </feed>

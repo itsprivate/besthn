@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 15 Jul 2022 10:36:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 11:57:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我是如何去学习Rust的
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32104764</link>
+            <guid>https://news.ycombinator.com/item?id=32104764</guid>
+            <pubDate>Fri, 15 Jul 2022 05:00:51 GMT</pubDate>
+            <description><![CDATA[How I went about learning Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[我希望得到的教训 (1996)
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31751017</guid>
             <pubDate>Wed, 15 Jun 2022 10:08:36 GMT</pubDate>
             <description><![CDATA[OCaml 5.0 Alpha Release]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一个网站，显示你可以匿名工作的工作岗位
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31755025</link>
-            <guid>https://news.ycombinator.com/item?id=31755025</guid>
-            <pubDate>Wed, 15 Jun 2022 16:00:48 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a site that shows jobs where you can work pseudonymously]]></description>
         </item>
     </channel>
 </rss>
