@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-15T10:02:43.585Z</updated>
+    <updated>2022-07-15T10:36:02.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我希望得到的教訓 (1996)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081288</id>
+        <link href="https://news.ycombinator.com/item?id=32081288"/>
+        <updated>2022-07-13T11:37:14.000Z</updated>
+        <summary type="html"><![CDATA[Lessons I wish I had been taught (1996)]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[搜索小屋
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>0xPersona</name>
             <uri>https://news.ycombinator.com/user?id=0xPersona</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Internet Explorer 11已經退役，正式停止支持
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31753475</id>
-        <link href="https://news.ycombinator.com/item?id=31753475"/>
-        <updated>2022-06-15T14:33:31.000Z</updated>
-        <summary type="html"><![CDATA[Internet Explorer 11 has retired and is officially out of support]]></summary>
-        <author>
-            <name>alexobenauer</name>
-            <uri>https://news.ycombinator.com/user?id=alexobenauer</uri>
         </author>
     </entry>
 </feed>

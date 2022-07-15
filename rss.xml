@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 15 Jul 2022 10:02:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 10:36:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我希望得到的教训 (1996)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32081288</link>
+            <guid>https://news.ycombinator.com/item?id=32081288</guid>
+            <pubDate>Wed, 13 Jul 2022 11:37:14 GMT</pubDate>
+            <description><![CDATA[Lessons I wish I had been taught (1996)]]></description>
+        </item>
         <item>
             <title><![CDATA[搜索小屋
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31755025</guid>
             <pubDate>Wed, 15 Jun 2022 16:00:48 GMT</pubDate>
             <description><![CDATA[Show HN: I made a site that shows jobs where you can work pseudonymously]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Internet Explorer 11已经退役，正式停止支持
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31753475</link>
-            <guid>https://news.ycombinator.com/item?id=31753475</guid>
-            <pubDate>Wed, 15 Jun 2022 14:33:31 GMT</pubDate>
-            <description><![CDATA[Internet Explorer 11 has retired and is officially out of support]]></description>
         </item>
     </channel>
 </rss>
