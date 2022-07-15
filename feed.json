@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32106126",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32106126",
+            "title": "tere - 一个更快替代cd+ls的方法\n",
+            "summary": "Show HN: tere – A Faster Alternative to cd+ls",
+            "date_modified": "2022-07-15T08:45:42.000Z",
+            "author": {
+                "name": "mgunyho",
+                "url": "https://news.ycombinator.com/user?id=mgunyho"
+            },
+            "_original_headline": "Show HN: tere – A Faster Alternative to cd+ls",
+            "_original_url": "https://github.com/mgunyho/tere",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32104669",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32104669",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.eetimes.com/purdue-starts-comprehensive-semiconductor-degree-programs-in-u-s/",
             "_sensitive": false,
             "_score": 208
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31741018",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31741018",
-            "title": "我的副业摇滚 - 分享和发现副业项目\n",
-            "summary": "Show HN: My Side Project Rocks – Share and discover side projects",
-            "date_modified": "2022-06-14T15:35:13.000Z",
-            "author": {
-                "name": "scastiel",
-                "url": "https://news.ycombinator.com/user?id=scastiel"
-            },
-            "_original_headline": "Show HN: My Side Project Rocks – Share and discover side projects",
-            "_original_url": "https://mysideproject.rocks/",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }
