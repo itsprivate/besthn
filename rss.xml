@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 15 Jul 2022 14:51:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 15:02:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[编写编译器的教训
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32100880</link>
+            <guid>https://news.ycombinator.com/item?id=32100880</guid>
+            <pubDate>Thu, 14 Jul 2022 20:09:36 GMT</pubDate>
+            <description><![CDATA[Lessons from Writing a Compiler]]></description>
+        </item>
         <item>
             <title><![CDATA[tere - 一个更快替代cd+ls的方法
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31755999</guid>
             <pubDate>Wed, 15 Jun 2022 17:07:36 GMT</pubDate>
             <description><![CDATA[Senator Warren proposes sweeping ban on location and health data sales]]></description>
-        </item>
-        <item>
-            <title><![CDATA[普渡大学在美国启动综合半导体学位课程
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31756704</link>
-            <guid>https://news.ycombinator.com/item?id=31756704</guid>
-            <pubDate>Wed, 15 Jun 2022 17:56:03 GMT</pubDate>
-            <description><![CDATA[Purdue Starts Comprehensive Semiconductor Degree Programs in U.S.]]></description>
         </item>
     </channel>
 </rss>

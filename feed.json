@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32100880",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32100880",
+            "title": "编写编译器的教训\n",
+            "summary": "Lessons from Writing a Compiler",
+            "date_modified": "2022-07-14T20:09:36.000Z",
+            "author": {
+                "name": "zetalyrae",
+                "url": "https://news.ycombinator.com/user?id=zetalyrae"
+            },
+            "_original_headline": "Lessons from Writing a Compiler",
+            "_original_url": "https://borretti.me/article/lessons-writing-compiler",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32106126",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32106126",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.theverge.com/2022/6/15/23169718/roe-wade-elizabeth-warren-location-data-tracking-ban-sale-brokers",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31756704",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31756704",
-            "title": "普渡大学在美国启动综合半导体学位课程\n",
-            "summary": "Purdue Starts Comprehensive Semiconductor Degree Programs in U.S.",
-            "date_modified": "2022-06-15T17:56:03.000Z",
-            "author": {
-                "name": "mindcrime",
-                "url": "https://news.ycombinator.com/user?id=mindcrime"
-            },
-            "_original_headline": "Purdue Starts Comprehensive Semiconductor Degree Programs in U.S.",
-            "_original_url": "https://www.eetimes.com/purdue-starts-comprehensive-semiconductor-degree-programs-in-u-s/",
-            "_sensitive": false,
-            "_score": 208
         }
     ]
 }
