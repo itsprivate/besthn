@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-16T20:29:04.310Z</updated>
+    <updated>2022-07-16T21:46:48.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什么是做系统设计的最佳实践方式？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32093879</id>
+        <link href="https://news.ycombinator.com/item?id=32093879"/>
+        <updated>2022-07-14T09:39:22.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is best way to do hands-on practice for system design?]]></summary>
+        <author>
+            <name>maheshs</name>
+            <uri>https://news.ycombinator.com/user?id=maheshs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[划痕是个大问题
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Maxious</name>
             <uri>https://news.ycombinator.com/user?id=Maxious</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：Triplebyte又一次未经同意公开用户资料了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31769601</id>
-        <link href="https://news.ycombinator.com/item?id=31769601"/>
-        <updated>2022-06-16T18:55:29.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: Triplebyte is, yet again, making user profiles public without consent]]></summary>
-        <author>
-            <name>teraflop</name>
-            <uri>https://news.ycombinator.com/user?id=teraflop</uri>
         </author>
     </entry>
 </feed>
