@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-16T00:00:44.810Z</updated>
+    <updated>2022-07-16T03:53:52.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[低BMI的人并不更活跃，他们只是不那么饿，"跑得更热"。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32108365</id>
+        <link href="https://news.ycombinator.com/item?id=32108365"/>
+        <updated>2022-07-15T14:06:27.000Z</updated>
+        <summary type="html"><![CDATA[People with low BMI aren't more active, they are just less hungry, 'run hotter']]></summary>
+        <author>
+            <name>FollowingTheDao</name>
+            <uri>https://news.ycombinator.com/user?id=FollowingTheDao</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在一个由30个软盘组成的RAID0上托管一个网站
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPU光线追踪教程 - 10篇
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31756589</id>
-        <link href="https://news.ycombinator.com/item?id=31756589"/>
-        <updated>2022-06-15T17:48:51.000Z</updated>
-        <summary type="html"><![CDATA[GPU ray tracing tutorial – 10 articles]]></summary>
-        <author>
-            <name>henkie_bk5</name>
-            <uri>https://news.ycombinator.com/user?id=henkie_bk5</uri>
         </author>
     </entry>
 </feed>
