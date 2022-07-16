@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 16 Jul 2022 21:46:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 21:59:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[算法》 作者：傑夫-埃裡克森 (2019)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32106761</link>
+            <guid>https://news.ycombinator.com/item?id=32106761</guid>
+            <pubDate>Fri, 15 Jul 2022 10:43:44 GMT</pubDate>
+            <description><![CDATA[Algorithms by Jeff Erickson (2019)]]></description>
+        </item>
         <item>
             <title><![CDATA[什麼是做系統設計的最佳實踐方式？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31769294</guid>
             <pubDate>Thu, 16 Jun 2022 18:24:43 GMT</pubDate>
             <description><![CDATA[The computers are fast, but you don't know it]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們把50萬個文件放在一個Git存儲庫中，我們學到了什麼？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31762245</link>
-            <guid>https://news.ycombinator.com/item?id=31762245</guid>
-            <pubDate>Thu, 16 Jun 2022 03:42:28 GMT</pubDate>
-            <description><![CDATA[We Put Half a Million Files in One Git Repository, Here’s What We Learned]]></description>
         </item>
     </channel>
 </rss>
