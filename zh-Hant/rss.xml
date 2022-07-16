@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 16 Jul 2022 17:08:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 17:46:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[開放式無人機地圖
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32094603</link>
+            <guid>https://news.ycombinator.com/item?id=32094603</guid>
+            <pubDate>Thu, 14 Jul 2022 11:39:10 GMT</pubDate>
+            <description><![CDATA[OpenDroneMap]]></description>
+        </item>
         <item>
             <title><![CDATA[康卡斯特。模擬低劣的網絡連接，以便你能建立更好的系統
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31764406</guid>
             <pubDate>Thu, 16 Jun 2022 10:29:45 GMT</pubDate>
             <description><![CDATA[Facebook is receiving sensitive medical information from hospital websites]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2022年雲計算報告
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31765773</link>
-            <guid>https://news.ycombinator.com/item?id=31765773</guid>
-            <pubDate>Thu, 16 Jun 2022 13:25:24 GMT</pubDate>
-            <description><![CDATA[2022 Cloud Report]]></description>
         </item>
     </channel>
 </rss>
