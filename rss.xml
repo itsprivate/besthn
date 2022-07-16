@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 16 Jul 2022 16:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 17:08:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[康卡斯特。模拟低劣的网络连接，以便你能建立更好的系统
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32115791</link>
+            <guid>https://news.ycombinator.com/item?id=32115791</guid>
+            <pubDate>Sat, 16 Jul 2022 06:47:46 GMT</pubDate>
+            <description><![CDATA[Comcast: Simulating shitty network connections so you can build better systems]]></description>
+        </item>
+        <item>
+            <title><![CDATA[随着Starnix项目的进展，Android删除了许多与Fuchsia相关的代码
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32114194</link>
+            <guid>https://news.ycombinator.com/item?id=32114194</guid>
+            <pubDate>Sat, 16 Jul 2022 00:29:30 GMT</pubDate>
+            <description><![CDATA[Android removes much of Fuchsia-related code as Starnix project progresses]]></description>
+        </item>
         <item>
             <title><![CDATA[亚马逊指示纽约工人 "不要签署 "工会卡
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31765773</guid>
             <pubDate>Thu, 16 Jun 2022 13:25:24 GMT</pubDate>
             <description><![CDATA[2022 Cloud Report]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wails - 由Go提供的电子替代方案
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31764773</link>
-            <guid>https://news.ycombinator.com/item?id=31764773</guid>
-            <pubDate>Thu, 16 Jun 2022 11:32:38 GMT</pubDate>
-            <description><![CDATA[Wails – Electron Alternative Powered by Go]]></description>
-        </item>
-        <item>
-            <title><![CDATA[创业的障碍--城市如何铺就创业之路
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31764530</link>
-            <guid>https://news.ycombinator.com/item?id=31764530</guid>
-            <pubDate>Thu, 16 Jun 2022 10:49:29 GMT</pubDate>
-            <description><![CDATA[Barriers to Business – How cities can pave a path to entrepreneurship]]></description>
         </item>
     </channel>
 </rss>
