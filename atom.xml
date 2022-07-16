@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-16T03:53:52.297Z</updated>
+    <updated>2022-07-16T04:18:36.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FCC建议将最低宽带速度提高到100Mbps
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32113263</id>
+        <link href="https://news.ycombinator.com/item?id=32113263"/>
+        <updated>2022-07-15T22:02:54.000Z</updated>
+        <summary type="html"><![CDATA[FCC proposes to increase minimum broadband speeds to 100 Mbps]]></summary>
+        <author>
+            <name>happyopossum</name>
+            <uri>https://news.ycombinator.com/user?id=happyopossum</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[低BMI的人并不更活跃，他们只是不那么饿，"跑得更热"。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nikolay</name>
             <uri>https://news.ycombinator.com/user?id=nikolay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在教授们努力招聘博士后的同时，呼吁学术界进行变革
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31751015</id>
-        <link href="https://news.ycombinator.com/item?id=31751015"/>
-        <updated>2022-06-15T10:08:07.000Z</updated>
-        <summary type="html"><![CDATA[As professors struggle to recruit postdocs, calls for change in academia]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>

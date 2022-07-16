@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 16 Jul 2022 03:53:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 04:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[FCC建議將最低寬帶速度提高到100Mbps
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32113263</link>
+            <guid>https://news.ycombinator.com/item?id=32113263</guid>
+            <pubDate>Fri, 15 Jul 2022 22:02:54 GMT</pubDate>
+            <description><![CDATA[FCC proposes to increase minimum broadband speeds to 100 Mbps]]></description>
+        </item>
         <item>
             <title><![CDATA[低BMI的人並不更活躍，他們只是不那麼餓，"跑得更熱"。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31756201</guid>
             <pubDate>Wed, 15 Jun 2022 17:21:40 GMT</pubDate>
             <description><![CDATA[A single prophylactic 200mg dose of Doxycyline prevents Lyme disease]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在教授們努力招聘博士後的同時，呼籲學術界進行變革
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31751015</link>
-            <guid>https://news.ycombinator.com/item?id=31751015</guid>
-            <pubDate>Wed, 15 Jun 2022 10:08:07 GMT</pubDate>
-            <description><![CDATA[As professors struggle to recruit postdocs, calls for change in academia]]></description>
         </item>
     </channel>
 </rss>

@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32113263",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32113263",
+            "title": "FCC建议将最低宽带速度提高到100Mbps\n",
+            "summary": "FCC proposes to increase minimum broadband speeds to 100 Mbps",
+            "date_modified": "2022-07-15T22:02:54.000Z",
+            "author": {
+                "name": "happyopossum",
+                "url": "https://news.ycombinator.com/user?id=happyopossum"
+            },
+            "_original_headline": "FCC proposes to increase minimum broadband speeds to 100 Mbps",
+            "_original_url": "https://www.fcc.gov/document/chairwoman-rosenworcel-proposes-increase-minimum-broadband-speeds",
+            "_sensitive": false,
+            "_score": 213
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32108365",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32108365",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "A single prophylactic 200mg dose of Doxycyline prevents Lyme disease",
             "_original_url": "https://www.cdc.gov/ticks/tickbornediseases/tick-bite-prophylaxis.html",
-            "_sensitive": false,
-            "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31751015",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31751015",
-            "title": "在教授们努力招聘博士后的同时，呼吁学术界进行变革\n",
-            "summary": "As professors struggle to recruit postdocs, calls for change in academia",
-            "date_modified": "2022-06-15T10:08:07.000Z",
-            "author": {
-                "name": "pseudolus",
-                "url": "https://news.ycombinator.com/user?id=pseudolus"
-            },
-            "_original_headline": "As professors struggle to recruit postdocs, calls for change in academia",
-            "_original_url": "https://www.science.org/content/article/professors-struggle-recruit-postdocs-calls-structural-change-academia-intensify",
             "_sensitive": false,
             "_score": 200
         }
