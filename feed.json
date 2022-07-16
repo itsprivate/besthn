@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32116184",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32116184",
+            "title": "关于比尔-沃特森拒绝许可《卡尔文与霍布斯》（2016）的问题\n",
+            "summary": "On Bill Watterson’s Refusal to License Calvin and Hobbes (2016)",
+            "date_modified": "2022-07-16T08:23:58.000Z",
+            "author": {
+                "name": "herbertl",
+                "url": "https://news.ycombinator.com/user?id=herbertl"
+            },
+            "_original_headline": "On Bill Watterson’s Refusal to License Calvin and Hobbes (2016)",
+            "_original_url": "https://www.thelegalartist.com/blog/on-bill-wattersons-refusal-to-license-calvin-and-hobbes",
+            "_sensitive": false,
+            "_score": 209
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32109760",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32109760",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://drewdevault.com/2022/06/13/helios.html",
             "_sensitive": false,
             "_score": 214
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31764015",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31764015",
-            "title": "Tauri 1.0 - 由Rust提供的电子替代方案\n",
-            "summary": "Tauri 1.0 – Electron Alternative Powered by Rust",
-            "date_modified": "2022-06-16T09:24:56.000Z",
-            "author": {
-                "name": "Uninen",
-                "url": "https://news.ycombinator.com/user?id=Uninen"
-            },
-            "_original_headline": "Tauri 1.0 – Electron Alternative Powered by Rust",
-            "_original_url": "https://tauri.studio/v1/guides/",
-            "_sensitive": false,
-            "_score": 270
         }
     ]
 }

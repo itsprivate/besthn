@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-16T11:44:55.124Z</updated>
+    <updated>2022-07-16T13:59:33.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於比爾-沃特森拒絕許可《卡爾文與霍布斯》（2016）的問題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32116184</id>
+        <link href="https://news.ycombinator.com/item?id=32116184"/>
+        <updated>2022-07-16T08:23:58.000Z</updated>
+        <summary type="html"><![CDATA[On Bill Watterson’s Refusal to License Calvin and Hobbes (2016)]]></summary>
+        <author>
+            <name>herbertl</name>
+            <uri>https://news.ycombinator.com/user?id=herbertl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[格雷格-羅賓遜固定美國國家航空航天局的詹姆斯-韋伯太空望遠鏡，不情願地
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pcr910303</name>
             <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tauri 1.0 - 由Rust提供的電子替代方案
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31764015</id>
-        <link href="https://news.ycombinator.com/item?id=31764015"/>
-        <updated>2022-06-16T09:24:56.000Z</updated>
-        <summary type="html"><![CDATA[Tauri 1.0 – Electron Alternative Powered by Rust]]></summary>
-        <author>
-            <name>Uninen</name>
-            <uri>https://news.ycombinator.com/user?id=Uninen</uri>
         </author>
     </entry>
 </feed>
