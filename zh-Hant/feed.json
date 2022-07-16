@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32117381",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32117381",
+            "title": "亞馬遜指示紐約工人 \"不要簽署 \"工會卡\n",
+            "summary": "Amazon instructs New York workers “don't sign” union cards",
+            "date_modified": "2022-07-16T12:28:49.000Z",
+            "author": {
+                "name": "walterclifford",
+                "url": "https://news.ycombinator.com/user?id=walterclifford"
+            },
+            "_original_headline": "Amazon instructs New York workers “don't sign” union cards",
+            "_original_url": "https://www.engadget.com/amazon-alb-1-anti-union-signage-alu-004207814.html",
+            "_sensitive": false,
+            "_score": 211
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32116184",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32116184",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.inc.com/victor-w-hwang/institute-of-justice-regulations.html",
             "_sensitive": false,
             "_score": 218
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31742648",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31742648",
-            "title": "Helios的微內核\n",
-            "summary": "The Helios microkernel",
-            "date_modified": "2022-06-14T17:15:25.000Z",
-            "author": {
-                "name": "pcr910303",
-                "url": "https://news.ycombinator.com/user?id=pcr910303"
-            },
-            "_original_headline": "The Helios microkernel",
-            "_original_url": "https://drewdevault.com/2022/06/13/helios.html",
-            "_sensitive": false,
-            "_score": 214
         }
     ]
 }

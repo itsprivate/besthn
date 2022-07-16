@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-16T13:59:33.793Z</updated>
+    <updated>2022-07-16T16:39:09.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亞馬遜指示紐約工人 "不要簽署 "工會卡
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32117381</id>
+        <link href="https://news.ycombinator.com/item?id=32117381"/>
+        <updated>2022-07-16T12:28:49.000Z</updated>
+        <summary type="html"><![CDATA[Amazon instructs New York workers “don't sign” union cards]]></summary>
+        <author>
+            <name>walterclifford</name>
+            <uri>https://news.ycombinator.com/user?id=walterclifford</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於比爾-沃特森拒絕許可《卡爾文與霍布斯》（2016）的問題
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sbuttgereit</name>
             <uri>https://news.ycombinator.com/user?id=sbuttgereit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helios的微內核
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31742648</id>
-        <link href="https://news.ycombinator.com/item?id=31742648"/>
-        <updated>2022-06-14T17:15:25.000Z</updated>
-        <summary type="html"><![CDATA[The Helios microkernel]]></summary>
-        <author>
-            <name>pcr910303</name>
-            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
         </author>
     </entry>
 </feed>
