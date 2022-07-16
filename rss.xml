@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 16 Jul 2022 17:46:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 19:58:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[学习精英班
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32115059</link>
+            <guid>https://news.ycombinator.com/item?id=32115059</guid>
+            <pubDate>Sat, 16 Jul 2022 03:45:13 GMT</pubDate>
+            <description><![CDATA[Learning The Elite Class]]></description>
+        </item>
         <item>
             <title><![CDATA[开放式无人机地图
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31764521</guid>
             <pubDate>Thu, 16 Jun 2022 10:47:15 GMT</pubDate>
             <description><![CDATA[Redbean 2.0 turned into more than a hobby project]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Facebook正在从医院网站接收敏感的医疗信息
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31764406</link>
-            <guid>https://news.ycombinator.com/item?id=31764406</guid>
-            <pubDate>Thu, 16 Jun 2022 10:29:45 GMT</pubDate>
-            <description><![CDATA[Facebook is receiving sensitive medical information from hospital websites]]></description>
         </item>
     </channel>
 </rss>
