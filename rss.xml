@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 16 Jul 2022 19:58:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 20:29:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[划痕是个大问题
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32120445</link>
+            <guid>https://news.ycombinator.com/item?id=32120445</guid>
+            <pubDate>Sat, 16 Jul 2022 18:09:00 GMT</pubDate>
+            <description><![CDATA[Scratch Is a Big Deal]]></description>
+        </item>
         <item>
             <title><![CDATA[学习精英班
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31769601</guid>
             <pubDate>Thu, 16 Jun 2022 18:55:29 GMT</pubDate>
             <description><![CDATA[Tell HN: Triplebyte is, yet again, making user profiles public without consent]]></description>
-        </item>
-        <item>
-            <title><![CDATA[红豆2.0变成了不只是一个爱好的项目
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31764521</link>
-            <guid>https://news.ycombinator.com/item?id=31764521</guid>
-            <pubDate>Thu, 16 Jun 2022 10:47:15 GMT</pubDate>
-            <description><![CDATA[Redbean 2.0 turned into more than a hobby project]]></description>
         </item>
     </channel>
 </rss>
