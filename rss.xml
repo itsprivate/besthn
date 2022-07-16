@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 16 Jul 2022 08:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 11:44:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[格雷格-罗宾逊固定美国国家航空航天局的詹姆斯-韦伯太空望远镜，不情愿地
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32109760</link>
+            <guid>https://news.ycombinator.com/item?id=32109760</guid>
+            <pubDate>Fri, 15 Jul 2022 16:22:44 GMT</pubDate>
+            <description><![CDATA[Greg Robinson fixed NASA’s James Webb Space Telescope, reluctantly]]></description>
+        </item>
         <item>
             <title><![CDATA[用户界面的历史
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31764015</guid>
             <pubDate>Thu, 16 Jun 2022 09:24:56 GMT</pubDate>
             <description><![CDATA[Tauri 1.0 – Electron Alternative Powered by Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[.NET是开放的吗？微软推动专有扩展以取代OmniSharp
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31762778</link>
-            <guid>https://news.ycombinator.com/item?id=31762778</guid>
-            <pubDate>Thu, 16 Jun 2022 05:44:23 GMT</pubDate>
-            <description><![CDATA[Is .NET open? MS pushing a proprietary extension to replace OmniSharp]]></description>
         </item>
     </channel>
 </rss>
