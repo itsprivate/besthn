@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-15T22:59:53.448Z</updated>
+    <updated>2022-07-16T00:00:44.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在一个由30个软盘组成的RAID0上托管一个网站
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32110662</id>
+        <link href="https://news.ycombinator.com/item?id=32110662"/>
+        <updated>2022-07-15T17:29:28.000Z</updated>
+        <summary type="html"><![CDATA[I'm hosting a website on a RAID0 of 30 floppy drives]]></summary>
+        <author>
+            <name>LarryPage</name>
+            <uri>https://news.ycombinator.com/user?id=LarryPage</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[毁灭公爵II》的视差滚动是如何工作的
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>henkie_bk5</name>
             <uri>https://news.ycombinator.com/user?id=henkie_bk5</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[罕见的托尔金绘画作品描绘了郁郁葱葱的 "指环王 "景观
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31757452</id>
-        <link href="https://news.ycombinator.com/item?id=31757452"/>
-        <updated>2022-06-15T18:45:26.000Z</updated>
-        <summary type="html"><![CDATA[Rarely Seen Paintings by Tolkien Portray a Lush ‘Lord of the Rings’ Landscape]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
         </author>
     </entry>
 </feed>
