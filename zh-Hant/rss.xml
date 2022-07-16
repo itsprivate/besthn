@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 16 Jul 2022 05:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 05:44:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[對未來十幾個Rust GUI的建議
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32112846</link>
+            <guid>https://news.ycombinator.com/item?id=32112846</guid>
+            <pubDate>Fri, 15 Jul 2022 21:09:54 GMT</pubDate>
+            <description><![CDATA[Advice for the next dozen Rust GUIs]]></description>
+        </item>
+        <item>
+            <title><![CDATA[令人難以置信的愚蠢的人
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32110366</link>
+            <guid>https://news.ycombinator.com/item?id=32110366</guid>
+            <pubDate>Fri, 15 Jul 2022 17:08:56 GMT</pubDate>
+            <description><![CDATA[The Incredibly Stupid One]]></description>
+        </item>
         <item>
             <title><![CDATA[Go垃圾收集器指南
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31759128</guid>
             <pubDate>Wed, 15 Jun 2022 20:36:30 GMT</pubDate>
             <description><![CDATA[Clap: The New Audio Plug-In Standard]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告訴HN：因舉報Wickr毒品垃圾郵件而被禁止在LinkedIn工作
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31762904</link>
-            <guid>https://news.ycombinator.com/item?id=31762904</guid>
-            <pubDate>Thu, 16 Jun 2022 06:07:39 GMT</pubDate>
-            <description><![CDATA[Tell HN: Banned from LinkedIn for Reporting Wickr Drug Spam]]></description>
-        </item>
-        <item>
-            <title><![CDATA[水彩基礎知識
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31757077</link>
-            <guid>https://news.ycombinator.com/item?id=31757077</guid>
-            <pubDate>Wed, 15 Jun 2022 18:21:41 GMT</pubDate>
-            <description><![CDATA[Watercolor Basics]]></description>
         </item>
     </channel>
 </rss>

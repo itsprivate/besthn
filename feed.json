@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32112846",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32112846",
+            "title": "对未来十几个Rust GUI的建议\n",
+            "summary": "Advice for the next dozen Rust GUIs",
+            "date_modified": "2022-07-15T21:09:54.000Z",
+            "author": {
+                "name": "raphlinus",
+                "url": "https://news.ycombinator.com/user?id=raphlinus"
+            },
+            "_original_headline": "Advice for the next dozen Rust GUIs",
+            "_original_url": "https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32110366",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32110366",
+            "title": "令人难以置信的愚蠢的人\n",
+            "summary": "The Incredibly Stupid One",
+            "date_modified": "2022-07-15T17:08:56.000Z",
+            "author": {
+                "name": "simonebrunozzi",
+                "url": "https://news.ycombinator.com/user?id=simonebrunozzi"
+            },
+            "_original_headline": "The Incredibly Stupid One",
+            "_original_url": "https://www.lowellmilkencenter.org/programs/projects/view/douglas-hegdahl-the-incredibly-stupid-one/hero",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32109301",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32109301",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://u-he.com/community/clap/",
             "_sensitive": false,
             "_score": 203
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31762904",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31762904",
-            "title": "告诉HN：因举报Wickr毒品垃圾邮件而被禁止在LinkedIn工作\n",
-            "summary": "Tell HN: Banned from LinkedIn for Reporting Wickr Drug Spam",
-            "date_modified": "2022-06-16T06:07:39.000Z",
-            "author": {
-                "name": "silent_speech",
-                "url": "https://news.ycombinator.com/user?id=silent_speech"
-            },
-            "_original_headline": "Tell HN: Banned from LinkedIn for Reporting Wickr Drug Spam",
-            "_original_url": "https://news.ycombinator.com/item?id=31762904",
-            "_sensitive": false,
-            "_score": 230
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31757077",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31757077",
-            "title": "水彩基础知识\n",
-            "summary": "Watercolor Basics",
-            "date_modified": "2022-06-15T18:21:41.000Z",
-            "author": {
-                "name": "pkdpic",
-                "url": "https://news.ycombinator.com/user?id=pkdpic"
-            },
-            "_original_headline": "Watercolor Basics",
-            "_original_url": "https://github.com/tombetthauser/watercolor-basics",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }
