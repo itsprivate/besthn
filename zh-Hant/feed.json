@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32109301",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32109301",
+            "title": "Go垃圾收集器指南\n",
+            "summary": "A Guide to the Go Garbage Collector",
+            "date_modified": "2022-07-15T15:44:11.000Z",
+            "author": {
+                "name": "ibraheemdev",
+                "url": "https://news.ycombinator.com/user?id=ibraheemdev"
+            },
+            "_original_headline": "A Guide to the Go Garbage Collector",
+            "_original_url": "https://tip.golang.org/doc/gc-guide",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32113263",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32113263",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://github.com/tombetthauser/watercolor-basics",
             "_sensitive": false,
             "_score": 201
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31756201",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31756201",
-            "title": "單次預防性服用200毫克多西林可預防萊姆病\n",
-            "summary": "A single prophylactic 200mg dose of Doxycyline prevents Lyme disease",
-            "date_modified": "2022-06-15T17:21:40.000Z",
-            "author": {
-                "name": "nikolay",
-                "url": "https://news.ycombinator.com/user?id=nikolay"
-            },
-            "_original_headline": "A single prophylactic 200mg dose of Doxycyline prevents Lyme disease",
-            "_original_url": "https://www.cdc.gov/ticks/tickbornediseases/tick-bite-prophylaxis.html",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }
