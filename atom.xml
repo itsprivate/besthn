@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-17T18:34:55.993Z</updated>
+    <updated>2022-07-17T19:25:39.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从Python到Ruby
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32115809</id>
+        <link href="https://news.ycombinator.com/item?id=32115809"/>
+        <updated>2022-07-16T06:51:04.000Z</updated>
+        <summary type="html"><![CDATA[To Ruby from Python]]></summary>
+        <author>
+            <name>mariuz</name>
+            <uri>https://news.ycombinator.com/user?id=mariuz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乔治-奥威尔1940年对《我的奋斗》的评论
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>DyslexicAtheist</name>
             <uri>https://news.ycombinator.com/user?id=DyslexicAtheist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub等了3个月才通知潜在泄露事件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31769520</id>
-        <link href="https://news.ycombinator.com/item?id=31769520"/>
-        <updated>2022-06-16T18:47:20.000Z</updated>
-        <summary type="html"><![CDATA[GitHub waited 3 months to notify about potential compromise]]></summary>
-        <author>
-            <name>zwass</name>
-            <uri>https://news.ycombinator.com/user?id=zwass</uri>
         </author>
     </entry>
 </feed>
