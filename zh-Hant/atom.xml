@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-17T21:47:22.870Z</updated>
+    <updated>2022-07-17T22:27:31.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Prose.sh - 一個黑客的博客平臺
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32128013</id>
+        <link href="https://news.ycombinator.com/item?id=32128013"/>
+        <updated>2022-07-17T16:08:18.000Z</updated>
+        <summary type="html"><![CDATA[Prose.sh – A blog platform for hackers]]></summary>
+        <author>
+            <name>jstanley</name>
+            <uri>https://news.ycombinator.com/user?id=jstanley</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小熊博客 - 一個隱私至上的快速博客平臺
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32127363</id>
+        <link href="https://news.ycombinator.com/item?id=32127363"/>
+        <updated>2022-07-17T14:57:32.000Z</updated>
+        <summary type="html"><![CDATA[Bear Blog – A privacy-first, fast blogging platform]]></summary>
+        <author>
+            <name>janandonly</name>
+            <uri>https://news.ycombinator.com/user?id=janandonly</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9.99美元/月
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>weberer</name>
             <uri>https://news.ycombinator.com/user?id=weberer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[據稱SpaceX將解僱參與信中斥責埃隆-馬斯克的員工
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31774890</id>
-        <link href="https://news.ycombinator.com/item?id=31774890"/>
-        <updated>2022-06-17T06:51:40.000Z</updated>
-        <summary type="html"><![CDATA[SpaceX said to fire employees involved in letter rebuking Elon Musk]]></summary>
-        <author>
-            <name>danso</name>
-            <uri>https://news.ycombinator.com/user?id=danso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ante。一種低級別的功能語言
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31775216</id>
-        <link href="https://news.ycombinator.com/item?id=31775216"/>
-        <updated>2022-06-17T07:39:40.000Z</updated>
-        <summary type="html"><![CDATA[Ante: A low-level functional language]]></summary>
-        <author>
-            <name>cheesestain</name>
-            <uri>https://news.ycombinator.com/user?id=cheesestain</uri>
         </author>
     </entry>
 </feed>

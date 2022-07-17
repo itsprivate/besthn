@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 17 Jul 2022 21:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 22:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Prose.sh - 一個黑客的博客平臺
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32128013</link>
+            <guid>https://news.ycombinator.com/item?id=32128013</guid>
+            <pubDate>Sun, 17 Jul 2022 16:08:18 GMT</pubDate>
+            <description><![CDATA[Prose.sh – A blog platform for hackers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[小熊博客 - 一個隱私至上的快速博客平臺
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32127363</link>
+            <guid>https://news.ycombinator.com/item?id=32127363</guid>
+            <pubDate>Sun, 17 Jul 2022 14:57:32 GMT</pubDate>
+            <description><![CDATA[Bear Blog – A privacy-first, fast blogging platform]]></description>
+        </item>
         <item>
             <title><![CDATA[9.99美元/月
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31778490</guid>
             <pubDate>Fri, 17 Jun 2022 14:13:51 GMT</pubDate>
             <description><![CDATA[Gnome has no thumbnails in the file picker and my toilets are blocked (2021)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[據稱SpaceX將解僱參與信中斥責埃隆-馬斯克的員工
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31774890</link>
-            <guid>https://news.ycombinator.com/item?id=31774890</guid>
-            <pubDate>Fri, 17 Jun 2022 06:51:40 GMT</pubDate>
-            <description><![CDATA[SpaceX said to fire employees involved in letter rebuking Elon Musk]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ante。一種低級別的功能語言
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31775216</link>
-            <guid>https://news.ycombinator.com/item?id=31775216</guid>
-            <pubDate>Fri, 17 Jun 2022 07:39:40 GMT</pubDate>
-            <description><![CDATA[Ante: A low-level functional language]]></description>
         </item>
     </channel>
 </rss>
