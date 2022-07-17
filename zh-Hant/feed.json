@@ -11,6 +11,70 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32119636",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32119636",
+            "title": "危機蔓延，中國抵制房貸數據被審查員抹去\n",
+            "summary": "China mortgage boycott data erased by censors as crisis spreads",
+            "date_modified": "2022-07-16T16:37:05.000Z",
+            "author": {
+                "name": "throwaway_1928",
+                "url": "https://news.ycombinator.com/user?id=throwaway_1928"
+            },
+            "_original_headline": "China mortgage boycott data erased by censors as crisis spreads",
+            "_original_url": "https://www.bloomberg.com/news/articles/2022-07-15/china-mortgage-boycott-data-erased-by-censors-as-crisis-spreads",
+            "_sensitive": false,
+            "_score": 210
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32118818",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32118818",
+            "title": "英國的鐵軌為什麼會發生彎曲\n",
+            "summary": "Why rails buckle in Britain",
+            "date_modified": "2022-07-16T15:04:39.000Z",
+            "author": {
+                "name": "scrlk",
+                "url": "https://news.ycombinator.com/user?id=scrlk"
+            },
+            "_original_headline": "Why rails buckle in Britain",
+            "_original_url": "https://www.networkrail.co.uk/stories/why-rails-buckle-in-britain/",
+            "_sensitive": false,
+            "_score": 212
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32117489",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32117489",
+            "title": "facebook.com上的新網址是怎麼回事？\n",
+            "summary": "Ask HN: What is with the new URLs on facebook.com?",
+            "date_modified": "2022-07-16T12:47:27.000Z",
+            "author": {
+                "name": "thrusong",
+                "url": "https://news.ycombinator.com/user?id=thrusong"
+            },
+            "_original_headline": "Ask HN: What is with the new URLs on facebook.com?",
+            "_original_url": "https://news.ycombinator.com/item?id=32117489",
+            "_sensitive": false,
+            "_score": 207
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32106467",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32106467",
+            "title": "為什麼蒸汽機沒有更早發明？第二部分\n",
+            "summary": "Why wasn't the steam engine invented earlier? Part II",
+            "date_modified": "2022-07-15T09:57:20.000Z",
+            "author": {
+                "name": "harscoat",
+                "url": "https://news.ycombinator.com/user?id=harscoat"
+            },
+            "_original_headline": "Why wasn't the steam engine invented earlier? Part II",
+            "_original_url": "https://antonhowes.substack.com/p/age-of-invention-why-wasnt-the-steam-cc8",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32106761",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32106761",
@@ -9545,70 +9609,6 @@
             "_original_url": "https://sal.dev/macos/macos-screenshotting-tips-and-tricks/",
             "_sensitive": false,
             "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31765730",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31765730",
-            "title": "一個宗教教派讓谷歌陷入訴訟\n",
-            "summary": "A religious sect landed Google in a lawsuit",
-            "date_modified": "2022-06-16T13:21:11.000Z",
-            "author": {
-                "name": "semiquaver",
-                "url": "https://news.ycombinator.com/user?id=semiquaver"
-            },
-            "_original_headline": "A religious sect landed Google in a lawsuit",
-            "_original_url": "https://www.nytimes.com/2022/06/16/technology/google-fellowship-of-friends-sect.html",
-            "_sensitive": false,
-            "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31767890",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31767890",
-            "title": "沉默的大多數專家(2012)\n",
-            "summary": "The silent majority of experts (2012)",
-            "date_modified": "2022-06-16T16:23:55.000Z",
-            "author": {
-                "name": "bluedino",
-                "url": "https://news.ycombinator.com/user?id=bluedino"
-            },
-            "_original_headline": "The silent majority of experts (2012)",
-            "_original_url": "https://prog21.dadgum.com/143.html",
-            "_sensitive": false,
-            "_score": 201
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31769484",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31769484",
-            "title": "谷歌內部的邪教\n",
-            "summary": "The Cult Inside Google",
-            "date_modified": "2022-06-16T18:44:25.000Z",
-            "author": {
-                "name": "darrelld",
-                "url": "https://news.ycombinator.com/user?id=darrelld"
-            },
-            "_original_headline": "The Cult Inside Google",
-            "_original_url": "https://medium.com/@kwilliamlloyd/the-cult-in-google-3c1a910214d1",
-            "_sensitive": false,
-            "_score": 206
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31769294",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31769294",
-            "title": "計算機速度快，但你不知道\n",
-            "summary": "The computers are fast, but you don't know it",
-            "date_modified": "2022-06-16T18:24:43.000Z",
-            "author": {
-                "name": "dropbox_miner",
-                "url": "https://news.ycombinator.com/user?id=dropbox_miner"
-            },
-            "_original_headline": "The computers are fast, but you don't know it",
-            "_original_url": "http://shvbsle.in/computers-are-fast-but-you-dont-know-it-p1/",
-            "_sensitive": false,
-            "_score": 205
         }
     ]
 }

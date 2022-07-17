@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 16 Jul 2022 21:59:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 02:39:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,38 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[危機蔓延，中國抵制房貸數據被審查員抹去
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32119636</link>
+            <guid>https://news.ycombinator.com/item?id=32119636</guid>
+            <pubDate>Sat, 16 Jul 2022 16:37:05 GMT</pubDate>
+            <description><![CDATA[China mortgage boycott data erased by censors as crisis spreads]]></description>
+        </item>
+        <item>
+            <title><![CDATA[英國的鐵軌為什麼會發生彎曲
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32118818</link>
+            <guid>https://news.ycombinator.com/item?id=32118818</guid>
+            <pubDate>Sat, 16 Jul 2022 15:04:39 GMT</pubDate>
+            <description><![CDATA[Why rails buckle in Britain]]></description>
+        </item>
+        <item>
+            <title><![CDATA[facebook.com上的新網址是怎麼回事？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32117489</link>
+            <guid>https://news.ycombinator.com/item?id=32117489</guid>
+            <pubDate>Sat, 16 Jul 2022 12:47:27 GMT</pubDate>
+            <description><![CDATA[Ask HN: What is with the new URLs on facebook.com?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為什麼蒸汽機沒有更早發明？第二部分
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32106467</link>
+            <guid>https://news.ycombinator.com/item?id=32106467</guid>
+            <pubDate>Fri, 15 Jul 2022 09:57:20 GMT</pubDate>
+            <description><![CDATA[Why wasn't the steam engine invented earlier? Part II]]></description>
+        </item>
         <item>
             <title><![CDATA[算法》 作者：傑夫-埃裡克森 (2019)
 ]]></title>
@@ -4781,38 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31769683</guid>
             <pubDate>Thu, 16 Jun 2022 19:03:15 GMT</pubDate>
             <description><![CDATA[macOS screenshot tricks to impress your co-workers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個宗教教派讓谷歌陷入訴訟
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31765730</link>
-            <guid>https://news.ycombinator.com/item?id=31765730</guid>
-            <pubDate>Thu, 16 Jun 2022 13:21:11 GMT</pubDate>
-            <description><![CDATA[A religious sect landed Google in a lawsuit]]></description>
-        </item>
-        <item>
-            <title><![CDATA[沉默的大多數專家(2012)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31767890</link>
-            <guid>https://news.ycombinator.com/item?id=31767890</guid>
-            <pubDate>Thu, 16 Jun 2022 16:23:55 GMT</pubDate>
-            <description><![CDATA[The silent majority of experts (2012)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌內部的邪教
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31769484</link>
-            <guid>https://news.ycombinator.com/item?id=31769484</guid>
-            <pubDate>Thu, 16 Jun 2022 18:44:25 GMT</pubDate>
-            <description><![CDATA[The Cult Inside Google]]></description>
-        </item>
-        <item>
-            <title><![CDATA[計算機速度快，但你不知道
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31769294</link>
-            <guid>https://news.ycombinator.com/item?id=31769294</guid>
-            <pubDate>Thu, 16 Jun 2022 18:24:43 GMT</pubDate>
-            <description><![CDATA[The computers are fast, but you don't know it]]></description>
         </item>
     </channel>
 </rss>

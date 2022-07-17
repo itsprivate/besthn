@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-16T21:59:27.597Z</updated>
+    <updated>2022-07-17T02:39:04.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[危機蔓延，中國抵制房貸數據被審查員抹去
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32119636</id>
+        <link href="https://news.ycombinator.com/item?id=32119636"/>
+        <updated>2022-07-16T16:37:05.000Z</updated>
+        <summary type="html"><![CDATA[China mortgage boycott data erased by censors as crisis spreads]]></summary>
+        <author>
+            <name>throwaway_1928</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway_1928</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英國的鐵軌為什麼會發生彎曲
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32118818</id>
+        <link href="https://news.ycombinator.com/item?id=32118818"/>
+        <updated>2022-07-16T15:04:39.000Z</updated>
+        <summary type="html"><![CDATA[Why rails buckle in Britain]]></summary>
+        <author>
+            <name>scrlk</name>
+            <uri>https://news.ycombinator.com/user?id=scrlk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[facebook.com上的新網址是怎麼回事？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32117489</id>
+        <link href="https://news.ycombinator.com/item?id=32117489"/>
+        <updated>2022-07-16T12:47:27.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What is with the new URLs on facebook.com?]]></summary>
+        <author>
+            <name>thrusong</name>
+            <uri>https://news.ycombinator.com/user?id=thrusong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼蒸汽機沒有更早發明？第二部分
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32106467</id>
+        <link href="https://news.ycombinator.com/item?id=32106467"/>
+        <updated>2022-07-15T09:57:20.000Z</updated>
+        <summary type="html"><![CDATA[Why wasn't the steam engine invented earlier? Part II]]></summary>
+        <author>
+            <name>harscoat</name>
+            <uri>https://news.ycombinator.com/user?id=harscoat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[算法》 作者：傑夫-埃裡克森 (2019)
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>salgorithm</name>
             <uri>https://news.ycombinator.com/user?id=salgorithm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個宗教教派讓谷歌陷入訴訟
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31765730</id>
-        <link href="https://news.ycombinator.com/item?id=31765730"/>
-        <updated>2022-06-16T13:21:11.000Z</updated>
-        <summary type="html"><![CDATA[A religious sect landed Google in a lawsuit]]></summary>
-        <author>
-            <name>semiquaver</name>
-            <uri>https://news.ycombinator.com/user?id=semiquaver</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沉默的大多數專家(2012)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31767890</id>
-        <link href="https://news.ycombinator.com/item?id=31767890"/>
-        <updated>2022-06-16T16:23:55.000Z</updated>
-        <summary type="html"><![CDATA[The silent majority of experts (2012)]]></summary>
-        <author>
-            <name>bluedino</name>
-            <uri>https://news.ycombinator.com/user?id=bluedino</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌內部的邪教
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31769484</id>
-        <link href="https://news.ycombinator.com/item?id=31769484"/>
-        <updated>2022-06-16T18:44:25.000Z</updated>
-        <summary type="html"><![CDATA[The Cult Inside Google]]></summary>
-        <author>
-            <name>darrelld</name>
-            <uri>https://news.ycombinator.com/user?id=darrelld</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[計算機速度快，但你不知道
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31769294</id>
-        <link href="https://news.ycombinator.com/item?id=31769294"/>
-        <updated>2022-06-16T18:24:43.000Z</updated>
-        <summary type="html"><![CDATA[The computers are fast, but you don't know it]]></summary>
-        <author>
-            <name>dropbox_miner</name>
-            <uri>https://news.ycombinator.com/user?id=dropbox_miner</uri>
         </author>
     </entry>
 </feed>
