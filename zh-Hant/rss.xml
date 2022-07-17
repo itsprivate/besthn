@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 17 Jul 2022 15:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 18:34:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[喬治-奧威爾1940年對《我的奮鬥》的評論
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32127622</link>
+            <guid>https://news.ycombinator.com/item?id=32127622</guid>
+            <pubDate>Sun, 17 Jul 2022 15:25:42 GMT</pubDate>
+            <description><![CDATA[George Orwell’s 1940 Review of Mein Kampf]]></description>
+        </item>
+        <item>
+            <title><![CDATA[焦慮驅動的拖延症的系統模型
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32125734</link>
+            <guid>https://news.ycombinator.com/item?id=32125734</guid>
+            <pubDate>Sun, 17 Jul 2022 10:45:32 GMT</pubDate>
+            <description><![CDATA[A systems model of anxiety-driven procrastination]]></description>
+        </item>
         <item>
             <title><![CDATA[我已經開始使用Mozilla Firefox，現在我再也無法回到谷歌瀏覽器了。
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31769520</guid>
             <pubDate>Thu, 16 Jun 2022 18:47:20 GMT</pubDate>
             <description><![CDATA[GitHub waited 3 months to notify about potential compromise]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼我不再有資格成為Brex的客戶？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31772211</link>
-            <guid>https://news.ycombinator.com/item?id=31772211</guid>
-            <pubDate>Thu, 16 Jun 2022 23:22:36 GMT</pubDate>
-            <description><![CDATA[Why am I no longer qualified to be a Brex customer?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如今，保持匿名開發者的身份仍然是可以想象的嗎？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31763451</link>
-            <guid>https://news.ycombinator.com/item?id=31763451</guid>
-            <pubDate>Thu, 16 Jun 2022 07:40:52 GMT</pubDate>
-            <description><![CDATA[Ask HN: Is it still conceivable to remain an anonymous developer nowadays?]]></description>
         </item>
     </channel>
 </rss>
