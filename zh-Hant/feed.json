@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32097424",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32097424",
+            "title": "Nyxt 3預發佈1（一個由Lisp驅動的網絡瀏覽器）。\n",
+            "summary": "Nyxt 3 Pre-release 1 (a Lisp powered web browser)",
+            "date_modified": "2022-07-14T15:37:04.000Z",
+            "author": {
+                "name": "arthureroberer",
+                "url": "https://news.ycombinator.com/user?id=arthureroberer"
+            },
+            "_original_headline": "Nyxt 3 Pre-release 1 (a Lisp powered web browser)",
+            "_original_url": "https://nyxt.atlas.engineer/article/release-3-pre-release-1.org",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32115354",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32115354",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://news.ycombinator.com/item?id=31764696",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31770432",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31770432",
-            "title": "呼喚反壟斷改革\n",
-            "summary": "Calling for Antitrust Reform",
-            "date_modified": "2022-06-16T20:14:38.000Z",
-            "author": {
-                "name": "cpeterso",
-                "url": "https://news.ycombinator.com/user?id=cpeterso"
-            },
-            "_original_headline": "Calling for Antitrust Reform",
-            "_original_url": "https://blog.mozilla.org/en/mozilla/calling-for-antitrust-reform/",
-            "_sensitive": false,
-            "_score": 207
         }
     ]
 }

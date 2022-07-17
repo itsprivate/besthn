@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 17 Jul 2022 09:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 11:47:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Nyxt 3预发布1（一个由Lisp驱动的网络浏览器）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32097424</link>
+            <guid>https://news.ycombinator.com/item?id=32097424</guid>
+            <pubDate>Thu, 14 Jul 2022 15:37:04 GMT</pubDate>
+            <description><![CDATA[Nyxt 3 Pre-release 1 (a Lisp powered web browser)]]></description>
+        </item>
         <item>
             <title><![CDATA[实验之书》（1958年）[pdf]。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31764696</guid>
             <pubDate>Thu, 16 Jun 2022 11:17:53 GMT</pubDate>
             <description><![CDATA[Ask HN: Side projects that are making money, but you'd not talk about them?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[呼唤反垄断改革
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31770432</link>
-            <guid>https://news.ycombinator.com/item?id=31770432</guid>
-            <pubDate>Thu, 16 Jun 2022 20:14:38 GMT</pubDate>
-            <description><![CDATA[Calling for Antitrust Reform]]></description>
         </item>
     </channel>
 </rss>
