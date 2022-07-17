@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 17 Jul 2022 22:27:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 23:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[好吧，谷歌。為了保護婦女，少收集每個人的數據
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32125731</link>
+            <guid>https://news.ycombinator.com/item?id=32125731</guid>
+            <pubDate>Sun, 17 Jul 2022 10:45:04 GMT</pubDate>
+            <description><![CDATA[Okay, Google: To protect women, collect less data about everyone]]></description>
+        </item>
         <item>
             <title><![CDATA[Prose.sh - 一個黑客的博客平臺
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31778909</guid>
             <pubDate>Fri, 17 Jun 2022 14:40:58 GMT</pubDate>
             <description><![CDATA[Leaked Amazon memo warns the company is running out of people to hire]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gnome的文件選取器中沒有縮略圖，我的廁所被封鎖了(2021)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31778490</link>
-            <guid>https://news.ycombinator.com/item?id=31778490</guid>
-            <pubDate>Fri, 17 Jun 2022 14:13:51 GMT</pubDate>
-            <description><![CDATA[Gnome has no thumbnails in the file picker and my toilets are blocked (2021)]]></description>
         </item>
     </channel>
 </rss>

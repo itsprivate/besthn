@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32125731",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32125731",
+            "title": "好吧，谷歌。為了保護婦女，少收集每個人的數據\n",
+            "summary": "Okay, Google: To protect women, collect less data about everyone",
+            "date_modified": "2022-07-17T10:45:04.000Z",
+            "author": {
+                "name": "johndfsgdgdfg",
+                "url": "https://news.ycombinator.com/user?id=johndfsgdgdfg"
+            },
+            "_original_headline": "Okay, Google: To protect women, collect less data about everyone",
+            "_original_url": "https://www.washingtonpost.com/technology/2022/07/01/google-privacy-abortion/",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32128013",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32128013",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.vox.com/recode/23170900/leaked-amazon-memo-warehouses-hiring-shortage",
             "_sensitive": false,
             "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31778490",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31778490",
-            "title": "Gnome的文件選取器中沒有縮略圖，我的廁所被封鎖了(2021)\n",
-            "summary": "Gnome has no thumbnails in the file picker and my toilets are blocked (2021)",
-            "date_modified": "2022-06-17T14:13:51.000Z",
-            "author": {
-                "name": "weberer",
-                "url": "https://news.ycombinator.com/user?id=weberer"
-            },
-            "_original_headline": "Gnome has no thumbnails in the file picker and my toilets are blocked (2021)",
-            "_original_url": "https://jayfax.neocities.org/mediocrity/gnome-has-no-thumbnails-in-the-file-picker.html",
-            "_sensitive": false,
-            "_score": 213
         }
     ]
 }
