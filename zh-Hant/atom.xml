@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-17T14:46:17.138Z</updated>
+    <updated>2022-07-17T15:30:18.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我已經開始使用Mozilla Firefox，現在我再也無法回到谷歌瀏覽器了。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32126637</id>
+        <link href="https://news.ycombinator.com/item?id=32126637"/>
+        <updated>2022-07-17T13:37:33.000Z</updated>
+        <summary type="html"><![CDATA[I've started using Mozilla Firefox and now I can never go back to Google Chrome]]></summary>
+        <author>
+            <name>p4bl0</name>
+            <uri>https://news.ycombinator.com/user?id=p4bl0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[殺死但使它看起來像一場事故。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>synappser</name>
             <uri>https://news.ycombinator.com/user?id=synappser</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讓企業功能開放源代碼
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31770348</id>
-        <link href="https://news.ycombinator.com/item?id=31770348"/>
-        <updated>2022-06-16T20:07:43.000Z</updated>
-        <summary type="html"><![CDATA[Make enterprise features open source]]></summary>
-        <author>
-            <name>ahachete</name>
-            <uri>https://news.ycombinator.com/user?id=ahachete</uri>
         </author>
     </entry>
 </feed>
