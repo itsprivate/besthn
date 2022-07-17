@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-17T08:49:45.677Z</updated>
+    <updated>2022-07-17T09:47:11.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[实验之书》（1958年）[pdf]。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32115354</id>
+        <link href="https://news.ycombinator.com/item?id=32115354"/>
+        <updated>2022-07-16T05:00:54.000Z</updated>
+        <summary type="html"><![CDATA[The Book of Experiments (1958) [pdf]]]></summary>
+        <author>
+            <name>snee</name>
+            <uri>https://news.ycombinator.com/user?id=snee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[成功案例是宣传（2017）
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cpeterso</name>
             <uri>https://news.ycombinator.com/user?id=cpeterso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recut自动删除视频中的静音--用Tauri构建的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31767830</id>
-        <link href="https://news.ycombinator.com/item?id=31767830"/>
-        <updated>2022-06-16T16:19:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Recut automatically removes silence from videos – built with Tauri]]></summary>
-        <author>
-            <name>dceddia</name>
-            <uri>https://news.ycombinator.com/user?id=dceddia</uri>
         </author>
     </entry>
 </feed>
