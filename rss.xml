@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 17 Jul 2022 19:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 21:47:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[9.99美元/月
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32129574</link>
+            <guid>https://news.ycombinator.com/item?id=32129574</guid>
+            <pubDate>Sun, 17 Jul 2022 18:28:50 GMT</pubDate>
+            <description><![CDATA[$9.99/month]]></description>
+        </item>
         <item>
             <title><![CDATA[从Python到Ruby
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31775216</guid>
             <pubDate>Fri, 17 Jun 2022 07:39:40 GMT</pubDate>
             <description><![CDATA[Ante: A low-level functional language]]></description>
-        </item>
-        <item>
-            <title><![CDATA[隐藏在今天的饼干公告中的诱饵和陷阱
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31776895</link>
-            <guid>https://news.ycombinator.com/item?id=31776895</guid>
-            <pubDate>Fri, 17 Jun 2022 12:03:18 GMT</pubDate>
-            <description><![CDATA[The bait-and-switch hidden in today’s cookie announcement]]></description>
         </item>
     </channel>
 </rss>
