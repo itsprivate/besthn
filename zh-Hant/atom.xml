@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-17T23:27:10.140Z</updated>
+    <updated>2022-07-17T23:59:48.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[臉書已開始加密鏈接，以應對改善隱私的URL Stripping
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32129100</id>
+        <link href="https://news.ycombinator.com/item?id=32129100"/>
+        <updated>2022-07-17T17:43:31.000Z</updated>
+        <summary type="html"><![CDATA[Facebook has started to encrypt links to counter privacy-improving URL Stripping]]></summary>
+        <author>
+            <name>ColinWright</name>
+            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[好吧，谷歌。為了保護婦女，少收集每個人的數據
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sdoering</name>
             <uri>https://news.ycombinator.com/user?id=sdoering</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[洩露的亞馬遜備忘錄警告說，該公司正在耗盡招聘的人員
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31778909</id>
-        <link href="https://news.ycombinator.com/item?id=31778909"/>
-        <updated>2022-06-17T14:40:58.000Z</updated>
-        <summary type="html"><![CDATA[Leaked Amazon memo warns the company is running out of people to hire]]></summary>
-        <author>
-            <name>Umofomia</name>
-            <uri>https://news.ycombinator.com/user?id=Umofomia</uri>
         </author>
     </entry>
 </feed>

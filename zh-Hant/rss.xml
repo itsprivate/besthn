@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 17 Jul 2022 23:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 23:59:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[臉書已開始加密鏈接，以應對改善隱私的URL Stripping
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32129100</link>
+            <guid>https://news.ycombinator.com/item?id=32129100</guid>
+            <pubDate>Sun, 17 Jul 2022 17:43:31 GMT</pubDate>
+            <description><![CDATA[Facebook has started to encrypt links to counter privacy-improving URL Stripping]]></description>
+        </item>
         <item>
             <title><![CDATA[好吧，谷歌。為了保護婦女，少收集每個人的數據
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31775486</guid>
             <pubDate>Fri, 17 Jun 2022 08:21:18 GMT</pubDate>
             <description><![CDATA[A Visual Guide to the Aztec Pantheon]]></description>
-        </item>
-        <item>
-            <title><![CDATA[洩露的亞馬遜備忘錄警告說，該公司正在耗盡招聘的人員
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31778909</link>
-            <guid>https://news.ycombinator.com/item?id=31778909</guid>
-            <pubDate>Fri, 17 Jun 2022 14:40:58 GMT</pubDate>
-            <description><![CDATA[Leaked Amazon memo warns the company is running out of people to hire]]></description>
         </item>
     </channel>
 </rss>
