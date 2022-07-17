@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-17T11:47:49.235Z</updated>
+    <updated>2022-07-17T12:50:26.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個純CSS的互動機械裝置
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32123804</id>
+        <link href="https://news.ycombinator.com/item?id=32123804"/>
+        <updated>2022-07-17T02:10:48.000Z</updated>
+        <summary type="html"><![CDATA[An interactive mechanical contraption in pure CSS]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nyxt 3預發佈1（一個由Lisp驅動的網絡瀏覽器）。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>metadat</name>
             <uri>https://news.ycombinator.com/user?id=metadat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[正在賺錢的副業項目，但你不願意談論它們？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31764696</id>
-        <link href="https://news.ycombinator.com/item?id=31764696"/>
-        <updated>2022-06-16T11:17:53.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Side projects that are making money, but you'd not talk about them?]]></summary>
-        <author>
-            <name>CodeSgt</name>
-            <uri>https://news.ycombinator.com/user?id=CodeSgt</uri>
         </author>
     </entry>
 </feed>

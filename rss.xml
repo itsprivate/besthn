@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 17 Jul 2022 11:47:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 12:50:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个纯CSS的互动机械装置
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32123804</link>
+            <guid>https://news.ycombinator.com/item?id=32123804</guid>
+            <pubDate>Sun, 17 Jul 2022 02:10:48 GMT</pubDate>
+            <description><![CDATA[An interactive mechanical contraption in pure CSS]]></description>
+        </item>
         <item>
             <title><![CDATA[Nyxt 3预发布1（一个由Lisp驱动的网络浏览器）。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31769059</guid>
             <pubDate>Thu, 16 Jun 2022 18:00:25 GMT</pubDate>
             <description><![CDATA[The animated elliptic curve]]></description>
-        </item>
-        <item>
-            <title><![CDATA[正在赚钱的副业项目，但你不愿意谈论它们？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31764696</link>
-            <guid>https://news.ycombinator.com/item?id=31764696</guid>
-            <pubDate>Thu, 16 Jun 2022 11:17:53 GMT</pubDate>
-            <description><![CDATA[Ask HN: Side projects that are making money, but you'd not talk about them?]]></description>
         </item>
     </channel>
 </rss>
