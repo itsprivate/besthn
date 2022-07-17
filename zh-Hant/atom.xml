@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-17T12:50:26.765Z</updated>
+    <updated>2022-07-17T14:46:17.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[殺死但使它看起來像一場事故。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32125951</id>
+        <link href="https://news.ycombinator.com/item?id=32125951"/>
+        <updated>2022-07-17T11:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Killbutmakeitlooklikeanaccident.sh]]></summary>
+        <author>
+            <name>app4soft</name>
+            <uri>https://news.ycombinator.com/user?id=app4soft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個純CSS的互動機械裝置
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ahachete</name>
             <uri>https://news.ycombinator.com/user?id=ahachete</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[動畫的橢圓曲線
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31769059</id>
-        <link href="https://news.ycombinator.com/item?id=31769059"/>
-        <updated>2022-06-16T18:00:25.000Z</updated>
-        <summary type="html"><![CDATA[The animated elliptic curve]]></summary>
-        <author>
-            <name>metadat</name>
-            <uri>https://news.ycombinator.com/user?id=metadat</uri>
         </author>
     </entry>
 </feed>

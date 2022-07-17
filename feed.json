@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32125951",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32125951",
+            "title": "杀死但使它看起来像一场事故。\n",
+            "summary": "Killbutmakeitlooklikeanaccident.sh",
+            "date_modified": "2022-07-17T11:38:06.000Z",
+            "author": {
+                "name": "app4soft",
+                "url": "https://news.ycombinator.com/user?id=app4soft"
+            },
+            "_original_headline": "Killbutmakeitlooklikeanaccident.sh",
+            "_original_url": "https://gist.github.com/moyix/95ca9a7a26a639b2322c36c7411dc3be",
+            "_sensitive": false,
+            "_score": 206
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32123804",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32123804",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://github.com/citusdata/citus/commit/184c7c0bce6b7bca61d25b828855fac5fba64816",
             "_sensitive": false,
             "_score": 212
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31769059",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31769059",
-            "title": "动画的椭圆曲线\n",
-            "summary": "The animated elliptic curve",
-            "date_modified": "2022-06-16T18:00:25.000Z",
-            "author": {
-                "name": "metadat",
-                "url": "https://news.ycombinator.com/user?id=metadat"
-            },
-            "_original_headline": "The animated elliptic curve",
-            "_original_url": "https://curves.ulfheim.net/",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }
