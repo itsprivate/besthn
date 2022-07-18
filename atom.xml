@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-18T02:34:53.994Z</updated>
+    <updated>2022-07-18T04:07:56.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[坏咖啡的案例 (2015)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32130906</id>
+        <link href="https://news.ycombinator.com/item?id=32130906"/>
+        <updated>2022-07-17T20:29:28.000Z</updated>
+        <summary type="html"><![CDATA[The case for bad coffee (2015)]]></summary>
+        <author>
+            <name>srathi</name>
+            <uri>https://news.ycombinator.com/user?id=srathi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在街上捡拾免费的锂电，并使其安全使用
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ingve</name>
             <uri>https://news.ycombinator.com/user?id=ingve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最令人满意的复选框
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31781110</id>
-        <link href="https://news.ycombinator.com/item?id=31781110"/>
-        <updated>2022-06-17T17:01:57.000Z</updated>
-        <summary type="html"><![CDATA[The Most Satisfying Checkbox]]></summary>
-        <author>
-            <name>feross</name>
-            <uri>https://news.ycombinator.com/user?id=feross</uri>
         </author>
     </entry>
 </feed>
