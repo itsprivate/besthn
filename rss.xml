@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 18 Jul 2022 05:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 09:02:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[纸飞机设计 (2013)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32134691</link>
+            <guid>https://news.ycombinator.com/item?id=32134691</guid>
+            <pubDate>Mon, 18 Jul 2022 04:32:47 GMT</pubDate>
+            <description><![CDATA[Paper Airplane Designs (2013)]]></description>
+        </item>
         <item>
             <title><![CDATA[罗温-阿特金森。视觉喜剧 (1992) [视频]
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31783508</guid>
             <pubDate>Fri, 17 Jun 2022 20:01:43 GMT</pubDate>
             <description><![CDATA[US prison workers produce $11B worth of goods and services for little to no pay]]></description>
-        </item>
-        <item>
-            <title><![CDATA[审查《人民的互联网》。为我们的数字未来而战
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31773233</link>
-            <guid>https://news.ycombinator.com/item?id=31773233</guid>
-            <pubDate>Fri, 17 Jun 2022 01:50:56 GMT</pubDate>
-            <description><![CDATA[Review of Internet for the People: The Fight for Our Digital Future]]></description>
         </item>
     </channel>
 </rss>
