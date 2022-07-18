@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-18T04:07:56.268Z</updated>
+    <updated>2022-07-18T05:02:52.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[羅溫-阿特金森。視覺喜劇 (1992) [視頻]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32131396</id>
+        <link href="https://news.ycombinator.com/item?id=32131396"/>
+        <updated>2022-07-17T21:18:02.000Z</updated>
+        <summary type="html"><![CDATA[Rowan Atkinson: Visual Comedy (1992) [video]]]></summary>
+        <author>
+            <name>swarmy</name>
+            <uri>https://news.ycombinator.com/user?id=swarmy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[壞咖啡的案例 (2015)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>doctorshady</name>
             <uri>https://news.ycombinator.com/user?id=doctorshady</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CreuSAT。用Rust編寫並通過Creusot驗證的正式驗證的SAT求解器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31780128</id>
-        <link href="https://news.ycombinator.com/item?id=31780128"/>
-        <updated>2022-06-17T15:57:54.000Z</updated>
-        <summary type="html"><![CDATA[CreuSAT: Formally verified SAT solver written in Rust and verified with Creusot]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
         </author>
     </entry>
 </feed>
