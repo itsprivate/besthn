@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 18 Jul 2022 09:02:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 09:32:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我剛剛讀完一本書，做了很多筆記。現在怎麼辦？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32123781</link>
+            <guid>https://news.ycombinator.com/item?id=32123781</guid>
+            <pubDate>Sun, 17 Jul 2022 02:05:13 GMT</pubDate>
+            <description><![CDATA[I just finished reading a book and took lots of notes. Now what?]]></description>
+        </item>
         <item>
             <title><![CDATA[紙飛機設計 (2013)
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31784602</guid>
             <pubDate>Fri, 17 Jun 2022 21:28:55 GMT</pubDate>
             <description><![CDATA[Three Arrows Capital reportedly facing insolvency, crypto bubble is bursting]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美國監獄工人生產了價值110億美元的商品和服務，卻幾乎沒有任何報酬
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31783508</link>
-            <guid>https://news.ycombinator.com/item?id=31783508</guid>
-            <pubDate>Fri, 17 Jun 2022 20:01:43 GMT</pubDate>
-            <description><![CDATA[US prison workers produce $11B worth of goods and services for little to no pay]]></description>
         </item>
     </channel>
 </rss>
