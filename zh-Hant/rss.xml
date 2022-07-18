@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 17 Jul 2022 23:59:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 02:34:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在街上撿拾免費的鋰電，並使其安全使用
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32129478</link>
+            <guid>https://news.ycombinator.com/item?id=32129478</guid>
+            <pubDate>Sun, 17 Jul 2022 18:19:08 GMT</pubDate>
+            <description><![CDATA[Picking up free lithium cells off the street and making them safe for use]]></description>
+        </item>
         <item>
             <title><![CDATA[臉書已開始加密鏈接，以應對改善隱私的URL Stripping
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31781110</guid>
             <pubDate>Fri, 17 Jun 2022 17:01:57 GMT</pubDate>
             <description><![CDATA[The Most Satisfying Checkbox]]></description>
-        </item>
-        <item>
-            <title><![CDATA[阿茲特克萬神殿的視覺指南
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31775486</link>
-            <guid>https://news.ycombinator.com/item?id=31775486</guid>
-            <pubDate>Fri, 17 Jun 2022 08:21:18 GMT</pubDate>
-            <description><![CDATA[A Visual Guide to the Aztec Pantheon]]></description>
         </item>
     </channel>
 </rss>

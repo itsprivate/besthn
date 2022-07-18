@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-17T23:59:48.510Z</updated>
+    <updated>2022-07-18T02:34:54.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在街上撿拾免費的鋰電，並使其安全使用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32129478</id>
+        <link href="https://news.ycombinator.com/item?id=32129478"/>
+        <updated>2022-07-17T18:19:08.000Z</updated>
+        <summary type="html"><![CDATA[Picking up free lithium cells off the street and making them safe for use]]></summary>
+        <author>
+            <name>iamflimflam1</name>
+            <uri>https://news.ycombinator.com/user?id=iamflimflam1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[臉書已開始加密鏈接，以應對改善隱私的URL Stripping
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>feross</name>
             <uri>https://news.ycombinator.com/user?id=feross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿茲特克萬神殿的視覺指南
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31775486</id>
-        <link href="https://news.ycombinator.com/item?id=31775486"/>
-        <updated>2022-06-17T08:21:18.000Z</updated>
-        <summary type="html"><![CDATA[A Visual Guide to the Aztec Pantheon]]></summary>
-        <author>
-            <name>sdoering</name>
-            <uri>https://news.ycombinator.com/user?id=sdoering</uri>
         </author>
     </entry>
 </feed>
