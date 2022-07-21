@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-21T22:49:21.627Z</updated>
+    <updated>2022-07-21T23:03:15.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[研究中的潜在捏造威胁着阿尔茨海默氏症的淀粉质理论
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32183302</id>
+        <link href="https://news.ycombinator.com/item?id=32183302"/>
+        <updated>2022-07-21T18:54:37.000Z</updated>
+        <summary type="html"><![CDATA[Potential fabrication in research threatens the amyloid theory of Alzheimer’s]]></summary>
+        <author>
+            <name>panabee</name>
+            <uri>https://news.ycombinator.com/user?id=panabee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[赫兹为一个从未上线的网站支付埃森哲3200万美元
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>1una</name>
             <uri>https://news.ycombinator.com/user?id=1una</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mold/MacOS比苹果的默认链接器链接Chrome快11倍
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31769699</id>
-        <link href="https://news.ycombinator.com/item?id=31769699"/>
-        <updated>2022-06-16T19:04:50.000Z</updated>
-        <summary type="html"><![CDATA[Mold/macOS is 11 times faster than the Apple's default linker to link Chrome]]></summary>
-        <author>
-            <name>ingve</name>
-            <uri>https://news.ycombinator.com/user?id=ingve</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 21 Jul 2022 22:49:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 23:03:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[研究中的潜在捏造威胁着阿尔茨海默氏症的淀粉质理论
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32183302</link>
+            <guid>https://news.ycombinator.com/item?id=32183302</guid>
+            <pubDate>Thu, 21 Jul 2022 18:54:37 GMT</pubDate>
+            <description><![CDATA[Potential fabrication in research threatens the amyloid theory of Alzheimer’s]]></description>
+        </item>
         <item>
             <title><![CDATA[赫兹为一个从未上线的网站支付埃森哲3200万美元
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31797336</guid>
             <pubDate>Sun, 19 Jun 2022 08:15:41 GMT</pubDate>
             <description><![CDATA[Don't be that open-source user, don't be me]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mold/MacOS比苹果的默认链接器链接Chrome快11倍
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31769699</link>
-            <guid>https://news.ycombinator.com/item?id=31769699</guid>
-            <pubDate>Thu, 16 Jun 2022 19:04:50 GMT</pubDate>
-            <description><![CDATA[Mold/macOS is 11 times faster than the Apple's default linker to link Chrome]]></description>
         </item>
     </channel>
 </rss>
