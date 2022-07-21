@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-21T19:09:46.921Z</updated>
+    <updated>2022-07-21T20:36:13.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么我们忽视了每天数以千计的车祸？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32183007</id>
+        <link href="https://news.ycombinator.com/item?id=32183007"/>
+        <updated>2022-07-21T18:31:39.000Z</updated>
+        <summary type="html"><![CDATA[Why We Ignore Thousands of Daily Car Crashes]]></summary>
+        <author>
+            <name>oftenwrong</name>
+            <uri>https://news.ycombinator.com/user?id=oftenwrong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大多数美国人认为美国宇航局100亿美元的太空望远镜是一项好的投资
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>merlinscholz</name>
             <uri>https://news.ycombinator.com/user?id=merlinscholz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bolt有一个很酷的网络界面，他们真的不希望你使用它
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31797992</id>
-        <link href="https://news.ycombinator.com/item?id=31797992"/>
-        <updated>2022-06-19T10:19:08.000Z</updated>
-        <summary type="html"><![CDATA[Bolt has a cool web interface and they really don't want you to use it]]></summary>
-        <author>
-            <name>kuba-orlik</name>
-            <uri>https://news.ycombinator.com/user?id=kuba-orlik</uri>
         </author>
     </entry>
 </feed>
