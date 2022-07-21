@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 21 Jul 2022 04:58:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 05:38:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你是如何提高你的用户体验技能的？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32147968</link>
+            <guid>https://news.ycombinator.com/item?id=32147968</guid>
+            <pubDate>Tue, 19 Jul 2022 05:48:24 GMT</pubDate>
+            <description><![CDATA[Ask HN: How did you increase your UX skills?]]></description>
+        </item>
         <item>
             <title><![CDATA[告诉HN：Salesforce在全球范围内取消了Slack的假期停工福利
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31788923</guid>
             <pubDate>Sat, 18 Jun 2022 11:30:24 GMT</pubDate>
             <description><![CDATA[Patreon cuts deep inside creators’ pockets]]></description>
-        </item>
-        <item>
-            <title><![CDATA[苹果公司在其磁盘I/O节流代码中存在一个错误，影响到原始磁盘拷贝
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31788894</link>
-            <guid>https://news.ycombinator.com/item?id=31788894</guid>
-            <pubDate>Sat, 18 Jun 2022 11:27:36 GMT</pubDate>
-            <description><![CDATA[Apple has a bug in its disk I/O throttling code that affects raw disk copies]]></description>
         </item>
     </channel>
 </rss>

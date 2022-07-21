@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32147968",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32147968",
+            "title": "你是如何提高你的用戶體驗技能的？\n",
+            "summary": "Ask HN: How did you increase your UX skills?",
+            "date_modified": "2022-07-19T05:48:24.000Z",
+            "author": {
+                "name": "staticBr",
+                "url": "https://news.ycombinator.com/user?id=staticBr"
+            },
+            "_original_headline": "Ask HN: How did you increase your UX skills?",
+            "_original_url": "https://news.ycombinator.com/item?id=32147968",
+            "_sensitive": false,
+            "_score": 205
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32174596",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32174596",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://thoughts.jatan.space/p/patreon-cuts-deep",
             "_sensitive": false,
             "_score": 207
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31788894",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31788894",
-            "title": "蘋果公司在其磁盤I/O節流代碼中存在一個錯誤，影響到原始磁盤拷貝\n",
-            "summary": "Apple has a bug in its disk I/O throttling code that affects raw disk copies",
-            "date_modified": "2022-06-18T11:27:36.000Z",
-            "author": {
-                "name": "lapcat",
-                "url": "https://news.ycombinator.com/user?id=lapcat"
-            },
-            "_original_headline": "Apple has a bug in its disk I/O throttling code that affects raw disk copies",
-            "_original_url": "https://mjacobson.net/blog/2022-02-throttling.html",
-            "_sensitive": false,
-            "_score": 203
         }
     ]
 }
