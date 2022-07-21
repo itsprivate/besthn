@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-21T02:38:52.126Z</updated>
+    <updated>2022-07-21T04:02:42.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Archive.org要求對出版公司提起的訴訟作出簡易判決
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32173901</id>
+        <link href="https://news.ycombinator.com/item?id=32173901"/>
+        <updated>2022-07-20T23:41:25.000Z</updated>
+        <summary type="html"><![CDATA[Archive.org Seeks Summary Judgment in Lawsuit Filed by Publishing Companies]]></summary>
+        <author>
+            <name>doener</name>
+            <uri>https://news.ycombinator.com/user?id=doener</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巨型肖像。一拍即合的百萬像素神經頭像
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32168299</id>
+        <link href="https://news.ycombinator.com/item?id=32168299"/>
+        <updated>2022-07-20T16:37:06.000Z</updated>
+        <summary type="html"><![CDATA[MegaPortraits: One-Shot Megapixel Neural Head Avatars]]></summary>
+        <author>
+            <name>voydik</name>
+            <uri>https://news.ycombinator.com/user?id=voydik</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[這種食物並不存在
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32167704</id>
+        <link href="https://news.ycombinator.com/item?id=32167704"/>
+        <updated>2022-07-20T16:02:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: This Food Does Not Exist]]></summary>
+        <author>
+            <name>MasterScrat</name>
+            <uri>https://news.ycombinator.com/user?id=MasterScrat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高房產稅是好事
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>feross</name>
             <uri>https://news.ycombinator.com/user?id=feross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個具有現實經濟模型的中央銀行模擬遊戲
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31785199</id>
-        <link href="https://news.ycombinator.com/item?id=31785199"/>
-        <updated>2022-06-17T22:24:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A central bank simulator game with a realistic economic model]]></summary>
-        <author>
-            <name>BenoitEssiambre</name>
-            <uri>https://news.ycombinator.com/user?id=BenoitEssiambre</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有史以來最好的開發工具投稿？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31782200</id>
-        <link href="https://news.ycombinator.com/item?id=31782200"/>
-        <updated>2022-06-17T18:18:41.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Best dev tool pitches of all time?]]></summary>
-        <author>
-            <name>swyx</name>
-            <uri>https://news.ycombinator.com/user?id=swyx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互聯網檔案館開設溫哥華總部，為科技界提供會議空間
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31774608</id>
-        <link href="https://news.ycombinator.com/item?id=31774608"/>
-        <updated>2022-06-17T06:07:18.000Z</updated>
-        <summary type="html"><![CDATA[Internet Archive opens Vancouver headquarters, meeting space for the tech world]]></summary>
-        <author>
-            <name>danbolt</name>
-            <uri>https://news.ycombinator.com/user?id=danbolt</uri>
         </author>
     </entry>
 </feed>

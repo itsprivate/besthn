@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 21 Jul 2022 02:38:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 04:02:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Archive.org要求對出版公司提起的訴訟作出簡易判決
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32173901</link>
+            <guid>https://news.ycombinator.com/item?id=32173901</guid>
+            <pubDate>Wed, 20 Jul 2022 23:41:25 GMT</pubDate>
+            <description><![CDATA[Archive.org Seeks Summary Judgment in Lawsuit Filed by Publishing Companies]]></description>
+        </item>
+        <item>
+            <title><![CDATA[巨型肖像。一拍即合的百萬像素神經頭像
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32168299</link>
+            <guid>https://news.ycombinator.com/item?id=32168299</guid>
+            <pubDate>Wed, 20 Jul 2022 16:37:06 GMT</pubDate>
+            <description><![CDATA[MegaPortraits: One-Shot Megapixel Neural Head Avatars]]></description>
+        </item>
+        <item>
+            <title><![CDATA[這種食物並不存在
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32167704</link>
+            <guid>https://news.ycombinator.com/item?id=32167704</guid>
+            <pubDate>Wed, 20 Jul 2022 16:02:52 GMT</pubDate>
+            <description><![CDATA[Show HN: This Food Does Not Exist]]></description>
+        </item>
         <item>
             <title><![CDATA[高房產稅是好事
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31780190</guid>
             <pubDate>Fri, 17 Jun 2022 16:01:53 GMT</pubDate>
             <description><![CDATA[Writing like a pro with Vale and Neovim]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個具有現實經濟模型的中央銀行模擬遊戲
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31785199</link>
-            <guid>https://news.ycombinator.com/item?id=31785199</guid>
-            <pubDate>Fri, 17 Jun 2022 22:24:21 GMT</pubDate>
-            <description><![CDATA[Show HN: A central bank simulator game with a realistic economic model]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有史以來最好的開發工具投稿？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31782200</link>
-            <guid>https://news.ycombinator.com/item?id=31782200</guid>
-            <pubDate>Fri, 17 Jun 2022 18:18:41 GMT</pubDate>
-            <description><![CDATA[Ask HN: Best dev tool pitches of all time?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[互聯網檔案館開設溫哥華總部，為科技界提供會議空間
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31774608</link>
-            <guid>https://news.ycombinator.com/item?id=31774608</guid>
-            <pubDate>Fri, 17 Jun 2022 06:07:18 GMT</pubDate>
-            <description><![CDATA[Internet Archive opens Vancouver headquarters, meeting space for the tech world]]></description>
         </item>
     </channel>
 </rss>
