@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 21 Jul 2022 07:32:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 08:35:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Gitlab和远程工作
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32170028</link>
+            <guid>https://news.ycombinator.com/item?id=32170028</guid>
+            <pubDate>Wed, 20 Jul 2022 18:22:32 GMT</pubDate>
+            <description><![CDATA[Gitlab and remote work]]></description>
+        </item>
         <item>
             <title><![CDATA[西蒙-泰瑟姆的便携式拼图集
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31787038</guid>
             <pubDate>Sat, 18 Jun 2022 03:27:41 GMT</pubDate>
             <description><![CDATA[OpenAI]]></description>
-        </item>
-        <item>
-            <title><![CDATA[日本NTT开始将远程工作作为3万名员工的常态
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31791124</link>
-            <guid>https://news.ycombinator.com/item?id=31791124</guid>
-            <pubDate>Sat, 18 Jun 2022 16:07:33 GMT</pubDate>
-            <description><![CDATA[Japan's NTT to begin remote work as norm for 30k employees]]></description>
         </item>
     </channel>
 </rss>
