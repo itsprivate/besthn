@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-21T18:42:54.129Z</updated>
+    <updated>2022-07-21T19:09:46.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大多數美國人認為美國宇航局100億美元的太空望遠鏡是一項好的投資
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32180196</id>
+        <link href="https://news.ycombinator.com/item?id=32180196"/>
+        <updated>2022-07-21T15:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Most Americans think NASA’s $10B space telescope is a good investment]]></summary>
+        <author>
+            <name>hubraumhugo</name>
+            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[玻璃門公司被勒令揭開發布批評意見的前玩具公司員工的面紗
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32179396</id>
+        <link href="https://news.ycombinator.com/item?id=32179396"/>
+        <updated>2022-07-21T13:52:57.000Z</updated>
+        <summary type="html"><![CDATA[Glassdoor ordered to unmask former toy company employees who posted criticism]]></summary>
+        <author>
+            <name>jackallis</name>
+            <uri>https://news.ycombinator.com/user?id=jackallis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在哪裡可以找到可以兼職的小公司？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32178328</id>
+        <link href="https://news.ycombinator.com/item?id=32178328"/>
+        <updated>2022-07-21T12:02:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where can I find small companies to work for part-time?]]></summary>
+        <author>
+            <name>ggktk</name>
+            <uri>https://news.ycombinator.com/user?id=ggktk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告訴HN：你不能僱用，因為你沒有公佈工資範圍
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>kuba-orlik</name>
             <uri>https://news.ycombinator.com/user?id=kuba-orlik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼Git子模塊如此糟糕？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31792303</id>
-        <link href="https://news.ycombinator.com/item?id=31792303"/>
-        <updated>2022-06-18T18:11:57.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why are Git submodules so bad?]]></summary>
-        <author>
-            <name>ghoward</name>
-            <uri>https://news.ycombinator.com/user?id=ghoward</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[還沒有使用Kubernetes
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31795160</id>
-        <link href="https://news.ycombinator.com/item?id=31795160"/>
-        <updated>2022-06-19T00:49:39.000Z</updated>
-        <summary type="html"><![CDATA[Don't use Kubernetes yet]]></summary>
-        <author>
-            <name>rckrd</name>
-            <uri>https://news.ycombinator.com/user?id=rckrd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC價格跌至平均開採成本，比特幣開採變得無利可圖
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31796239</id>
-        <link href="https://news.ycombinator.com/item?id=31796239"/>
-        <updated>2022-06-19T04:46:22.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin mining becomes unprofitable as BTC price falls to average cost of mining]]></summary>
-        <author>
-            <name>lakis</name>
-            <uri>https://news.ycombinator.com/user?id=lakis</uri>
         </author>
     </entry>
 </feed>
