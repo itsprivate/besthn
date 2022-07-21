@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 21 Jul 2022 20:36:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 22:49:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[赫兹为一个从未上线的网站支付埃森哲3200万美元
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32184183</link>
+            <guid>https://news.ycombinator.com/item?id=32184183</guid>
+            <pubDate>Thu, 21 Jul 2022 19:59:58 GMT</pubDate>
+            <description><![CDATA[Hertz paid Accenture $32M for a website that never went live]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么我们忽视了每天数以千计的车祸？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31769699</guid>
             <pubDate>Thu, 16 Jun 2022 19:04:50 GMT</pubDate>
             <description><![CDATA[Mold/macOS is 11 times faster than the Apple's default linker to link Chrome]]></description>
-        </item>
-        <item>
-            <title><![CDATA[兔子字体 - 尊重隐私的谷歌字体的替代品
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31798311</link>
-            <guid>https://news.ycombinator.com/item?id=31798311</guid>
-            <pubDate>Sun, 19 Jun 2022 11:24:24 GMT</pubDate>
-            <description><![CDATA[Bunny fonts – privacy respecting drop-in replacement for Google Fonts]]></description>
         </item>
     </channel>
 </rss>
