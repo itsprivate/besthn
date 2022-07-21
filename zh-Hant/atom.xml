@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-21T17:48:28.926Z</updated>
+    <updated>2022-07-21T17:58:25.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[前Coinbase總理被指控參與加密貨幣內幕交易小費計劃
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32180428</id>
+        <link href="https://news.ycombinator.com/item?id=32180428"/>
+        <updated>2022-07-21T15:19:41.000Z</updated>
+        <summary type="html"><![CDATA[Former Coinbase PM Charged in Cryptocurrency Insider Trading Tipping Scheme]]></summary>
+        <author>
+            <name>tempsy</name>
+            <uri>https://news.ycombinator.com/user?id=tempsy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前Coinbase員工被指控參與首次加密貨幣內幕交易計劃
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>slimsag</name>
             <uri>https://news.ycombinator.com/user?id=slimsag</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果公司傳統設計團隊的解體
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31791214</id>
-        <link href="https://news.ycombinator.com/item?id=31791214"/>
-        <updated>2022-06-18T16:16:14.000Z</updated>
-        <summary type="html"><![CDATA[The dissolution of Apple’s legacy design team]]></summary>
-        <author>
-            <name>Pulcinella</name>
-            <uri>https://news.ycombinator.com/user?id=Pulcinella</uri>
         </author>
     </entry>
 </feed>
