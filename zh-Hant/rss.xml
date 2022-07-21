@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 21 Jul 2022 05:58:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 07:32:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[西蒙-泰瑟姆的便攜式拼圖集
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32170592</link>
+            <guid>https://news.ycombinator.com/item?id=32170592</guid>
+            <pubDate>Wed, 20 Jul 2022 19:02:23 GMT</pubDate>
+            <description><![CDATA[Simon Tatham's Portable Puzzle Collection]]></description>
+        </item>
         <item>
             <title><![CDATA[Python中的漂亮地圖
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31791124</guid>
             <pubDate>Sat, 18 Jun 2022 16:07:33 GMT</pubDate>
             <description><![CDATA[Japan's NTT to begin remote work as norm for 30k employees]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美國能源部宣佈在住宅寒冷氣候熱泵技術方面取得突破性進展
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31791444</link>
-            <guid>https://news.ycombinator.com/item?id=31791444</guid>
-            <pubDate>Sat, 18 Jun 2022 16:39:04 GMT</pubDate>
-            <description><![CDATA[DOE announces breakthrough in residential cold climate heat pump technology]]></description>
         </item>
     </channel>
 </rss>
