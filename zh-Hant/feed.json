@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32175328",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32175328",
+            "title": "一個關於 \"是 \"Unix命令的小故事\n",
+            "summary": "A little story about the `yes` Unix command",
+            "date_modified": "2022-07-21T03:10:01.000Z",
+            "author": {
+                "name": "derwiki",
+                "url": "https://news.ycombinator.com/user?id=derwiki"
+            },
+            "_original_headline": "A little story about the `yes` Unix command",
+            "_original_url": "https://endler.dev/2017/yes/",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32170244",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32170244",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.unibas.ch/en/News-Events/News/Uni-Research/Good-bacteria-to-tackle-depression.html",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31793030",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31793030",
-            "title": "寒冷的陣雨\n",
-            "summary": "Cold Showers",
-            "date_modified": "2022-06-18T19:34:33.000Z",
-            "author": {
-                "name": "blopeur",
-                "url": "https://news.ycombinator.com/user?id=blopeur"
-            },
-            "_original_headline": "Cold Showers",
-            "_original_url": "https://github.com/hwayne/awesome-cold-showers",
-            "_sensitive": false,
-            "_score": 228
         }
     ]
 }
