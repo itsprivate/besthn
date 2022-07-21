@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-21T17:58:25.633Z</updated>
+    <updated>2022-07-21T18:42:54.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：你不能雇用，因为你没有公布工资范围
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32181619</id>
+        <link href="https://news.ycombinator.com/item?id=32181619"/>
+        <updated>2022-07-21T16:46:57.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: You can't hire because you don't post salary ranges]]></summary>
+        <author>
+            <name>Carrok</name>
+            <uri>https://news.ycombinator.com/user?id=Carrok</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux防火墙中的一个裂缝
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32178058</id>
+        <link href="https://news.ycombinator.com/item?id=32178058"/>
+        <updated>2022-07-21T11:24:10.000Z</updated>
+        <summary type="html"><![CDATA[A Crack in the Linux Firewall]]></summary>
+        <author>
+            <name>emilburzo</name>
+            <uri>https://news.ycombinator.com/user?id=emilburzo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于建筑的神话
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32162862</id>
+        <link href="https://news.ycombinator.com/item?id=32162862"/>
+        <updated>2022-07-20T08:10:29.000Z</updated>
+        <summary type="html"><![CDATA[Myths about construction]]></summary>
+        <author>
+            <name>fomine3</name>
+            <uri>https://news.ycombinator.com/user?id=fomine3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前Coinbase总理被指控参与加密货币内幕交易小费计划
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>lakis</name>
             <uri>https://news.ycombinator.com/user?id=lakis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Citybound - 使用基于演员的分布式模拟的城市建设游戏
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31794872</id>
-        <link href="https://news.ycombinator.com/item?id=31794872"/>
-        <updated>2022-06-18T23:55:24.000Z</updated>
-        <summary type="html"><![CDATA[Citybound – city building game using actor-based distributed simulation]]></summary>
-        <author>
-            <name>pabs3</name>
-            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V语言评论
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31793554</id>
-        <link href="https://news.ycombinator.com/item?id=31793554"/>
-        <updated>2022-06-18T20:31:35.000Z</updated>
-        <summary type="html"><![CDATA[V Language Review]]></summary>
-        <author>
-            <name>mawfig</name>
-            <uri>https://news.ycombinator.com/user?id=mawfig</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为Windows交叉编译二进制文件比本地构建更容易
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31792790</id>
-        <link href="https://news.ycombinator.com/item?id=31792790"/>
-        <updated>2022-06-18T19:09:34.000Z</updated>
-        <summary type="html"><![CDATA[Cross-compiling binaries for Windows is easier than building natively]]></summary>
-        <author>
-            <name>slimsag</name>
-            <uri>https://news.ycombinator.com/user?id=slimsag</uri>
         </author>
     </entry>
 </feed>

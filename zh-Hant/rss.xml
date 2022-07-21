@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 21 Jul 2022 17:58:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 18:42:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[告訴HN：你不能僱用，因為你沒有公佈工資範圍
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32181619</link>
+            <guid>https://news.ycombinator.com/item?id=32181619</guid>
+            <pubDate>Thu, 21 Jul 2022 16:46:57 GMT</pubDate>
+            <description><![CDATA[Tell HN: You can't hire because you don't post salary ranges]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Linux防火牆中的一個裂縫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32178058</link>
+            <guid>https://news.ycombinator.com/item?id=32178058</guid>
+            <pubDate>Thu, 21 Jul 2022 11:24:10 GMT</pubDate>
+            <description><![CDATA[A Crack in the Linux Firewall]]></description>
+        </item>
+        <item>
+            <title><![CDATA[關於建築的神話
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32162862</link>
+            <guid>https://news.ycombinator.com/item?id=32162862</guid>
+            <pubDate>Wed, 20 Jul 2022 08:10:29 GMT</pubDate>
+            <description><![CDATA[Myths about construction]]></description>
+        </item>
         <item>
             <title><![CDATA[前Coinbase總理被指控參與加密貨幣內幕交易小費計劃
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31796239</guid>
             <pubDate>Sun, 19 Jun 2022 04:46:22 GMT</pubDate>
             <description><![CDATA[Bitcoin mining becomes unprofitable as BTC price falls to average cost of mining]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Citybound - 使用基於演員的分佈式模擬的城市建設遊戲
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31794872</link>
-            <guid>https://news.ycombinator.com/item?id=31794872</guid>
-            <pubDate>Sat, 18 Jun 2022 23:55:24 GMT</pubDate>
-            <description><![CDATA[Citybound – city building game using actor-based distributed simulation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[V語言評論
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31793554</link>
-            <guid>https://news.ycombinator.com/item?id=31793554</guid>
-            <pubDate>Sat, 18 Jun 2022 20:31:35 GMT</pubDate>
-            <description><![CDATA[V Language Review]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為Windows交叉編譯二進制文件比本地構建更容易
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31792790</link>
-            <guid>https://news.ycombinator.com/item?id=31792790</guid>
-            <pubDate>Sat, 18 Jun 2022 19:09:34 GMT</pubDate>
-            <description><![CDATA[Cross-compiling binaries for Windows is easier than building natively]]></description>
         </item>
     </channel>
 </rss>
