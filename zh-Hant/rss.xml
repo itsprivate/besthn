@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 21 Jul 2022 23:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 23:32:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[分析iOS 16鎖定模式。瀏覽器功能和性能
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32177465</link>
+            <guid>https://news.ycombinator.com/item?id=32177465</guid>
+            <pubDate>Thu, 21 Jul 2022 09:58:58 GMT</pubDate>
+            <description><![CDATA[Analyzing iOS 16 Lockdown Mode: Browser Features and Performance]]></description>
+        </item>
         <item>
             <title><![CDATA[研究中的潛在捏造威脅著阿爾茨海默氏症的澱粉質理論
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31797686</guid>
             <pubDate>Sun, 19 Jun 2022 09:22:36 GMT</pubDate>
             <description><![CDATA[Reasons to tour by bicycle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不要成為那個開源用戶，不要成為我
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31797336</link>
-            <guid>https://news.ycombinator.com/item?id=31797336</guid>
-            <pubDate>Sun, 19 Jun 2022 08:15:41 GMT</pubDate>
-            <description><![CDATA[Don't be that open-source user, don't be me]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-21T23:03:15.519Z</updated>
+    <updated>2022-07-21T23:32:37.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[分析iOS 16鎖定模式。瀏覽器功能和性能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32177465</id>
+        <link href="https://news.ycombinator.com/item?id=32177465"/>
+        <updated>2022-07-21T09:58:58.000Z</updated>
+        <summary type="html"><![CDATA[Analyzing iOS 16 Lockdown Mode: Browser Features and Performance]]></summary>
+        <author>
+            <name>mjs</name>
+            <uri>https://news.ycombinator.com/user?id=mjs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究中的潛在捏造威脅著阿爾茨海默氏症的澱粉質理論
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>galfarragem</name>
             <uri>https://news.ycombinator.com/user?id=galfarragem</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要成為那個開源用戶，不要成為我
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31797336</id>
-        <link href="https://news.ycombinator.com/item?id=31797336"/>
-        <updated>2022-06-19T08:15:41.000Z</updated>
-        <summary type="html"><![CDATA[Don't be that open-source user, don't be me]]></summary>
-        <author>
-            <name>1una</name>
-            <uri>https://news.ycombinator.com/user?id=1una</uri>
         </author>
     </entry>
 </feed>
