@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-21T14:42:13.250Z</updated>
+    <updated>2022-07-21T15:33:50.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我對我的網站重新設計感到後悔
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32179563</id>
+        <link href="https://news.ycombinator.com/item?id=32179563"/>
+        <updated>2022-07-21T14:06:31.000Z</updated>
+        <summary type="html"><![CDATA[I Regret my Website Redesign]]></summary>
+        <author>
+            <name>mtlynch</name>
+            <uri>https://news.ycombinator.com/user?id=mtlynch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個關於 "是 "Unix命令的小故事
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Element_</name>
             <uri>https://news.ycombinator.com/user?id=Element_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[益生菌可以支持抗抑鬱藥的效果
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31777062</id>
-        <link href="https://news.ycombinator.com/item?id=31777062"/>
-        <updated>2022-06-17T12:24:30.000Z</updated>
-        <summary type="html"><![CDATA[Probiotics can support the effect of antidepressants]]></summary>
-        <author>
-            <name>NickRandom</name>
-            <uri>https://news.ycombinator.com/user?id=NickRandom</uri>
         </author>
     </entry>
 </feed>
