@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-18T09:32:16.068Z</updated>
+    <updated>2022-07-21T02:38:52.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[高房产税是好事
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32168521</id>
+        <link href="https://news.ycombinator.com/item?id=32168521"/>
+        <updated>2022-07-20T16:50:23.000Z</updated>
+        <summary type="html"><![CDATA[High property taxes are good]]></summary>
+        <author>
+            <name>brockwhittaker</name>
+            <uri>https://news.ycombinator.com/user?id=brockwhittaker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我刚刚读完一本书，做了很多笔记。现在怎么办？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>danbolt</name>
             <uri>https://news.ycombinator.com/user?id=danbolt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据报道，三箭资本面临破产，加密货币泡沫正在破灭
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31784602</id>
-        <link href="https://news.ycombinator.com/item?id=31784602"/>
-        <updated>2022-06-17T21:28:55.000Z</updated>
-        <summary type="html"><![CDATA[Three Arrows Capital reportedly facing insolvency, crypto bubble is bursting]]></summary>
-        <author>
-            <name>paulpauper</name>
-            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
         </author>
     </entry>
 </feed>
