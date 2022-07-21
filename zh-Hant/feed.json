@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32175100",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32175100",
+            "title": "當你在終端機上按下一個鍵時會發生什麼？\n",
+            "summary": "What happens when you press a key in your terminal?",
+            "date_modified": "2022-07-21T02:29:34.000Z",
+            "author": {
+                "name": "robenkleene",
+                "url": "https://news.ycombinator.com/user?id=robenkleene"
+            },
+            "_original_headline": "What happens when you press a key in your terminal?",
+            "_original_url": "https://jvns.ca/blog/2022/07/20/pseudoterminals/",
+            "_sensitive": false,
+            "_score": 205
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32170028",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32170028",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://kk.org/thetechnium/construction-is-life/",
             "_sensitive": false,
             "_score": 205
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31787038",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31787038",
-            "title": "敞開式人工智能\n",
-            "summary": "OpenAI",
-            "date_modified": "2022-06-18T03:27:41.000Z",
-            "author": {
-                "name": "2mol",
-                "url": "https://news.ycombinator.com/user?id=2mol"
-            },
-            "_original_headline": "OpenAI",
-            "_original_url": "https://scottaaronson.blog/?p=6484",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }

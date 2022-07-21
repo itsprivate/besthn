@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 21 Jul 2022 08:35:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 10:54:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[当你在终端机上按下一个键时会发生什么？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32175100</link>
+            <guid>https://news.ycombinator.com/item?id=32175100</guid>
+            <pubDate>Thu, 21 Jul 2022 02:29:34 GMT</pubDate>
+            <description><![CDATA[What happens when you press a key in your terminal?]]></description>
+        </item>
         <item>
             <title><![CDATA[Gitlab和远程工作
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31789809</guid>
             <pubDate>Sat, 18 Jun 2022 13:50:42 GMT</pubDate>
             <description><![CDATA[Construction is life]]></description>
-        </item>
-        <item>
-            <title><![CDATA[敞开式人工智能
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31787038</link>
-            <guid>https://news.ycombinator.com/item?id=31787038</guid>
-            <pubDate>Sat, 18 Jun 2022 03:27:41 GMT</pubDate>
-            <description><![CDATA[OpenAI]]></description>
         </item>
     </channel>
 </rss>
