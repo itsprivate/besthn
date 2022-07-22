@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32181974",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32181974",
+            "title": "ML在预测消费者的选择方面并不那么出色\n",
+            "summary": "ML is not that good at predicting consumers' choices",
+            "date_modified": "2022-07-21T17:13:16.000Z",
+            "author": {
+                "name": "macleginn",
+                "url": "https://news.ycombinator.com/user?id=macleginn"
+            },
+            "_original_headline": "ML is not that good at predicting consumers' choices",
+            "_original_url": "https://statmodeling.stat.columbia.edu/2022/07/21/predicting-consumers-choices-in-the-age-of-the-internet-ai-and-almost-perfect-tracking-some-things-change-the-key-challenges-do-not/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32179842",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32179842",
+            "title": "框架笔记本电脑（2022）回顾：可修复性的梦想\n",
+            "summary": "Framework Laptop (2022) review: the repairability dream",
+            "date_modified": "2022-07-21T14:30:26.000Z",
+            "author": {
+                "name": "Tomte",
+                "url": "https://news.ycombinator.com/user?id=Tomte"
+            },
+            "_original_headline": "Framework Laptop (2022) review: the repairability dream",
+            "_original_url": "https://www.theverge.com/23270191/framework-laptop-12th-gen-2022-review",
+            "_sensitive": false,
+            "_score": 205
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32186203",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32186203",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://www.techdirt.com/2022/06/17/samsung-busted-for-cheating-tv-test-benchmarks/",
             "_sensitive": false,
             "_score": 207
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31798580",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31798580",
-            "title": "软件失意（2018）\n",
-            "summary": "Software Disenchantment (2018)",
-            "date_modified": "2022-06-19T12:12:10.000Z",
-            "author": {
-                "name": "ShowalkKama",
-                "url": "https://news.ycombinator.com/user?id=ShowalkKama"
-            },
-            "_original_headline": "Software Disenchantment (2018)",
-            "_original_url": "https://tonsky.me/blog/disenchantment/",
-            "_sensitive": false,
-            "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31800684",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31800684",
-            "title": "大脑有一个 \"低功率模式\"，使我们的感官变得迟钝\n",
-            "summary": "The brain has a ‘low-power mode’ that blunts our senses",
-            "date_modified": "2022-06-19T16:16:04.000Z",
-            "author": {
-                "name": "mikhael",
-                "url": "https://news.ycombinator.com/user?id=mikhael"
-            },
-            "_original_headline": "The brain has a ‘low-power mode’ that blunts our senses",
-            "_original_url": "https://www.quantamagazine.org/the-brain-has-a-low-power-mode-that-blunts-our-senses-20220614/",
-            "_sensitive": false,
-            "_score": 215
         }
     ]
 }

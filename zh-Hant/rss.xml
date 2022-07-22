@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 22 Jul 2022 04:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 05:58:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[ML在預測消費者的選擇方面並不那麼出色
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32181974</link>
+            <guid>https://news.ycombinator.com/item?id=32181974</guid>
+            <pubDate>Thu, 21 Jul 2022 17:13:16 GMT</pubDate>
+            <description><![CDATA[ML is not that good at predicting consumers' choices]]></description>
+        </item>
+        <item>
+            <title><![CDATA[框架筆記本電腦（2022）回顧：可修復性的夢想
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32179842</link>
+            <guid>https://news.ycombinator.com/item?id=32179842</guid>
+            <pubDate>Thu, 21 Jul 2022 14:30:26 GMT</pubDate>
+            <description><![CDATA[Framework Laptop (2022) review: the repairability dream]]></description>
+        </item>
         <item>
             <title><![CDATA[你知道哪些 "酷 "但晦澀難懂的數據結構？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31803593</guid>
             <pubDate>Sun, 19 Jun 2022 21:16:45 GMT</pubDate>
             <description><![CDATA[Samsung Busted for Cheating TV Test Benchmarks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[軟件失意（2018）
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31798580</link>
-            <guid>https://news.ycombinator.com/item?id=31798580</guid>
-            <pubDate>Sun, 19 Jun 2022 12:12:10 GMT</pubDate>
-            <description><![CDATA[Software Disenchantment (2018)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大腦有一個 "低功率模式"，使我們的感官變得遲鈍
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31800684</link>
-            <guid>https://news.ycombinator.com/item?id=31800684</guid>
-            <pubDate>Sun, 19 Jun 2022 16:16:04 GMT</pubDate>
-            <description><![CDATA[The brain has a ‘low-power mode’ that blunts our senses]]></description>
         </item>
     </channel>
 </rss>

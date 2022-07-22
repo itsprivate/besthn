@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-22T04:09:28.099Z</updated>
+    <updated>2022-07-22T05:58:58.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ML在預測消費者的選擇方面並不那麼出色
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32181974</id>
+        <link href="https://news.ycombinator.com/item?id=32181974"/>
+        <updated>2022-07-21T17:13:16.000Z</updated>
+        <summary type="html"><![CDATA[ML is not that good at predicting consumers' choices]]></summary>
+        <author>
+            <name>macleginn</name>
+            <uri>https://news.ycombinator.com/user?id=macleginn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[框架筆記本電腦（2022）回顧：可修復性的夢想
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32179842</id>
+        <link href="https://news.ycombinator.com/item?id=32179842"/>
+        <updated>2022-07-21T14:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Framework Laptop (2022) review: the repairability dream]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你知道哪些 "酷 "但晦澀難懂的數據結構？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>CrankyBear</name>
             <uri>https://news.ycombinator.com/user?id=CrankyBear</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[軟件失意（2018）
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31798580</id>
-        <link href="https://news.ycombinator.com/item?id=31798580"/>
-        <updated>2022-06-19T12:12:10.000Z</updated>
-        <summary type="html"><![CDATA[Software Disenchantment (2018)]]></summary>
-        <author>
-            <name>ShowalkKama</name>
-            <uri>https://news.ycombinator.com/user?id=ShowalkKama</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大腦有一個 "低功率模式"，使我們的感官變得遲鈍
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31800684</id>
-        <link href="https://news.ycombinator.com/item?id=31800684"/>
-        <updated>2022-06-19T16:16:04.000Z</updated>
-        <summary type="html"><![CDATA[The brain has a ‘low-power mode’ that blunts our senses]]></summary>
-        <author>
-            <name>mikhael</name>
-            <uri>https://news.ycombinator.com/user?id=mikhael</uri>
         </author>
     </entry>
 </feed>
