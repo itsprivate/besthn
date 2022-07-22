@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-22T15:02:40.936Z</updated>
+    <updated>2022-07-22T18:40:52.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英国情报部门回收 "为儿童着想 "的论据以禁止加密
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32189507</id>
+        <link href="https://news.ycombinator.com/item?id=32189507"/>
+        <updated>2022-07-22T07:33:51.000Z</updated>
+        <summary type="html"><![CDATA[UK intelligence recycles “think of the children” argument for borking encryption]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2000年中期关于Etsy主页的怪异史诗般的漫谈
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯托尔帕斯坦
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31790246</id>
-        <link href="https://news.ycombinator.com/item?id=31790246"/>
-        <updated>2022-06-18T14:45:06.000Z</updated>
-        <summary type="html"><![CDATA[Stolperstein]]></summary>
-        <author>
-            <name>dschuessler</name>
-            <uri>https://news.ycombinator.com/user?id=dschuessler</uri>
         </author>
     </entry>
 </feed>

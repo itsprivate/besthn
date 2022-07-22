@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 22 Jul 2022 15:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 18:40:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[英国情报部门回收 "为儿童着想 "的论据以禁止加密
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32189507</link>
+            <guid>https://news.ycombinator.com/item?id=32189507</guid>
+            <pubDate>Fri, 22 Jul 2022 07:33:51 GMT</pubDate>
+            <description><![CDATA[UK intelligence recycles “think of the children” argument for borking encryption]]></description>
+        </item>
         <item>
             <title><![CDATA[2000年中期关于Etsy主页的怪异史诗般的漫谈
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31808093</guid>
             <pubDate>Mon, 20 Jun 2022 09:25:32 GMT</pubDate>
             <description><![CDATA[Writing One Sentence per Line]]></description>
-        </item>
-        <item>
-            <title><![CDATA[斯托尔帕斯坦
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31790246</link>
-            <guid>https://news.ycombinator.com/item?id=31790246</guid>
-            <pubDate>Sat, 18 Jun 2022 14:45:06 GMT</pubDate>
-            <description><![CDATA[Stolperstein]]></description>
         </item>
     </channel>
 </rss>
