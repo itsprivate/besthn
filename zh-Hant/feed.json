@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32186203",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32186203",
+            "title": "你知道哪些 \"酷 \"但晦澀難懂的數據結構？\n",
+            "summary": "Ask HN: What are some 'cool' but obscure data structures you know about?",
+            "date_modified": "2022-07-21T22:50:29.000Z",
+            "author": {
+                "name": "Uptrenda",
+                "url": "https://news.ycombinator.com/user?id=Uptrenda"
+            },
+            "_original_headline": "Ask HN: What are some 'cool' but obscure data structures you know about?",
+            "_original_url": "https://news.ycombinator.com/item?id=32186203",
+            "_sensitive": false,
+            "_score": 238
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32177053",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32177053",
+            "title": "告訴HN：今天我在網上賺了第一個 \"錢\"。\n",
+            "summary": "Tell HN: Today I made my first “bucks” on the web",
+            "date_modified": "2022-07-21T08:39:08.000Z",
+            "author": {
+                "name": "out_sider",
+                "url": "https://news.ycombinator.com/user?id=out_sider"
+            },
+            "_original_headline": "Tell HN: Today I made my first “bucks” on the web",
+            "_original_url": "https://news.ycombinator.com/item?id=32177053",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32178643",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32178643",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://www.quantamagazine.org/the-brain-has-a-low-power-mode-that-blunts-our-senses-20220614/",
             "_sensitive": false,
             "_score": 215
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31799414",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31799414",
-            "title": "淘寶網確認PS4/PS5上有5個連鎖漏洞\n",
-            "summary": "Playstation confirms chain of 5 vulnerabilities on PS4/PS5",
-            "date_modified": "2022-06-19T13:56:07.000Z",
-            "author": {
-                "name": "guiambros",
-                "url": "https://news.ycombinator.com/user?id=guiambros"
-            },
-            "_original_headline": "Playstation confirms chain of 5 vulnerabilities on PS4/PS5",
-            "_original_url": "https://hackerone.com/reports/1379975",
-            "_sensitive": false,
-            "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31802600",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31802600",
-            "title": "Solend公司扣押了1.7億美元的用戶資金\n",
-            "summary": "Solend seized $170M of user funds",
-            "date_modified": "2022-06-19T19:35:34.000Z",
-            "author": {
-                "name": "55555",
-                "url": "https://news.ycombinator.com/user?id=55555"
-            },
-            "_original_headline": "Solend seized $170M of user funds",
-            "_original_url": "https://old.reddit.com/r/CryptoCurrency/comments/vfszpt/solend_the_largest_lending_market_on_solana_is/",
-            "_sensitive": false,
-            "_score": 209
         }
     ]
 }

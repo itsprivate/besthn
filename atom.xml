@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-22T02:45:20.888Z</updated>
+    <updated>2022-07-22T04:09:28.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你知道哪些 "酷 "但晦涩难懂的数据结构？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32186203</id>
+        <link href="https://news.ycombinator.com/item?id=32186203"/>
+        <updated>2022-07-21T22:50:29.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What are some 'cool' but obscure data structures you know about?]]></summary>
+        <author>
+            <name>Uptrenda</name>
+            <uri>https://news.ycombinator.com/user?id=Uptrenda</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：今天我在网上赚了第一个 "钱"。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32177053</id>
+        <link href="https://news.ycombinator.com/item?id=32177053"/>
+        <updated>2022-07-21T08:39:08.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Today I made my first “bucks” on the web]]></summary>
+        <author>
+            <name>out_sider</name>
+            <uri>https://news.ycombinator.com/user?id=out_sider</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亚马逊将收购One Medical
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mikhael</name>
             <uri>https://news.ycombinator.com/user?id=mikhael</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[淘宝网确认PS4/PS5上有5个连锁漏洞
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31799414</id>
-        <link href="https://news.ycombinator.com/item?id=31799414"/>
-        <updated>2022-06-19T13:56:07.000Z</updated>
-        <summary type="html"><![CDATA[Playstation confirms chain of 5 vulnerabilities on PS4/PS5]]></summary>
-        <author>
-            <name>guiambros</name>
-            <uri>https://news.ycombinator.com/user?id=guiambros</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solend公司扣押了1.7亿美元的用户资金
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31802600</id>
-        <link href="https://news.ycombinator.com/item?id=31802600"/>
-        <updated>2022-06-19T19:35:34.000Z</updated>
-        <summary type="html"><![CDATA[Solend seized $170M of user funds]]></summary>
-        <author>
-            <name>55555</name>
-            <uri>https://news.ycombinator.com/user?id=55555</uri>
         </author>
     </entry>
 </feed>

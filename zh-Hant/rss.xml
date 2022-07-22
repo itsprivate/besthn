@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 22 Jul 2022 02:45:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 04:09:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你知道哪些 "酷 "但晦澀難懂的數據結構？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32186203</link>
+            <guid>https://news.ycombinator.com/item?id=32186203</guid>
+            <pubDate>Thu, 21 Jul 2022 22:50:29 GMT</pubDate>
+            <description><![CDATA[Ask HN: What are some 'cool' but obscure data structures you know about?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[告訴HN：今天我在網上賺了第一個 "錢"。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32177053</link>
+            <guid>https://news.ycombinator.com/item?id=32177053</guid>
+            <pubDate>Thu, 21 Jul 2022 08:39:08 GMT</pubDate>
+            <description><![CDATA[Tell HN: Today I made my first “bucks” on the web]]></description>
+        </item>
         <item>
             <title><![CDATA[亞馬遜將收購One Medical
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31800684</guid>
             <pubDate>Sun, 19 Jun 2022 16:16:04 GMT</pubDate>
             <description><![CDATA[The brain has a ‘low-power mode’ that blunts our senses]]></description>
-        </item>
-        <item>
-            <title><![CDATA[淘寶網確認PS4/PS5上有5個連鎖漏洞
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31799414</link>
-            <guid>https://news.ycombinator.com/item?id=31799414</guid>
-            <pubDate>Sun, 19 Jun 2022 13:56:07 GMT</pubDate>
-            <description><![CDATA[Playstation confirms chain of 5 vulnerabilities on PS4/PS5]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Solend公司扣押了1.7億美元的用戶資金
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31802600</link>
-            <guid>https://news.ycombinator.com/item?id=31802600</guid>
-            <pubDate>Sun, 19 Jun 2022 19:35:34 GMT</pubDate>
-            <description><![CDATA[Solend seized $170M of user funds]]></description>
         </item>
     </channel>
 </rss>
