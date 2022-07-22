@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-22T07:05:52.528Z</updated>
+    <updated>2022-07-22T09:49:17.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[面向編碼員的實用深度學習2022
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32186647</id>
+        <link href="https://news.ycombinator.com/item?id=32186647"/>
+        <updated>2022-07-21T23:41:09.000Z</updated>
+        <summary type="html"><![CDATA[Practical Deep Learning for Coders 2022]]></summary>
+        <author>
+            <name>tmabraham</name>
+            <uri>https://news.ycombinator.com/user?id=tmabraham</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[由於隱私問題，荷蘭學校必須停止使用谷歌的電子郵件和雲服務
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bathory</name>
             <uri>https://news.ycombinator.com/user?id=bathory</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們需要一個不會讓你患上腕管炎的流程圖編輯器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31804429</id>
-        <link href="https://news.ycombinator.com/item?id=31804429"/>
-        <updated>2022-06-19T23:13:24.000Z</updated>
-        <summary type="html"><![CDATA[We need a flowchart editor that doesn't give you carpal tunnel]]></summary>
-        <author>
-            <name>escot</name>
-            <uri>https://news.ycombinator.com/user?id=escot</uri>
         </author>
     </entry>
 </feed>
