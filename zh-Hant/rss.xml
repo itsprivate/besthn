@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 22 Jul 2022 19:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 20:33:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何向開發者做廣告：深入瞭解付費開發者營銷
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32191615</link>
+            <guid>https://news.ycombinator.com/item?id=32191615</guid>
+            <pubDate>Fri, 22 Jul 2022 13:20:47 GMT</pubDate>
+            <description><![CDATA[How to advertise to developers: deep dive into paid developer marketing]]></description>
+        </item>
         <item>
             <title><![CDATA[Airbnb將把對最後一刻取消的房東的處罰從100美元提高到1千美元
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31808357</guid>
             <pubDate>Mon, 20 Jun 2022 09:59:14 GMT</pubDate>
             <description><![CDATA[A conflict with a manager ended with me being disallowed to work at Spotify]]></description>
-        </item>
-        <item>
-            <title><![CDATA[意識不是計算
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31791126</link>
-            <guid>https://news.ycombinator.com/item?id=31791126</guid>
-            <pubDate>Sat, 18 Jun 2022 16:07:37 GMT</pubDate>
-            <description><![CDATA[Consciousness is not computation]]></description>
         </item>
     </channel>
 </rss>
