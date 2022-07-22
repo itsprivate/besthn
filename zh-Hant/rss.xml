@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 22 Jul 2022 22:32:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 23:48:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[符號鏈接的麻煩
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32190032</link>
+            <guid>https://news.ycombinator.com/item?id=32190032</guid>
+            <pubDate>Fri, 22 Jul 2022 09:04:10 GMT</pubDate>
+            <description><![CDATA[The trouble with symbolic links]]></description>
+        </item>
         <item>
             <title><![CDATA["電子表格心態 "很糟糕，並扼殺了工作的效力
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31807201</guid>
             <pubDate>Mon, 20 Jun 2022 07:11:16 GMT</pubDate>
             <description><![CDATA[Silero V3: fast high-quality text-to-speech in 20 languages with 173 voices]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們正在刪除創建新訂閱的選項
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31810104</link>
-            <guid>https://news.ycombinator.com/item?id=31810104</guid>
-            <pubDate>Mon, 20 Jun 2022 13:27:10 GMT</pubDate>
-            <description><![CDATA[We are removing the option to create new subscriptions]]></description>
         </item>
     </channel>
 </rss>
