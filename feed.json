@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32195987",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32195987",
+            "title": "有没有想过为什么淹没在亚马逊的廉价垃圾有MOFFBUZW这样的品牌名称？\n",
+            "summary": "Ever wonder why the cheap junk flooding Amazon has brand names like MOFFBUZW?",
+            "date_modified": "2022-07-22T19:14:06.000Z",
+            "author": {
+                "name": "rafaelm",
+                "url": "https://news.ycombinator.com/user?id=rafaelm"
+            },
+            "_original_headline": "Ever wonder why the cheap junk flooding Amazon has brand names like MOFFBUZW?",
+            "_original_url": "https://twitter.com/ColeSouth/status/1550230795230781440",
+            "_sensitive": false,
+            "_score": 231
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32191615",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32191615",
@@ -9593,22 +9609,6 @@
             "_original_url": "http://www.orkut.com/index.html",
             "_sensitive": false,
             "_score": 201
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31808357",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31808357",
-            "title": "与经理的冲突以我不被允许在Spotify工作而告终\n",
-            "summary": "A conflict with a manager ended with me being disallowed to work at Spotify",
-            "date_modified": "2022-06-20T09:59:14.000Z",
-            "author": {
-                "name": "cspike",
-                "url": "https://news.ycombinator.com/user?id=cspike"
-            },
-            "_original_headline": "A conflict with a manager ended with me being disallowed to work at Spotify",
-            "_original_url": "https://banned-for-life.com/",
-            "_sensitive": false,
-            "_score": 208
         }
     ]
 }
