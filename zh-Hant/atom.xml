@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-22T11:28:10.214Z</updated>
+    <updated>2022-07-22T15:02:40.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2000年中期關於Etsy主頁的怪異史詩般的漫談
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32188805</id>
+        <link href="https://news.ycombinator.com/item?id=32188805"/>
+        <updated>2022-07-22T05:23:05.000Z</updated>
+        <summary type="html"><![CDATA[A weird epic ramble about Etsy homepages from the middle 2000’s]]></summary>
+        <author>
+            <name>youcould</name>
+            <uri>https://news.ycombinator.com/user?id=youcould</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[將大象吞入Blender
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dschuessler</name>
             <uri>https://news.ycombinator.com/user?id=dschuessler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[父母的創傷在孩子身上留下了生物痕跡
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31793682</id>
-        <link href="https://news.ycombinator.com/item?id=31793682"/>
-        <updated>2022-06-18T20:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Parents’ trauma leaves biological traces in children]]></summary>
-        <author>
-            <name>CharlesW</name>
-            <uri>https://news.ycombinator.com/user?id=CharlesW</uri>
         </author>
     </entry>
 </feed>
