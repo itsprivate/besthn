@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 22 Jul 2022 09:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 11:28:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[將大象吞入Blender
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32177091</link>
+            <guid>https://news.ycombinator.com/item?id=32177091</guid>
+            <pubDate>Thu, 21 Jul 2022 08:48:44 GMT</pubDate>
+            <description><![CDATA[Swallowing the elephant into Blender]]></description>
+        </item>
         <item>
             <title><![CDATA[面向編碼員的實用深度學習2022
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31793682</guid>
             <pubDate>Sat, 18 Jun 2022 20:46:00 GMT</pubDate>
             <description><![CDATA[Parents’ trauma leaves biological traces in children]]></description>
-        </item>
-        <item>
-            <title><![CDATA[7億用戶和高級用戶
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31802245</link>
-            <guid>https://news.ycombinator.com/item?id=31802245</guid>
-            <pubDate>Sun, 19 Jun 2022 18:56:06 GMT</pubDate>
-            <description><![CDATA[700M users and Premium]]></description>
         </item>
     </channel>
 </rss>
