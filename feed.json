@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32197212",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32197212",
+            "title": "在吉大港发现两个号码相同的集装箱\n",
+            "summary": "Two containers with same number detected in Chittagong port",
+            "date_modified": "2022-07-22T21:15:20.000Z",
+            "author": {
+                "name": "wolfgang42",
+                "url": "https://news.ycombinator.com/user?id=wolfgang42"
+            },
+            "_original_headline": "Two containers with same number detected in Chittagong port",
+            "_original_url": "https://container-news.com/two-containers-with-same-number-detected-in-chittagong-port/",
+            "_sensitive": false,
+            "_score": 207
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32197012",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32197012",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://dynomight.net/ikea-purifier/",
             "_sensitive": false,
             "_score": 213
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31790226",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31790226",
-            "title": "牙科的真相\n",
-            "summary": "The Truth About Dentistry",
-            "date_modified": "2022-06-18T14:43:35.000Z",
-            "author": {
-                "name": "jasonhansel",
-                "url": "https://news.ycombinator.com/user?id=jasonhansel"
-            },
-            "_original_headline": "The Truth About Dentistry",
-            "_original_url": "https://www.theatlantic.com/magazine/archive/2019/05/the-trouble-with-dentistry/586039/",
-            "_sensitive": false,
-            "_score": 205
         }
     ]
 }
