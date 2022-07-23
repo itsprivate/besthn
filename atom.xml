@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-23T05:05:46.320Z</updated>
+    <updated>2022-07-23T07:58:14.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[青少年正在改写竞技俄罗斯方块世界的可能性
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32196129</id>
+        <link href="https://news.ycombinator.com/item?id=32196129"/>
+        <updated>2022-07-22T19:29:05.000Z</updated>
+        <summary type="html"><![CDATA[Teens are rewriting what is possible in the world of competitive Tetris]]></summary>
+        <author>
+            <name>danso</name>
+            <uri>https://news.ycombinator.com/user?id=danso</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌解雇了称其人工智能为有知觉的工程师Blake Lemoine
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>koch</name>
             <uri>https://news.ycombinator.com/user?id=koch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我他妈的恨死Jira了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31813957</id>
-        <link href="https://news.ycombinator.com/item?id=31813957"/>
-        <updated>2022-06-20T18:40:57.000Z</updated>
-        <summary type="html"><![CDATA[I Fucking Hate Jira]]></summary>
-        <author>
-            <name>yakshaving_jgt</name>
-            <uri>https://news.ycombinator.com/user?id=yakshaving_jgt</uri>
         </author>
     </entry>
 </feed>

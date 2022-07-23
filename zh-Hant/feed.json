@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32196129",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32196129",
+            "title": "青少年正在改寫競技俄羅斯方塊世界的可能性\n",
+            "summary": "Teens are rewriting what is possible in the world of competitive Tetris",
+            "date_modified": "2022-07-22T19:29:05.000Z",
+            "author": {
+                "name": "danso",
+                "url": "https://news.ycombinator.com/user?id=danso"
+            },
+            "_original_headline": "Teens are rewriting what is possible in the world of competitive Tetris",
+            "_original_url": "https://www.polygon.com/23269073/competitive-classic-tetris-ctwc-jonas-neubauer-andy-michael-artiaga",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32198214",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32198214",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://markwhen.com",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31813957",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31813957",
-            "title": "我他媽的恨死Jira了\n",
-            "summary": "I Fucking Hate Jira",
-            "date_modified": "2022-06-20T18:40:57.000Z",
-            "author": {
-                "name": "yakshaving_jgt",
-                "url": "https://news.ycombinator.com/user?id=yakshaving_jgt"
-            },
-            "_original_headline": "I Fucking Hate Jira",
-            "_original_url": "https://ifuckinghatejira.com/",
-            "_sensitive": false,
-            "_score": 213
         }
     ]
 }
