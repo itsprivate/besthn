@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32198214",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32198214",
+            "title": "谷歌解僱了稱其人工智能為有知覺的工程師Blake Lemoine\n",
+            "summary": "Google Fires Blake Lemoine, Engineer Who Called Its AI Sentient",
+            "date_modified": "2022-07-22T23:09:51.000Z",
+            "author": {
+                "name": "minimaxir",
+                "url": "https://news.ycombinator.com/user?id=minimaxir"
+            },
+            "_original_headline": "Google Fires Blake Lemoine, Engineer Who Called Its AI Sentient",
+            "_original_url": "https://bigtechnology.substack.com/p/google-fires-blake-lemoine-engineer",
+            "_sensitive": false,
+            "_score": 209
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32197212",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32197212",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "I Fucking Hate Jira",
             "_original_url": "https://ifuckinghatejira.com/",
-            "_sensitive": false,
-            "_score": 213
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31812259",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31812259",
-            "title": "Contra Wirecutter對宜家空氣淨化器的評價\n",
-            "summary": "Contra Wirecutter on the IKEA air purifier",
-            "date_modified": "2022-06-20T16:27:26.000Z",
-            "author": {
-                "name": "Ariarule",
-                "url": "https://news.ycombinator.com/user?id=Ariarule"
-            },
-            "_original_headline": "Contra Wirecutter on the IKEA air purifier",
-            "_original_url": "https://dynomight.net/ikea-purifier/",
             "_sensitive": false,
             "_score": 213
         }

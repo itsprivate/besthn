@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-23T04:24:11.944Z</updated>
+    <updated>2022-07-23T05:05:46.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌解雇了称其人工智能为有知觉的工程师Blake Lemoine
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32198214</id>
+        <link href="https://news.ycombinator.com/item?id=32198214"/>
+        <updated>2022-07-22T23:09:51.000Z</updated>
+        <summary type="html"><![CDATA[Google Fires Blake Lemoine, Engineer Who Called Its AI Sentient]]></summary>
+        <author>
+            <name>minimaxir</name>
+            <uri>https://news.ycombinator.com/user?id=minimaxir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在吉大港发现两个号码相同的集装箱
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>yakshaving_jgt</name>
             <uri>https://news.ycombinator.com/user?id=yakshaving_jgt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contra Wirecutter对宜家空气净化器的评价
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31812259</id>
-        <link href="https://news.ycombinator.com/item?id=31812259"/>
-        <updated>2022-06-20T16:27:26.000Z</updated>
-        <summary type="html"><![CDATA[Contra Wirecutter on the IKEA air purifier]]></summary>
-        <author>
-            <name>Ariarule</name>
-            <uri>https://news.ycombinator.com/user?id=Ariarule</uri>
         </author>
     </entry>
 </feed>
