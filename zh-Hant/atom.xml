@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-23T17:40:58.123Z</updated>
+    <updated>2022-07-23T18:38:52.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[西班牙將實行免費火車旅行
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32204256</id>
+        <link href="https://news.ycombinator.com/item?id=32204256"/>
+        <updated>2022-07-23T15:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Spain will introduce free train travel]]></summary>
+        <author>
+            <name>donohoe</name>
+            <uri>https://news.ycombinator.com/user?id=donohoe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[遷徙的帝王斑蝶現在處於瀕危狀態
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32192645</id>
+        <link href="https://news.ycombinator.com/item?id=32192645"/>
+        <updated>2022-07-22T15:02:29.000Z</updated>
+        <summary type="html"><![CDATA[Migratory monarch butterfly now endangered]]></summary>
+        <author>
+            <name>gmays</name>
+            <uri>https://news.ycombinator.com/user?id=gmays</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[散熱墊 "模型 "使M2 MacBook Air比13英寸M2 Pro更快
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>juliennakache</name>
             <uri>https://news.ycombinator.com/user?id=juliennakache</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netboot.xyz：你喜歡的操作系統在一個地方。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31814288</id>
-        <link href="https://news.ycombinator.com/item?id=31814288"/>
-        <updated>2022-06-20T19:06:07.000Z</updated>
-        <summary type="html"><![CDATA[Netboot.xyz: your favorite operating systems in one place]]></summary>
-        <author>
-            <name>metadat</name>
-            <uri>https://news.ycombinator.com/user?id=metadat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lexical - 一個網絡文本編輯器框架，為Facebook提供支持
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31813550</id>
-        <link href="https://news.ycombinator.com/item?id=31813550"/>
-        <updated>2022-06-20T18:08:03.000Z</updated>
-        <summary type="html"><![CDATA[Lexical – a web text editor framework that powers Facebook]]></summary>
-        <author>
-            <name>trueadm</name>
-            <uri>https://news.ycombinator.com/user?id=trueadm</uri>
         </author>
     </entry>
 </feed>

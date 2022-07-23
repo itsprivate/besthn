@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 23 Jul 2022 17:40:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 18:38:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[西班牙将实行免费火车旅行
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32204256</link>
+            <guid>https://news.ycombinator.com/item?id=32204256</guid>
+            <pubDate>Sat, 23 Jul 2022 15:33:16 GMT</pubDate>
+            <description><![CDATA[Spain will introduce free train travel]]></description>
+        </item>
+        <item>
+            <title><![CDATA[迁徙的帝王斑蝶现在处于濒危状态
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32192645</link>
+            <guid>https://news.ycombinator.com/item?id=32192645</guid>
+            <pubDate>Fri, 22 Jul 2022 15:02:29 GMT</pubDate>
+            <description><![CDATA[Migratory monarch butterfly now endangered]]></description>
+        </item>
         <item>
             <title><![CDATA[散热垫 "模型 "使M2 MacBook Air比13英寸M2 Pro更快
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31818074</guid>
             <pubDate>Tue, 21 Jun 2022 00:19:14 GMT</pubDate>
             <description><![CDATA[WTF Nextdoor? Over 130 click to disable email and push notifications?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Netboot.xyz：你喜欢的操作系统在一个地方。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31814288</link>
-            <guid>https://news.ycombinator.com/item?id=31814288</guid>
-            <pubDate>Mon, 20 Jun 2022 19:06:07 GMT</pubDate>
-            <description><![CDATA[Netboot.xyz: your favorite operating systems in one place]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lexical - 一个网络文本编辑器框架，为Facebook提供支持
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31813550</link>
-            <guid>https://news.ycombinator.com/item?id=31813550</guid>
-            <pubDate>Mon, 20 Jun 2022 18:08:03 GMT</pubDate>
-            <description><![CDATA[Lexical – a web text editor framework that powers Facebook]]></description>
         </item>
     </channel>
 </rss>
