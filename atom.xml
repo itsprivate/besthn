@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-23T20:30:39.393Z</updated>
+    <updated>2022-07-23T22:00:15.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌搜索结果被垃圾".it "域名所困扰
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32201420</id>
+        <link href="https://news.ycombinator.com/item?id=32201420"/>
+        <updated>2022-07-23T08:19:10.000Z</updated>
+        <summary type="html"><![CDATA[Google Search Results Plagued with spam “.it” domains]]></summary>
+        <author>
+            <name>pyinstallwoes</name>
+            <uri>https://news.ycombinator.com/user?id=pyinstallwoes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高效除湿机让空调变得轻而易举
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>aw1621107</name>
             <uri>https://news.ycombinator.com/user?id=aw1621107</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在吸引高级申请人方面遇到困难，想知道该如何解决这个问题
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31812864</id>
-        <link href="https://news.ycombinator.com/item?id=31812864"/>
-        <updated>2022-06-20T17:14:55.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Having trouble getting senior applicants, wondering what to do about it]]></summary>
-        <author>
-            <name>throw1138</name>
-            <uri>https://news.ycombinator.com/user?id=throw1138</uri>
         </author>
     </entry>
 </feed>

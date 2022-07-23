@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 23 Jul 2022 20:30:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 22:00:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谷歌搜索結果被垃圾".it "域名所困擾
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32201420</link>
+            <guid>https://news.ycombinator.com/item?id=32201420</guid>
+            <pubDate>Sat, 23 Jul 2022 08:19:10 GMT</pubDate>
+            <description><![CDATA[Google Search Results Plagued with spam “.it” domains]]></description>
+        </item>
         <item>
             <title><![CDATA[高效除溼機讓空調變得輕而易舉
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31817184</guid>
             <pubDate>Mon, 20 Jun 2022 22:43:46 GMT</pubDate>
             <description><![CDATA[“When It Rains, It Pours”: The Morton Salt Girl]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在吸引高級申請人方面遇到困難，想知道該如何解決這個問題
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31812864</link>
-            <guid>https://news.ycombinator.com/item?id=31812864</guid>
-            <pubDate>Mon, 20 Jun 2022 17:14:55 GMT</pubDate>
-            <description><![CDATA[Ask HN: Having trouble getting senior applicants, wondering what to do about it]]></description>
         </item>
     </channel>
 </rss>
