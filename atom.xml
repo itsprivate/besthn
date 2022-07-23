@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-22T23:48:06.699Z</updated>
+    <updated>2022-07-23T00:01:07.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[贝宝驳回了我的主张，说我没有提供证据（然而我提供了）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32194373</id>
+        <link href="https://news.ycombinator.com/item?id=32194373"/>
+        <updated>2022-07-22T17:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: PayPal dismissed my claim, saying I didn't provide evidence (yet I did)]]></summary>
+        <author>
+            <name>fer</name>
+            <uri>https://news.ycombinator.com/user?id=fer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[符号链接的麻烦
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Trouble_007</name>
             <uri>https://news.ycombinator.com/user?id=Trouble_007</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silero V3：20种语言的快速高质量文本到语音，有173种声音
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31807201</id>
-        <link href="https://news.ycombinator.com/item?id=31807201"/>
-        <updated>2022-06-20T07:11:16.000Z</updated>
-        <summary type="html"><![CDATA[Silero V3: fast high-quality text-to-speech in 20 languages with 173 voices]]></summary>
-        <author>
-            <name>TheRealAicantar</name>
-            <uri>https://news.ycombinator.com/user?id=TheRealAicantar</uri>
         </author>
     </entry>
 </feed>
