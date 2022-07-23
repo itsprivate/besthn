@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 23 Jul 2022 15:31:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 17:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Confluence应用中的硬编码密码在Twitter上被泄露了
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32195700</link>
+            <guid>https://news.ycombinator.com/item?id=32195700</guid>
+            <pubDate>Fri, 22 Jul 2022 18:48:22 GMT</pubDate>
+            <description><![CDATA[Hardcoded password in Confluence app has been leaked on Twitter]]></description>
+        </item>
         <item>
             <title><![CDATA[嵌入在C23中
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31813443</guid>
             <pubDate>Mon, 20 Jun 2022 18:00:52 GMT</pubDate>
             <description><![CDATA[Meta VR prototypes aim to make VR 'indistinguishable from reality']]></description>
-        </item>
-        <item>
-            <title><![CDATA[告诉HN：Instagram要求我发送一张自己的照片以证明我拥有自己的账户
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31813308</link>
-            <guid>https://news.ycombinator.com/item?id=31813308</guid>
-            <pubDate>Mon, 20 Jun 2022 17:50:08 GMT</pubDate>
-            <description><![CDATA[Tell HN: Instagram demands I send a picture of myself to prove I own my account]]></description>
         </item>
     </channel>
 </rss>

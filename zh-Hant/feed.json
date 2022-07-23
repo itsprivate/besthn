@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32195700",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32195700",
+            "title": "Confluence應用中的硬編碼密碼在Twitter上被洩露了\n",
+            "summary": "Hardcoded password in Confluence app has been leaked on Twitter",
+            "date_modified": "2022-07-22T18:48:22.000Z",
+            "author": {
+                "name": "duxup",
+                "url": "https://news.ycombinator.com/user?id=duxup"
+            },
+            "_original_headline": "Hardcoded password in Confluence app has been leaked on Twitter",
+            "_original_url": "https://arstechnica.com/information-technology/2022/07/atlassian-warns-hardcoded-password-flaw-is-likely-to-be-exploited-in-the-wild/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32201951",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32201951",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.roadtovr.com/meta-vr-headset-prototypes-visual-fidelity-indistinguishable-from-reality/",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31813308",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31813308",
-            "title": "告訴HN：Instagram要求我發送一張自己的照片以證明我擁有自己的賬戶\n",
-            "summary": "Tell HN: Instagram demands I send a picture of myself to prove I own my account",
-            "date_modified": "2022-06-20T17:50:08.000Z",
-            "author": {
-                "name": "jdthedisciple",
-                "url": "https://news.ycombinator.com/user?id=jdthedisciple"
-            },
-            "_original_headline": "Tell HN: Instagram demands I send a picture of myself to prove I own my account",
-            "_original_url": "https://news.ycombinator.com/item?id=31813308",
-            "_sensitive": false,
-            "_score": 237
         }
     ]
 }
