@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 23 Jul 2022 18:38:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 20:30:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[高效除溼機讓空調變得輕而易舉
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32204600</link>
+            <guid>https://news.ycombinator.com/item?id=32204600</guid>
+            <pubDate>Sat, 23 Jul 2022 16:07:36 GMT</pubDate>
+            <description><![CDATA[Efficient Dehumidifier Makes Air Conditioning a Breeze]]></description>
+        </item>
         <item>
             <title><![CDATA[西班牙將實行免費火車旅行
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31812864</guid>
             <pubDate>Mon, 20 Jun 2022 17:14:55 GMT</pubDate>
             <description><![CDATA[Ask HN: Having trouble getting senior applicants, wondering what to do about it]]></description>
-        </item>
-        <item>
-            <title><![CDATA[WTF Nextdoor? 超過130次點擊就能禁用電子郵件和推送通知？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31818074</link>
-            <guid>https://news.ycombinator.com/item?id=31818074</guid>
-            <pubDate>Tue, 21 Jun 2022 00:19:14 GMT</pubDate>
-            <description><![CDATA[WTF Nextdoor? Over 130 click to disable email and push notifications?]]></description>
         </item>
     </channel>
 </rss>

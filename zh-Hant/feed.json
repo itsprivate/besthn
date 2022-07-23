@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32204600",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32204600",
+            "title": "高效除溼機讓空調變得輕而易舉\n",
+            "summary": "Efficient Dehumidifier Makes Air Conditioning a Breeze",
+            "date_modified": "2022-07-23T16:07:36.000Z",
+            "author": {
+                "name": "jonnycomputer",
+                "url": "https://news.ycombinator.com/user?id=jonnycomputer"
+            },
+            "_original_headline": "Efficient Dehumidifier Makes Air Conditioning a Breeze",
+            "_original_url": "https://www.pnnl.gov/news-media/efficient-dehumidifier-makes-air-conditioning-breeze",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32204256",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32204256",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://news.ycombinator.com/item?id=31812864",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31818074",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31818074",
-            "title": "WTF Nextdoor? 超過130次點擊就能禁用電子郵件和推送通知？\n",
-            "summary": "WTF Nextdoor? Over 130 click to disable email and push notifications?",
-            "date_modified": "2022-06-21T00:19:14.000Z",
-            "author": {
-                "name": "juliennakache",
-                "url": "https://news.ycombinator.com/user?id=juliennakache"
-            },
-            "_original_headline": "WTF Nextdoor? Over 130 click to disable email and push notifications?",
-            "_original_url": "https://imgur.com/a/RY0jgQD",
-            "_sensitive": false,
-            "_score": 210
         }
     ]
 }
