@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-23T13:47:59.734Z</updated>
+    <updated>2022-07-23T14:28:12.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開箱的100美元的Chromebook
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32198762</id>
+        <link href="https://news.ycombinator.com/item?id=32198762"/>
+        <updated>2022-07-23T00:17:17.000Z</updated>
+        <summary type="html"><![CDATA[Unboxing a $100 Chromebook]]></summary>
+        <author>
+            <name>timsneath</name>
+            <uri>https://news.ycombinator.com/user?id=timsneath</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoodbyeDPI: 深度數據包檢測規避工具
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sblank</name>
             <uri>https://news.ycombinator.com/user?id=sblank</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的40升揹包旅行指南
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31811758</id>
-        <link href="https://news.ycombinator.com/item?id=31811758"/>
-        <updated>2022-06-20T15:48:37.000Z</updated>
-        <summary type="html"><![CDATA[My 40-liter backpack travel guide]]></summary>
-        <author>
-            <name>ronyfadel</name>
-            <uri>https://news.ycombinator.com/user?id=ronyfadel</uri>
         </author>
     </entry>
 </feed>
