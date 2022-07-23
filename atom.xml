@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-23T23:00:46.649Z</updated>
+    <updated>2022-07-23T23:29:53.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用groff写我的博士论文
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32202209</id>
+        <link href="https://news.ycombinator.com/item?id=32202209"/>
+        <updated>2022-07-23T11:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Writing my PhD using groff]]></summary>
+        <author>
+            <name>yockyrr</name>
+            <uri>https://news.ycombinator.com/user?id=yockyrr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解决微分方程的懒人方法
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tintedfireglass</name>
             <uri>https://news.ycombinator.com/user?id=tintedfireglass</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在没有资金支持的情况下独自开发开源数据工具的一年
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31821914</id>
-        <link href="https://news.ycombinator.com/item?id=31821914"/>
-        <updated>2022-06-21T09:13:40.000Z</updated>
-        <summary type="html"><![CDATA[One year as a solo dev building open-source data tools without funding]]></summary>
-        <author>
-            <name>revorad</name>
-            <uri>https://news.ycombinator.com/user?id=revorad</uri>
         </author>
     </entry>
 </feed>

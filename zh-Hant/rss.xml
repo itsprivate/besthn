@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 23 Jul 2022 23:00:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 23:29:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用groff寫我的博士論文
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32202209</link>
+            <guid>https://news.ycombinator.com/item?id=32202209</guid>
+            <pubDate>Sat, 23 Jul 2022 11:01:42 GMT</pubDate>
+            <description><![CDATA[Writing my PhD using groff]]></description>
+        </item>
         <item>
             <title><![CDATA[解決微分方程的懶人方法
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31820149</guid>
             <pubDate>Tue, 21 Jun 2022 05:12:53 GMT</pubDate>
             <description><![CDATA[A look at search engines with their own indexes (2021)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在沒有資金支持的情況下獨自開發開源數據工具的一年
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31821914</link>
-            <guid>https://news.ycombinator.com/item?id=31821914</guid>
-            <pubDate>Tue, 21 Jun 2022 09:13:40 GMT</pubDate>
-            <description><![CDATA[One year as a solo dev building open-source data tools without funding]]></description>
         </item>
     </channel>
 </rss>
