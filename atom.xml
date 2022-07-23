@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-23T11:27:41.214Z</updated>
+    <updated>2022-07-23T13:47:59.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GoodbyeDPI: 深度数据包检测规避工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32199468</id>
+        <link href="https://news.ycombinator.com/item?id=32199468"/>
+        <updated>2022-07-23T02:00:10.000Z</updated>
+        <summary type="html"><![CDATA[GoodbyeDPI: Deep Packet Inspection circumvention utility]]></summary>
+        <author>
+            <name>davikr</name>
+            <uri>https://news.ycombinator.com/user?id=davikr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我不喜欢在远程工作中的哪些方面
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ronyfadel</name>
             <uri>https://news.ycombinator.com/user?id=ronyfadel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瑞士的综合时间表
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31807913</id>
-        <link href="https://news.ycombinator.com/item?id=31807913"/>
-        <updated>2022-06-20T08:54:35.000Z</updated>
-        <summary type="html"><![CDATA[The integrated timetable of Switzerland]]></summary>
-        <author>
-            <name>jokteur</name>
-            <uri>https://news.ycombinator.com/user?id=jokteur</uri>
         </author>
     </entry>
 </feed>

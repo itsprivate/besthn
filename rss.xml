@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 23 Jul 2022 11:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 13:47:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GoodbyeDPI: 深度数据包检测规避工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32199468</link>
+            <guid>https://news.ycombinator.com/item?id=32199468</guid>
+            <pubDate>Sat, 23 Jul 2022 02:00:10 GMT</pubDate>
+            <description><![CDATA[GoodbyeDPI: Deep Packet Inspection circumvention utility]]></description>
+        </item>
         <item>
             <title><![CDATA[我不喜欢在远程工作中的哪些方面
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31811758</guid>
             <pubDate>Mon, 20 Jun 2022 15:48:37 GMT</pubDate>
             <description><![CDATA[My 40-liter backpack travel guide]]></description>
-        </item>
-        <item>
-            <title><![CDATA[瑞士的综合时间表
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31807913</link>
-            <guid>https://news.ycombinator.com/item?id=31807913</guid>
-            <pubDate>Mon, 20 Jun 2022 08:54:35 GMT</pubDate>
-            <description><![CDATA[The integrated timetable of Switzerland]]></description>
         </item>
     </channel>
 </rss>
