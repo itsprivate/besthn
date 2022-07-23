@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-23T17:09:30.066Z</updated>
+    <updated>2022-07-23T17:40:58.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[散熱墊 "模型 "使M2 MacBook Air比13英寸M2 Pro更快
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32194269</id>
+        <link href="https://news.ycombinator.com/item?id=32194269"/>
+        <updated>2022-07-22T16:57:28.000Z</updated>
+        <summary type="html"><![CDATA[Thermal Pad ‘Mod’ Makes M2 MacBook Air Faster Than 13″ M2 Pro]]></summary>
+        <author>
+            <name>gnicholas</name>
+            <uri>https://news.ycombinator.com/user?id=gnicholas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Confluence應用中的硬編碼密碼在Twitter上被洩露了
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>trueadm</name>
             <uri>https://news.ycombinator.com/user?id=trueadm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta VR原型機旨在使VR "與現實無異"。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31813443</id>
-        <link href="https://news.ycombinator.com/item?id=31813443"/>
-        <updated>2022-06-20T18:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Meta VR prototypes aim to make VR 'indistinguishable from reality']]></summary>
-        <author>
-            <name>cr4zy</name>
-            <uri>https://news.ycombinator.com/user?id=cr4zy</uri>
         </author>
     </entry>
 </feed>

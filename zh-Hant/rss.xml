@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 23 Jul 2022 17:09:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 17:40:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[散熱墊 "模型 "使M2 MacBook Air比13英寸M2 Pro更快
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32194269</link>
+            <guid>https://news.ycombinator.com/item?id=32194269</guid>
+            <pubDate>Fri, 22 Jul 2022 16:57:28 GMT</pubDate>
+            <description><![CDATA[Thermal Pad ‘Mod’ Makes M2 MacBook Air Faster Than 13″ M2 Pro]]></description>
+        </item>
         <item>
             <title><![CDATA[Confluence應用中的硬編碼密碼在Twitter上被洩露了
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31813550</guid>
             <pubDate>Mon, 20 Jun 2022 18:08:03 GMT</pubDate>
             <description><![CDATA[Lexical – a web text editor framework that powers Facebook]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Meta VR原型機旨在使VR "與現實無異"。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31813443</link>
-            <guid>https://news.ycombinator.com/item?id=31813443</guid>
-            <pubDate>Mon, 20 Jun 2022 18:00:52 GMT</pubDate>
-            <description><![CDATA[Meta VR prototypes aim to make VR 'indistinguishable from reality']]></description>
         </item>
     </channel>
 </rss>
