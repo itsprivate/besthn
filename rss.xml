@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 24 Jul 2022 08:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 11:58:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA["燃烧的船 "分形图
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32210140</link>
+            <guid>https://news.ycombinator.com/item?id=32210140</guid>
+            <pubDate>Sun, 24 Jul 2022 03:47:55 GMT</pubDate>
+            <description><![CDATA["Burning Ship" fractal]]></description>
+        </item>
         <item>
             <title><![CDATA[莫斯科的一个国际象棋机器人打断了它的人类对手的手指
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31827387</guid>
             <pubDate>Tue, 21 Jun 2022 18:33:40 GMT</pubDate>
             <description><![CDATA[Deno raises $21M]]></description>
-        </item>
-        <item>
-            <title><![CDATA[性爱要过时了？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31822549</link>
-            <guid>https://news.ycombinator.com/item?id=31822549</guid>
-            <pubDate>Tue, 21 Jun 2022 11:08:23 GMT</pubDate>
-            <description><![CDATA[Sex is going out of fashion?]]></description>
         </item>
     </channel>
 </rss>

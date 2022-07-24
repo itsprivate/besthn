@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-24T08:33:04.581Z</updated>
+    <updated>2022-07-24T11:58:30.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["燃烧的船 "分形图
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32210140</id>
+        <link href="https://news.ycombinator.com/item?id=32210140"/>
+        <updated>2022-07-24T03:47:55.000Z</updated>
+        <summary type="html"><![CDATA["Burning Ship" fractal]]></summary>
+        <author>
+            <name>daqnal</name>
+            <uri>https://news.ycombinator.com/user?id=daqnal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[莫斯科的一个国际象棋机器人打断了它的人类对手的手指
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>0xedb</name>
             <uri>https://news.ycombinator.com/user?id=0xedb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[性爱要过时了？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31822549</id>
-        <link href="https://news.ycombinator.com/item?id=31822549"/>
-        <updated>2022-06-21T11:08:23.000Z</updated>
-        <summary type="html"><![CDATA[Sex is going out of fashion?]]></summary>
-        <author>
-            <name>loudtdarrow</name>
-            <uri>https://news.ycombinator.com/user?id=loudtdarrow</uri>
         </author>
     </entry>
 </feed>
