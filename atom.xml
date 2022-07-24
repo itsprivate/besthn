@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-24T22:00:16.602Z</updated>
+    <updated>2022-07-24T23:01:27.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[性能比较：在Python、C/C++、Awk、Rust等语言中计算单词
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32214419</id>
+        <link href="https://news.ycombinator.com/item?id=32214419"/>
+        <updated>2022-07-24T15:31:23.000Z</updated>
+        <summary type="html"><![CDATA[Performance comparison: counting words in Python, C/C++, Awk, Rust, and more]]></summary>
+        <author>
+            <name>pcr910303</name>
+            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沃达丰和德国电信将引入持久性用户追踪功能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32207577</id>
+        <link href="https://news.ycombinator.com/item?id=32207577"/>
+        <updated>2022-07-23T21:07:05.000Z</updated>
+        <summary type="html"><![CDATA[Vodafone and Deutsche Telekom to introduce persistent user tracking]]></summary>
+        <author>
+            <name>mmazzarolo</name>
+            <uri>https://news.ycombinator.com/user?id=mmazzarolo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拍摄更多屏幕截图
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>nnx</name>
             <uri>https://news.ycombinator.com/user?id=nnx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为编码员了解人工智能。Tabnine（你的GitHub Copilot的替代品）
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31830867</id>
-        <link href="https://news.ycombinator.com/item?id=31830867"/>
-        <updated>2022-06-22T00:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Understanding AI for coders: Tabnine (your alternative to GitHub Copilot)]]></summary>
-        <author>
-            <name>BrandonJung</name>
-            <uri>https://news.ycombinator.com/user?id=BrandonJung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Permacomputing Wiki
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31828615</id>
-        <link href="https://news.ycombinator.com/item?id=31828615"/>
-        <updated>2022-06-21T20:16:02.000Z</updated>
-        <summary type="html"><![CDATA[Permacomputing Wiki]]></summary>
-        <author>
-            <name>entaloneralie</name>
-            <uri>https://news.ycombinator.com/user?id=entaloneralie</uri>
         </author>
     </entry>
 </feed>
