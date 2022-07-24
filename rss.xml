@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 24 Jul 2022 11:58:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 14:51:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[二十年的阿尔茨海默氏症研究是建立在故意欺诈的基础上的
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32212719</link>
+            <guid>https://news.ycombinator.com/item?id=32212719</guid>
+            <pubDate>Sun, 24 Jul 2022 12:18:41 GMT</pubDate>
+            <description><![CDATA[Two decades of Alzheimer’s research was based on deliberate fraud]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何赶走你最好的工程师
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32211576</link>
+            <guid>https://news.ycombinator.com/item?id=32211576</guid>
+            <pubDate>Sun, 24 Jul 2022 08:43:14 GMT</pubDate>
+            <description><![CDATA[How to drive away your best engineers]]></description>
+        </item>
         <item>
             <title><![CDATA["燃烧的船 "分形图
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31824877</guid>
             <pubDate>Tue, 21 Jun 2022 15:14:02 GMT</pubDate>
             <description><![CDATA[Show HN: Avo – Build Ruby on Rails apps faster]]></description>
-        </item>
-        <item>
-            <title><![CDATA[洗衣店的符号没有意义
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31823485</link>
-            <guid>https://news.ycombinator.com/item?id=31823485</guid>
-            <pubDate>Tue, 21 Jun 2022 13:10:55 GMT</pubDate>
-            <description><![CDATA[Laundry symbols make no sense]]></description>
-        </item>
-        <item>
-            <title><![CDATA[德诺公司筹集了2100万美元的资金
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31827387</link>
-            <guid>https://news.ycombinator.com/item?id=31827387</guid>
-            <pubDate>Tue, 21 Jun 2022 18:33:40 GMT</pubDate>
-            <description><![CDATA[Deno raises $21M]]></description>
         </item>
     </channel>
 </rss>

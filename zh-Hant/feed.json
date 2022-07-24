@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32212719",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32212719",
+            "title": "二十年的阿爾茨海默氏症研究是建立在故意欺詐的基礎上的\n",
+            "summary": "Two decades of Alzheimer’s research was based on deliberate fraud",
+            "date_modified": "2022-07-24T12:18:41.000Z",
+            "author": {
+                "name": "manesioz",
+                "url": "https://news.ycombinator.com/user?id=manesioz"
+            },
+            "_original_headline": "Two decades of Alzheimer’s research was based on deliberate fraud",
+            "_original_url": "https://wallstreetpro.com/2022/07/23/two-decades-of-alzheimers-research-was-based-on-deliberate-fraud-by-2-scientists-that-has-cost-billions-of-dollars-and-millions-of-lives/",
+            "_sensitive": false,
+            "_score": 213
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32211576",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32211576",
+            "title": "如何趕走你最好的工程師\n",
+            "summary": "How to drive away your best engineers",
+            "date_modified": "2022-07-24T08:43:14.000Z",
+            "author": {
+                "name": "signa11",
+                "url": "https://news.ycombinator.com/user?id=signa11"
+            },
+            "_original_headline": "How to drive away your best engineers",
+            "_original_url": "https://blog.hulacorn.com/2021/09/08/how-to-drive-away-your-best-engineers/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32210140",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32210140",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://avohq.io/",
             "_sensitive": false,
             "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31823485",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31823485",
-            "title": "洗衣店的符號沒有意義\n",
-            "summary": "Laundry symbols make no sense",
-            "date_modified": "2022-06-21T13:10:55.000Z",
-            "author": {
-                "name": "allenwhsu",
-                "url": "https://news.ycombinator.com/user?id=allenwhsu"
-            },
-            "_original_headline": "Laundry symbols make no sense",
-            "_original_url": "https://uxdesign.cc/laundry-symbols-make-no-sense-154a0c10dbe0",
-            "_sensitive": false,
-            "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31827387",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31827387",
-            "title": "德諾公司籌集了2100萬美元的資金\n",
-            "summary": "Deno raises $21M",
-            "date_modified": "2022-06-21T18:33:40.000Z",
-            "author": {
-                "name": "0xedb",
-                "url": "https://news.ycombinator.com/user?id=0xedb"
-            },
-            "_original_headline": "Deno raises $21M",
-            "_original_url": "https://deno.com/blog/series-a",
-            "_sensitive": false,
-            "_score": 207
         }
     ]
 }
