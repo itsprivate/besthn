@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-23T23:29:53.003Z</updated>
+    <updated>2022-07-24T02:41:11.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Publii: 开源的本地所见即所得静态网站CMS
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32204408</id>
+        <link href="https://news.ycombinator.com/item?id=32204408"/>
+        <updated>2022-07-23T15:48:33.000Z</updated>
+        <summary type="html"><![CDATA[Publii: Open-source local WYSIWYG static site CMS]]></summary>
+        <author>
+            <name>api</name>
+            <uri>https://news.ycombinator.com/user?id=api</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用groff写我的博士论文
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jgrahamc</name>
             <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看看拥有自己索引的搜索引擎（2021年）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31820149</id>
-        <link href="https://news.ycombinator.com/item?id=31820149"/>
-        <updated>2022-06-21T05:12:53.000Z</updated>
-        <summary type="html"><![CDATA[A look at search engines with their own indexes (2021)]]></summary>
-        <author>
-            <name>tintedfireglass</name>
-            <uri>https://news.ycombinator.com/user?id=tintedfireglass</uri>
         </author>
     </entry>
 </feed>

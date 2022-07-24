@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 23 Jul 2022 23:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 02:41:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Publii: 开源的本地所见即所得静态网站CMS
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32204408</link>
+            <guid>https://news.ycombinator.com/item?id=32204408</guid>
+            <pubDate>Sat, 23 Jul 2022 15:48:33 GMT</pubDate>
+            <description><![CDATA[Publii: Open-source local WYSIWYG static site CMS]]></description>
+        </item>
         <item>
             <title><![CDATA[用groff写我的博士论文
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31823132</guid>
             <pubDate>Tue, 21 Jun 2022 12:39:30 GMT</pubDate>
             <description><![CDATA[Cloudflare outage on June 21, 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[看看拥有自己索引的搜索引擎（2021年）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31820149</link>
-            <guid>https://news.ycombinator.com/item?id=31820149</guid>
-            <pubDate>Tue, 21 Jun 2022 05:12:53 GMT</pubDate>
-            <description><![CDATA[A look at search engines with their own indexes (2021)]]></description>
         </item>
     </channel>
 </rss>
