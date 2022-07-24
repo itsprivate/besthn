@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32215277",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32215277",
+            "title": "拍攝更多屏幕截圖\n",
+            "summary": "Take more screenshots",
+            "date_modified": "2022-07-24T16:55:16.000Z",
+            "author": {
+                "name": "pcr910303",
+                "url": "https://news.ycombinator.com/user?id=pcr910303"
+            },
+            "_original_headline": "Take more screenshots",
+            "_original_url": "https://alexwlchan.net/2022/07/screenshots/",
+            "_sensitive": false,
+            "_score": 206
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32215324",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32215324",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://permacomputing.net/",
             "_sensitive": false,
             "_score": 201
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31827340",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31827340",
-            "title": "法國可修復性指數--實施一年後 [pdf]\n",
-            "summary": "The French repairability index – one year after its implementation [pdf]",
-            "date_modified": "2022-06-21T18:29:07.000Z",
-            "author": {
-                "name": "giuliomagnifico",
-                "url": "https://news.ycombinator.com/user?id=giuliomagnifico"
-            },
-            "_original_headline": "The French repairability index – one year after its implementation [pdf]",
-            "_original_url": "https://www.halteobsolescence.org/wp-content/uploads/2022/02/Rapport-indice-de-reparabilite.pdf",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }

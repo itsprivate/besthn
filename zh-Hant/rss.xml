@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 24 Jul 2022 20:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 22:00:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[拍攝更多屏幕截圖
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32215277</link>
+            <guid>https://news.ycombinator.com/item?id=32215277</guid>
+            <pubDate>Sun, 24 Jul 2022 16:55:16 GMT</pubDate>
+            <description><![CDATA[Take more screenshots]]></description>
+        </item>
         <item>
             <title><![CDATA[標準電子書
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31828615</guid>
             <pubDate>Tue, 21 Jun 2022 20:16:02 GMT</pubDate>
             <description><![CDATA[Permacomputing Wiki]]></description>
-        </item>
-        <item>
-            <title><![CDATA[法國可修復性指數--實施一年後 [pdf]
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31827340</link>
-            <guid>https://news.ycombinator.com/item?id=31827340</guid>
-            <pubDate>Tue, 21 Jun 2022 18:29:07 GMT</pubDate>
-            <description><![CDATA[The French repairability index – one year after its implementation [pdf]]]></description>
         </item>
     </channel>
 </rss>

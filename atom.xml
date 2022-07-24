@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-24T20:49:23.980Z</updated>
+    <updated>2022-07-24T22:00:16.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[拍摄更多屏幕截图
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32215277</id>
+        <link href="https://news.ycombinator.com/item?id=32215277"/>
+        <updated>2022-07-24T16:55:16.000Z</updated>
+        <summary type="html"><![CDATA[Take more screenshots]]></summary>
+        <author>
+            <name>pcr910303</name>
+            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[标准电子书
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>entaloneralie</name>
             <uri>https://news.ycombinator.com/user?id=entaloneralie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法国可修复性指数--实施一年后 [pdf]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31827340</id>
-        <link href="https://news.ycombinator.com/item?id=31827340"/>
-        <updated>2022-06-21T18:29:07.000Z</updated>
-        <summary type="html"><![CDATA[The French repairability index – one year after its implementation [pdf]]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
         </author>
     </entry>
 </feed>
