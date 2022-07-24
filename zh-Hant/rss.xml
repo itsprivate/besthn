@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 24 Jul 2022 17:41:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 20:49:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[標準電子書
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32215324</link>
+            <guid>https://news.ycombinator.com/item?id=32215324</guid>
+            <pubDate>Sun, 24 Jul 2022 16:59:30 GMT</pubDate>
+            <description><![CDATA[Standard Ebooks]]></description>
+        </item>
+        <item>
+            <title><![CDATA[OfficerBreaker - pptx/docx/xlsx密碼去除器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32207606</link>
+            <guid>https://news.ycombinator.com/item?id=32207606</guid>
+            <pubDate>Sat, 23 Jul 2022 21:10:25 GMT</pubDate>
+            <description><![CDATA[OfficerBreaker – pptx/docx/xlsx password remover]]></description>
+        </item>
         <item>
             <title><![CDATA[維-哈特：六面體[視頻] (2012)
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31827340</guid>
             <pubDate>Tue, 21 Jun 2022 18:29:07 GMT</pubDate>
             <description><![CDATA[The French repairability index – one year after its implementation [pdf]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[OBS - 開放式廣播電視軟件
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31830046</link>
-            <guid>https://news.ycombinator.com/item?id=31830046</guid>
-            <pubDate>Tue, 21 Jun 2022 22:55:16 GMT</pubDate>
-            <description><![CDATA[OBS – Open Broadcaster Software]]></description>
-        </item>
-        <item>
-            <title><![CDATA[阿爾茨海默氏症澱粉樣蛋白假說 "陰謀論 "阻撓了治療進展 (2019)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31828509</link>
-            <guid>https://news.ycombinator.com/item?id=31828509</guid>
-            <pubDate>Tue, 21 Jun 2022 20:05:54 GMT</pubDate>
-            <description><![CDATA[Alzheimer’s amyloid hypothesis ‘cabal’ thwarted progress toward a cure (2019)]]></description>
         </item>
     </channel>
 </rss>

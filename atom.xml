@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-24T17:41:01.227Z</updated>
+    <updated>2022-07-24T20:49:23.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[标准电子书
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32215324</id>
+        <link href="https://news.ycombinator.com/item?id=32215324"/>
+        <updated>2022-07-24T16:59:30.000Z</updated>
+        <summary type="html"><![CDATA[Standard Ebooks]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OfficerBreaker - pptx/docx/xlsx密码去除器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32207606</id>
+        <link href="https://news.ycombinator.com/item?id=32207606"/>
+        <updated>2022-07-23T21:10:25.000Z</updated>
+        <summary type="html"><![CDATA[OfficerBreaker – pptx/docx/xlsx password remover]]></summary>
+        <author>
+            <name>Anonymous4272</name>
+            <uri>https://news.ycombinator.com/user?id=Anonymous4272</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[维-哈特：六面体[视频] (2012)
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>giuliomagnifico</name>
             <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OBS - 开放式广播电视软件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31830046</id>
-        <link href="https://news.ycombinator.com/item?id=31830046"/>
-        <updated>2022-06-21T22:55:16.000Z</updated>
-        <summary type="html"><![CDATA[OBS – Open Broadcaster Software]]></summary>
-        <author>
-            <name>axiomdata316</name>
-            <uri>https://news.ycombinator.com/user?id=axiomdata316</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿尔茨海默氏症淀粉样蛋白假说 "阴谋论 "阻挠了治疗进展 (2019)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31828509</id>
-        <link href="https://news.ycombinator.com/item?id=31828509"/>
-        <updated>2022-06-21T20:05:54.000Z</updated>
-        <summary type="html"><![CDATA[Alzheimer’s amyloid hypothesis ‘cabal’ thwarted progress toward a cure (2019)]]></summary>
-        <author>
-            <name>nabla9</name>
-            <uri>https://news.ycombinator.com/user?id=nabla9</uri>
         </author>
     </entry>
 </feed>
