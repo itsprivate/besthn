@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-24T07:44:38.626Z</updated>
+    <updated>2022-07-24T08:33:04.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[莫斯科的一个国际象棋机器人打断了它的人类对手的手指
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32209345</id>
+        <link href="https://news.ycombinator.com/item?id=32209345"/>
+        <updated>2022-07-24T01:31:45.000Z</updated>
+        <summary type="html"><![CDATA[A chess robot in Moscow has broken the finger of its human opponent]]></summary>
+        <author>
+            <name>jedberg</name>
+            <uri>https://news.ycombinator.com/user?id=jedberg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亚马逊销售的 "Deep Learning with Python "是假货
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>loudtdarrow</name>
             <uri>https://news.ycombinator.com/user?id=loudtdarrow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Copilot已普遍可用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31825742</id>
-        <link href="https://news.ycombinator.com/item?id=31825742"/>
-        <updated>2022-06-21T16:23:21.000Z</updated>
-        <summary type="html"><![CDATA[GitHub Copilot is generally available]]></summary>
-        <author>
-            <name>sammorrowdrums</name>
-            <uri>https://news.ycombinator.com/user?id=sammorrowdrums</uri>
         </author>
     </entry>
 </feed>

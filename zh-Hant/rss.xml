@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 24 Jul 2022 07:44:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 08:33:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[莫斯科的一個國際象棋機器人打斷了它的人類對手的手指
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32209345</link>
+            <guid>https://news.ycombinator.com/item?id=32209345</guid>
+            <pubDate>Sun, 24 Jul 2022 01:31:45 GMT</pubDate>
+            <description><![CDATA[A chess robot in Moscow has broken the finger of its human opponent]]></description>
+        </item>
         <item>
             <title><![CDATA[亞馬遜銷售的 "Deep Learning with Python "是假貨
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31822549</guid>
             <pubDate>Tue, 21 Jun 2022 11:08:23 GMT</pubDate>
             <description><![CDATA[Sex is going out of fashion?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GitHub Copilot已普遍可用
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31825742</link>
-            <guid>https://news.ycombinator.com/item?id=31825742</guid>
-            <pubDate>Tue, 21 Jun 2022 16:23:21 GMT</pubDate>
-            <description><![CDATA[GitHub Copilot is generally available]]></description>
         </item>
     </channel>
 </rss>
