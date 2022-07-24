@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 24 Jul 2022 16:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 17:41:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[維-哈特：六面體[視頻] (2012)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32213825</link>
+            <guid>https://news.ycombinator.com/item?id=32213825</guid>
+            <pubDate>Sun, 24 Jul 2022 14:28:53 GMT</pubDate>
+            <description><![CDATA[Vi Hart: Hexaflexagons [video] (2012)]]></description>
+        </item>
         <item>
             <title><![CDATA[Xz格式被認為不適合長期歸檔 (2016)
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31828509</guid>
             <pubDate>Tue, 21 Jun 2022 20:05:54 GMT</pubDate>
             <description><![CDATA[Alzheimer’s amyloid hypothesis ‘cabal’ thwarted progress toward a cure (2019)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[X-Plane 12飛行模型更新 - 超音速過渡、三角翼和質量
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31827301</link>
-            <guid>https://news.ycombinator.com/item?id=31827301</guid>
-            <pubDate>Tue, 21 Jun 2022 18:24:53 GMT</pubDate>
-            <description><![CDATA[X-Plane 12 Flight Model Update – Supersonic Transition, Delta Wings and Mass]]></description>
         </item>
     </channel>
 </rss>

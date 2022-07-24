@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-24T16:42:31.243Z</updated>
+    <updated>2022-07-24T17:41:01.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[維-哈特：六面體[視頻] (2012)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32213825</id>
+        <link href="https://news.ycombinator.com/item?id=32213825"/>
+        <updated>2022-07-24T14:28:53.000Z</updated>
+        <summary type="html"><![CDATA[Vi Hart: Hexaflexagons [video] (2012)]]></summary>
+        <author>
+            <name>mgdlbp</name>
+            <uri>https://news.ycombinator.com/user?id=mgdlbp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xz格式被認為不適合長期歸檔 (2016)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nabla9</name>
             <uri>https://news.ycombinator.com/user?id=nabla9</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-Plane 12飛行模型更新 - 超音速過渡、三角翼和質量
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31827301</id>
-        <link href="https://news.ycombinator.com/item?id=31827301"/>
-        <updated>2022-06-21T18:24:53.000Z</updated>
-        <summary type="html"><![CDATA[X-Plane 12 Flight Model Update – Supersonic Transition, Delta Wings and Mass]]></summary>
-        <author>
-            <name>Alupis</name>
-            <uri>https://news.ycombinator.com/user?id=Alupis</uri>
         </author>
     </entry>
 </feed>
