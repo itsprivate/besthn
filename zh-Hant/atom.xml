@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-24T14:51:14.402Z</updated>
+    <updated>2022-07-24T16:42:31.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Xz格式被認為不適合長期歸檔 (2016)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32210438</id>
+        <link href="https://news.ycombinator.com/item?id=32210438"/>
+        <updated>2022-07-24T04:52:02.000Z</updated>
+        <summary type="html"><![CDATA[Xz format considered inadequate for long-term archiving (2016)]]></summary>
+        <author>
+            <name>pcr910303</name>
+            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聯邦調查局調查確定華為設備可能破壞美國核通訊
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32200371</id>
+        <link href="https://news.ycombinator.com/item?id=32200371"/>
+        <updated>2022-07-23T04:29:07.000Z</updated>
+        <summary type="html"><![CDATA[FBI investigation determined Huawei equipment could disrupt US nuclear comms]]></summary>
+        <author>
+            <name>tusslewake</name>
+            <uri>https://news.ycombinator.com/user?id=tusslewake</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[二十年的阿爾茨海默氏症研究是建立在故意欺詐的基礎上的
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Alupis</name>
             <uri>https://news.ycombinator.com/user?id=Alupis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HDMI 防火牆
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31828193</id>
-        <link href="https://news.ycombinator.com/item?id=31828193"/>
-        <updated>2022-06-21T19:38:00.000Z</updated>
-        <summary type="html"><![CDATA[HDMI Firewall]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avo - 更快地構建Ruby on Rails應用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31824877</id>
-        <link href="https://news.ycombinator.com/item?id=31824877"/>
-        <updated>2022-06-21T15:14:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Avo – Build Ruby on Rails apps faster]]></summary>
-        <author>
-            <name>adrianthedev</name>
-            <uri>https://news.ycombinator.com/user?id=adrianthedev</uri>
         </author>
     </entry>
 </feed>

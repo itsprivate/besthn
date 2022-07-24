@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 24 Jul 2022 14:51:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 16:42:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Xz格式被認為不適合長期歸檔 (2016)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32210438</link>
+            <guid>https://news.ycombinator.com/item?id=32210438</guid>
+            <pubDate>Sun, 24 Jul 2022 04:52:02 GMT</pubDate>
+            <description><![CDATA[Xz format considered inadequate for long-term archiving (2016)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[聯邦調查局調查確定華為設備可能破壞美國核通訊
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32200371</link>
+            <guid>https://news.ycombinator.com/item?id=32200371</guid>
+            <pubDate>Sat, 23 Jul 2022 04:29:07 GMT</pubDate>
+            <description><![CDATA[FBI investigation determined Huawei equipment could disrupt US nuclear comms]]></description>
+        </item>
         <item>
             <title><![CDATA[二十年的阿爾茨海默氏症研究是建立在故意欺詐的基礎上的
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31827301</guid>
             <pubDate>Tue, 21 Jun 2022 18:24:53 GMT</pubDate>
             <description><![CDATA[X-Plane 12 Flight Model Update – Supersonic Transition, Delta Wings and Mass]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HDMI 防火牆
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31828193</link>
-            <guid>https://news.ycombinator.com/item?id=31828193</guid>
-            <pubDate>Tue, 21 Jun 2022 19:38:00 GMT</pubDate>
-            <description><![CDATA[HDMI Firewall]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Avo - 更快地構建Ruby on Rails應用程序
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31824877</link>
-            <guid>https://news.ycombinator.com/item?id=31824877</guid>
-            <pubDate>Tue, 21 Jun 2022 15:14:02 GMT</pubDate>
-            <description><![CDATA[Show HN: Avo – Build Ruby on Rails apps faster]]></description>
         </item>
     </channel>
 </rss>
