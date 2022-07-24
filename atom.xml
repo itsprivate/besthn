@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-24T05:38:48.301Z</updated>
+    <updated>2022-07-24T07:44:38.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亚马逊销售的 "Deep Learning with Python "是假货
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32210256</id>
+        <link href="https://news.ycombinator.com/item?id=32210256"/>
+        <updated>2022-07-24T04:10:04.000Z</updated>
+        <summary type="html"><![CDATA[Amazon sales of “Deep Learning with Python” are counterfeit]]></summary>
+        <author>
+            <name>jmillikin</name>
+            <uri>https://news.ycombinator.com/user?id=jmillikin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推特数据泄露暴露540万个账户的联系信息；以3万美元出售
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sammorrowdrums</name>
             <uri>https://news.ycombinator.com/user?id=sammorrowdrums</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对从事加密货币工作感到不安，该怎么办？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31796256</id>
-        <link href="https://news.ycombinator.com/item?id=31796256"/>
-        <updated>2022-06-19T04:48:59.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Feel bad about working in crypto, what to do?]]></summary>
-        <author>
-            <name>whyamibad2</name>
-            <uri>https://news.ycombinator.com/user?id=whyamibad2</uri>
         </author>
     </entry>
 </feed>
