@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 24 Jul 2022 23:01:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 02:36:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[AWS开源了AWS控制台设计系统
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32214622</link>
+            <guid>https://news.ycombinator.com/item?id=32214622</guid>
+            <pubDate>Sun, 24 Jul 2022 15:51:32 GMT</pubDate>
+            <description><![CDATA[AWS open sourced the AWS console design system]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在调整了出版偏倚后，没有证据表明有推波助澜的作用
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32213587</link>
+            <guid>https://news.ycombinator.com/item?id=32213587</guid>
+            <pubDate>Sun, 24 Jul 2022 14:02:26 GMT</pubDate>
+            <description><![CDATA[No evidence for nudging after adjusting for publication bias]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Kvass，一个个人键值存储器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32212235</link>
+            <guid>https://news.ycombinator.com/item?id=32212235</guid>
+            <pubDate>Sun, 24 Jul 2022 11:05:49 GMT</pubDate>
+            <description><![CDATA[Show HN: Kvass, a personal key-value store]]></description>
+        </item>
         <item>
             <title><![CDATA[性能比较：在Python、C/C++、Awk、Rust等语言中计算单词
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31836293</guid>
             <pubDate>Wed, 22 Jun 2022 14:19:29 GMT</pubDate>
             <description><![CDATA[Why is Apache clinging to OpenOffice?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个只有Chromium的网络会是什么样子？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31833561</link>
-            <guid>https://news.ycombinator.com/item?id=31833561</guid>
-            <pubDate>Wed, 22 Jun 2022 09:04:11 GMT</pubDate>
-            <description><![CDATA[What will a Chromium-only Web look like?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Chromium中尝试使用Rust
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31830020</link>
-            <guid>https://news.ycombinator.com/item?id=31830020</guid>
-            <pubDate>Tue, 21 Jun 2022 22:51:51 GMT</pubDate>
-            <description><![CDATA[Experimenting with Rust in Chromium]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在将C语言转译为Go语言时出现了令人惊讶的结果
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31818960</link>
-            <guid>https://news.ycombinator.com/item?id=31818960</guid>
-            <pubDate>Tue, 21 Jun 2022 02:07:00 GMT</pubDate>
-            <description><![CDATA[Surprising result while transpiling C to Go]]></description>
         </item>
     </channel>
 </rss>

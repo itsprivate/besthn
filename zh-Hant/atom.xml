@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-24T23:01:27.682Z</updated>
+    <updated>2022-07-25T02:36:29.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AWS開源了AWS控制檯設計系統
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32214622</id>
+        <link href="https://news.ycombinator.com/item?id=32214622"/>
+        <updated>2022-07-24T15:51:32.000Z</updated>
+        <summary type="html"><![CDATA[AWS open sourced the AWS console design system]]></summary>
+        <author>
+            <name>wizwit999</name>
+            <uri>https://news.ycombinator.com/user?id=wizwit999</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在調整了出版偏倚後，沒有證據表明有推波助瀾的作用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32213587</id>
+        <link href="https://news.ycombinator.com/item?id=32213587"/>
+        <updated>2022-07-24T14:02:26.000Z</updated>
+        <summary type="html"><![CDATA[No evidence for nudging after adjusting for publication bias]]></summary>
+        <author>
+            <name>ororm</name>
+            <uri>https://news.ycombinator.com/user?id=ororm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kvass，一個個人鍵值存儲器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32212235</id>
+        <link href="https://news.ycombinator.com/item?id=32212235"/>
+        <updated>2022-07-24T11:05:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Kvass, a personal key-value store]]></summary>
+        <author>
+            <name>maxmunzel</name>
+            <uri>https://news.ycombinator.com/user?id=maxmunzel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[性能比較：在Python、C/C++、Awk、Rust等語言中計算單詞
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>AuthorizedCust</name>
             <uri>https://news.ycombinator.com/user?id=AuthorizedCust</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個只有Chromium的網絡會是什麼樣子？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31833561</id>
-        <link href="https://news.ycombinator.com/item?id=31833561"/>
-        <updated>2022-06-22T09:04:11.000Z</updated>
-        <summary type="html"><![CDATA[What will a Chromium-only Web look like?]]></summary>
-        <author>
-            <name>dochtman</name>
-            <uri>https://news.ycombinator.com/user?id=dochtman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Chromium中嘗試使用Rust
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31830020</id>
-        <link href="https://news.ycombinator.com/item?id=31830020"/>
-        <updated>2022-06-21T22:51:51.000Z</updated>
-        <summary type="html"><![CDATA[Experimenting with Rust in Chromium]]></summary>
-        <author>
-            <name>navigaid</name>
-            <uri>https://news.ycombinator.com/user?id=navigaid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在將C語言轉譯為Go語言時出現了令人驚訝的結果
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31818960</id>
-        <link href="https://news.ycombinator.com/item?id=31818960"/>
-        <updated>2022-06-21T02:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Surprising result while transpiling C to Go]]></summary>
-        <author>
-            <name>nnx</name>
-            <uri>https://news.ycombinator.com/user?id=nnx</uri>
         </author>
     </entry>
 </feed>
