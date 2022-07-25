@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-25T06:36:47.893Z</updated>
+    <updated>2022-07-25T07:04:27.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為好奇心強的人提供的YouTube頻道
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32220192</id>
+        <link href="https://news.ycombinator.com/item?id=32220192"/>
+        <updated>2022-07-25T03:19:43.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: YouTube Channels for the Intellectually Curious]]></summary>
+        <author>
+            <name>maxutility</name>
+            <uri>https://news.ycombinator.com/user?id=maxutility</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[讚揚堆積的PR
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ignoramous</name>
             <uri>https://news.ycombinator.com/user?id=ignoramous</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在一對電線上，10MBps超過1公里
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31834532</id>
-        <link href="https://news.ycombinator.com/item?id=31834532"/>
-        <updated>2022-06-22T11:21:03.000Z</updated>
-        <summary type="html"><![CDATA[10mbps over 1km on a single pair of wires]]></summary>
-        <author>
-            <name>yosheli123</name>
-            <uri>https://news.ycombinator.com/user?id=yosheli123</uri>
         </author>
     </entry>
 </feed>
