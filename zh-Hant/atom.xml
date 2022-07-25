@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-25T14:33:30.335Z</updated>
+    <updated>2022-07-25T17:22:36.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[兩週以來，韋伯太空望遠鏡正在重塑天文學的面貌
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32224725</id>
+        <link href="https://news.ycombinator.com/item?id=32224725"/>
+        <updated>2022-07-25T14:24:53.000Z</updated>
+        <summary type="html"><![CDATA[Two weeks in, the Webb Space Telescope is reshaping astronomy]]></summary>
+        <author>
+            <name>theafh</name>
+            <uri>https://news.ycombinator.com/user?id=theafh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金日成的身份》（1949年） [pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32219776</id>
+        <link href="https://news.ycombinator.com/item?id=32219776"/>
+        <updated>2022-07-25T01:56:25.000Z</updated>
+        <summary type="html"><![CDATA[The Identity of Kim Il Sung (1949) [pdf]]]></summary>
+        <author>
+            <name>CSMastermind</name>
+            <uri>https://news.ycombinator.com/user?id=CSMastermind</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GNU 名稱系統
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>password4321</name>
             <uri>https://news.ycombinator.com/user?id=password4321</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聳人聽聞的開發者
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31840331</id>
-        <link href="https://news.ycombinator.com/item?id=31840331"/>
-        <updated>2022-06-22T19:00:18.000Z</updated>
-        <summary type="html"><![CDATA[The Grug Brained Developer]]></summary>
-        <author>
-            <name>huimang</name>
-            <uri>https://news.ycombinator.com/user?id=huimang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特說明
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31838049</id>
-        <link href="https://news.ycombinator.com/item?id=31838049"/>
-        <updated>2022-06-22T16:21:42.000Z</updated>
-        <summary type="html"><![CDATA[Twitter Notes]]></summary>
-        <author>
-            <name>yellow_lead</name>
-            <uri>https://news.ycombinator.com/user?id=yellow_lead</uri>
         </author>
     </entry>
 </feed>
