@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 25 Jul 2022 17:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 19:48:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Docker、Kubernetes、Terraform和AWS速成課程系列
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32213066</link>
+            <guid>https://news.ycombinator.com/item?id=32213066</guid>
+            <pubDate>Sun, 24 Jul 2022 13:01:22 GMT</pubDate>
+            <description><![CDATA[Docker, Kubernetes, Terraform, and AWS crash course series]]></description>
+        </item>
         <item>
             <title><![CDATA[兩週以來，韋伯太空望遠鏡正在重塑天文學的面貌
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31836922</guid>
             <pubDate>Wed, 22 Jun 2022 15:02:08 GMT</pubDate>
             <description><![CDATA[Guide to Web Authentication]]></description>
-        </item>
-        <item>
-            <title><![CDATA[允許轉發的規則導致集裝箱的無意暴露(2021)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31839936</link>
-            <guid>https://news.ycombinator.com/item?id=31839936</guid>
-            <pubDate>Wed, 22 Jun 2022 18:31:33 GMT</pubDate>
-            <description><![CDATA[Permissive forwarding rule leads to unintentional exposure of containers (2021)]]></description>
         </item>
     </channel>
 </rss>
