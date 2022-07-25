@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-25T14:04:24.889Z</updated>
+    <updated>2022-07-25T14:33:30.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GNU 名称系统
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32222360</id>
+        <link href="https://news.ycombinator.com/item?id=32222360"/>
+        <updated>2022-07-25T09:49:17.000Z</updated>
+        <summary type="html"><![CDATA[The GNU Name System]]></summary>
+        <author>
+            <name>p4bl0</name>
+            <uri>https://news.ycombinator.com/user?id=p4bl0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[非明显的Docker用途
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32213950</id>
+        <link href="https://news.ycombinator.com/item?id=32213950"/>
+        <updated>2022-07-24T14:44:10.000Z</updated>
+        <summary type="html"><![CDATA[Non-Obvious Docker Uses]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么GNU grep速度快 (2010)
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>yellow_lead</name>
             <uri>https://news.ycombinator.com/user?id=yellow_lead</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[维基媒体企业宣布谷歌和互联网档案馆为首批客户
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31826651</id>
-        <link href="https://news.ycombinator.com/item?id=31826651"/>
-        <updated>2022-06-21T17:26:17.000Z</updated>
-        <summary type="html"><![CDATA[Wikimedia Enterprise announces Google and Internet Archive as first customers]]></summary>
-        <author>
-            <name>abbe98</name>
-            <uri>https://news.ycombinator.com/user?id=abbe98</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[勇敢的搜索护目镜。用规则和过滤器改变搜索排名
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31837986</id>
-        <link href="https://news.ycombinator.com/item?id=31837986"/>
-        <updated>2022-06-22T16:16:57.000Z</updated>
-        <summary type="html"><![CDATA[Brave Search Goggles: Alter search rankings with rules and filters]]></summary>
-        <author>
-            <name>llevert</name>
-            <uri>https://news.ycombinator.com/user?id=llevert</uri>
         </author>
     </entry>
 </feed>
