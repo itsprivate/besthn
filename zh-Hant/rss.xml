@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 25 Jul 2022 07:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 10:38:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[德州電網的Datadog儀表板
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32217968</link>
+            <guid>https://news.ycombinator.com/item?id=32217968</guid>
+            <pubDate>Sun, 24 Jul 2022 21:32:48 GMT</pubDate>
+            <description><![CDATA[Datadog dashboard for the Texas power grid]]></description>
+        </item>
         <item>
             <title><![CDATA[為好奇心強的人提供的YouTube頻道
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31837460</guid>
             <pubDate>Wed, 22 Jun 2022 15:38:32 GMT</pubDate>
             <description><![CDATA[The End of the World Is Just Beginning for Shipping]]></description>
-        </item>
-        <item>
-            <title><![CDATA[尾數SSH
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31837115</link>
-            <guid>https://news.ycombinator.com/item?id=31837115</guid>
-            <pubDate>Wed, 22 Jun 2022 15:14:32 GMT</pubDate>
-            <description><![CDATA[Tailscale SSH]]></description>
         </item>
     </channel>
 </rss>
