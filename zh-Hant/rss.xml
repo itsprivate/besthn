@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 25 Jul 2022 02:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 05:04:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[三星要求為其在德克薩斯州的11個工廠申請規劃許可
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32216363</link>
+            <guid>https://news.ycombinator.com/item?id=32216363</guid>
+            <pubDate>Sun, 24 Jul 2022 18:43:07 GMT</pubDate>
+            <description><![CDATA[Samsung asks for planning permission for 11 fabs in Texas]]></description>
+        </item>
         <item>
             <title><![CDATA[AWS開源了AWS控制檯設計系統
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31835818</guid>
             <pubDate>Wed, 22 Jun 2022 13:36:09 GMT</pubDate>
             <description><![CDATA[Crafting Interpreters: A Review]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼Apache緊緊抓住OpenOffice不放？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31836293</link>
-            <guid>https://news.ycombinator.com/item?id=31836293</guid>
-            <pubDate>Wed, 22 Jun 2022 14:19:29 GMT</pubDate>
-            <description><![CDATA[Why is Apache clinging to OpenOffice?]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-25T02:36:29.063Z</updated>
+    <updated>2022-07-25T05:04:32.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[三星要求為其在德克薩斯州的11個工廠申請規劃許可
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32216363</id>
+        <link href="https://news.ycombinator.com/item?id=32216363"/>
+        <updated>2022-07-24T18:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Samsung asks for planning permission for 11 fabs in Texas]]></summary>
+        <author>
+            <name>WaitWaitWha</name>
+            <uri>https://news.ycombinator.com/user?id=WaitWaitWha</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS開源了AWS控制檯設計系統
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>chidiw</name>
             <uri>https://news.ycombinator.com/user?id=chidiw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼Apache緊緊抓住OpenOffice不放？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31836293</id>
-        <link href="https://news.ycombinator.com/item?id=31836293"/>
-        <updated>2022-06-22T14:19:29.000Z</updated>
-        <summary type="html"><![CDATA[Why is Apache clinging to OpenOffice?]]></summary>
-        <author>
-            <name>AuthorizedCust</name>
-            <uri>https://news.ycombinator.com/user?id=AuthorizedCust</uri>
         </author>
     </entry>
 </feed>

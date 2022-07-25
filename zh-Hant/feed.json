@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32216363",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32216363",
+            "title": "三星要求為其在德克薩斯州的11個工廠申請規劃許可\n",
+            "summary": "Samsung asks for planning permission for 11 fabs in Texas",
+            "date_modified": "2022-07-24T18:43:07.000Z",
+            "author": {
+                "name": "WaitWaitWha",
+                "url": "https://news.ycombinator.com/user?id=WaitWaitWha"
+            },
+            "_original_headline": "Samsung asks for planning permission for 11 fabs in Texas",
+            "_original_url": "https://www.electronicsweekly.com/uncategorised/802190-2022-07/",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32214622",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32214622",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://chidiwilliams.com/post/crafting-interpreters-a-review/",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31836293",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31836293",
-            "title": "為什麼Apache緊緊抓住OpenOffice不放？\n",
-            "summary": "Why is Apache clinging to OpenOffice?",
-            "date_modified": "2022-06-22T14:19:29.000Z",
-            "author": {
-                "name": "AuthorizedCust",
-                "url": "https://news.ycombinator.com/user?id=AuthorizedCust"
-            },
-            "_original_headline": "Why is Apache clinging to OpenOffice?",
-            "_original_url": "https://www.arencambre.com/2022/06/22/why-is-apache-clinging-to-openoffices-corpse/",
-            "_sensitive": false,
-            "_score": 214
         }
     ]
 }
