@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-25T20:31:52.001Z</updated>
+    <updated>2022-07-25T23:30:03.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[伪造的β-淀粉样蛋白数据。这意味着什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32224823</id>
+        <link href="https://news.ycombinator.com/item?id=32224823"/>
+        <updated>2022-07-25T14:31:37.000Z</updated>
+        <summary type="html"><![CDATA[Faked Beta-Amyloid Data. What Does It Mean?]]></summary>
+        <author>
+            <name>hprotagonist</name>
+            <uri>https://news.ycombinator.com/user?id=hprotagonist</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机械师发明了一种可实现转向角达80度的车轴
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32224235</id>
+        <link href="https://news.ycombinator.com/item?id=32224235"/>
+        <updated>2022-07-25T13:49:16.000Z</updated>
+        <summary type="html"><![CDATA[Mechanics invent an axle that can achieve steering angles of up to 80 degrees]]></summary>
+        <author>
+            <name>tnorthcutt</name>
+            <uri>https://news.ycombinator.com/user?id=tnorthcutt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[是时候把闰秒留在过去了
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>joemanaco</name>
             <uri>https://news.ycombinator.com/user?id=joemanaco</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将旧的安卓手机作为网络服务器重新利用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31841051</id>
-        <link href="https://news.ycombinator.com/item?id=31841051"/>
-        <updated>2022-06-22T19:55:50.000Z</updated>
-        <summary type="html"><![CDATA[Repurposing an old Android phone as a web server]]></summary>
-        <author>
-            <name>anthropodie</name>
-            <uri>https://news.ycombinator.com/user?id=anthropodie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[介绍PyScript（PyCon主题演讲的摘要）
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31843996</id>
-        <link href="https://news.ycombinator.com/item?id=31843996"/>
-        <updated>2022-06-23T01:12:06.000Z</updated>
-        <summary type="html"><![CDATA[Introducing PyScript (summary of PyCon keynote)]]></summary>
-        <author>
-            <name>benhoyt</name>
-            <uri>https://news.ycombinator.com/user?id=benhoyt</uri>
         </author>
     </entry>
 </feed>
