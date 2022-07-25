@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-25T10:38:45.557Z</updated>
+    <updated>2022-07-25T10:54:24.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[C#和.NET的案例
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32219836</id>
+        <link href="https://news.ycombinator.com/item?id=32219836"/>
+        <updated>2022-07-25T02:05:33.000Z</updated>
+        <summary type="html"><![CDATA[The Case for C# and .NET]]></summary>
+        <author>
+            <name>greenSunglass</name>
+            <uri>https://news.ycombinator.com/user?id=greenSunglass</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么麦当劳的自助服务机如此容易被黑？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32218232</id>
+        <link href="https://news.ycombinator.com/item?id=32218232"/>
+        <updated>2022-07-24T22:03:39.000Z</updated>
+        <summary type="html"><![CDATA[Why are McDonald’s Self Service Kiosks so hackable?]]></summary>
+        <author>
+            <name>ghuntley</name>
+            <uri>https://news.ycombinator.com/user?id=ghuntley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德州电网的Datadog仪表板
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>kgwgk</name>
             <uri>https://news.ycombinator.com/user?id=kgwgk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[勇敢的搜索在第一年突破25亿次查询
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31837865</id>
-        <link href="https://news.ycombinator.com/item?id=31837865"/>
-        <updated>2022-06-22T16:07:01.000Z</updated>
-        <summary type="html"><![CDATA[Brave Search passes 2.5B queries in its first year]]></summary>
-        <author>
-            <name>quick_brown_fox</name>
-            <uri>https://news.ycombinator.com/user?id=quick_brown_fox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[航运业的世界末日才刚刚开始
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31837460</id>
-        <link href="https://news.ycombinator.com/item?id=31837460"/>
-        <updated>2022-06-22T15:38:32.000Z</updated>
-        <summary type="html"><![CDATA[The End of the World Is Just Beginning for Shipping]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>
