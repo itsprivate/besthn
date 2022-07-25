@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 25 Jul 2022 10:54:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 11:28:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[完成你开始的工作使团队更有生产力和可预测性
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32220514</link>
+            <guid>https://news.ycombinator.com/item?id=32220514</guid>
+            <pubDate>Mon, 25 Jul 2022 04:34:20 GMT</pubDate>
+            <description><![CDATA[Finishing what you start makes teams more productive and predictable]]></description>
+        </item>
         <item>
             <title><![CDATA[C#和.NET的案例
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31836974</guid>
             <pubDate>Wed, 22 Jun 2022 15:05:46 GMT</pubDate>
             <description><![CDATA[Stack Overflow Developer Survey 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国食品和药物管理局将命令Juul电子烟退出美国市场
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31835843</link>
-            <guid>https://news.ycombinator.com/item?id=31835843</guid>
-            <pubDate>Wed, 22 Jun 2022 13:38:08 GMT</pubDate>
-            <description><![CDATA[FDA to order Juul e-cigarettes off U.S. market]]></description>
         </item>
     </channel>
 </rss>
