@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-26T20:51:00.825Z</updated>
+    <updated>2022-07-26T21:47:57.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亚利桑那州母亲与儿童安全部的虐待性起诉作斗争
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32214337</id>
+        <link href="https://news.ycombinator.com/item?id=32214337"/>
+        <updated>2022-07-24T15:22:06.000Z</updated>
+        <summary type="html"><![CDATA[Arizona Mom Fights Abusive Prosecution by Department of Child Safety]]></summary>
+        <author>
+            <name>tomohawk</name>
+            <uri>https://news.ycombinator.com/user?id=tomohawk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[语言工具 - 开源的Grammarly替代品
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>8b16380d</name>
             <uri>https://news.ycombinator.com/user?id=8b16380d</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[随机的Ultima Online轶事#2--玩家内部的马匹（2014）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31844479</id>
-        <link href="https://news.ycombinator.com/item?id=31844479"/>
-        <updated>2022-06-23T02:22:26.000Z</updated>
-        <summary type="html"><![CDATA[Random Ultima Online anecdote #2 – Horses inside players (2014)]]></summary>
-        <author>
-            <name>nieve</name>
-            <uri>https://news.ycombinator.com/user?id=nieve</uri>
         </author>
     </entry>
 </feed>
