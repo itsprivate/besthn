@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 26 Jul 2022 19:01:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 20:32:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[RustDesk - 開源的TeamViewer替代品
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32239025</link>
+            <guid>https://news.ycombinator.com/item?id=32239025</guid>
+            <pubDate>Tue, 26 Jul 2022 14:46:06 GMT</pubDate>
+            <description><![CDATA[RustDesk – Open-source TeamViewer alternative]]></description>
+        </item>
         <item>
             <title><![CDATA[特斯拉通過削減1/3的續航里程遠程贖回車主
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31857069</guid>
             <pubDate>Fri, 24 Jun 2022 01:54:50 GMT</pubDate>
             <description><![CDATA[How We built a $1M ARR open source SaaS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[發現一釐米長的細菌
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31854347</link>
-            <guid>https://news.ycombinator.com/item?id=31854347</guid>
-            <pubDate>Thu, 23 Jun 2022 19:53:23 GMT</pubDate>
-            <description><![CDATA[One centimeter long bacterium discovered]]></description>
         </item>
     </channel>
 </rss>
