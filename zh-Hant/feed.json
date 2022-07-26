@@ -11,6 +11,70 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32236965",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32236965",
+            "title": "丹麥因隱私問題禁止學校使用Gmail和Co軟件\n",
+            "summary": "Denmark bans Gmail and Co from schools due to privacy concerns",
+            "date_modified": "2022-07-26T11:42:40.000Z",
+            "author": {
+                "name": "starsep",
+                "url": "https://news.ycombinator.com/user?id=starsep"
+            },
+            "_original_headline": "Denmark bans Gmail and Co from schools due to privacy concerns",
+            "_original_url": "https://tutanota.com/blog/posts/denmark-bans-google-email-and-cloud-services-due-to-privacy-concerns/",
+            "_sensitive": false,
+            "_score": 215
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32234117",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32234117",
+            "title": "換工作的人比留下來的人掙得多得多\n",
+            "summary": "Job Switchers Are Earning a Lot More Than Those Who Stay",
+            "date_modified": "2022-07-26T04:04:15.000Z",
+            "author": {
+                "name": "Brajeshwar",
+                "url": "https://news.ycombinator.com/user?id=Brajeshwar"
+            },
+            "_original_headline": "Job Switchers Are Earning a Lot More Than Those Who Stay",
+            "_original_url": "https://www.wsj.com/articles/inflation-switch-jobs-more-money-fed-atlanta-data-11658699425",
+            "_sensitive": false,
+            "_score": 207
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32233437",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32233437",
+            "title": "作為軟件工程師成為全職創造者\n",
+            "summary": "Becoming a Full-Time Creator as a Software Engineer",
+            "date_modified": "2022-07-26T02:08:48.000Z",
+            "author": {
+                "name": "nassimsoftware",
+                "url": "https://news.ycombinator.com/user?id=nassimsoftware"
+            },
+            "_original_headline": "Becoming a Full-Time Creator as a Software Engineer",
+            "_original_url": "https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32232974",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32232974",
+            "title": "VRchat禁止Mods，擁抱EAC\n",
+            "summary": "VRchat bans mods, embraces EAC",
+            "date_modified": "2022-07-26T00:52:33.000Z",
+            "author": {
+                "name": "cowtools",
+                "url": "https://news.ycombinator.com/user?id=cowtools"
+            },
+            "_original_headline": "VRchat bans mods, embraces EAC",
+            "_original_url": "https://hello.vrchat.com/blog/vrchat-security-update",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32233451",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32233451",
@@ -9545,70 +9609,6 @@
             "_original_url": "https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-takes-action-against-harley-davidson-westinghouse-illegally-restricting-customers-right-repair-0",
             "_sensitive": false,
             "_score": 204
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31846902",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31846902",
-            "title": "所有的命令都以逗號開始（2009）。\n",
-            "summary": "Start all of your commands with a comma (2009)",
-            "date_modified": "2022-06-23T09:50:35.000Z",
-            "author": {
-                "name": "Tomte",
-                "url": "https://news.ycombinator.com/user?id=Tomte"
-            },
-            "_original_headline": "Start all of your commands with a comma (2009)",
-            "_original_url": "https://rhodesmill.org/brandon/2009/commands-with-comma/",
-            "_sensitive": false,
-            "_score": 206
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31848253",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31848253",
-            "title": "調查明尼阿波利斯市自行車道的效果\n",
-            "summary": "Investigating the effects of bike lanes in Minneapolis",
-            "date_modified": "2022-06-23T12:44:10.000Z",
-            "author": {
-                "name": "Cenk",
-                "url": "https://news.ycombinator.com/user?id=Cenk"
-            },
-            "_original_headline": "Investigating the effects of bike lanes in Minneapolis",
-            "_original_url": "https://oa.mg/blog/do-bike-lanes-lead-to-more-cyclists/",
-            "_sensitive": false,
-            "_score": 201
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31848210",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31848210",
-            "title": "還有人使用書籤服務嗎？\n",
-            "summary": "Ask HN: Does anybody still use bookmarking services?",
-            "date_modified": "2022-06-23T12:40:54.000Z",
-            "author": {
-                "name": "joe8756438",
-                "url": "https://news.ycombinator.com/user?id=joe8756438"
-            },
-            "_original_headline": "Ask HN: Does anybody still use bookmarking services?",
-            "_original_url": "https://news.ycombinator.com/item?id=31848210",
-            "_sensitive": false,
-            "_score": 201
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31851755",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31851755",
-            "title": "Git中的SHA-256支持是怎麼回事？\n",
-            "summary": "Whatever happened to SHA-256 support in Git?",
-            "date_modified": "2022-06-23T16:47:45.000Z",
-            "author": {
-                "name": "chmaynard",
-                "url": "https://news.ycombinator.com/user?id=chmaynard"
-            },
-            "_original_headline": "Whatever happened to SHA-256 support in Git?",
-            "_original_url": "https://lwn.net/SubscriberLink/898522/9cf50ee3f96f90c1/",
-            "_sensitive": false,
-            "_score": 212
         }
     ]
 }

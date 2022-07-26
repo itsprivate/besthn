@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-26T13:03:28.492Z</updated>
+    <updated>2022-07-26T13:54:41.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[丹麥因隱私問題禁止學校使用Gmail和Co軟件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32236965</id>
+        <link href="https://news.ycombinator.com/item?id=32236965"/>
+        <updated>2022-07-26T11:42:40.000Z</updated>
+        <summary type="html"><![CDATA[Denmark bans Gmail and Co from schools due to privacy concerns]]></summary>
+        <author>
+            <name>starsep</name>
+            <uri>https://news.ycombinator.com/user?id=starsep</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[換工作的人比留下來的人掙得多得多
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32234117</id>
+        <link href="https://news.ycombinator.com/item?id=32234117"/>
+        <updated>2022-07-26T04:04:15.000Z</updated>
+        <summary type="html"><![CDATA[Job Switchers Are Earning a Lot More Than Those Who Stay]]></summary>
+        <author>
+            <name>Brajeshwar</name>
+            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作為軟件工程師成為全職創造者
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32233437</id>
+        <link href="https://news.ycombinator.com/item?id=32233437"/>
+        <updated>2022-07-26T02:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Becoming a Full-Time Creator as a Software Engineer]]></summary>
+        <author>
+            <name>nassimsoftware</name>
+            <uri>https://news.ycombinator.com/user?id=nassimsoftware</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VRchat禁止Mods，擁抱EAC
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32232974</id>
+        <link href="https://news.ycombinator.com/item?id=32232974"/>
+        <updated>2022-07-26T00:52:33.000Z</updated>
+        <summary type="html"><![CDATA[VRchat bans mods, embraces EAC]]></summary>
+        <author>
+            <name>cowtools</name>
+            <uri>https://news.ycombinator.com/user?id=cowtools</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無恥是一種策略 (2019)
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>sinak</name>
             <uri>https://news.ycombinator.com/user?id=sinak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[所有的命令都以逗號開始（2009）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31846902</id>
-        <link href="https://news.ycombinator.com/item?id=31846902"/>
-        <updated>2022-06-23T09:50:35.000Z</updated>
-        <summary type="html"><![CDATA[Start all of your commands with a comma (2009)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[調查明尼阿波利斯市自行車道的效果
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31848253</id>
-        <link href="https://news.ycombinator.com/item?id=31848253"/>
-        <updated>2022-06-23T12:44:10.000Z</updated>
-        <summary type="html"><![CDATA[Investigating the effects of bike lanes in Minneapolis]]></summary>
-        <author>
-            <name>Cenk</name>
-            <uri>https://news.ycombinator.com/user?id=Cenk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[還有人使用書籤服務嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31848210</id>
-        <link href="https://news.ycombinator.com/item?id=31848210"/>
-        <updated>2022-06-23T12:40:54.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Does anybody still use bookmarking services?]]></summary>
-        <author>
-            <name>joe8756438</name>
-            <uri>https://news.ycombinator.com/user?id=joe8756438</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git中的SHA-256支持是怎麼回事？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31851755</id>
-        <link href="https://news.ycombinator.com/item?id=31851755"/>
-        <updated>2022-06-23T16:47:45.000Z</updated>
-        <summary type="html"><![CDATA[Whatever happened to SHA-256 support in Git?]]></summary>
-        <author>
-            <name>chmaynard</name>
-            <uri>https://news.ycombinator.com/user?id=chmaynard</uri>
         </author>
     </entry>
 </feed>

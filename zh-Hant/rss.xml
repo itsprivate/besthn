@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 26 Jul 2022 13:03:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 13:54:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,38 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[丹麥因隱私問題禁止學校使用Gmail和Co軟件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32236965</link>
+            <guid>https://news.ycombinator.com/item?id=32236965</guid>
+            <pubDate>Tue, 26 Jul 2022 11:42:40 GMT</pubDate>
+            <description><![CDATA[Denmark bans Gmail and Co from schools due to privacy concerns]]></description>
+        </item>
+        <item>
+            <title><![CDATA[換工作的人比留下來的人掙得多得多
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32234117</link>
+            <guid>https://news.ycombinator.com/item?id=32234117</guid>
+            <pubDate>Tue, 26 Jul 2022 04:04:15 GMT</pubDate>
+            <description><![CDATA[Job Switchers Are Earning a Lot More Than Those Who Stay]]></description>
+        </item>
+        <item>
+            <title><![CDATA[作為軟件工程師成為全職創造者
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32233437</link>
+            <guid>https://news.ycombinator.com/item?id=32233437</guid>
+            <pubDate>Tue, 26 Jul 2022 02:08:48 GMT</pubDate>
+            <description><![CDATA[Becoming a Full-Time Creator as a Software Engineer]]></description>
+        </item>
+        <item>
+            <title><![CDATA[VRchat禁止Mods，擁抱EAC
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32232974</link>
+            <guid>https://news.ycombinator.com/item?id=32232974</guid>
+            <pubDate>Tue, 26 Jul 2022 00:52:33 GMT</pubDate>
+            <description><![CDATA[VRchat bans mods, embraces EAC]]></description>
+        </item>
         <item>
             <title><![CDATA[無恥是一種策略 (2019)
 ]]></title>
@@ -4781,38 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31854051</guid>
             <pubDate>Thu, 23 Jun 2022 19:26:26 GMT</pubDate>
             <description><![CDATA[FTC action against Harley-Davidson and Westinghouse for limiting right to repair]]></description>
-        </item>
-        <item>
-            <title><![CDATA[所有的命令都以逗號開始（2009）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31846902</link>
-            <guid>https://news.ycombinator.com/item?id=31846902</guid>
-            <pubDate>Thu, 23 Jun 2022 09:50:35 GMT</pubDate>
-            <description><![CDATA[Start all of your commands with a comma (2009)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[調查明尼阿波利斯市自行車道的效果
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31848253</link>
-            <guid>https://news.ycombinator.com/item?id=31848253</guid>
-            <pubDate>Thu, 23 Jun 2022 12:44:10 GMT</pubDate>
-            <description><![CDATA[Investigating the effects of bike lanes in Minneapolis]]></description>
-        </item>
-        <item>
-            <title><![CDATA[還有人使用書籤服務嗎？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31848210</link>
-            <guid>https://news.ycombinator.com/item?id=31848210</guid>
-            <pubDate>Thu, 23 Jun 2022 12:40:54 GMT</pubDate>
-            <description><![CDATA[Ask HN: Does anybody still use bookmarking services?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Git中的SHA-256支持是怎麼回事？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31851755</link>
-            <guid>https://news.ycombinator.com/item?id=31851755</guid>
-            <pubDate>Thu, 23 Jun 2022 16:47:45 GMT</pubDate>
-            <description><![CDATA[Whatever happened to SHA-256 support in Git?]]></description>
         </item>
     </channel>
 </rss>
