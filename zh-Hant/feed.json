@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32236608",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32236608",
+            "title": "語言工具 - 開源的Grammarly替代品\n",
+            "summary": "Language Tool – Open-source Grammarly alternative",
+            "date_modified": "2022-07-26T10:53:08.000Z",
+            "author": {
+                "name": "Brajeshwar",
+                "url": "https://news.ycombinator.com/user?id=Brajeshwar"
+            },
+            "_original_headline": "Language Tool – Open-source Grammarly alternative",
+            "_original_url": "https://languagetool.org/dev",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32235880",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32235880",
+            "title": "蘋果公司採訪--1995年\n",
+            "summary": "Apple Interview – 1995",
+            "date_modified": "2022-07-26T08:53:23.000Z",
+            "author": {
+                "name": "iloverss",
+                "url": "https://news.ycombinator.com/user?id=iloverss"
+            },
+            "_original_headline": "Apple Interview – 1995",
+            "_original_url": "https://www.engineersneedart.com/blog/interview/interview.html",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32239025",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32239025",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://www.raphkoster.com/2014/08/16/random-uo-anecdote-2/",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31860131",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31860131",
-            "title": "告訴HN：兄弟打印機現在鎖定了非OEM的配件\n",
-            "summary": "Tell HN: Brother printers now locking out non-OEM paraphernalia",
-            "date_modified": "2022-06-24T11:17:31.000Z",
-            "author": {
-                "name": "bbarnett",
-                "url": "https://news.ycombinator.com/user?id=bbarnett"
-            },
-            "_original_headline": "Tell HN: Brother printers now locking out non-OEM paraphernalia",
-            "_original_url": "https://news.ycombinator.com/item?id=31860131",
-            "_sensitive": false,
-            "_score": 218
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31857069",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31857069",
-            "title": "我們如何建立一個100萬美元ARR的開源SaaS\n",
-            "summary": "How We built a $1M ARR open source SaaS",
-            "date_modified": "2022-06-24T01:54:50.000Z",
-            "author": {
-                "name": "caust1c",
-                "url": "https://news.ycombinator.com/user?id=caust1c"
-            },
-            "_original_headline": "How We built a $1M ARR open source SaaS",
-            "_original_url": "https://plausible.io/blog/open-source-saas",
-            "_sensitive": false,
-            "_score": 222
         }
     ]
 }

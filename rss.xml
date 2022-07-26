@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 26 Jul 2022 20:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 20:51:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[语言工具 - 开源的Grammarly替代品
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32236608</link>
+            <guid>https://news.ycombinator.com/item?id=32236608</guid>
+            <pubDate>Tue, 26 Jul 2022 10:53:08 GMT</pubDate>
+            <description><![CDATA[Language Tool – Open-source Grammarly alternative]]></description>
+        </item>
+        <item>
+            <title><![CDATA[苹果公司采访--1995年
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32235880</link>
+            <guid>https://news.ycombinator.com/item?id=32235880</guid>
+            <pubDate>Tue, 26 Jul 2022 08:53:23 GMT</pubDate>
+            <description><![CDATA[Apple Interview – 1995]]></description>
+        </item>
         <item>
             <title><![CDATA[RustDesk - 开源的TeamViewer替代品
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31844479</guid>
             <pubDate>Thu, 23 Jun 2022 02:22:26 GMT</pubDate>
             <description><![CDATA[Random Ultima Online anecdote #2 – Horses inside players (2014)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告诉HN：兄弟打印机现在锁定了非OEM的配件
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31860131</link>
-            <guid>https://news.ycombinator.com/item?id=31860131</guid>
-            <pubDate>Fri, 24 Jun 2022 11:17:31 GMT</pubDate>
-            <description><![CDATA[Tell HN: Brother printers now locking out non-OEM paraphernalia]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们如何建立一个100万美元ARR的开源SaaS
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31857069</link>
-            <guid>https://news.ycombinator.com/item?id=31857069</guid>
-            <pubDate>Fri, 24 Jun 2022 01:54:50 GMT</pubDate>
-            <description><![CDATA[How We built a $1M ARR open source SaaS]]></description>
         </item>
     </channel>
 </rss>
