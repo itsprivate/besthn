@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-25T23:30:03.451Z</updated>
+    <updated>2022-07-26T02:51:17.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我从阿里巴巴买了一辆便宜的电动皮卡 (2021)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32231209</id>
+        <link href="https://news.ycombinator.com/item?id=32231209"/>
+        <updated>2022-07-25T21:31:53.000Z</updated>
+        <summary type="html"><![CDATA[I bought a cheap electric pickup truck from Alibaba (2021)]]></summary>
+        <author>
+            <name>qzervaas</name>
+            <uri>https://news.ycombinator.com/user?id=qzervaas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我记得作为一个年轻的技术人员，我对市场营销感到很嘲讽
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32226001</id>
+        <link href="https://news.ycombinator.com/item?id=32226001"/>
+        <updated>2022-07-25T15:44:42.000Z</updated>
+        <summary type="html"><![CDATA[I remember feeling derisive about marketing as a young techie]]></summary>
+        <author>
+            <name>tosh</name>
+            <uri>https://news.ycombinator.com/user?id=tosh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电影院最伟大的场景：《卡萨布兰卡》和《马赛曲》（2015）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32223721</id>
+        <link href="https://news.ycombinator.com/item?id=32223721"/>
+        <updated>2022-07-25T13:07:15.000Z</updated>
+        <summary type="html"><![CDATA[Cinema’s greatest scene: ‘Casablanca’ and ‘La Marseillaise’ (2015)]]></summary>
+        <author>
+            <name>mooreds</name>
+            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[六边形网格上的管道拼图（又称网）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32216436</id>
+        <link href="https://news.ycombinator.com/item?id=32216436"/>
+        <updated>2022-07-24T18:50:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pipes puzzle (a.k.a. Net) on a hexagonal grid]]></summary>
+        <author>
+            <name>gereleth</name>
+            <uri>https://news.ycombinator.com/user?id=gereleth</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伪造的β-淀粉样蛋白数据。这意味着什么？
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>taubek</name>
             <uri>https://news.ycombinator.com/user?id=taubek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dolt是数据的Git
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31847416</id>
-        <link href="https://news.ycombinator.com/item?id=31847416"/>
-        <updated>2022-06-23T11:04:44.000Z</updated>
-        <summary type="html"><![CDATA[Dolt Is Git for Data]]></summary>
-        <author>
-            <name>gjvc</name>
-            <uri>https://news.ycombinator.com/user?id=gjvc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["哈巴狗家庭 "持续购买被停产的产品（2019）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31820168</id>
-        <link href="https://news.ycombinator.com/item?id=31820168"/>
-        <updated>2022-06-21T05:17:35.000Z</updated>
-        <summary type="html"><![CDATA[“Harbinger households” consistently buy products that get discontinued (2019)]]></summary>
-        <author>
-            <name>tobr</name>
-            <uri>https://news.ycombinator.com/user?id=tobr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yandex开放100B参数的类似GPT的模型资源
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31846593</id>
-        <link href="https://news.ycombinator.com/item?id=31846593"/>
-        <updated>2022-06-23T09:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Yandex opensources 100B parameter GPT-like model]]></summary>
-        <author>
-            <name>f311a</name>
-            <uri>https://news.ycombinator.com/user?id=f311a</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot只是销售别人写的代码
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31846543</id>
-        <link href="https://news.ycombinator.com/item?id=31846543"/>
-        <updated>2022-06-23T08:48:46.000Z</updated>
-        <summary type="html"><![CDATA[Copilot just sells code other people wrote]]></summary>
-        <author>
-            <name>joemanaco</name>
-            <uri>https://news.ycombinator.com/user?id=joemanaco</uri>
         </author>
     </entry>
 </feed>

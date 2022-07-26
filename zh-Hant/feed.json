@@ -11,6 +11,70 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32231209",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32231209",
+            "title": "我從阿里巴巴買了一輛便宜的電動皮卡 (2021)\n",
+            "summary": "I bought a cheap electric pickup truck from Alibaba (2021)",
+            "date_modified": "2022-07-25T21:31:53.000Z",
+            "author": {
+                "name": "qzervaas",
+                "url": "https://news.ycombinator.com/user?id=qzervaas"
+            },
+            "_original_headline": "I bought a cheap electric pickup truck from Alibaba (2021)",
+            "_original_url": "https://electrek.co/2021/10/25/i-actually-bought-a-cheap-electric-pickup-truck-from-alibaba-heres-what-showed-up/",
+            "_sensitive": false,
+            "_score": 309
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32226001",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32226001",
+            "title": "我記得作為一個年輕的技術人員，我對市場營銷感到很嘲諷\n",
+            "summary": "I remember feeling derisive about marketing as a young techie",
+            "date_modified": "2022-07-25T15:44:42.000Z",
+            "author": {
+                "name": "tosh",
+                "url": "https://news.ycombinator.com/user?id=tosh"
+            },
+            "_original_headline": "I remember feeling derisive about marketing as a young techie",
+            "_original_url": "https://twitter.com/id_aa_carmack/status/1551587190395789312",
+            "_sensitive": false,
+            "_score": 217
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32223721",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32223721",
+            "title": "電影院最偉大的場景：《卡薩布蘭卡》和《馬賽曲》（2015）。\n",
+            "summary": "Cinema’s greatest scene: ‘Casablanca’ and ‘La Marseillaise’ (2015)",
+            "date_modified": "2022-07-25T13:07:15.000Z",
+            "author": {
+                "name": "mooreds",
+                "url": "https://news.ycombinator.com/user?id=mooreds"
+            },
+            "_original_headline": "Cinema’s greatest scene: ‘Casablanca’ and ‘La Marseillaise’ (2015)",
+            "_original_url": "https://seveninchesofyourtime.com/cinemas-greatest-scene-casablanca-and-la-marseillaise/",
+            "_sensitive": false,
+            "_score": 208
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32216436",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32216436",
+            "title": "六邊形網格上的管道拼圖（又稱網）。\n",
+            "summary": "Show HN: Pipes puzzle (a.k.a. Net) on a hexagonal grid",
+            "date_modified": "2022-07-24T18:50:58.000Z",
+            "author": {
+                "name": "gereleth",
+                "url": "https://news.ycombinator.com/user?id=gereleth"
+            },
+            "_original_headline": "Show HN: Pipes puzzle (a.k.a. Net) on a hexagonal grid",
+            "_original_url": "https://hexapipes.vercel.app/hexagonal/5/1",
+            "_sensitive": false,
+            "_score": 270
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32224823",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32224823",
@@ -9545,70 +9609,6 @@
             "_original_url": "https://www.tolkiensociety.org/2022/06/new-tolkien-book-the-fall-of-numenor-to-be-published/",
             "_sensitive": false,
             "_score": 206
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31847416",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31847416",
-            "title": "Dolt是數據的Git\n",
-            "summary": "Dolt Is Git for Data",
-            "date_modified": "2022-06-23T11:04:44.000Z",
-            "author": {
-                "name": "gjvc",
-                "url": "https://news.ycombinator.com/user?id=gjvc"
-            },
-            "_original_headline": "Dolt Is Git for Data",
-            "_original_url": "https://github.com/dolthub/dolt",
-            "_sensitive": false,
-            "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31820168",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31820168",
-            "title": "\"哈巴狗家庭 \"持續購買被停產的產品（2019）。\n",
-            "summary": "“Harbinger households” consistently buy products that get discontinued (2019)",
-            "date_modified": "2022-06-21T05:17:35.000Z",
-            "author": {
-                "name": "tobr",
-                "url": "https://news.ycombinator.com/user?id=tobr"
-            },
-            "_original_headline": "“Harbinger households” consistently buy products that get discontinued (2019)",
-            "_original_url": "https://boingboing.net/2019/12/03/harbringer-of-doom.html",
-            "_sensitive": false,
-            "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31846593",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31846593",
-            "title": "Yandex開放100B參數的類似GPT的模型資源\n",
-            "summary": "Yandex opensources 100B parameter GPT-like model",
-            "date_modified": "2022-06-23T09:00:26.000Z",
-            "author": {
-                "name": "f311a",
-                "url": "https://news.ycombinator.com/user?id=f311a"
-            },
-            "_original_headline": "Yandex opensources 100B parameter GPT-like model",
-            "_original_url": "https://github.com/yandex/YaLM-100B",
-            "_sensitive": false,
-            "_score": 220
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31846543",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31846543",
-            "title": "Copilot只是銷售別人寫的代碼\n",
-            "summary": "Copilot just sells code other people wrote",
-            "date_modified": "2022-06-23T08:48:46.000Z",
-            "author": {
-                "name": "joemanaco",
-                "url": "https://news.ycombinator.com/user?id=joemanaco"
-            },
-            "_original_headline": "Copilot just sells code other people wrote",
-            "_original_url": "https://twitter.com/ReinH/status/1539626662274269185",
-            "_sensitive": false,
-            "_score": 214
         }
     ]
 }

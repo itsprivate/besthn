@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 25 Jul 2022 23:30:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 02:51:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,38 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我從阿里巴巴買了一輛便宜的電動皮卡 (2021)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32231209</link>
+            <guid>https://news.ycombinator.com/item?id=32231209</guid>
+            <pubDate>Mon, 25 Jul 2022 21:31:53 GMT</pubDate>
+            <description><![CDATA[I bought a cheap electric pickup truck from Alibaba (2021)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我記得作為一個年輕的技術人員，我對市場營銷感到很嘲諷
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32226001</link>
+            <guid>https://news.ycombinator.com/item?id=32226001</guid>
+            <pubDate>Mon, 25 Jul 2022 15:44:42 GMT</pubDate>
+            <description><![CDATA[I remember feeling derisive about marketing as a young techie]]></description>
+        </item>
+        <item>
+            <title><![CDATA[電影院最偉大的場景：《卡薩布蘭卡》和《馬賽曲》（2015）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32223721</link>
+            <guid>https://news.ycombinator.com/item?id=32223721</guid>
+            <pubDate>Mon, 25 Jul 2022 13:07:15 GMT</pubDate>
+            <description><![CDATA[Cinema’s greatest scene: ‘Casablanca’ and ‘La Marseillaise’ (2015)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[六邊形網格上的管道拼圖（又稱網）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32216436</link>
+            <guid>https://news.ycombinator.com/item?id=32216436</guid>
+            <pubDate>Sun, 24 Jul 2022 18:50:58 GMT</pubDate>
+            <description><![CDATA[Show HN: Pipes puzzle (a.k.a. Net) on a hexagonal grid]]></description>
+        </item>
         <item>
             <title><![CDATA[偽造的β-澱粉樣蛋白數據。這意味著什麼？
 ]]></title>
@@ -4781,38 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31845968</guid>
             <pubDate>Thu, 23 Jun 2022 07:00:09 GMT</pubDate>
             <description><![CDATA[New Tolkien book, The Fall of Númenor, to be published]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dolt是數據的Git
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31847416</link>
-            <guid>https://news.ycombinator.com/item?id=31847416</guid>
-            <pubDate>Thu, 23 Jun 2022 11:04:44 GMT</pubDate>
-            <description><![CDATA[Dolt Is Git for Data]]></description>
-        </item>
-        <item>
-            <title><![CDATA["哈巴狗家庭 "持續購買被停產的產品（2019）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31820168</link>
-            <guid>https://news.ycombinator.com/item?id=31820168</guid>
-            <pubDate>Tue, 21 Jun 2022 05:17:35 GMT</pubDate>
-            <description><![CDATA[“Harbinger households” consistently buy products that get discontinued (2019)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Yandex開放100B參數的類似GPT的模型資源
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31846593</link>
-            <guid>https://news.ycombinator.com/item?id=31846593</guid>
-            <pubDate>Thu, 23 Jun 2022 09:00:26 GMT</pubDate>
-            <description><![CDATA[Yandex opensources 100B parameter GPT-like model]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Copilot只是銷售別人寫的代碼
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31846543</link>
-            <guid>https://news.ycombinator.com/item?id=31846543</guid>
-            <pubDate>Thu, 23 Jun 2022 08:48:46 GMT</pubDate>
-            <description><![CDATA[Copilot just sells code other people wrote]]></description>
         </item>
     </channel>
 </rss>
