@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32237574",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32237574",
+            "title": "Shopify将在广泛的调整中裁减10%的员工\n",
+            "summary": "Shopify to lay off 10% of workers in broad shake-up",
+            "date_modified": "2022-07-26T12:50:22.000Z",
+            "author": {
+                "name": "jzig",
+                "url": "https://news.ycombinator.com/user?id=jzig"
+            },
+            "_original_headline": "Shopify to lay off 10% of workers in broad shake-up",
+            "_original_url": "https://www.wsj.com/articles/shopify-to-lay-off-10-of-workers-in-broad-shake-up-11658839047",
+            "_sensitive": false,
+            "_score": 216
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32237445",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32237445",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.nytimes.com/2022/06/23/well/mind/teens-thc-canabis.html",
             "_sensitive": false,
             "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31850347",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31850347",
-            "title": "Zig的安全性如何？\n",
-            "summary": "How safe is Zig?",
-            "date_modified": "2022-06-23T15:19:41.000Z",
-            "author": {
-                "name": "orf",
-                "url": "https://news.ycombinator.com/user?id=orf"
-            },
-            "_original_headline": "How safe is Zig?",
-            "_original_url": "https://www.scattered-thoughts.net/writing/how-safe-is-zig/",
-            "_sensitive": false,
-            "_score": 210
         }
     ]
 }

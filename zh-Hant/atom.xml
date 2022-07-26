@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-26T14:39:19.639Z</updated>
+    <updated>2022-07-26T15:04:53.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Shopify將在廣泛的調整中裁減10%的員工
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32237574</id>
+        <link href="https://news.ycombinator.com/item?id=32237574"/>
+        <updated>2022-07-26T12:50:22.000Z</updated>
+        <summary type="html"><![CDATA[Shopify to lay off 10% of workers in broad shake-up]]></summary>
+        <author>
+            <name>jzig</name>
+            <uri>https://news.ycombinator.com/user?id=jzig</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼給谷歌錢這麼難呢？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>actfrench</name>
             <uri>https://news.ycombinator.com/user?id=actfrench</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zig的安全性如何？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31850347</id>
-        <link href="https://news.ycombinator.com/item?id=31850347"/>
-        <updated>2022-06-23T15:19:41.000Z</updated>
-        <summary type="html"><![CDATA[How safe is Zig?]]></summary>
-        <author>
-            <name>orf</name>
-            <uri>https://news.ycombinator.com/user?id=orf</uri>
         </author>
     </entry>
 </feed>
