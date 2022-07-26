@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32234509",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32234509",
+            "title": "在获得A16Z的3.65亿美元投资后，Helium的收入为6.5千美元/月\n",
+            "summary": "Helium has revenues of $6.5k/month after $365M investment from A16Z",
+            "date_modified": "2022-07-26T05:13:25.000Z",
+            "author": {
+                "name": "Archio",
+                "url": "https://news.ycombinator.com/user?id=Archio"
+            },
+            "_original_headline": "Helium has revenues of $6.5k/month after $365M investment from A16Z",
+            "_original_url": "https://twitter.com/liron/status/1551738599254773765",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32234022",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32234022",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://github.com/kubernetes/minikube/pull/13829",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31849464",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31849464",
-            "title": "研究表明，每天睡眠时间超过6.5小时可以帮助你减轻体重\n",
-            "summary": "Sleeping longer than 6.5 hours/day can help you lose weight: study",
-            "date_modified": "2022-06-23T14:17:59.000Z",
-            "author": {
-                "name": "sgfgross",
-                "url": "https://news.ycombinator.com/user?id=sgfgross"
-            },
-            "_original_headline": "Sleeping longer than 6.5 hours/day can help you lose weight: study",
-            "_original_url": "https://oa.mg/blog/study-shows-you-can-lose-weight-by-sleeping-more/",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }

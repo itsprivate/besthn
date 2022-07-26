@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-26T09:51:59.192Z</updated>
+    <updated>2022-07-26T11:45:39.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在获得A16Z的3.65亿美元投资后，Helium的收入为6.5千美元/月
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32234509</id>
+        <link href="https://news.ycombinator.com/item?id=32234509"/>
+        <updated>2022-07-26T05:13:25.000Z</updated>
+        <summary type="html"><![CDATA[Helium has revenues of $6.5k/month after $365M investment from A16Z]]></summary>
+        <author>
+            <name>Archio</name>
+            <uri>https://news.ycombinator.com/user?id=Archio</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软Pluton的危险
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>encryptluks2</name>
             <uri>https://news.ycombinator.com/user?id=encryptluks2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究表明，每天睡眠时间超过6.5小时可以帮助你减轻体重
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31849464</id>
-        <link href="https://news.ycombinator.com/item?id=31849464"/>
-        <updated>2022-06-23T14:17:59.000Z</updated>
-        <summary type="html"><![CDATA[Sleeping longer than 6.5 hours/day can help you lose weight: study]]></summary>
-        <author>
-            <name>sgfgross</name>
-            <uri>https://news.ycombinator.com/user?id=sgfgross</uri>
         </author>
     </entry>
 </feed>

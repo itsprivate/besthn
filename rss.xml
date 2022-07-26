@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 26 Jul 2022 09:51:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 11:45:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在获得A16Z的3.65亿美元投资后，Helium的收入为6.5千美元/月
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32234509</link>
+            <guid>https://news.ycombinator.com/item?id=32234509</guid>
+            <pubDate>Tue, 26 Jul 2022 05:13:25 GMT</pubDate>
+            <description><![CDATA[Helium has revenues of $6.5k/month after $365M investment from A16Z]]></description>
+        </item>
         <item>
             <title><![CDATA[微软Pluton的危险
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31845746</guid>
             <pubDate>Thu, 23 Jun 2022 06:20:02 GMT</pubDate>
             <description><![CDATA[Minikube now supports rootless podman driver for running Kubernetes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[研究表明，每天睡眠时间超过6.5小时可以帮助你减轻体重
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31849464</link>
-            <guid>https://news.ycombinator.com/item?id=31849464</guid>
-            <pubDate>Thu, 23 Jun 2022 14:17:59 GMT</pubDate>
-            <description><![CDATA[Sleeping longer than 6.5 hours/day can help you lose weight: study]]></description>
         </item>
     </channel>
 </rss>
