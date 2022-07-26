@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 26 Jul 2022 02:51:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 04:33:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[表情符号厨房
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32232546</link>
+            <guid>https://news.ycombinator.com/item?id=32232546</guid>
+            <pubDate>Mon, 25 Jul 2022 23:56:19 GMT</pubDate>
+            <description><![CDATA[Emoji Kitchen]]></description>
+        </item>
         <item>
             <title><![CDATA[我从阿里巴巴买了一辆便宜的电动皮卡 (2021)
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31848499</guid>
             <pubDate>Thu, 23 Jun 2022 13:05:47 GMT</pubDate>
             <description><![CDATA[Linus Torvalds: Rust for the Kernel Could Possibly Be Merged for Linux 5.20]]></description>
-        </item>
-        <item>
-            <title><![CDATA[托尔金新书《努曼诺的毁灭》即将出版
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31845968</link>
-            <guid>https://news.ycombinator.com/item?id=31845968</guid>
-            <pubDate>Thu, 23 Jun 2022 07:00:09 GMT</pubDate>
-            <description><![CDATA[New Tolkien book, The Fall of Númenor, to be published]]></description>
         </item>
     </channel>
 </rss>
