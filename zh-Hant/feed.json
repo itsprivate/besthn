@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32234022",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32234022",
+            "title": "微軟Pluton的危險\n",
+            "summary": "The Dangers of Microsoft Pluton",
+            "date_modified": "2022-07-26T03:46:19.000Z",
+            "author": {
+                "name": "gjsman-1000",
+                "url": "https://news.ycombinator.com/user?id=gjsman-1000"
+            },
+            "_original_headline": "The Dangers of Microsoft Pluton",
+            "_original_url": "https://gabrielsieben.tech/2022/07/25/the-power-of-microsoft-pluton-2/",
+            "_sensitive": false,
+            "_score": 214
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32229806",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32229806",
+            "title": "是的，8086希望能從8080中進行機械轉換，但\n",
+            "summary": "Yes, the 8086 wanted to be mechanically translatable from the 8080, but",
+            "date_modified": "2022-07-25T19:35:15.000Z",
+            "author": {
+                "name": "zdw",
+                "url": "https://news.ycombinator.com/user?id=zdw"
+            },
+            "_original_headline": "Yes, the 8086 wanted to be mechanically translatable from the 8080, but",
+            "_original_url": "https://devblogs.microsoft.com/oldnewthing/20220725-00/?p=106889",
+            "_sensitive": false,
+            "_score": 208
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32226267",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32226267",
+            "title": "腐蝕的全球成本\n",
+            "summary": "The Global Cost of Corrosion",
+            "date_modified": "2022-07-25T15:58:47.000Z",
+            "author": {
+                "name": "apatil",
+                "url": "https://news.ycombinator.com/user?id=apatil"
+            },
+            "_original_headline": "The Global Cost of Corrosion",
+            "_original_url": "http://impact.nace.org/economic-impact.aspx#",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32232546",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32232546",
@@ -9561,54 +9609,6 @@
             "_original_url": "https://oa.mg/blog/study-shows-you-can-lose-weight-by-sleeping-more/",
             "_sensitive": false,
             "_score": 201
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31852384",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31852384",
-            "title": "意大利監督機構禁止使用谷歌分析器\n",
-            "summary": "Italian watchdog bans use of Google Analytics",
-            "date_modified": "2022-06-23T17:27:09.000Z",
-            "author": {
-                "name": "giuliomagnifico",
-                "url": "https://news.ycombinator.com/user?id=giuliomagnifico"
-            },
-            "_original_headline": "Italian watchdog bans use of Google Analytics",
-            "_original_url": "https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english",
-            "_sensitive": false,
-            "_score": 207
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31845829",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31845829",
-            "title": "7-zip 22.00 - APFS, Posix TAR, 高精度時間戳\n",
-            "summary": "7-zip 22.00 – APFS, Posix TAR, high precision timestamps",
-            "date_modified": "2022-06-23T06:35:33.000Z",
-            "author": {
-                "name": "Sami_Lehtinen",
-                "url": "https://news.ycombinator.com/user?id=Sami_Lehtinen"
-            },
-            "_original_headline": "7-zip 22.00 – APFS, Posix TAR, high precision timestamps",
-            "_original_url": "https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/",
-            "_sensitive": false,
-            "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31848499",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31848499",
-            "title": "林納斯-託瓦爾茲：內核的Rust有可能被合併到Linux 5.20上\n",
-            "summary": "Linus Torvalds: Rust for the Kernel Could Possibly Be Merged for Linux 5.20",
-            "date_modified": "2022-06-23T13:05:47.000Z",
-            "author": {
-                "name": "FPGAhacker",
-                "url": "https://news.ycombinator.com/user?id=FPGAhacker"
-            },
-            "_original_headline": "Linus Torvalds: Rust for the Kernel Could Possibly Be Merged for Linux 5.20",
-            "_original_url": "https://www.phoronix.com/scan.php?page=news_item&px=Rust-For-Linux-5.20-Possible",
-            "_sensitive": false,
-            "_score": 215
         }
     ]
 }

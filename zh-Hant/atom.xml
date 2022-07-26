@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-26T04:33:40.144Z</updated>
+    <updated>2022-07-26T09:51:59.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[微軟Pluton的危險
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32234022</id>
+        <link href="https://news.ycombinator.com/item?id=32234022"/>
+        <updated>2022-07-26T03:46:19.000Z</updated>
+        <summary type="html"><![CDATA[The Dangers of Microsoft Pluton]]></summary>
+        <author>
+            <name>gjsman-1000</name>
+            <uri>https://news.ycombinator.com/user?id=gjsman-1000</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是的，8086希望能從8080中進行機械轉換，但
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32229806</id>
+        <link href="https://news.ycombinator.com/item?id=32229806"/>
+        <updated>2022-07-25T19:35:15.000Z</updated>
+        <summary type="html"><![CDATA[Yes, the 8086 wanted to be mechanically translatable from the 8080, but]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腐蝕的全球成本
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32226267</id>
+        <link href="https://news.ycombinator.com/item?id=32226267"/>
+        <updated>2022-07-25T15:58:47.000Z</updated>
+        <summary type="html"><![CDATA[The Global Cost of Corrosion]]></summary>
+        <author>
+            <name>apatil</name>
+            <uri>https://news.ycombinator.com/user?id=apatil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[表情符號廚房
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>sgfgross</name>
             <uri>https://news.ycombinator.com/user?id=sgfgross</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[意大利監督機構禁止使用谷歌分析器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31852384</id>
-        <link href="https://news.ycombinator.com/item?id=31852384"/>
-        <updated>2022-06-23T17:27:09.000Z</updated>
-        <summary type="html"><![CDATA[Italian watchdog bans use of Google Analytics]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7-zip 22.00 - APFS, Posix TAR, 高精度時間戳
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31845829</id>
-        <link href="https://news.ycombinator.com/item?id=31845829"/>
-        <updated>2022-06-23T06:35:33.000Z</updated>
-        <summary type="html"><![CDATA[7-zip 22.00 – APFS, Posix TAR, high precision timestamps]]></summary>
-        <author>
-            <name>Sami_Lehtinen</name>
-            <uri>https://news.ycombinator.com/user?id=Sami_Lehtinen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[林納斯-託瓦爾茲：內核的Rust有可能被合併到Linux 5.20上
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31848499</id>
-        <link href="https://news.ycombinator.com/item?id=31848499"/>
-        <updated>2022-06-23T13:05:47.000Z</updated>
-        <summary type="html"><![CDATA[Linus Torvalds: Rust for the Kernel Could Possibly Be Merged for Linux 5.20]]></summary>
-        <author>
-            <name>FPGAhacker</name>
-            <uri>https://news.ycombinator.com/user?id=FPGAhacker</uri>
         </author>
     </entry>
 </feed>
