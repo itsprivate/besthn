@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-27T21:28:34.345Z</updated>
+    <updated>2022-07-27T21:46:56.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[幫助挑選一種CSS嵌套的語法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32248419</id>
+        <link href="https://news.ycombinator.com/item?id=32248419"/>
+        <updated>2022-07-27T09:18:41.000Z</updated>
+        <summary type="html"><![CDATA[Help pick a syntax for CSS nesting]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[參議院通過兩黨議案，補貼美國製造的半導體芯片
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>llui85</name>
             <uri>https://news.ycombinator.com/user?id=llui85</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xlite。將Excel和Open Document電子表格作為SQLite虛擬表進行查詢
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31874767</id>
-        <link href="https://news.ycombinator.com/item?id=31874767"/>
-        <updated>2022-06-25T12:34:51.000Z</updated>
-        <summary type="html"><![CDATA[Xlite: Query Excel and Open Document spreadsheets as SQLite virtual tables]]></summary>
-        <author>
-            <name>thunderbong</name>
-            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
         </author>
     </entry>
 </feed>
