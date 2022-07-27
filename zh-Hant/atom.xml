@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-27T10:01:36.405Z</updated>
+    <updated>2022-07-27T11:45:05.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[信號。你是被選中的人
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32244795</id>
+        <link href="https://news.ycombinator.com/item?id=32244795"/>
+        <updated>2022-07-26T22:16:55.000Z</updated>
+        <summary type="html"><![CDATA[Signal: You Were the Chosen One]]></summary>
+        <author>
+            <name>kitkat_new</name>
+            <uri>https://news.ycombinator.com/user?id=kitkat_new</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[請拯救黑客實驗室
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gmays</name>
             <uri>https://news.ycombinator.com/user?id=gmays</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[實驗室洩漏的假說是怎麼回事？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31866601</id>
-        <link href="https://news.ycombinator.com/item?id=31866601"/>
-        <updated>2022-06-24T17:55:11.000Z</updated>
-        <summary type="html"><![CDATA[What happened to the lab-leak hypothesis?]]></summary>
-        <author>
-            <name>summoned</name>
-            <uri>https://news.ycombinator.com/user?id=summoned</uri>
         </author>
     </entry>
 </feed>
