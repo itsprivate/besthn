@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-27T21:01:01.679Z</updated>
+    <updated>2022-07-27T21:28:34.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[参议院通过两党议案，补贴美国制造的半导体芯片
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32254681</id>
+        <link href="https://news.ycombinator.com/item?id=32254681"/>
+        <updated>2022-07-27T18:40:19.000Z</updated>
+        <summary type="html"><![CDATA[Senate passes bipartisan bill to subsidize U.S.-made semiconductor chips]]></summary>
+        <author>
+            <name>lettergram</name>
+            <uri>https://news.ycombinator.com/user?id=lettergram</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美达公司认可的服务器端使用的编程语言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32252831</id>
+        <link href="https://news.ycombinator.com/item?id=32252831"/>
+        <updated>2022-07-27T16:47:20.000Z</updated>
+        <summary type="html"><![CDATA[Programming languages endorsed for server-side use at Meta]]></summary>
+        <author>
+            <name>iamnotarobotman</name>
+            <uri>https://news.ycombinator.com/user?id=iamnotarobotman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Instagram正在向视频转变--用户并不高兴
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>thunderbong</name>
             <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我终于找到了一个可靠的Debian平板电脑。淘宝网上有很多卖家，他们的产品都是在淘宝网上销售的。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31873440</id>
-        <link href="https://news.ycombinator.com/item?id=31873440"/>
-        <updated>2022-06-25T08:13:16.000Z</updated>
-        <summary type="html"><![CDATA[I Finally Found a Solid Debian Tablet: The Surface Go 2]]></summary>
-        <author>
-            <name>edward</name>
-            <uri>https://news.ycombinator.com/user?id=edward</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PostgreSQL的升级很困难
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31873063</id>
-        <link href="https://news.ycombinator.com/item?id=31873063"/>
-        <updated>2022-06-25T06:32:19.000Z</updated>
-        <summary type="html"><![CDATA[PostgreSQL upgrades are hard]]></summary>
-        <author>
-            <name>omnibrain</name>
-            <uri>https://news.ycombinator.com/user?id=omnibrain</uri>
         </author>
     </entry>
 </feed>

@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32254681",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32254681",
+            "title": "参议院通过两党议案，补贴美国制造的半导体芯片\n",
+            "summary": "Senate passes bipartisan bill to subsidize U.S.-made semiconductor chips",
+            "date_modified": "2022-07-27T18:40:19.000Z",
+            "author": {
+                "name": "lettergram",
+                "url": "https://news.ycombinator.com/user?id=lettergram"
+            },
+            "_original_headline": "Senate passes bipartisan bill to subsidize U.S.-made semiconductor chips",
+            "_original_url": "https://www.washingtonpost.com/politics/2022/07/27/senate-chips-funding-bill-pass/",
+            "_sensitive": false,
+            "_score": 227
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32252831",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32252831",
+            "title": "美达公司认可的服务器端使用的编程语言\n",
+            "summary": "Programming languages endorsed for server-side use at Meta",
+            "date_modified": "2022-07-27T16:47:20.000Z",
+            "author": {
+                "name": "iamnotarobotman",
+                "url": "https://news.ycombinator.com/user?id=iamnotarobotman"
+            },
+            "_original_headline": "Programming languages endorsed for server-side use at Meta",
+            "_original_url": "https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32254090",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32254090",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://github.com/x2bool/xlite",
             "_sensitive": false,
             "_score": 207
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31873440",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31873440",
-            "title": "我终于找到了一个可靠的Debian平板电脑。淘宝网上有很多卖家，他们的产品都是在淘宝网上销售的。\n",
-            "summary": "I Finally Found a Solid Debian Tablet: The Surface Go 2",
-            "date_modified": "2022-06-25T08:13:16.000Z",
-            "author": {
-                "name": "edward",
-                "url": "https://news.ycombinator.com/user?id=edward"
-            },
-            "_original_headline": "I Finally Found a Solid Debian Tablet: The Surface Go 2",
-            "_original_url": "https://changelog.complete.org/archives/10396-i-finally-found-a-solid-debian-tablet-the-surface-go-2",
-            "_sensitive": false,
-            "_score": 227
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31873063",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31873063",
-            "title": "PostgreSQL的升级很困难\n",
-            "summary": "PostgreSQL upgrades are hard",
-            "date_modified": "2022-06-25T06:32:19.000Z",
-            "author": {
-                "name": "omnibrain",
-                "url": "https://news.ycombinator.com/user?id=omnibrain"
-            },
-            "_original_headline": "PostgreSQL upgrades are hard",
-            "_original_url": "https://andreas.scherbaum.la/blog/archives/1116-PostgreSQL-Upgrades-are-hard!.html#_content",
-            "_sensitive": false,
-            "_score": 211
         }
     ]
 }

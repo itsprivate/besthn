@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 27 Jul 2022 21:01:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 21:28:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[參議院通過兩黨議案，補貼美國製造的半導體芯片
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32254681</link>
+            <guid>https://news.ycombinator.com/item?id=32254681</guid>
+            <pubDate>Wed, 27 Jul 2022 18:40:19 GMT</pubDate>
+            <description><![CDATA[Senate passes bipartisan bill to subsidize U.S.-made semiconductor chips]]></description>
+        </item>
+        <item>
+            <title><![CDATA[美達公司認可的服務器端使用的編程語言
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32252831</link>
+            <guid>https://news.ycombinator.com/item?id=32252831</guid>
+            <pubDate>Wed, 27 Jul 2022 16:47:20 GMT</pubDate>
+            <description><![CDATA[Programming languages endorsed for server-side use at Meta]]></description>
+        </item>
         <item>
             <title><![CDATA[Instagram正在向視頻轉變--用戶並不高興
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31874767</guid>
             <pubDate>Sat, 25 Jun 2022 12:34:51 GMT</pubDate>
             <description><![CDATA[Xlite: Query Excel and Open Document spreadsheets as SQLite virtual tables]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我終於找到了一個可靠的Debian平板電腦。淘寶網上有很多賣家，他們的產品都是在淘寶網上銷售的。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31873440</link>
-            <guid>https://news.ycombinator.com/item?id=31873440</guid>
-            <pubDate>Sat, 25 Jun 2022 08:13:16 GMT</pubDate>
-            <description><![CDATA[I Finally Found a Solid Debian Tablet: The Surface Go 2]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PostgreSQL的升級很困難
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31873063</link>
-            <guid>https://news.ycombinator.com/item?id=31873063</guid>
-            <pubDate>Sat, 25 Jun 2022 06:32:19 GMT</pubDate>
-            <description><![CDATA[PostgreSQL upgrades are hard]]></description>
         </item>
     </channel>
 </rss>
