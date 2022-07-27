@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-26T22:31:59.737Z</updated>
+    <updated>2022-07-27T02:46:53.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[垃圾邮件发送者的小技巧 (2021)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32242581</id>
+        <link href="https://news.ycombinator.com/item?id=32242581"/>
+        <updated>2022-07-26T19:11:11.000Z</updated>
+        <summary type="html"><![CDATA[A little trick to spam the spammers (2021)]]></summary>
+        <author>
+            <name>sodimel</name>
+            <uri>https://news.ycombinator.com/user?id=sodimel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CosmicStrand。发现一个复杂的UEFI固件rootkit
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32238991</id>
+        <link href="https://news.ycombinator.com/item?id=32238991"/>
+        <updated>2022-07-26T14:44:05.000Z</updated>
+        <summary type="html"><![CDATA[CosmicStrand: The discovery of a sophisticated UEFI firmware rootkit]]></summary>
+        <author>
+            <name>Harvesterify</name>
+            <uri>https://news.ycombinator.com/user?id=Harvesterify</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于插座，他们没有教你的东西
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>punnerud</name>
             <uri>https://news.ycombinator.com/user?id=punnerud</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果不为浏览器引擎的选择辩护
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31858413</id>
-        <link href="https://news.ycombinator.com/item?id=31858413"/>
-        <updated>2022-06-24T06:32:57.000Z</updated>
-        <summary type="html"><![CDATA[Apple is not defending browser engine choice]]></summary>
-        <author>
-            <name>bertman</name>
-            <uri>https://news.ycombinator.com/user?id=bertman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：Coinbase现在要求在加密货币转账中提供收款人的实际地址
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31858460</id>
-        <link href="https://news.ycombinator.com/item?id=31858460"/>
-        <updated>2022-06-24T06:39:52.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: Coinbase now requires physical address of recipient in crypto transfers]]></summary>
-        <author>
-            <name>jb1991</name>
-            <uri>https://news.ycombinator.com/user?id=jb1991</uri>
         </author>
     </entry>
 </feed>

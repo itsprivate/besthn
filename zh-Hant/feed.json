@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32242581",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32242581",
+            "title": "垃圾郵件發送者的小技巧 (2021)\n",
+            "summary": "A little trick to spam the spammers (2021)",
+            "date_modified": "2022-07-26T19:11:11.000Z",
+            "author": {
+                "name": "sodimel",
+                "url": "https://news.ycombinator.com/user?id=sodimel"
+            },
+            "_original_headline": "A little trick to spam the spammers (2021)",
+            "_original_url": "https://misc.l3m.in/txt/spam.txt",
+            "_sensitive": false,
+            "_score": 238
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32238991",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32238991",
+            "title": "CosmicStrand。發現一個複雜的UEFI固件rootkit\n",
+            "summary": "CosmicStrand: The discovery of a sophisticated UEFI firmware rootkit",
+            "date_modified": "2022-07-26T14:44:05.000Z",
+            "author": {
+                "name": "Harvesterify",
+                "url": "https://news.ycombinator.com/user?id=Harvesterify"
+            },
+            "_original_headline": "CosmicStrand: The discovery of a sophisticated UEFI firmware rootkit",
+            "_original_url": "https://securelist.com/cosmicstrand-uefi-firmware-rootkit/106973/",
+            "_sensitive": false,
+            "_score": 208
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32225532",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32225532",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://github.com/mattermost/mattermost-server",
             "_sensitive": false,
             "_score": 203
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31858413",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31858413",
-            "title": "蘋果不為瀏覽器引擎的選擇辯護\n",
-            "summary": "Apple is not defending browser engine choice",
-            "date_modified": "2022-06-24T06:32:57.000Z",
-            "author": {
-                "name": "bertman",
-                "url": "https://news.ycombinator.com/user?id=bertman"
-            },
-            "_original_headline": "Apple is not defending browser engine choice",
-            "_original_url": "https://infrequently.org/2022/06/apple-is-not-defending-browser-engine-choice/",
-            "_sensitive": false,
-            "_score": 203
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31858460",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31858460",
-            "title": "告訴HN：Coinbase現在要求在加密貨幣轉賬中提供收款人的實際地址\n",
-            "summary": "Tell HN: Coinbase now requires physical address of recipient in crypto transfers",
-            "date_modified": "2022-06-24T06:39:52.000Z",
-            "author": {
-                "name": "jb1991",
-                "url": "https://news.ycombinator.com/user?id=jb1991"
-            },
-            "_original_headline": "Tell HN: Coinbase now requires physical address of recipient in crypto transfers",
-            "_original_url": "https://news.ycombinator.com/item?id=31858460",
-            "_sensitive": false,
-            "_score": 219
         }
     ]
 }
