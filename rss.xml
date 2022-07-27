@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 27 Jul 2022 04:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 05:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[胶带装订书籍 - Cheepo Delux
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32222201</link>
+            <guid>https://news.ycombinator.com/item?id=32222201</guid>
+            <pubDate>Mon, 25 Jul 2022 09:23:38 GMT</pubDate>
+            <description><![CDATA[Duct Tape Book Binding – Cheepo Delux]]></description>
+        </item>
         <item>
             <title><![CDATA[Facebook类似TikTok的重新设计标志着社交网络时代的日落
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31829343</guid>
             <pubDate>Tue, 21 Jun 2022 21:31:13 GMT</pubDate>
             <description><![CDATA[Viddy: A modern watch command. Time machine and pager etc.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[科学家发现 "抗饥饿 "分子在运动后形成
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31858063</link>
-            <guid>https://news.ycombinator.com/item?id=31858063</guid>
-            <pubDate>Fri, 24 Jun 2022 05:20:27 GMT</pubDate>
-            <description><![CDATA[‘Anti-hunger’ molecule forms after exercise, scientists discover]]></description>
         </item>
     </channel>
 </rss>

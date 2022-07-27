@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-27T04:11:20.264Z</updated>
+    <updated>2022-07-27T05:13:02.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[膠帶裝訂書籍 - Cheepo Delux
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32222201</id>
+        <link href="https://news.ycombinator.com/item?id=32222201"/>
+        <updated>2022-07-25T09:23:38.000Z</updated>
+        <summary type="html"><![CDATA[Duct Tape Book Binding – Cheepo Delux]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Facebook類似TikTok的重新設計標誌著社交網絡時代的日落
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lapser</name>
             <uri>https://news.ycombinator.com/user?id=lapser</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科學家發現 "抗飢餓 "分子在運動後形成
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31858063</id>
-        <link href="https://news.ycombinator.com/item?id=31858063"/>
-        <updated>2022-06-24T05:20:27.000Z</updated>
-        <summary type="html"><![CDATA[‘Anti-hunger’ molecule forms after exercise, scientists discover]]></summary>
-        <author>
-            <name>echen</name>
-            <uri>https://news.ycombinator.com/user?id=echen</uri>
         </author>
     </entry>
 </feed>
