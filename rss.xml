@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 27 Jul 2022 20:49:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 21:01:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Instagram正在向视频转变--用户并不高兴
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32254090</link>
+            <guid>https://news.ycombinator.com/item?id=32254090</guid>
+            <pubDate>Wed, 27 Jul 2022 18:03:29 GMT</pubDate>
+            <description><![CDATA[Instagram is shifting to videos – users aren't happy]]></description>
+        </item>
         <item>
             <title><![CDATA[詹姆斯-洛夫洛克已经去世
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31873063</guid>
             <pubDate>Sat, 25 Jun 2022 06:32:19 GMT</pubDate>
             <description><![CDATA[PostgreSQL upgrades are hard]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何在市场下滑的情况下进行种子轮融资？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31847941</link>
-            <guid>https://news.ycombinator.com/item?id=31847941</guid>
-            <pubDate>Thu, 23 Jun 2022 12:13:06 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to raise a seed round in a down market?]]></description>
         </item>
     </channel>
 </rss>
