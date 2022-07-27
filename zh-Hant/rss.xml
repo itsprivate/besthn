@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 27 Jul 2022 02:46:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 04:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Facebook類似TikTok的重新設計標誌著社交網絡時代的日落
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32245146</link>
+            <guid>https://news.ycombinator.com/item?id=32245146</guid>
+            <pubDate>Tue, 26 Jul 2022 23:00:03 GMT</pubDate>
+            <description><![CDATA[Facebook's TikTok-like redesign marks sunset of social networking era]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Valgrind的20年
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32245136</link>
+            <guid>https://news.ycombinator.com/item?id=32245136</guid>
+            <pubDate>Tue, 26 Jul 2022 22:59:17 GMT</pubDate>
+            <description><![CDATA[Twenty years of Valgrind]]></description>
+        </item>
         <item>
             <title><![CDATA[垃圾郵件發送者的小技巧 (2021)
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31858063</guid>
             <pubDate>Fri, 24 Jun 2022 05:20:27 GMT</pubDate>
             <description><![CDATA[‘Anti-hunger’ molecule forms after exercise, scientists discover]]></description>
-        </item>
-        <item>
-            <title><![CDATA[最高法院推翻了 "羅伊與韋德 "案
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31862258</link>
-            <guid>https://news.ycombinator.com/item?id=31862258</guid>
-            <pubDate>Fri, 24 Jun 2022 14:18:37 GMT</pubDate>
-            <description><![CDATA[Supreme Court Overturns Roe vs. Wade]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mattermost - 安全協作的開源平臺
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31858829</link>
-            <guid>https://news.ycombinator.com/item?id=31858829</guid>
-            <pubDate>Fri, 24 Jun 2022 07:48:24 GMT</pubDate>
-            <description><![CDATA[Mattermost – open-source platform for secure collaboration]]></description>
         </item>
     </channel>
 </rss>
