@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-27T05:49:58.645Z</updated>
+    <updated>2022-07-27T06:39:44.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Postgres的行级安全运送多租户SaaS
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32241820</id>
+        <link href="https://news.ycombinator.com/item?id=32241820"/>
+        <updated>2022-07-26T18:16:22.000Z</updated>
+        <summary type="html"><![CDATA[Shipping Multi-Tenant SaaS Using Postgres Row-Level Security]]></summary>
+        <author>
+            <name>capiki</name>
+            <uri>https://news.ycombinator.com/user?id=capiki</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[没有经验可能比拥有错误的经验更好。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>danso</name>
             <uri>https://news.ycombinator.com/user?id=danso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OCaml编程。正确、高效、美观
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31848178</id>
-        <link href="https://news.ycombinator.com/item?id=31848178"/>
-        <updated>2022-06-23T12:38:36.000Z</updated>
-        <summary type="html"><![CDATA[OCaml Programming: Correct and Efficient and Beautiful]]></summary>
-        <author>
-            <name>philonoist</name>
-            <uri>https://news.ycombinator.com/user?id=philonoist</uri>
         </author>
     </entry>
 </feed>
