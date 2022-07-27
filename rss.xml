@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 27 Jul 2022 17:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 20:49:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[詹姆斯-洛夫洛克已经去世
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32250694</link>
+            <guid>https://news.ycombinator.com/item?id=32250694</guid>
+            <pubDate>Wed, 27 Jul 2022 14:19:15 GMT</pubDate>
+            <description><![CDATA[James Lovelock has died]]></description>
+        </item>
+        <item>
+            <title><![CDATA[家庭安全的假狗
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32250487</link>
+            <guid>https://news.ycombinator.com/item?id=32250487</guid>
+            <pubDate>Wed, 27 Jul 2022 14:01:24 GMT</pubDate>
+            <description><![CDATA[Fake Dog for Home Security]]></description>
+        </item>
         <item>
             <title><![CDATA[SQLite内部。页和B树
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31847941</guid>
             <pubDate>Thu, 23 Jun 2022 12:13:06 GMT</pubDate>
             <description><![CDATA[Ask HN: How to raise a seed round in a down market?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何提高你的技术写作水平？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31859040</link>
-            <guid>https://news.ycombinator.com/item?id=31859040</guid>
-            <pubDate>Fri, 24 Jun 2022 08:23:29 GMT</pubDate>
-            <description><![CDATA[Ask HN: How to level up your technical writing?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有什么认证是值得的吗？合法地帮助了你的职业生涯？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31874802</link>
-            <guid>https://news.ycombinator.com/item?id=31874802</guid>
-            <pubDate>Sat, 25 Jun 2022 12:39:54 GMT</pubDate>
-            <description><![CDATA[Ask HN: Any certification that is worth it? Legitimately helped your career?]]></description>
         </item>
     </channel>
 </rss>
