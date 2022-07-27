@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-27T16:49:06.668Z</updated>
+    <updated>2022-07-27T17:21:47.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SQLite內部。頁和B樹
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32250426</id>
+        <link href="https://news.ycombinator.com/item?id=32250426"/>
+        <updated>2022-07-27T13:55:54.000Z</updated>
+        <summary type="html"><![CDATA[SQLite Internals: Pages and B-trees]]></summary>
+        <author>
+            <name>eatonphil</name>
+            <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尼康為十年前的D7100數碼單反相機發布錯誤修復固件更新
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32248732</id>
+        <link href="https://news.ycombinator.com/item?id=32248732"/>
+        <updated>2022-07-27T10:22:18.000Z</updated>
+        <summary type="html"><![CDATA[Nikon releases bug fix firmware update for the 10 years old D7100 DSLR camera]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌的Nest將在沒有搜查令的情況下向警方提供數據
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>akudha</name>
             <uri>https://news.ycombinator.com/user?id=akudha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哦，媽的，笨蛋
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31874308</id>
-        <link href="https://news.ycombinator.com/item?id=31874308"/>
-        <updated>2022-06-25T11:16:26.000Z</updated>
-        <summary type="html"><![CDATA[Oh Shit, Git]]></summary>
-        <author>
-            <name>layer8</name>
-            <uri>https://news.ycombinator.com/user?id=layer8</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌稱美國員工可遷往有墮胎權的州
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31871581</id>
-        <link href="https://news.ycombinator.com/item?id=31871581"/>
-        <updated>2022-06-25T01:23:37.000Z</updated>
-        <summary type="html"><![CDATA[Google says US employees can relocate to states with abortion rights]]></summary>
-        <author>
-            <name>acalmon</name>
-            <uri>https://news.ycombinator.com/user?id=acalmon</uri>
         </author>
     </entry>
 </feed>

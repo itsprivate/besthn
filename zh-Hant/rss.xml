@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 27 Jul 2022 16:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 17:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[SQLite內部。頁和B樹
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32250426</link>
+            <guid>https://news.ycombinator.com/item?id=32250426</guid>
+            <pubDate>Wed, 27 Jul 2022 13:55:54 GMT</pubDate>
+            <description><![CDATA[SQLite Internals: Pages and B-trees]]></description>
+        </item>
+        <item>
+            <title><![CDATA[尼康為十年前的D7100數碼單反相機發布錯誤修復固件更新
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32248732</link>
+            <guid>https://news.ycombinator.com/item?id=32248732</guid>
+            <pubDate>Wed, 27 Jul 2022 10:22:18 GMT</pubDate>
+            <description><![CDATA[Nikon releases bug fix firmware update for the 10 years old D7100 DSLR camera]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌的Nest將在沒有搜查令的情況下向警方提供數據
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31874802</guid>
             <pubDate>Sat, 25 Jun 2022 12:39:54 GMT</pubDate>
             <description><![CDATA[Ask HN: Any certification that is worth it? Legitimately helped your career?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[哦，媽的，笨蛋
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31874308</link>
-            <guid>https://news.ycombinator.com/item?id=31874308</guid>
-            <pubDate>Sat, 25 Jun 2022 11:16:26 GMT</pubDate>
-            <description><![CDATA[Oh Shit, Git]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌稱美國員工可遷往有墮胎權的州
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31871581</link>
-            <guid>https://news.ycombinator.com/item?id=31871581</guid>
-            <pubDate>Sat, 25 Jun 2022 01:23:37 GMT</pubDate>
-            <description><![CDATA[Google says US employees can relocate to states with abortion rights]]></description>
         </item>
     </channel>
 </rss>
