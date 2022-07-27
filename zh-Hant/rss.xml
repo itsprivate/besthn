@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 27 Jul 2022 14:01:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 15:55:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[安培拉的歷史
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32249465</link>
+            <guid>https://news.ycombinator.com/item?id=32249465</guid>
+            <pubDate>Wed, 27 Jul 2022 12:06:46 GMT</pubDate>
+            <description><![CDATA[The History of ‘Ampersand’]]></description>
+        </item>
         <item>
             <title><![CDATA[美光公司的232層NAND使2TB閃存芯片的數據傳輸速度提高了50%。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31864209</guid>
             <pubDate>Fri, 24 Jun 2022 15:54:08 GMT</pubDate>
             <description><![CDATA[BrachioGraph – the cheapest, simplest possible pen-plotter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ffsend。一個功能齊全的Firefox Send命令行客戶端
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31867800</link>
-            <guid>https://news.ycombinator.com/item?id=31867800</guid>
-            <pubDate>Fri, 24 Jun 2022 19:05:37 GMT</pubDate>
-            <description><![CDATA[ffsend: A fully featured Firefox Send command line client]]></description>
         </item>
     </channel>
 </rss>
