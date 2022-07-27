@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 27 Jul 2022 21:46:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 22:31:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你有一个悲伤的感觉，然后它就会消失。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32252198</link>
+            <guid>https://news.ycombinator.com/item?id=32252198</guid>
+            <pubDate>Wed, 27 Jul 2022 16:03:59 GMT</pubDate>
+            <description><![CDATA[You have a sad feeling for a moment, then it passes]]></description>
+        </item>
         <item>
             <title><![CDATA[帮助挑选一种CSS嵌套的语法
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31875002</guid>
             <pubDate>Sat, 25 Jun 2022 13:09:50 GMT</pubDate>
             <description><![CDATA[Whatever happened to the bee apocalypse?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我对智能手机如何分散我们的注意力的觉醒时刻
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31874846</link>
-            <guid>https://news.ycombinator.com/item?id=31874846</guid>
-            <pubDate>Sat, 25 Jun 2022 12:45:42 GMT</pubDate>
-            <description><![CDATA[My awakening moment about how smartphones fragment our attention span]]></description>
         </item>
     </channel>
 </rss>

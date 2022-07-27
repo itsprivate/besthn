@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32252198",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32252198",
+            "title": "你有一個悲傷的感覺，然後它就會消失。\n",
+            "summary": "You have a sad feeling for a moment, then it passes",
+            "date_modified": "2022-07-27T16:03:59.000Z",
+            "author": {
+                "name": "colinprince",
+                "url": "https://news.ycombinator.com/user?id=colinprince"
+            },
+            "_original_headline": "You have a sad feeling for a moment, then it passes",
+            "_original_url": "https://everything2.com/title/You+have+a+sad+feeling+for+a+moment%252C+then+it+passes",
+            "_sensitive": false,
+            "_score": 207
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32248419",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32248419",
@@ -9593,22 +9609,6 @@
             "_original_url": "http://backreaction.blogspot.com/2022/06/whatever-happened-to-bee-apocalypse.html",
             "_sensitive": false,
             "_score": 233
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31874846",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31874846",
-            "title": "我對智能手機如何分散我們的注意力的覺醒時刻\n",
-            "summary": "My awakening moment about how smartphones fragment our attention span",
-            "date_modified": "2022-06-25T12:45:42.000Z",
-            "author": {
-                "name": "llui85",
-                "url": "https://news.ycombinator.com/user?id=llui85"
-            },
-            "_original_headline": "My awakening moment about how smartphones fragment our attention span",
-            "_original_url": "https://idratherbewriting.com/blog/awakening-moment-to-how-smartphones-fragment-our-attention/",
-            "_sensitive": false,
-            "_score": 279
         }
     ]
 }
