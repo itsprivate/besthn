@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-27T06:39:44.265Z</updated>
+    <updated>2022-07-27T08:00:58.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[LiteFS 一個基於FUSE的文件系統，用於複製SQLite
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32240230</id>
+        <link href="https://news.ycombinator.com/item?id=32240230"/>
+        <updated>2022-07-26T16:14:28.000Z</updated>
+        <summary type="html"><![CDATA[LiteFS a FUSE-based file system for replicating SQLite]]></summary>
+        <author>
+            <name>sysbot</name>
+            <uri>https://news.ycombinator.com/user?id=sysbot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Postgres的行級安全運送多租戶SaaS
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Kaibeezy</name>
             <uri>https://news.ycombinator.com/user?id=Kaibeezy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再見，扎克伯格公司
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31863966</id>
-        <link href="https://news.ycombinator.com/item?id=31863966"/>
-        <updated>2022-06-24T15:42:51.000Z</updated>
-        <summary type="html"><![CDATA[Goodbye Zachtronics]]></summary>
-        <author>
-            <name>danso</name>
-            <uri>https://news.ycombinator.com/user?id=danso</uri>
         </author>
     </entry>
 </feed>

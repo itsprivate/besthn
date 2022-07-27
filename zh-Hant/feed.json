@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32240230",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32240230",
+            "title": "LiteFS 一個基於FUSE的文件系統，用於複製SQLite\n",
+            "summary": "LiteFS a FUSE-based file system for replicating SQLite",
+            "date_modified": "2022-07-26T16:14:28.000Z",
+            "author": {
+                "name": "sysbot",
+                "url": "https://news.ycombinator.com/user?id=sysbot"
+            },
+            "_original_headline": "LiteFS a FUSE-based file system for replicating SQLite",
+            "_original_url": "https://github.com/superfly/litefs",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32241820",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32241820",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www3.nhk.or.jp/nhkworld/en/news/20220624_27/",
             "_sensitive": false,
             "_score": 205
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31863966",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31863966",
-            "title": "再見，扎克伯格公司\n",
-            "summary": "Goodbye Zachtronics",
-            "date_modified": "2022-06-24T15:42:51.000Z",
-            "author": {
-                "name": "danso",
-                "url": "https://news.ycombinator.com/user?id=danso"
-            },
-            "_original_headline": "Goodbye Zachtronics",
-            "_original_url": "https://kotaku.com/zachtronics-farewell-goodbye-closing-eliza-last-call-bb-1849096767",
-            "_sensitive": false,
-            "_score": 233
         }
     ]
 }
