@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-27T08:00:58.424Z</updated>
+    <updated>2022-07-27T08:38:46.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[幾個世紀以來，英國麵包師的最大客戶是馬匹
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32244352</id>
+        <link href="https://news.ycombinator.com/item?id=32244352"/>
+        <updated>2022-07-26T21:33:16.000Z</updated>
+        <summary type="html"><![CDATA[For centuries, English bakers’ biggest customers were horses]]></summary>
+        <author>
+            <name>pepys</name>
+            <uri>https://news.ycombinator.com/user?id=pepys</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LiteFS 一個基於FUSE的文件系統，用於複製SQLite
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ricardbejarano</name>
             <uri>https://news.ycombinator.com/user?id=ricardbejarano</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丟失的裝有46萬城市居民個人數據的USB被發現
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31859806</id>
-        <link href="https://news.ycombinator.com/item?id=31859806"/>
-        <updated>2022-06-24T10:25:21.000Z</updated>
-        <summary type="html"><![CDATA[Lost USB with 460k city residents’ personal data found]]></summary>
-        <author>
-            <name>Kaibeezy</name>
-            <uri>https://news.ycombinator.com/user?id=Kaibeezy</uri>
         </author>
     </entry>
 </feed>
