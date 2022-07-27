@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-27T05:13:02.024Z</updated>
+    <updated>2022-07-27T05:49:58.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[沒有經驗可能比擁有錯誤的經驗更好。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32230612</id>
+        <link href="https://news.ycombinator.com/item?id=32230612"/>
+        <updated>2022-07-25T20:40:37.000Z</updated>
+        <summary type="html"><![CDATA[Having no experience can be better than having the wrong experience]]></summary>
+        <author>
+            <name>collate</name>
+            <uri>https://news.ycombinator.com/user?id=collate</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[膠帶裝訂書籍 - Cheepo Delux
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>philonoist</name>
             <uri>https://news.ycombinator.com/user?id=philonoist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Viddy。一個現代的手錶指令。時間機器和傳呼機等。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31829343</id>
-        <link href="https://news.ycombinator.com/item?id=31829343"/>
-        <updated>2022-06-21T21:31:13.000Z</updated>
-        <summary type="html"><![CDATA[Viddy: A modern watch command. Time machine and pager etc.]]></summary>
-        <author>
-            <name>lapser</name>
-            <uri>https://news.ycombinator.com/user?id=lapser</uri>
         </author>
     </entry>
 </feed>
