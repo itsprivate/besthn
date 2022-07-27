@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-27T15:55:54.830Z</updated>
+    <updated>2022-07-27T16:49:06.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌的Nest將在沒有搜查令的情況下向警方提供數據
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32250470</id>
+        <link href="https://news.ycombinator.com/item?id=32250470"/>
+        <updated>2022-07-27T13:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Google’s Nest will provide data to police without a warrant]]></summary>
+        <author>
+            <name>mikece</name>
+            <uri>https://news.ycombinator.com/user?id=mikece</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安培拉的歷史
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>acalmon</name>
             <uri>https://news.ycombinator.com/user?id=acalmon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BrachioGraph - 最便宜、最簡單的筆式繪圖儀
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31864209</id>
-        <link href="https://news.ycombinator.com/item?id=31864209"/>
-        <updated>2022-06-24T15:54:08.000Z</updated>
-        <summary type="html"><![CDATA[BrachioGraph – the cheapest, simplest possible pen-plotter]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
