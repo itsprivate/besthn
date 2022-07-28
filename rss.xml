@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 28 Jul 2022 08:39:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 10:58:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[锈蚀实际上是可移动的
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32260619</link>
+            <guid>https://news.ycombinator.com/item?id=32260619</guid>
+            <pubDate>Thu, 28 Jul 2022 04:54:32 GMT</pubDate>
+            <description><![CDATA[Rust Is Actually Portable]]></description>
+        </item>
         <item>
             <title><![CDATA[如何在2022年创建一个Python包
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31859643</guid>
             <pubDate>Fri, 24 Jun 2022 09:54:04 GMT</pubDate>
             <description><![CDATA[What is `Box&lt;str&gt;` and how is it different from `String` in Rust?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我的一张照片
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31859072</link>
-            <guid>https://news.ycombinator.com/item?id=31859072</guid>
-            <pubDate>Fri, 24 Jun 2022 08:30:43 GMT</pubDate>
-            <description><![CDATA[A picture of me]]></description>
         </item>
     </channel>
 </rss>
