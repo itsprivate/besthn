@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32261571",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32261571",
+            "title": "世界变得不那么多姿多彩了吗？\n",
+            "summary": "Has the world become less colourful?",
+            "date_modified": "2022-07-28T07:55:24.000Z",
+            "author": {
+                "name": "rubenv",
+                "url": "https://news.ycombinator.com/user?id=rubenv"
+            },
+            "_original_headline": "Has the world become less colourful?",
+            "_original_url": "https://twitter.com/culturaltutor/status/1551976051860963333",
+            "_sensitive": false,
+            "_score": 206
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32262153",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32262153",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://dkb.show/post/life-is-not-short",
             "_sensitive": false,
             "_score": 370
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31883206",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31883206",
-            "title": "长尾巴去哪儿了？\n",
-            "summary": "Where did the long tail go?",
-            "date_modified": "2022-06-26T12:06:49.000Z",
-            "author": {
-                "name": "jger15",
-                "url": "https://news.ycombinator.com/user?id=jger15"
-            },
-            "_original_headline": "Where did the long tail go?",
-            "_original_url": "https://tedgioia.substack.com/p/where-did-the-long-tail-go",
-            "_sensitive": false,
-            "_score": 224
         }
     ]
 }

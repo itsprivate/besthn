@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-28T15:04:36.731Z</updated>
+    <updated>2022-07-28T15:55:49.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[世界變得不那麼多姿多彩了嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32261571</id>
+        <link href="https://news.ycombinator.com/item?id=32261571"/>
+        <updated>2022-07-28T07:55:24.000Z</updated>
+        <summary type="html"><![CDATA[Has the world become less colourful?]]></summary>
+        <author>
+            <name>rubenv</name>
+            <uri>https://news.ycombinator.com/user?id=rubenv</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我成了美國曆史上最惡毒的企業反擊的目標
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dbrereton</name>
             <uri>https://news.ycombinator.com/user?id=dbrereton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[長尾巴去哪兒了？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31883206</id>
-        <link href="https://news.ycombinator.com/item?id=31883206"/>
-        <updated>2022-06-26T12:06:49.000Z</updated>
-        <summary type="html"><![CDATA[Where did the long tail go?]]></summary>
-        <author>
-            <name>jger15</name>
-            <uri>https://news.ycombinator.com/user?id=jger15</uri>
         </author>
     </entry>
 </feed>

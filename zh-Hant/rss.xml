@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 28 Jul 2022 15:04:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 15:55:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[世界變得不那麼多姿多彩了嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32261571</link>
+            <guid>https://news.ycombinator.com/item?id=32261571</guid>
+            <pubDate>Thu, 28 Jul 2022 07:55:24 GMT</pubDate>
+            <description><![CDATA[Has the world become less colourful?]]></description>
+        </item>
         <item>
             <title><![CDATA[我成了美國曆史上最惡毒的企業反擊的目標
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31885137</guid>
             <pubDate>Sun, 26 Jun 2022 16:02:10 GMT</pubDate>
             <description><![CDATA[Life is not short]]></description>
-        </item>
-        <item>
-            <title><![CDATA[長尾巴去哪兒了？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31883206</link>
-            <guid>https://news.ycombinator.com/item?id=31883206</guid>
-            <pubDate>Sun, 26 Jun 2022 12:06:49 GMT</pubDate>
-            <description><![CDATA[Where did the long tail go?]]></description>
         </item>
     </channel>
 </rss>
