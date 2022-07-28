@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32262153",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32262153",
+            "title": "我成了美国历史上最恶毒的企业反击的目标\n",
+            "summary": "I've Been Targeted with the Most Vicious Corporate Counterattack in US History",
+            "date_modified": "2022-07-28T09:26:12.000Z",
+            "author": {
+                "name": "robtherobber",
+                "url": "https://news.ycombinator.com/user?id=robtherobber"
+            },
+            "_original_headline": "I've Been Targeted with the Most Vicious Corporate Counterattack in US History",
+            "_original_url": "https://www.esquire.com/news-politics/a35812573/steven-donziger-chevron-house-arrest/",
+            "_sensitive": false,
+            "_score": 213
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32262856",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32262856",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://tedgioia.substack.com/p/where-did-the-long-tail-go",
             "_sensitive": false,
             "_score": 224
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31881973",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31881973",
-            "title": "政府承包商复制开源3D打印概念并申请专利\n",
-            "summary": "Gov’t Contractor Copies Open Source 3D Printing Concept and Patents It",
-            "date_modified": "2022-06-26T07:54:37.000Z",
-            "author": {
-                "name": "danboarder",
-                "url": "https://news.ycombinator.com/user?id=danboarder"
-            },
-            "_original_headline": "Gov’t Contractor Copies Open Source 3D Printing Concept and Patents It",
-            "_original_url": "https://www.techdirt.com/2022/06/24/ridiculous-govt-contractor-copies-open-source-3d-printing-concept-and-patents-it/",
-            "_sensitive": false,
-            "_score": 212
         }
     ]
 }
