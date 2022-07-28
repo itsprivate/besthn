@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32265184",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32265184",
+            "title": "众议院民主党人将提议禁止立法者的股票交易--报告\n",
+            "summary": "House Democrats to propose ban on lawmaker stock trading – report",
+            "date_modified": "2022-07-28T14:54:29.000Z",
+            "author": {
+                "name": "thesecretceo",
+                "url": "https://news.ycombinator.com/user?id=thesecretceo"
+            },
+            "_original_headline": "House Democrats to propose ban on lawmaker stock trading – report",
+            "_original_url": "https://seekingalpha.com/news/3862127-house-democrats-to-propose-stock-trading-ban-in-august-report",
+            "_sensitive": false,
+            "_score": 225
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32262545",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32262545",
+            "title": "到达太阳引力透镜的焦点区域并在那里工作的任务\n",
+            "summary": "Mission to reach and operate at the focal region of the solar gravitational lens",
+            "date_modified": "2022-07-28T10:22:06.000Z",
+            "author": {
+                "name": "WithinReason",
+                "url": "https://news.ycombinator.com/user?id=WithinReason"
+            },
+            "_original_headline": "Mission to reach and operate at the focal region of the solar gravitational lens",
+            "_original_url": "https://arxiv.org/abs/2207.03005",
+            "_sensitive": false,
+            "_score": 235
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32250276",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32250276",
+            "title": "想开始黑客攻击吗？\n",
+            "summary": "Want to start hacking?",
+            "date_modified": "2022-07-27T13:41:01.000Z",
+            "author": {
+                "name": "unripe_syntax",
+                "url": "https://news.ycombinator.com/user?id=unripe_syntax"
+            },
+            "_original_headline": "Want to start hacking?",
+            "_original_url": "https://about.gitlab.com/blog/2022/07/27/cracking-our-bug-bounty-top-10/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32263535",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32263535",
@@ -9561,54 +9609,6 @@
             "_original_url": "https://manybutfinite.com/post/what-does-an-idle-cpu-do/",
             "_sensitive": false,
             "_score": 281
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31881238",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31881238",
-            "title": "Reddit的衰落。为什么它迅速衰落到混乱之中\n",
-            "summary": "The fall of Reddit: Why it’s quickly declining into chaos",
-            "date_modified": "2022-06-26T05:03:04.000Z",
-            "author": {
-                "name": "ko3us",
-                "url": "https://news.ycombinator.com/user?id=ko3us"
-            },
-            "_original_headline": "The fall of Reddit: Why it’s quickly declining into chaos",
-            "_original_url": "https://medium.com/yardcouch-com/the-fall-of-reddit-why-its-quickly-declining-into-chaos-cb0da61aca56",
-            "_sensitive": false,
-            "_score": 204
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31874318",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31874318",
-            "title": "精工电视表\n",
-            "summary": "The Seiko TV watch",
-            "date_modified": "2022-06-25T11:20:29.000Z",
-            "author": {
-                "name": "jjjjjjjjjjjjjjj",
-                "url": "https://news.ycombinator.com/user?id=jjjjjjjjjjjjjjj"
-            },
-            "_original_headline": "The Seiko TV watch",
-            "_original_url": "https://sabukaru.online/articles/the-watch-for-which-james-bond-gave-up-his-rolex-the-seiko-tv-watch",
-            "_sensitive": false,
-            "_score": 241
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31887748",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31887748",
-            "title": "银翼杀手》四十岁时\n",
-            "summary": "Blade Runner at forty",
-            "date_modified": "2022-06-26T20:42:53.000Z",
-            "author": {
-                "name": "gumby",
-                "url": "https://news.ycombinator.com/user?id=gumby"
-            },
-            "_original_headline": "Blade Runner at forty",
-            "_original_url": "https://www.esquire.com/uk/culture/a40351034/blade-runner-at-40/",
-            "_sensitive": false,
-            "_score": 240
         }
     ]
 }

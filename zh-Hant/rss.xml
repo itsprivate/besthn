@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 28 Jul 2022 16:55:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 18:51:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[眾議院民主黨人將提議禁止立法者的股票交易--報告
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32265184</link>
+            <guid>https://news.ycombinator.com/item?id=32265184</guid>
+            <pubDate>Thu, 28 Jul 2022 14:54:29 GMT</pubDate>
+            <description><![CDATA[House Democrats to propose ban on lawmaker stock trading – report]]></description>
+        </item>
+        <item>
+            <title><![CDATA[到達太陽引力透鏡的焦點區域並在那裡工作的任務
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32262545</link>
+            <guid>https://news.ycombinator.com/item?id=32262545</guid>
+            <pubDate>Thu, 28 Jul 2022 10:22:06 GMT</pubDate>
+            <description><![CDATA[Mission to reach and operate at the focal region of the solar gravitational lens]]></description>
+        </item>
+        <item>
+            <title><![CDATA[想開始黑客攻擊嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32250276</link>
+            <guid>https://news.ycombinator.com/item?id=32250276</guid>
+            <pubDate>Wed, 27 Jul 2022 13:41:01 GMT</pubDate>
+            <description><![CDATA[Want to start hacking?]]></description>
+        </item>
         <item>
             <title><![CDATA[最年長的和沒有父親的。湯姆-邦巴迪爾的可怕秘密 (2011)
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31887202</guid>
             <pubDate>Sun, 26 Jun 2022 19:36:54 GMT</pubDate>
             <description><![CDATA[What does an idle CPU do? (2014)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Reddit的衰落。為什麼它迅速衰落到混亂之中
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31881238</link>
-            <guid>https://news.ycombinator.com/item?id=31881238</guid>
-            <pubDate>Sun, 26 Jun 2022 05:03:04 GMT</pubDate>
-            <description><![CDATA[The fall of Reddit: Why it’s quickly declining into chaos]]></description>
-        </item>
-        <item>
-            <title><![CDATA[精工電視表
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31874318</link>
-            <guid>https://news.ycombinator.com/item?id=31874318</guid>
-            <pubDate>Sat, 25 Jun 2022 11:20:29 GMT</pubDate>
-            <description><![CDATA[The Seiko TV watch]]></description>
-        </item>
-        <item>
-            <title><![CDATA[銀翼殺手》四十歲時
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31887748</link>
-            <guid>https://news.ycombinator.com/item?id=31887748</guid>
-            <pubDate>Sun, 26 Jun 2022 20:42:53 GMT</pubDate>
-            <description><![CDATA[Blade Runner at forty]]></description>
         </item>
     </channel>
 </rss>

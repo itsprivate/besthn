@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-28T16:55:01.276Z</updated>
+    <updated>2022-07-28T18:51:05.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[众议院民主党人将提议禁止立法者的股票交易--报告
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32265184</id>
+        <link href="https://news.ycombinator.com/item?id=32265184"/>
+        <updated>2022-07-28T14:54:29.000Z</updated>
+        <summary type="html"><![CDATA[House Democrats to propose ban on lawmaker stock trading – report]]></summary>
+        <author>
+            <name>thesecretceo</name>
+            <uri>https://news.ycombinator.com/user?id=thesecretceo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[到达太阳引力透镜的焦点区域并在那里工作的任务
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32262545</id>
+        <link href="https://news.ycombinator.com/item?id=32262545"/>
+        <updated>2022-07-28T10:22:06.000Z</updated>
+        <summary type="html"><![CDATA[Mission to reach and operate at the focal region of the solar gravitational lens]]></summary>
+        <author>
+            <name>WithinReason</name>
+            <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[想开始黑客攻击吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32250276</id>
+        <link href="https://news.ycombinator.com/item?id=32250276"/>
+        <updated>2022-07-27T13:41:01.000Z</updated>
+        <summary type="html"><![CDATA[Want to start hacking?]]></summary>
+        <author>
+            <name>unripe_syntax</name>
+            <uri>https://news.ycombinator.com/user?id=unripe_syntax</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最年长的和没有父亲的。汤姆-邦巴迪尔的可怕秘密 (2011)
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>ivanvas</name>
             <uri>https://news.ycombinator.com/user?id=ivanvas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit的衰落。为什么它迅速衰落到混乱之中
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31881238</id>
-        <link href="https://news.ycombinator.com/item?id=31881238"/>
-        <updated>2022-06-26T05:03:04.000Z</updated>
-        <summary type="html"><![CDATA[The fall of Reddit: Why it’s quickly declining into chaos]]></summary>
-        <author>
-            <name>ko3us</name>
-            <uri>https://news.ycombinator.com/user?id=ko3us</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[精工电视表
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31874318</id>
-        <link href="https://news.ycombinator.com/item?id=31874318"/>
-        <updated>2022-06-25T11:20:29.000Z</updated>
-        <summary type="html"><![CDATA[The Seiko TV watch]]></summary>
-        <author>
-            <name>jjjjjjjjjjjjjjj</name>
-            <uri>https://news.ycombinator.com/user?id=jjjjjjjjjjjjjjj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[银翼杀手》四十岁时
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31887748</id>
-        <link href="https://news.ycombinator.com/item?id=31887748"/>
-        <updated>2022-06-26T20:42:53.000Z</updated>
-        <summary type="html"><![CDATA[Blade Runner at forty]]></summary>
-        <author>
-            <name>gumby</name>
-            <uri>https://news.ycombinator.com/user?id=gumby</uri>
         </author>
     </entry>
 </feed>
