@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 28 Jul 2022 06:36:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 08:39:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何在2022年创建一个Python包
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32258783</link>
+            <guid>https://news.ycombinator.com/item?id=32258783</guid>
+            <pubDate>Thu, 28 Jul 2022 00:06:31 GMT</pubDate>
+            <description><![CDATA[How to create a Python package in 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[近30年后从Debian Jessie升级到Bullseye
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32256026</link>
+            <guid>https://news.ycombinator.com/item?id=32256026</guid>
+            <pubDate>Wed, 27 Jul 2022 20:01:04 GMT</pubDate>
+            <description><![CDATA[Upgrading from Debian Jessie to Bullseye after nearly 30 years]]></description>
+        </item>
         <item>
             <title><![CDATA[圣母大学再次崛起
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31859072</guid>
             <pubDate>Fri, 24 Jun 2022 08:30:43 GMT</pubDate>
             <description><![CDATA[A picture of me]]></description>
-        </item>
-        <item>
-            <title><![CDATA[猪的心脏移植手术因其心肌细胞死亡而失败
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31866573</link>
-            <guid>https://news.ycombinator.com/item?id=31866573</guid>
-            <pubDate>Fri, 24 Jun 2022 17:52:46 GMT</pubDate>
-            <description><![CDATA[Pig heart transplant failed as its heart muscle cells died]]></description>
-        </item>
-        <item>
-            <title><![CDATA[飞地。一把无法打开的锁
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31880108</link>
-            <guid>https://news.ycombinator.com/item?id=31880108</guid>
-            <pubDate>Sun, 26 Jun 2022 01:05:50 GMT</pubDate>
-            <description><![CDATA[Enclave: An Unpickable Lock]]></description>
         </item>
     </channel>
 </rss>

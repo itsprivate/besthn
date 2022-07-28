@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-28T06:36:02.181Z</updated>
+    <updated>2022-07-28T08:39:02.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何在2022年創建一個Python包
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32258783</id>
+        <link href="https://news.ycombinator.com/item?id=32258783"/>
+        <updated>2022-07-28T00:06:31.000Z</updated>
+        <summary type="html"><![CDATA[How to create a Python package in 2022]]></summary>
+        <author>
+            <name>kieto</name>
+            <uri>https://news.ycombinator.com/user?id=kieto</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近30年後從Debian Jessie升級到Bullseye
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32256026</id>
+        <link href="https://news.ycombinator.com/item?id=32256026"/>
+        <updated>2022-07-27T20:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Upgrading from Debian Jessie to Bullseye after nearly 30 years]]></summary>
+        <author>
+            <name>jklinger410</name>
+            <uri>https://news.ycombinator.com/user?id=jklinger410</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[聖母大學再次崛起
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>memorable</name>
             <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[豬的心臟移植手術因其心肌細胞死亡而失敗
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31866573</id>
-        <link href="https://news.ycombinator.com/item?id=31866573"/>
-        <updated>2022-06-24T17:52:46.000Z</updated>
-        <summary type="html"><![CDATA[Pig heart transplant failed as its heart muscle cells died]]></summary>
-        <author>
-            <name>samizdis</name>
-            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[飛地。一把無法打開的鎖
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31880108</id>
-        <link href="https://news.ycombinator.com/item?id=31880108"/>
-        <updated>2022-06-26T01:05:50.000Z</updated>
-        <summary type="html"><![CDATA[Enclave: An Unpickable Lock]]></summary>
-        <author>
-            <name>lisper</name>
-            <uri>https://news.ycombinator.com/user?id=lisper</uri>
         </author>
     </entry>
 </feed>
