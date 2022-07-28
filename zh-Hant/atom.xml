@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-27T22:31:36.246Z</updated>
+    <updated>2022-07-28T02:35:29.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大家似乎都忘記了GNOME和GNOME 3以及Unity發生的原因
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32257412</id>
+        <link href="https://news.ycombinator.com/item?id=32257412"/>
+        <updated>2022-07-27T21:43:35.000Z</updated>
+        <summary type="html"><![CDATA[Everyone seems to forget why GNOME and GNOME 3 and Unity happened]]></summary>
+        <author>
+            <name>JetSpiegel</name>
+            <uri>https://news.ycombinator.com/user?id=JetSpiegel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你有一個悲傷的感覺，然後它就會消失。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>vagab0nd</name>
             <uri>https://news.ycombinator.com/user?id=vagab0nd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無論蜜蜂啟示錄發生了什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31875002</id>
-        <link href="https://news.ycombinator.com/item?id=31875002"/>
-        <updated>2022-06-25T13:09:50.000Z</updated>
-        <summary type="html"><![CDATA[Whatever happened to the bee apocalypse?]]></summary>
-        <author>
-            <name>nsoonhui</name>
-            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
         </author>
     </entry>
 </feed>
