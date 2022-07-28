@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-28T14:01:06.104Z</updated>
+    <updated>2022-07-28T14:36:04.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AlphaFold揭示了蛋白質宇宙的結構
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32262856</id>
+        <link href="https://news.ycombinator.com/item?id=32262856"/>
+        <updated>2022-07-28T11:18:14.000Z</updated>
+        <summary type="html"><![CDATA[AlphaFold reveals the structure of the protein universe]]></summary>
+        <author>
+            <name>MindGods</name>
+            <uri>https://news.ycombinator.com/user?id=MindGods</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工程管理人員的框架
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32261363</id>
+        <link href="https://news.ycombinator.com/item?id=32261363"/>
+        <updated>2022-07-28T07:15:32.000Z</updated>
+        <summary type="html"><![CDATA[A Framework for Engineering Managers]]></summary>
+        <author>
+            <name>aviramha</name>
+            <uri>https://news.ycombinator.com/user?id=aviramha</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日常生活中的高階導數？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>danboarder</name>
             <uri>https://news.ycombinator.com/user?id=danboarder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼我仍然推薦朱莉婭
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31880394</id>
-        <link href="https://news.ycombinator.com/item?id=31880394"/>
-        <updated>2022-06-26T01:59:59.000Z</updated>
-        <summary type="html"><![CDATA[Why I still recommend Julia]]></summary>
-        <author>
-            <name>amkkma</name>
-            <uri>https://news.ycombinator.com/user?id=amkkma</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VirtualBuddy。虛擬化蘋果硅上的macOS 12和更高版本
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31878876</id>
-        <link href="https://news.ycombinator.com/item?id=31878876"/>
-        <updated>2022-06-25T21:29:42.000Z</updated>
-        <summary type="html"><![CDATA[VirtualBuddy: Virtualize macOS 12 and later on Apple Silicon]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 28 Jul 2022 14:01:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 14:36:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[AlphaFold揭示了蛋白质宇宙的结构
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32262856</link>
+            <guid>https://news.ycombinator.com/item?id=32262856</guid>
+            <pubDate>Thu, 28 Jul 2022 11:18:14 GMT</pubDate>
+            <description><![CDATA[AlphaFold reveals the structure of the protein universe]]></description>
+        </item>
+        <item>
+            <title><![CDATA[工程管理人员的框架
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32261363</link>
+            <guid>https://news.ycombinator.com/item?id=32261363</guid>
+            <pubDate>Thu, 28 Jul 2022 07:15:32 GMT</pubDate>
+            <description><![CDATA[A Framework for Engineering Managers]]></description>
+        </item>
         <item>
             <title><![CDATA[日常生活中的高阶导数？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31881973</guid>
             <pubDate>Sun, 26 Jun 2022 07:54:37 GMT</pubDate>
             <description><![CDATA[Gov’t Contractor Copies Open Source 3D Printing Concept and Patents It]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么我仍然推荐朱莉娅
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31880394</link>
-            <guid>https://news.ycombinator.com/item?id=31880394</guid>
-            <pubDate>Sun, 26 Jun 2022 01:59:59 GMT</pubDate>
-            <description><![CDATA[Why I still recommend Julia]]></description>
-        </item>
-        <item>
-            <title><![CDATA[VirtualBuddy。虚拟化苹果硅上的macOS 12和更高版本
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31878876</link>
-            <guid>https://news.ycombinator.com/item?id=31878876</guid>
-            <pubDate>Sat, 25 Jun 2022 21:29:42 GMT</pubDate>
-            <description><![CDATA[VirtualBuddy: Virtualize macOS 12 and later on Apple Silicon]]></description>
         </item>
     </channel>
 </rss>
