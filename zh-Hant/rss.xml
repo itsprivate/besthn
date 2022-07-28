@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 28 Jul 2022 05:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 06:36:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[聖母大學再次崛起
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32252485</link>
+            <guid>https://news.ycombinator.com/item?id=32252485</guid>
+            <pubDate>Wed, 27 Jul 2022 16:22:35 GMT</pubDate>
+            <description><![CDATA[Notre Dame rises again]]></description>
+        </item>
         <item>
             <title><![CDATA[ShotSpotter要求被視為藐視法庭，而不是公開其方法。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31880108</guid>
             <pubDate>Sun, 26 Jun 2022 01:05:50 GMT</pubDate>
             <description><![CDATA[Enclave: An Unpickable Lock]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AT&T律師阻止Plan 9發行CD，其中包括Lou Reed、Debbie Harry的歌曲
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31876981</link>
-            <guid>https://news.ycombinator.com/item?id=31876981</guid>
-            <pubDate>Sat, 25 Jun 2022 17:19:19 GMT</pubDate>
-            <description><![CDATA[AT&T lawyer stopped Plan 9 release CD with songs by Lou Reed, Debbie Harry]]></description>
         </item>
     </channel>
 </rss>
