@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-29T08:16:39.664Z</updated>
+    <updated>2022-07-29T08:37:58.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Retool以32億美元的估值融資4500萬美元
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32264454</id>
+        <link href="https://news.ycombinator.com/item?id=32264454"/>
+        <updated>2022-07-28T14:05:27.000Z</updated>
+        <summary type="html"><![CDATA[Retool raises $45M at a $3.2B valuation]]></summary>
+        <author>
+            <name>dvdhsu</name>
+            <uri>https://news.ycombinator.com/user?id=dvdhsu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[華碩Zenfone 9
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>behnamoh</name>
             <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超級馬里奧兄弟的翹曲區的工作原理略有不同[視頻]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31883621</id>
-        <link href="https://news.ycombinator.com/item?id=31883621"/>
-        <updated>2022-06-26T13:17:26.000Z</updated>
-        <summary type="html"><![CDATA[Super Mario Bros warp zones were intended to work slightly differently [video]]]></summary>
-        <author>
-            <name>raldi</name>
-            <uri>https://news.ycombinator.com/user?id=raldi</uri>
         </author>
     </entry>
 </feed>

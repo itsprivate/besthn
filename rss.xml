@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 29 Jul 2022 08:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 08:37:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Retool以32亿美元的估值融资4500万美元
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32264454</link>
+            <guid>https://news.ycombinator.com/item?id=32264454</guid>
+            <pubDate>Thu, 28 Jul 2022 14:05:27 GMT</pubDate>
+            <description><![CDATA[Retool raises $45M at a $3.2B valuation]]></description>
+        </item>
         <item>
             <title><![CDATA[华硕Zenfone 9
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31891226</guid>
             <pubDate>Mon, 27 Jun 2022 06:24:02 GMT</pubDate>
             <description><![CDATA[Explaining Code Using ASCII Art]]></description>
-        </item>
-        <item>
-            <title><![CDATA[超级马里奥兄弟的翘曲区的工作原理略有不同[视频]
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31883621</link>
-            <guid>https://news.ycombinator.com/item?id=31883621</guid>
-            <pubDate>Sun, 26 Jun 2022 13:17:26 GMT</pubDate>
-            <description><![CDATA[Super Mario Bros warp zones were intended to work slightly differently [video]]]></description>
         </item>
     </channel>
 </rss>
