@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-29T18:38:34.728Z</updated>
+    <updated>2022-07-29T19:26:46.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Tabler。免費和開源的儀表板HTML/CSS框架
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32278397</id>
+        <link href="https://news.ycombinator.com/item?id=32278397"/>
+        <updated>2022-07-29T15:42:23.000Z</updated>
+        <summary type="html"><![CDATA[Tabler: Free and open source dashboard HTML/CSS framework]]></summary>
+        <author>
+            <name>jakearmitage</name>
+            <uri>https://news.ycombinator.com/user?id=jakearmitage</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TikTok和社交媒體巨頭的衰落
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kuprel</name>
             <uri>https://news.ycombinator.com/user?id=kuprel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開放的食品事實 - 一個由每個人製作的、為每個人服務的食品產品數據庫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31898218</id>
-        <link href="https://news.ycombinator.com/item?id=31898218"/>
-        <updated>2022-06-27T17:59:08.000Z</updated>
-        <summary type="html"><![CDATA[Open Food Facts – a food products database made by everyone, for everyone]]></summary>
-        <author>
-            <name>jka</name>
-            <uri>https://news.ycombinator.com/user?id=jka</uri>
         </author>
     </entry>
 </feed>
