@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 29 Jul 2022 16:43:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 18:38:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[TikTok和社交媒體巨頭的衰落
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32273083</link>
+            <guid>https://news.ycombinator.com/item?id=32273083</guid>
+            <pubDate>Fri, 29 Jul 2022 04:16:59 GMT</pubDate>
+            <description><![CDATA[TikTok and the Fall of the Social-Media Giants]]></description>
+        </item>
         <item>
             <title><![CDATA[坐火車在5小時內能走多遠？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31898218</guid>
             <pubDate>Mon, 27 Jun 2022 17:59:08 GMT</pubDate>
             <description><![CDATA[Open Food Facts – a food products database made by everyone, for everyone]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Kanopy - 用你的公共圖書館或大學卡播放電影
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31882374</link>
-            <guid>https://news.ycombinator.com/item?id=31882374</guid>
-            <pubDate>Sun, 26 Jun 2022 09:28:32 GMT</pubDate>
-            <description><![CDATA[Kanopy – Stream films with your public library or university card]]></description>
         </item>
     </channel>
 </rss>

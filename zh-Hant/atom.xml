@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-29T16:43:42.654Z</updated>
+    <updated>2022-07-29T18:38:34.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TikTok和社交媒體巨頭的衰落
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32273083</id>
+        <link href="https://news.ycombinator.com/item?id=32273083"/>
+        <updated>2022-07-29T04:16:59.000Z</updated>
+        <summary type="html"><![CDATA[TikTok and the Fall of the Social-Media Giants]]></summary>
+        <author>
+            <name>faurosann</name>
+            <uri>https://news.ycombinator.com/user?id=faurosann</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[坐火車在5小時內能走多遠？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jka</name>
             <uri>https://news.ycombinator.com/user?id=jka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanopy - 用你的公共圖書館或大學卡播放電影
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31882374</id>
-        <link href="https://news.ycombinator.com/item?id=31882374"/>
-        <updated>2022-06-26T09:28:32.000Z</updated>
-        <summary type="html"><![CDATA[Kanopy – Stream films with your public library or university card]]></summary>
-        <author>
-            <name>philonoist</name>
-            <uri>https://news.ycombinator.com/user?id=philonoist</uri>
         </author>
     </entry>
 </feed>
