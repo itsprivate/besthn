@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 29 Jul 2022 14:33:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 14:47:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谣言。谷歌体育场可能会被关闭
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32276188</link>
+            <guid>https://news.ycombinator.com/item?id=32276188</guid>
+            <pubDate>Fri, 29 Jul 2022 12:48:54 GMT</pubDate>
+            <description><![CDATA[Rumor: Google Stadia May Be Getting Shut Down]]></description>
+        </item>
         <item>
             <title><![CDATA[酥脆的 "10fps"（2020）。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31897530</guid>
             <pubDate>Mon, 27 Jun 2022 17:10:25 GMT</pubDate>
             <description><![CDATA[Detecting unauthorized physical access with beans, lentils and colored rice]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国为什么不能建造
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31890048</link>
-            <guid>https://news.ycombinator.com/item?id=31890048</guid>
-            <pubDate>Mon, 27 Jun 2022 02:41:55 GMT</pubDate>
-            <description><![CDATA[Why America can’t build]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-29T14:33:28.315Z</updated>
+    <updated>2022-07-29T14:47:25.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[謠言。谷歌體育場可能會被關閉
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32276188</id>
+        <link href="https://news.ycombinator.com/item?id=32276188"/>
+        <updated>2022-07-29T12:48:54.000Z</updated>
+        <summary type="html"><![CDATA[Rumor: Google Stadia May Be Getting Shut Down]]></summary>
+        <author>
+            <name>achow</name>
+            <uri>https://news.ycombinator.com/user?id=achow</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[酥脆的 "10fps"（2020）。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>layer8</name>
             <uri>https://news.ycombinator.com/user?id=layer8</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國為什麼不能建造
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31890048</id>
-        <link href="https://news.ycombinator.com/item?id=31890048"/>
-        <updated>2022-06-27T02:41:55.000Z</updated>
-        <summary type="html"><![CDATA[Why America can’t build]]></summary>
-        <author>
-            <name>fra</name>
-            <uri>https://news.ycombinator.com/user?id=fra</uri>
         </author>
     </entry>
 </feed>
