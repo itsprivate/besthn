@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-29T21:03:05.291Z</updated>
+    <updated>2022-07-29T22:30:54.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基特奥，加拿大耗资5000万美元的1980年代鬼城
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32280903</id>
+        <link href="https://news.ycombinator.com/item?id=32280903"/>
+        <updated>2022-07-29T19:32:50.000Z</updated>
+        <summary type="html"><![CDATA[Kitsault, Canada’s $50M 1980s ghost town]]></summary>
+        <author>
+            <name>annapowellsmith</name>
+            <uri>https://news.ycombinator.com/user?id=annapowellsmith</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在自动执行的.REG文件中嵌入一个EXE
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sohkamyung</name>
             <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在技术面试中浪费时间
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31898454</id>
-        <link href="https://news.ycombinator.com/item?id=31898454"/>
-        <updated>2022-06-27T18:15:35.000Z</updated>
-        <summary type="html"><![CDATA[Wasting time in tech interviews]]></summary>
-        <author>
-            <name>carrozo</name>
-            <uri>https://news.ycombinator.com/user?id=carrozo</uri>
         </author>
     </entry>
 </feed>
