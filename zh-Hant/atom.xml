@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-29T19:26:46.962Z</updated>
+    <updated>2022-07-29T20:34:01.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑色MIDI
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32262057</id>
+        <link href="https://news.ycombinator.com/item?id=32262057"/>
+        <updated>2022-07-28T09:15:12.000Z</updated>
+        <summary type="html"><![CDATA[Black MIDI]]></summary>
+        <author>
+            <name>golyi</name>
+            <uri>https://news.ycombinator.com/user?id=golyi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tabler。免費和開源的儀表板HTML/CSS框架
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>wg0</name>
             <uri>https://news.ycombinator.com/user?id=wg0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我把DALL-E Mini剝離到最基本的部分，並將其轉換為火炬。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31903076</id>
-        <link href="https://news.ycombinator.com/item?id=31903076"/>
-        <updated>2022-06-28T01:27:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I stripped DALL·E Mini to its bare essentials and converted it to Torch]]></summary>
-        <author>
-            <name>kuprel</name>
-            <uri>https://news.ycombinator.com/user?id=kuprel</uri>
         </author>
     </entry>
 </feed>
