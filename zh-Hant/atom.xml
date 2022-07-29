@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-29T08:37:58.535Z</updated>
+    <updated>2022-07-29T10:58:29.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[卡爾曼濾波器只是一個低通濾波器嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32271351</id>
+        <link href="https://news.ycombinator.com/item?id=32271351"/>
+        <updated>2022-07-28T23:34:10.000Z</updated>
+        <summary type="html"><![CDATA[Is the Kalman filter just a low-pass filter?]]></summary>
+        <author>
+            <name>jbay808</name>
+            <uri>https://news.ycombinator.com/user?id=jbay808</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Retool以32億美元的估值融資4500萬美元
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>maximilianroos</name>
             <uri>https://news.ycombinator.com/user?id=maximilianroos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用ASCII藝術解釋代碼
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31891226</id>
-        <link href="https://news.ycombinator.com/item?id=31891226"/>
-        <updated>2022-06-27T06:24:02.000Z</updated>
-        <summary type="html"><![CDATA[Explaining Code Using ASCII Art]]></summary>
-        <author>
-            <name>behnamoh</name>
-            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
         </author>
     </entry>
 </feed>
