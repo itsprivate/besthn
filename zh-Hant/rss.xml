@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 29 Jul 2022 11:47:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 14:00:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[華碩推出了大約40款名為 "Eee PC "的筆記本電腦（2021年）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32262003</link>
+            <guid>https://news.ycombinator.com/item?id=32262003</guid>
+            <pubDate>Thu, 28 Jul 2022 09:10:19 GMT</pubDate>
+            <description><![CDATA[Asus put out like 40 models of a laptop called the “Eee PC” (2021)]]></description>
+        </item>
         <item>
             <title><![CDATA[每個城市最有名的人的地圖
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31897101</guid>
             <pubDate>Mon, 27 Jun 2022 16:41:06 GMT</pubDate>
             <description><![CDATA[Meta is inviting researchers to pick apart the flaws in its version of GPT-3]]></description>
-        </item>
-        <item>
-            <title><![CDATA[野生海龜衰老速度很慢，有些海龜基本上沒有衰老。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31881557</link>
-            <guid>https://news.ycombinator.com/item?id=31881557</guid>
-            <pubDate>Sun, 26 Jun 2022 06:14:07 GMT</pubDate>
-            <description><![CDATA[Wild turtles age slowly, and some basically don’t age at all]]></description>
         </item>
     </channel>
 </rss>
