@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 29 Jul 2022 15:59:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 16:43:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[坐火車在5小時內能走多遠？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32276017</link>
+            <guid>https://news.ycombinator.com/item?id=32276017</guid>
+            <pubDate>Fri, 29 Jul 2022 12:25:39 GMT</pubDate>
+            <description><![CDATA[How far can you go by train in 5h?]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼Windows註冊表在技術上很糟糕 (2010)
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31882374</guid>
             <pubDate>Sun, 26 Jun 2022 09:28:32 GMT</pubDate>
             <description><![CDATA[Kanopy – Stream films with your public library or university card]]></description>
-        </item>
-        <item>
-            <title><![CDATA[流感疫苗接種與阿爾茨海默病風險降低40%有關
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31899781</link>
-            <guid>https://news.ycombinator.com/item?id=31899781</guid>
-            <pubDate>Mon, 27 Jun 2022 19:45:25 GMT</pubDate>
-            <description><![CDATA[Flu vaccination linked to 40% reduced risk of Alzheimer’s disease]]></description>
         </item>
     </channel>
 </rss>
