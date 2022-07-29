@@ -11,6 +11,166 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32271660",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32271660",
+            "title": "華碩Zenfone 9\n",
+            "summary": "Asus Zenfone 9",
+            "date_modified": "2022-07-29T00:22:59.000Z",
+            "author": {
+                "name": "fomine3",
+                "url": "https://news.ycombinator.com/user?id=fomine3"
+            },
+            "_original_headline": "Asus Zenfone 9",
+            "_original_url": "https://www.asus.com/Mobile/Phones/ZenFone/Zenfone-9/",
+            "_sensitive": false,
+            "_score": 264
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32270815",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32270815",
+            "title": "最佳蘋果手機\n",
+            "summary": "The Best iPhone",
+            "date_modified": "2022-07-28T22:27:50.000Z",
+            "author": {
+                "name": "rpgbr",
+                "url": "https://news.ycombinator.com/user?id=rpgbr"
+            },
+            "_original_headline": "The Best iPhone",
+            "_original_url": "https://notes.ghed.in/posts/the-best-iphone/",
+            "_sensitive": false,
+            "_score": 390
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32267287",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32267287",
+            "title": "EdgeDB 2.0\n",
+            "summary": "EdgeDB 2.0",
+            "date_modified": "2022-07-28T17:12:36.000Z",
+            "author": {
+                "name": "syrusakbary",
+                "url": "https://news.ycombinator.com/user?id=syrusakbary"
+            },
+            "_original_headline": "EdgeDB 2.0",
+            "_original_url": "https://www.edgedb.com/blog/edgedb-2-0",
+            "_sensitive": false,
+            "_score": 320
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32267266",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32267266",
+            "title": "聯邦調查局隱瞞對美國人的保險箱進行突擊檢查的細節\n",
+            "summary": "FBI is hiding details about a raid on Americans’ safe deposit boxes",
+            "date_modified": "2022-07-28T17:11:23.000Z",
+            "author": {
+                "name": "theflyingelvis",
+                "url": "https://news.ycombinator.com/user?id=theflyingelvis"
+            },
+            "_original_headline": "FBI is hiding details about a raid on Americans’ safe deposit boxes",
+            "_original_url": "https://reason.com/2022/07/26/what-is-the-fbi-hiding-about-its-raid-on-innocent-americans-safe-deposit-boxes/",
+            "_sensitive": false,
+            "_score": 433
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32267222",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32267222",
+            "title": "AWS US-EAST-2中斷\n",
+            "summary": "AWS us-east-2 outage",
+            "date_modified": "2022-07-28T17:09:05.000Z",
+            "author": {
+                "name": "jchen42",
+                "url": "https://news.ycombinator.com/user?id=jchen42"
+            },
+            "_original_headline": "AWS us-east-2 outage",
+            "_original_url": "https://news.ycombinator.com/item?id=32267222",
+            "_sensitive": false,
+            "_score": 327
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32266414",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32266414",
+            "title": "S3並沒有變得更便宜\n",
+            "summary": "S3 isn't getting cheaper",
+            "date_modified": "2022-07-28T16:17:51.000Z",
+            "author": {
+                "name": "rckrd",
+                "url": "https://news.ycombinator.com/user?id=rckrd"
+            },
+            "_original_headline": "S3 isn't getting cheaper",
+            "_original_url": "https://matt-rickard.com/10-years-and-s3-isnt-getting-cheaper/",
+            "_sensitive": false,
+            "_score": 255
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32266086",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32266086",
+            "title": "西洋菜 - Duolingo的烹飪方法\n",
+            "summary": "Show HN: Parsnip – Duolingo for Cooking",
+            "date_modified": "2022-07-28T15:57:12.000Z",
+            "author": {
+                "name": "mizzao",
+                "url": "https://news.ycombinator.com/user?id=mizzao"
+            },
+            "_original_headline": "Show HN: Parsnip – Duolingo for Cooking",
+            "_original_url": "https://www.parsnip.ai/",
+            "_sensitive": false,
+            "_score": 474
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32265223",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32265223",
+            "title": "我的新聞通訊每月賺取2千美元，有7千名訂閱者 - AMA\n",
+            "summary": "My newsletter is making $2k per month with 7k subscribers – AMA",
+            "date_modified": "2022-07-28T14:57:27.000Z",
+            "author": {
+                "name": "ryangilbert",
+                "url": "https://news.ycombinator.com/user?id=ryangilbert"
+            },
+            "_original_headline": "My newsletter is making $2k per month with 7k subscribers – AMA",
+            "_original_url": "https://news.ycombinator.com/item?id=32265223",
+            "_sensitive": false,
+            "_score": 322
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32265000",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32265000",
+            "title": "是的，社交媒體正在破壞民主\n",
+            "summary": "Yes, social media is undermining democracy",
+            "date_modified": "2022-07-28T14:42:59.000Z",
+            "author": {
+                "name": "samizdis",
+                "url": "https://news.ycombinator.com/user?id=samizdis"
+            },
+            "_original_headline": "Yes, social media is undermining democracy",
+            "_original_url": "https://www.theatlantic.com/ideas/archive/2022/07/social-media-harm-facebook-meta-response/670975/",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32264938",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32264938",
+            "title": "我贏得了對向我發送未經請求的短信的一方的訴訟\n",
+            "summary": "I won a suit against a party that sent me an unsolicited text message",
+            "date_modified": "2022-07-28T14:39:09.000Z",
+            "author": {
+                "name": "MrDunham",
+                "url": "https://news.ycombinator.com/user?id=MrDunham"
+            },
+            "_original_headline": "I won a suit against a party that sent me an unsolicited text message",
+            "_original_url": "https://twitter.com/dweekly/status/1552148207248896001",
+            "_sensitive": false,
+            "_score": 246
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32265184",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32265184",
@@ -9449,166 +9609,6 @@
             "_original_url": "https://www.youtube.com/watch?v=61m5MiyC17s",
             "_sensitive": false,
             "_score": 207
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31895820",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31895820",
-            "title": "三箭資本公司已經拖欠了一筆價值超過6.7億美元的貸款\n",
-            "summary": "Three Arrows Capital has defaulted on a loan worth more than $670M",
-            "date_modified": "2022-06-27T15:21:27.000Z",
-            "author": {
-                "name": "misiti3780",
-                "url": "https://news.ycombinator.com/user?id=misiti3780"
-            },
-            "_original_headline": "Three Arrows Capital has defaulted on a loan worth more than $670M",
-            "_original_url": "https://www.cnbc.com/2022/06/27/three-arrows-capital-crypto-hedge-fund-defaults-on-voyager-loan.html",
-            "_sensitive": false,
-            "_score": 205
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31895623",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31895623",
-            "title": "關於數據庫需要知道的事情\n",
-            "summary": "Things to know about databases",
-            "date_modified": "2022-06-27T15:08:58.000Z",
-            "author": {
-                "name": "grech",
-                "url": "https://news.ycombinator.com/user?id=grech"
-            },
-            "_original_headline": "Things to know about databases",
-            "_original_url": "https://architecturenotes.co/things-you-should-know-about-databases/",
-            "_sensitive": false,
-            "_score": 249
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31894690",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31894690",
-            "title": "蘋果公司的說法是，為了安全，它禁止使用其他瀏覽器\n",
-            "summary": "Apple's claim is that it bans other browsers for security",
-            "date_modified": "2022-06-27T14:00:05.000Z",
-            "author": {
-                "name": "mtomweb",
-                "url": "https://news.ycombinator.com/user?id=mtomweb"
-            },
-            "_original_headline": "Apple's claim is that it bans other browsers for security",
-            "_original_url": "https://twitter.com/OpenWebAdvocacy/status/1541318055636369409",
-            "_sensitive": false,
-            "_score": 205
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31893408",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31893408",
-            "title": "如何讓初級僱員在遠程工作中獲得成功\n",
-            "summary": "How to set junior employees up for success in remote",
-            "date_modified": "2022-06-27T12:10:51.000Z",
-            "author": {
-                "name": "melanieb421",
-                "url": "https://news.ycombinator.com/user?id=melanieb421"
-            },
-            "_original_headline": "How to set junior employees up for success in remote",
-            "_original_url": "https://slite.com/blog/micromanagement-is-not-a-bad-word",
-            "_sensitive": false,
-            "_score": 201
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31891907",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31891907",
-            "title": "亞馬遜正在恐嚇和騷擾蒙特利爾的組織工人\n",
-            "summary": "Amazon is intimidating and harassing organizing workers in Montreal",
-            "date_modified": "2022-06-27T08:23:09.000Z",
-            "author": {
-                "name": "hubraumhugo",
-                "url": "https://news.ycombinator.com/user?id=hubraumhugo"
-            },
-            "_original_headline": "Amazon is intimidating and harassing organizing workers in Montreal",
-            "_original_url": "https://jacobin.com/2022/06/amazon-workers-union-drive-intimidation-anti-labor-law-montreal-canada/",
-            "_sensitive": false,
-            "_score": 206
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31892299",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31892299",
-            "title": "Outlook掃描進入收件箱的電子郵件，並將所有發現的URL發送至Bing\n",
-            "summary": "Outlook scans emails arriving in your inbox and sends all found URLs to Bing",
-            "date_modified": "2022-06-27T09:26:11.000Z",
-            "author": {
-                "name": "rsbadger",
-                "url": "https://news.ycombinator.com/user?id=rsbadger"
-            },
-            "_original_headline": "Outlook scans emails arriving in your inbox and sends all found URLs to Bing",
-            "_original_url": "https://medium.com/@ryanbadger/magic-links-can-end-up-in-bing-search-results-rendering-them-useless-37def0fae994",
-            "_sensitive": false,
-            "_score": 209
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31876220",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31876220",
-            "title": "OpenSnitch是Little Snitch應用防火牆的一個GNU/Linux端口。\n",
-            "summary": "OpenSnitch is a GNU/Linux port of the Little Snitch application firewall",
-            "date_modified": "2022-06-25T15:51:33.000Z",
-            "author": {
-                "name": "btdmaster",
-                "url": "https://news.ycombinator.com/user?id=btdmaster"
-            },
-            "_original_headline": "OpenSnitch is a GNU/Linux port of the Little Snitch application firewall",
-            "_original_url": "https://github.com/evilsocket/opensnitch",
-            "_sensitive": false,
-            "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31888624",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31888624",
-            "title": "Python 3.11有什麼新內容？\n",
-            "summary": "What's New in Python 3.11?",
-            "date_modified": "2022-06-26T22:14:59.000Z",
-            "author": {
-                "name": "sanketsaurav",
-                "url": "https://news.ycombinator.com/user?id=sanketsaurav"
-            },
-            "_original_headline": "What's New in Python 3.11?",
-            "_original_url": "https://deepsource.io/blog/python-3-11-whats-new/",
-            "_sensitive": false,
-            "_score": 212
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31887322",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31887322",
-            "title": "DevOps是一種失敗\n",
-            "summary": "DevOps is a failure",
-            "date_modified": "2022-06-26T19:50:48.000Z",
-            "author": {
-                "name": "blopeur",
-                "url": "https://news.ycombinator.com/user?id=blopeur"
-            },
-            "_original_headline": "DevOps is a failure",
-            "_original_url": "https://leebriggs.co.uk/blog/2022/06/21/devops-is-a-failure",
-            "_sensitive": false,
-            "_score": 229
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31887202",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31887202",
-            "title": "閒置的CPU是做什麼的？(2014)\n",
-            "summary": "What does an idle CPU do? (2014)",
-            "date_modified": "2022-06-26T19:36:54.000Z",
-            "author": {
-                "name": "ivanvas",
-                "url": "https://news.ycombinator.com/user?id=ivanvas"
-            },
-            "_original_headline": "What does an idle CPU do? (2014)",
-            "_original_url": "https://manybutfinite.com/post/what-does-an-idle-cpu-do/",
-            "_sensitive": false,
-            "_score": 281
         }
     ]
 }

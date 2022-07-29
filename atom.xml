@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-28T18:51:05.514Z</updated>
+    <updated>2022-07-29T08:16:39.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,126 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[华硕Zenfone 9
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32271660</id>
+        <link href="https://news.ycombinator.com/item?id=32271660"/>
+        <updated>2022-07-29T00:22:59.000Z</updated>
+        <summary type="html"><![CDATA[Asus Zenfone 9]]></summary>
+        <author>
+            <name>fomine3</name>
+            <uri>https://news.ycombinator.com/user?id=fomine3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最佳苹果手机
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32270815</id>
+        <link href="https://news.ycombinator.com/item?id=32270815"/>
+        <updated>2022-07-28T22:27:50.000Z</updated>
+        <summary type="html"><![CDATA[The Best iPhone]]></summary>
+        <author>
+            <name>rpgbr</name>
+            <uri>https://news.ycombinator.com/user?id=rpgbr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EdgeDB 2.0
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32267287</id>
+        <link href="https://news.ycombinator.com/item?id=32267287"/>
+        <updated>2022-07-28T17:12:36.000Z</updated>
+        <summary type="html"><![CDATA[EdgeDB 2.0]]></summary>
+        <author>
+            <name>syrusakbary</name>
+            <uri>https://news.ycombinator.com/user?id=syrusakbary</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联邦调查局隐瞒对美国人的保险箱进行突击检查的细节
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32267266</id>
+        <link href="https://news.ycombinator.com/item?id=32267266"/>
+        <updated>2022-07-28T17:11:23.000Z</updated>
+        <summary type="html"><![CDATA[FBI is hiding details about a raid on Americans’ safe deposit boxes]]></summary>
+        <author>
+            <name>theflyingelvis</name>
+            <uri>https://news.ycombinator.com/user?id=theflyingelvis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS US-EAST-2中断
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32267222</id>
+        <link href="https://news.ycombinator.com/item?id=32267222"/>
+        <updated>2022-07-28T17:09:05.000Z</updated>
+        <summary type="html"><![CDATA[AWS us-east-2 outage]]></summary>
+        <author>
+            <name>jchen42</name>
+            <uri>https://news.ycombinator.com/user?id=jchen42</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[S3并没有变得更便宜
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32266414</id>
+        <link href="https://news.ycombinator.com/item?id=32266414"/>
+        <updated>2022-07-28T16:17:51.000Z</updated>
+        <summary type="html"><![CDATA[S3 isn't getting cheaper]]></summary>
+        <author>
+            <name>rckrd</name>
+            <uri>https://news.ycombinator.com/user?id=rckrd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西洋菜 - Duolingo的烹饪方法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32266086</id>
+        <link href="https://news.ycombinator.com/item?id=32266086"/>
+        <updated>2022-07-28T15:57:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Parsnip – Duolingo for Cooking]]></summary>
+        <author>
+            <name>mizzao</name>
+            <uri>https://news.ycombinator.com/user?id=mizzao</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的新闻通讯每月赚取2千美元，有7千名订阅者 - AMA
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32265223</id>
+        <link href="https://news.ycombinator.com/item?id=32265223"/>
+        <updated>2022-07-28T14:57:27.000Z</updated>
+        <summary type="html"><![CDATA[My newsletter is making $2k per month with 7k subscribers – AMA]]></summary>
+        <author>
+            <name>ryangilbert</name>
+            <uri>https://news.ycombinator.com/user?id=ryangilbert</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是的，社交媒体正在破坏民主
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32265000</id>
+        <link href="https://news.ycombinator.com/item?id=32265000"/>
+        <updated>2022-07-28T14:42:59.000Z</updated>
+        <summary type="html"><![CDATA[Yes, social media is undermining democracy]]></summary>
+        <author>
+            <name>samizdis</name>
+            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我赢得了对向我发送未经请求的短信的一方的诉讼
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32264938</id>
+        <link href="https://news.ycombinator.com/item?id=32264938"/>
+        <updated>2022-07-28T14:39:09.000Z</updated>
+        <summary type="html"><![CDATA[I won a suit against a party that sent me an unsolicited text message]]></summary>
+        <author>
+            <name>MrDunham</name>
+            <uri>https://news.ycombinator.com/user?id=MrDunham</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[众议院民主党人将提议禁止立法者的股票交易--报告
 ]]></title>
@@ -7093,126 +7213,6 @@
         <author>
             <name>raldi</name>
             <uri>https://news.ycombinator.com/user?id=raldi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三箭资本公司已经拖欠了一笔价值超过6.7亿美元的贷款
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31895820</id>
-        <link href="https://news.ycombinator.com/item?id=31895820"/>
-        <updated>2022-06-27T15:21:27.000Z</updated>
-        <summary type="html"><![CDATA[Three Arrows Capital has defaulted on a loan worth more than $670M]]></summary>
-        <author>
-            <name>misiti3780</name>
-            <uri>https://news.ycombinator.com/user?id=misiti3780</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于数据库需要知道的事情
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31895623</id>
-        <link href="https://news.ycombinator.com/item?id=31895623"/>
-        <updated>2022-06-27T15:08:58.000Z</updated>
-        <summary type="html"><![CDATA[Things to know about databases]]></summary>
-        <author>
-            <name>grech</name>
-            <uri>https://news.ycombinator.com/user?id=grech</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果公司的说法是，为了安全，它禁止使用其他浏览器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31894690</id>
-        <link href="https://news.ycombinator.com/item?id=31894690"/>
-        <updated>2022-06-27T14:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Apple's claim is that it bans other browsers for security]]></summary>
-        <author>
-            <name>mtomweb</name>
-            <uri>https://news.ycombinator.com/user?id=mtomweb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何让初级雇员在远程工作中获得成功
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31893408</id>
-        <link href="https://news.ycombinator.com/item?id=31893408"/>
-        <updated>2022-06-27T12:10:51.000Z</updated>
-        <summary type="html"><![CDATA[How to set junior employees up for success in remote]]></summary>
-        <author>
-            <name>melanieb421</name>
-            <uri>https://news.ycombinator.com/user?id=melanieb421</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊正在恐吓和骚扰蒙特利尔的组织工人
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31891907</id>
-        <link href="https://news.ycombinator.com/item?id=31891907"/>
-        <updated>2022-06-27T08:23:09.000Z</updated>
-        <summary type="html"><![CDATA[Amazon is intimidating and harassing organizing workers in Montreal]]></summary>
-        <author>
-            <name>hubraumhugo</name>
-            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Outlook扫描进入收件箱的电子邮件，并将所有发现的URL发送至Bing
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31892299</id>
-        <link href="https://news.ycombinator.com/item?id=31892299"/>
-        <updated>2022-06-27T09:26:11.000Z</updated>
-        <summary type="html"><![CDATA[Outlook scans emails arriving in your inbox and sends all found URLs to Bing]]></summary>
-        <author>
-            <name>rsbadger</name>
-            <uri>https://news.ycombinator.com/user?id=rsbadger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSnitch是Little Snitch应用防火墙的一个GNU/Linux端口。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31876220</id>
-        <link href="https://news.ycombinator.com/item?id=31876220"/>
-        <updated>2022-06-25T15:51:33.000Z</updated>
-        <summary type="html"><![CDATA[OpenSnitch is a GNU/Linux port of the Little Snitch application firewall]]></summary>
-        <author>
-            <name>btdmaster</name>
-            <uri>https://news.ycombinator.com/user?id=btdmaster</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 3.11有什么新内容？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31888624</id>
-        <link href="https://news.ycombinator.com/item?id=31888624"/>
-        <updated>2022-06-26T22:14:59.000Z</updated>
-        <summary type="html"><![CDATA[What's New in Python 3.11?]]></summary>
-        <author>
-            <name>sanketsaurav</name>
-            <uri>https://news.ycombinator.com/user?id=sanketsaurav</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps是一种失败
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31887322</id>
-        <link href="https://news.ycombinator.com/item?id=31887322"/>
-        <updated>2022-06-26T19:50:48.000Z</updated>
-        <summary type="html"><![CDATA[DevOps is a failure]]></summary>
-        <author>
-            <name>blopeur</name>
-            <uri>https://news.ycombinator.com/user?id=blopeur</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[闲置的CPU是做什么的？(2014)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31887202</id>
-        <link href="https://news.ycombinator.com/item?id=31887202"/>
-        <updated>2022-06-26T19:36:54.000Z</updated>
-        <summary type="html"><![CDATA[What does an idle CPU do? (2014)]]></summary>
-        <author>
-            <name>ivanvas</name>
-            <uri>https://news.ycombinator.com/user?id=ivanvas</uri>
         </author>
     </entry>
 </feed>

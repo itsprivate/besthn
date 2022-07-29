@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 28 Jul 2022 18:51:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 08:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,86 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[華碩Zenfone 9
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32271660</link>
+            <guid>https://news.ycombinator.com/item?id=32271660</guid>
+            <pubDate>Fri, 29 Jul 2022 00:22:59 GMT</pubDate>
+            <description><![CDATA[Asus Zenfone 9]]></description>
+        </item>
+        <item>
+            <title><![CDATA[最佳蘋果手機
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32270815</link>
+            <guid>https://news.ycombinator.com/item?id=32270815</guid>
+            <pubDate>Thu, 28 Jul 2022 22:27:50 GMT</pubDate>
+            <description><![CDATA[The Best iPhone]]></description>
+        </item>
+        <item>
+            <title><![CDATA[EdgeDB 2.0
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32267287</link>
+            <guid>https://news.ycombinator.com/item?id=32267287</guid>
+            <pubDate>Thu, 28 Jul 2022 17:12:36 GMT</pubDate>
+            <description><![CDATA[EdgeDB 2.0]]></description>
+        </item>
+        <item>
+            <title><![CDATA[聯邦調查局隱瞞對美國人的保險箱進行突擊檢查的細節
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32267266</link>
+            <guid>https://news.ycombinator.com/item?id=32267266</guid>
+            <pubDate>Thu, 28 Jul 2022 17:11:23 GMT</pubDate>
+            <description><![CDATA[FBI is hiding details about a raid on Americans’ safe deposit boxes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[AWS US-EAST-2中斷
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32267222</link>
+            <guid>https://news.ycombinator.com/item?id=32267222</guid>
+            <pubDate>Thu, 28 Jul 2022 17:09:05 GMT</pubDate>
+            <description><![CDATA[AWS us-east-2 outage]]></description>
+        </item>
+        <item>
+            <title><![CDATA[S3並沒有變得更便宜
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32266414</link>
+            <guid>https://news.ycombinator.com/item?id=32266414</guid>
+            <pubDate>Thu, 28 Jul 2022 16:17:51 GMT</pubDate>
+            <description><![CDATA[S3 isn't getting cheaper]]></description>
+        </item>
+        <item>
+            <title><![CDATA[西洋菜 - Duolingo的烹飪方法
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32266086</link>
+            <guid>https://news.ycombinator.com/item?id=32266086</guid>
+            <pubDate>Thu, 28 Jul 2022 15:57:12 GMT</pubDate>
+            <description><![CDATA[Show HN: Parsnip – Duolingo for Cooking]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我的新聞通訊每月賺取2千美元，有7千名訂閱者 - AMA
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32265223</link>
+            <guid>https://news.ycombinator.com/item?id=32265223</guid>
+            <pubDate>Thu, 28 Jul 2022 14:57:27 GMT</pubDate>
+            <description><![CDATA[My newsletter is making $2k per month with 7k subscribers – AMA]]></description>
+        </item>
+        <item>
+            <title><![CDATA[是的，社交媒體正在破壞民主
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32265000</link>
+            <guid>https://news.ycombinator.com/item?id=32265000</guid>
+            <pubDate>Thu, 28 Jul 2022 14:42:59 GMT</pubDate>
+            <description><![CDATA[Yes, social media is undermining democracy]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我贏得了對向我發送未經請求的短信的一方的訴訟
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32264938</link>
+            <guid>https://news.ycombinator.com/item?id=32264938</guid>
+            <pubDate>Thu, 28 Jul 2022 14:39:09 GMT</pubDate>
+            <description><![CDATA[I won a suit against a party that sent me an unsolicited text message]]></description>
+        </item>
         <item>
             <title><![CDATA[眾議院民主黨人將提議禁止立法者的股票交易--報告
 ]]></title>
@@ -4733,86 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31883621</guid>
             <pubDate>Sun, 26 Jun 2022 13:17:26 GMT</pubDate>
             <description><![CDATA[Super Mario Bros warp zones were intended to work slightly differently [video]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[三箭資本公司已經拖欠了一筆價值超過6.7億美元的貸款
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31895820</link>
-            <guid>https://news.ycombinator.com/item?id=31895820</guid>
-            <pubDate>Mon, 27 Jun 2022 15:21:27 GMT</pubDate>
-            <description><![CDATA[Three Arrows Capital has defaulted on a loan worth more than $670M]]></description>
-        </item>
-        <item>
-            <title><![CDATA[關於數據庫需要知道的事情
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31895623</link>
-            <guid>https://news.ycombinator.com/item?id=31895623</guid>
-            <pubDate>Mon, 27 Jun 2022 15:08:58 GMT</pubDate>
-            <description><![CDATA[Things to know about databases]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蘋果公司的說法是，為了安全，它禁止使用其他瀏覽器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31894690</link>
-            <guid>https://news.ycombinator.com/item?id=31894690</guid>
-            <pubDate>Mon, 27 Jun 2022 14:00:05 GMT</pubDate>
-            <description><![CDATA[Apple's claim is that it bans other browsers for security]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何讓初級僱員在遠程工作中獲得成功
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31893408</link>
-            <guid>https://news.ycombinator.com/item?id=31893408</guid>
-            <pubDate>Mon, 27 Jun 2022 12:10:51 GMT</pubDate>
-            <description><![CDATA[How to set junior employees up for success in remote]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亞馬遜正在恐嚇和騷擾蒙特利爾的組織工人
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31891907</link>
-            <guid>https://news.ycombinator.com/item?id=31891907</guid>
-            <pubDate>Mon, 27 Jun 2022 08:23:09 GMT</pubDate>
-            <description><![CDATA[Amazon is intimidating and harassing organizing workers in Montreal]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Outlook掃描進入收件箱的電子郵件，並將所有發現的URL發送至Bing
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31892299</link>
-            <guid>https://news.ycombinator.com/item?id=31892299</guid>
-            <pubDate>Mon, 27 Jun 2022 09:26:11 GMT</pubDate>
-            <description><![CDATA[Outlook scans emails arriving in your inbox and sends all found URLs to Bing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[OpenSnitch是Little Snitch應用防火牆的一個GNU/Linux端口。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31876220</link>
-            <guid>https://news.ycombinator.com/item?id=31876220</guid>
-            <pubDate>Sat, 25 Jun 2022 15:51:33 GMT</pubDate>
-            <description><![CDATA[OpenSnitch is a GNU/Linux port of the Little Snitch application firewall]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Python 3.11有什麼新內容？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31888624</link>
-            <guid>https://news.ycombinator.com/item?id=31888624</guid>
-            <pubDate>Sun, 26 Jun 2022 22:14:59 GMT</pubDate>
-            <description><![CDATA[What's New in Python 3.11?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DevOps是一種失敗
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31887322</link>
-            <guid>https://news.ycombinator.com/item?id=31887322</guid>
-            <pubDate>Sun, 26 Jun 2022 19:50:48 GMT</pubDate>
-            <description><![CDATA[DevOps is a failure]]></description>
-        </item>
-        <item>
-            <title><![CDATA[閒置的CPU是做什麼的？(2014)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31887202</link>
-            <guid>https://news.ycombinator.com/item?id=31887202</guid>
-            <pubDate>Sun, 26 Jun 2022 19:36:54 GMT</pubDate>
-            <description><![CDATA[What does an idle CPU do? (2014)]]></description>
         </item>
     </channel>
 </rss>
