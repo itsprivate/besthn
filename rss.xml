@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 29 Jul 2022 14:00:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 14:33:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[酥脆的 "10fps"（2020）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32272358</link>
+            <guid>https://news.ycombinator.com/item?id=32272358</guid>
+            <pubDate>Fri, 29 Jul 2022 02:02:24 GMT</pubDate>
+            <description><![CDATA[Buttery Smooth “10fps” (2020)]]></description>
+        </item>
         <item>
             <title><![CDATA[华硕推出了大约40款名为 "Eee PC "的笔记本电脑（2021年）。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31890048</guid>
             <pubDate>Mon, 27 Jun 2022 02:41:55 GMT</pubDate>
             <description><![CDATA[Why America can’t build]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Meta公司正邀请研究人员挑剔其GPT-3版本中的缺陷
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31897101</link>
-            <guid>https://news.ycombinator.com/item?id=31897101</guid>
-            <pubDate>Mon, 27 Jun 2022 16:41:06 GMT</pubDate>
-            <description><![CDATA[Meta is inviting researchers to pick apart the flaws in its version of GPT-3]]></description>
         </item>
     </channel>
 </rss>
