@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-29T10:58:29.738Z</updated>
+    <updated>2022-07-29T11:47:54.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每个城市最有名的人的地图
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32274077</id>
+        <link href="https://news.ycombinator.com/item?id=32274077"/>
+        <updated>2022-07-29T07:32:02.000Z</updated>
+        <summary type="html"><![CDATA[Map with the most famous people from every city]]></summary>
+        <author>
+            <name>jbesomi</name>
+            <uri>https://news.ycombinator.com/user?id=jbesomi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卡尔曼滤波器只是一个低通滤波器吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bryanrasmussen</name>
             <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PRQL 0.2 - 一个更好的SQL
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31897430</id>
-        <link href="https://news.ycombinator.com/item?id=31897430"/>
-        <updated>2022-06-27T17:03:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PRQL 0.2 – a better SQL]]></summary>
-        <author>
-            <name>maximilianroos</name>
-            <uri>https://news.ycombinator.com/user?id=maximilianroos</uri>
         </author>
     </entry>
 </feed>

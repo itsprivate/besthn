@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32274077",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32274077",
+            "title": "每个城市最有名的人的地图\n",
+            "summary": "Map with the most famous people from every city",
+            "date_modified": "2022-07-29T07:32:02.000Z",
+            "author": {
+                "name": "jbesomi",
+                "url": "https://news.ycombinator.com/user?id=jbesomi"
+            },
+            "_original_headline": "Map with the most famous people from every city",
+            "_original_url": "https://tjukanovt.github.io/notable-people",
+            "_sensitive": false,
+            "_score": 271
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32271351",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32271351",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.futurity.org/turtles-aging-lifespans-2758992-2/",
             "_sensitive": false,
             "_score": 203
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31897430",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31897430",
-            "title": "PRQL 0.2 - 一个更好的SQL\n",
-            "summary": "Show HN: PRQL 0.2 – a better SQL",
-            "date_modified": "2022-06-27T17:03:33.000Z",
-            "author": {
-                "name": "maximilianroos",
-                "url": "https://news.ycombinator.com/user?id=maximilianroos"
-            },
-            "_original_headline": "Show HN: PRQL 0.2 – a better SQL",
-            "_original_url": "https://github.com/prql/prql",
-            "_sensitive": false,
-            "_score": 202
         }
     ]
 }
