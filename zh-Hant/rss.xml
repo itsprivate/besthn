@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 29 Jul 2022 14:47:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 15:59:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為什麼Windows註冊表在技術上很糟糕 (2010)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32275078</link>
+            <guid>https://news.ycombinator.com/item?id=32275078</guid>
+            <pubDate>Fri, 29 Jul 2022 10:08:11 GMT</pubDate>
+            <description><![CDATA[Why the Windows Registry sucks technically (2010)]]></description>
+        </item>
         <item>
             <title><![CDATA[謠言。谷歌體育場可能會被關閉
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31899781</guid>
             <pubDate>Mon, 27 Jun 2022 19:45:25 GMT</pubDate>
             <description><![CDATA[Flu vaccination linked to 40% reduced risk of Alzheimer’s disease]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用豆子、扁豆和彩色大米檢測未經授權的物理訪問
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31897530</link>
-            <guid>https://news.ycombinator.com/item?id=31897530</guid>
-            <pubDate>Mon, 27 Jun 2022 17:10:25 GMT</pubDate>
-            <description><![CDATA[Detecting unauthorized physical access with beans, lentils and colored rice]]></description>
         </item>
     </channel>
 </rss>

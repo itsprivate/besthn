@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-29T14:47:25.380Z</updated>
+    <updated>2022-07-29T15:59:19.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么Windows注册表在技术上很糟糕 (2010)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32275078</id>
+        <link href="https://news.ycombinator.com/item?id=32275078"/>
+        <updated>2022-07-29T10:08:11.000Z</updated>
+        <summary type="html"><![CDATA[Why the Windows Registry sucks technically (2010)]]></summary>
+        <author>
+            <name>azalemeth</name>
+            <uri>https://news.ycombinator.com/user?id=azalemeth</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谣言。谷歌体育场可能会被关闭
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cachecrab</name>
             <uri>https://news.ycombinator.com/user?id=cachecrab</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用豆子、扁豆和彩色大米检测未经授权的物理访问
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31897530</id>
-        <link href="https://news.ycombinator.com/item?id=31897530"/>
-        <updated>2022-06-27T17:10:25.000Z</updated>
-        <summary type="html"><![CDATA[Detecting unauthorized physical access with beans, lentils and colored rice]]></summary>
-        <author>
-            <name>layer8</name>
-            <uri>https://news.ycombinator.com/user?id=layer8</uri>
         </author>
     </entry>
 </feed>
