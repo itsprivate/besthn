@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 30 Jul 2022 18:52:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 19:25:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美国监管机构将对首个小型核反应堆设计进行认证
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32282632</link>
+            <guid>https://news.ycombinator.com/item?id=32282632</guid>
+            <pubDate>Fri, 29 Jul 2022 22:56:00 GMT</pubDate>
+            <description><![CDATA[US regulators will certify first small nuclear reactor design]]></description>
+        </item>
         <item>
             <title><![CDATA[建议对Wi-Fi路由器和接入点进行设置
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31889785</guid>
             <pubDate>Mon, 27 Jun 2022 01:45:52 GMT</pubDate>
             <description><![CDATA[USDA ignoring the science on low-carb diets]]></description>
-        </item>
-        <item>
-            <title><![CDATA[加州总检察长泄露枪支所有者的私人信息
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31910724</link>
-            <guid>https://news.ycombinator.com/item?id=31910724</guid>
-            <pubDate>Tue, 28 Jun 2022 17:45:30 GMT</pubDate>
-            <description><![CDATA[Gun owners’ private information leaked by California Attorney General]]></description>
         </item>
     </channel>
 </rss>

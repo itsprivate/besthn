@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-30T18:52:35.804Z</updated>
+    <updated>2022-07-30T19:25:59.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國監管機構將對首個小型核反應堆設計進行認證
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32282632</id>
+        <link href="https://news.ycombinator.com/item?id=32282632"/>
+        <updated>2022-07-29T22:56:00.000Z</updated>
+        <summary type="html"><![CDATA[US regulators will certify first small nuclear reactor design]]></summary>
+        <author>
+            <name>papa-whisky</name>
+            <uri>https://news.ycombinator.com/user?id=papa-whisky</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[建議對Wi-Fi路由器和接入點進行設置
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>RelaxedTree</name>
             <uri>https://news.ycombinator.com/user?id=RelaxedTree</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加州總檢察長洩露槍支所有者的私人信息
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31910724</id>
-        <link href="https://news.ycombinator.com/item?id=31910724"/>
-        <updated>2022-06-28T17:45:30.000Z</updated>
-        <summary type="html"><![CDATA[Gun owners’ private information leaked by California Attorney General]]></summary>
-        <author>
-            <name>Acrobatic_Road</name>
-            <uri>https://news.ycombinator.com/user?id=Acrobatic_Road</uri>
         </author>
     </entry>
 </feed>
