@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 30 Jul 2022 14:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 14:46:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[HypeScript。在TypeScript自己的類型系統中簡化TypeScript的類型系統
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32259934</link>
+            <guid>https://news.ycombinator.com/item?id=32259934</guid>
+            <pubDate>Thu, 28 Jul 2022 02:42:33 GMT</pubDate>
+            <description><![CDATA[HypeScript: Simplified TypeScript type system in TypeScript's own type system]]></description>
+        </item>
         <item>
             <title><![CDATA[沒有人能夠優化幸福
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31909183</guid>
             <pubDate>Tue, 28 Jun 2022 15:42:42 GMT</pubDate>
             <description><![CDATA[Some-assembly-required: An approachable introduction to assembly]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fenix發佈兩年後，Firefox插件在安卓上仍不可用
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31905948</link>
-            <guid>https://news.ycombinator.com/item?id=31905948</guid>
-            <pubDate>Tue, 28 Jun 2022 10:02:17 GMT</pubDate>
-            <description><![CDATA[Firefox addons are still unavailable on Android, two years after Fenix release]]></description>
         </item>
     </channel>
 </rss>
