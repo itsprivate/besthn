@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32286408",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32286408",
+            "title": "無服務器的DNS。邊緣的自我託管的DNS解析器\n",
+            "summary": "Serverless DNS: Self-hosted DNS resolver at the edge",
+            "date_modified": "2022-07-30T12:54:22.000Z",
+            "author": {
+                "name": "saltymimir",
+                "url": "https://news.ycombinator.com/user?id=saltymimir"
+            },
+            "_original_headline": "Serverless DNS: Self-hosted DNS resolver at the edge",
+            "_original_url": "https://github.com/serverless-dns/serverless-dns",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32287902",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32287902",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.bleepingcomputer.com/news/security/fbi-stolen-pii-and-deepfakes-used-to-apply-for-remote-tech-jobs/",
             "_sensitive": false,
             "_score": 210
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31908186",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31908186",
-            "title": "SQLite還是PostgreSQL？這很複雜\n",
-            "summary": "SQLite or PostgreSQL? It's Complicated",
-            "date_modified": "2022-06-28T14:33:14.000Z",
-            "author": {
-                "name": "makaimc",
-                "url": "https://news.ycombinator.com/user?id=makaimc"
-            },
-            "_original_headline": "SQLite or PostgreSQL? It's Complicated",
-            "_original_url": "https://www.twilio.com/blog/sqlite-postgresql-complicated",
-            "_sensitive": false,
-            "_score": 207
         }
     ]
 }

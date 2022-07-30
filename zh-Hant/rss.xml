@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 30 Jul 2022 21:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 23:00:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[無服務器的DNS。邊緣的自我託管的DNS解析器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32286408</link>
+            <guid>https://news.ycombinator.com/item?id=32286408</guid>
+            <pubDate>Sat, 30 Jul 2022 12:54:22 GMT</pubDate>
+            <description><![CDATA[Serverless DNS: Self-hosted DNS resolver at the edge]]></description>
+        </item>
         <item>
             <title><![CDATA[ImHex - 一個十六進制編輯器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31908874</guid>
             <pubDate>Tue, 28 Jun 2022 15:21:13 GMT</pubDate>
             <description><![CDATA[FBI: Stolen PII and deepfakes used to apply for remote tech jobs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SQLite還是PostgreSQL？這很複雜
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31908186</link>
-            <guid>https://news.ycombinator.com/item?id=31908186</guid>
-            <pubDate>Tue, 28 Jun 2022 14:33:14 GMT</pubDate>
-            <description><![CDATA[SQLite or PostgreSQL? It's Complicated]]></description>
         </item>
     </channel>
 </rss>
