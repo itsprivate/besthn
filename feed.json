@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32280379",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32280379",
+            "title": "作为一种焦虑症的野心\n",
+            "summary": "Ambition as an anxiety disorder",
+            "date_modified": "2022-07-29T18:42:03.000Z",
+            "author": {
+                "name": "kiyanwang",
+                "url": "https://news.ycombinator.com/user?id=kiyanwang"
+            },
+            "_original_headline": "Ambition as an anxiety disorder",
+            "_original_url": "https://moontower.substack.com/p/moontower-154",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32284375",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32284375",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.ft.com/content/cff23e36-b507-4717-8830-8b06741c8fd5",
             "_sensitive": false,
             "_score": 229
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31907374",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31907374",
-            "title": "告诉HN：我使用CloudFront和Lambda Edge对自己进行DDoS攻击，得到了4.5万美元的账单\n",
-            "summary": "Tell HN: I DDoSed myself using CloudFront and Lambda Edge and got a $4.5k bill",
-            "date_modified": "2022-06-28T13:23:44.000Z",
-            "author": {
-                "name": "huksley",
-                "url": "https://news.ycombinator.com/user?id=huksley"
-            },
-            "_original_headline": "Tell HN: I DDoSed myself using CloudFront and Lambda Edge and got a $4.5k bill",
-            "_original_url": "https://news.ycombinator.com/item?id=31907374",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }
