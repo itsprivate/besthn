@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-30T16:41:16.210Z</updated>
+    <updated>2022-07-30T18:52:35.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[建議對Wi-Fi路由器和接入點進行設置
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32285638</id>
+        <link href="https://news.ycombinator.com/item?id=32285638"/>
+        <updated>2022-07-30T10:25:01.000Z</updated>
+        <summary type="html"><![CDATA[Recommended settings for Wi-Fi routers and access points]]></summary>
+        <author>
+            <name>butz</name>
+            <uri>https://news.ycombinator.com/user?id=butz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作為一種焦慮症的野心
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Acrobatic_Road</name>
             <uri>https://news.ycombinator.com/user?id=Acrobatic_Road</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[萬事達卡和簽證是色情業的事實上的監管者
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31912763</id>
-        <link href="https://news.ycombinator.com/item?id=31912763"/>
-        <updated>2022-06-28T20:43:29.000Z</updated>
-        <summary type="html"><![CDATA[Mastercard and visa are the de facto regulators of porn]]></summary>
-        <author>
-            <name>notnice</name>
-            <uri>https://news.ycombinator.com/user?id=notnice</uri>
         </author>
     </entry>
 </feed>
