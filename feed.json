@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32282942",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32282942",
+            "title": "C++异步框架\n",
+            "summary": "C++ Asynchronous Framework",
+            "date_modified": "2022-07-29T23:44:22.000Z",
+            "author": {
+                "name": "shcheklein",
+                "url": "https://news.ycombinator.com/user?id=shcheklein"
+            },
+            "_original_headline": "C++ Asynchronous Framework",
+            "_original_url": "https://userver.tech/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32277998",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32277998",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://posthog.com/blog/what-to-ask-in-interviews",
             "_sensitive": false,
             "_score": 217
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31903379",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31903379",
-            "title": "为什么中土世界没有工业革命？\n",
-            "summary": "Why hasn't Middle Earth had an Industrial Revolution?",
-            "date_modified": "2022-06-28T02:15:40.000Z",
-            "author": {
-                "name": "Majromax",
-                "url": "https://news.ycombinator.com/user?id=Majromax"
-            },
-            "_original_headline": "Why hasn't Middle Earth had an Industrial Revolution?",
-            "_original_url": "https://featherlessbipeds.substack.com/p/why-didnt-gandalf-own-a-colt-45",
-            "_sensitive": false,
-            "_score": 204
         }
     ]
 }

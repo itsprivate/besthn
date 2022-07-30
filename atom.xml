@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-30T09:26:57.649Z</updated>
+    <updated>2022-07-30T11:57:26.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[C++异步框架
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32282942</id>
+        <link href="https://news.ycombinator.com/item?id=32282942"/>
+        <updated>2022-07-29T23:44:22.000Z</updated>
+        <summary type="html"><![CDATA[C++ Asynchronous Framework]]></summary>
+        <author>
+            <name>shcheklein</name>
+            <uri>https://news.ycombinator.com/user?id=shcheklein</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SQL的语义差异
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>james_impliu</name>
             <uri>https://news.ycombinator.com/user?id=james_impliu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么中土世界没有工业革命？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31903379</id>
-        <link href="https://news.ycombinator.com/item?id=31903379"/>
-        <updated>2022-06-28T02:15:40.000Z</updated>
-        <summary type="html"><![CDATA[Why hasn't Middle Earth had an Industrial Revolution?]]></summary>
-        <author>
-            <name>Majromax</name>
-            <uri>https://news.ycombinator.com/user?id=Majromax</uri>
         </author>
     </entry>
 </feed>
