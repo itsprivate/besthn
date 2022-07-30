@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-30T19:25:59.020Z</updated>
+    <updated>2022-07-30T21:25:44.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ImHex - 一個十六進制編輯器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32287902</id>
+        <link href="https://news.ycombinator.com/item?id=32287902"/>
+        <updated>2022-07-30T16:13:20.000Z</updated>
+        <summary type="html"><![CDATA[ImHex – A Hex Editor]]></summary>
+        <author>
+            <name>liberia</name>
+            <uri>https://news.ycombinator.com/user?id=liberia</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國監管機構將對首個小型核反應堆設計進行認證
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>makaimc</name>
             <uri>https://news.ycombinator.com/user?id=makaimc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國農業部無視低碳水化合物飲食的科學性
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31889785</id>
-        <link href="https://news.ycombinator.com/item?id=31889785"/>
-        <updated>2022-06-27T01:45:52.000Z</updated>
-        <summary type="html"><![CDATA[USDA ignoring the science on low-carb diets]]></summary>
-        <author>
-            <name>RelaxedTree</name>
-            <uri>https://news.ycombinator.com/user?id=RelaxedTree</uri>
         </author>
     </entry>
 </feed>

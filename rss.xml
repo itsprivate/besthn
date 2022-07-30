@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 30 Jul 2022 19:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 21:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[ImHex - 一个十六进制编辑器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32287902</link>
+            <guid>https://news.ycombinator.com/item?id=32287902</guid>
+            <pubDate>Sat, 30 Jul 2022 16:13:20 GMT</pubDate>
+            <description><![CDATA[ImHex – A Hex Editor]]></description>
+        </item>
         <item>
             <title><![CDATA[美国监管机构将对首个小型核反应堆设计进行认证
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31908186</guid>
             <pubDate>Tue, 28 Jun 2022 14:33:14 GMT</pubDate>
             <description><![CDATA[SQLite or PostgreSQL? It's Complicated]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国农业部无视低碳水化合物饮食的科学性
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31889785</link>
-            <guid>https://news.ycombinator.com/item?id=31889785</guid>
-            <pubDate>Mon, 27 Jun 2022 01:45:52 GMT</pubDate>
-            <description><![CDATA[USDA ignoring the science on low-carb diets]]></description>
         </item>
     </channel>
 </rss>
