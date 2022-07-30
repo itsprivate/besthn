@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 30 Jul 2022 11:57:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 13:44:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[親愛的初創企業。我討厭訂閱服務
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32285242</link>
+            <guid>https://news.ycombinator.com/item?id=32285242</guid>
+            <pubDate>Sat, 30 Jul 2022 08:33:50 GMT</pubDate>
+            <description><![CDATA[Dear startups: I hate subscription services]]></description>
+        </item>
         <item>
             <title><![CDATA[C++異步框架
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31908170</guid>
             <pubDate>Tue, 28 Jun 2022 14:32:02 GMT</pubDate>
             <description><![CDATA[Fresh is a new full stack web framework for Deno]]></description>
-        </item>
-        <item>
-            <title><![CDATA[工程師應該問，但不應該問的工作面試問題
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31906933</link>
-            <guid>https://news.ycombinator.com/item?id=31906933</guid>
-            <pubDate>Tue, 28 Jun 2022 12:45:43 GMT</pubDate>
-            <description><![CDATA[Job interview questions engineers should ask, but don't]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-30T11:57:26.484Z</updated>
+    <updated>2022-07-30T13:44:43.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亲爱的初创企业。我讨厌订阅服务
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32285242</id>
+        <link href="https://news.ycombinator.com/item?id=32285242"/>
+        <updated>2022-07-30T08:33:50.000Z</updated>
+        <summary type="html"><![CDATA[Dear startups: I hate subscription services]]></summary>
+        <author>
+            <name>Hbruz0</name>
+            <uri>https://news.ycombinator.com/user?id=Hbruz0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C++异步框架
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>maeln</name>
             <uri>https://news.ycombinator.com/user?id=maeln</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工程师应该问，但不应该问的工作面试问题
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31906933</id>
-        <link href="https://news.ycombinator.com/item?id=31906933"/>
-        <updated>2022-06-28T12:45:43.000Z</updated>
-        <summary type="html"><![CDATA[Job interview questions engineers should ask, but don't]]></summary>
-        <author>
-            <name>james_impliu</name>
-            <uri>https://news.ycombinator.com/user?id=james_impliu</uri>
         </author>
     </entry>
 </feed>
