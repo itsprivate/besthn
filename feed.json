@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32277998",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32277998",
+            "title": "SQL的语义差异\n",
+            "summary": "Semantic Diff for SQL",
+            "date_modified": "2022-07-29T15:14:48.000Z",
+            "author": {
+                "name": "s0ck_r4w",
+                "url": "https://news.ycombinator.com/user?id=s0ck_r4w"
+            },
+            "_original_headline": "Semantic Diff for SQL",
+            "_original_url": "https://github.com/tobymao/sqlglot/blob/main/posts/sql_diff.md",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32281536",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32281536",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://featherlessbipeds.substack.com/p/why-didnt-gandalf-own-a-colt-45",
             "_sensitive": false,
             "_score": 204
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31899775",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31899775",
-            "title": "\"雅达利是非常、非常困难的\"--50年后诺兰-布什内尔谈雅达利\n",
-            "summary": "“Atari Was Very, Very Hard” – Nolan Bushnell on Atari, 50 Years Later",
-            "date_modified": "2022-06-27T19:45:10.000Z",
-            "author": {
-                "name": "bookofjoe",
-                "url": "https://news.ycombinator.com/user?id=bookofjoe"
-            },
-            "_original_headline": "“Atari Was Very, Very Hard” – Nolan Bushnell on Atari, 50 Years Later",
-            "_original_url": "https://www.howtogeek.com/812246/atari-was-very-very-hard-nolan-bushnell-on-atari-50-years-later/",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }

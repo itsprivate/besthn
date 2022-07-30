@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-30T06:33:45.545Z</updated>
+    <updated>2022-07-30T09:26:57.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SQL的语义差异
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32277998</id>
+        <link href="https://news.ycombinator.com/item?id=32277998"/>
+        <updated>2022-07-29T15:14:48.000Z</updated>
+        <summary type="html"><![CDATA[Semantic Diff for SQL]]></summary>
+        <author>
+            <name>s0ck_r4w</name>
+            <uri>https://news.ycombinator.com/user?id=s0ck_r4w</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Knuth改变了对伯努利数B_1的看法
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Majromax</name>
             <uri>https://news.ycombinator.com/user?id=Majromax</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["雅达利是非常、非常困难的"--50年后诺兰-布什内尔谈雅达利
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31899775</id>
-        <link href="https://news.ycombinator.com/item?id=31899775"/>
-        <updated>2022-06-27T19:45:10.000Z</updated>
-        <summary type="html"><![CDATA[“Atari Was Very, Very Hard” – Nolan Bushnell on Atari, 50 Years Later]]></summary>
-        <author>
-            <name>bookofjoe</name>
-            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
         </author>
     </entry>
 </feed>
