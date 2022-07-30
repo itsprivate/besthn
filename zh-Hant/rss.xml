@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 30 Jul 2022 05:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 06:33:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Knuth改變了對伯努利數B_1的看法
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32281536</link>
+            <guid>https://news.ycombinator.com/item?id=32281536</guid>
+            <pubDate>Fri, 29 Jul 2022 20:43:13 GMT</pubDate>
+            <description><![CDATA[Knuth changes his mind on Bernoulli number B_1]]></description>
+        </item>
         <item>
             <title><![CDATA[遠程認證即將回歸
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31899775</guid>
             <pubDate>Mon, 27 Jun 2022 19:45:10 GMT</pubDate>
             <description><![CDATA[“Atari Was Very, Very Hard” – Nolan Bushnell on Atari, 50 Years Later]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在速度上的tolower()的批量化
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31900872</link>
-            <guid>https://news.ycombinator.com/item?id=31900872</guid>
-            <pubDate>Mon, 27 Jun 2022 21:12:16 GMT</pubDate>
-            <description><![CDATA[tolower() in bulk at speed]]></description>
         </item>
     </channel>
 </rss>

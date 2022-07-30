@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-30T05:15:42.237Z</updated>
+    <updated>2022-07-30T06:33:45.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Knuth改變了對伯努利數B_1的看法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32281536</id>
+        <link href="https://news.ycombinator.com/item?id=32281536"/>
+        <updated>2022-07-29T20:43:13.000Z</updated>
+        <summary type="html"><![CDATA[Knuth changes his mind on Bernoulli number B_1]]></summary>
+        <author>
+            <name>ColinWright</name>
+            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[遠程認證即將回歸
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bookofjoe</name>
             <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在速度上的tolower()的批量化
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31900872</id>
-        <link href="https://news.ycombinator.com/item?id=31900872"/>
-        <updated>2022-06-27T21:12:16.000Z</updated>
-        <summary type="html"><![CDATA[tolower() in bulk at speed]]></summary>
-        <author>
-            <name>fanf2</name>
-            <uri>https://news.ycombinator.com/user?id=fanf2</uri>
         </author>
     </entry>
 </feed>
