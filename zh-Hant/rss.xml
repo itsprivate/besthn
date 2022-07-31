@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 30 Jul 2022 23:00:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 02:48:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[羅傑斯先生起訴了三K黨
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32288309</link>
+            <guid>https://news.ycombinator.com/item?id=32288309</guid>
+            <pubDate>Sat, 30 Jul 2022 16:58:56 GMT</pubDate>
+            <description><![CDATA[Mr. Rogers sued the KKK]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Tor正在與俄羅斯的審查制度作鬥爭並將其擊敗
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32288058</link>
+            <guid>https://news.ycombinator.com/item?id=32288058</guid>
+            <pubDate>Sat, 30 Jul 2022 16:32:46 GMT</pubDate>
+            <description><![CDATA[Tor is fighting and beating Russian censorship]]></description>
+        </item>
         <item>
             <title><![CDATA[無服務器的DNS。邊緣的自我託管的DNS解析器
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31914288</guid>
             <pubDate>Tue, 28 Jun 2022 23:09:02 GMT</pubDate>
             <description><![CDATA[Thunderbird 102 Released]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我按速度對新聞網站進行排名
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31910622</link>
-            <guid>https://news.ycombinator.com/item?id=31910622</guid>
-            <pubDate>Tue, 28 Jun 2022 17:35:18 GMT</pubDate>
-            <description><![CDATA[Show HN: I ranked news websites by speed]]></description>
-        </item>
-        <item>
-            <title><![CDATA[聯邦調查局。盜取的PII和深層假象被用於申請遠程技術工作
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31908874</link>
-            <guid>https://news.ycombinator.com/item?id=31908874</guid>
-            <pubDate>Tue, 28 Jun 2022 15:21:13 GMT</pubDate>
-            <description><![CDATA[FBI: Stolen PII and deepfakes used to apply for remote tech jobs]]></description>
         </item>
     </channel>
 </rss>

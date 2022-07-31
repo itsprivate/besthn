@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32288309",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32288309",
+            "title": "羅傑斯先生起訴了三K黨\n",
+            "summary": "Mr. Rogers sued the KKK",
+            "date_modified": "2022-07-30T16:58:56.000Z",
+            "author": {
+                "name": "bryanrasmussen",
+                "url": "https://news.ycombinator.com/user?id=bryanrasmussen"
+            },
+            "_original_headline": "Mr. Rogers sued the KKK",
+            "_original_url": "https://allthatsinteresting.com/mr-rogers-sues-the-kkk",
+            "_sensitive": false,
+            "_score": 216
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32288058",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32288058",
+            "title": "Tor正在與俄羅斯的審查制度作鬥爭並將其擊敗\n",
+            "summary": "Tor is fighting and beating Russian censorship",
+            "date_modified": "2022-07-30T16:32:46.000Z",
+            "author": {
+                "name": "LinuxBender",
+                "url": "https://news.ycombinator.com/user?id=LinuxBender"
+            },
+            "_original_headline": "Tor is fighting and beating Russian censorship",
+            "_original_url": "https://www.wired.com/story/tor-browser-russia-blocks/",
+            "_sensitive": false,
+            "_score": 223
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32286408",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32286408",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://blog.thunderbird.net/2022/06/thunderbird-102-released-a-serious-upgrade-to-your-communication/",
             "_sensitive": false,
             "_score": 218
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31910622",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31910622",
-            "title": "我按速度對新聞網站進行排名\n",
-            "summary": "Show HN: I ranked news websites by speed",
-            "date_modified": "2022-06-28T17:35:18.000Z",
-            "author": {
-                "name": "bradgessler",
-                "url": "https://news.ycombinator.com/user?id=bradgessler"
-            },
-            "_original_headline": "Show HN: I ranked news websites by speed",
-            "_original_url": "https://legiblenews.com/speed",
-            "_sensitive": false,
-            "_score": 212
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31908874",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31908874",
-            "title": "聯邦調查局。盜取的PII和深層假象被用於申請遠程技術工作\n",
-            "summary": "FBI: Stolen PII and deepfakes used to apply for remote tech jobs",
-            "date_modified": "2022-06-28T15:21:13.000Z",
-            "author": {
-                "name": "mikece",
-                "url": "https://news.ycombinator.com/user?id=mikece"
-            },
-            "_original_headline": "FBI: Stolen PII and deepfakes used to apply for remote tech jobs",
-            "_original_url": "https://www.bleepingcomputer.com/news/security/fbi-stolen-pii-and-deepfakes-used-to-apply-for-remote-tech-jobs/",
-            "_sensitive": false,
-            "_score": 210
         }
     ]
 }

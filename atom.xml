@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-30T23:00:25.078Z</updated>
+    <updated>2022-07-31T02:48:39.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[罗杰斯先生起诉了三K党
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32288309</id>
+        <link href="https://news.ycombinator.com/item?id=32288309"/>
+        <updated>2022-07-30T16:58:56.000Z</updated>
+        <summary type="html"><![CDATA[Mr. Rogers sued the KKK]]></summary>
+        <author>
+            <name>bryanrasmussen</name>
+            <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tor正在与俄罗斯的审查制度作斗争并将其击败
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32288058</id>
+        <link href="https://news.ycombinator.com/item?id=32288058"/>
+        <updated>2022-07-30T16:32:46.000Z</updated>
+        <summary type="html"><![CDATA[Tor is fighting and beating Russian censorship]]></summary>
+        <author>
+            <name>LinuxBender</name>
+            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无服务器的DNS。边缘的自我托管的DNS解析器
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>moojacob</name>
             <uri>https://news.ycombinator.com/user?id=moojacob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我按速度对新闻网站进行排名
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31910622</id>
-        <link href="https://news.ycombinator.com/item?id=31910622"/>
-        <updated>2022-06-28T17:35:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I ranked news websites by speed]]></summary>
-        <author>
-            <name>bradgessler</name>
-            <uri>https://news.ycombinator.com/user?id=bradgessler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联邦调查局。盗取的PII和深层假象被用于申请远程技术工作
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31908874</id>
-        <link href="https://news.ycombinator.com/item?id=31908874"/>
-        <updated>2022-06-28T15:21:13.000Z</updated>
-        <summary type="html"><![CDATA[FBI: Stolen PII and deepfakes used to apply for remote tech jobs]]></summary>
-        <author>
-            <name>mikece</name>
-            <uri>https://news.ycombinator.com/user?id=mikece</uri>
         </author>
     </entry>
 </feed>
