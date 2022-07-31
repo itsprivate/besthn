@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 31 Jul 2022 02:48:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 03:57:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我研究了34個現實世界的頂級區塊鏈項目，所以你不必去研究。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32291213</link>
+            <guid>https://news.ycombinator.com/item?id=32291213</guid>
+            <pubDate>Sat, 30 Jul 2022 22:56:39 GMT</pubDate>
+            <description><![CDATA[I Looked into 34 Top Real-World Blockchain Projects So You Don’t Have To]]></description>
+        </item>
         <item>
             <title><![CDATA[羅傑斯先生起訴了三K黨
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31913057</guid>
             <pubDate>Tue, 28 Jun 2022 21:11:16 GMT</pubDate>
             <description><![CDATA[Pen and paper exercises in machine learning]]></description>
-        </item>
-        <item>
-            <title><![CDATA[雷鳥102發佈
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31914288</link>
-            <guid>https://news.ycombinator.com/item?id=31914288</guid>
-            <pubDate>Tue, 28 Jun 2022 23:09:02 GMT</pubDate>
-            <description><![CDATA[Thunderbird 102 Released]]></description>
         </item>
     </channel>
 </rss>
