@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32296952",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32296952",
+            "title": "LinkedIn正在将其在网上找到的工作岗位导入公司的档案中。\n",
+            "summary": "LinkedIn is importing job postings it finds online onto company's profiles",
+            "date_modified": "2022-07-31T17:07:48.000Z",
+            "author": {
+                "name": "gurchik",
+                "url": "https://news.ycombinator.com/user?id=gurchik"
+            },
+            "_original_headline": "LinkedIn is importing job postings it finds online onto company's profiles",
+            "_original_url": "https://news.ycombinator.com/item?id=32296952",
+            "_sensitive": false,
+            "_score": 218
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32294430",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32294430",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.pandasecurity.com/en/mediacenter/security/tiktok-privacy-faceprints/",
             "_sensitive": false,
             "_score": 241
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31918156",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31918156",
-            "title": "人类不能像以前认为的那样忍受高温度和高湿度\n",
-            "summary": "Humans can't endure temperatures and humidities as high as previously thought",
-            "date_modified": "2022-06-29T09:54:42.000Z",
-            "author": {
-                "name": "doener",
-                "url": "https://news.ycombinator.com/user?id=doener"
-            },
-            "_original_headline": "Humans can't endure temperatures and humidities as high as previously thought",
-            "_original_url": "https://www.psu.edu/news/research/story/humans-cant-endure-temperatures-and-humidities-high-previously-thought/",
-            "_sensitive": false,
-            "_score": 211
         }
     ]
 }

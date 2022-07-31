@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 31 Jul 2022 17:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 20:48:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[LinkedIn正在将其在网上找到的工作岗位导入公司的档案中。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32296952</link>
+            <guid>https://news.ycombinator.com/item?id=32296952</guid>
+            <pubDate>Sun, 31 Jul 2022 17:07:48 GMT</pubDate>
+            <description><![CDATA[LinkedIn is importing job postings it finds online onto company's profiles]]></description>
+        </item>
         <item>
             <title><![CDATA[肖尔，我来做
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31920756</guid>
             <pubDate>Wed, 29 Jun 2022 14:37:44 GMT</pubDate>
             <description><![CDATA[TikTok updated privacy policy to collect faceprints and voiceprints (2021)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[人类不能像以前认为的那样忍受高温度和高湿度
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31918156</link>
-            <guid>https://news.ycombinator.com/item?id=31918156</guid>
-            <pubDate>Wed, 29 Jun 2022 09:54:42 GMT</pubDate>
-            <description><![CDATA[Humans can't endure temperatures and humidities as high as previously thought]]></description>
         </item>
     </channel>
 </rss>

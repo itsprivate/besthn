@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-31T17:41:54.356Z</updated>
+    <updated>2022-07-31T20:48:11.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[LinkedIn正在将其在网上找到的工作岗位导入公司的档案中。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32296952</id>
+        <link href="https://news.ycombinator.com/item?id=32296952"/>
+        <updated>2022-07-31T17:07:48.000Z</updated>
+        <summary type="html"><![CDATA[LinkedIn is importing job postings it finds online onto company's profiles]]></summary>
+        <author>
+            <name>gurchik</name>
+            <uri>https://news.ycombinator.com/user?id=gurchik</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[肖尔，我来做
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>thesecretceo</name>
             <uri>https://news.ycombinator.com/user?id=thesecretceo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人类不能像以前认为的那样忍受高温度和高湿度
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31918156</id>
-        <link href="https://news.ycombinator.com/item?id=31918156"/>
-        <updated>2022-06-29T09:54:42.000Z</updated>
-        <summary type="html"><![CDATA[Humans can't endure temperatures and humidities as high as previously thought]]></summary>
-        <author>
-            <name>doener</name>
-            <uri>https://news.ycombinator.com/user?id=doener</uri>
         </author>
     </entry>
 </feed>
