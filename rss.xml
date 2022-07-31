@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 31 Jul 2022 13:46:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 16:41:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谷歌定时器不见了
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32295674</link>
+            <guid>https://news.ycombinator.com/item?id=32295674</guid>
+            <pubDate>Sun, 31 Jul 2022 14:23:28 GMT</pubDate>
+            <description><![CDATA[Google Timer Is Gone]]></description>
+        </item>
+        <item>
+            <title><![CDATA[百万：小于1kb的虚拟DOM，速度很快
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32291822</link>
+            <guid>https://news.ycombinator.com/item?id=32291822</guid>
+            <pubDate>Sun, 31 Jul 2022 00:31:21 GMT</pubDate>
+            <description><![CDATA[Million: less than 1kb virtual DOM that is fast]]></description>
+        </item>
         <item>
             <title><![CDATA[我独自做了6年的JavaScript沙盒
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31916864</guid>
             <pubDate>Wed, 29 Jun 2022 05:41:32 GMT</pubDate>
             <description><![CDATA[It's worse than you think]]></description>
-        </item>
-        <item>
-            <title><![CDATA[乐高凡尔登战役[视频]
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31902665</link>
-            <guid>https://news.ycombinator.com/item?id=31902665</guid>
-            <pubDate>Tue, 28 Jun 2022 00:24:54 GMT</pubDate>
-            <description><![CDATA[Lego Battle of Verdun [video]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[光学传声器可以从远处分离多个仪器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31891067</link>
-            <guid>https://news.ycombinator.com/item?id=31891067</guid>
-            <pubDate>Mon, 27 Jun 2022 05:58:46 GMT</pubDate>
-            <description><![CDATA[Optical microphone can separate multiple instruments from afar]]></description>
         </item>
     </channel>
 </rss>

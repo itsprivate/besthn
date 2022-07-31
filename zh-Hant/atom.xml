@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-31T13:46:10.939Z</updated>
+    <updated>2022-07-31T16:41:38.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌定時器不見了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32295674</id>
+        <link href="https://news.ycombinator.com/item?id=32295674"/>
+        <updated>2022-07-31T14:23:28.000Z</updated>
+        <summary type="html"><![CDATA[Google Timer Is Gone]]></summary>
+        <author>
+            <name>wuschel</name>
+            <uri>https://news.ycombinator.com/user?id=wuschel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百萬：小於1kb的虛擬DOM，速度很快
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32291822</id>
+        <link href="https://news.ycombinator.com/item?id=32291822"/>
+        <updated>2022-07-31T00:31:21.000Z</updated>
+        <summary type="html"><![CDATA[Million: less than 1kb virtual DOM that is fast]]></summary>
+        <author>
+            <name>bpierre</name>
+            <uri>https://news.ycombinator.com/user?id=bpierre</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我獨自做了6年的JavaScript沙盒
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>memorable</name>
             <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[樂高凡爾登戰役[視頻]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31902665</id>
-        <link href="https://news.ycombinator.com/item?id=31902665"/>
-        <updated>2022-06-28T00:24:54.000Z</updated>
-        <summary type="html"><![CDATA[Lego Battle of Verdun [video]]]></summary>
-        <author>
-            <name>brudgers</name>
-            <uri>https://news.ycombinator.com/user?id=brudgers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光學傳聲器可以從遠處分離多個儀器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31891067</id>
-        <link href="https://news.ycombinator.com/item?id=31891067"/>
-        <updated>2022-06-27T05:58:46.000Z</updated>
-        <summary type="html"><![CDATA[Optical microphone can separate multiple instruments from afar]]></summary>
-        <author>
-            <name>sohkamyung</name>
-            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
         </author>
     </entry>
 </feed>
