@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-31T07:26:23.892Z</updated>
+    <updated>2022-07-31T08:32:06.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[著名的HNers和他們的網站
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32291993</id>
+        <link href="https://news.ycombinator.com/item?id=32291993"/>
+        <updated>2022-07-31T00:55:40.000Z</updated>
+        <summary type="html"><![CDATA[Famous HNers and their sites]]></summary>
+        <author>
+            <name>LifeIsBio</name>
+            <uri>https://news.ycombinator.com/user?id=LifeIsBio</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clojure需要一個Rails
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>guerrilla</name>
             <uri>https://news.ycombinator.com/user?id=guerrilla</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[個人貢獻者是如何被卡住的(2017)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31907688</id>
-        <link href="https://news.ycombinator.com/item?id=31907688"/>
-        <updated>2022-06-28T13:53:51.000Z</updated>
-        <summary type="html"><![CDATA[How individual contributors get stuck (2017)]]></summary>
-        <author>
-            <name>glennericksen</name>
-            <uri>https://news.ycombinator.com/user?id=glennericksen</uri>
         </author>
     </entry>
 </feed>
