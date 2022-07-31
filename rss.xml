@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 31 Jul 2022 03:57:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 07:26:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Clojure需要一个Rails
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32288291</link>
+            <guid>https://news.ycombinator.com/item?id=32288291</guid>
+            <pubDate>Sat, 30 Jul 2022 16:57:03 GMT</pubDate>
+            <description><![CDATA[Clojure needs a Rails]]></description>
+        </item>
         <item>
             <title><![CDATA[我研究了34个现实世界的顶级区块链项目，所以你不必去研究。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31907688</guid>
             <pubDate>Tue, 28 Jun 2022 13:53:51 GMT</pubDate>
             <description><![CDATA[How individual contributors get stuck (2017)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[机器学习的笔和纸练习
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31913057</link>
-            <guid>https://news.ycombinator.com/item?id=31913057</guid>
-            <pubDate>Tue, 28 Jun 2022 21:11:16 GMT</pubDate>
-            <description><![CDATA[Pen and paper exercises in machine learning]]></description>
         </item>
     </channel>
 </rss>

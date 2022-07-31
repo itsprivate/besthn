@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-31T03:57:09.713Z</updated>
+    <updated>2022-07-31T07:26:23.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Clojure需要一个Rails
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32288291</id>
+        <link href="https://news.ycombinator.com/item?id=32288291"/>
+        <updated>2022-07-30T16:57:03.000Z</updated>
+        <summary type="html"><![CDATA[Clojure needs a Rails]]></summary>
+        <author>
+            <name>janetacarr</name>
+            <uri>https://news.ycombinator.com/user?id=janetacarr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我研究了34个现实世界的顶级区块链项目，所以你不必去研究。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>glennericksen</name>
             <uri>https://news.ycombinator.com/user?id=glennericksen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机器学习的笔和纸练习
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31913057</id>
-        <link href="https://news.ycombinator.com/item?id=31913057"/>
-        <updated>2022-06-28T21:11:16.000Z</updated>
-        <summary type="html"><![CDATA[Pen and paper exercises in machine learning]]></summary>
-        <author>
-            <name>beefman</name>
-            <uri>https://news.ycombinator.com/user?id=beefman</uri>
         </author>
     </entry>
 </feed>
