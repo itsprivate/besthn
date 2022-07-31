@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 31 Jul 2022 21:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 22:46:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[易拉宝
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32297760</link>
+            <guid>https://news.ycombinator.com/item?id=32297760</guid>
+            <pubDate>Sun, 31 Jul 2022 18:52:44 GMT</pubDate>
+            <description><![CDATA[EasyRPG]]></description>
+        </item>
         <item>
             <title><![CDATA[想作为一名软件工程师创办一家创业公司吗？在网上卖东西
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31920941</guid>
             <pubDate>Wed, 29 Jun 2022 14:49:35 GMT</pubDate>
             <description><![CDATA[EU Commission says it cannot find messages with Pfizer CEO]]></description>
-        </item>
-        <item>
-            <title><![CDATA[微软击败苹果，以1400万美元收购PowerPoint（2016年）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31905741</link>
-            <guid>https://news.ycombinator.com/item?id=31905741</guid>
-            <pubDate>Tue, 28 Jun 2022 09:18:22 GMT</pubDate>
-            <description><![CDATA[Microsoft beat Apple to buy PowerPoint for $14M (2016)]]></description>
         </item>
     </channel>
 </rss>
