@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-31T09:26:06.645Z</updated>
+    <updated>2022-07-31T09:59:35.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[碳的最激動人心的特點是它的呼叫慣例
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32289225</id>
+        <link href="https://news.ycombinator.com/item?id=32289225"/>
+        <updated>2022-07-30T18:43:08.000Z</updated>
+        <summary type="html"><![CDATA[Carbon’s most exciting feature is its calling convention]]></summary>
+        <author>
+            <name>obl</name>
+            <uri>https://news.ycombinator.com/user?id=obl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[麻省理工學院工程師開發出能看到身體內部的貼紙
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Zuider</name>
             <uri>https://news.ycombinator.com/user?id=Zuider</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[木材數據庫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31912178</id>
-        <link href="https://news.ycombinator.com/item?id=31912178"/>
-        <updated>2022-06-28T19:49:45.000Z</updated>
-        <summary type="html"><![CDATA[The Wood Database]]></summary>
-        <author>
-            <name>sinab</name>
-            <uri>https://news.ycombinator.com/user?id=sinab</uri>
         </author>
     </entry>
 </feed>
