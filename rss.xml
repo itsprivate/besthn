@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 31 Jul 2022 20:48:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 21:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[想作为一名软件工程师创办一家创业公司吗？在网上卖东西
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32285375</link>
+            <guid>https://news.ycombinator.com/item?id=32285375</guid>
+            <pubDate>Sat, 30 Jul 2022 09:07:40 GMT</pubDate>
+            <description><![CDATA[Want to Start a Startup, as a Software Engineer? Sell Something Online]]></description>
+        </item>
         <item>
             <title><![CDATA[LinkedIn正在将其在网上找到的工作岗位导入公司的档案中。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31905741</guid>
             <pubDate>Tue, 28 Jun 2022 09:18:22 GMT</pubDate>
             <description><![CDATA[Microsoft beat Apple to buy PowerPoint for $14M (2016)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TikTok更新隐私政策，收集脸部指纹和声纹（2021年）
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31920756</link>
-            <guid>https://news.ycombinator.com/item?id=31920756</guid>
-            <pubDate>Wed, 29 Jun 2022 14:37:44 GMT</pubDate>
-            <description><![CDATA[TikTok updated privacy policy to collect faceprints and voiceprints (2021)]]></description>
         </item>
     </channel>
 </rss>
