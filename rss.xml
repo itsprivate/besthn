@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 31 Jul 2022 17:08:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 17:41:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[肖尔，我来做
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32294430</link>
+            <guid>https://news.ycombinator.com/item?id=32294430</guid>
+            <pubDate>Sun, 31 Jul 2022 09:38:08 GMT</pubDate>
+            <description><![CDATA[Shor, I’ll do it]]></description>
+        </item>
         <item>
             <title><![CDATA[当城市将汽车视为危险的入侵者时
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31918156</guid>
             <pubDate>Wed, 29 Jun 2022 09:54:42 GMT</pubDate>
             <description><![CDATA[Humans can't endure temperatures and humidities as high as previously thought]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Forebruary是一个挂历，你不需要每年更换（2013）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31918019</link>
-            <guid>https://news.ycombinator.com/item?id=31918019</guid>
-            <pubDate>Wed, 29 Jun 2022 09:28:36 GMT</pubDate>
-            <description><![CDATA[Forebruary is a wall calendar that you do not need to replace every year (2013)]]></description>
         </item>
     </channel>
 </rss>
