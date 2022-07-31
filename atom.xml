@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-31T09:59:35.483Z</updated>
+    <updated>2022-07-31T13:46:10.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我独自做了6年的JavaScript沙盒
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32293178</id>
+        <link href="https://news.ycombinator.com/item?id=32293178"/>
+        <updated>2022-07-31T04:27:41.000Z</updated>
+        <summary type="html"><![CDATA[I've been making JavaScript sandbox alone for 6 years]]></summary>
+        <author>
+            <name>ianberdin</name>
+            <uri>https://news.ycombinator.com/user?id=ianberdin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[碳的最激动人心的特点是它的呼叫惯例
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sohkamyung</name>
             <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个中国女人写了数百万字的假维基百科历史
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31915937</id>
-        <link href="https://news.ycombinator.com/item?id=31915937"/>
-        <updated>2022-06-29T02:54:51.000Z</updated>
-        <summary type="html"><![CDATA[A Chinese woman wrote millions of words of fake Wikipedia history]]></summary>
-        <author>
-            <name>Zuider</name>
-            <uri>https://news.ycombinator.com/user?id=Zuider</uri>
         </author>
     </entry>
 </feed>

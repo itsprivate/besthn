@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 31 Jul 2022 09:59:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 13:46:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我独自做了6年的JavaScript沙盒
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32293178</link>
+            <guid>https://news.ycombinator.com/item?id=32293178</guid>
+            <pubDate>Sun, 31 Jul 2022 04:27:41 GMT</pubDate>
+            <description><![CDATA[I've been making JavaScript sandbox alone for 6 years]]></description>
+        </item>
         <item>
             <title><![CDATA[碳的最激动人心的特点是它的呼叫惯例
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31891067</guid>
             <pubDate>Mon, 27 Jun 2022 05:58:46 GMT</pubDate>
             <description><![CDATA[Optical microphone can separate multiple instruments from afar]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个中国女人写了数百万字的假维基百科历史
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31915937</link>
-            <guid>https://news.ycombinator.com/item?id=31915937</guid>
-            <pubDate>Wed, 29 Jun 2022 02:54:51 GMT</pubDate>
-            <description><![CDATA[A Chinese woman wrote millions of words of fake Wikipedia history]]></description>
         </item>
     </channel>
 </rss>
