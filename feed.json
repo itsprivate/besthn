@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32304289",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32304289",
+            "title": "妮可-尼古拉斯去世了\n",
+            "summary": "Nichelle Nichols Has Died",
+            "date_modified": "2022-08-01T11:00:00.000Z",
+            "author": {
+                "name": "fagnerbrack",
+                "url": "https://news.ycombinator.com/user?id=fagnerbrack"
+            },
+            "_original_headline": "Nichelle Nichols Has Died",
+            "_original_url": "https://twitter.com/shanselman/status/1553830587122601984",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32308553",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32308553",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://news.mit.edu/2018/first-ionic-wind-plane-no-moving-parts-1121",
             "_sensitive": false,
             "_score": 221
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31930718",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31930718",
-            "title": "OpenBSD有两个新的C语言编译器：chibicc和kefir\n",
-            "summary": "OpenBSD has two new C compilers: chibicc and kefir",
-            "date_modified": "2022-06-30T10:37:59.000Z",
-            "author": {
-                "name": "hucste",
-                "url": "https://news.ycombinator.com/user?id=hucste"
-            },
-            "_original_headline": "OpenBSD has two new C compilers: chibicc and kefir",
-            "_original_url": "https://briancallahan.net/blog/20220629.html",
-            "_sensitive": false,
-            "_score": 203
         }
     ]
 }
