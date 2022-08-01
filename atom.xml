@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-01T16:48:30.498Z</updated>
+    <updated>2022-08-01T18:42:30.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谁在招聘？(2022年8月)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32306920</id>
+        <link href="https://news.ycombinator.com/item?id=32306920"/>
+        <updated>2022-08-01T15:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Who is hiring? (August 2022)]]></summary>
+        <author>
+            <name>whoishiring</name>
+            <uri>https://news.ycombinator.com/user?id=whoishiring</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我通过删除googleapis，从我的TypeScript构建中减少了80MB。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>isp</name>
             <uri>https://news.ycombinator.com/user?id=isp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最高法院限制环保局的减排权力
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31932808</id>
-        <link href="https://news.ycombinator.com/item?id=31932808"/>
-        <updated>2022-06-30T14:31:45.000Z</updated>
-        <summary type="html"><![CDATA[Supreme Court limits EPA’s power to cut emissions]]></summary>
-        <author>
-            <name>ComputerGuru</name>
-            <uri>https://news.ycombinator.com/user?id=ComputerGuru</uri>
         </author>
     </entry>
 </feed>

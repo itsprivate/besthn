@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32306920",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32306920",
+            "title": "誰在招聘？(2022年8月)\n",
+            "summary": "Ask HN: Who is hiring? (August 2022)",
+            "date_modified": "2022-08-01T15:01:33.000Z",
+            "author": {
+                "name": "whoishiring",
+                "url": "https://news.ycombinator.com/user?id=whoishiring"
+            },
+            "_original_headline": "Ask HN: Who is hiring? (August 2022)",
+            "_original_url": "https://news.ycombinator.com/item?id=32306920",
+            "_sensitive": false,
+            "_score": 217
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32305536",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32305536",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://lunduke.substack.com/p/a-linux-kernel-module-written-in",
             "_sensitive": false,
             "_score": 206
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31932808",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31932808",
-            "title": "最高法院限制環保局的減排權力\n",
-            "summary": "Supreme Court limits EPA’s power to cut emissions",
-            "date_modified": "2022-06-30T14:31:45.000Z",
-            "author": {
-                "name": "ComputerGuru",
-                "url": "https://news.ycombinator.com/user?id=ComputerGuru"
-            },
-            "_original_headline": "Supreme Court limits EPA’s power to cut emissions",
-            "_original_url": "https://www.bbc.com/news/science-environment-62000742",
-            "_sensitive": false,
-            "_score": 238
         }
     ]
 }
