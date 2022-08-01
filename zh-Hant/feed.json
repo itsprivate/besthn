@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32305536",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32305536",
+            "title": "我通過刪除googleapis，從我的TypeScript構建中減少了80MB。\n",
+            "summary": "I shaved 80 MB from my TypeScript build by removing googleapis",
+            "date_modified": "2022-08-01T13:18:47.000Z",
+            "author": {
+                "name": "danvk",
+                "url": "https://news.ycombinator.com/user?id=danvk"
+            },
+            "_original_headline": "I shaved 80 MB from my TypeScript build by removing googleapis",
+            "_original_url": "https://effectivetypescript.com/2022/07/30/treemap-for-source-files/",
+            "_sensitive": false,
+            "_score": 207
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32304834",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32304834",
+            "title": "你離開Kubernetes了嗎？\n",
+            "summary": "Ask HN: Have You Left Kubernetes?",
+            "date_modified": "2022-08-01T12:08:23.000Z",
+            "author": {
+                "name": "strzibny",
+                "url": "https://news.ycombinator.com/user?id=strzibny"
+            },
+            "_original_headline": "Ask HN: Have You Left Kubernetes?",
+            "_original_url": "https://news.ycombinator.com/item?id=32304834",
+            "_sensitive": false,
+            "_score": 209
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32304456",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32304456",
+            "title": "我是如何恢復注意力和專注力的\n",
+            "summary": "How I Regained Concentration and Focus",
+            "date_modified": "2022-08-01T11:22:18.000Z",
+            "author": {
+                "name": "aiobe",
+                "url": "https://news.ycombinator.com/user?id=aiobe"
+            },
+            "_original_headline": "How I Regained Concentration and Focus",
+            "_original_url": "https://www.innoq.com/en/blog/wie-ich-meine-konzentration-wiederfand/",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32304735",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32304735",
@@ -9561,54 +9609,6 @@
             "_original_url": "https://www.bbc.com/news/science-environment-62000742",
             "_sensitive": false,
             "_score": 238
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31932349",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31932349",
-            "title": "據報道，Coinbase正在向ICE出售地理位置數據\n",
-            "summary": "Coinbase is reportedly selling geolocation data to ICE",
-            "date_modified": "2022-06-30T13:52:54.000Z",
-            "author": {
-                "name": "rukshn",
-                "url": "https://news.ycombinator.com/user?id=rukshn"
-            },
-            "_original_headline": "Coinbase is reportedly selling geolocation data to ICE",
-            "_original_url": "https://www.coindesk.com/business/2022/06/29/coinbase-is-reportedly-selling-geo-location-data-to-ice/",
-            "_sensitive": false,
-            "_score": 233
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31930384",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31930384",
-            "title": "統一公司正在裁減數百名員工\n",
-            "summary": "Unity is laying off hundreds of employees",
-            "date_modified": "2022-06-30T09:39:56.000Z",
-            "author": {
-                "name": "pjmlp",
-                "url": "https://news.ycombinator.com/user?id=pjmlp"
-            },
-            "_original_headline": "Unity is laying off hundreds of employees",
-            "_original_url": "https://www.protocol.com/bulletins/unity-layoffs-game-engine",
-            "_sensitive": false,
-            "_score": 208
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31928736",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31928736",
-            "title": "我可以看看你的作弊表嗎？\n",
-            "summary": "Ask HN: Can I see your cheatsheet?",
-            "date_modified": "2022-06-30T04:32:59.000Z",
-            "author": {
-                "name": "fastily",
-                "url": "https://news.ycombinator.com/user?id=fastily"
-            },
-            "_original_headline": "Ask HN: Can I see your cheatsheet?",
-            "_original_url": "https://news.ycombinator.com/item?id=31928736",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }
