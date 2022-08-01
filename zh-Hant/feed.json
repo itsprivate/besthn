@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32298096",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32298096",
+            "title": "迫在眉睫的銅荒以及為什麼回收不能解決這個問題\n",
+            "summary": "A looming copper crunch and why recycling can’t fix it",
+            "date_modified": "2022-07-31T19:35:17.000Z",
+            "author": {
+                "name": "simonebrunozzi",
+                "url": "https://news.ycombinator.com/user?id=simonebrunozzi"
+            },
+            "_original_headline": "A looming copper crunch and why recycling can’t fix it",
+            "_original_url": "https://www.mining.com/the-looming-copper-crunch-and-why-recycling-cant-fix-it/",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32294528",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32294528",
+            "title": "研究發現維基百科影響司法行為\n",
+            "summary": "Study finds Wikipedia influences judicial behavior",
+            "date_modified": "2022-07-31T10:06:55.000Z",
+            "author": {
+                "name": "drewem",
+                "url": "https://news.ycombinator.com/user?id=drewem"
+            },
+            "_original_headline": "Study finds Wikipedia influences judicial behavior",
+            "_original_url": "https://news.mit.edu/2022/study-finds-wikipedia-influences-judicial-behavior-0727",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32296299",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32296299",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://queue.acm.org/detail.cfm?id=3534854",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31926594",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31926594",
-            "title": "Shrugs.app - macOS的原生Slack客戶端\n",
-            "summary": "Shrugs.app – A native Slack client for macOS",
-            "date_modified": "2022-06-29T22:43:10.000Z",
-            "author": {
-                "name": "jer0me",
-                "url": "https://news.ycombinator.com/user?id=jer0me"
-            },
-            "_original_headline": "Shrugs.app – A native Slack client for macOS",
-            "_original_url": "https://shrugs.app/",
-            "_sensitive": false,
-            "_score": 209
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31923429",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31923429",
-            "title": "我希望每個人都知道關於Git的事情（第一部分）。\n",
-            "summary": "Things I wish everyone knew about Git (Part I)",
-            "date_modified": "2022-06-29T17:46:27.000Z",
-            "author": {
-                "name": "Tomte",
-                "url": "https://news.ycombinator.com/user?id=Tomte"
-            },
-            "_original_headline": "Things I wish everyone knew about Git (Part I)",
-            "_original_url": "https://blog.plover.com/2022/06/29/#tips",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }
