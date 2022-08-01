@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-01T04:34:46.195Z</updated>
+    <updated>2022-08-01T05:52:56.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基于RISC-V的单板计算机正在走向成熟
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32298137</id>
+        <link href="https://news.ycombinator.com/item?id=32298137"/>
+        <updated>2022-07-31T19:39:31.000Z</updated>
+        <summary type="html"><![CDATA[RISC-V based single board computers are getting there]]></summary>
+        <author>
+            <name>bmlw</name>
+            <uri>https://news.ycombinator.com/user?id=bmlw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[澳大利亚活动家不能使用加密的应用程序，必须让警察访问手机
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bryanrasmussen</name>
             <uri>https://news.ycombinator.com/user?id=bryanrasmussen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当网络比浏览器缓存快时（2020年）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31922762</id>
-        <link href="https://news.ycombinator.com/item?id=31922762"/>
-        <updated>2022-06-29T16:55:15.000Z</updated>
-        <summary type="html"><![CDATA[When network is faster than browser cache (2020)]]></summary>
-        <author>
-            <name>harporoeder</name>
-            <uri>https://news.ycombinator.com/user?id=harporoeder</uri>
         </author>
     </entry>
 </feed>

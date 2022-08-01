@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32298137",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32298137",
+            "title": "基于RISC-V的单板计算机正在走向成熟\n",
+            "summary": "RISC-V based single board computers are getting there",
+            "date_modified": "2022-07-31T19:39:31.000Z",
+            "author": {
+                "name": "bmlw",
+                "url": "https://news.ycombinator.com/user?id=bmlw"
+            },
+            "_original_headline": "RISC-V based single board computers are getting there",
+            "_original_url": "https://bret.dk/raspberry-pi-zero-vs-mangopi-mq-pro-benchmarks/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32299244",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32299244",
@@ -9593,22 +9609,6 @@
             "_original_url": "http://colinmorris.github.io/blog/compound-curse-words",
             "_sensitive": false,
             "_score": 225
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31922762",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31922762",
-            "title": "当网络比浏览器缓存快时（2020年）。\n",
-            "summary": "When network is faster than browser cache (2020)",
-            "date_modified": "2022-06-29T16:55:15.000Z",
-            "author": {
-                "name": "harporoeder",
-                "url": "https://news.ycombinator.com/user?id=harporoeder"
-            },
-            "_original_headline": "When network is faster than browser cache (2020)",
-            "_original_url": "https://simonhearne.com/2020/network-faster-than-cache/",
-            "_sensitive": false,
-            "_score": 219
         }
     ]
 }

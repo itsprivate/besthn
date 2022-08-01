@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 01 Aug 2022 04:34:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 05:52:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[基於RISC-V的單板計算機正在走向成熟
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32298137</link>
+            <guid>https://news.ycombinator.com/item?id=32298137</guid>
+            <pubDate>Sun, 31 Jul 2022 19:39:31 GMT</pubDate>
+            <description><![CDATA[RISC-V based single board computers are getting there]]></description>
+        </item>
         <item>
             <title><![CDATA[澳大利亞活動家不能使用加密的應用程序，必須讓警察訪問手機
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31924052</guid>
             <pubDate>Wed, 29 Jun 2022 18:36:57 GMT</pubDate>
             <description><![CDATA[Compound pejoratives on Reddit]]></description>
-        </item>
-        <item>
-            <title><![CDATA[當網絡比瀏覽器緩存快時（2020年）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31922762</link>
-            <guid>https://news.ycombinator.com/item?id=31922762</guid>
-            <pubDate>Wed, 29 Jun 2022 16:55:15 GMT</pubDate>
-            <description><![CDATA[When network is faster than browser cache (2020)]]></description>
         </item>
     </channel>
 </rss>
