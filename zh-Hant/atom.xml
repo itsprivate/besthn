@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-01T07:09:24.241Z</updated>
+    <updated>2022-08-01T07:44:06.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新的Ghostscript PDF解釋器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32296299</id>
+        <link href="https://news.ycombinator.com/item?id=32296299"/>
+        <updated>2022-07-31T15:40:44.000Z</updated>
+        <summary type="html"><![CDATA[New Ghostscript PDF interpreter]]></summary>
+        <author>
+            <name>diskmuncher</name>
+            <uri>https://news.ycombinator.com/user?id=diskmuncher</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼我建立了一個字典應用程序
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國個人所得稅計算器，從1970年到現在
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31925871</id>
-        <link href="https://news.ycombinator.com/item?id=31925871"/>
-        <updated>2022-06-29T21:22:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Calculator for US individual income tax, from 1970-present]]></summary>
-        <author>
-            <name>tmm1</name>
-            <uri>https://news.ycombinator.com/user?id=tmm1</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 01 Aug 2022 07:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 07:44:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[新的Ghostscript PDF解释器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32296299</link>
+            <guid>https://news.ycombinator.com/item?id=32296299</guid>
+            <pubDate>Sun, 31 Jul 2022 15:40:44 GMT</pubDate>
+            <description><![CDATA[New Ghostscript PDF interpreter]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么我建立了一个字典应用程序
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31923429</guid>
             <pubDate>Wed, 29 Jun 2022 17:46:27 GMT</pubDate>
             <description><![CDATA[Things I wish everyone knew about Git (Part I)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国个人所得税计算器，从1970年到现在
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31925871</link>
-            <guid>https://news.ycombinator.com/item?id=31925871</guid>
-            <pubDate>Wed, 29 Jun 2022 21:22:27 GMT</pubDate>
-            <description><![CDATA[Show HN: Calculator for US individual income tax, from 1970-present]]></description>
         </item>
     </channel>
 </rss>
