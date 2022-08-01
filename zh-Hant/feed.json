@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32300466",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32300466",
+            "title": "為什麼我建立了一個字典應用程序\n",
+            "summary": "Why I built a dictionary app",
+            "date_modified": "2022-08-01T00:46:19.000Z",
+            "author": {
+                "name": "zehfernandes",
+                "url": "https://news.ycombinator.com/user?id=zehfernandes"
+            },
+            "_original_headline": "Why I built a dictionary app",
+            "_original_url": "https://www.wordnote.app/blog/why-i-built-dictionary-app",
+            "_sensitive": false,
+            "_score": 226
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32298137",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32298137",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://news.ycombinator.com/item?id=31925871",
             "_sensitive": false,
             "_score": 237
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31924052",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31924052",
-            "title": "Reddit上的複合貶義詞\n",
-            "summary": "Compound pejoratives on Reddit",
-            "date_modified": "2022-06-29T18:36:57.000Z",
-            "author": {
-                "name": "bryanrasmussen",
-                "url": "https://news.ycombinator.com/user?id=bryanrasmussen"
-            },
-            "_original_headline": "Compound pejoratives on Reddit",
-            "_original_url": "http://colinmorris.github.io/blog/compound-curse-words",
-            "_sensitive": false,
-            "_score": 225
         }
     ]
 }
