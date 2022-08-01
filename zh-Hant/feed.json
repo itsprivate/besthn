@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32298994",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32298994",
+            "title": "核能是清潔的\n",
+            "summary": "Nuclear energy is clean",
+            "date_modified": "2022-07-31T21:25:32.000Z",
+            "author": {
+                "name": "mpweiher",
+                "url": "https://news.ycombinator.com/user?id=mpweiher"
+            },
+            "_original_headline": "Nuclear energy is clean",
+            "_original_url": "https://www.collectifission.nl/nl/2022/07/nuclear-energy-is-clean/",
+            "_sensitive": false,
+            "_score": 259
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32298183",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32298183",
+            "title": "洩露的備忘錄揭示了亞馬遜在加州打擊卡車司機的計劃\n",
+            "summary": "Leaked memo reveals Amazon’s plans to combat the Teamsters in California",
+            "date_modified": "2022-07-31T19:45:54.000Z",
+            "author": {
+                "name": "hownottowrite",
+                "url": "https://news.ycombinator.com/user?id=hownottowrite"
+            },
+            "_original_headline": "Leaked memo reveals Amazon’s plans to combat the Teamsters in California",
+            "_original_url": "https://www.vox.com/recode/23282640/leaked-internal-memo-reveals-amazons-anti-union-strategies-teamsters",
+            "_sensitive": false,
+            "_score": 206
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32297760",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32297760",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://www.cbc.ca/news/business/tiktok-fcc-1.6505269",
             "_sensitive": false,
             "_score": 204
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31919881",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31919881",
-            "title": "腸道代謝物吲哚-3丙酸酯促進神經再生和修復\n",
-            "summary": "The gut metabolite indole-3 propionate promotes nerve regeneration and repair",
-            "date_modified": "2022-06-29T13:33:45.000Z",
-            "author": {
-                "name": "bookofjoe",
-                "url": "https://news.ycombinator.com/user?id=bookofjoe"
-            },
-            "_original_headline": "The gut metabolite indole-3 propionate promotes nerve regeneration and repair",
-            "_original_url": "https://www.nature.com/articles/s41586-022-04884-x",
-            "_sensitive": false,
-            "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31920941",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31920941",
-            "title": "歐盟委員會稱無法找到與輝瑞公司CEO的信息\n",
-            "summary": "EU Commission says it cannot find messages with Pfizer CEO",
-            "date_modified": "2022-06-29T14:49:35.000Z",
-            "author": {
-                "name": "Markoff",
-                "url": "https://news.ycombinator.com/user?id=Markoff"
-            },
-            "_original_headline": "EU Commission says it cannot find messages with Pfizer CEO",
-            "_original_url": "https://euobserver.com/eu-political/155377",
-            "_sensitive": false,
-            "_score": 202
         }
     ]
 }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-07-31T22:46:57.489Z</updated>
+    <updated>2022-08-01T02:50:38.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[核能是清洁的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32298994</id>
+        <link href="https://news.ycombinator.com/item?id=32298994"/>
+        <updated>2022-07-31T21:25:32.000Z</updated>
+        <summary type="html"><![CDATA[Nuclear energy is clean]]></summary>
+        <author>
+            <name>mpweiher</name>
+            <uri>https://news.ycombinator.com/user?id=mpweiher</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泄露的备忘录揭示了亚马逊在加州打击卡车司机的计划
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32298183</id>
+        <link href="https://news.ycombinator.com/item?id=32298183"/>
+        <updated>2022-07-31T19:45:54.000Z</updated>
+        <summary type="html"><![CDATA[Leaked memo reveals Amazon’s plans to combat the Teamsters in California]]></summary>
+        <author>
+            <name>hownottowrite</name>
+            <uri>https://news.ycombinator.com/user?id=hownottowrite</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[易拉宝
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>breitling</name>
             <uri>https://news.ycombinator.com/user?id=breitling</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[肠道代谢物吲哚-3丙酸酯促进神经再生和修复
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31919881</id>
-        <link href="https://news.ycombinator.com/item?id=31919881"/>
-        <updated>2022-06-29T13:33:45.000Z</updated>
-        <summary type="html"><![CDATA[The gut metabolite indole-3 propionate promotes nerve regeneration and repair]]></summary>
-        <author>
-            <name>bookofjoe</name>
-            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟委员会称无法找到与辉瑞公司CEO的信息
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31920941</id>
-        <link href="https://news.ycombinator.com/item?id=31920941"/>
-        <updated>2022-06-29T14:49:35.000Z</updated>
-        <summary type="html"><![CDATA[EU Commission says it cannot find messages with Pfizer CEO]]></summary>
-        <author>
-            <name>Markoff</name>
-            <uri>https://news.ycombinator.com/user?id=Markoff</uri>
         </author>
     </entry>
 </feed>

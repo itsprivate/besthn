@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 31 Jul 2022 22:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 02:50:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[核能是清潔的
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32298994</link>
+            <guid>https://news.ycombinator.com/item?id=32298994</guid>
+            <pubDate>Sun, 31 Jul 2022 21:25:32 GMT</pubDate>
+            <description><![CDATA[Nuclear energy is clean]]></description>
+        </item>
+        <item>
+            <title><![CDATA[洩露的備忘錄揭示了亞馬遜在加州打擊卡車司機的計劃
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32298183</link>
+            <guid>https://news.ycombinator.com/item?id=32298183</guid>
+            <pubDate>Sun, 31 Jul 2022 19:45:54 GMT</pubDate>
+            <description><![CDATA[Leaked memo reveals Amazon’s plans to combat the Teamsters in California]]></description>
+        </item>
         <item>
             <title><![CDATA[易拉寶
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31923483</guid>
             <pubDate>Wed, 29 Jun 2022 17:49:51 GMT</pubDate>
             <description><![CDATA[FCC commissioner wants TikTok removed from app stores over spying concerns]]></description>
-        </item>
-        <item>
-            <title><![CDATA[腸道代謝物吲哚-3丙酸酯促進神經再生和修復
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31919881</link>
-            <guid>https://news.ycombinator.com/item?id=31919881</guid>
-            <pubDate>Wed, 29 Jun 2022 13:33:45 GMT</pubDate>
-            <description><![CDATA[The gut metabolite indole-3 propionate promotes nerve regeneration and repair]]></description>
-        </item>
-        <item>
-            <title><![CDATA[歐盟委員會稱無法找到與輝瑞公司CEO的信息
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31920941</link>
-            <guid>https://news.ycombinator.com/item?id=31920941</guid>
-            <pubDate>Wed, 29 Jun 2022 14:49:35 GMT</pubDate>
-            <description><![CDATA[EU Commission says it cannot find messages with Pfizer CEO]]></description>
         </item>
     </channel>
 </rss>
