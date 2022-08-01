@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 01 Aug 2022 20:54:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 21:30:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美國陸軍偽裝改進說明（2013年）
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32306005</link>
+            <guid>https://news.ycombinator.com/item?id=32306005</guid>
+            <pubDate>Mon, 01 Aug 2022 13:57:49 GMT</pubDate>
+            <description><![CDATA[U.S. Army Camouflage Improvement Explained (2013)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[谷歌的內部桌面Linux
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32293541</link>
+            <guid>https://news.ycombinator.com/item?id=32293541</guid>
+            <pubDate>Sun, 31 Jul 2022 05:57:22 GMT</pubDate>
+            <description><![CDATA[Google’s in-house desktop Linux]]></description>
+        </item>
         <item>
             <title><![CDATA[妮可-尼古拉斯去世了
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31931887</guid>
             <pubDate>Thu, 30 Jun 2022 13:08:03 GMT</pubDate>
             <description><![CDATA[Why don't more people use throat mics?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cell Lang: 為什麼又是一種編程語言？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31915925</link>
-            <guid>https://news.ycombinator.com/item?id=31915925</guid>
-            <pubDate>Wed, 29 Jun 2022 02:52:49 GMT</pubDate>
-            <description><![CDATA[Cell Lang: Why yet another programming language?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[麻省理工學院的工程師們首次駕駛沒有移動部件的飛機 (2018)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31932423</link>
-            <guid>https://news.ycombinator.com/item?id=31932423</guid>
-            <pubDate>Thu, 30 Jun 2022 13:59:20 GMT</pubDate>
-            <description><![CDATA[MIT engineers fly first-ever plane with no moving parts (2018)]]></description>
         </item>
     </channel>
 </rss>
