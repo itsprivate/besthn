@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-01T13:00:35.786Z</updated>
+    <updated>2022-08-01T14:33:14.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Gitea 1.17.0发布 - 包括软件包注册表支持
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32301936</id>
+        <link href="https://news.ycombinator.com/item?id=32301936"/>
+        <updated>2022-08-01T04:04:40.000Z</updated>
+        <summary type="html"><![CDATA[Gitea 1.17.0 is released – includes package registry support]]></summary>
+        <author>
+            <name>belfalas</name>
+            <uri>https://news.ycombinator.com/user?id=belfalas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[图书管理员给谷歌安全的信
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sohkamyung</name>
             <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿特拉斯公司已经有20年的历史，而且没有盈利能力
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31929941</id>
-        <link href="https://news.ycombinator.com/item?id=31929941"/>
-        <updated>2022-06-30T08:17:41.000Z</updated>
-        <summary type="html"><![CDATA[Atlassian is 20 years old and unprofitable]]></summary>
-        <author>
-            <name>zillionize</name>
-            <uri>https://news.ycombinator.com/user?id=zillionize</uri>
         </author>
     </entry>
 </feed>

@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32301936",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32301936",
+            "title": "Gitea 1.17.0發佈 - 包括軟件包註冊表支持\n",
+            "summary": "Gitea 1.17.0 is released – includes package registry support",
+            "date_modified": "2022-08-01T04:04:40.000Z",
+            "author": {
+                "name": "belfalas",
+                "url": "https://news.ycombinator.com/user?id=belfalas"
+            },
+            "_original_headline": "Gitea 1.17.0 is released – includes package registry support",
+            "_original_url": "https://blog.gitea.io/2022/07/gitea-1.17.0-is-released/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32304320",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32304320",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.quantamagazine.org/does-hot-water-freeze-faster-than-cold-physicists-keep-asking-20220629/",
             "_sensitive": false,
             "_score": 213
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31929941",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31929941",
-            "title": "阿特拉斯公司已經有20年的歷史，而且沒有盈利能力\n",
-            "summary": "Atlassian is 20 years old and unprofitable",
-            "date_modified": "2022-06-30T08:17:41.000Z",
-            "author": {
-                "name": "zillionize",
-                "url": "https://news.ycombinator.com/user?id=zillionize"
-            },
-            "_original_headline": "Atlassian is 20 years old and unprofitable",
-            "_original_url": "https://www.smartcompany.com.au/startupsmart/analysis/atlassian-unprofitable-valuation-adam-schwab/",
-            "_sensitive": false,
-            "_score": 204
         }
     ]
 }
