@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32308553",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32308553",
+            "title": "AMD的市值超過英特爾\n",
+            "summary": "AMD passes Intel in market cap",
+            "date_modified": "2022-08-01T16:31:24.000Z",
+            "author": {
+                "name": "latchkey",
+                "url": "https://news.ycombinator.com/user?id=latchkey"
+            },
+            "_original_headline": "AMD passes Intel in market cap",
+            "_original_url": "https://www.cnbc.com/2022/07/29/amd-passes-intel-in-market-cap.html",
+            "_sensitive": false,
+            "_score": 209
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32305997",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32305997",
+            "title": "軟件工程書籍\n",
+            "summary": "Software engineering books",
+            "date_modified": "2022-08-01T13:57:25.000Z",
+            "author": {
+                "name": "colin-dumitru",
+                "url": "https://news.ycombinator.com/user?id=colin-dumitru"
+            },
+            "_original_headline": "Software engineering books",
+            "_original_url": "https://software-engineering-books.com/",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32306920",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32306920",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://briancallahan.net/blog/20220629.html",
             "_sensitive": false,
             "_score": 203
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31932250",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31932250",
-            "title": "放棄GitHub。時機已到\n",
-            "summary": "Give Up GitHub: The Time Has Come",
-            "date_modified": "2022-06-30T13:44:02.000Z",
-            "author": {
-                "name": "jrepinc",
-                "url": "https://news.ycombinator.com/user?id=jrepinc"
-            },
-            "_original_headline": "Give Up GitHub: The Time Has Come",
-            "_original_url": "https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/",
-            "_sensitive": false,
-            "_score": 216
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31921996",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31921996",
-            "title": "用Scratch（一種兒童可視化編程語言）編寫的Linux內核模塊\n",
-            "summary": "Linux Kernel Module written in Scratch (a visual programming language for kids)",
-            "date_modified": "2022-06-29T15:58:37.000Z",
-            "author": {
-                "name": "isp",
-                "url": "https://news.ycombinator.com/user?id=isp"
-            },
-            "_original_headline": "Linux Kernel Module written in Scratch (a visual programming language for kids)",
-            "_original_url": "https://lunduke.substack.com/p/a-linux-kernel-module-written-in",
-            "_sensitive": false,
-            "_score": 206
         }
     ]
 }
