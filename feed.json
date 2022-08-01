@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32303762",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32303762",
+            "title": "通过透明压缩将SQLite数据库的大小减少到80%。\n",
+            "summary": "Show HN: Reduce SQLite database size by up to 80% with transparent compression",
+            "date_modified": "2022-08-01T09:36:16.000Z",
+            "author": {
+                "name": "phiresky",
+                "url": "https://news.ycombinator.com/user?id=phiresky"
+            },
+            "_original_headline": "Show HN: Reduce SQLite database size by up to 80% with transparent compression",
+            "_original_url": "https://github.com/phiresky/sqlite-zstd",
+            "_sensitive": false,
+            "_score": 208
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32301936",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32301936",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.raspberrypi.com/news/raspberry-pi-pico-w-your-6-iot-platform/",
             "_sensitive": false,
             "_score": 218
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31927658",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31927658",
-            "title": "关于热水是否比冷水冻结得更快的争论仍在继续\n",
-            "summary": "Controversy continues over whether hot water freezes faster than cold",
-            "date_modified": "2022-06-30T01:12:28.000Z",
-            "author": {
-                "name": "sohkamyung",
-                "url": "https://news.ycombinator.com/user?id=sohkamyung"
-            },
-            "_original_headline": "Controversy continues over whether hot water freezes faster than cold",
-            "_original_url": "https://www.quantamagazine.org/does-hot-water-freeze-faster-than-cold-physicists-keep-asking-20220629/",
-            "_sensitive": false,
-            "_score": 213
         }
     ]
 }
