@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-01T11:30:02.651Z</updated>
+    <updated>2022-08-01T13:00:35.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[圖書管理員給谷歌安全的信
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32304320</id>
+        <link href="https://news.ycombinator.com/item?id=32304320"/>
+        <updated>2022-08-01T11:05:23.000Z</updated>
+        <summary type="html"><![CDATA[Librarian's Letter to Google Security]]></summary>
+        <author>
+            <name>2352500</name>
+            <uri>https://news.ycombinator.com/user?id=2352500</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.19
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32303592</id>
+        <link href="https://news.ycombinator.com/item?id=32303592"/>
+        <updated>2022-08-01T09:05:57.000Z</updated>
+        <summary type="html"><![CDATA[Linux 5.19]]></summary>
+        <author>
+            <name>anpep</name>
+            <uri>https://news.ycombinator.com/user?id=anpep</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迫在眉睫的銅荒以及為什麼回收不能解決這個問題
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>zillionize</name>
             <uri>https://news.ycombinator.com/user?id=zillionize</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[邁克羅夫特的《模仿者3
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31926813</id>
-        <link href="https://news.ycombinator.com/item?id=31926813"/>
-        <updated>2022-06-29T23:03:50.000Z</updated>
-        <summary type="html"><![CDATA[Mimic 3 by Mycroft]]></summary>
-        <author>
-            <name>Vinnl</name>
-            <uri>https://news.ycombinator.com/user?id=Vinnl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[線性地址空間。在任何速度下都不安全
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31924849</id>
-        <link href="https://news.ycombinator.com/item?id=31924849"/>
-        <updated>2022-06-29T19:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Linear Address Spaces: Unsafe at any speed]]></summary>
-        <author>
-            <name>gbrown_</name>
-            <uri>https://news.ycombinator.com/user?id=gbrown_</uri>
         </author>
     </entry>
 </feed>

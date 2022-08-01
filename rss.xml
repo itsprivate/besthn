@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 01 Aug 2022 11:30:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 13:00:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[图书管理员给谷歌安全的信
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32304320</link>
+            <guid>https://news.ycombinator.com/item?id=32304320</guid>
+            <pubDate>Mon, 01 Aug 2022 11:05:23 GMT</pubDate>
+            <description><![CDATA[Librarian's Letter to Google Security]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Linux 5.19
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32303592</link>
+            <guid>https://news.ycombinator.com/item?id=32303592</guid>
+            <pubDate>Mon, 01 Aug 2022 09:05:57 GMT</pubDate>
+            <description><![CDATA[Linux 5.19]]></description>
+        </item>
         <item>
             <title><![CDATA[迫在眉睫的铜荒以及为什么回收不能解决这个问题
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31929941</guid>
             <pubDate>Thu, 30 Jun 2022 08:17:41 GMT</pubDate>
             <description><![CDATA[Atlassian is 20 years old and unprofitable]]></description>
-        </item>
-        <item>
-            <title><![CDATA[迈克罗夫特的《模仿者3
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31926813</link>
-            <guid>https://news.ycombinator.com/item?id=31926813</guid>
-            <pubDate>Wed, 29 Jun 2022 23:03:50 GMT</pubDate>
-            <description><![CDATA[Mimic 3 by Mycroft]]></description>
-        </item>
-        <item>
-            <title><![CDATA[线性地址空间。在任何速度下都不安全
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31924849</link>
-            <guid>https://news.ycombinator.com/item?id=31924849</guid>
-            <pubDate>Wed, 29 Jun 2022 19:45:00 GMT</pubDate>
-            <description><![CDATA[Linear Address Spaces: Unsafe at any speed]]></description>
         </item>
     </channel>
 </rss>
