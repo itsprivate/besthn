@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 01 Aug 2022 02:50:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 04:34:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[澳大利亞活動家不能使用加密的應用程序，必須讓警察訪問手機
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32299244</link>
+            <guid>https://news.ycombinator.com/item?id=32299244</guid>
+            <pubDate>Sun, 31 Jul 2022 21:56:13 GMT</pubDate>
+            <description><![CDATA[Australian activist can't use encrypted apps, must let police access phone]]></description>
+        </item>
+        <item>
+            <title><![CDATA[研究表明，放下設備，讓你的思想徜徉其中
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32296272</link>
+            <guid>https://news.ycombinator.com/item?id=32296272</guid>
+            <pubDate>Sun, 31 Jul 2022 15:37:27 GMT</pubDate>
+            <description><![CDATA[Put down devices, let your mind wander, study suggests]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CS109a: 數據科學簡介 - 資源
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32295243</link>
+            <guid>https://news.ycombinator.com/item?id=32295243</guid>
+            <pubDate>Sun, 31 Jul 2022 13:04:42 GMT</pubDate>
+            <description><![CDATA[CS109a: Introduction to Data Science – Resources]]></description>
+        </item>
         <item>
             <title><![CDATA[核能是清潔的
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31922762</guid>
             <pubDate>Wed, 29 Jun 2022 16:55:15 GMT</pubDate>
             <description><![CDATA[When network is faster than browser cache (2020)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[老鼠天堂還是老鼠地獄？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31905218</link>
-            <guid>https://news.ycombinator.com/item?id=31905218</guid>
-            <pubDate>Tue, 28 Jun 2022 07:45:29 GMT</pubDate>
-            <description><![CDATA[Mouse Heaven or Mouse Hell?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蕁麻魔法項目。邊緣有條形碼的紙牌掃描器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31922682</link>
-            <guid>https://news.ycombinator.com/item?id=31922682</guid>
-            <pubDate>Wed, 29 Jun 2022 16:49:28 GMT</pubDate>
-            <description><![CDATA[The Nettle Magic Project: Scanner for decks of cards with bar codes on edges]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美國聯邦通信委員會委員要求將TikTok從應用商店中刪除，因為他們擔心間諜活動。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31923483</link>
-            <guid>https://news.ycombinator.com/item?id=31923483</guid>
-            <pubDate>Wed, 29 Jun 2022 17:49:51 GMT</pubDate>
-            <description><![CDATA[FCC commissioner wants TikTok removed from app stores over spying concerns]]></description>
         </item>
     </channel>
 </rss>

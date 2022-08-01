@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-01T02:50:38.175Z</updated>
+    <updated>2022-08-01T04:34:46.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[澳大利亚活动家不能使用加密的应用程序，必须让警察访问手机
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32299244</id>
+        <link href="https://news.ycombinator.com/item?id=32299244"/>
+        <updated>2022-07-31T21:56:13.000Z</updated>
+        <summary type="html"><![CDATA[Australian activist can't use encrypted apps, must let police access phone]]></summary>
+        <author>
+            <name>adrian_mrd</name>
+            <uri>https://news.ycombinator.com/user?id=adrian_mrd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究表明，放下设备，让你的思想徜徉其中
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32296272</id>
+        <link href="https://news.ycombinator.com/item?id=32296272"/>
+        <updated>2022-07-31T15:37:27.000Z</updated>
+        <summary type="html"><![CDATA[Put down devices, let your mind wander, study suggests]]></summary>
+        <author>
+            <name>chazeon</name>
+            <uri>https://news.ycombinator.com/user?id=chazeon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CS109a: 数据科学简介 - 资源
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32295243</id>
+        <link href="https://news.ycombinator.com/item?id=32295243"/>
+        <updated>2022-07-31T13:04:42.000Z</updated>
+        <summary type="html"><![CDATA[CS109a: Introduction to Data Science – Resources]]></summary>
+        <author>
+            <name>gtsnexp</name>
+            <uri>https://news.ycombinator.com/user?id=gtsnexp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[核能是清洁的
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>harporoeder</name>
             <uri>https://news.ycombinator.com/user?id=harporoeder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老鼠天堂还是老鼠地狱？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31905218</id>
-        <link href="https://news.ycombinator.com/item?id=31905218"/>
-        <updated>2022-06-28T07:45:29.000Z</updated>
-        <summary type="html"><![CDATA[Mouse Heaven or Mouse Hell?]]></summary>
-        <author>
-            <name>xvmt</name>
-            <uri>https://news.ycombinator.com/user?id=xvmt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荨麻魔法项目。边缘有条形码的纸牌扫描器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31922682</id>
-        <link href="https://news.ycombinator.com/item?id=31922682"/>
-        <updated>2022-06-29T16:49:28.000Z</updated>
-        <summary type="html"><![CDATA[The Nettle Magic Project: Scanner for decks of cards with bar codes on edges]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国联邦通信委员会委员要求将TikTok从应用商店中删除，因为他们担心间谍活动。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31923483</id>
-        <link href="https://news.ycombinator.com/item?id=31923483"/>
-        <updated>2022-06-29T17:49:51.000Z</updated>
-        <summary type="html"><![CDATA[FCC commissioner wants TikTok removed from app stores over spying concerns]]></summary>
-        <author>
-            <name>breitling</name>
-            <uri>https://news.ycombinator.com/user?id=breitling</uri>
         </author>
     </entry>
 </feed>
