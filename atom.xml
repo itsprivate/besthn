@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-01T15:38:44.682Z</updated>
+    <updated>2022-08-01T15:57:53.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TikTok视频让青少年认为他们有罕见的精神障碍 (2021)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32304735</id>
+        <link href="https://news.ycombinator.com/item?id=32304735"/>
+        <updated>2022-08-01T11:56:15.000Z</updated>
+        <summary type="html"><![CDATA[TikTok videos leave teens thinking they have rare mental disorders (2021)]]></summary>
+        <author>
+            <name>mrtedbear</name>
+            <uri>https://news.ycombinator.com/user?id=mrtedbear</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你想知道一些关于我们的大脑是如何狗屁不通的吗？(2018)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>fastily</name>
             <uri>https://news.ycombinator.com/user?id=fastily</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瑞典电台制造假药房 揭示Facebook如何存储敏感数据
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31930008</id>
-        <link href="https://news.ycombinator.com/item?id=31930008"/>
-        <updated>2022-06-30T08:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Swedish Radio created fake pharmacy, reveals how Facebook stored sensitive data]]></summary>
-        <author>
-            <name>herman82</name>
-            <uri>https://news.ycombinator.com/user?id=herman82</uri>
         </author>
     </entry>
 </feed>
