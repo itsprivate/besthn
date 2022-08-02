@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-02T22:32:20.831Z</updated>
+    <updated>2022-08-02T22:51:54.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用電子墨水的電子貨架標籤搭建一個面板
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32316302</id>
+        <link href="https://news.ycombinator.com/item?id=32316302"/>
+        <updated>2022-08-02T08:23:35.000Z</updated>
+        <summary type="html"><![CDATA[Building a panel out of e-ink electronic shelf labels]]></summary>
+        <author>
+            <name>frxx</name>
+            <uri>https://news.ycombinator.com/user?id=frxx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elixir Livebook現在是一個桌面應用程序
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>danso</name>
             <uri>https://news.ycombinator.com/user?id=danso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[醫療保險機構為幾乎所有的事情支付多少錢即將公開
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31949348</id>
-        <link href="https://news.ycombinator.com/item?id=31949348"/>
-        <updated>2022-07-01T16:58:42.000Z</updated>
-        <summary type="html"><![CDATA[How much health insurers pay for almost everything is about to go public]]></summary>
-        <author>
-            <name>nojito</name>
-            <uri>https://news.ycombinator.com/user?id=nojito</uri>
         </author>
     </entry>
 </feed>
