@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 02 Aug 2022 15:37:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 15:54:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[甲骨文暂停了我的账户（未通知）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32318498</link>
+            <guid>https://news.ycombinator.com/item?id=32318498</guid>
+            <pubDate>Tue, 02 Aug 2022 13:55:48 GMT</pubDate>
+            <description><![CDATA[Oracle Suspended My Account (Without Notice)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[谷歌和Facebook的招聘冻结是怎么回事？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32312303</link>
+            <guid>https://news.ycombinator.com/item?id=32312303</guid>
+            <pubDate>Mon, 01 Aug 2022 21:32:14 GMT</pubDate>
+            <description><![CDATA[What’s going on with Google and Facebook hiring freezes?]]></description>
+        </item>
         <item>
             <title><![CDATA[编码为灰胡子的人
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31945924</guid>
             <pubDate>Fri, 01 Jul 2022 13:16:33 GMT</pubDate>
             <description><![CDATA[Google Allowed a Sanctioned Russian Ad Company to Harvest User Data for Months]]></description>
-        </item>
-        <item>
-            <title><![CDATA[V 0.3
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31944777</link>
-            <guid>https://news.ycombinator.com/item?id=31944777</guid>
-            <pubDate>Fri, 01 Jul 2022 11:10:21 GMT</pubDate>
-            <description><![CDATA[V 0.3]]></description>
-        </item>
-        <item>
-            <title><![CDATA[算法的可视化 (2014)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31943531</link>
-            <guid>https://news.ycombinator.com/item?id=31943531</guid>
-            <pubDate>Fri, 01 Jul 2022 07:40:31 GMT</pubDate>
-            <description><![CDATA[Visualizing Algorithms (2014)]]></description>
         </item>
     </channel>
 </rss>
