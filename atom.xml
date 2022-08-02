@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-02T19:25:44.769Z</updated>
+    <updated>2022-08-02T20:33:15.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[游牧民族因编码错误而流失1.5亿美元的资金
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32318873</id>
+        <link href="https://news.ycombinator.com/item?id=32318873"/>
+        <updated>2022-08-02T14:25:53.000Z</updated>
+        <summary type="html"><![CDATA[Nomad drained of $150m due to a coding mistake]]></summary>
+        <author>
+            <name>onion2k</name>
+            <uri>https://news.ycombinator.com/user?id=onion2k</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[气流的问题
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>samizdis</name>
             <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技界的裁员人数不断堆积
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31945841</id>
-        <link href="https://news.ycombinator.com/item?id=31945841"/>
-        <updated>2022-07-01T13:07:59.000Z</updated>
-        <summary type="html"><![CDATA[Tech layoffs keep stacking up]]></summary>
-        <author>
-            <name>Swizec</name>
-            <uri>https://news.ycombinator.com/user?id=Swizec</uri>
         </author>
     </entry>
 </feed>

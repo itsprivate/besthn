@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 02 Aug 2022 19:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 20:33:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[遊牧民族因編碼錯誤而流失1.5億美元的資金
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32318873</link>
+            <guid>https://news.ycombinator.com/item?id=32318873</guid>
+            <pubDate>Tue, 02 Aug 2022 14:25:53 GMT</pubDate>
+            <description><![CDATA[Nomad drained of $150m due to a coding mistake]]></description>
+        </item>
         <item>
             <title><![CDATA[氣流的問題
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31941777</guid>
             <pubDate>Fri, 01 Jul 2022 03:00:14 GMT</pubDate>
             <description><![CDATA[Meta slashes hiring plans, girds for 'fierce' headwinds]]></description>
-        </item>
-        <item>
-            <title><![CDATA[科技界的裁員人數不斷堆積
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31945841</link>
-            <guid>https://news.ycombinator.com/item?id=31945841</guid>
-            <pubDate>Fri, 01 Jul 2022 13:07:59 GMT</pubDate>
-            <description><![CDATA[Tech layoffs keep stacking up]]></description>
         </item>
     </channel>
 </rss>
