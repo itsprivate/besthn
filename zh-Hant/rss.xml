@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 02 Aug 2022 02:52:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 07:30:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用Python的模式匹配的犯罪行為
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32314368</link>
+            <guid>https://news.ycombinator.com/item?id=32314368</guid>
+            <pubDate>Tue, 02 Aug 2022 01:56:01 GMT</pubDate>
+            <description><![CDATA[Crimes with Python's pattern matching]]></description>
+        </item>
         <item>
             <title><![CDATA[創始人最難僱用的人是所謂的C級管理人員
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31941902</guid>
             <pubDate>Fri, 01 Jul 2022 03:18:19 GMT</pubDate>
             <description><![CDATA[Minecraft content creator Technoblade has died]]></description>
-        </item>
-        <item>
-            <title><![CDATA[無人駕駛的機器人出租車隊在舊金山癱瘓了幾個小時
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31939983</link>
-            <guid>https://news.ycombinator.com/item?id=31939983</guid>
-            <pubDate>Thu, 30 Jun 2022 23:19:55 GMT</pubDate>
-            <description><![CDATA[Driverless robotaxi fleet paralyzed for hours in San Francisco]]></description>
         </item>
     </channel>
 </rss>

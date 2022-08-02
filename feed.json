@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32314368",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32314368",
+            "title": "使用Python的模式匹配的犯罪行为\n",
+            "summary": "Crimes with Python's pattern matching",
+            "date_modified": "2022-08-02T01:56:01.000Z",
+            "author": {
+                "name": "signa11",
+                "url": "https://news.ycombinator.com/user?id=signa11"
+            },
+            "_original_headline": "Crimes with Python's pattern matching",
+            "_original_url": "https://www.hillelwayne.com/post/python-abc/",
+            "_sensitive": false,
+            "_score": 206
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32311904",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32311904",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://dotesports.com/news/minecraft-content-creator-technoblade-has-died-following-battle-with-cancer",
             "_sensitive": false,
             "_score": 217
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31939983",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31939983",
-            "title": "无人驾驶的机器人出租车队在旧金山瘫痪了几个小时\n",
-            "summary": "Driverless robotaxi fleet paralyzed for hours in San Francisco",
-            "date_modified": "2022-06-30T23:19:55.000Z",
-            "author": {
-                "name": "georgecmu",
-                "url": "https://news.ycombinator.com/user?id=georgecmu"
-            },
-            "_original_headline": "Driverless robotaxi fleet paralyzed for hours in San Francisco",
-            "_original_url": "https://thelastdriverlicenseholder.com/2022/06/29/driverless-robotaxi-fleet-paralyzed-for-hours-in-san-francisco/",
-            "_sensitive": false,
-            "_score": 224
         }
     ]
 }
