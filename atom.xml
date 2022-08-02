@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-02T07:30:31.959Z</updated>
+    <updated>2022-08-02T09:06:52.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[了解简街
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32314623</id>
+        <link href="https://news.ycombinator.com/item?id=32314623"/>
+        <updated>2022-08-02T02:45:40.000Z</updated>
+        <summary type="html"><![CDATA[Understanding Jane Street]]></summary>
+        <author>
+            <name>mxtihvb</name>
+            <uri>https://news.ycombinator.com/user?id=mxtihvb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emery - 个人生产力工作区
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32312413</id>
+        <link href="https://news.ycombinator.com/item?id=32312413"/>
+        <updated>2022-08-01T21:42:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Emery – Personal productivity workspace]]></summary>
+        <author>
+            <name>chernobai</name>
+            <uri>https://news.ycombinator.com/user?id=chernobai</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Python的模式匹配的犯罪行为
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>shiftingleft</name>
             <uri>https://news.ycombinator.com/user?id=shiftingleft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[罗技MX产品与AirPods不兼容
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31939424</id>
-        <link href="https://news.ycombinator.com/item?id=31939424"/>
-        <updated>2022-06-30T22:20:27.000Z</updated>
-        <summary type="html"><![CDATA[Logitech MX Products are incompatible with AirPods]]></summary>
-        <author>
-            <name>frankfrank13</name>
-            <uri>https://news.ycombinator.com/user?id=frankfrank13</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minecraft内容创作者Technoblade已去世
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31941902</id>
-        <link href="https://news.ycombinator.com/item?id=31941902"/>
-        <updated>2022-07-01T03:18:19.000Z</updated>
-        <summary type="html"><![CDATA[Minecraft content creator Technoblade has died]]></summary>
-        <author>
-            <name>obiefernandez</name>
-            <uri>https://news.ycombinator.com/user?id=obiefernandez</uri>
         </author>
     </entry>
 </feed>

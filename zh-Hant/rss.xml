@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 02 Aug 2022 07:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 09:06:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[瞭解簡街
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32314623</link>
+            <guid>https://news.ycombinator.com/item?id=32314623</guid>
+            <pubDate>Tue, 02 Aug 2022 02:45:40 GMT</pubDate>
+            <description><![CDATA[Understanding Jane Street]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Emery - 個人生產力工作區
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32312413</link>
+            <guid>https://news.ycombinator.com/item?id=32312413</guid>
+            <pubDate>Mon, 01 Aug 2022 21:42:53 GMT</pubDate>
+            <description><![CDATA[Show HN: Emery – Personal productivity workspace]]></description>
+        </item>
         <item>
             <title><![CDATA[使用Python的模式匹配的犯罪行為
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31939871</guid>
             <pubDate>Thu, 30 Jun 2022 23:08:51 GMT</pubDate>
             <description><![CDATA[Mozilla and Google Objections Overruled on “Decentralized Identifiers” by W3C]]></description>
-        </item>
-        <item>
-            <title><![CDATA[羅技MX產品與AirPods不兼容
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31939424</link>
-            <guid>https://news.ycombinator.com/item?id=31939424</guid>
-            <pubDate>Thu, 30 Jun 2022 22:20:27 GMT</pubDate>
-            <description><![CDATA[Logitech MX Products are incompatible with AirPods]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Minecraft內容創作者Technoblade已去世
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31941902</link>
-            <guid>https://news.ycombinator.com/item?id=31941902</guid>
-            <pubDate>Fri, 01 Jul 2022 03:18:19 GMT</pubDate>
-            <description><![CDATA[Minecraft content creator Technoblade has died]]></description>
         </item>
     </channel>
 </rss>
