@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-02T17:22:20.199Z</updated>
+    <updated>2022-08-02T18:57:34.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我用DALL-E 2生成了一个标志
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32320491</id>
+        <link href="https://news.ycombinator.com/item?id=32320491"/>
+        <updated>2022-08-02T16:06:13.000Z</updated>
+        <summary type="html"><![CDATA[I used DALL·E 2 to generate a logo]]></summary>
+        <author>
+            <name>cube2222</name>
+            <uri>https://news.ycombinator.com/user?id=cube2222</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用一个大的服务器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kindaAnIdiot</name>
             <uri>https://news.ycombinator.com/user?id=kindaAnIdiot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港如何成为一个警察国家
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31946528</id>
-        <link href="https://news.ycombinator.com/item?id=31946528"/>
-        <updated>2022-07-01T14:02:34.000Z</updated>
-        <summary type="html"><![CDATA[How Hong Kong became a police state]]></summary>
-        <author>
-            <name>shalmanese</name>
-            <uri>https://news.ycombinator.com/user?id=shalmanese</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 02 Aug 2022 17:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 18:57:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我用DALL-E 2生成了一個標誌
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32320491</link>
+            <guid>https://news.ycombinator.com/item?id=32320491</guid>
+            <pubDate>Tue, 02 Aug 2022 16:06:13 GMT</pubDate>
+            <description><![CDATA[I used DALL·E 2 to generate a logo]]></description>
+        </item>
         <item>
             <title><![CDATA[使用一個大的服務器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31925716</guid>
             <pubDate>Wed, 29 Jun 2022 21:07:06 GMT</pubDate>
             <description><![CDATA[Mastering Nim – now available on Amazon]]></description>
-        </item>
-        <item>
-            <title><![CDATA[香港如何成為一個警察國家
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31946528</link>
-            <guid>https://news.ycombinator.com/item?id=31946528</guid>
-            <pubDate>Fri, 01 Jul 2022 14:02:34 GMT</pubDate>
-            <description><![CDATA[How Hong Kong became a police state]]></description>
         </item>
     </channel>
 </rss>

@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32320491",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32320491",
+            "title": "我用DALL-E 2生成了一个标志\n",
+            "summary": "I used DALL·E 2 to generate a logo",
+            "date_modified": "2022-08-02T16:06:13.000Z",
+            "author": {
+                "name": "cube2222",
+                "url": "https://news.ycombinator.com/user?id=cube2222"
+            },
+            "_original_headline": "I used DALL·E 2 to generate a logo",
+            "_original_url": "https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/",
+            "_sensitive": false,
+            "_score": 225
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32319147",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32319147",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://nim-lang.org/blog/2022/06/29/mastering-nim.html",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31946528",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31946528",
-            "title": "香港如何成为一个警察国家\n",
-            "summary": "How Hong Kong became a police state",
-            "date_modified": "2022-07-01T14:02:34.000Z",
-            "author": {
-                "name": "shalmanese",
-                "url": "https://news.ycombinator.com/user?id=shalmanese"
-            },
-            "_original_headline": "How Hong Kong became a police state",
-            "_original_url": "https://www.economist.com/interactive/essay/2022/07/01/how-hong-kong-became-a-police-state",
-            "_sensitive": false,
-            "_score": 203
         }
     ]
 }
