@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 02 Aug 2022 10:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 11:58:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[給Geocities網站的一封情書
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32313574</link>
+            <guid>https://news.ycombinator.com/item?id=32313574</guid>
+            <pubDate>Mon, 01 Aug 2022 23:44:07 GMT</pubDate>
+            <description><![CDATA[A Love Letter to Geocities Sites]]></description>
+        </item>
         <item>
             <title><![CDATA[PiBox：用於自我託管的微型個人服務器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31934181</guid>
             <pubDate>Thu, 30 Jun 2022 15:46:45 GMT</pubDate>
             <description><![CDATA[Modern cloud for multiplayer games]]></description>
-        </item>
-        <item>
-            <title><![CDATA[YouTube刪除了對危險的分形木材燃燒的批評，留下致命的提示
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31945425</link>
-            <guid>https://news.ycombinator.com/item?id=31945425</guid>
-            <pubDate>Fri, 01 Jul 2022 12:21:16 GMT</pubDate>
-            <description><![CDATA[YouTube removes criticism of dangerous fractal wood burning, leaves lethal tips]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-02T10:37:22.797Z</updated>
+    <updated>2022-08-02T11:58:00.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[给Geocities网站的一封情书
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32313574</id>
+        <link href="https://news.ycombinator.com/item?id=32313574"/>
+        <updated>2022-08-01T23:44:07.000Z</updated>
+        <summary type="html"><![CDATA[A Love Letter to Geocities Sites]]></summary>
+        <author>
+            <name>martialg</name>
+            <uri>https://news.ycombinator.com/user?id=martialg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PiBox：用于自我托管的微型个人服务器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>hpx7</name>
             <uri>https://news.ycombinator.com/user?id=hpx7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube删除了对危险的分形木材燃烧的批评，留下致命的提示
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31945425</id>
-        <link href="https://news.ycombinator.com/item?id=31945425"/>
-        <updated>2022-07-01T12:21:16.000Z</updated>
-        <summary type="html"><![CDATA[YouTube removes criticism of dangerous fractal wood burning, leaves lethal tips]]></summary>
-        <author>
-            <name>PretzelFisch</name>
-            <uri>https://news.ycombinator.com/user?id=PretzelFisch</uri>
         </author>
     </entry>
 </feed>
