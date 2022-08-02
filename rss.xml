@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 01 Aug 2022 21:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 02:52:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,46 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[创始人最难雇用的人是所谓的C级管理人员
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32311904</link>
+            <guid>https://news.ycombinator.com/item?id=32311904</guid>
+            <pubDate>Mon, 01 Aug 2022 20:54:24 GMT</pubDate>
+            <description><![CDATA[The hardest people for founders to hire are so called C-level executives]]></description>
+        </item>
+        <item>
+            <title><![CDATA[苹果硅简介
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32311245</link>
+            <guid>https://news.ycombinator.com/item?id=32311245</guid>
+            <pubDate>Mon, 01 Aug 2022 19:53:41 GMT</pubDate>
+            <description><![CDATA[Introduction to Apple Silicon]]></description>
+        </item>
+        <item>
+            <title><![CDATA[FTC采取行动阻止Opendoor欺骗潜在卖家
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32311088</link>
+            <guid>https://news.ycombinator.com/item?id=32311088</guid>
+            <pubDate>Mon, 01 Aug 2022 19:40:16 GMT</pubDate>
+            <description><![CDATA[FTC takes action to stop Opendoor from cheating potential sellers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[日本和美国将启动2纳米芯片量产的研发工作
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32310586</link>
+            <guid>https://news.ycombinator.com/item?id=32310586</guid>
+            <pubDate>Mon, 01 Aug 2022 18:57:17 GMT</pubDate>
+            <description><![CDATA[Japan, U.S. to launch R&D for 2-nm chip mass production]]></description>
+        </item>
+        <item>
+            <title><![CDATA[带有死刑的迪斯尼乐园
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32309164</link>
+            <guid>https://news.ycombinator.com/item?id=32309164</guid>
+            <pubDate>Mon, 01 Aug 2022 17:14:21 GMT</pubDate>
+            <description><![CDATA[Disneyland with Death Penalty]]></description>
+        </item>
         <item>
             <title><![CDATA[美国陆军伪装改进说明（2013年）
 ]]></title>
@@ -4773,46 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31939983</guid>
             <pubDate>Thu, 30 Jun 2022 23:19:55 GMT</pubDate>
             <description><![CDATA[Driverless robotaxi fleet paralyzed for hours in San Francisco]]></description>
-        </item>
-        <item>
-            <title><![CDATA[现代城市居民已经失去了大约一半的肠道微生物
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31938261</link>
-            <guid>https://news.ycombinator.com/item?id=31938261</guid>
-            <pubDate>Thu, 30 Jun 2022 20:37:23 GMT</pubDate>
-            <description><![CDATA[Modern city dwellers have lost about half their gut microbes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Vim 9.0
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31936725</link>
-            <guid>https://news.ycombinator.com/item?id=31936725</guid>
-            <pubDate>Thu, 30 Jun 2022 18:42:21 GMT</pubDate>
-            <description><![CDATA[Vim 9.0]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rust 1.62.0
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31935116</link>
-            <guid>https://news.ycombinator.com/item?id=31935116</guid>
-            <pubDate>Thu, 30 Jun 2022 16:42:20 GMT</pubDate>
-            <description><![CDATA[Rust 1.62.0]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么我有密码恐惧症？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31932202</link>
-            <guid>https://news.ycombinator.com/item?id=31932202</guid>
-            <pubDate>Thu, 30 Jun 2022 13:39:19 GMT</pubDate>
-            <description><![CDATA[Why I’m Cryptophobic]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么没有更多的人使用喉振式麦克风？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31931887</link>
-            <guid>https://news.ycombinator.com/item?id=31931887</guid>
-            <pubDate>Thu, 30 Jun 2022 13:08:03 GMT</pubDate>
-            <description><![CDATA[Why don't more people use throat mics?]]></description>
         </item>
     </channel>
 </rss>

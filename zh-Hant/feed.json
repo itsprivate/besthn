@@ -11,6 +11,86 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32311904",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32311904",
+            "title": "創始人最難僱用的人是所謂的C級管理人員\n",
+            "summary": "The hardest people for founders to hire are so called C-level executives",
+            "date_modified": "2022-08-01T20:54:24.000Z",
+            "author": {
+                "name": "ilamont",
+                "url": "https://news.ycombinator.com/user?id=ilamont"
+            },
+            "_original_headline": "The hardest people for founders to hire are so called C-level executives",
+            "_original_url": "https://twitter.com/paulg/status/1554205020907720704",
+            "_sensitive": false,
+            "_score": 242
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32311245",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32311245",
+            "title": "蘋果硅簡介\n",
+            "summary": "Introduction to Apple Silicon",
+            "date_modified": "2022-08-01T19:53:41.000Z",
+            "author": {
+                "name": "arkj",
+                "url": "https://news.ycombinator.com/user?id=arkj"
+            },
+            "_original_headline": "Introduction to Apple Silicon",
+            "_original_url": "https://github.com/AsahiLinux/docs/wiki/Introduction-to-Apple-Silicon",
+            "_sensitive": false,
+            "_score": 215
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32311088",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32311088",
+            "title": "FTC採取行動阻止Opendoor欺騙潛在賣家\n",
+            "summary": "FTC takes action to stop Opendoor from cheating potential sellers",
+            "date_modified": "2022-08-01T19:40:16.000Z",
+            "author": {
+                "name": "tareqak",
+                "url": "https://news.ycombinator.com/user?id=tareqak"
+            },
+            "_original_headline": "FTC takes action to stop Opendoor from cheating potential sellers",
+            "_original_url": "https://www.ftc.gov/news-events/news/press-releases/2022/08/ftc-takes-action-stop-online-home-buying-firm-opendoor-labs-inc-cheating-potential-sellers",
+            "_sensitive": false,
+            "_score": 214
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32310586",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32310586",
+            "title": "日本和美國將啟動2納米芯片量產的研發工作\n",
+            "summary": "Japan, U.S. to launch R&D for 2-nm chip mass production",
+            "date_modified": "2022-08-01T18:57:17.000Z",
+            "author": {
+                "name": "gmays",
+                "url": "https://news.ycombinator.com/user?id=gmays"
+            },
+            "_original_headline": "Japan, U.S. to launch R&D for 2-nm chip mass production",
+            "_original_url": "https://asia.nikkei.com/Business/Tech/Semiconductors/Japan-U.S.-to-launch-R-D-for-2-nm-chip-mass-production",
+            "_sensitive": false,
+            "_score": 209
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32309164",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32309164",
+            "title": "帶有死刑的迪斯尼樂園\n",
+            "summary": "Disneyland with Death Penalty",
+            "date_modified": "2022-08-01T17:14:21.000Z",
+            "author": {
+                "name": "oumua_don17",
+                "url": "https://news.ycombinator.com/user?id=oumua_don17"
+            },
+            "_original_headline": "Disneyland with Death Penalty",
+            "_original_url": "https://en.wikipedia.org/wiki/Disneyland_with_the_Death_Penalty",
+            "_sensitive": false,
+            "_score": 208
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32306005",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32306005",
@@ -9529,86 +9609,6 @@
             "_original_url": "https://thelastdriverlicenseholder.com/2022/06/29/driverless-robotaxi-fleet-paralyzed-for-hours-in-san-francisco/",
             "_sensitive": false,
             "_score": 224
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31938261",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31938261",
-            "title": "現代城市居民已經失去了大約一半的腸道微生物\n",
-            "summary": "Modern city dwellers have lost about half their gut microbes",
-            "date_modified": "2022-06-30T20:37:23.000Z",
-            "author": {
-                "name": "Hooke",
-                "url": "https://news.ycombinator.com/user?id=Hooke"
-            },
-            "_original_headline": "Modern city dwellers have lost about half their gut microbes",
-            "_original_url": "https://www.science.org/content/article/modern-city-dwellers-have-lost-about-half-their-gut-microbes",
-            "_sensitive": false,
-            "_score": 224
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31936725",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31936725",
-            "title": "Vim 9.0\n",
-            "summary": "Vim 9.0",
-            "date_modified": "2022-06-30T18:42:21.000Z",
-            "author": {
-                "name": "craftuser",
-                "url": "https://news.ycombinator.com/user?id=craftuser"
-            },
-            "_original_headline": "Vim 9.0",
-            "_original_url": "https://www.vim.org/vim90.php",
-            "_sensitive": false,
-            "_score": 223
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31935116",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31935116",
-            "title": "Rust 1.62.0\n",
-            "summary": "Rust 1.62.0",
-            "date_modified": "2022-06-30T16:42:20.000Z",
-            "author": {
-                "name": "caution",
-                "url": "https://news.ycombinator.com/user?id=caution"
-            },
-            "_original_headline": "Rust 1.62.0",
-            "_original_url": "https://blog.rust-lang.org/2022/06/30/Rust-1.62.0.html",
-            "_sensitive": false,
-            "_score": 206
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31932202",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31932202",
-            "title": "為什麼我有密碼恐懼症？\n",
-            "summary": "Why I’m Cryptophobic",
-            "date_modified": "2022-06-30T13:39:19.000Z",
-            "author": {
-                "name": "luisha",
-                "url": "https://news.ycombinator.com/user?id=luisha"
-            },
-            "_original_headline": "Why I’m Cryptophobic",
-            "_original_url": "https://www.bvp.com/atlas/why-i-m-cryptophobic",
-            "_sensitive": false,
-            "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31931887",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31931887",
-            "title": "為什麼沒有更多的人使用喉振式麥克風？\n",
-            "summary": "Why don't more people use throat mics?",
-            "date_modified": "2022-06-30T13:08:03.000Z",
-            "author": {
-                "name": "hardwaresofton",
-                "url": "https://news.ycombinator.com/user?id=hardwaresofton"
-            },
-            "_original_headline": "Why don't more people use throat mics?",
-            "_original_url": "https://vadosware.io/post/why-dont-more-people-use-throat-mics/",
-            "_sensitive": false,
-            "_score": 209
         }
     ]
 }
