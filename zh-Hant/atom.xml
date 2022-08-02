@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-02T21:29:19.384Z</updated>
+    <updated>2022-08-02T22:32:20.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Elixir Livebook現在是一個桌面應用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32320531</id>
+        <link href="https://news.ycombinator.com/item?id=32320531"/>
+        <updated>2022-08-02T16:08:36.000Z</updated>
+        <summary type="html"><![CDATA[Elixir Livebook now as a desktop app]]></summary>
+        <author>
+            <name>cgarvis</name>
+            <uri>https://news.ycombinator.com/user?id=cgarvis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美國證券交易委員會指控11名個人參與3億美元的加密貨幣金字塔計劃
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nojito</name>
             <uri>https://news.ycombinator.com/user?id=nojito</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[誰在招聘？(2022年7月)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31947297</id>
-        <link href="https://news.ycombinator.com/item?id=31947297"/>
-        <updated>2022-07-01T15:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Who is hiring? (July 2022)]]></summary>
-        <author>
-            <name>whoishiring</name>
-            <uri>https://news.ycombinator.com/user?id=whoishiring</uri>
         </author>
     </entry>
 </feed>
