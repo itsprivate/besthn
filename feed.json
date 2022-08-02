@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32323699",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32323699",
+            "title": "罗宾逊公司裁员23%，并对其进行处罚\n",
+            "summary": "Robinhood lays off 23% of staff",
+            "date_modified": "2022-08-02T20:11:47.000Z",
+            "author": {
+                "name": "tempsy",
+                "url": "https://news.ycombinator.com/user?id=tempsy"
+            },
+            "_original_headline": "Robinhood lays off 23% of staff",
+            "_original_url": "https://www.wsj.com/articles/robinhood-lays-off-23-of-staff-11659471011",
+            "_sensitive": false,
+            "_score": 257
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32316302",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32316302",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://maxread.substack.com/p/whats-the-deal-with-all-those-weird",
             "_sensitive": false,
             "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31939114",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31939114",
-            "title": "执行内幕交易规则的苹果前高管承认内幕交易\n",
-            "summary": "Former Apple exec who enforced insider trading rules admits to insider trading",
-            "date_modified": "2022-06-30T21:51:39.000Z",
-            "author": {
-                "name": "danso",
-                "url": "https://news.ycombinator.com/user?id=danso"
-            },
-            "_original_headline": "Former Apple exec who enforced insider trading rules admits to insider trading",
-            "_original_url": "https://9to5mac.com/2022/06/30/former-apple-exec-admits-to-insider-trading/",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }
