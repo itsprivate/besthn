@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 02 Aug 2022 09:06:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 10:37:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[PiBox：用于自我托管的微型个人服务器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32313242</link>
+            <guid>https://news.ycombinator.com/item?id=32313242</guid>
+            <pubDate>Mon, 01 Aug 2022 23:04:20 GMT</pubDate>
+            <description><![CDATA[PiBox: a tiny personal server for self-hosting]]></description>
+        </item>
+        <item>
+            <title><![CDATA[人们在结果同样令人满意的决策上花费了太多的时间
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32295095</link>
+            <guid>https://news.ycombinator.com/item?id=32295095</guid>
+            <pubDate>Sun, 31 Jul 2022 12:35:42 GMT</pubDate>
+            <description><![CDATA[People spend too much time on decisions with equally satisfying outcomes]]></description>
+        </item>
         <item>
             <title><![CDATA[了解简街
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31945425</guid>
             <pubDate>Fri, 01 Jul 2022 12:21:16 GMT</pubDate>
             <description><![CDATA[YouTube removes criticism of dangerous fractal wood burning, leaves lethal tips]]></description>
-        </item>
-        <item>
-            <title><![CDATA[炼钢术。通过帮助你的对手发现真相
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31940277</link>
-            <guid>https://news.ycombinator.com/item?id=31940277</guid>
-            <pubDate>Thu, 30 Jun 2022 23:52:48 GMT</pubDate>
-            <description><![CDATA[Steelmanning: Discover the truth by helping your opponent]]></description>
-        </item>
-        <item>
-            <title><![CDATA[W3C推翻了Mozilla和Google对 "分散标识符 "的反对意见
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31939871</link>
-            <guid>https://news.ycombinator.com/item?id=31939871</guid>
-            <pubDate>Thu, 30 Jun 2022 23:08:51 GMT</pubDate>
-            <description><![CDATA[Mozilla and Google Objections Overruled on “Decentralized Identifiers” by W3C]]></description>
         </item>
     </channel>
 </rss>

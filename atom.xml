@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-02T09:06:52.506Z</updated>
+    <updated>2022-08-02T10:37:22.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PiBox：用于自我托管的微型个人服务器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32313242</id>
+        <link href="https://news.ycombinator.com/item?id=32313242"/>
+        <updated>2022-08-01T23:04:20.000Z</updated>
+        <summary type="html"><![CDATA[PiBox: a tiny personal server for self-hosting]]></summary>
+        <author>
+            <name>erulabs</name>
+            <uri>https://news.ycombinator.com/user?id=erulabs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人们在结果同样令人满意的决策上花费了太多的时间
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32295095</id>
+        <link href="https://news.ycombinator.com/item?id=32295095"/>
+        <updated>2022-07-31T12:35:42.000Z</updated>
+        <summary type="html"><![CDATA[People spend too much time on decisions with equally satisfying outcomes]]></summary>
+        <author>
+            <name>Bostonian</name>
+            <uri>https://news.ycombinator.com/user?id=Bostonian</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[了解简街
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>PretzelFisch</name>
             <uri>https://news.ycombinator.com/user?id=PretzelFisch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[炼钢术。通过帮助你的对手发现真相
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31940277</id>
-        <link href="https://news.ycombinator.com/item?id=31940277"/>
-        <updated>2022-06-30T23:52:48.000Z</updated>
-        <summary type="html"><![CDATA[Steelmanning: Discover the truth by helping your opponent]]></summary>
-        <author>
-            <name>kjhughes</name>
-            <uri>https://news.ycombinator.com/user?id=kjhughes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W3C推翻了Mozilla和Google对 "分散标识符 "的反对意见
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31939871</id>
-        <link href="https://news.ycombinator.com/item?id=31939871"/>
-        <updated>2022-06-30T23:08:51.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla and Google Objections Overruled on “Decentralized Identifiers” by W3C]]></summary>
-        <author>
-            <name>shiftingleft</name>
-            <uri>https://news.ycombinator.com/user?id=shiftingleft</uri>
         </author>
     </entry>
 </feed>

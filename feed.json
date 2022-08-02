@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32313242",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32313242",
+            "title": "PiBox：用于自我托管的微型个人服务器\n",
+            "summary": "PiBox: a tiny personal server for self-hosting",
+            "date_modified": "2022-08-01T23:04:20.000Z",
+            "author": {
+                "name": "erulabs",
+                "url": "https://news.ycombinator.com/user?id=erulabs"
+            },
+            "_original_headline": "PiBox: a tiny personal server for self-hosting",
+            "_original_url": "https://pibox.io/order",
+            "_sensitive": false,
+            "_score": 205
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32295095",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32295095",
+            "title": "人们在结果同样令人满意的决策上花费了太多的时间\n",
+            "summary": "People spend too much time on decisions with equally satisfying outcomes",
+            "date_modified": "2022-07-31T12:35:42.000Z",
+            "author": {
+                "name": "Bostonian",
+                "url": "https://news.ycombinator.com/user?id=Bostonian"
+            },
+            "_original_headline": "People spend too much time on decisions with equally satisfying outcomes",
+            "_original_url": "https://robkhenderson.substack.com/p/people-spend-too-much-time-on-decisions",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32314623",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32314623",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://boingboing.net/2022/07/01/youtube-removes-criticism-of-dangerous-fractal-wood-burning-instructions-but-leaves-up-the-lethal-tips.html",
             "_sensitive": false,
             "_score": 235
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31940277",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31940277",
-            "title": "炼钢术。通过帮助你的对手发现真相\n",
-            "summary": "Steelmanning: Discover the truth by helping your opponent",
-            "date_modified": "2022-06-30T23:52:48.000Z",
-            "author": {
-                "name": "kjhughes",
-                "url": "https://news.ycombinator.com/user?id=kjhughes"
-            },
-            "_original_headline": "Steelmanning: Discover the truth by helping your opponent",
-            "_original_url": "https://themindcollection.com/steelmanning-how-to-discover-the-truth-by-helping-your-opponent/",
-            "_sensitive": false,
-            "_score": 203
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31939871",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31939871",
-            "title": "W3C推翻了Mozilla和Google对 \"分散标识符 \"的反对意见\n",
-            "summary": "Mozilla and Google Objections Overruled on “Decentralized Identifiers” by W3C",
-            "date_modified": "2022-06-30T23:08:51.000Z",
-            "author": {
-                "name": "shiftingleft",
-                "url": "https://news.ycombinator.com/user?id=shiftingleft"
-            },
-            "_original_headline": "Mozilla and Google Objections Overruled on “Decentralized Identifiers” by W3C",
-            "_original_url": "https://www.w3.org/2022/06/DIDRecommendationDecision.html",
-            "_sensitive": false,
-            "_score": 204
         }
     ]
 }
