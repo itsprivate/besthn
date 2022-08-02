@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 02 Aug 2022 21:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 21:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美國證券交易委員會指控11名個人參與3億美元的加密貨幣金字塔計劃
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32308124</link>
+            <guid>https://news.ycombinator.com/item?id=32308124</guid>
+            <pubDate>Mon, 01 Aug 2022 16:07:54 GMT</pubDate>
+            <description><![CDATA[SEC Charges Eleven Individuals in $300M Crypto Pyramid Scheme]]></description>
+        </item>
         <item>
             <title><![CDATA[Go 1.19版發佈
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31947297</guid>
             <pubDate>Fri, 01 Jul 2022 15:00:14 GMT</pubDate>
             <description><![CDATA[Ask HN: Who is hiring? (July 2022)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不遺漏任何冷媒
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31946390</link>
-            <guid>https://news.ycombinator.com/item?id=31946390</guid>
-            <pubDate>Fri, 01 Jul 2022 13:53:14 GMT</pubDate>
-            <description><![CDATA[No Refrigerant Left Behind]]></description>
         </item>
     </channel>
 </rss>

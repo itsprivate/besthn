@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32308124",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32308124",
+            "title": "美国证券交易委员会指控11名个人参与3亿美元的加密货币金字塔计划\n",
+            "summary": "SEC Charges Eleven Individuals in $300M Crypto Pyramid Scheme",
+            "date_modified": "2022-08-01T16:07:54.000Z",
+            "author": {
+                "name": "makaimc",
+                "url": "https://news.ycombinator.com/user?id=makaimc"
+            },
+            "_original_headline": "SEC Charges Eleven Individuals in $300M Crypto Pyramid Scheme",
+            "_original_url": "https://www.sec.gov/news/press-release/2022-134",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32321499",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32321499",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://news.ycombinator.com/item?id=31947297",
             "_sensitive": false,
             "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31946390",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31946390",
-            "title": "不遗漏任何冷媒\n",
-            "summary": "No Refrigerant Left Behind",
-            "date_modified": "2022-07-01T13:53:14.000Z",
-            "author": {
-                "name": "exp1orer",
-                "url": "https://news.ycombinator.com/user?id=exp1orer"
-            },
-            "_original_headline": "No Refrigerant Left Behind",
-            "_original_url": "https://www.recoolit.com/post/no-refrigerant-left-behind",
-            "_sensitive": false,
-            "_score": 217
         }
     ]
 }

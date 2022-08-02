@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-02T21:02:42.507Z</updated>
+    <updated>2022-08-02T21:29:19.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國證券交易委員會指控11名個人參與3億美元的加密貨幣金字塔計劃
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32308124</id>
+        <link href="https://news.ycombinator.com/item?id=32308124"/>
+        <updated>2022-08-01T16:07:54.000Z</updated>
+        <summary type="html"><![CDATA[SEC Charges Eleven Individuals in $300M Crypto Pyramid Scheme]]></summary>
+        <author>
+            <name>makaimc</name>
+            <uri>https://news.ycombinator.com/user?id=makaimc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go 1.19版發佈
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>whoishiring</name>
             <uri>https://news.ycombinator.com/user?id=whoishiring</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不遺漏任何冷媒
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31946390</id>
-        <link href="https://news.ycombinator.com/item?id=31946390"/>
-        <updated>2022-07-01T13:53:14.000Z</updated>
-        <summary type="html"><![CDATA[No Refrigerant Left Behind]]></summary>
-        <author>
-            <name>exp1orer</name>
-            <uri>https://news.ycombinator.com/user?id=exp1orer</uri>
         </author>
     </entry>
 </feed>
