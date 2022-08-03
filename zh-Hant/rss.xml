@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 03 Aug 2022 16:48:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 17:41:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我在建立現代TUI框架方面學到的東西
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32331367</link>
+            <guid>https://news.ycombinator.com/item?id=32331367</guid>
+            <pubDate>Wed, 03 Aug 2022 13:24:45 GMT</pubDate>
+            <description><![CDATA[Things I've learned building a modern TUI framework]]></description>
+        </item>
+        <item>
+            <title><![CDATA[TikTok的毒藥
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32327791</link>
+            <guid>https://news.ycombinator.com/item?id=32327791</guid>
+            <pubDate>Wed, 03 Aug 2022 04:52:02 GMT</pubDate>
+            <description><![CDATA[TikTok’s Poison Pill]]></description>
+        </item>
         <item>
             <title><![CDATA[被淹沒不是一種榮譽的象徵
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31959289</guid>
             <pubDate>Sat, 02 Jul 2022 14:31:17 GMT</pubDate>
             <description><![CDATA[The new wave of React state management]]></description>
-        </item>
-        <item>
-            <title><![CDATA[數據分析的Python，第三版--在線開放存取版
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31957908</link>
-            <guid>https://news.ycombinator.com/item?id=31957908</guid>
-            <pubDate>Sat, 02 Jul 2022 10:53:05 GMT</pubDate>
-            <description><![CDATA[Python for Data Analysis, 3rd Edition – The Open Access Version Online]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個工程師寫文檔的技巧，讓開發者喜歡
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31945863</link>
-            <guid>https://news.ycombinator.com/item?id=31945863</guid>
-            <pubDate>Fri, 01 Jul 2022 13:09:46 GMT</pubDate>
-            <description><![CDATA[An engineer’s tips for writing documentation devs love]]></description>
         </item>
     </channel>
 </rss>

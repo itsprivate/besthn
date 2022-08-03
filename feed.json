@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32331367",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32331367",
+            "title": "我在建立现代TUI框架方面学到的东西\n",
+            "summary": "Things I've learned building a modern TUI framework",
+            "date_modified": "2022-08-03T13:24:45.000Z",
+            "author": {
+                "name": "willm",
+                "url": "https://news.ycombinator.com/user?id=willm"
+            },
+            "_original_headline": "Things I've learned building a modern TUI framework",
+            "_original_url": "https://www.textualize.io/blog/posts/7-things-about-terminals",
+            "_sensitive": false,
+            "_score": 207
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32327791",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32327791",
+            "title": "TikTok的毒药\n",
+            "summary": "TikTok’s Poison Pill",
+            "date_modified": "2022-08-03T04:52:02.000Z",
+            "author": {
+                "name": "yarapavan",
+                "url": "https://news.ycombinator.com/user?id=yarapavan"
+            },
+            "_original_headline": "TikTok’s Poison Pill",
+            "_original_url": "https://www.calnewport.com/blog/2022/08/01/tiktoks-poison-pill/",
+            "_sensitive": false,
+            "_score": 205
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32332109",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32332109",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://frontendmastery.com/posts/the-new-wave-of-react-state-management/",
             "_sensitive": false,
             "_score": 207
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31957908",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31957908",
-            "title": "数据分析的Python，第三版--在线开放存取版\n",
-            "summary": "Python for Data Analysis, 3rd Edition – The Open Access Version Online",
-            "date_modified": "2022-07-02T10:53:05.000Z",
-            "author": {
-                "name": "mariuz",
-                "url": "https://news.ycombinator.com/user?id=mariuz"
-            },
-            "_original_headline": "Python for Data Analysis, 3rd Edition – The Open Access Version Online",
-            "_original_url": "https://wesmckinney.com/book/",
-            "_sensitive": false,
-            "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31945863",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31945863",
-            "title": "一个工程师写文档的技巧，让开发者喜欢\n",
-            "summary": "An engineer’s tips for writing documentation devs love",
-            "date_modified": "2022-07-01T13:09:46.000Z",
-            "author": {
-                "name": "kiyanwang",
-                "url": "https://news.ycombinator.com/user?id=kiyanwang"
-            },
-            "_original_headline": "An engineer’s tips for writing documentation devs love",
-            "_original_url": "https://thenewstack.io/an-engineers-best-tips-for-writing-documentation-devs-love/",
-            "_sensitive": false,
-            "_score": 203
         }
     ]
 }

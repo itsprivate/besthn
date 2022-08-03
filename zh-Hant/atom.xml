@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-03T16:48:33.998Z</updated>
+    <updated>2022-08-03T17:41:24.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在建立現代TUI框架方面學到的東西
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32331367</id>
+        <link href="https://news.ycombinator.com/item?id=32331367"/>
+        <updated>2022-08-03T13:24:45.000Z</updated>
+        <summary type="html"><![CDATA[Things I've learned building a modern TUI framework]]></summary>
+        <author>
+            <name>willm</name>
+            <uri>https://news.ycombinator.com/user?id=willm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok的毒藥
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32327791</id>
+        <link href="https://news.ycombinator.com/item?id=32327791"/>
+        <updated>2022-08-03T04:52:02.000Z</updated>
+        <summary type="html"><![CDATA[TikTok’s Poison Pill]]></summary>
+        <author>
+            <name>yarapavan</name>
+            <uri>https://news.ycombinator.com/user?id=yarapavan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[被淹沒不是一種榮譽的象徵
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>remrem</name>
             <uri>https://news.ycombinator.com/user?id=remrem</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[數據分析的Python，第三版--在線開放存取版
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31957908</id>
-        <link href="https://news.ycombinator.com/item?id=31957908"/>
-        <updated>2022-07-02T10:53:05.000Z</updated>
-        <summary type="html"><![CDATA[Python for Data Analysis, 3rd Edition – The Open Access Version Online]]></summary>
-        <author>
-            <name>mariuz</name>
-            <uri>https://news.ycombinator.com/user?id=mariuz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個工程師寫文檔的技巧，讓開發者喜歡
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31945863</id>
-        <link href="https://news.ycombinator.com/item?id=31945863"/>
-        <updated>2022-07-01T13:09:46.000Z</updated>
-        <summary type="html"><![CDATA[An engineer’s tips for writing documentation devs love]]></summary>
-        <author>
-            <name>kiyanwang</name>
-            <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
         </author>
     </entry>
 </feed>
