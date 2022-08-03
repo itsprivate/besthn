@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-03T08:40:15.931Z</updated>
+    <updated>2022-08-03T09:33:38.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在科技界工作是為了氣候？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32324592</id>
+        <link href="https://news.ycombinator.com/item?id=32324592"/>
+        <updated>2022-08-02T21:39:03.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Working in tech for climate?]]></summary>
+        <author>
+            <name>oljvhnwo</name>
+            <uri>https://news.ycombinator.com/user?id=oljvhnwo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Y Combinator以經濟衰退和資金問題為由，將目前的學員規模縮小了40%。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>uptown</name>
             <uri>https://news.ycombinator.com/user?id=uptown</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[學習TLA+
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31952643</id>
-        <link href="https://news.ycombinator.com/item?id=31952643"/>
-        <updated>2022-07-01T20:48:09.000Z</updated>
-        <summary type="html"><![CDATA[Learn TLA+]]></summary>
-        <author>
-            <name>MindGods</name>
-            <uri>https://news.ycombinator.com/user?id=MindGods</uri>
         </author>
     </entry>
 </feed>

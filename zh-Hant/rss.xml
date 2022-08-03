@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 03 Aug 2022 08:40:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 09:33:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在科技界工作是為了氣候？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32324592</link>
+            <guid>https://news.ycombinator.com/item?id=32324592</guid>
+            <pubDate>Tue, 02 Aug 2022 21:39:03 GMT</pubDate>
+            <description><![CDATA[Ask HN: Working in tech for climate?]]></description>
+        </item>
         <item>
             <title><![CDATA[Y Combinator以經濟衰退和資金問題為由，將目前的學員規模縮小了40%。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31952379</guid>
             <pubDate>Fri, 01 Jul 2022 20:28:37 GMT</pubDate>
             <description><![CDATA[Voyager suspends trading, deposits, withdrawals, and loyalty rewards]]></description>
-        </item>
-        <item>
-            <title><![CDATA[學習TLA+
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31952643</link>
-            <guid>https://news.ycombinator.com/item?id=31952643</guid>
-            <pubDate>Fri, 01 Jul 2022 20:48:09 GMT</pubDate>
-            <description><![CDATA[Learn TLA+]]></description>
         </item>
     </channel>
 </rss>
