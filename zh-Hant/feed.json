@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32333115",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32333115",
+            "title": "圖解的TLS 1.3連接\n",
+            "summary": "The Illustrated TLS 1.3 Connection",
+            "date_modified": "2022-08-03T15:33:12.000Z",
+            "author": {
+                "name": "manchoz",
+                "url": "https://news.ycombinator.com/user?id=manchoz"
+            },
+            "_original_headline": "The Illustrated TLS 1.3 Connection",
+            "_original_url": "https://tls13.xargs.org",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32331781",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32331781",
+            "title": "用Cloudflare電子郵件路由劫持電子郵件\n",
+            "summary": "Hijacking Email with Cloudflare Email Routing",
+            "date_modified": "2022-08-03T14:02:19.000Z",
+            "author": {
+                "name": "albertpedersen",
+                "url": "https://news.ycombinator.com/user?id=albertpedersen"
+            },
+            "_original_headline": "Hijacking Email with Cloudflare Email Routing",
+            "_original_url": "https://albertpedersen.com/blog/hijacking-email-with-cloudflare-email-routing/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32318666",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32318666",
+            "title": "由於追蹤SPAR19的用戶激增，FlightRadar24崩潰了\n",
+            "summary": "FlightRadar24 crashes due to surge in users tracking SPAR19",
+            "date_modified": "2022-08-02T14:10:49.000Z",
+            "author": {
+                "name": "jeswin",
+                "url": "https://news.ycombinator.com/user?id=jeswin"
+            },
+            "_original_headline": "FlightRadar24 crashes due to surge in users tracking SPAR19",
+            "_original_url": "https://twitter.com/flightradar24/status/1554457269714264066",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32335165",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32335165",
@@ -9561,54 +9609,6 @@
             "_original_url": "https://startupwin.kelsus.com/p/watching-an-acquirer-ruin-your-company",
             "_sensitive": false,
             "_score": 204
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31952132",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31952132",
-            "title": "加州新法律要求高中推遲開學\n",
-            "summary": "New California law requires high schools to start later",
-            "date_modified": "2022-07-01T20:12:22.000Z",
-            "author": {
-                "name": "thnaks",
-                "url": "https://news.ycombinator.com/user?id=thnaks"
-            },
-            "_original_headline": "New California law requires high schools to start later",
-            "_original_url": "https://apnews.com/5197d3c602b0497d60c15d0bae20ad94",
-            "_sensitive": false,
-            "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31960814",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31960814",
-            "title": "荷蘭和歐洲的軟件工資的三態性（2021）。\n",
-            "summary": "The trimodal nature of software salaries in the Netherlands and Europe (2021)",
-            "date_modified": "2022-07-02T17:27:28.000Z",
-            "author": {
-                "name": "emirb",
-                "url": "https://news.ycombinator.com/user?id=emirb"
-            },
-            "_original_headline": "The trimodal nature of software salaries in the Netherlands and Europe (2021)",
-            "_original_url": "https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/",
-            "_sensitive": false,
-            "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31960962",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31960962",
-            "title": "Darktable 4.0\n",
-            "summary": "Darktable 4.0",
-            "date_modified": "2022-07-02T17:49:15.000Z",
-            "author": {
-                "name": "aendruk",
-                "url": "https://news.ycombinator.com/user?id=aendruk"
-            },
-            "_original_headline": "Darktable 4.0",
-            "_original_url": "https://www.darktable.org/2022/07/darktable-4.0.0-released/",
-            "_sensitive": false,
-            "_score": 211
         }
     ]
 }

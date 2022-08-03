@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-03T21:49:03.028Z</updated>
+    <updated>2022-08-03T22:49:56.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[圖解的TLS 1.3連接
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32333115</id>
+        <link href="https://news.ycombinator.com/item?id=32333115"/>
+        <updated>2022-08-03T15:33:12.000Z</updated>
+        <summary type="html"><![CDATA[The Illustrated TLS 1.3 Connection]]></summary>
+        <author>
+            <name>manchoz</name>
+            <uri>https://news.ycombinator.com/user?id=manchoz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Cloudflare電子郵件路由劫持電子郵件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32331781</id>
+        <link href="https://news.ycombinator.com/item?id=32331781"/>
+        <updated>2022-08-03T14:02:19.000Z</updated>
+        <summary type="html"><![CDATA[Hijacking Email with Cloudflare Email Routing]]></summary>
+        <author>
+            <name>albertpedersen</name>
+            <uri>https://news.ycombinator.com/user?id=albertpedersen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[由於追蹤SPAR19的用戶激增，FlightRadar24崩潰了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32318666</id>
+        <link href="https://news.ycombinator.com/item?id=32318666"/>
+        <updated>2022-08-02T14:10:49.000Z</updated>
+        <summary type="html"><![CDATA[FlightRadar24 crashes due to surge in users tracking SPAR19]]></summary>
+        <author>
+            <name>jeswin</name>
+            <uri>https://news.ycombinator.com/user?id=jeswin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生產力的色情
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>kelsus</name>
             <uri>https://news.ycombinator.com/user?id=kelsus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加州新法律要求高中推遲開學
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31952132</id>
-        <link href="https://news.ycombinator.com/item?id=31952132"/>
-        <updated>2022-07-01T20:12:22.000Z</updated>
-        <summary type="html"><![CDATA[New California law requires high schools to start later]]></summary>
-        <author>
-            <name>thnaks</name>
-            <uri>https://news.ycombinator.com/user?id=thnaks</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荷蘭和歐洲的軟件工資的三態性（2021）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31960814</id>
-        <link href="https://news.ycombinator.com/item?id=31960814"/>
-        <updated>2022-07-02T17:27:28.000Z</updated>
-        <summary type="html"><![CDATA[The trimodal nature of software salaries in the Netherlands and Europe (2021)]]></summary>
-        <author>
-            <name>emirb</name>
-            <uri>https://news.ycombinator.com/user?id=emirb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Darktable 4.0
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31960962</id>
-        <link href="https://news.ycombinator.com/item?id=31960962"/>
-        <updated>2022-07-02T17:49:15.000Z</updated>
-        <summary type="html"><![CDATA[Darktable 4.0]]></summary>
-        <author>
-            <name>aendruk</name>
-            <uri>https://news.ycombinator.com/user?id=aendruk</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 03 Aug 2022 21:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 22:49:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[图解的TLS 1.3连接
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32333115</link>
+            <guid>https://news.ycombinator.com/item?id=32333115</guid>
+            <pubDate>Wed, 03 Aug 2022 15:33:12 GMT</pubDate>
+            <description><![CDATA[The Illustrated TLS 1.3 Connection]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Cloudflare电子邮件路由劫持电子邮件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32331781</link>
+            <guid>https://news.ycombinator.com/item?id=32331781</guid>
+            <pubDate>Wed, 03 Aug 2022 14:02:19 GMT</pubDate>
+            <description><![CDATA[Hijacking Email with Cloudflare Email Routing]]></description>
+        </item>
+        <item>
+            <title><![CDATA[由于追踪SPAR19的用户激增，FlightRadar24崩溃了
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32318666</link>
+            <guid>https://news.ycombinator.com/item?id=32318666</guid>
+            <pubDate>Tue, 02 Aug 2022 14:10:49 GMT</pubDate>
+            <description><![CDATA[FlightRadar24 crashes due to surge in users tracking SPAR19]]></description>
+        </item>
         <item>
             <title><![CDATA[生产力的色情
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31963460</guid>
             <pubDate>Sat, 02 Jul 2022 23:26:55 GMT</pubDate>
             <description><![CDATA[Watching an acquirer ruin your company]]></description>
-        </item>
-        <item>
-            <title><![CDATA[加州新法律要求高中推迟开学
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31952132</link>
-            <guid>https://news.ycombinator.com/item?id=31952132</guid>
-            <pubDate>Fri, 01 Jul 2022 20:12:22 GMT</pubDate>
-            <description><![CDATA[New California law requires high schools to start later]]></description>
-        </item>
-        <item>
-            <title><![CDATA[荷兰和欧洲的软件工资的三态性（2021）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31960814</link>
-            <guid>https://news.ycombinator.com/item?id=31960814</guid>
-            <pubDate>Sat, 02 Jul 2022 17:27:28 GMT</pubDate>
-            <description><![CDATA[The trimodal nature of software salaries in the Netherlands and Europe (2021)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Darktable 4.0
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31960962</link>
-            <guid>https://news.ycombinator.com/item?id=31960962</guid>
-            <pubDate>Sat, 02 Jul 2022 17:49:15 GMT</pubDate>
-            <description><![CDATA[Darktable 4.0]]></description>
         </item>
     </channel>
 </rss>
