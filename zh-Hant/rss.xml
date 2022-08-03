@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 03 Aug 2022 13:58:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 15:38:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[惡意代碼添加到35000個GitHub倉庫，洩露用戶環境
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32327903</link>
+            <guid>https://news.ycombinator.com/item?id=32327903</guid>
+            <pubDate>Wed, 03 Aug 2022 05:16:31 GMT</pubDate>
+            <description><![CDATA[Malicious code added to 35k GitHub repos, leaking user environments]]></description>
+        </item>
+        <item>
+            <title><![CDATA[非營利組織markups.org曝光最令人震驚的新車價格
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32326846</link>
+            <guid>https://news.ycombinator.com/item?id=32326846</guid>
+            <pubDate>Wed, 03 Aug 2022 02:13:51 GMT</pubDate>
+            <description><![CDATA[Nonprofit markups.org is exposing the most egregious new car prices]]></description>
+        </item>
         <item>
             <title><![CDATA[中村英樹的禁忌平臺
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31958536</guid>
             <pubDate>Sat, 02 Jul 2022 12:41:23 GMT</pubDate>
             <description><![CDATA[How does rsync work?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Scunthorpe Sans, 一種能自動審查不良語言的字體
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31957551</link>
-            <guid>https://news.ycombinator.com/item?id=31957551</guid>
-            <pubDate>Sat, 02 Jul 2022 09:38:50 GMT</pubDate>
-            <description><![CDATA[Scunthorpe Sans, A font that censors bad language automatically]]></description>
-        </item>
-        <item>
-            <title><![CDATA[開源不是為了你（2018）
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31957554</link>
-            <guid>https://news.ycombinator.com/item?id=31957554</guid>
-            <pubDate>Sat, 02 Jul 2022 09:39:39 GMT</pubDate>
-            <description><![CDATA[Open source is not about you (2018)]]></description>
         </item>
     </channel>
 </rss>
