@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32325055",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32325055",
+            "title": "我仍然喜歡PHP和JavaScript\n",
+            "summary": "I still love PHP and JavaScript",
+            "date_modified": "2022-08-02T22:27:29.000Z",
+            "author": {
+                "name": "larve",
+                "url": "https://news.ycombinator.com/user?id=larve"
+            },
+            "_original_headline": "I still love PHP and JavaScript",
+            "_original_url": "https://the.scapegoat.dev/why-i-love-php-and-javascript/",
+            "_sensitive": false,
+            "_score": 209
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32322329",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32322329",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://twitter.com/davidism/status/1542956488355762176",
             "_sensitive": false,
             "_score": 234
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31945564",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31945564",
-            "title": "像專家一樣在Python中登錄\n",
-            "summary": "Logging in Python like a pro",
-            "date_modified": "2022-07-01T12:38:56.000Z",
-            "author": {
-                "name": "EntICOnc",
-                "url": "https://news.ycombinator.com/user?id=EntICOnc"
-            },
-            "_original_headline": "Logging in Python like a pro",
-            "_original_url": "https://guicommits.com/how-to-log-in-python-like-a-pro/",
-            "_sensitive": false,
-            "_score": 204
         }
     ]
 }
