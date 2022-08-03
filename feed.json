@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32328846",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32328846",
+            "title": "中村英树的禁忌平台\n",
+            "summary": "Hikaru Nakamura's Forbidden Platform",
+            "date_modified": "2022-08-03T07:55:35.000Z",
+            "author": {
+                "name": "jdthedisciple",
+                "url": "https://news.ycombinator.com/user?id=jdthedisciple"
+            },
+            "_original_headline": "Hikaru Nakamura's Forbidden Platform",
+            "_original_url": "https://lichess.org/blog/Yt7x2BAAACkABlKS/a-first-time-grandmaster-titled-arena-winner-and-nakamuras-forbidden-platform",
+            "_sensitive": false,
+            "_score": 212
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32328185",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32328185",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "Open source is not about you (2018)",
             "_original_url": "https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9",
-            "_sensitive": false,
-            "_score": 203
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31955970",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31955970",
-            "title": "Tailscale吃掉了我的网络（而我喜欢它）\n",
-            "summary": "Tailscale ate my network (and I love it)",
-            "date_modified": "2022-07-02T03:38:00.000Z",
-            "author": {
-                "name": "smackeyacky",
-                "url": "https://news.ycombinator.com/user?id=smackeyacky"
-            },
-            "_original_headline": "Tailscale ate my network (and I love it)",
-            "_original_url": "https://smackeyacky.blogspot.com/2022/07/tailscale-ate-my-network-and-i-love-it.html",
             "_sensitive": false,
             "_score": 203
         }
