@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 03 Aug 2022 04:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 07:27:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[离开Facebook/Meta是我们能为社区做的最好的事情
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32323746</link>
+            <guid>https://news.ycombinator.com/item?id=32323746</guid>
+            <pubDate>Tue, 02 Aug 2022 20:16:55 GMT</pubDate>
+            <description><![CDATA[Leaving Facebook/Meta was the best thing we could do for the community]]></description>
+        </item>
         <item>
             <title><![CDATA[我仍然喜欢PHP和JavaScript
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31950097</guid>
             <pubDate>Fri, 01 Jul 2022 17:51:53 GMT</pubDate>
             <description><![CDATA[Uzi Nissan (nissan.com) died of covid July 2020 and the website is now down]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Flask上没有开放的问题或拉动请求
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31953470</link>
-            <guid>https://news.ycombinator.com/item?id=31953470</guid>
-            <pubDate>Fri, 01 Jul 2022 21:50:44 GMT</pubDate>
-            <description><![CDATA[There are no open issues or pull requests on Flask]]></description>
         </item>
     </channel>
 </rss>

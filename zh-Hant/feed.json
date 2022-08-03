@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32323746",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32323746",
+            "title": "離開Facebook/Meta是我們能為社區做的最好的事情\n",
+            "summary": "Leaving Facebook/Meta was the best thing we could do for the community",
+            "date_modified": "2022-08-02T20:16:55.000Z",
+            "author": {
+                "name": "electrum",
+                "url": "https://news.ycombinator.com/user?id=electrum"
+            },
+            "_original_headline": "Leaving Facebook/Meta was the best thing we could do for the community",
+            "_original_url": "https://trino.io/blog/2022/08/02/leaving-facebook-meta-best-for-trino.html",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32325055",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32325055",
@@ -9593,22 +9609,6 @@
             "_original_url": "http://www.nissan.com/",
             "_sensitive": false,
             "_score": 201
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31953470",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31953470",
-            "title": "Flask上沒有開放的問題或拉動請求\n",
-            "summary": "There are no open issues or pull requests on Flask",
-            "date_modified": "2022-07-01T21:50:44.000Z",
-            "author": {
-                "name": "b_mc2",
-                "url": "https://news.ycombinator.com/user?id=b_mc2"
-            },
-            "_original_headline": "There are no open issues or pull requests on Flask",
-            "_original_url": "https://twitter.com/davidism/status/1542956488355762176",
-            "_sensitive": false,
-            "_score": 234
         }
     ]
 }
