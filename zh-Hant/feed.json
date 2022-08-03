@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32333565",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32333565",
+            "title": "為什麼基於樹的模型在表格數據上的表現仍然優於深度學習？\n",
+            "summary": "Why do tree-based models still outperform deep learning on tabular data?",
+            "date_modified": "2022-08-03T16:08:02.000Z",
+            "author": {
+                "name": "isolli",
+                "url": "https://news.ycombinator.com/user?id=isolli"
+            },
+            "_original_headline": "Why do tree-based models still outperform deep learning on tabular data?",
+            "_original_url": "https://arxiv.org/abs/2207.08815",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32333115",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32333115",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://erikmcclure.com/blog/windows-malloc-implementation-is-a-trash-fire/",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31963460",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31963460",
-            "title": "看著一個收購者毀掉你的公司\n",
-            "summary": "Watching an acquirer ruin your company",
-            "date_modified": "2022-07-02T23:26:55.000Z",
-            "author": {
-                "name": "kelsus",
-                "url": "https://news.ycombinator.com/user?id=kelsus"
-            },
-            "_original_headline": "Watching an acquirer ruin your company",
-            "_original_url": "https://startupwin.kelsus.com/p/watching-an-acquirer-ruin-your-company",
-            "_sensitive": false,
-            "_score": 204
         }
     ]
 }

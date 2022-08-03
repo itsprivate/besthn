@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-03T22:49:56.503Z</updated>
+    <updated>2022-08-03T23:49:26.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼基於樹的模型在表格數據上的表現仍然優於深度學習？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32333565</id>
+        <link href="https://news.ycombinator.com/item?id=32333565"/>
+        <updated>2022-08-03T16:08:02.000Z</updated>
+        <summary type="html"><![CDATA[Why do tree-based models still outperform deep learning on tabular data?]]></summary>
+        <author>
+            <name>isolli</name>
+            <uri>https://news.ycombinator.com/user?id=isolli</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[圖解的TLS 1.3連接
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>blackhole</name>
             <uri>https://news.ycombinator.com/user?id=blackhole</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看著一個收購者毀掉你的公司
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31963460</id>
-        <link href="https://news.ycombinator.com/item?id=31963460"/>
-        <updated>2022-07-02T23:26:55.000Z</updated>
-        <summary type="html"><![CDATA[Watching an acquirer ruin your company]]></summary>
-        <author>
-            <name>kelsus</name>
-            <uri>https://news.ycombinator.com/user?id=kelsus</uri>
         </author>
     </entry>
 </feed>
