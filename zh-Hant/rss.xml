@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 03 Aug 2022 10:35:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 11:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[麻省理工學院發明4美元的太陽能脫鹽裝置
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32328185</link>
+            <guid>https://news.ycombinator.com/item?id=32328185</guid>
+            <pubDate>Wed, 03 Aug 2022 06:08:52 GMT</pubDate>
+            <description><![CDATA[MIT invents $4 solar desalination device]]></description>
+        </item>
         <item>
             <title><![CDATA[FauxPilot - 嘗試建立一個本地託管的GitHub Copilot版本
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31955970</guid>
             <pubDate>Sat, 02 Jul 2022 03:38:00 GMT</pubDate>
             <description><![CDATA[Tailscale ate my network (and I love it)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GPU的短缺已經結束
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31953662</link>
-            <guid>https://news.ycombinator.com/item?id=31953662</guid>
-            <pubDate>Fri, 01 Jul 2022 22:09:36 GMT</pubDate>
-            <description><![CDATA[The GPU shortage is over]]></description>
         </item>
     </channel>
 </rss>

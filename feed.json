@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32328185",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32328185",
+            "title": "麻省理工学院发明4美元的太阳能脱盐装置\n",
+            "summary": "MIT invents $4 solar desalination device",
+            "date_modified": "2022-08-03T06:08:52.000Z",
+            "author": {
+                "name": "serverlessmom",
+                "url": "https://news.ycombinator.com/user?id=serverlessmom"
+            },
+            "_original_headline": "MIT invents $4 solar desalination device",
+            "_original_url": "https://www.freethink.com/technology/solar-desalination",
+            "_sensitive": false,
+            "_score": 214
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32327711",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32327711",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://smackeyacky.blogspot.com/2022/07/tailscale-ate-my-network-and-i-love-it.html",
             "_sensitive": false,
             "_score": 203
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31953662",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31953662",
-            "title": "GPU的短缺已经结束\n",
-            "summary": "The GPU shortage is over",
-            "date_modified": "2022-07-01T22:09:36.000Z",
-            "author": {
-                "name": "mfiguiere",
-                "url": "https://news.ycombinator.com/user?id=mfiguiere"
-            },
-            "_original_headline": "The GPU shortage is over",
-            "_original_url": "https://www.theverge.com/2022/7/1/23191634/nvidia-amd-gpu-shortage-over-3080-3070-3060-radeon-rx-6900-6800",
-            "_sensitive": false,
-            "_score": 205
         }
     ]
 }
