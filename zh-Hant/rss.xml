@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 03 Aug 2022 19:47:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 21:49:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[生產力的色情
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32335165</link>
+            <guid>https://news.ycombinator.com/item?id=32335165</guid>
+            <pubDate>Wed, 03 Aug 2022 18:21:36 GMT</pubDate>
+            <description><![CDATA[Productivity porn]]></description>
+        </item>
         <item>
             <title><![CDATA[你在書中發現的最奇怪的事情是什麼？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31960962</guid>
             <pubDate>Sat, 02 Jul 2022 17:49:15 GMT</pubDate>
             <description><![CDATA[Darktable 4.0]]></description>
-        </item>
-        <item>
-            <title><![CDATA[雅虎承認篡改電子郵件 (2002)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31959890</link>
-            <guid>https://news.ycombinator.com/item?id=31959890</guid>
-            <pubDate>Sat, 02 Jul 2022 15:33:20 GMT</pubDate>
-            <description><![CDATA[Yahoo admits mangling e-mail (2002)]]></description>
         </item>
     </channel>
 </rss>
