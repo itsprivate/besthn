@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 03 Aug 2022 09:33:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 10:35:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[FauxPilot - 嘗試建立一個本地託管的GitHub Copilot版本
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32327711</link>
+            <guid>https://news.ycombinator.com/item?id=32327711</guid>
+            <pubDate>Wed, 03 Aug 2022 04:38:11 GMT</pubDate>
+            <description><![CDATA[FauxPilot – an attempt to build a locally hosted version of GitHub Copilot]]></description>
+        </item>
         <item>
             <title><![CDATA[在科技界工作是為了氣候？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31953662</guid>
             <pubDate>Fri, 01 Jul 2022 22:09:36 GMT</pubDate>
             <description><![CDATA[The GPU shortage is over]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Voyager暫停交易、存款、提款和忠誠度獎勵
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31952379</link>
-            <guid>https://news.ycombinator.com/item?id=31952379</guid>
-            <pubDate>Fri, 01 Jul 2022 20:28:37 GMT</pubDate>
-            <description><![CDATA[Voyager suspends trading, deposits, withdrawals, and loyalty rewards]]></description>
         </item>
     </channel>
 </rss>
