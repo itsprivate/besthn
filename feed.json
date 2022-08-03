@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32332109",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32332109",
+            "title": "被淹没不是一种荣誉的象征\n",
+            "summary": "Being swamped is not a badge of honor",
+            "date_modified": "2022-08-03T14:25:03.000Z",
+            "author": {
+                "name": "gk1",
+                "url": "https://news.ycombinator.com/user?id=gk1"
+            },
+            "_original_headline": "Being swamped is not a badge of honor",
+            "_original_url": "https://www.gkogan.co/blog/swamped/",
+            "_sensitive": false,
+            "_score": 221
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32329399",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32329399",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://thenewstack.io/an-engineers-best-tips-for-writing-documentation-devs-love/",
             "_sensitive": false,
             "_score": 203
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31949621",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31949621",
-            "title": "用htmx和超文本重新想象前端网络开发\n",
-            "summary": "Reimagining front-end web development with htmx and hyperscript",
-            "date_modified": "2022-07-01T17:18:01.000Z",
-            "author": {
-                "name": "mpweiher",
-                "url": "https://news.ycombinator.com/user?id=mpweiher"
-            },
-            "_original_headline": "Reimagining front-end web development with htmx and hyperscript",
-            "_original_url": "https://nomadiq.hashnode.dev/reimagining-front-end-web-development-with-htmx-and-hyperscript",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }

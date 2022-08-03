@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 03 Aug 2022 15:59:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 16:48:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[被淹沒不是一種榮譽的象徵
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32332109</link>
+            <guid>https://news.ycombinator.com/item?id=32332109</guid>
+            <pubDate>Wed, 03 Aug 2022 14:25:03 GMT</pubDate>
+            <description><![CDATA[Being swamped is not a badge of honor]]></description>
+        </item>
         <item>
             <title><![CDATA[Django 4.1
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31945863</guid>
             <pubDate>Fri, 01 Jul 2022 13:09:46 GMT</pubDate>
             <description><![CDATA[An engineer’s tips for writing documentation devs love]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用htmx和超文本重新想象前端網絡開發
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31949621</link>
-            <guid>https://news.ycombinator.com/item?id=31949621</guid>
-            <pubDate>Fri, 01 Jul 2022 17:18:01 GMT</pubDate>
-            <description><![CDATA[Reimagining front-end web development with htmx and hyperscript]]></description>
         </item>
     </channel>
 </rss>
