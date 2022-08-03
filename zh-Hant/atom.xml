@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-03T17:41:24.961Z</updated>
+    <updated>2022-08-03T19:47:41.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在書中發現的最奇怪的事情是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32334552</id>
+        <link href="https://news.ycombinator.com/item?id=32334552"/>
+        <updated>2022-08-03T17:26:30.000Z</updated>
+        <summary type="html"><![CDATA[What’s the strangest thing you ever found in a book?]]></summary>
+        <author>
+            <name>ColinWright</name>
+            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在建立現代TUI框架方面學到的東西
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Andoryuuta</name>
             <uri>https://news.ycombinator.com/user?id=Andoryuuta</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React狀態管理的新浪潮
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31959289</id>
-        <link href="https://news.ycombinator.com/item?id=31959289"/>
-        <updated>2022-07-02T14:31:17.000Z</updated>
-        <summary type="html"><![CDATA[The new wave of React state management]]></summary>
-        <author>
-            <name>remrem</name>
-            <uri>https://news.ycombinator.com/user?id=remrem</uri>
         </author>
     </entry>
 </feed>
