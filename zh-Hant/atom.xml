@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-04T03:51:18.308Z</updated>
+    <updated>2022-08-04T04:35:04.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Adadot--為更好、更快樂的開發者提供分析服務
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32331359</id>
+        <link href="https://news.ycombinator.com/item?id=32331359"/>
+        <updated>2022-08-03T13:23:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Adadot – analytics for better, happier developers]]></summary>
+        <author>
+            <name>Adadot</name>
+            <uri>https://news.ycombinator.com/user?id=Adadot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[切斷俗套的錯誤
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>fortran77</name>
             <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文件顯示麥肯錫的作用是在2019年前增加阿片類藥物的銷量
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31963813</id>
-        <link href="https://news.ycombinator.com/item?id=31963813"/>
-        <updated>2022-07-03T00:23:07.000Z</updated>
-        <summary type="html"><![CDATA[Documents reveal McKinsey's role increasing opioid sales until 2019]]></summary>
-        <author>
-            <name>Jerry2</name>
-            <uri>https://news.ycombinator.com/user?id=Jerry2</uri>
         </author>
     </entry>
 </feed>
