@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-03T23:49:26.436Z</updated>
+    <updated>2022-08-04T03:51:18.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[切断俗套的错误
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32337520</id>
+        <link href="https://news.ycombinator.com/item?id=32337520"/>
+        <updated>2022-08-03T23:06:42.000Z</updated>
+        <summary type="html"><![CDATA[Cut the cutesy errors]]></summary>
+        <author>
+            <name>panic</name>
+            <uri>https://news.ycombinator.com/user?id=panic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么基于树的模型在表格数据上的表现仍然优于深度学习？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Jerry2</name>
             <uri>https://news.ycombinator.com/user?id=Jerry2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSVCRT的Windows malloc()实现很慢
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31961912</id>
-        <link href="https://news.ycombinator.com/item?id=31961912"/>
-        <updated>2022-07-02T20:08:38.000Z</updated>
-        <summary type="html"><![CDATA[The Windows malloc() implementation from MSVCRT is slow]]></summary>
-        <author>
-            <name>blackhole</name>
-            <uri>https://news.ycombinator.com/user?id=blackhole</uri>
         </author>
     </entry>
 </feed>

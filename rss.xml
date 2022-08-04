@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 03 Aug 2022 23:49:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 03:51:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[切断俗套的错误
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32337520</link>
+            <guid>https://news.ycombinator.com/item?id=32337520</guid>
+            <pubDate>Wed, 03 Aug 2022 23:06:42 GMT</pubDate>
+            <description><![CDATA[Cut the cutesy errors]]></description>
+        </item>
         <item>
             <title><![CDATA[为什么基于树的模型在表格数据上的表现仍然优于深度学习？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31963813</guid>
             <pubDate>Sun, 03 Jul 2022 00:23:07 GMT</pubDate>
             <description><![CDATA[Documents reveal McKinsey's role increasing opioid sales until 2019]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MSVCRT的Windows malloc()实现很慢
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31961912</link>
-            <guid>https://news.ycombinator.com/item?id=31961912</guid>
-            <pubDate>Sat, 02 Jul 2022 20:08:38 GMT</pubDate>
-            <description><![CDATA[The Windows malloc() implementation from MSVCRT is slow]]></description>
         </item>
     </channel>
 </rss>
