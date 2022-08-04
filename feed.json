@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32345087",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32345087",
+            "title": "OG社会网络。其他人的网站\n",
+            "summary": "The OG Social Network: Other People’s Websites",
+            "date_modified": "2022-08-04T16:32:24.000Z",
+            "author": {
+                "name": "headalgorithm",
+                "url": "https://news.ycombinator.com/user?id=headalgorithm"
+            },
+            "_original_headline": "The OG Social Network: Other People’s Websites",
+            "_original_url": "https://blog.jim-nielsen.com/2022/other-peoples-websites/",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32342334",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32342334",
+            "title": "启动HN：CodeCrafters (YC S22) - 练习编写复杂的软件\n",
+            "summary": "Launch HN: CodeCrafters (YC S22) – Practice writing complex software",
+            "date_modified": "2022-08-04T13:05:32.000Z",
+            "author": {
+                "name": "rohitpaulk",
+                "url": "https://news.ycombinator.com/user?id=rohitpaulk"
+            },
+            "_original_headline": "Launch HN: CodeCrafters (YC S22) – Practice writing complex software",
+            "_original_url": "https://codecrafters.io",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32327986",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32327986",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://twitter.com/tony_breu/status/1543311124560592898",
             "_sensitive": false,
             "_score": 205
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31947277",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31947277",
-            "title": "如何搞砸一个机场\n",
-            "summary": "How to fuck up an airport",
-            "date_modified": "2022-07-01T14:59:00.000Z",
-            "author": {
-                "name": "danso",
-                "url": "https://news.ycombinator.com/user?id=danso"
-            },
-            "_original_headline": "How to fuck up an airport",
-            "_original_url": "https://www.radiospaetkauf.com/ber/",
-            "_sensitive": false,
-            "_score": 204
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31961992",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31961992",
-            "title": "我已经41岁了，仍然没有结婚--我应该怎么办？\n",
-            "summary": "Ask HN: I’m 41 and still unmarried – what should I do?",
-            "date_modified": "2022-07-02T20:19:12.000Z",
-            "author": {
-                "name": "actfrench",
-                "url": "https://news.ycombinator.com/user?id=actfrench"
-            },
-            "_original_headline": "Ask HN: I’m 41 and still unmarried – what should I do?",
-            "_original_url": "https://news.ycombinator.com/item?id=31961992",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }

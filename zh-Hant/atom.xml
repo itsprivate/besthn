@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-04T22:31:43.883Z</updated>
+    <updated>2022-08-04T22:50:00.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[OG社會網絡。其他人的網站
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32345087</id>
+        <link href="https://news.ycombinator.com/item?id=32345087"/>
+        <updated>2022-08-04T16:32:24.000Z</updated>
+        <summary type="html"><![CDATA[The OG Social Network: Other People’s Websites]]></summary>
+        <author>
+            <name>headalgorithm</name>
+            <uri>https://news.ycombinator.com/user?id=headalgorithm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[啟動HN：CodeCrafters (YC S22) - 練習編寫複雜的軟件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32342334</id>
+        <link href="https://news.ycombinator.com/item?id=32342334"/>
+        <updated>2022-08-04T13:05:32.000Z</updated>
+        <summary type="html"><![CDATA[Launch HN: CodeCrafters (YC S22) – Practice writing complex software]]></summary>
+        <author>
+            <name>rohitpaulk</name>
+            <uri>https://news.ycombinator.com/user?id=rohitpaulk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vulkan更新：Raspberry Pi 4的1.2版本的一致性
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>panabee</name>
             <uri>https://news.ycombinator.com/user?id=panabee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何搞砸一個機場
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31947277</id>
-        <link href="https://news.ycombinator.com/item?id=31947277"/>
-        <updated>2022-07-01T14:59:00.000Z</updated>
-        <summary type="html"><![CDATA[How to fuck up an airport]]></summary>
-        <author>
-            <name>danso</name>
-            <uri>https://news.ycombinator.com/user?id=danso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我已經41歲了，仍然沒有結婚--我應該怎麼辦？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31961992</id>
-        <link href="https://news.ycombinator.com/item?id=31961992"/>
-        <updated>2022-07-02T20:19:12.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I’m 41 and still unmarried – what should I do?]]></summary>
-        <author>
-            <name>actfrench</name>
-            <uri>https://news.ycombinator.com/user?id=actfrench</uri>
         </author>
     </entry>
 </feed>

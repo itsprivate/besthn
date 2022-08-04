@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 04 Aug 2022 22:31:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 22:50:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[OG社会网络。其他人的网站
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32345087</link>
+            <guid>https://news.ycombinator.com/item?id=32345087</guid>
+            <pubDate>Thu, 04 Aug 2022 16:32:24 GMT</pubDate>
+            <description><![CDATA[The OG Social Network: Other People’s Websites]]></description>
+        </item>
+        <item>
+            <title><![CDATA[启动HN：CodeCrafters (YC S22) - 练习编写复杂的软件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32342334</link>
+            <guid>https://news.ycombinator.com/item?id=32342334</guid>
+            <pubDate>Thu, 04 Aug 2022 13:05:32 GMT</pubDate>
+            <description><![CDATA[Launch HN: CodeCrafters (YC S22) – Practice writing complex software]]></description>
+        </item>
         <item>
             <title><![CDATA[Vulkan更新：Raspberry Pi 4的1.2版本的一致性
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31968114</guid>
             <pubDate>Sun, 03 Jul 2022 14:50:02 GMT</pubDate>
             <description><![CDATA[Why does iron deficiency cause fatigue, even in the absence of anemia?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何搞砸一个机场
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31947277</link>
-            <guid>https://news.ycombinator.com/item?id=31947277</guid>
-            <pubDate>Fri, 01 Jul 2022 14:59:00 GMT</pubDate>
-            <description><![CDATA[How to fuck up an airport]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我已经41岁了，仍然没有结婚--我应该怎么办？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31961992</link>
-            <guid>https://news.ycombinator.com/item?id=31961992</guid>
-            <pubDate>Sat, 02 Jul 2022 20:19:12 GMT</pubDate>
-            <description><![CDATA[Ask HN: I’m 41 and still unmarried – what should I do?]]></description>
         </item>
     </channel>
 </rss>
