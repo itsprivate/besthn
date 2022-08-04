@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32338186",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32338186",
+            "title": "將垃圾郵件發送至密碼煉獄\n",
+            "summary": "Sending spammers to password purgatory",
+            "date_modified": "2022-08-04T00:57:31.000Z",
+            "author": {
+                "name": "itsjloh",
+                "url": "https://news.ycombinator.com/user?id=itsjloh"
+            },
+            "_original_headline": "Sending spammers to password purgatory",
+            "_original_url": "https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/",
+            "_sensitive": false,
+            "_score": 205
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32339314",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32339314",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "Found: The 'holy grail of catalysis'– turning methane into methanol",
             "_original_url": "https://phys.org/news/2022-06-holy-grail-catalysisturning-methane-methanol.html",
-            "_sensitive": false,
-            "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31961402",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31961402",
-            "title": "京都項目正在從GitHub轉移到Sourcehut\n",
-            "summary": "Kyoto project is moving from GitHub to Sourcehut",
-            "date_modified": "2022-07-02T18:56:00.000Z",
-            "author": {
-                "name": "gkbrk",
-                "url": "https://news.ycombinator.com/user?id=gkbrk"
-            },
-            "_original_headline": "Kyoto project is moving from GitHub to Sourcehut",
-            "_original_url": "https://github.com/kyoto-framework/kyoto",
             "_sensitive": false,
             "_score": 200
         }

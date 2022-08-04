@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-04T11:46:41.165Z</updated>
+    <updated>2022-08-04T11:57:32.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[将垃圾邮件发送至密码炼狱
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32338186</id>
+        <link href="https://news.ycombinator.com/item?id=32338186"/>
+        <updated>2022-08-04T00:57:31.000Z</updated>
+        <summary type="html"><![CDATA[Sending spammers to password purgatory]]></summary>
+        <author>
+            <name>itsjloh</name>
+            <uri>https://news.ycombinator.com/user?id=itsjloh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[垃圾邮件启示录
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pseudolus</name>
             <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[京都项目正在从GitHub转移到Sourcehut
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31961402</id>
-        <link href="https://news.ycombinator.com/item?id=31961402"/>
-        <updated>2022-07-02T18:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Kyoto project is moving from GitHub to Sourcehut]]></summary>
-        <author>
-            <name>gkbrk</name>
-            <uri>https://news.ycombinator.com/user?id=gkbrk</uri>
         </author>
     </entry>
 </feed>
