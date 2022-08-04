@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 04 Aug 2022 13:04:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 18:38:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[什麼HN帖子讓你賺錢？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32341922</link>
+            <guid>https://news.ycombinator.com/item?id=32341922</guid>
+            <pubDate>Thu, 04 Aug 2022 12:26:33 GMT</pubDate>
+            <description><![CDATA[Ask HN: What HN post made you money?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[縱橫捭闔。羅馬路線規劃器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32340430</link>
+            <guid>https://news.ycombinator.com/item?id=32340430</guid>
+            <pubDate>Thu, 04 Aug 2022 08:06:22 GMT</pubDate>
+            <description><![CDATA[OmnesViae: Roman Routeplanner]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼YouTube的質量會急劇下降？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31964685</guid>
             <pubDate>Sun, 03 Jul 2022 03:05:10 GMT</pubDate>
             <description><![CDATA[How to build a chess engine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[40%的谷歌用戶現在通過IPv6連接
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31967221</link>
-            <guid>https://news.ycombinator.com/item?id=31967221</guid>
-            <pubDate>Sun, 03 Jul 2022 12:33:32 GMT</pubDate>
-            <description><![CDATA[40% of Google users now connect via IPv6]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Vite - 下一代前端工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31967420</link>
-            <guid>https://news.ycombinator.com/item?id=31967420</guid>
-            <pubDate>Sun, 03 Jul 2022 13:06:54 GMT</pubDate>
-            <description><![CDATA[Vite – Next Generation Front End Tooling]]></description>
         </item>
     </channel>
 </rss>

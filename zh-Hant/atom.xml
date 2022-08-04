@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-04T13:04:34.819Z</updated>
+    <updated>2022-08-04T18:38:54.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什麼HN帖子讓你賺錢？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32341922</id>
+        <link href="https://news.ycombinator.com/item?id=32341922"/>
+        <updated>2022-08-04T12:26:33.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What HN post made you money?]]></summary>
+        <author>
+            <name>cetaphil</name>
+            <uri>https://news.ycombinator.com/user?id=cetaphil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[縱橫捭闔。羅馬路線規劃器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32340430</id>
+        <link href="https://news.ycombinator.com/item?id=32340430"/>
+        <updated>2022-08-04T08:06:22.000Z</updated>
+        <summary type="html"><![CDATA[OmnesViae: Roman Routeplanner]]></summary>
+        <author>
+            <name>desindol</name>
+            <uri>https://news.ycombinator.com/user?id=desindol</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼YouTube的質量會急劇下降？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>fredrickd</name>
             <uri>https://news.ycombinator.com/user?id=fredrickd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[40%的谷歌用戶現在通過IPv6連接
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31967221</id>
-        <link href="https://news.ycombinator.com/item?id=31967221"/>
-        <updated>2022-07-03T12:33:32.000Z</updated>
-        <summary type="html"><![CDATA[40% of Google users now connect via IPv6]]></summary>
-        <author>
-            <name>leohonexus</name>
-            <uri>https://news.ycombinator.com/user?id=leohonexus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite - 下一代前端工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31967420</id>
-        <link href="https://news.ycombinator.com/item?id=31967420"/>
-        <updated>2022-07-03T13:06:54.000Z</updated>
-        <summary type="html"><![CDATA[Vite – Next Generation Front End Tooling]]></summary>
-        <author>
-            <name>legrande</name>
-            <uri>https://news.ycombinator.com/user?id=legrande</uri>
         </author>
     </entry>
 </feed>
