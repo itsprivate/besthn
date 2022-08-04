@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 04 Aug 2022 21:02:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 21:30:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[老笑話
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32345404</link>
+            <guid>https://news.ycombinator.com/item?id=32345404</guid>
+            <pubDate>Thu, 04 Aug 2022 16:57:50 GMT</pubDate>
+            <description><![CDATA[Old jokes]]></description>
+        </item>
         <item>
             <title><![CDATA[C99不需要函數體，或者說 "VLA是圖靈完全"。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31965969</guid>
             <pubDate>Sun, 03 Jul 2022 08:01:43 GMT</pubDate>
             <description><![CDATA[Operation Gunman – how the Soviets bugged IBM typewriters (2015)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[要失去Duolingo的連勝是相當困難的。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31966919</link>
-            <guid>https://news.ycombinator.com/item?id=31966919</guid>
-            <pubDate>Sun, 03 Jul 2022 11:36:15 GMT</pubDate>
-            <description><![CDATA[It's quite hard to lose a Duolingo streak]]></description>
         </item>
     </channel>
 </rss>
