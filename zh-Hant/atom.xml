@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-04T11:57:32.281Z</updated>
+    <updated>2022-08-04T13:04:34.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼YouTube的質量會急劇下降？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32328207</id>
+        <link href="https://news.ycombinator.com/item?id=32328207"/>
+        <updated>2022-08-03T06:12:53.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why has quality of YouTube reduced drastically?]]></summary>
+        <author>
+            <name>Exorust</name>
+            <uri>https://news.ycombinator.com/user?id=Exorust</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[將垃圾郵件發送至密碼煉獄
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>legrande</name>
             <uri>https://news.ycombinator.com/user?id=legrande</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[發現。催化作用的聖盃--將甲烷變成甲醇
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31944541</id>
-        <link href="https://news.ycombinator.com/item?id=31944541"/>
-        <updated>2022-07-01T10:29:26.000Z</updated>
-        <summary type="html"><![CDATA[Found: The 'holy grail of catalysis'– turning methane into methanol]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
