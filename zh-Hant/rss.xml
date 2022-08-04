@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 04 Aug 2022 22:50:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 23:29:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我所畫的東西是一個網站，其中孩子們畫的東西是真實的。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32335818</link>
+            <guid>https://news.ycombinator.com/item?id=32335818</guid>
+            <pubDate>Wed, 03 Aug 2022 19:28:31 GMT</pubDate>
+            <description><![CDATA[Things I Have Drawn is a site in which the things kids draw are real]]></description>
+        </item>
         <item>
             <title><![CDATA[OG社會網絡。其他人的網站
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31971858</guid>
             <pubDate>Sun, 03 Jul 2022 23:20:09 GMT</pubDate>
             <description><![CDATA[Why nobody ever wins the car at the mall (2018)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼即使沒有貧血，缺鐵也會導致疲勞？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31968114</link>
-            <guid>https://news.ycombinator.com/item?id=31968114</guid>
-            <pubDate>Sun, 03 Jul 2022 14:50:02 GMT</pubDate>
-            <description><![CDATA[Why does iron deficiency cause fatigue, even in the absence of anemia?]]></description>
         </item>
     </channel>
 </rss>
