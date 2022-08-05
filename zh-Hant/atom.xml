@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-05T14:48:08.096Z</updated>
+    <updated>2022-08-05T17:24:32.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蘋果警告臺灣供應商在徽章上標註 "中國 "字樣
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32356208</id>
+        <link href="https://news.ycombinator.com/item?id=32356208"/>
+        <updated>2022-08-05T14:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Apple warns Taiwanese suppliers to label “China” on badges]]></summary>
+        <author>
+            <name>lucasjans</name>
+            <uri>https://news.ycombinator.com/user?id=lucasjans</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於QBasic和QuickBasic的一切
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32349516</id>
+        <link href="https://news.ycombinator.com/item?id=32349516"/>
+        <updated>2022-08-04T23:17:51.000Z</updated>
+        <summary type="html"><![CDATA[All about QBasic and QuickBasic]]></summary>
+        <author>
+            <name>susam</name>
+            <uri>https://news.ycombinator.com/user?id=susam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亞馬遜將以約17億美元的價格收購Roomba真空吸塵器的製造商
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>kaladin-jasnah</name>
             <uri>https://news.ycombinator.com/user?id=kaladin-jasnah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們不能再在Google Play上檢查應用程序的權限了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31983782</id>
-        <link href="https://news.ycombinator.com/item?id=31983782"/>
-        <updated>2022-07-05T02:46:53.000Z</updated>
-        <summary type="html"><![CDATA[We can't check the app permissions on Google Play anymore]]></summary>
-        <author>
-            <name>oledeveloper</name>
-            <uri>https://news.ycombinator.com/user?id=oledeveloper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毛氈
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31982959</id>
-        <link href="https://news.ycombinator.com/item?id=31982959"/>
-        <updated>2022-07-05T00:05:54.000Z</updated>
-        <summary type="html"><![CDATA[Felt]]></summary>
-        <author>
-            <name>bookofjoe</name>
-            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
         </author>
     </entry>
 </feed>

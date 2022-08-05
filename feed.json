@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32356208",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32356208",
+            "title": "苹果警告台湾供应商在徽章上标注 \"中国 \"字样\n",
+            "summary": "Apple warns Taiwanese suppliers to label “China” on badges",
+            "date_modified": "2022-08-05T14:00:55.000Z",
+            "author": {
+                "name": "lucasjans",
+                "url": "https://news.ycombinator.com/user?id=lucasjans"
+            },
+            "_original_headline": "Apple warns Taiwanese suppliers to label “China” on badges",
+            "_original_url": "https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-warns-suppliers-to-follow-China-rules-on-Taiwan-labeling",
+            "_sensitive": false,
+            "_score": 253
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32349516",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32349516",
+            "title": "关于QBasic和QuickBasic的一切\n",
+            "summary": "All about QBasic and QuickBasic",
+            "date_modified": "2022-08-04T23:17:51.000Z",
+            "author": {
+                "name": "susam",
+                "url": "https://news.ycombinator.com/user?id=susam"
+            },
+            "_original_headline": "All about QBasic and QuickBasic",
+            "_original_url": "https://www.qbasic.net/",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32354969",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32354969",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://old.reddit.com/r/xcloud/comments/vrfmuz/quality_on_linux/",
             "_sensitive": false,
             "_score": 205
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31983782",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31983782",
-            "title": "我们不能再在Google Play上检查应用程序的权限了\n",
-            "summary": "We can't check the app permissions on Google Play anymore",
-            "date_modified": "2022-07-05T02:46:53.000Z",
-            "author": {
-                "name": "oledeveloper",
-                "url": "https://news.ycombinator.com/user?id=oledeveloper"
-            },
-            "_original_headline": "We can't check the app permissions on Google Play anymore",
-            "_original_url": "https://www.bluespace.tech/blog/google-play-permissions-list/",
-            "_sensitive": false,
-            "_score": 203
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31982959",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31982959",
-            "title": "毛毡\n",
-            "summary": "Felt",
-            "date_modified": "2022-07-05T00:05:54.000Z",
-            "author": {
-                "name": "bookofjoe",
-                "url": "https://news.ycombinator.com/user?id=bookofjoe"
-            },
-            "_original_headline": "Felt",
-            "_original_url": "https://felt.com/",
-            "_sensitive": false,
-            "_score": 221
         }
     ]
 }
