@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-05T11:47:08.594Z</updated>
+    <updated>2022-08-05T13:04:56.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我最喜欢的iPhone功能被删除了，其不合格的替代品万岁
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32352186</id>
+        <link href="https://news.ycombinator.com/item?id=32352186"/>
+        <updated>2022-08-05T05:43:13.000Z</updated>
+        <summary type="html"><![CDATA[My favorite iPhone feature was removed long live its subpar replacement]]></summary>
+        <author>
+            <name>koinedad</name>
+            <uri>https://news.ycombinator.com/user?id=koinedad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Penumbra，一个基于自然光的感知优化调色板
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tsujp</name>
             <uri>https://news.ycombinator.com/user?id=tsujp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitlab架构概述
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31971684</id>
-        <link href="https://news.ycombinator.com/item?id=31971684"/>
-        <updated>2022-07-03T22:52:09.000Z</updated>
-        <summary type="html"><![CDATA[Gitlab Architecture Overview]]></summary>
-        <author>
-            <name>Lukas1994</name>
-            <uri>https://news.ycombinator.com/user?id=Lukas1994</uri>
         </author>
     </entry>
 </feed>
