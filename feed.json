@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32355327",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32355327",
+            "title": "Nix。用函数式编程驯服Unix\n",
+            "summary": "Nix: Taming Unix with Functional Programming",
+            "date_modified": "2022-08-05T12:49:20.000Z",
+            "author": {
+                "name": "ingve",
+                "url": "https://news.ycombinator.com/user?id=ingve"
+            },
+            "_original_headline": "Nix: Taming Unix with Functional Programming",
+            "_original_url": "https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32359003",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32359003",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://breached.to/Thread-Selling-2022-SHGA-Shanghai-Gov-National-Police-database",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31987128",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31987128",
-            "title": "大型强子对撞机发现三个新的异域粒子\n",
-            "summary": "Large Hadron Collider discovers three new exotic particles",
-            "date_modified": "2022-07-05T11:58:19.000Z",
-            "author": {
-                "name": "geox",
-                "url": "https://news.ycombinator.com/user?id=geox"
-            },
-            "_original_headline": "Large Hadron Collider discovers three new exotic particles",
-            "_original_url": "https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles",
-            "_sensitive": false,
-            "_score": 208
         }
     ]
 }
