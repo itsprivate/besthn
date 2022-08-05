@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-05T07:29:00.438Z</updated>
+    <updated>2022-08-05T09:34:22.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用葡萄收穫日期來估計650年來的夏季溫度
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32347337</id>
+        <link href="https://news.ycombinator.com/item?id=32347337"/>
+        <updated>2022-08-04T19:38:31.000Z</updated>
+        <summary type="html"><![CDATA[Using grape harvest dates to estimate summer temperature over 650 years]]></summary>
+        <author>
+            <name>guerby</name>
+            <uri>https://news.ycombinator.com/user?id=guerby</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丞燕不死 (2021)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32346288</id>
+        <link href="https://news.ycombinator.com/item?id=32346288"/>
+        <updated>2022-08-04T18:08:05.000Z</updated>
+        <summary type="html"><![CDATA[Excel never dies (2021)]]></summary>
+        <author>
+            <name>andriodsheep</name>
+            <uri>https://news.ycombinator.com/user?id=andriodsheep</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connect-Web。用於從網絡瀏覽器調用RPC服務器的TypeScript庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32345670</id>
+        <link href="https://news.ycombinator.com/item?id=32345670"/>
+        <updated>2022-08-04T17:20:04.000Z</updated>
+        <summary type="html"><![CDATA[Connect-Web: TypeScript library for calling RPC servers from web browsers]]></summary>
+        <author>
+            <name>slimsag</name>
+            <uri>https://news.ycombinator.com/user?id=slimsag</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[馬克-安德森說他支持新的住房，但記錄告訴我們一個不同的故事
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>nkurz</name>
             <uri>https://news.ycombinator.com/user?id=nkurz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地方新聞危機正在加深美國的分歧
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31976955</id>
-        <link href="https://news.ycombinator.com/item?id=31976955"/>
-        <updated>2022-07-04T13:43:43.000Z</updated>
-        <summary type="html"><![CDATA[The local news crisis is deepening America's divides]]></summary>
-        <author>
-            <name>samizdis</name>
-            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我不相信我可以證明它可以排序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31975507</id>
-        <link href="https://news.ycombinator.com/item?id=31975507"/>
-        <updated>2022-07-04T10:24:38.000Z</updated>
-        <summary type="html"><![CDATA[I can’t believe that I can prove that it can sort]]></summary>
-        <author>
-            <name>Raphael_Amiard</name>
-            <uri>https://news.ycombinator.com/user?id=Raphael_Amiard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是殘疾人，沒有錢了。現在怎麼辦？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31979104</id>
-        <link href="https://news.ycombinator.com/item?id=31979104"/>
-        <updated>2022-07-04T16:49:13.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: I'm disabled and out of money. Now what?]]></summary>
-        <author>
-            <name>thrwtllwy</name>
-            <uri>https://news.ycombinator.com/user?id=thrwtllwy</uri>
         </author>
     </entry>
 </feed>

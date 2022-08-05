@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 05 Aug 2022 07:29:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 09:34:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用葡萄收穫日期來估計650年來的夏季溫度
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32347337</link>
+            <guid>https://news.ycombinator.com/item?id=32347337</guid>
+            <pubDate>Thu, 04 Aug 2022 19:38:31 GMT</pubDate>
+            <description><![CDATA[Using grape harvest dates to estimate summer temperature over 650 years]]></description>
+        </item>
+        <item>
+            <title><![CDATA[丞燕不死 (2021)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32346288</link>
+            <guid>https://news.ycombinator.com/item?id=32346288</guid>
+            <pubDate>Thu, 04 Aug 2022 18:08:05 GMT</pubDate>
+            <description><![CDATA[Excel never dies (2021)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Connect-Web。用於從網絡瀏覽器調用RPC服務器的TypeScript庫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32345670</link>
+            <guid>https://news.ycombinator.com/item?id=32345670</guid>
+            <pubDate>Thu, 04 Aug 2022 17:20:04 GMT</pubDate>
+            <description><![CDATA[Connect-Web: TypeScript library for calling RPC servers from web browsers]]></description>
+        </item>
         <item>
             <title><![CDATA[馬克-安德森說他支持新的住房，但記錄告訴我們一個不同的故事
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31958512</guid>
             <pubDate>Sat, 02 Jul 2022 12:35:56 GMT</pubDate>
             <description><![CDATA[Robertson vs. Torx screw drives (2021)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[地方新聞危機正在加深美國的分歧
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31976955</link>
-            <guid>https://news.ycombinator.com/item?id=31976955</guid>
-            <pubDate>Mon, 04 Jul 2022 13:43:43 GMT</pubDate>
-            <description><![CDATA[The local news crisis is deepening America's divides]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我不相信我可以證明它可以排序
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31975507</link>
-            <guid>https://news.ycombinator.com/item?id=31975507</guid>
-            <pubDate>Mon, 04 Jul 2022 10:24:38 GMT</pubDate>
-            <description><![CDATA[I can’t believe that I can prove that it can sort]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我是殘疾人，沒有錢了。現在怎麼辦？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31979104</link>
-            <guid>https://news.ycombinator.com/item?id=31979104</guid>
-            <pubDate>Mon, 04 Jul 2022 16:49:13 GMT</pubDate>
-            <description><![CDATA[Ask HN: I'm disabled and out of money. Now what?]]></description>
         </item>
     </channel>
 </rss>
