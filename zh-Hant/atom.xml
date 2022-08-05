@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-05T13:04:56.580Z</updated>
+    <updated>2022-08-05T13:59:04.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[華碩Zenbook 17摺疊式OLED
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32354035</id>
+        <link href="https://news.ycombinator.com/item?id=32354035"/>
+        <updated>2022-08-05T10:17:01.000Z</updated>
+        <summary type="html"><![CDATA[Asus Zenbook 17 Fold OLED]]></summary>
+        <author>
+            <name>lnyan</name>
+            <uri>https://news.ycombinator.com/user?id=lnyan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我最喜歡的iPhone功能被刪除了，其不合格的替代品萬歲
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>samizdis</name>
             <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tiny Core Linux 13.0是一個完整的Linux桌面，容量為22MB。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31977164</id>
-        <link href="https://news.ycombinator.com/item?id=31977164"/>
-        <updated>2022-07-04T14:05:50.000Z</updated>
-        <summary type="html"><![CDATA[Tiny Core Linux 13.0 is a full Linux desktop in 22 MB]]></summary>
-        <author>
-            <name>tsujp</name>
-            <uri>https://news.ycombinator.com/user?id=tsujp</uri>
         </author>
     </entry>
 </feed>
