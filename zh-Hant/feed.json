@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32352569",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32352569",
+            "title": "C23完成了：這裡是菜單上的內容\n",
+            "summary": "C23 is Finished: Here is What is on the Menu",
+            "date_modified": "2022-08-05T06:42:47.000Z",
+            "author": {
+                "name": "ingve",
+                "url": "https://news.ycombinator.com/user?id=ingve"
+            },
+            "_original_headline": "C23 is Finished: Here is What is on the Menu",
+            "_original_url": "https://thephd.dev/c23-is-coming-here-is-what-is-on-the-menu",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32356208",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32356208",
@@ -9593,22 +9609,6 @@
             "_original_url": "http://caleb.software/posts/ios-delayed-messages.html",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31985605",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31985605",
-            "title": "如果用戶代理是Linux，Xbox雲就會節制性能\n",
-            "summary": "Xbox Cloud throttles performance if user agent is Linux",
-            "date_modified": "2022-07-05T08:03:13.000Z",
-            "author": {
-                "name": "kaladin-jasnah",
-                "url": "https://news.ycombinator.com/user?id=kaladin-jasnah"
-            },
-            "_original_headline": "Xbox Cloud throttles performance if user agent is Linux",
-            "_original_url": "https://old.reddit.com/r/xcloud/comments/vrfmuz/quality_on_linux/",
-            "_sensitive": false,
-            "_score": 205
         }
     ]
 }

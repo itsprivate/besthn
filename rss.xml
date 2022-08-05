@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 05 Aug 2022 17:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 17:52:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[C23完成了：这里是菜单上的内容
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32352569</link>
+            <guid>https://news.ycombinator.com/item?id=32352569</guid>
+            <pubDate>Fri, 05 Aug 2022 06:42:47 GMT</pubDate>
+            <description><![CDATA[C23 is Finished: Here is What is on the Menu]]></description>
+        </item>
         <item>
             <title><![CDATA[苹果警告台湾供应商在徽章上标注 "中国 "字样
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31980548</guid>
             <pubDate>Mon, 04 Jul 2022 18:54:09 GMT</pubDate>
             <description><![CDATA[Delayed Messages on iOS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果用户代理是Linux，Xbox云就会节制性能
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31985605</link>
-            <guid>https://news.ycombinator.com/item?id=31985605</guid>
-            <pubDate>Tue, 05 Jul 2022 08:03:13 GMT</pubDate>
-            <description><![CDATA[Xbox Cloud throttles performance if user agent is Linux]]></description>
         </item>
     </channel>
 </rss>
