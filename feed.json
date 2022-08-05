@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32350657",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32350657",
+            "title": "马克-安德森说他支持新的住房，但记录告诉我们一个不同的故事\n",
+            "summary": "Marc Andreessen says he’s for new housing, but records tell a different story",
+            "date_modified": "2022-08-05T02:05:32.000Z",
+            "author": {
+                "name": "danielmichaelyc",
+                "url": "https://news.ycombinator.com/user?id=danielmichaelyc"
+            },
+            "_original_headline": "Marc Andreessen says he’s for new housing, but records tell a different story",
+            "_original_url": "https://www.theatlantic.com/ideas/archive/2022/08/marc-andreessens-opposition-housing-project-nimby/671061/",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32350906",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32350906",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://news.ycombinator.com/item?id=31979104",
             "_sensitive": false,
             "_score": 211
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31969345",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31969345",
-            "title": "红色引擎：用于Python应用程序的现代调度框架\n",
-            "summary": "Red Engine: modern scheduling framework for Python applications",
-            "date_modified": "2022-07-03T17:27:44.000Z",
-            "author": {
-                "name": "jonbaer",
-                "url": "https://news.ycombinator.com/user?id=jonbaer"
-            },
-            "_original_headline": "Red Engine: modern scheduling framework for Python applications",
-            "_original_url": "https://red-engine.readthedocs.io/en/stable/index.html",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }

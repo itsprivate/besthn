@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 05 Aug 2022 05:42:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 07:29:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[马克-安德森说他支持新的住房，但记录告诉我们一个不同的故事
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32350657</link>
+            <guid>https://news.ycombinator.com/item?id=32350657</guid>
+            <pubDate>Fri, 05 Aug 2022 02:05:32 GMT</pubDate>
+            <description><![CDATA[Marc Andreessen says he’s for new housing, but records tell a different story]]></description>
+        </item>
         <item>
             <title><![CDATA[马克-安德森是一个NIMBY吗？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31979104</guid>
             <pubDate>Mon, 04 Jul 2022 16:49:13 GMT</pubDate>
             <description><![CDATA[Ask HN: I'm disabled and out of money. Now what?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[红色引擎：用于Python应用程序的现代调度框架
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31969345</link>
-            <guid>https://news.ycombinator.com/item?id=31969345</guid>
-            <pubDate>Sun, 03 Jul 2022 17:27:44 GMT</pubDate>
-            <description><![CDATA[Red Engine: modern scheduling framework for Python applications]]></description>
         </item>
     </channel>
 </rss>

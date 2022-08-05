@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-05T05:42:01.049Z</updated>
+    <updated>2022-08-05T07:29:00.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[马克-安德森说他支持新的住房，但记录告诉我们一个不同的故事
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32350657</id>
+        <link href="https://news.ycombinator.com/item?id=32350657"/>
+        <updated>2022-08-05T02:05:32.000Z</updated>
+        <summary type="html"><![CDATA[Marc Andreessen says he’s for new housing, but records tell a different story]]></summary>
+        <author>
+            <name>danielmichaelyc</name>
+            <uri>https://news.ycombinator.com/user?id=danielmichaelyc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马克-安德森是一个NIMBY吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>thrwtllwy</name>
             <uri>https://news.ycombinator.com/user?id=thrwtllwy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[红色引擎：用于Python应用程序的现代调度框架
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31969345</id>
-        <link href="https://news.ycombinator.com/item?id=31969345"/>
-        <updated>2022-07-03T17:27:44.000Z</updated>
-        <summary type="html"><![CDATA[Red Engine: modern scheduling framework for Python applications]]></summary>
-        <author>
-            <name>jonbaer</name>
-            <uri>https://news.ycombinator.com/user?id=jonbaer</uri>
         </author>
     </entry>
 </feed>
