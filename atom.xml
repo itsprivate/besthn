@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-05T19:46:00.169Z</updated>
+    <updated>2022-08-05T20:49:04.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推特称马斯克的垃圾邮件分析使用的工具称他自己的账户为机器人
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32359003</id>
+        <link href="https://news.ycombinator.com/item?id=32359003"/>
+        <updated>2022-08-05T17:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Twitter says Musk’s spam analysis used tool that called his own account a bot]]></summary>
+        <author>
+            <name>hassanahmad</name>
+            <uri>https://news.ycombinator.com/user?id=hassanahmad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gitlab在反响强烈后对删除休眠项目的做法做出了改变
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>geox</name>
             <uri>https://news.ycombinator.com/user?id=geox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[他退学后成为一名诗人--现在他获得了菲尔兹奖
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31985400</id>
-        <link href="https://news.ycombinator.com/item?id=31985400"/>
-        <updated>2022-07-05T07:31:34.000Z</updated>
-        <summary type="html"><![CDATA[He dropped out to become a poet – now he’s won a Fields Medal]]></summary>
-        <author>
-            <name>digital55</name>
-            <uri>https://news.ycombinator.com/user?id=digital55</uri>
         </author>
     </entry>
 </feed>
