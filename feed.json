@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32350180",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32350180",
+            "title": "Gitlab在反响强烈后对删除休眠项目的做法做出了改变\n",
+            "summary": "Gitlab U-turns on deleting dormant projects after backlash",
+            "date_modified": "2022-08-05T00:47:43.000Z",
+            "author": {
+                "name": "lamontcg",
+                "url": "https://news.ycombinator.com/user?id=lamontcg"
+            },
+            "_original_headline": "Gitlab U-turns on deleting dormant projects after backlash",
+            "_original_url": "https://www.theregister.com/2022/08/05/gitlab_reverses_deletion_policy/",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32356428",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32356428",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/",
             "_sensitive": false,
             "_score": 207
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31986205",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31986205",
-            "title": "联邦快递将关闭数据中心，到2024年退休所有主机，节省4亿美元\n",
-            "summary": "FedEx to close data centers, retire all mainframes by 2024, saving $400m",
-            "date_modified": "2022-07-05T09:38:41.000Z",
-            "author": {
-                "name": "taubek",
-                "url": "https://news.ycombinator.com/user?id=taubek"
-            },
-            "_original_headline": "FedEx to close data centers, retire all mainframes by 2024, saving $400m",
-            "_original_url": "https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/",
-            "_sensitive": false,
-            "_score": 215
         }
     ]
 }
