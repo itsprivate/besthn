@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32356428",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32356428",
+            "title": "在Gitlab禁止使用微软Windows\n",
+            "summary": "Microsoft Windows is prohibited at Gitlab",
+            "date_modified": "2022-08-05T14:18:20.000Z",
+            "author": {
+                "name": "filenox",
+                "url": "https://news.ycombinator.com/user?id=filenox"
+            },
+            "_original_headline": "Microsoft Windows is prohibited at Gitlab",
+            "_original_url": "https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32357470",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32357470",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.datacenterdynamics.com/en/news/fedex-to-close-data-centers-retire-all-mainframes-by-2024-saving-400m/",
             "_sensitive": false,
             "_score": 215
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31984760",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31984760",
-            "title": "我有多正常？\n",
-            "summary": "How Normal Am I?",
-            "date_modified": "2022-07-05T05:46:34.000Z",
-            "author": {
-                "name": "un_montagnard",
-                "url": "https://news.ycombinator.com/user?id=un_montagnard"
-            },
-            "_original_headline": "How Normal Am I?",
-            "_original_url": "https://www.hownormalami.eu",
-            "_sensitive": false,
-            "_score": 219
         }
     ]
 }
