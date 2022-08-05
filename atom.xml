@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-04T23:29:48.447Z</updated>
+    <updated>2022-08-05T02:34:59.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：我在我父亲去世前采访过他
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32349006</id>
+        <link href="https://news.ycombinator.com/item?id=32349006"/>
+        <updated>2022-08-04T22:15:59.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: I interviewed my dad before he died]]></summary>
+        <author>
+            <name>loveudad</name>
+            <uri>https://news.ycombinator.com/user?id=loveudad</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌的视频聊天合并开始了。现在有两个 "谷歌见面 "应用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32346087</id>
+        <link href="https://news.ycombinator.com/item?id=32346087"/>
+        <updated>2022-08-04T17:53:55.000Z</updated>
+        <summary type="html"><![CDATA[Google’s video chat merger begins: Now there are two “Google Meet” apps]]></summary>
+        <author>
+            <name>leephillips</name>
+            <uri>https://news.ycombinator.com/user?id=leephillips</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我所画的东西是一个网站，其中孩子们画的东西是真实的。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>tenfourty</name>
             <uri>https://news.ycombinator.com/user?id=tenfourty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爆米花时间回来了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31972681</id>
-        <link href="https://news.ycombinator.com/item?id=31972681"/>
-        <updated>2022-07-04T01:47:51.000Z</updated>
-        <summary type="html"><![CDATA[Popcorn Time Is Back]]></summary>
-        <author>
-            <name>lawgimenez</name>
-            <uri>https://news.ycombinator.com/user?id=lawgimenez</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么从来没有人在商场赢过车(2018)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31971858</id>
-        <link href="https://news.ycombinator.com/item?id=31971858"/>
-        <updated>2022-07-03T23:20:09.000Z</updated>
-        <summary type="html"><![CDATA[Why nobody ever wins the car at the mall (2018)]]></summary>
-        <author>
-            <name>paulpauper</name>
-            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
         </author>
     </entry>
 </feed>
