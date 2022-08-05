@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 05 Aug 2022 09:34:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 11:47:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Penumbra，一個基於自然光的感知優化調色板
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32348461</link>
+            <guid>https://news.ycombinator.com/item?id=32348461</guid>
+            <pubDate>Thu, 04 Aug 2022 21:23:07 GMT</pubDate>
+            <description><![CDATA[Show HN: Penumbra, a perceptually optimized color palette based on natural light]]></description>
+        </item>
         <item>
             <title><![CDATA[使用葡萄收穫日期來估計650年來的夏季溫度
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31971684</guid>
             <pubDate>Sun, 03 Jul 2022 22:52:09 GMT</pubDate>
             <description><![CDATA[Gitlab Architecture Overview]]></description>
-        </item>
-        <item>
-            <title><![CDATA[羅伯遜與托克斯螺桿驅動器 (2021)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31958512</link>
-            <guid>https://news.ycombinator.com/item?id=31958512</guid>
-            <pubDate>Sat, 02 Jul 2022 12:35:56 GMT</pubDate>
-            <description><![CDATA[Robertson vs. Torx screw drives (2021)]]></description>
         </item>
     </channel>
 </rss>
