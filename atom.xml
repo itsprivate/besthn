@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-06T17:59:15.385Z</updated>
+    <updated>2022-08-06T18:34:42.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何对GitHub问题的功能请求说不？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32366248</id>
+        <link href="https://news.ycombinator.com/item?id=32366248"/>
+        <updated>2022-08-06T08:48:04.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to say no to a GitHub issue feature request?]]></summary>
+        <author>
+            <name>mit20220401</name>
+            <uri>https://news.ycombinator.com/user?id=mit20220401</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MyNoise - 背景声音消除器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32366075</id>
+        <link href="https://news.ycombinator.com/item?id=32366075"/>
+        <updated>2022-08-06T08:14:08.000Z</updated>
+        <summary type="html"><![CDATA[MyNoise – Background Sound Canceller]]></summary>
+        <author>
+            <name>modinfo</name>
+            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌试图解决UUID的问题
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>caution</name>
             <uri>https://news.ycombinator.com/user?id=caution</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GTA GeoGuesser
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31996214</id>
-        <link href="https://news.ycombinator.com/item?id=31996214"/>
-        <updated>2022-07-06T02:58:34.000Z</updated>
-        <summary type="html"><![CDATA[GTA GeoGuesser]]></summary>
-        <author>
-            <name>popcalc</name>
-            <uri>https://news.ycombinator.com/user?id=popcalc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于树莓Pico的100-Msps逻辑分析器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31980989</id>
-        <link href="https://news.ycombinator.com/item?id=31980989"/>
-        <updated>2022-07-04T19:44:54.000Z</updated>
-        <summary type="html"><![CDATA[Raspberry Pico-based 100-Msps logic analyzer]]></summary>
-        <author>
-            <name>unwind</name>
-            <uri>https://news.ycombinator.com/user?id=unwind</uri>
         </author>
     </entry>
 </feed>
