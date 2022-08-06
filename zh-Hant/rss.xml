@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 06 Aug 2022 02:28:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 04:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[鳳凰城一家唱片店老闆讓發燒友的世界沸騰了
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32360340</link>
+            <guid>https://news.ycombinator.com/item?id=32360340</guid>
+            <pubDate>Fri, 05 Aug 2022 18:54:12 GMT</pubDate>
+            <description><![CDATA[A Phoenix record store owner set the audiophile world on fire]]></description>
+        </item>
         <item>
             <title><![CDATA[亞歷克斯-瓊斯必須為桑迪胡克騙局索賠支付5000萬美元的懲罰性賠償金
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31986688</guid>
             <pubDate>Tue, 05 Jul 2022 10:57:24 GMT</pubDate>
             <description><![CDATA[Amazon spending $465M on season 1 of The Lord of the Rings series]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蘋果]["旅鼠 "概念驗證
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31985142</link>
-            <guid>https://news.ycombinator.com/item?id=31985142</guid>
-            <pubDate>Tue, 05 Jul 2022 06:48:17 GMT</pubDate>
-            <description><![CDATA[Apple ][ "Lemmings" Proof of Concept]]></description>
         </item>
     </channel>
 </rss>

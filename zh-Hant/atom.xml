@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-06T02:28:28.851Z</updated>
+    <updated>2022-08-06T04:12:07.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[鳳凰城一家唱片店老闆讓發燒友的世界沸騰了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32360340</id>
+        <link href="https://news.ycombinator.com/item?id=32360340"/>
+        <updated>2022-08-05T18:54:12.000Z</updated>
+        <summary type="html"><![CDATA[A Phoenix record store owner set the audiophile world on fire]]></summary>
+        <author>
+            <name>mtg</name>
+            <uri>https://news.ycombinator.com/user?id=mtg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亞歷克斯-瓊斯必須為桑迪胡克騙局索賠支付5000萬美元的懲罰性賠償金
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>matthewsinclair</name>
             <uri>https://news.ycombinator.com/user?id=matthewsinclair</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果]["旅鼠 "概念驗證
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31985142</id>
-        <link href="https://news.ycombinator.com/item?id=31985142"/>
-        <updated>2022-07-05T06:48:17.000Z</updated>
-        <summary type="html"><![CDATA[Apple ][ "Lemmings" Proof of Concept]]></summary>
-        <author>
-            <name>killittosaveit</name>
-            <uri>https://news.ycombinator.com/user?id=killittosaveit</uri>
         </author>
     </entry>
 </feed>
