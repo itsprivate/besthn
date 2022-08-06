@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-06T04:12:07.455Z</updated>
+    <updated>2022-08-06T05:03:59.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Byte雜誌。LISP (1979)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32359655</id>
+        <link href="https://news.ycombinator.com/item?id=32359655"/>
+        <updated>2022-08-05T18:03:18.000Z</updated>
+        <summary type="html"><![CDATA[Byte Magazine: LISP (1979)]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpine Linux正在減少對Busybox的依賴性
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32336190</id>
+        <link href="https://news.ycombinator.com/item?id=32336190"/>
+        <updated>2022-08-03T20:11:57.000Z</updated>
+        <summary type="html"><![CDATA[Alpine Linux is reducing dependencies on Busybox]]></summary>
+        <author>
+            <name>senzilla</name>
+            <uri>https://news.ycombinator.com/user?id=senzilla</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鳳凰城一家唱片店老闆讓發燒友的世界沸騰了
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ellen364</name>
             <uri>https://news.ycombinator.com/user?id=ellen364</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tao: 一種靜態類型的函數式語言
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31977220</id>
-        <link href="https://news.ycombinator.com/item?id=31977220"/>
-        <updated>2022-07-04T14:11:03.000Z</updated>
-        <summary type="html"><![CDATA[Tao: A statically-typed functional language]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亞馬遜花費4.65億美元購買《指環王》系列第一季
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31986688</id>
-        <link href="https://news.ycombinator.com/item?id=31986688"/>
-        <updated>2022-07-05T10:57:24.000Z</updated>
-        <summary type="html"><![CDATA[Amazon spending $465M on season 1 of The Lord of the Rings series]]></summary>
-        <author>
-            <name>matthewsinclair</name>
-            <uri>https://news.ycombinator.com/user?id=matthewsinclair</uri>
         </author>
     </entry>
 </feed>
