@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-05T21:27:07.822Z</updated>
+    <updated>2022-08-06T02:28:28.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亚历克斯-琼斯必须为桑迪胡克骗局索赔支付5000万美元的惩罚性赔偿金
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32362884</id>
+        <link href="https://news.ycombinator.com/item?id=32362884"/>
+        <updated>2022-08-05T22:54:49.000Z</updated>
+        <summary type="html"><![CDATA[Alex Jones must pay $50m in punitive damages for Sandy Hook hoax claim]]></summary>
+        <author>
+            <name>vinni2</name>
+            <uri>https://news.ycombinator.com/user?id=vinni2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StemRoller - 从任何歌曲中分离出人声、鼓声、贝斯和其他音源。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32359325</id>
+        <link href="https://news.ycombinator.com/item?id=32359325"/>
+        <updated>2022-08-05T17:38:53.000Z</updated>
+        <summary type="html"><![CDATA[StemRoller – Isolate vocals, drums, bass, and other stems from any song]]></summary>
+        <author>
+            <name>nikolay</name>
+            <uri>https://news.ycombinator.com/user?id=nikolay</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NSA、NIST和后量子加密技术：我对美国政府的第二次诉讼
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>killittosaveit</name>
             <uri>https://news.ycombinator.com/user?id=killittosaveit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟批准具有里程碑意义的立法，对苹果和其他大型科技公司进行监管
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31988367</id>
-        <link href="https://news.ycombinator.com/item?id=31988367"/>
-        <updated>2022-07-05T14:09:12.000Z</updated>
-        <summary type="html"><![CDATA[EU Approves Landmark Legislation to Regulate Apple and Other Big Tech Firms]]></summary>
-        <author>
-            <name>marcobambini</name>
-            <uri>https://news.ycombinator.com/user?id=marcobambini</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CUDA编程如何工作
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31983460</id>
-        <link href="https://news.ycombinator.com/item?id=31983460"/>
-        <updated>2022-07-05T01:49:27.000Z</updated>
-        <summary type="html"><![CDATA[How CUDA Programming Works]]></summary>
-        <author>
-            <name>bangonkeyboard</name>
-            <uri>https://news.ycombinator.com/user?id=bangonkeyboard</uri>
         </author>
     </entry>
 </feed>

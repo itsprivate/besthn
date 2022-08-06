@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32362884",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32362884",
+            "title": "亞歷克斯-瓊斯必須為桑迪胡克騙局索賠支付5000萬美元的懲罰性賠償金\n",
+            "summary": "Alex Jones must pay $50m in punitive damages for Sandy Hook hoax claim",
+            "date_modified": "2022-08-05T22:54:49.000Z",
+            "author": {
+                "name": "vinni2",
+                "url": "https://news.ycombinator.com/user?id=vinni2"
+            },
+            "_original_headline": "Alex Jones must pay $50m in punitive damages for Sandy Hook hoax claim",
+            "_original_url": "https://www.bbc.co.uk/news/world-us-canada-62444302",
+            "_sensitive": false,
+            "_score": 207
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32359325",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32359325",
+            "title": "StemRoller - 從任何歌曲中分離出人聲、鼓聲、貝斯和其他音源。\n",
+            "summary": "StemRoller – Isolate vocals, drums, bass, and other stems from any song",
+            "date_modified": "2022-08-05T17:38:53.000Z",
+            "author": {
+                "name": "nikolay",
+                "url": "https://news.ycombinator.com/user?id=nikolay"
+            },
+            "_original_headline": "StemRoller – Isolate vocals, drums, bass, and other stems from any song",
+            "_original_url": "https://github.com/stemrollerapp/stemroller",
+            "_sensitive": false,
+            "_score": 233
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32360533",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32360533",
@@ -9577,38 +9609,6 @@
             "_original_url": "http://www.deater.net/weave/vmwprod/lemm/",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31988367",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31988367",
-            "title": "歐盟批准具有里程碑意義的立法，對蘋果和其他大型科技公司進行監管\n",
-            "summary": "EU Approves Landmark Legislation to Regulate Apple and Other Big Tech Firms",
-            "date_modified": "2022-07-05T14:09:12.000Z",
-            "author": {
-                "name": "marcobambini",
-                "url": "https://news.ycombinator.com/user?id=marcobambini"
-            },
-            "_original_headline": "EU Approves Landmark Legislation to Regulate Apple and Other Big Tech Firms",
-            "_original_url": "https://www.macrumors.com/2022/07/05/eu-approves-landmark-legislation-to-regulate-apple/",
-            "_sensitive": false,
-            "_score": 239
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31983460",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31983460",
-            "title": "CUDA編程如何工作\n",
-            "summary": "How CUDA Programming Works",
-            "date_modified": "2022-07-05T01:49:27.000Z",
-            "author": {
-                "name": "bangonkeyboard",
-                "url": "https://news.ycombinator.com/user?id=bangonkeyboard"
-            },
-            "_original_headline": "How CUDA Programming Works",
-            "_original_url": "https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41487/",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }
