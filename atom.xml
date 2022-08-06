@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-06T06:33:24.282Z</updated>
+    <updated>2022-08-06T06:53:57.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[专利法》要求发明人必须是自然人，而不是人工智能 [pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32358042</id>
+        <link href="https://news.ycombinator.com/item?id=32358042"/>
+        <updated>2022-08-05T16:04:33.000Z</updated>
+        <summary type="html"><![CDATA[Patent Act requires an inventor to be a natural person, not an AI [pdf]]]></summary>
+        <author>
+            <name>bonyt</name>
+            <uri>https://news.ycombinator.com/user?id=bonyt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[假冒品、欺诈和盗窃。为什么Silca改变了其退货政策
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>stevenfabre</name>
             <uri>https://news.ycombinator.com/user?id=stevenfabre</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git之后是什么
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31984450</id>
-        <link href="https://news.ycombinator.com/item?id=31984450"/>
-        <updated>2022-07-05T04:54:59.000Z</updated>
-        <summary type="html"><![CDATA[What comes after Git]]></summary>
-        <author>
-            <name>rckrd</name>
-            <uri>https://news.ycombinator.com/user?id=rckrd</uri>
         </author>
     </entry>
 </feed>

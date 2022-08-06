@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32358042",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32358042",
+            "title": "专利法》要求发明人必须是自然人，而不是人工智能 [pdf]\n",
+            "summary": "Patent Act requires an inventor to be a natural person, not an AI [pdf]",
+            "date_modified": "2022-08-05T16:04:33.000Z",
+            "author": {
+                "name": "bonyt",
+                "url": "https://news.ycombinator.com/user?id=bonyt"
+            },
+            "_original_headline": "Patent Act requires an inventor to be a natural person, not an AI [pdf]",
+            "_original_url": "https://cafc.uscourts.gov/opinions-orders/21-2347.OPINION.8-5-2022_1988142.pdf",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32362363",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32362363",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://liveblocks.io/blog/how-to-animate-multiplayer-cursors",
             "_sensitive": false,
             "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31984450",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31984450",
-            "title": "Git之后是什么\n",
-            "summary": "What comes after Git",
-            "date_modified": "2022-07-05T04:54:59.000Z",
-            "author": {
-                "name": "rckrd",
-                "url": "https://news.ycombinator.com/user?id=rckrd"
-            },
-            "_original_headline": "What comes after Git",
-            "_original_url": "https://matt-rickard.com/what-comes-after-git/",
-            "_sensitive": false,
-            "_score": 205
         }
     ]
 }

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 06 Aug 2022 06:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 06:53:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[专利法》要求发明人必须是自然人，而不是人工智能 [pdf]
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32358042</link>
+            <guid>https://news.ycombinator.com/item?id=32358042</guid>
+            <pubDate>Fri, 05 Aug 2022 16:04:33 GMT</pubDate>
+            <description><![CDATA[Patent Act requires an inventor to be a natural person, not an AI [pdf]]]></description>
+        </item>
         <item>
             <title><![CDATA[假冒品、欺诈和盗窃。为什么Silca改变了其退货政策
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31987713</guid>
             <pubDate>Tue, 05 Jul 2022 13:04:11 GMT</pubDate>
             <description><![CDATA[How to Animate Multiplayer Cursors]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Git之后是什么
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31984450</link>
-            <guid>https://news.ycombinator.com/item?id=31984450</guid>
-            <pubDate>Tue, 05 Jul 2022 04:54:59 GMT</pubDate>
-            <description><![CDATA[What comes after Git]]></description>
         </item>
     </channel>
 </rss>
