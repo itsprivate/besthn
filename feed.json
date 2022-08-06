@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32363823",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32363823",
+            "title": "我向你保证，中世纪的人在洗澡时\n",
+            "summary": "I assure you, medieval people bathed",
+            "date_modified": "2022-08-06T01:11:00.000Z",
+            "author": {
+                "name": "wchar_t",
+                "url": "https://news.ycombinator.com/user?id=wchar_t"
+            },
+            "_original_headline": "I assure you, medieval people bathed",
+            "_original_url": "https://going-medieval.com/2019/08/02/i-assure-you-medieval-people-bathed/",
+            "_sensitive": false,
+            "_score": 208
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32341796",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32341796",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://xn--1-zfa.com/youtube/",
             "_sensitive": false,
             "_score": 225
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31988820",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31988820",
-            "title": "使用eBPF的Linux的凭证转储器\n",
-            "summary": "Show HN: Credentials dumper for Linux using eBPF",
-            "date_modified": "2022-07-05T14:44:55.000Z",
-            "author": {
-                "name": "citronneur",
-                "url": "https://news.ycombinator.com/user?id=citronneur"
-            },
-            "_original_headline": "Show HN: Credentials dumper for Linux using eBPF",
-            "_original_url": "https://github.com/citronneur/pamspy",
-            "_sensitive": false,
-            "_score": 206
         }
     ]
 }
