@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 06 Aug 2022 22:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 23:28:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[两分钟内搞定Git（8年后更新）
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32370234</link>
+            <guid>https://news.ycombinator.com/item?id=32370234</guid>
+            <pubDate>Sat, 06 Aug 2022 18:03:15 GMT</pubDate>
+            <description><![CDATA[Git In Two Minutes (updated after 8 years)]]></description>
+        </item>
         <item>
             <title><![CDATA[将 "文件，请 "塞进手机里
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31999626</guid>
             <pubDate>Wed, 06 Jul 2022 12:00:34 GMT</pubDate>
             <description><![CDATA[New MacBook Air with M2]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中世纪早期是否曾发生过？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31997109</link>
-            <guid>https://news.ycombinator.com/item?id=31997109</guid>
-            <pubDate>Wed, 06 Jul 2022 05:37:12 GMT</pubDate>
-            <description><![CDATA[Did the early medieval era ever take place?]]></description>
         </item>
     </channel>
 </rss>

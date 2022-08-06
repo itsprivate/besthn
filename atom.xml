@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-06T22:28:04.970Z</updated>
+    <updated>2022-08-06T23:28:47.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[两分钟内搞定Git（8年后更新）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32370234</id>
+        <link href="https://news.ycombinator.com/item?id=32370234"/>
+        <updated>2022-08-06T18:03:15.000Z</updated>
+        <summary type="html"><![CDATA[Git In Two Minutes (updated after 8 years)]]></summary>
+        <author>
+            <name>garyrob</name>
+            <uri>https://news.ycombinator.com/user?id=garyrob</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[将 "文件，请 "塞进手机里
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中世纪早期是否曾发生过？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31997109</id>
-        <link href="https://news.ycombinator.com/item?id=31997109"/>
-        <updated>2022-07-06T05:37:12.000Z</updated>
-        <summary type="html"><![CDATA[Did the early medieval era ever take place?]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
         </author>
     </entry>
 </feed>
