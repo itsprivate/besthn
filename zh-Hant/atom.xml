@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-06T18:34:42.514Z</updated>
+    <updated>2022-08-06T20:49:31.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[選擇FreeBSD而不是GNU/Linux的技術原因 (2020)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32369189</id>
+        <link href="https://news.ycombinator.com/item?id=32369189"/>
+        <updated>2022-08-06T15:59:32.000Z</updated>
+        <summary type="html"><![CDATA[Technical reasons to choose FreeBSD over GNU/Linux (2020)]]></summary>
+        <author>
+            <name>truth_seeker</name>
+            <uri>https://news.ycombinator.com/user?id=truth_seeker</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[模擬整個汽車發動機（是的，它會發出噪音）[視頻］
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32367979</id>
+        <link href="https://news.ycombinator.com/item?id=32367979"/>
+        <updated>2022-08-06T13:37:55.000Z</updated>
+        <summary type="html"><![CDATA[Simulating an Entire Car Engine (yes, it makes noise) [video]]]></summary>
+        <author>
+            <name>cellover</name>
+            <uri>https://news.ycombinator.com/user?id=cellover</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何對GitHub問題的功能請求說不？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>throw_away_1042</name>
             <uri>https://news.ycombinator.com/user?id=throw_away_1042</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烏班圖的一個內核錯誤導致容器崩潰
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31994774</id>
-        <link href="https://news.ycombinator.com/item?id=31994774"/>
-        <updated>2022-07-05T22:58:38.000Z</updated>
-        <summary type="html"><![CDATA[An Ubuntu kernel bug causes container crashes]]></summary>
-        <author>
-            <name>kennethko</name>
-            <uri>https://news.ycombinator.com/user?id=kennethko</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用QEMU在虛擬機中運行Steam Deck的操作系統
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31993597</id>
-        <link href="https://news.ycombinator.com/item?id=31993597"/>
-        <updated>2022-07-05T20:57:18.000Z</updated>
-        <summary type="html"><![CDATA[Running the Steam Deck’s OS in a virtual machine using QEMU]]></summary>
-        <author>
-            <name>caution</name>
-            <uri>https://news.ycombinator.com/user?id=caution</uri>
         </author>
     </entry>
 </feed>

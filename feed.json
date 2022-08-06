@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32369189",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32369189",
+            "title": "选择FreeBSD而不是GNU/Linux的技术原因 (2020)\n",
+            "summary": "Technical reasons to choose FreeBSD over GNU/Linux (2020)",
+            "date_modified": "2022-08-06T15:59:32.000Z",
+            "author": {
+                "name": "truth_seeker",
+                "url": "https://news.ycombinator.com/user?id=truth_seeker"
+            },
+            "_original_headline": "Technical reasons to choose FreeBSD over GNU/Linux (2020)",
+            "_original_url": "https://unixsheikh.com/articles/technical-reasons-to-choose-freebsd-over-linux.html",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32367979",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32367979",
+            "title": "模拟整个汽车发动机（是的，它会发出噪音）[视频］\n",
+            "summary": "Simulating an Entire Car Engine (yes, it makes noise) [video]",
+            "date_modified": "2022-08-06T13:37:55.000Z",
+            "author": {
+                "name": "cellover",
+                "url": "https://news.ycombinator.com/user?id=cellover"
+            },
+            "_original_headline": "Simulating an Entire Car Engine (yes, it makes noise) [video]",
+            "_original_url": "https://www.youtube.com/watch?v=RKT-sKtR970",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32366248",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32366248",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://news.ycombinator.com/item?id=31999714",
             "_sensitive": false,
             "_score": 231
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31994774",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31994774",
-            "title": "乌班图的一个内核错误导致容器崩溃\n",
-            "summary": "An Ubuntu kernel bug causes container crashes",
-            "date_modified": "2022-07-05T22:58:38.000Z",
-            "author": {
-                "name": "kennethko",
-                "url": "https://news.ycombinator.com/user?id=kennethko"
-            },
-            "_original_headline": "An Ubuntu kernel bug causes container crashes",
-            "_original_url": "https://lwn.net/SubscriberLink/899420/1f0179b2d946d7b7/",
-            "_sensitive": false,
-            "_score": 206
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31993597",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31993597",
-            "title": "使用QEMU在虚拟机中运行Steam Deck的操作系统\n",
-            "summary": "Running the Steam Deck’s OS in a virtual machine using QEMU",
-            "date_modified": "2022-07-05T20:57:18.000Z",
-            "author": {
-                "name": "caution",
-                "url": "https://news.ycombinator.com/user?id=caution"
-            },
-            "_original_headline": "Running the Steam Deck’s OS in a virtual machine using QEMU",
-            "_original_url": "https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }
