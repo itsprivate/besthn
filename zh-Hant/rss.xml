@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 06 Aug 2022 16:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 17:05:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GraphQL有點糟糕
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32366759</link>
+            <guid>https://news.ycombinator.com/item?id=32366759</guid>
+            <pubDate>Sat, 06 Aug 2022 10:25:37 GMT</pubDate>
+            <description><![CDATA[GraphQL kinda sucks]]></description>
+        </item>
         <item>
             <title><![CDATA[迷幻蘑菇的微劑量：一個雙盲安慰劑對照的研究
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31991008</guid>
             <pubDate>Tue, 05 Jul 2022 17:19:57 GMT</pubDate>
             <description><![CDATA[Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Memzoom - 在你的UTF-8終端中查看/監控進程/文件的原始內存
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31989399</link>
-            <guid>https://news.ycombinator.com/item?id=31989399</guid>
-            <pubDate>Tue, 05 Jul 2022 15:31:29 GMT</pubDate>
-            <description><![CDATA[Memzoom – view/monitor the raw memory of processes/files in your UTF-8 terminal]]></description>
         </item>
     </channel>
 </rss>

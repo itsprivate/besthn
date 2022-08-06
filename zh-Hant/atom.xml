@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-06T16:42:21.859Z</updated>
+    <updated>2022-08-06T17:05:18.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GraphQL有點糟糕
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32366759</id>
+        <link href="https://news.ycombinator.com/item?id=32366759"/>
+        <updated>2022-08-06T10:25:37.000Z</updated>
+        <summary type="html"><![CDATA[GraphQL kinda sucks]]></summary>
+        <author>
+            <name>randytandy</name>
+            <uri>https://news.ycombinator.com/user?id=randytandy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迷幻蘑菇的微劑量：一個雙盲安慰劑對照的研究
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pavel_lishin</name>
             <uri>https://news.ycombinator.com/user?id=pavel_lishin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memzoom - 在你的UTF-8終端中查看/監控進程/文件的原始內存
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31989399</id>
-        <link href="https://news.ycombinator.com/item?id=31989399"/>
-        <updated>2022-07-05T15:31:29.000Z</updated>
-        <summary type="html"><![CDATA[Memzoom – view/monitor the raw memory of processes/files in your UTF-8 terminal]]></summary>
-        <author>
-            <name>tsujp</name>
-            <uri>https://news.ycombinator.com/user?id=tsujp</uri>
         </author>
     </entry>
 </feed>
