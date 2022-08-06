@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 06 Aug 2022 06:53:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 07:27:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[苹果正在建立一个需求方平台
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32341796</link>
+            <guid>https://news.ycombinator.com/item?id=32341796</guid>
+            <pubDate>Thu, 04 Aug 2022 12:08:23 GMT</pubDate>
+            <description><![CDATA[Apple is building a demand-side platform]]></description>
+        </item>
         <item>
             <title><![CDATA[专利法》要求发明人必须是自然人，而不是人工智能 [pdf]
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31988820</guid>
             <pubDate>Tue, 05 Jul 2022 14:44:55 GMT</pubDate>
             <description><![CDATA[Show HN: Credentials dumper for Linux using eBPF]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何为多人游标制作动画
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31987713</link>
-            <guid>https://news.ycombinator.com/item?id=31987713</guid>
-            <pubDate>Tue, 05 Jul 2022 13:04:11 GMT</pubDate>
-            <description><![CDATA[How to Animate Multiplayer Cursors]]></description>
         </item>
     </channel>
 </rss>

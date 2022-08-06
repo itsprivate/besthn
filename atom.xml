@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-06T06:53:57.829Z</updated>
+    <updated>2022-08-06T07:27:21.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果正在建立一个需求方平台
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32341796</id>
+        <link href="https://news.ycombinator.com/item?id=32341796"/>
+        <updated>2022-08-04T12:08:23.000Z</updated>
+        <summary type="html"><![CDATA[Apple is building a demand-side platform]]></summary>
+        <author>
+            <name>helij</name>
+            <uri>https://news.ycombinator.com/user?id=helij</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[专利法》要求发明人必须是自然人，而不是人工智能 [pdf]
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>citronneur</name>
             <uri>https://news.ycombinator.com/user?id=citronneur</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何为多人游标制作动画
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31987713</id>
-        <link href="https://news.ycombinator.com/item?id=31987713"/>
-        <updated>2022-07-05T13:04:11.000Z</updated>
-        <summary type="html"><![CDATA[How to Animate Multiplayer Cursors]]></summary>
-        <author>
-            <name>stevenfabre</name>
-            <uri>https://news.ycombinator.com/user?id=stevenfabre</uri>
         </author>
     </entry>
 </feed>

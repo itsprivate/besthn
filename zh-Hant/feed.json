@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32341796",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32341796",
+            "title": "蘋果正在建立一個需求方平臺\n",
+            "summary": "Apple is building a demand-side platform",
+            "date_modified": "2022-08-04T12:08:23.000Z",
+            "author": {
+                "name": "helij",
+                "url": "https://news.ycombinator.com/user?id=helij"
+            },
+            "_original_headline": "Apple is building a demand-side platform",
+            "_original_url": "https://digiday.com/media/apple-is-building-a-demand-side-platform/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32358042",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32358042",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://github.com/citronneur/pamspy",
             "_sensitive": false,
             "_score": 206
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31987713",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31987713",
-            "title": "如何為多人遊標製作動畫\n",
-            "summary": "How to Animate Multiplayer Cursors",
-            "date_modified": "2022-07-05T13:04:11.000Z",
-            "author": {
-                "name": "stevenfabre",
-                "url": "https://news.ycombinator.com/user?id=stevenfabre"
-            },
-            "_original_headline": "How to Animate Multiplayer Cursors",
-            "_original_url": "https://liveblocks.io/blog/how-to-animate-multiplayer-cursors",
-            "_sensitive": false,
-            "_score": 202
         }
     ]
 }
