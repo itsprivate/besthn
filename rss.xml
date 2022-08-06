@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 06 Aug 2022 17:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 17:59:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谷歌试图解决UUID的问题
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32367982</link>
+            <guid>https://news.ycombinator.com/item?id=32367982</guid>
+            <pubDate>Sat, 06 Aug 2022 13:38:24 GMT</pubDate>
+            <description><![CDATA[Google Trying to Solve a UUID]]></description>
+        </item>
         <item>
             <title><![CDATA[皮肤暴露在UVB光下，诱发皮肤-大脑-性腺轴和性行为
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31980989</guid>
             <pubDate>Mon, 04 Jul 2022 19:44:54 GMT</pubDate>
             <description><![CDATA[Raspberry Pico-based 100-Msps logic analyzer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[荒谬的手推车问题
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31996235</link>
-            <guid>https://news.ycombinator.com/item?id=31996235</guid>
-            <pubDate>Wed, 06 Jul 2022 03:04:04 GMT</pubDate>
-            <description><![CDATA[Absurd Trolley Problems]]></description>
         </item>
     </channel>
 </rss>
