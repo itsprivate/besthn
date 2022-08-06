@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-06T05:03:59.701Z</updated>
+    <updated>2022-08-06T06:33:24.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[假冒品、欺詐和盜竊。為什麼Silca改變了其退貨政策
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32362363</id>
+        <link href="https://news.ycombinator.com/item?id=32362363"/>
+        <updated>2022-08-05T21:49:10.000Z</updated>
+        <summary type="html"><![CDATA[Counterfeits, fraud, and theft: Why Silca changed its return policy]]></summary>
+        <author>
+            <name>762236</name>
+            <uri>https://news.ycombinator.com/user?id=762236</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[閱讀手冊的藝術（2020年）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32343443</id>
+        <link href="https://news.ycombinator.com/item?id=32343443"/>
+        <updated>2022-08-04T14:33:50.000Z</updated>
+        <summary type="html"><![CDATA[Art of README (2020)]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Byte雜誌。LISP (1979)
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>rckrd</name>
             <uri>https://news.ycombinator.com/user?id=rckrd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bun: 用Zig編寫的快速JavaScript運行時、轉碼器和npm客戶端
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31993429</id>
-        <link href="https://news.ycombinator.com/item?id=31993429"/>
-        <updated>2022-07-05T20:41:53.000Z</updated>
-        <summary type="html"><![CDATA[Bun: Fast JavaScript runtime, transpiler, and npm client written in Zig]]></summary>
-        <author>
-            <name>firloop</name>
-            <uri>https://news.ycombinator.com/user?id=firloop</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被盜的10億條記錄的中國數據庫在漏洞論壇上出售
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31986441</id>
-        <link href="https://news.ycombinator.com/item?id=31986441"/>
-        <updated>2022-07-05T10:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Billion-record stolen Chinese database for sale on breach forum]]></summary>
-        <author>
-            <name>ellen364</name>
-            <uri>https://news.ycombinator.com/user?id=ellen364</uri>
         </author>
     </entry>
 </feed>
