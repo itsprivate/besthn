@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-06T17:05:18.167Z</updated>
+    <updated>2022-08-06T17:38:01.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[皮肤暴露在UVB光下，诱发皮肤-大脑-性腺轴和性行为
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32363959</id>
+        <link href="https://news.ycombinator.com/item?id=32363959"/>
+        <updated>2022-08-06T01:35:26.000Z</updated>
+        <summary type="html"><![CDATA[Skin exposure to UVB light induces a skin-brain-gonad axis and sexual behavior]]></summary>
+        <author>
+            <name>jbonniwell</name>
+            <uri>https://news.ycombinator.com/user?id=jbonniwell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GraphQL有点糟糕
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sebg</name>
             <uri>https://news.ycombinator.com/user?id=sebg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[揭开亚麻布的神秘面纱，或者说亚麻布盔甲是如何主宰我们的生活的（2013）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31991008</id>
-        <link href="https://news.ycombinator.com/item?id=31991008"/>
-        <updated>2022-07-05T17:19:57.000Z</updated>
-        <summary type="html"><![CDATA[Unraveling the linothorax mystery, or how linen armor came to dominate our lives (2013)]]></summary>
-        <author>
-            <name>pavel_lishin</name>
-            <uri>https://news.ycombinator.com/user?id=pavel_lishin</uri>
         </author>
     </entry>
 </feed>
