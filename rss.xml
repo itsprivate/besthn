@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 07 Aug 2022 18:06:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 18:35:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何停止 "终结性上网"？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32374207</link>
+            <guid>https://news.ycombinator.com/item?id=32374207</guid>
+            <pubDate>Sun, 07 Aug 2022 05:51:23 GMT</pubDate>
+            <description><![CDATA[How to stop being “terminally online”]]></description>
+        </item>
         <item>
             <title><![CDATA[图是一个日常逻辑谜题游戏
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32003266</guid>
             <pubDate>Wed, 06 Jul 2022 16:27:18 GMT</pubDate>
             <description><![CDATA[Ask HN: Why do I struggle to follow corporate meetings?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么互联网没有更多的乐趣和怪异？(2019)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31999259</link>
-            <guid>https://news.ycombinator.com/item?id=31999259</guid>
-            <pubDate>Wed, 06 Jul 2022 11:07:13 GMT</pubDate>
-            <description><![CDATA[Why isn't the internet more fun and weird? (2019)]]></description>
         </item>
     </channel>
 </rss>
