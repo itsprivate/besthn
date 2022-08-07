@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-07T07:26:36.234Z</updated>
+    <updated>2022-08-07T07:44:06.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[电子产品的制造都有死亡日期。让我们不要把它们作为一个秘密
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32372625</id>
+        <link href="https://news.ycombinator.com/item?id=32372625"/>
+        <updated>2022-08-06T23:50:14.000Z</updated>
+        <summary type="html"><![CDATA[Electronics are built with death dates. Let’s not keep them a secret]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苏格兰高地、阿巴拉契亚山脉和阿特拉斯山脉是同一山脉
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Lukas1994</name>
             <uri>https://news.ycombinator.com/user?id=Lukas1994</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果公司扩大承诺，保护用户免受雇佣军间谍软件的影响
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32003756</id>
-        <link href="https://news.ycombinator.com/item?id=32003756"/>
-        <updated>2022-07-06T17:01:32.000Z</updated>
-        <summary type="html"><![CDATA[Apple expands commitment to protect users from mercenary spyware]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
