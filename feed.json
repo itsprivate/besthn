@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32368259",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32368259",
+            "title": "育碧即将收走你买的游戏\n",
+            "summary": "Ubisoft about to take away games you bought",
+            "date_modified": "2022-08-06T14:12:21.000Z",
+            "author": {
+                "name": "snikolaev",
+                "url": "https://news.ycombinator.com/user?id=snikolaev"
+            },
+            "_original_headline": "Ubisoft about to take away games you bought",
+            "_original_url": "https://www.pcgamer.com/ubisoft-to-pull-online-from-older-games-which-also-takes-away-your-dlc/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32367791",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32367791",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game",
             "_sensitive": false,
             "_score": 221
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32002057",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32002057",
-            "title": "Python 3.11与3.10的性能对比\n",
-            "summary": "Python 3.11 vs 3.10 performance",
-            "date_modified": "2022-07-06T15:05:05.000Z",
-            "author": {
-                "name": "hyperbovine",
-                "url": "https://news.ycombinator.com/user?id=hyperbovine"
-            },
-            "_original_headline": "Python 3.11 vs 3.10 performance",
-            "_original_url": "https://github.com/faster-cpython/ideas/blob/main/main-vs-310.rst",
-            "_sensitive": false,
-            "_score": 249
         }
     ]
 }

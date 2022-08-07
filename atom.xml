@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-07T02:37:43.798Z</updated>
+    <updated>2022-08-07T05:46:56.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[育碧即将收走你买的游戏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32368259</id>
+        <link href="https://news.ycombinator.com/item?id=32368259"/>
+        <updated>2022-08-06T14:12:21.000Z</updated>
+        <summary type="html"><![CDATA[Ubisoft about to take away games you bought]]></summary>
+        <author>
+            <name>snikolaev</name>
+            <uri>https://news.ycombinator.com/user?id=snikolaev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国监管机构刚刚批准首个小型模块化核反应堆
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>danso</name>
             <uri>https://news.ycombinator.com/user?id=danso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 3.11与3.10的性能对比
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32002057</id>
-        <link href="https://news.ycombinator.com/item?id=32002057"/>
-        <updated>2022-07-06T15:05:05.000Z</updated>
-        <summary type="html"><![CDATA[Python 3.11 vs 3.10 performance]]></summary>
-        <author>
-            <name>hyperbovine</name>
-            <uri>https://news.ycombinator.com/user?id=hyperbovine</uri>
         </author>
     </entry>
 </feed>
