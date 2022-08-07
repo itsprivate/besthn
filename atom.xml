@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-07T07:44:06.339Z</updated>
+    <updated>2022-08-07T13:49:24.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Ctrl-C
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32354581</id>
+        <link href="https://news.ycombinator.com/item?id=32354581"/>
+        <updated>2022-08-05T11:26:54.000Z</updated>
+        <summary type="html"><![CDATA[Ctrl-C]]></summary>
+        <author>
+            <name>kcl</name>
+            <uri>https://news.ycombinator.com/user?id=kcl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[停车场上的太阳能雨棚
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32373316</id>
+        <link href="https://news.ycombinator.com/item?id=32373316"/>
+        <updated>2022-08-07T02:18:03.000Z</updated>
+        <summary type="html"><![CDATA[Solar canopies on parking lots]]></summary>
+        <author>
+            <name>CharlesW</name>
+            <uri>https://news.ycombinator.com/user?id=CharlesW</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[电子产品的制造都有死亡日期。让我们不要把它们作为一个秘密
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>batirch</name>
             <uri>https://news.ycombinator.com/user?id=batirch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[红宝石盾牌。Shopify捐赠100万美元给rubygems、bundler的管理人
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32003900</id>
-        <link href="https://news.ycombinator.com/item?id=32003900"/>
-        <updated>2022-07-06T17:12:20.000Z</updated>
-        <summary type="html"><![CDATA[Ruby Shield: Shopify donates $1M to stewards of rubygems, bundler]]></summary>
-        <author>
-            <name>jacques_chester</name>
-            <uri>https://news.ycombinator.com/user?id=jacques_chester</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将我们的电子表格引擎从数千个单元格扩展到数十亿个单元格
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32000400</id>
-        <link href="https://news.ycombinator.com/item?id=32000400"/>
-        <updated>2022-07-06T13:18:35.000Z</updated>
-        <summary type="html"><![CDATA[Scaling our spreadsheet engine from thousands to billions of cells]]></summary>
-        <author>
-            <name>Lukas1994</name>
-            <uri>https://news.ycombinator.com/user?id=Lukas1994</uri>
         </author>
     </entry>
 </feed>
