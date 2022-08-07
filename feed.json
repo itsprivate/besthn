@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32377735",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32377735",
+            "title": "\"守则》第二版现已上市\n",
+            "summary": "“Code” 2nd Edition Now Available",
+            "date_modified": "2022-08-07T16:36:57.000Z",
+            "author": {
+                "name": "ingve",
+                "url": "https://news.ycombinator.com/user?id=ingve"
+            },
+            "_original_headline": "“Code” 2nd Edition Now Available",
+            "_original_url": "https://www.charlespetzold.com/blog/2022/08/Code-2nd-Edition-Now-Available.html",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32377063",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32377063",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://sourcehut.org/blog/2022-07-06-sourcehut-and-irc/",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32000668",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32000668",
-            "title": "在一项概念验证研究中，微型机器人可以刷牙和使用牙线\n",
-            "summary": "Microrobots can brush and floss teeth in a proof-of-concept study",
-            "date_modified": "2022-07-06T13:36:23.000Z",
-            "author": {
-                "name": "geox",
-                "url": "https://news.ycombinator.com/user?id=geox"
-            },
-            "_original_headline": "Microrobots can brush and floss teeth in a proof-of-concept study",
-            "_original_url": "https://penntoday.upenn.edu/news/penn-dental-engineering-shapeshifting-microrobots-can-brush-and-floss-teeth",
-            "_sensitive": false,
-            "_score": 202
         }
     ]
 }
