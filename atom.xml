@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-07T15:33:36.826Z</updated>
+    <updated>2022-08-07T18:06:43.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[图是一个日常逻辑谜题游戏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32376154</id>
+        <link href="https://news.ycombinator.com/item?id=32376154"/>
+        <updated>2022-08-07T13:01:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Figure is a daily logic puzzle game]]></summary>
+        <author>
+            <name>sumul</name>
+            <uri>https://news.ycombinator.com/user?id=sumul</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们对尼克斯的路线图
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tsujp</name>
             <uri>https://news.ycombinator.com/user?id=tsujp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[防御性CSS
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31984951</id>
-        <link href="https://news.ycombinator.com/item?id=31984951"/>
-        <updated>2022-07-05T06:18:25.000Z</updated>
-        <summary type="html"><![CDATA[Defensive CSS]]></summary>
-        <author>
-            <name>jacobr</name>
-            <uri>https://news.ycombinator.com/user?id=jacobr</uri>
         </author>
     </entry>
 </feed>

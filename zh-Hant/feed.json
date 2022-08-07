@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32376154",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32376154",
+            "title": "圖是一個日常邏輯謎題遊戲\n",
+            "summary": "Show HN: Figure is a daily logic puzzle game",
+            "date_modified": "2022-08-07T13:01:29.000Z",
+            "author": {
+                "name": "sumul",
+                "url": "https://news.ycombinator.com/user?id=sumul"
+            },
+            "_original_headline": "Show HN: Figure is a daily logic puzzle game",
+            "_original_url": "https://figure.game",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32374113",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32374113",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://jarredsumner.com/codeblog/",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31984951",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31984951",
-            "title": "防禦性CSS\n",
-            "summary": "Defensive CSS",
-            "date_modified": "2022-07-05T06:18:25.000Z",
-            "author": {
-                "name": "jacobr",
-                "url": "https://news.ycombinator.com/user?id=jacobr"
-            },
-            "_original_headline": "Defensive CSS",
-            "_original_url": "https://defensivecss.dev",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }
