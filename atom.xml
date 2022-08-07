@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-07T05:46:56.974Z</updated>
+    <updated>2022-08-07T07:26:36.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苏格兰高地、阿巴拉契亚山脉和阿特拉斯山脉是同一山脉
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32371549</id>
+        <link href="https://news.ycombinator.com/item?id=32371549"/>
+        <updated>2022-08-06T21:00:08.000Z</updated>
+        <summary type="html"><![CDATA[The Scottish Highlands, Appalachians, and the Atlas are the same mountain range]]></summary>
+        <author>
+            <name>kdamica</name>
+            <uri>https://news.ycombinator.com/user?id=kdamica</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[育碧即将收走你买的游戏
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>todsacerdoti</name>
             <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个假的工作机会扳倒了Axie Infinity
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32001742</id>
-        <link href="https://news.ycombinator.com/item?id=32001742"/>
-        <updated>2022-07-06T14:43:30.000Z</updated>
-        <summary type="html"><![CDATA[A fake job offer took down Axie Infinity]]></summary>
-        <author>
-            <name>danso</name>
-            <uri>https://news.ycombinator.com/user?id=danso</uri>
         </author>
     </entry>
 </feed>
