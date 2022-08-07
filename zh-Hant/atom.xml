@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-07T18:35:04.082Z</updated>
+    <updated>2022-08-07T18:55:18.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[偽造IMDB信用的案例
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32377063</id>
+        <link href="https://news.ycombinator.com/item?id=32377063"/>
+        <updated>2022-08-07T15:08:30.000Z</updated>
+        <summary type="html"><![CDATA[The case of fake IMDB credits]]></summary>
+        <author>
+            <name>HelenePhisher</name>
+            <uri>https://news.ycombinator.com/user?id=HelenePhisher</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何停止 "終結性上網"？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>geox</name>
             <uri>https://news.ycombinator.com/user?id=geox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼我對公司的會議感到費勁呢？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32003266</id>
-        <link href="https://news.ycombinator.com/item?id=32003266"/>
-        <updated>2022-07-06T16:27:18.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Why do I struggle to follow corporate meetings?]]></summary>
-        <author>
-            <name>kypro</name>
-            <uri>https://news.ycombinator.com/user?id=kypro</uri>
         </author>
     </entry>
 </feed>
