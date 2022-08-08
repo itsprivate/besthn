@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 08 Aug 2022 04:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 05:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[碳抵消只是另一种形式的洗绿行为
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32379764</link>
+            <guid>https://news.ycombinator.com/item?id=32379764</guid>
+            <pubDate>Sun, 07 Aug 2022 20:50:31 GMT</pubDate>
+            <description><![CDATA[Carbon offsetting is just another form of greenwashing]]></description>
+        </item>
         <item>
             <title><![CDATA[海底的神秘洞口
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32009009</guid>
             <pubDate>Thu, 07 Jul 2022 01:37:34 GMT</pubDate>
             <description><![CDATA[Life Stats]]></description>
-        </item>
-        <item>
-            <title><![CDATA[程式化的音乐
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32009440</link>
-            <guid>https://news.ycombinator.com/item?id=32009440</guid>
-            <pubDate>Thu, 07 Jul 2022 02:49:38 GMT</pubDate>
-            <description><![CDATA[Music for Programming]]></description>
         </item>
     </channel>
 </rss>
