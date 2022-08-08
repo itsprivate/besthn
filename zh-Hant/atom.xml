@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-08T11:26:47.058Z</updated>
+    <updated>2022-08-08T13:04:07.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人類免疫系統的物理線路圖
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32381790</id>
+        <link href="https://news.ycombinator.com/item?id=32381790"/>
+        <updated>2022-08-08T02:07:21.000Z</updated>
+        <summary type="html"><![CDATA[A physical wiring diagram for the human immune system]]></summary>
+        <author>
+            <name>bookofjoe</name>
+            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[兩年內從廢棄的輔助項目到Switch：我的獨立遊戲開發故事
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>randomwebdev</name>
             <uri>https://news.ycombinator.com/user?id=randomwebdev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[私募股權可能正在走向衰落
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32013295</id>
-        <link href="https://news.ycombinator.com/item?id=32013295"/>
-        <updated>2022-07-07T12:42:08.000Z</updated>
-        <summary type="html"><![CDATA[Private equity may be heading for a fall]]></summary>
-        <author>
-            <name>samizdis</name>
-            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
         </author>
     </entry>
 </feed>
