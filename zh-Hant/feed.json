@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32378695",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32378695",
+            "title": "什麼是很少有人談論的下一件大事？\n",
+            "summary": "Ask HN: What's the next big thing that few people are talking about?",
+            "date_modified": "2022-08-07T18:45:49.000Z",
+            "author": {
+                "name": "ScottStevenson",
+                "url": "https://news.ycombinator.com/user?id=ScottStevenson"
+            },
+            "_original_headline": "Ask HN: What's the next big thing that few people are talking about?",
+            "_original_url": "https://news.ycombinator.com/item?id=32378695",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32384653",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32384653",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.oculus.com/blog/meta-accounts/",
             "_sensitive": false,
             "_score": 223
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32016391",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32016391",
-            "title": "用CSS實現類似著色器的全息效果\n",
-            "summary": "Shader-like holographic effects with CSS",
-            "date_modified": "2022-07-07T16:53:09.000Z",
-            "author": {
-                "name": "skilled",
-                "url": "https://news.ycombinator.com/user?id=skilled"
-            },
-            "_original_headline": "Shader-like holographic effects with CSS",
-            "_original_url": "https://robbowen.digital/wrote-about/css-blend-mode-shaders/",
-            "_sensitive": false,
-            "_score": 215
         }
     ]
 }

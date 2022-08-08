@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-08T16:50:20.560Z</updated>
+    <updated>2022-08-08T17:47:32.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什么是很少有人谈论的下一件大事？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32378695</id>
+        <link href="https://news.ycombinator.com/item?id=32378695"/>
+        <updated>2022-08-07T18:45:49.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: What's the next big thing that few people are talking about?]]></summary>
+        <author>
+            <name>ScottStevenson</name>
+            <uri>https://news.ycombinator.com/user?id=ScottStevenson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[要揭开一个深层伪造的视频通话，请通话者侧身
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pesenti</name>
             <uri>https://news.ycombinator.com/user?id=pesenti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用CSS实现类似着色器的全息效果
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32016391</id>
-        <link href="https://news.ycombinator.com/item?id=32016391"/>
-        <updated>2022-07-07T16:53:09.000Z</updated>
-        <summary type="html"><![CDATA[Shader-like holographic effects with CSS]]></summary>
-        <author>
-            <name>skilled</name>
-            <uri>https://news.ycombinator.com/user?id=skilled</uri>
         </author>
     </entry>
 </feed>
