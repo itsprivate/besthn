@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 08 Aug 2022 13:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 15:00:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[不再有 "洞察力色情 "了
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32384613</link>
+            <guid>https://news.ycombinator.com/item?id=32384613</guid>
+            <pubDate>Mon, 08 Aug 2022 12:21:17 GMT</pubDate>
+            <description><![CDATA[No More “Insight Porn”]]></description>
+        </item>
         <item>
             <title><![CDATA[无视仇恨者，以及从创建JSON5中获得的其他教训
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32002555</guid>
             <pubDate>Wed, 06 Jul 2022 15:38:58 GMT</pubDate>
             <description><![CDATA[Show HN: PDFs that are readable by human eyes only]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Roblox出现的问题
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32014754</link>
-            <guid>https://news.ycombinator.com/item?id=32014754</guid>
-            <pubDate>Thu, 07 Jul 2022 14:44:40 GMT</pubDate>
-            <description><![CDATA[Problems at Roblox]]></description>
         </item>
     </channel>
 </rss>

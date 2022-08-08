@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-08T13:59:04.143Z</updated>
+    <updated>2022-08-08T15:00:45.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不再有 "洞察力色情 "了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32384613</id>
+        <link href="https://news.ycombinator.com/item?id=32384613"/>
+        <updated>2022-08-08T12:21:17.000Z</updated>
+        <summary type="html"><![CDATA[No More “Insight Porn”]]></summary>
+        <author>
+            <name>jakobgreenfeld</name>
+            <uri>https://news.ycombinator.com/user?id=jakobgreenfeld</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無視仇恨者，以及從創建JSON5中獲得的其他教訓
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>viggity</name>
             <uri>https://news.ycombinator.com/user?id=viggity</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Roblox出現的問題
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32014754</id>
-        <link href="https://news.ycombinator.com/item?id=32014754"/>
-        <updated>2022-07-07T14:44:40.000Z</updated>
-        <summary type="html"><![CDATA[Problems at Roblox]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
         </author>
     </entry>
 </feed>

@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32384613",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32384613",
+            "title": "不再有 \"洞察力色情 \"了\n",
+            "summary": "No More “Insight Porn”",
+            "date_modified": "2022-08-08T12:21:17.000Z",
+            "author": {
+                "name": "jakobgreenfeld",
+                "url": "https://news.ycombinator.com/user?id=jakobgreenfeld"
+            },
+            "_original_headline": "No More “Insight Porn”",
+            "_original_url": "https://jakobgreenfeld.com/insight-porn",
+            "_sensitive": false,
+            "_score": 209
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32379245",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32379245",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://humaneyesonly.com",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32014754",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32014754",
-            "title": "在Roblox出现的问题\n",
-            "summary": "Problems at Roblox",
-            "date_modified": "2022-07-07T14:44:40.000Z",
-            "author": {
-                "name": "memorable",
-                "url": "https://news.ycombinator.com/user?id=memorable"
-            },
-            "_original_headline": "Problems at Roblox",
-            "_original_url": "https://thebearcave.substack.com/p/problems-at-roblox-rblx",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }
