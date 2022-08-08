@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32384550",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32384550",
+            "title": "迷你锈蚀\n",
+            "summary": "MiniRust",
+            "date_modified": "2022-08-08T12:10:39.000Z",
+            "author": {
+                "name": "dthul",
+                "url": "https://news.ycombinator.com/user?id=dthul"
+            },
+            "_original_headline": "MiniRust",
+            "_original_url": "https://www.ralfj.de/blog/2022/08/08/minirust.html",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32378695",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32378695",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.starlink.com/maritime",
             "_sensitive": false,
             "_score": 201
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32016484",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32016484",
-            "title": "使用Meta VR设备不再需要Facebook账户了\n",
-            "summary": "A Facebook account is no longer required to use Meta VR devices",
-            "date_modified": "2022-07-07T17:00:47.000Z",
-            "author": {
-                "name": "pesenti",
-                "url": "https://news.ycombinator.com/user?id=pesenti"
-            },
-            "_original_headline": "A Facebook account is no longer required to use Meta VR devices",
-            "_original_url": "https://www.oculus.com/blog/meta-accounts/",
-            "_sensitive": false,
-            "_score": 223
         }
     ]
 }

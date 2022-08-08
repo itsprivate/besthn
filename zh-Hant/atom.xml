@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-08T17:47:32.710Z</updated>
+    <updated>2022-08-08T17:59:57.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[迷你鏽蝕
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32384550</id>
+        <link href="https://news.ycombinator.com/item?id=32384550"/>
+        <updated>2022-08-08T12:10:39.000Z</updated>
+        <summary type="html"><![CDATA[MiniRust]]></summary>
+        <author>
+            <name>dthul</name>
+            <uri>https://news.ycombinator.com/user?id=dthul</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什麼是很少有人談論的下一件大事？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Yukonv</name>
             <uri>https://news.ycombinator.com/user?id=Yukonv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Meta VR設備不再需要Facebook賬戶了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32016484</id>
-        <link href="https://news.ycombinator.com/item?id=32016484"/>
-        <updated>2022-07-07T17:00:47.000Z</updated>
-        <summary type="html"><![CDATA[A Facebook account is no longer required to use Meta VR devices]]></summary>
-        <author>
-            <name>pesenti</name>
-            <uri>https://news.ycombinator.com/user?id=pesenti</uri>
         </author>
     </entry>
 </feed>
