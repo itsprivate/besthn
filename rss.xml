@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 08 Aug 2022 06:38:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 07:03:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么gRPC坚持使用拖车？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32380769</link>
+            <guid>https://news.ycombinator.com/item?id=32380769</guid>
+            <pubDate>Sun, 07 Aug 2022 22:59:19 GMT</pubDate>
+            <description><![CDATA[Why does gRPC insist on trailers?]]></description>
+        </item>
         <item>
             <title><![CDATA[学习生成艺术编程的资源？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32010317</guid>
             <pubDate>Thu, 07 Jul 2022 05:41:42 GMT</pubDate>
             <description><![CDATA[Playstation Store removes Studiocanal movies, no refunds offered]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么DRY是最被高估的编程原则？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32010699</link>
-            <guid>https://news.ycombinator.com/item?id=32010699</guid>
-            <pubDate>Thu, 07 Jul 2022 06:51:42 GMT</pubDate>
-            <description><![CDATA[Why DRY is the most over-rated programming principle]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-08T06:38:32.608Z</updated>
+    <updated>2022-08-08T07:03:45.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么gRPC坚持使用拖车？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32380769</id>
+        <link href="https://news.ycombinator.com/item?id=32380769"/>
+        <updated>2022-08-07T22:59:19.000Z</updated>
+        <summary type="html"><![CDATA[Why does gRPC insist on trailers?]]></summary>
+        <author>
+            <name>strzalek</name>
+            <uri>https://news.ycombinator.com/user?id=strzalek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学习生成艺术编程的资源？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>josephcsible</name>
             <uri>https://news.ycombinator.com/user?id=josephcsible</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么DRY是最被高估的编程原则？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32010699</id>
-        <link href="https://news.ycombinator.com/item?id=32010699"/>
-        <updated>2022-07-07T06:51:42.000Z</updated>
-        <summary type="html"><![CDATA[Why DRY is the most over-rated programming principle]]></summary>
-        <author>
-            <name>gcassie</name>
-            <uri>https://news.ycombinator.com/user?id=gcassie</uri>
         </author>
     </entry>
 </feed>
