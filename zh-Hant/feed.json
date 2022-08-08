@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32367297",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32367297",
+            "title": "我們從一個好的書店獲得什麼\n",
+            "summary": "What We Gain from a Good Bookstore",
+            "date_modified": "2022-08-06T11:56:06.000Z",
+            "author": {
+                "name": "pseudolus",
+                "url": "https://news.ycombinator.com/user?id=pseudolus"
+            },
+            "_original_headline": "What We Gain from a Good Bookstore",
+            "_original_url": "https://www.newyorker.com/culture/cultural-comment/what-we-gain-from-a-good-bookstore",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32377735",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32377735",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.dolthub.com/blog/2022-07-01-hospitals-compliance/",
             "_sensitive": false,
             "_score": 223
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31999936",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31999936",
-            "title": "讓IRC變得更好\n",
-            "summary": "Making IRC better",
-            "date_modified": "2022-07-06T12:40:01.000Z",
-            "author": {
-                "name": "Tomte",
-                "url": "https://news.ycombinator.com/user?id=Tomte"
-            },
-            "_original_headline": "Making IRC better",
-            "_original_url": "https://sourcehut.org/blog/2022-07-06-sourcehut-and-irc/",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }
