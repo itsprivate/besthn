@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 08 Aug 2022 07:03:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 07:28:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[集體訴訟針對Experian的賬戶安全問題
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32378869</link>
+            <guid>https://news.ycombinator.com/item?id=32378869</guid>
+            <pubDate>Sun, 07 Aug 2022 19:03:05 GMT</pubDate>
+            <description><![CDATA[Class Action Targets Experian over Account Security]]></description>
+        </item>
         <item>
             <title><![CDATA[為什麼gRPC堅持使用拖車？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32011432</guid>
             <pubDate>Thu, 07 Jul 2022 08:44:47 GMT</pubDate>
             <description><![CDATA[4th Gen KDE Slimbook – Linux Ultrabook with an AMD Ryzen 7 5700U]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Playstation商店刪除了Studiocanal電影，不提供退款
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32010317</link>
-            <guid>https://news.ycombinator.com/item?id=32010317</guid>
-            <pubDate>Thu, 07 Jul 2022 05:41:42 GMT</pubDate>
-            <description><![CDATA[Playstation Store removes Studiocanal movies, no refunds offered]]></description>
         </item>
     </channel>
 </rss>
