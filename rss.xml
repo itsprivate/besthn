@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 08 Aug 2022 05:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 06:38:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[学习生成艺术编程的资源？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32370671</link>
+            <guid>https://news.ycombinator.com/item?id=32370671</guid>
+            <pubDate>Sat, 06 Aug 2022 19:03:16 GMT</pubDate>
+            <description><![CDATA[Ask HN: Resources to learn generative art programming?]]></description>
+        </item>
         <item>
             <title><![CDATA[碳抵消只是另一种形式的洗绿行为
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32010699</guid>
             <pubDate>Thu, 07 Jul 2022 06:51:42 GMT</pubDate>
             <description><![CDATA[Why DRY is the most over-rated programming principle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[生活统计
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32009009</link>
-            <guid>https://news.ycombinator.com/item?id=32009009</guid>
-            <pubDate>Thu, 07 Jul 2022 01:37:34 GMT</pubDate>
-            <description><![CDATA[Life Stats]]></description>
         </item>
     </channel>
 </rss>
