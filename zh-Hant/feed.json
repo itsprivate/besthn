@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32380079",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32380079",
+            "title": "看中位數，而不是人均GDP的平均數\n",
+            "summary": "Look at median, and not mean GDP per capita",
+            "date_modified": "2022-08-07T21:26:28.000Z",
+            "author": {
+                "name": "amin",
+                "url": "https://news.ycombinator.com/user?id=amin"
+            },
+            "_original_headline": "Look at median, and not mean GDP per capita",
+            "_original_url": "https://medianism.org/",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32379430",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32379430",
+            "title": "瀏覽器內的復古未來主義坦克遊戲，開放源代碼\n",
+            "summary": "In-browser retro-futuristic tank game, open source",
+            "date_modified": "2022-08-07T20:11:32.000Z",
+            "author": {
+                "name": "brianrisk",
+                "url": "https://news.ycombinator.com/user?id=brianrisk"
+            },
+            "_original_headline": "In-browser retro-futuristic tank game, open source",
+            "_original_url": "https://synthblast.com",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32370893",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32370893",
+            "title": "AlphaFold不會使藥物發現發生革命性變化\n",
+            "summary": "AlphaFold won’t revolutionise drug discovery",
+            "date_modified": "2022-08-06T19:35:27.000Z",
+            "author": {
+                "name": "panabee",
+                "url": "https://news.ycombinator.com/user?id=panabee"
+            },
+            "_original_headline": "AlphaFold won’t revolutionise drug discovery",
+            "_original_url": "https://www.chemistryworld.com/opinion/why-alphafold-wont-revolutionise-drug-discovery/4016051.article",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32381550",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32381550",
@@ -9561,54 +9609,6 @@
             "_original_url": "https://0xfoobar.substack.com/p/ethereum-proof-of-stake",
             "_sensitive": false,
             "_score": 203
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32011439",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32011439",
-            "title": "在簡單的前端開發中，你的首選工具集是什麼？\n",
-            "summary": "Ask HN: What's is your go to toolset for simple front end development?",
-            "date_modified": "2022-07-07T08:45:39.000Z",
-            "author": {
-                "name": "anakaine",
-                "url": "https://news.ycombinator.com/user?id=anakaine"
-            },
-            "_original_headline": "Ask HN: What's is your go to toolset for simple front end development?",
-            "_original_url": "https://news.ycombinator.com/item?id=32011439",
-            "_sensitive": false,
-            "_score": 204
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32012875",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32012875",
-            "title": "為什麼人們沒有注意到我們巨大的、突出的、清晰的、對比強烈的橫幅？\n",
-            "summary": "Why do people not notice our enormous, prominent, clear and contrasting banner?",
-            "date_modified": "2022-07-07T11:59:47.000Z",
-            "author": {
-                "name": "mmillin",
-                "url": "https://news.ycombinator.com/user?id=mmillin"
-            },
-            "_original_headline": "Why do people not notice our enormous, prominent, clear and contrasting banner?",
-            "_original_url": "https://ux.stackexchange.com/questions/120541/why-do-people-not-notice-our-enormous-prominent-clear-and-contrasting-purple-b",
-            "_sensitive": false,
-            "_score": 213
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32011288",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32011288",
-            "title": "歐盟議會批准新的分類法，核電變綠了\n",
-            "summary": "Nuclear turn green as EU parliament approves new taxonomy",
-            "date_modified": "2022-07-07T08:26:24.000Z",
-            "author": {
-                "name": "goindeep",
-                "url": "https://news.ycombinator.com/user?id=goindeep"
-            },
-            "_original_headline": "Nuclear turn green as EU parliament approves new taxonomy",
-            "_original_url": "https://earth.org/gas-and-nuclear-turn-green-eu-taxonomy/",
-            "_sensitive": false,
-            "_score": 218
         }
     ]
 }
