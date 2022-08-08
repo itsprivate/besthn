@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32386762",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32386762",
+            "title": "实现苹果代码签名和公证的开源实现\n",
+            "summary": "Achieving an open-source implementation of Apple Code Signing and notarization",
+            "date_modified": "2022-08-08T15:34:51.000Z",
+            "author": {
+                "name": "indygreg2",
+                "url": "https://news.ycombinator.com/user?id=indygreg2"
+            },
+            "_original_headline": "Achieving an open-source implementation of Apple Code Signing and notarization",
+            "_original_url": "https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32386189",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32386189",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://fly.io/blog/soc2-the-screenshots-will-continue-until-security-improves/",
             "_sensitive": false,
             "_score": 218
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32017952",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32017952",
-            "title": "7月8日世界上99%的人口同时在阳光下？\n",
-            "summary": "July 8 99% of the world’s population in sunlight simultaneously?",
-            "date_modified": "2022-07-07T19:05:48.000Z",
-            "author": {
-                "name": "cft",
-                "url": "https://news.ycombinator.com/user?id=cft"
-            },
-            "_original_headline": "July 8 99% of the world’s population in sunlight simultaneously?",
-            "_original_url": "https://www.timeanddate.com/news/astronomy/99-percent-sunlight-july-8",
-            "_sensitive": false,
-            "_score": 214
         }
     ]
 }
