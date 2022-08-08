@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32384653",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32384653",
+            "title": "要揭开一个深层伪造的视频通话，请通话者侧身\n",
+            "summary": "To uncover a deepfake video call, ask the caller to turn sideways",
+            "date_modified": "2022-08-08T12:26:05.000Z",
+            "author": {
+                "name": "Hard_Space",
+                "url": "https://news.ycombinator.com/user?id=Hard_Space"
+            },
+            "_original_headline": "To uncover a deepfake video call, ask the caller to turn sideways",
+            "_original_url": "https://metaphysic.ai/to-uncover-a-deepfake-video-call-ask-the-caller-to-turn-sideways/",
+            "_sensitive": false,
+            "_score": 261
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32384613",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32384613",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://robbowen.digital/wrote-about/css-blend-mode-shaders/",
             "_sensitive": false,
             "_score": 215
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32002555",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32002555",
-            "title": "只能由人眼阅读的PDF文件\n",
-            "summary": "Show HN: PDFs that are readable by human eyes only",
-            "date_modified": "2022-07-06T15:38:58.000Z",
-            "author": {
-                "name": "viggity",
-                "url": "https://news.ycombinator.com/user?id=viggity"
-            },
-            "_original_headline": "Show HN: PDFs that are readable by human eyes only",
-            "_original_url": "https://humaneyesonly.com",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }

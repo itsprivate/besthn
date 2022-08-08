@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 08 Aug 2022 15:00:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 16:50:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[要揭开一个深层伪造的视频通话，请通话者侧身
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32384653</link>
+            <guid>https://news.ycombinator.com/item?id=32384653</guid>
+            <pubDate>Mon, 08 Aug 2022 12:26:05 GMT</pubDate>
+            <description><![CDATA[To uncover a deepfake video call, ask the caller to turn sideways]]></description>
+        </item>
         <item>
             <title><![CDATA[不再有 "洞察力色情 "了
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32016391</guid>
             <pubDate>Thu, 07 Jul 2022 16:53:09 GMT</pubDate>
             <description><![CDATA[Shader-like holographic effects with CSS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[只能由人眼阅读的PDF文件
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32002555</link>
-            <guid>https://news.ycombinator.com/item?id=32002555</guid>
-            <pubDate>Wed, 06 Jul 2022 15:38:58 GMT</pubDate>
-            <description><![CDATA[Show HN: PDFs that are readable by human eyes only]]></description>
         </item>
     </channel>
 </rss>
