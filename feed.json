@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32379066",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32379066",
+            "title": "海底的神秘洞口\n",
+            "summary": "Mysterious holes on the seafloor",
+            "date_modified": "2022-08-07T19:26:35.000Z",
+            "author": {
+                "name": "smartmic",
+                "url": "https://news.ycombinator.com/user?id=smartmic"
+            },
+            "_original_headline": "Mysterious holes on the seafloor",
+            "_original_url": "https://oceanexplorer.noaa.gov/news/oer-updates/2022/mysterious-holes-seafloor/mysterious-holes-seafloor.html",
+            "_sensitive": false,
+            "_score": 209
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32378752",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32378752",
+            "title": "软件工程师的随叫随到报酬\n",
+            "summary": "Oncall Compensation for Software Engineers",
+            "date_modified": "2022-08-07T18:52:43.000Z",
+            "author": {
+                "name": "kiyanwang",
+                "url": "https://news.ycombinator.com/user?id=kiyanwang"
+            },
+            "_original_headline": "Oncall Compensation for Software Engineers",
+            "_original_url": "https://blog.pragmaticengineer.com/oncall-compensation/",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32353067",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32353067",
+            "title": "图书馆--公司如何不了解开放空间\n",
+            "summary": "Libraries – how companies do not understand open spaces",
+            "date_modified": "2022-08-05T08:02:26.000Z",
+            "author": {
+                "name": "tajchert",
+                "url": "https://news.ycombinator.com/user?id=tajchert"
+            },
+            "_original_headline": "Libraries – how companies do not understand open spaces",
+            "_original_url": "https://www.mtajchert.com/libraries-and-open-spaces/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32376322",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32376322",
@@ -9561,54 +9609,6 @@
             "_original_url": "https://musicforprogramming.net/",
             "_sensitive": false,
             "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32006791",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32006791",
-            "title": "大规模的 \"沙子电池 \"在芬兰上线\n",
-            "summary": "Large-scale ‘sand battery’ goes online in Finland",
-            "date_modified": "2022-07-06T21:03:09.000Z",
-            "author": {
-                "name": "bobse",
-                "url": "https://news.ycombinator.com/user?id=bobse"
-            },
-            "_original_headline": "Large-scale ‘sand battery’ goes online in Finland",
-            "_original_url": "https://www.energy-storage.news/worlds-first-large-scale-sand-battery-goes-online-in-finland/",
-            "_sensitive": false,
-            "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32003215",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32003215",
-            "title": "启动HN：Hello (YC S22) - 一个面向开发者的搜索引擎\n",
-            "summary": "Launch HN: Hello (YC S22) – A search engine for developers",
-            "date_modified": "2022-07-06T16:24:30.000Z",
-            "author": {
-                "name": "wayy",
-                "url": "https://news.ycombinator.com/user?id=wayy"
-            },
-            "_original_headline": "Launch HN: Hello (YC S22) – A search engine for developers",
-            "_original_url": "https://news.ycombinator.com/item?id=32003215",
-            "_sensitive": false,
-            "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32000598",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32000598",
-            "title": "在过渡到微服务之前，如何改进你的单片机？\n",
-            "summary": "How to Improve Your Monolith Before Transitioning to Microservices",
-            "date_modified": "2022-07-06T13:31:40.000Z",
-            "author": {
-                "name": "ahamez",
-                "url": "https://news.ycombinator.com/user?id=ahamez"
-            },
-            "_original_headline": "How to Improve Your Monolith Before Transitioning to Microservices",
-            "_original_url": "https://semaphoreci.com/blog/monolith-microservices",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }
