@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-08T20:34:58.377Z</updated>
+    <updated>2022-08-08T21:48:11.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国财政部制裁虚拟货币混合器龙卷风现金
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32386189</id>
+        <link href="https://news.ycombinator.com/item?id=32386189"/>
+        <updated>2022-08-08T14:56:20.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Treasury sanctions virtual currency mixer Tornado Cash]]></summary>
+        <author>
+            <name>yamrzou</name>
+            <uri>https://news.ycombinator.com/user?id=yamrzou</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[打开AirPlay 2接收器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cft</name>
             <uri>https://news.ycombinator.com/user?id=cft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[采取行动，打击出租刮削行为
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32013202</id>
-        <link href="https://news.ycombinator.com/item?id=32013202"/>
-        <updated>2022-07-07T12:33:46.000Z</updated>
-        <summary type="html"><![CDATA[Taking action against scraping for hire]]></summary>
-        <author>
-            <name>pawelkobojek</name>
-            <uri>https://news.ycombinator.com/user?id=pawelkobojek</uri>
         </author>
     </entry>
 </feed>

@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32386189",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32386189",
+            "title": "美國財政部制裁虛擬貨幣混合器龍捲風現金\n",
+            "summary": "U.S. Treasury sanctions virtual currency mixer Tornado Cash",
+            "date_modified": "2022-08-08T14:56:20.000Z",
+            "author": {
+                "name": "yamrzou",
+                "url": "https://news.ycombinator.com/user?id=yamrzou"
+            },
+            "_original_headline": "U.S. Treasury sanctions virtual currency mixer Tornado Cash",
+            "_original_url": "https://home.treasury.gov/news/press-releases/jy0916",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32383820",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32383820",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.timeanddate.com/news/astronomy/99-percent-sunlight-july-8",
             "_sensitive": false,
             "_score": 214
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32013202",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32013202",
-            "title": "採取行動，打擊出租刮削行為\n",
-            "summary": "Taking action against scraping for hire",
-            "date_modified": "2022-07-07T12:33:46.000Z",
-            "author": {
-                "name": "pawelkobojek",
-                "url": "https://news.ycombinator.com/user?id=pawelkobojek"
-            },
-            "_original_headline": "Taking action against scraping for hire",
-            "_original_url": "https://about.fb.com/news/2022/07/actions-against-scraping-for-hire/",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }

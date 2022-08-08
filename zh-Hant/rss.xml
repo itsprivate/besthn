@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 08 Aug 2022 20:34:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 21:48:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美國財政部制裁虛擬貨幣混合器龍捲風現金
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32386189</link>
+            <guid>https://news.ycombinator.com/item?id=32386189</guid>
+            <pubDate>Mon, 08 Aug 2022 14:56:20 GMT</pubDate>
+            <description><![CDATA[U.S. Treasury sanctions virtual currency mixer Tornado Cash]]></description>
+        </item>
         <item>
             <title><![CDATA[打開AirPlay 2接收器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32017952</guid>
             <pubDate>Thu, 07 Jul 2022 19:05:48 GMT</pubDate>
             <description><![CDATA[July 8 99% of the world’s population in sunlight simultaneously?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[採取行動，打擊出租刮削行為
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32013202</link>
-            <guid>https://news.ycombinator.com/item?id=32013202</guid>
-            <pubDate>Thu, 07 Jul 2022 12:33:46 GMT</pubDate>
-            <description><![CDATA[Taking action against scraping for hire]]></description>
         </item>
     </channel>
 </rss>
