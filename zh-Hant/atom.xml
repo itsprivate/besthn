@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-08T07:28:53.980Z</updated>
+    <updated>2022-08-08T08:39:26.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我通過更換一個開關盒將TI-84模擬器的速度提高了10倍。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32381550</id>
+        <link href="https://news.ycombinator.com/item?id=32381550"/>
+        <updated>2022-08-08T01:20:41.000Z</updated>
+        <summary type="html"><![CDATA[I 10x'd a TI-84 emulator's speed by replacing a switch-case]]></summary>
+        <author>
+            <name>xena</name>
+            <uri>https://news.ycombinator.com/user?id=xena</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[集體訴訟針對Experian的賬戶安全問題
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>goindeep</name>
             <uri>https://news.ycombinator.com/user?id=goindeep</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第四代KDE Slimbook - 配備AMD Ryzen 7 5700U的Linux超極本
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32011432</id>
-        <link href="https://news.ycombinator.com/item?id=32011432"/>
-        <updated>2022-07-07T08:44:47.000Z</updated>
-        <summary type="html"><![CDATA[4th Gen KDE Slimbook – Linux Ultrabook with an AMD Ryzen 7 5700U]]></summary>
-        <author>
-            <name>jrepinc</name>
-            <uri>https://news.ycombinator.com/user?id=jrepinc</uri>
         </author>
     </entry>
 </feed>

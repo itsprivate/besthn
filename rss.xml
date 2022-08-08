@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 08 Aug 2022 07:28:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 08:39:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我通过更换一个开关盒将TI-84模拟器的速度提高了10倍。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32381550</link>
+            <guid>https://news.ycombinator.com/item?id=32381550</guid>
+            <pubDate>Mon, 08 Aug 2022 01:20:41 GMT</pubDate>
+            <description><![CDATA[I 10x'd a TI-84 emulator's speed by replacing a switch-case]]></description>
+        </item>
         <item>
             <title><![CDATA[集体诉讼针对Experian的账户安全问题
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32011288</guid>
             <pubDate>Thu, 07 Jul 2022 08:26:24 GMT</pubDate>
             <description><![CDATA[Nuclear turn green as EU parliament approves new taxonomy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[第四代KDE Slimbook - 配备AMD Ryzen 7 5700U的Linux超极本
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32011432</link>
-            <guid>https://news.ycombinator.com/item?id=32011432</guid>
-            <pubDate>Thu, 07 Jul 2022 08:44:47 GMT</pubDate>
-            <description><![CDATA[4th Gen KDE Slimbook – Linux Ultrabook with an AMD Ryzen 7 5700U]]></description>
         </item>
     </channel>
 </rss>

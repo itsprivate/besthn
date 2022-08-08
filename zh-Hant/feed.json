@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32381550",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32381550",
+            "title": "我通過更換一個開關盒將TI-84模擬器的速度提高了10倍。\n",
+            "summary": "I 10x'd a TI-84 emulator's speed by replacing a switch-case",
+            "date_modified": "2022-08-08T01:20:41.000Z",
+            "author": {
+                "name": "xena",
+                "url": "https://news.ycombinator.com/user?id=xena"
+            },
+            "_original_headline": "I 10x'd a TI-84 emulator's speed by replacing a switch-case",
+            "_original_url": "https://artemis.sh/2022/08/07/emulating-calculators-fast-in-js.html",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32378869",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32378869",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://earth.org/gas-and-nuclear-turn-green-eu-taxonomy/",
             "_sensitive": false,
             "_score": 218
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32011432",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32011432",
-            "title": "第四代KDE Slimbook - 配備AMD Ryzen 7 5700U的Linux超極本\n",
-            "summary": "4th Gen KDE Slimbook – Linux Ultrabook with an AMD Ryzen 7 5700U",
-            "date_modified": "2022-07-07T08:44:47.000Z",
-            "author": {
-                "name": "jrepinc",
-                "url": "https://news.ycombinator.com/user?id=jrepinc"
-            },
-            "_original_headline": "4th Gen KDE Slimbook – Linux Ultrabook with an AMD Ryzen 7 5700U",
-            "_original_url": "https://kde.slimbook.es/",
-            "_sensitive": false,
-            "_score": 203
         }
     ]
 }
