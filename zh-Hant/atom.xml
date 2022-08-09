@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-09T22:30:59.430Z</updated>
+    <updated>2022-08-09T23:30:12.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["現在是蘋果公司修復短信的時候了"
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32399238</id>
+        <link href="https://news.ycombinator.com/item?id=32399238"/>
+        <updated>2022-08-09T15:22:23.000Z</updated>
+        <summary type="html"><![CDATA[“It’s time for Apple to fix texting”]]></summary>
+        <author>
+            <name>Fabricio20</name>
+            <uri>https://news.ycombinator.com/user?id=Fabricio20</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Astro 1.0 - 一個用於建立快速、以內容為重點的網站的網絡框架
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ibobev</name>
             <uri>https://news.ycombinator.com/user?id=ibobev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告訴HN：HN從M5轉到AWS了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32030400</id>
-        <link href="https://news.ycombinator.com/item?id=32030400"/>
-        <updated>2022-07-09T01:33:16.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: HN Moved from M5 to AWS]]></summary>
-        <author>
-            <name>1vuio0pswjnm7</name>
-            <uri>https://news.ycombinator.com/user?id=1vuio0pswjnm7</uri>
         </author>
     </entry>
 </feed>

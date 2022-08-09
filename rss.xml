@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 09 Aug 2022 22:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 23:30:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA["现在是苹果公司修复短信的时候了"
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32399238</link>
+            <guid>https://news.ycombinator.com/item?id=32399238</guid>
+            <pubDate>Tue, 09 Aug 2022 15:22:23 GMT</pubDate>
+            <description><![CDATA[“It’s time for Apple to fix texting”]]></description>
+        </item>
         <item>
             <title><![CDATA[Astro 1.0 - 一个用于建立快速、以内容为重点的网站的网络框架
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32027855</guid>
             <pubDate>Fri, 08 Jul 2022 21:55:56 GMT</pubDate>
             <description><![CDATA[Go generics are not bad]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告诉HN：HN从M5转到AWS了
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32030400</link>
-            <guid>https://news.ycombinator.com/item?id=32030400</guid>
-            <pubDate>Sat, 09 Jul 2022 01:33:16 GMT</pubDate>
-            <description><![CDATA[Tell HN: HN Moved from M5 to AWS]]></description>
         </item>
     </channel>
 </rss>
