@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-09T20:33:44.727Z</updated>
+    <updated>2022-08-09T21:03:24.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們的大腦是一個預測機器，總是處於活躍狀態
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32395840</id>
+        <link href="https://news.ycombinator.com/item?id=32395840"/>
+        <updated>2022-08-09T09:36:58.000Z</updated>
+        <summary type="html"><![CDATA[Our brain is a prediction machine that is always active]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你為上下文切換支付的生產力稅
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>boeingUH60</name>
             <uri>https://news.ycombinator.com/user?id=boeingUH60</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN癱瘓時你做了什麼？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32026639</id>
-        <link href="https://news.ycombinator.com/item?id=32026639"/>
-        <updated>2022-07-08T20:36:22.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What'd you do while HN was down?]]></summary>
-        <author>
-            <name>quicksnap</name>
-            <uri>https://news.ycombinator.com/user?id=quicksnap</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 09 Aug 2022 20:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 21:03:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我們的大腦是一個預測機器，總是處於活躍狀態
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32395840</link>
+            <guid>https://news.ycombinator.com/item?id=32395840</guid>
+            <pubDate>Tue, 09 Aug 2022 09:36:58 GMT</pubDate>
+            <description><![CDATA[Our brain is a prediction machine that is always active]]></description>
+        </item>
         <item>
             <title><![CDATA[你為上下文切換支付的生產力稅
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32026782</guid>
             <pubDate>Fri, 08 Jul 2022 20:45:57 GMT</pubDate>
             <description><![CDATA[Florida Tech CEO Indicted for Selling $1B Worth of Counterfeit Cisco Equipment]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HN癱瘓時你做了什麼？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32026639</link>
-            <guid>https://news.ycombinator.com/item?id=32026639</guid>
-            <pubDate>Fri, 08 Jul 2022 20:36:22 GMT</pubDate>
-            <description><![CDATA[Ask HN: What'd you do while HN was down?]]></description>
         </item>
     </channel>
 </rss>
