@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-09T15:38:15.879Z</updated>
+    <updated>2022-08-09T17:12:09.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从新手到大师，再从大师到新手
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32398391</id>
+        <link href="https://news.ycombinator.com/item?id=32398391"/>
+        <updated>2022-08-09T14:22:41.000Z</updated>
+        <summary type="html"><![CDATA[From Novice to Master, and Back Again]]></summary>
+        <author>
+            <name>omn1</name>
+            <uri>https://news.ycombinator.com/user?id=omn1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法国遭遇有史以来最严重的旱灾
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32396651</id>
+        <link href="https://news.ycombinator.com/item?id=32396651"/>
+        <updated>2022-08-09T11:57:52.000Z</updated>
+        <summary type="html"><![CDATA[France experiencing worst drought on record]]></summary>
+        <author>
+            <name>ksec</name>
+            <uri>https://news.ycombinator.com/user?id=ksec</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[反对C选项的理由
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>GenericCanadian</name>
             <uri>https://news.ycombinator.com/user?id=GenericCanadian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆-马斯克试图退出Twitter交易
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32027341</id>
-        <link href="https://news.ycombinator.com/item?id=32027341"/>
-        <updated>2022-07-08T21:24:56.000Z</updated>
-        <summary type="html"><![CDATA[Elon Musk Trying to Back Out of Twitter Deal]]></summary>
-        <author>
-            <name>coloneltcb</name>
-            <uri>https://news.ycombinator.com/user?id=coloneltcb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加拿大各地罗杰斯网络中断，银行、企业和消费者都受到影响
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32026637</id>
-        <link href="https://news.ycombinator.com/item?id=32026637"/>
-        <updated>2022-07-08T20:36:13.000Z</updated>
-        <summary type="html"><![CDATA[Rogers network outage across Canada hits banks, businesses and consumers]]></summary>
-        <author>
-            <name>cupofpython</name>
-            <uri>https://news.ycombinator.com/user?id=cupofpython</uri>
         </author>
     </entry>
 </feed>

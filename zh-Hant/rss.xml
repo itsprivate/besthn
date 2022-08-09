@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 09 Aug 2022 15:38:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 17:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[從新手到大師，再從大師到新手
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32398391</link>
+            <guid>https://news.ycombinator.com/item?id=32398391</guid>
+            <pubDate>Tue, 09 Aug 2022 14:22:41 GMT</pubDate>
+            <description><![CDATA[From Novice to Master, and Back Again]]></description>
+        </item>
+        <item>
+            <title><![CDATA[法國遭遇有史以來最嚴重的旱災
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32396651</link>
+            <guid>https://news.ycombinator.com/item?id=32396651</guid>
+            <pubDate>Tue, 09 Aug 2022 11:57:52 GMT</pubDate>
+            <description><![CDATA[France experiencing worst drought on record]]></description>
+        </item>
         <item>
             <title><![CDATA[反對C選項的理由
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32018459</guid>
             <pubDate>Thu, 07 Jul 2022 19:47:35 GMT</pubDate>
             <description><![CDATA[Astrofox – Turn Audio into Videos]]></description>
-        </item>
-        <item>
-            <title><![CDATA[埃隆-馬斯克試圖退出Twitter交易
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32027341</link>
-            <guid>https://news.ycombinator.com/item?id=32027341</guid>
-            <pubDate>Fri, 08 Jul 2022 21:24:56 GMT</pubDate>
-            <description><![CDATA[Elon Musk Trying to Back Out of Twitter Deal]]></description>
-        </item>
-        <item>
-            <title><![CDATA[加拿大各地羅傑斯網絡中斷，銀行、企業和消費者都受到影響
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32026637</link>
-            <guid>https://news.ycombinator.com/item?id=32026637</guid>
-            <pubDate>Fri, 08 Jul 2022 20:36:13 GMT</pubDate>
-            <description><![CDATA[Rogers network outage across Canada hits banks, businesses and consumers]]></description>
         </item>
     </channel>
 </rss>
