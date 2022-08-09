@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-09T06:39:32.228Z</updated>
+    <updated>2022-08-09T07:28:28.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[事件報告。僱員和客戶賬戶被洩露
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32385362</id>
+        <link href="https://news.ycombinator.com/item?id=32385362"/>
+        <updated>2022-08-08T13:51:09.000Z</updated>
+        <summary type="html"><![CDATA[Incident report: Employee and customer account compromise]]></summary>
+        <author>
+            <name>wepple</name>
+            <uri>https://news.ycombinator.com/user?id=wepple</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[因鼓吹陪審團無效而被捕的男子贏得聯邦案件
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>andsoitis</name>
             <uri>https://news.ycombinator.com/user?id=andsoitis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本前首相安倍晉三在演講中被暗殺
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32022506</id>
-        <link href="https://news.ycombinator.com/item?id=32022506"/>
-        <updated>2022-07-08T02:56:26.000Z</updated>
-        <summary type="html"><![CDATA[Japan’s Ex-PM Abe assassinated during speech]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
         </author>
     </entry>
 </feed>
