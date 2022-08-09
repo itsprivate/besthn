@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 09 Aug 2022 21:03:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 22:01:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[不要說這是一次復出。Java仍然是冠軍
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32399266</link>
+            <guid>https://news.ycombinator.com/item?id=32399266</guid>
+            <pubDate>Tue, 09 Aug 2022 15:24:34 GMT</pubDate>
+            <description><![CDATA[Don’t call it a comeback: Java is still champ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為什麼智能手機會成為一個單點故障？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32396685</link>
+            <guid>https://news.ycombinator.com/item?id=32396685</guid>
+            <pubDate>Tue, 09 Aug 2022 12:03:37 GMT</pubDate>
+            <description><![CDATA[Ask HN: Why did smartphones become a single point of failure?]]></description>
+        </item>
         <item>
             <title><![CDATA[我們的大腦是一個預測機器，總是處於活躍狀態
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32026951</guid>
             <pubDate>Fri, 08 Jul 2022 20:55:57 GMT</pubDate>
             <description><![CDATA[Bad UI is causing people to get scammed]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亞利桑那州規定旁觀者近距離記錄警察為非法行為
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32030229</link>
-            <guid>https://news.ycombinator.com/item?id=32030229</guid>
-            <pubDate>Sat, 09 Jul 2022 01:09:14 GMT</pubDate>
-            <description><![CDATA[Arizona makes it illegal for bystanders to record cops at close range]]></description>
-        </item>
-        <item>
-            <title><![CDATA[佛羅里達州科技公司CEO因銷售價值10億美元的假冒思科設備被起訴
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32026782</link>
-            <guid>https://news.ycombinator.com/item?id=32026782</guid>
-            <pubDate>Fri, 08 Jul 2022 20:45:57 GMT</pubDate>
-            <description><![CDATA[Florida Tech CEO Indicted for Selling $1B Worth of Counterfeit Cisco Equipment]]></description>
         </item>
     </channel>
 </rss>

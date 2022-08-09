@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-09T21:03:24.605Z</updated>
+    <updated>2022-08-09T22:01:08.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不要说这是一次复出。Java仍然是冠军
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32399266</id>
+        <link href="https://news.ycombinator.com/item?id=32399266"/>
+        <updated>2022-08-09T15:24:34.000Z</updated>
+        <summary type="html"><![CDATA[Don’t call it a comeback: Java is still champ]]></summary>
+        <author>
+            <name>smartblondeva</name>
+            <uri>https://news.ycombinator.com/user?id=smartblondeva</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么智能手机会成为一个单点故障？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32396685</id>
+        <link href="https://news.ycombinator.com/item?id=32396685"/>
+        <updated>2022-08-09T12:03:37.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Why did smartphones become a single point of failure?]]></summary>
+        <author>
+            <name>neverminder</name>
+            <uri>https://news.ycombinator.com/user?id=neverminder</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们的大脑是一个预测机器，总是处于活跃状态
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>samemail88</name>
             <uri>https://news.ycombinator.com/user?id=samemail88</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚利桑那州规定旁观者近距离记录警察为非法行为
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32030229</id>
-        <link href="https://news.ycombinator.com/item?id=32030229"/>
-        <updated>2022-07-09T01:09:14.000Z</updated>
-        <summary type="html"><![CDATA[Arizona makes it illegal for bystanders to record cops at close range]]></summary>
-        <author>
-            <name>arunbahl</name>
-            <uri>https://news.ycombinator.com/user?id=arunbahl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[佛罗里达州科技公司CEO因销售价值10亿美元的假冒思科设备被起诉
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32026782</id>
-        <link href="https://news.ycombinator.com/item?id=32026782"/>
-        <updated>2022-07-08T20:45:57.000Z</updated>
-        <summary type="html"><![CDATA[Florida Tech CEO Indicted for Selling $1B Worth of Counterfeit Cisco Equipment]]></summary>
-        <author>
-            <name>boeingUH60</name>
-            <uri>https://news.ycombinator.com/user?id=boeingUH60</uri>
         </author>
     </entry>
 </feed>
