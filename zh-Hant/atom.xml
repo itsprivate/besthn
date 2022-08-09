@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-09T09:31:33.978Z</updated>
+    <updated>2022-08-09T14:04:11.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為龍捲風倉庫做出貢獻的人的GitHub賬戶剛剛被刪除
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32395971</id>
+        <link href="https://news.ycombinator.com/item?id=32395971"/>
+        <updated>2022-08-09T10:07:31.000Z</updated>
+        <summary type="html"><![CDATA[GitHub accounts of people who contributed to tornado repos just got deleted]]></summary>
+        <author>
+            <name>ETH_start</name>
+            <uri>https://news.ycombinator.com/user?id=ETH_start</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梅爾的故事 (1983)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32395589</id>
+        <link href="https://news.ycombinator.com/item?id=32395589"/>
+        <updated>2022-08-09T08:49:03.000Z</updated>
+        <summary type="html"><![CDATA[The Story of Mel (1983)]]></summary>
+        <author>
+            <name>thunderbong</name>
+            <uri>https://news.ycombinator.com/user?id=thunderbong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第12代英特爾酷睿的速度如何？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>watsonkr</name>
             <uri>https://news.ycombinator.com/user?id=watsonkr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前首相安倍晉三遭槍擊後去世
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32024716</id>
-        <link href="https://news.ycombinator.com/item?id=32024716"/>
-        <updated>2022-07-08T09:17:49.000Z</updated>
-        <summary type="html"><![CDATA[Former PM Abe Shinzo dies after being shot]]></summary>
-        <author>
-            <name>coolandsmartrr</name>
-            <uri>https://news.ycombinator.com/user?id=coolandsmartrr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聯想出貨的新筆記本電腦默認只啟動Windows系統
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32023868</id>
-        <link href="https://news.ycombinator.com/item?id=32023868"/>
-        <updated>2022-07-08T07:25:45.000Z</updated>
-        <summary type="html"><![CDATA[Lenovo shipping new laptops that only boot Windows by default]]></summary>
-        <author>
-            <name>HieronymusBosch</name>
-            <uri>https://news.ycombinator.com/user?id=HieronymusBosch</uri>
         </author>
     </entry>
 </feed>

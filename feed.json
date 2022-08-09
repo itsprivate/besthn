@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32395971",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32395971",
+            "title": "为龙卷风仓库做出贡献的人的GitHub账户刚刚被删除\n",
+            "summary": "GitHub accounts of people who contributed to tornado repos just got deleted",
+            "date_modified": "2022-08-09T10:07:31.000Z",
+            "author": {
+                "name": "ETH_start",
+                "url": "https://news.ycombinator.com/user?id=ETH_start"
+            },
+            "_original_headline": "GitHub accounts of people who contributed to tornado repos just got deleted",
+            "_original_url": "https://twitter.com/bantg/status/1556721709931175937",
+            "_sensitive": false,
+            "_score": 214
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32395589",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32395589",
+            "title": "梅尔的故事 (1983)\n",
+            "summary": "The Story of Mel (1983)",
+            "date_modified": "2022-08-09T08:49:03.000Z",
+            "author": {
+                "name": "thunderbong",
+                "url": "https://news.ycombinator.com/user?id=thunderbong"
+            },
+            "_original_headline": "The Story of Mel (1983)",
+            "_original_url": "https://www.cs.utah.edu/~elb/folklore/mel.html",
+            "_sensitive": false,
+            "_score": 214
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32393634",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32393634",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://element.io/blog/element-launches-chatterbox/",
             "_sensitive": false,
             "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32024716",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32024716",
-            "title": "前首相安倍晋三遭枪击后去世\n",
-            "summary": "Former PM Abe Shinzo dies after being shot",
-            "date_modified": "2022-07-08T09:17:49.000Z",
-            "author": {
-                "name": "coolandsmartrr",
-                "url": "https://news.ycombinator.com/user?id=coolandsmartrr"
-            },
-            "_original_headline": "Former PM Abe Shinzo dies after being shot",
-            "_original_url": "https://www3.nhk.or.jp/nhkworld/en/news/20220708_49/",
-            "_sensitive": false,
-            "_score": 212
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32023868",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32023868",
-            "title": "联想出货的新笔记本电脑默认只启动Windows系统\n",
-            "summary": "Lenovo shipping new laptops that only boot Windows by default",
-            "date_modified": "2022-07-08T07:25:45.000Z",
-            "author": {
-                "name": "HieronymusBosch",
-                "url": "https://news.ycombinator.com/user?id=HieronymusBosch"
-            },
-            "_original_headline": "Lenovo shipping new laptops that only boot Windows by default",
-            "_original_url": "https://mjg59.dreamwidth.org/59931.html",
-            "_sensitive": false,
-            "_score": 204
         }
     ]
 }
