@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-09T14:50:10.812Z</updated>
+    <updated>2022-08-09T15:38:15.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[反對C選項的理由
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32392161</id>
+        <link href="https://news.ycombinator.com/item?id=32392161"/>
+        <updated>2022-08-08T22:56:18.000Z</updated>
+        <summary type="html"><![CDATA[The case against a C alternative]]></summary>
+        <author>
+            <name>lerno</name>
+            <uri>https://news.ycombinator.com/user?id=lerno</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Rust中使用unwrap()是可以的
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cupofpython</name>
             <uri>https://news.ycombinator.com/user?id=cupofpython</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN再次上升
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32026571</id>
-        <link href="https://news.ycombinator.com/item?id=32026571"/>
-        <updated>2022-07-08T20:30:55.000Z</updated>
-        <summary type="html"><![CDATA[HN Is Up Again]]></summary>
-        <author>
-            <name>tpmx</name>
-            <uri>https://news.ycombinator.com/user?id=tpmx</uri>
         </author>
     </entry>
 </feed>
