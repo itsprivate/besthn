@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32401381",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32401381",
+            "title": "脸书在起诉堕胎案中向警方提供青少年的DMs\n",
+            "summary": "Facebook Gave Police Teenager's DMs in Abortion Prosecution",
+            "date_modified": "2022-08-09T17:56:09.000Z",
+            "author": {
+                "name": "intunderflow",
+                "url": "https://news.ycombinator.com/user?id=intunderflow"
+            },
+            "_original_headline": "Facebook Gave Police Teenager's DMs in Abortion Prosecution",
+            "_original_url": "https://www.forbes.com/sites/emilybaker-white/2022/08/08/facebook-abortion-teen-dms/",
+            "_sensitive": false,
+            "_score": 227
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32399949",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32399949",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.vice.com/en/article/v7veg8/anom-app-source-code-operation-trojan-shield-an0m",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32025882",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32025882",
-            "title": "为什么我们要坚持使用Ruby on Rails？\n",
-            "summary": "Why we're sticking with Ruby on Rails",
-            "date_modified": "2022-07-08T11:47:20.000Z",
-            "author": {
-                "name": "lutrinus",
-                "url": "https://news.ycombinator.com/user?id=lutrinus"
-            },
-            "_original_headline": "Why we're sticking with Ruby on Rails",
-            "_original_url": "https://about.gitlab.com/blog/2022/07/06/why-were-sticking-with-ruby-on-rails/",
-            "_sensitive": false,
-            "_score": 203
         }
     ]
 }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-09T18:40:34.924Z</updated>
+    <updated>2022-08-09T19:32:35.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[臉書在起訴墮胎案中向警方提供青少年的DMs
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32401381</id>
+        <link href="https://news.ycombinator.com/item?id=32401381"/>
+        <updated>2022-08-09T17:56:09.000Z</updated>
+        <summary type="html"><![CDATA[Facebook Gave Police Teenager's DMs in Abortion Prosecution]]></summary>
+        <author>
+            <name>intunderflow</name>
+            <uri>https://news.ycombinator.com/user?id=intunderflow</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一場影響到Twitter上5百萬個賬戶和私人信息的事件
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>danso</name>
             <uri>https://news.ycombinator.com/user?id=danso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼我們要堅持使用Ruby on Rails？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32025882</id>
-        <link href="https://news.ycombinator.com/item?id=32025882"/>
-        <updated>2022-07-08T11:47:20.000Z</updated>
-        <summary type="html"><![CDATA[Why we're sticking with Ruby on Rails]]></summary>
-        <author>
-            <name>lutrinus</name>
-            <uri>https://news.ycombinator.com/user?id=lutrinus</uri>
         </author>
     </entry>
 </feed>
