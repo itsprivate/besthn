@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 09 Aug 2022 14:04:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 14:33:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谢谢你，Firebug (2017)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32395518</link>
+            <guid>https://news.ycombinator.com/item?id=32395518</guid>
+            <pubDate>Tue, 09 Aug 2022 08:37:03 GMT</pubDate>
+            <description><![CDATA[Thank You, Firebug (2017)]]></description>
+        </item>
         <item>
             <title><![CDATA[为龙卷风仓库做出贡献的人的GitHub账户刚刚被删除
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32025562</guid>
             <pubDate>Fri, 08 Jul 2022 11:07:07 GMT</pubDate>
             <description><![CDATA[Notepad++ v8.4.3: Unhappy Users' Edition]]></description>
-        </item>
-        <item>
-            <title><![CDATA[元素公司（Matrix）推出Chatterbox，端到端加密的嵌入式聊天。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32020055</link>
-            <guid>https://news.ycombinator.com/item?id=32020055</guid>
-            <pubDate>Thu, 07 Jul 2022 21:57:42 GMT</pubDate>
-            <description><![CDATA[Element (Matrix) launches Chatterbox, end-to-end encrypted embedded chat]]></description>
         </item>
     </channel>
 </rss>

@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32395518",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32395518",
+            "title": "謝謝你，Firebug (2017)\n",
+            "summary": "Thank You, Firebug (2017)",
+            "date_modified": "2022-08-09T08:37:03.000Z",
+            "author": {
+                "name": "memorable",
+                "url": "https://news.ycombinator.com/user?id=memorable"
+            },
+            "_original_headline": "Thank You, Firebug (2017)",
+            "_original_url": "https://getfirebug.com/",
+            "_sensitive": false,
+            "_score": 206
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32395971",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32395971",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://notepad-plus-plus.org/news/v843-unhappy-users-edition/",
             "_sensitive": false,
             "_score": 215
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32020055",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32020055",
-            "title": "元素公司（Matrix）推出Chatterbox，端到端加密的嵌入式聊天。\n",
-            "summary": "Element (Matrix) launches Chatterbox, end-to-end encrypted embedded chat",
-            "date_modified": "2022-07-07T21:57:42.000Z",
-            "author": {
-                "name": "watsonkr",
-                "url": "https://news.ycombinator.com/user?id=watsonkr"
-            },
-            "_original_headline": "Element (Matrix) launches Chatterbox, end-to-end encrypted embedded chat",
-            "_original_url": "https://element.io/blog/element-launches-chatterbox/",
-            "_sensitive": false,
-            "_score": 202
         }
     ]
 }
