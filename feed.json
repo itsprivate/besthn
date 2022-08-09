@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32393634",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32393634",
+            "title": "第12代英特尔酷睿的速度如何？\n",
+            "summary": "How fast is 12th Gen Intel Core?",
+            "date_modified": "2022-08-09T02:29:31.000Z",
+            "author": {
+                "name": "nreece",
+                "url": "https://news.ycombinator.com/user?id=nreece"
+            },
+            "_original_headline": "How fast is 12th Gen Intel Core?",
+            "_original_url": "https://frame.work/blog/how-fast-is-12th-gen-intel-core",
+            "_sensitive": false,
+            "_score": 213
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32393545",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32393545",
+            "title": "每天给你的配偶写一张纸条\n",
+            "summary": "Write a note to your spouse every day",
+            "date_modified": "2022-08-09T02:14:32.000Z",
+            "author": {
+                "name": "jordanmoconnor",
+                "url": "https://news.ycombinator.com/user?id=jordanmoconnor"
+            },
+            "_original_headline": "Write a note to your spouse every day",
+            "_original_url": "https://jdnoc.com/note/",
+            "_sensitive": false,
+            "_score": 207
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32385362",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32385362",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://mjg59.dreamwidth.org/59931.html",
             "_sensitive": false,
             "_score": 204
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32021269",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32021269",
-            "title": "马尔科夫聊天机器人的灾难故事\n",
-            "summary": "Markov Chat Bot Disaster Story",
-            "date_modified": "2022-07-07T23:55:58.000Z",
-            "author": {
-                "name": "choult",
-                "url": "https://news.ycombinator.com/user?id=choult"
-            },
-            "_original_headline": "Markov Chat Bot Disaster Story",
-            "_original_url": "https://gist.github.com/aconbere/1982a5eb17b77817017a3da50914732f",
-            "_sensitive": false,
-            "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32015246",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32015246",
-            "title": "Brain.js: JavaScript中的GPU加速的神经网络\n",
-            "summary": "Brain.js: GPU Accelerated Neural Networks in JavaScript",
-            "date_modified": "2022-07-07T15:22:08.000Z",
-            "author": {
-                "name": "andsoitis",
-                "url": "https://news.ycombinator.com/user?id=andsoitis"
-            },
-            "_original_headline": "Brain.js: GPU Accelerated Neural Networks in JavaScript",
-            "_original_url": "https://brain.js.org/#/",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }

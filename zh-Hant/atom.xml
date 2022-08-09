@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-09T07:28:28.742Z</updated>
+    <updated>2022-08-09T09:31:33.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[第12代英特爾酷睿的速度如何？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32393634</id>
+        <link href="https://news.ycombinator.com/item?id=32393634"/>
+        <updated>2022-08-09T02:29:31.000Z</updated>
+        <summary type="html"><![CDATA[How fast is 12th Gen Intel Core?]]></summary>
+        <author>
+            <name>nreece</name>
+            <uri>https://news.ycombinator.com/user?id=nreece</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每天給你的配偶寫一張紙條
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32393545</id>
+        <link href="https://news.ycombinator.com/item?id=32393545"/>
+        <updated>2022-08-09T02:14:32.000Z</updated>
+        <summary type="html"><![CDATA[Write a note to your spouse every day]]></summary>
+        <author>
+            <name>jordanmoconnor</name>
+            <uri>https://news.ycombinator.com/user?id=jordanmoconnor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[事件報告。僱員和客戶賬戶被洩露
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>HieronymusBosch</name>
             <uri>https://news.ycombinator.com/user?id=HieronymusBosch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[馬爾科夫聊天機器人的災難故事
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32021269</id>
-        <link href="https://news.ycombinator.com/item?id=32021269"/>
-        <updated>2022-07-07T23:55:58.000Z</updated>
-        <summary type="html"><![CDATA[Markov Chat Bot Disaster Story]]></summary>
-        <author>
-            <name>choult</name>
-            <uri>https://news.ycombinator.com/user?id=choult</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brain.js: JavaScript中的GPU加速的神經網絡
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32015246</id>
-        <link href="https://news.ycombinator.com/item?id=32015246"/>
-        <updated>2022-07-07T15:22:08.000Z</updated>
-        <summary type="html"><![CDATA[Brain.js: GPU Accelerated Neural Networks in JavaScript]]></summary>
-        <author>
-            <name>andsoitis</name>
-            <uri>https://news.ycombinator.com/user?id=andsoitis</uri>
         </author>
     </entry>
 </feed>
