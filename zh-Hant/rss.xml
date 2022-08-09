@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 09 Aug 2022 19:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 20:33:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你為上下文切換支付的生產力稅
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32390499</link>
+            <guid>https://news.ycombinator.com/item?id=32390499</guid>
+            <pubDate>Mon, 08 Aug 2022 20:18:05 GMT</pubDate>
+            <description><![CDATA[The productivity tax you pay for context switching]]></description>
+        </item>
         <item>
             <title><![CDATA[臉書在起訴墮胎案中向警方提供青少年的DMs
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32026639</guid>
             <pubDate>Fri, 08 Jul 2022 20:36:22 GMT</pubDate>
             <description><![CDATA[Ask HN: What'd you do while HN was down?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[聯邦調查局的Anom加密信息應用程序的代碼
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32013591</link>
-            <guid>https://news.ycombinator.com/item?id=32013591</guid>
-            <pubDate>Thu, 07 Jul 2022 13:07:37 GMT</pubDate>
-            <description><![CDATA[Code from the FBI’s Anom encrypted messaging app]]></description>
         </item>
     </channel>
 </rss>

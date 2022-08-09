@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-09T19:32:35.817Z</updated>
+    <updated>2022-08-09T20:33:44.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你為上下文切換支付的生產力稅
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32390499</id>
+        <link href="https://news.ycombinator.com/item?id=32390499"/>
+        <updated>2022-08-08T20:18:05.000Z</updated>
+        <summary type="html"><![CDATA[The productivity tax you pay for context switching]]></summary>
+        <author>
+            <name>andsoitis</name>
+            <uri>https://news.ycombinator.com/user?id=andsoitis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[臉書在起訴墮胎案中向警方提供青少年的DMs
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>quicksnap</name>
             <uri>https://news.ycombinator.com/user?id=quicksnap</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聯邦調查局的Anom加密信息應用程序的代碼
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32013591</id>
-        <link href="https://news.ycombinator.com/item?id=32013591"/>
-        <updated>2022-07-07T13:07:37.000Z</updated>
-        <summary type="html"><![CDATA[Code from the FBI’s Anom encrypted messaging app]]></summary>
-        <author>
-            <name>danso</name>
-            <uri>https://news.ycombinator.com/user?id=danso</uri>
         </author>
     </entry>
 </feed>
