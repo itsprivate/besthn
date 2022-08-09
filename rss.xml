@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 09 Aug 2022 17:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 18:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一场影响到Twitter上5百万个账户和私人信息的事件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32399949</link>
+            <guid>https://news.ycombinator.com/item?id=32399949</guid>
+            <pubDate>Tue, 09 Aug 2022 16:16:22 GMT</pubDate>
+            <description><![CDATA[An incident impacting 5M accounts and private information on Twitter]]></description>
+        </item>
         <item>
             <title><![CDATA[从新手到大师，再从大师到新手
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32025882</guid>
             <pubDate>Fri, 08 Jul 2022 11:47:20 GMT</pubDate>
             <description><![CDATA[Why we're sticking with Ruby on Rails]]></description>
-        </item>
-        <item>
-            <title><![CDATA[天文狐 - 将音频变成视频
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32018459</link>
-            <guid>https://news.ycombinator.com/item?id=32018459</guid>
-            <pubDate>Thu, 07 Jul 2022 19:47:35 GMT</pubDate>
-            <description><![CDATA[Astrofox – Turn Audio into Videos]]></description>
         </item>
     </channel>
 </rss>

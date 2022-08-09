@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32399949",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32399949",
+            "title": "一場影響到Twitter上5百萬個賬戶和私人信息的事件\n",
+            "summary": "An incident impacting 5M accounts and private information on Twitter",
+            "date_modified": "2022-08-09T16:16:22.000Z",
+            "author": {
+                "name": "WaitWaitWha",
+                "url": "https://news.ycombinator.com/user?id=WaitWaitWha"
+            },
+            "_original_headline": "An incident impacting 5M accounts and private information on Twitter",
+            "_original_url": "https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accounts",
+            "_sensitive": false,
+            "_score": 211
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32398391",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32398391",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://about.gitlab.com/blog/2022/07/06/why-were-sticking-with-ruby-on-rails/",
             "_sensitive": false,
             "_score": 203
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32018459",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32018459",
-            "title": "天文狐 - 將音頻變成視頻\n",
-            "summary": "Astrofox – Turn Audio into Videos",
-            "date_modified": "2022-07-07T19:47:35.000Z",
-            "author": {
-                "name": "GenericCanadian",
-                "url": "https://news.ycombinator.com/user?id=GenericCanadian"
-            },
-            "_original_headline": "Astrofox – Turn Audio into Videos",
-            "_original_url": "https://astrofox.io/",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }

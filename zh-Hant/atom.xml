@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-09T17:12:10.025Z</updated>
+    <updated>2022-08-09T18:40:34.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一場影響到Twitter上5百萬個賬戶和私人信息的事件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32399949</id>
+        <link href="https://news.ycombinator.com/item?id=32399949"/>
+        <updated>2022-08-09T16:16:22.000Z</updated>
+        <summary type="html"><![CDATA[An incident impacting 5M accounts and private information on Twitter]]></summary>
+        <author>
+            <name>WaitWaitWha</name>
+            <uri>https://news.ycombinator.com/user?id=WaitWaitWha</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從新手到大師，再從大師到新手
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lutrinus</name>
             <uri>https://news.ycombinator.com/user?id=lutrinus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天文狐 - 將音頻變成視頻
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32018459</id>
-        <link href="https://news.ycombinator.com/item?id=32018459"/>
-        <updated>2022-07-07T19:47:35.000Z</updated>
-        <summary type="html"><![CDATA[Astrofox – Turn Audio into Videos]]></summary>
-        <author>
-            <name>GenericCanadian</name>
-            <uri>https://news.ycombinator.com/user?id=GenericCanadian</uri>
         </author>
     </entry>
 </feed>
