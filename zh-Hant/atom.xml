@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-09T14:33:34.299Z</updated>
+    <updated>2022-08-09T14:50:10.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Rust中使用unwrap()是可以的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32385102</id>
+        <link href="https://news.ycombinator.com/item?id=32385102"/>
+        <updated>2022-08-08T13:27:56.000Z</updated>
+        <summary type="html"><![CDATA[Using unwrap() in Rust is okay]]></summary>
+        <author>
+            <name>cp9</name>
+            <uri>https://news.ycombinator.com/user?id=cp9</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[謝謝你，Firebug (2017)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tpmx</name>
             <uri>https://news.ycombinator.com/user?id=tpmx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notepad++ v8.4.3: 不快樂的用戶版
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32025562</id>
-        <link href="https://news.ycombinator.com/item?id=32025562"/>
-        <updated>2022-07-08T11:07:07.000Z</updated>
-        <summary type="html"><![CDATA[Notepad++ v8.4.3: Unhappy Users' Edition]]></summary>
-        <author>
-            <name>p4bl0</name>
-            <uri>https://news.ycombinator.com/user?id=p4bl0</uri>
         </author>
     </entry>
 </feed>

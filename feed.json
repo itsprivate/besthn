@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32385102",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32385102",
+            "title": "在Rust中使用unwrap()是可以的\n",
+            "summary": "Using unwrap() in Rust is okay",
+            "date_modified": "2022-08-08T13:27:56.000Z",
+            "author": {
+                "name": "cp9",
+                "url": "https://news.ycombinator.com/user?id=cp9"
+            },
+            "_original_headline": "Using unwrap() in Rust is okay",
+            "_original_url": "https://blog.burntsushi.net/unwrap/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32395518",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32395518",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://news.ycombinator.com/item?id=32026571",
             "_sensitive": false,
             "_score": 488
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32025562",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32025562",
-            "title": "Notepad++ v8.4.3: 不快乐的用户版\n",
-            "summary": "Notepad++ v8.4.3: Unhappy Users' Edition",
-            "date_modified": "2022-07-08T11:07:07.000Z",
-            "author": {
-                "name": "p4bl0",
-                "url": "https://news.ycombinator.com/user?id=p4bl0"
-            },
-            "_original_headline": "Notepad++ v8.4.3: Unhappy Users' Edition",
-            "_original_url": "https://notepad-plus-plus.org/news/v843-unhappy-users-edition/",
-            "_sensitive": false,
-            "_score": 215
         }
     ]
 }
