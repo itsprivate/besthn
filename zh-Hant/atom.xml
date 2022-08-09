@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-09T04:00:20.612Z</updated>
+    <updated>2022-08-09T06:39:32.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[因鼓吹陪審團無效而被捕的男子贏得聯邦案件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32392997</id>
+        <link href="https://news.ycombinator.com/item?id=32392997"/>
+        <updated>2022-08-09T00:59:51.000Z</updated>
+        <summary type="html"><![CDATA[Man arrested for promoting jury nullification wins federal case]]></summary>
+        <author>
+            <name>olalonde</name>
+            <uri>https://news.ycombinator.com/user?id=olalonde</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宜家Symfonisk Gen2擴音器改裝指南--更便宜的Sonos擴音器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32386290</id>
+        <link href="https://news.ycombinator.com/item?id=32386290"/>
+        <updated>2022-08-08T15:02:40.000Z</updated>
+        <summary type="html"><![CDATA[IKEA Symfonisk Gen2 Amp Modification Guide – A Much Cheaper Sonos Amp]]></summary>
+        <author>
+            <name>reimertz</name>
+            <uri>https://news.ycombinator.com/user?id=reimertz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[間隔性重複可以讓人無限回味
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32381206</id>
+        <link href="https://news.ycombinator.com/item?id=32381206"/>
+        <updated>2022-08-08T00:12:31.000Z</updated>
+        <summary type="html"><![CDATA[Spaced repetition can allow for infinite recall]]></summary>
+        <author>
+            <name>efavdb</name>
+            <uri>https://news.ycombinator.com/user?id=efavdb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[運行你自己的類似DALL-E的圖像生成器
 ]]></title>
@@ -7174,42 +7210,6 @@
         <link href="https://news.ycombinator.com/item?id=32022506"/>
         <updated>2022-07-08T02:56:26.000Z</updated>
         <summary type="html"><![CDATA[Japan’s Ex-PM Abe assassinated during speech]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9,000磅的電動悍馬錶明我們不能忽視電動車的效率
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32018748</id>
-        <link href="https://news.ycombinator.com/item?id=32018748"/>
-        <updated>2022-07-07T20:13:53.000Z</updated>
-        <summary type="html"><![CDATA[9,000-pound electric Hummer shows we can’t ignore efficiency of EVs]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[國土安全局工作人員被起訴參與在美國壓制中國批評者的計劃。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32017941</id>
-        <link href="https://news.ycombinator.com/item?id=32017941"/>
-        <updated>2022-07-07T19:04:58.000Z</updated>
-        <summary type="html"><![CDATA[Homeland security workers indicted in scheme to silence China critics in U.S.]]></summary>
-        <author>
-            <name>cwwc</name>
-            <uri>https://news.ycombinator.com/user?id=cwwc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theranos前總裁被認定犯有所有欺詐罪
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32017919</id>
-        <link href="https://news.ycombinator.com/item?id=32017919"/>
-        <updated>2022-07-07T19:03:12.000Z</updated>
-        <summary type="html"><![CDATA[Theranos former president found guilty on all fraud counts]]></summary>
         <author>
             <name>cwwc</name>
             <uri>https://news.ycombinator.com/user?id=cwwc</uri>

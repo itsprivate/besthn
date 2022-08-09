@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32392997",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32392997",
+            "title": "因鼓吹陪審團無效而被捕的男子贏得聯邦案件\n",
+            "summary": "Man arrested for promoting jury nullification wins federal case",
+            "date_modified": "2022-08-09T00:59:51.000Z",
+            "author": {
+                "name": "olalonde",
+                "url": "https://news.ycombinator.com/user?id=olalonde"
+            },
+            "_original_headline": "Man arrested for promoting jury nullification wins federal case",
+            "_original_url": "https://reason.com/2022/08/05/he-was-arrested-for-promoting-jury-nullification-a-federal-court-says-that-was-illegal/",
+            "_sensitive": false,
+            "_score": 211
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32386290",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32386290",
+            "title": "宜家Symfonisk Gen2擴音器改裝指南--更便宜的Sonos擴音器\n",
+            "summary": "IKEA Symfonisk Gen2 Amp Modification Guide – A Much Cheaper Sonos Amp",
+            "date_modified": "2022-08-08T15:02:40.000Z",
+            "author": {
+                "name": "reimertz",
+                "url": "https://news.ycombinator.com/user?id=reimertz"
+            },
+            "_original_headline": "IKEA Symfonisk Gen2 Amp Modification Guide – A Much Cheaper Sonos Amp",
+            "_original_url": "https://www.thetylergibson.com/ikea-symfonisk-gen2-amp-modification-guide-a-much-cheaper-sonos-amp/",
+            "_sensitive": false,
+            "_score": 205
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32381206",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32381206",
+            "title": "間隔性重複可以讓人無限回味\n",
+            "summary": "Spaced repetition can allow for infinite recall",
+            "date_modified": "2022-08-08T00:12:31.000Z",
+            "author": {
+                "name": "efavdb",
+                "url": "https://news.ycombinator.com/user?id=efavdb"
+            },
+            "_original_headline": "Spaced repetition can allow for infinite recall",
+            "_original_url": "https://www.efavdb.com/memory%20recall",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32384646",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32384646",
@@ -9561,54 +9609,6 @@
             "_original_url": "https://www.bloomberg.com/news/articles/2022-07-08/japan-s-ex-pm-abe-collapses-in-nara-shots-heard-nhk-says",
             "_sensitive": false,
             "_score": 219
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32018748",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32018748",
-            "title": "9,000磅的電動悍馬錶明我們不能忽視電動車的效率\n",
-            "summary": "9,000-pound electric Hummer shows we can’t ignore efficiency of EVs",
-            "date_modified": "2022-07-07T20:13:53.000Z",
-            "author": {
-                "name": "cwwc",
-                "url": "https://news.ycombinator.com/user?id=cwwc"
-            },
-            "_original_headline": "9,000-pound electric Hummer shows we can’t ignore efficiency of EVs",
-            "_original_url": "https://www.aceee.org/blog-post/2022/06/9000-pound-electric-hummer-shows-we-cant-ignore-efficiency-evs",
-            "_sensitive": false,
-            "_score": 217
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32017941",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32017941",
-            "title": "國土安全局工作人員被起訴參與在美國壓制中國批評者的計劃。\n",
-            "summary": "Homeland security workers indicted in scheme to silence China critics in U.S.",
-            "date_modified": "2022-07-07T19:04:58.000Z",
-            "author": {
-                "name": "cwwc",
-                "url": "https://news.ycombinator.com/user?id=cwwc"
-            },
-            "_original_headline": "Homeland security workers indicted in scheme to silence China critics in U.S.",
-            "_original_url": "https://www.justice.gov/usao-edny/pr/five-individuals-indicted-crimes-related-transnational-repression-scheme-silence",
-            "_sensitive": false,
-            "_score": 255
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32017919",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32017919",
-            "title": "Theranos前總裁被認定犯有所有欺詐罪\n",
-            "summary": "Theranos former president found guilty on all fraud counts",
-            "date_modified": "2022-07-07T19:03:12.000Z",
-            "author": {
-                "name": "cwwc",
-                "url": "https://news.ycombinator.com/user?id=cwwc"
-            },
-            "_original_headline": "Theranos former president found guilty on all fraud counts",
-            "_original_url": "https://www.wsj.com/articles/theranos-former-president-ramesh-sunny-balwani-found-guilty-on-all-12-fraud-counts-11657220410",
-            "_sensitive": false,
-            "_score": 212
         }
     ]
 }

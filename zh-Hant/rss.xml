@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 09 Aug 2022 04:00:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 06:39:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[因鼓吹陪審團無效而被捕的男子贏得聯邦案件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32392997</link>
+            <guid>https://news.ycombinator.com/item?id=32392997</guid>
+            <pubDate>Tue, 09 Aug 2022 00:59:51 GMT</pubDate>
+            <description><![CDATA[Man arrested for promoting jury nullification wins federal case]]></description>
+        </item>
+        <item>
+            <title><![CDATA[宜家Symfonisk Gen2擴音器改裝指南--更便宜的Sonos擴音器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32386290</link>
+            <guid>https://news.ycombinator.com/item?id=32386290</guid>
+            <pubDate>Mon, 08 Aug 2022 15:02:40 GMT</pubDate>
+            <description><![CDATA[IKEA Symfonisk Gen2 Amp Modification Guide – A Much Cheaper Sonos Amp]]></description>
+        </item>
+        <item>
+            <title><![CDATA[間隔性重複可以讓人無限回味
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32381206</link>
+            <guid>https://news.ycombinator.com/item?id=32381206</guid>
+            <pubDate>Mon, 08 Aug 2022 00:12:31 GMT</pubDate>
+            <description><![CDATA[Spaced repetition can allow for infinite recall]]></description>
+        </item>
         <item>
             <title><![CDATA[運行你自己的類似DALL-E的圖像生成器
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32022506</guid>
             <pubDate>Fri, 08 Jul 2022 02:56:26 GMT</pubDate>
             <description><![CDATA[Japan’s Ex-PM Abe assassinated during speech]]></description>
-        </item>
-        <item>
-            <title><![CDATA[9,000磅的電動悍馬錶明我們不能忽視電動車的效率
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32018748</link>
-            <guid>https://news.ycombinator.com/item?id=32018748</guid>
-            <pubDate>Thu, 07 Jul 2022 20:13:53 GMT</pubDate>
-            <description><![CDATA[9,000-pound electric Hummer shows we can’t ignore efficiency of EVs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[國土安全局工作人員被起訴參與在美國壓制中國批評者的計劃。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32017941</link>
-            <guid>https://news.ycombinator.com/item?id=32017941</guid>
-            <pubDate>Thu, 07 Jul 2022 19:04:58 GMT</pubDate>
-            <description><![CDATA[Homeland security workers indicted in scheme to silence China critics in U.S.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Theranos前總裁被認定犯有所有欺詐罪
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32017919</link>
-            <guid>https://news.ycombinator.com/item?id=32017919</guid>
-            <pubDate>Thu, 07 Jul 2022 19:03:12 GMT</pubDate>
-            <description><![CDATA[Theranos former president found guilty on all fraud counts]]></description>
         </item>
     </channel>
 </rss>
