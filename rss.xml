@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 09 Aug 2022 00:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 02:46:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Google.com停机了吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32393231</link>
+            <guid>https://news.ycombinator.com/item?id=32393231</guid>
+            <pubDate>Tue, 09 Aug 2022 01:36:25 GMT</pubDate>
+            <description><![CDATA[Is Google.com Down?]]></description>
+        </item>
         <item>
             <title><![CDATA[我用DALL-E 2替换了我们所有的博客缩略图
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32016142</guid>
             <pubDate>Thu, 07 Jul 2022 16:34:31 GMT</pubDate>
             <description><![CDATA[Meshtastic is an encrypted communications platform for the Lora RF protocol]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Twitter今天开始裁员
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32018508</link>
-            <guid>https://news.ycombinator.com/item?id=32018508</guid>
-            <pubDate>Thu, 07 Jul 2022 19:51:38 GMT</pubDate>
-            <description><![CDATA[Twitter Layoff Started Today]]></description>
         </item>
     </channel>
 </rss>
