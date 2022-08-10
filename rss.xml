@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 10 Aug 2022 17:45:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 18:38:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Instagram可以在他们的应用内浏览器中跟踪你在任何网站上的任何行为
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32415470</link>
+            <guid>https://news.ycombinator.com/item?id=32415470</guid>
+            <pubDate>Wed, 10 Aug 2022 17:18:24 GMT</pubDate>
+            <description><![CDATA[Instagram can track anything you do on any website in their in-app browser]]></description>
+        </item>
         <item>
             <title><![CDATA[强力的强度
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32035538</guid>
             <pubDate>Sat, 09 Jul 2022 14:43:31 GMT</pubDate>
             <description><![CDATA[Weedkiller ingredient tied to cancer found in 80% of US urine samples]]></description>
-        </item>
-        <item>
-            <title><![CDATA[自动Regex
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32032134</link>
-            <guid>https://news.ycombinator.com/item?id=32032134</guid>
-            <pubDate>Sat, 09 Jul 2022 05:41:04 GMT</pubDate>
-            <description><![CDATA[AutoRegex]]></description>
         </item>
     </channel>
 </rss>
