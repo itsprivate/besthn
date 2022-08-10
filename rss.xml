@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 10 Aug 2022 19:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 20:33:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[5150地区：8088英里/小时得到一个继承者
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32394195</link>
+            <guid>https://news.ycombinator.com/item?id=32394195</guid>
+            <pubDate>Tue, 09 Aug 2022 04:36:17 GMT</pubDate>
+            <description><![CDATA[Area 5150: 8088 MPH gets a successor]]></description>
+        </item>
         <item>
             <title><![CDATA[雇员太多，但工作很少。皮查伊和扎克伯格敲响了警钟
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32034625</guid>
             <pubDate>Sat, 09 Jul 2022 12:54:23 GMT</pubDate>
             <description><![CDATA[Show HN: I built an interactive course that helps you learn Vim faster]]></description>
-        </item>
-        <item>
-            <title><![CDATA[历史语言记录显示近几十年来认知扭曲现象激增
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32021374</link>
-            <guid>https://news.ycombinator.com/item?id=32021374</guid>
-            <pubDate>Fri, 08 Jul 2022 00:10:18 GMT</pubDate>
-            <description><![CDATA[Historical language records show surge of cognitive distortion in recent decades]]></description>
         </item>
     </channel>
 </rss>
