@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 10 Aug 2022 17:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 17:45:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[強力的強度
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32409102</link>
+            <guid>https://news.ycombinator.com/item?id=32409102</guid>
+            <pubDate>Wed, 10 Aug 2022 08:12:13 GMT</pubDate>
+            <description><![CDATA[The strength of the strong force]]></description>
+        </item>
+        <item>
+            <title><![CDATA[水耕法。培養對植物的欣賞
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32398353</link>
+            <guid>https://news.ycombinator.com/item?id=32398353</guid>
+            <pubDate>Tue, 09 Aug 2022 14:20:25 GMT</pubDate>
+            <description><![CDATA[Hydroponics: Growing an appreciation for plants]]></description>
+        </item>
         <item>
             <title><![CDATA[英國的在線審查法案造成的傷害遠遠超過它試圖預防的程度
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32032134</guid>
             <pubDate>Sat, 09 Jul 2022 05:41:04 GMT</pubDate>
             <description><![CDATA[AutoRegex]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我應該喜歡生物學
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32035054</link>
-            <guid>https://news.ycombinator.com/item?id=32035054</guid>
-            <pubDate>Sat, 09 Jul 2022 13:48:45 GMT</pubDate>
-            <description><![CDATA[I should have loved biology]]></description>
-        </item>
-        <item>
-            <title><![CDATA[System76 Lemur Pro Linux筆記本電腦，電池壽命14小時
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32033037</link>
-            <guid>https://news.ycombinator.com/item?id=32033037</guid>
-            <pubDate>Sat, 09 Jul 2022 08:16:43 GMT</pubDate>
-            <description><![CDATA[System76 Lemur Pro Linux laptop with 14 hours of battery life]]></description>
         </item>
     </channel>
 </rss>

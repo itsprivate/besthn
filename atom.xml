@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-10T17:21:40.935Z</updated>
+    <updated>2022-08-10T17:45:26.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[强力的强度
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32409102</id>
+        <link href="https://news.ycombinator.com/item?id=32409102"/>
+        <updated>2022-08-10T08:12:13.000Z</updated>
+        <summary type="html"><![CDATA[The strength of the strong force]]></summary>
+        <author>
+            <name>gumby</name>
+            <uri>https://news.ycombinator.com/user?id=gumby</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[水耕法。培养对植物的欣赏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32398353</id>
+        <link href="https://news.ycombinator.com/item?id=32398353"/>
+        <updated>2022-08-09T14:20:25.000Z</updated>
+        <summary type="html"><![CDATA[Hydroponics: Growing an appreciation for plants]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英国的在线审查法案造成的伤害远远超过它试图预防的程度
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>fbuilesv</name>
             <uri>https://news.ycombinator.com/user?id=fbuilesv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我应该喜欢生物学
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32035054</id>
-        <link href="https://news.ycombinator.com/item?id=32035054"/>
-        <updated>2022-07-09T13:48:45.000Z</updated>
-        <summary type="html"><![CDATA[I should have loved biology]]></summary>
-        <author>
-            <name>h2odragon</name>
-            <uri>https://news.ycombinator.com/user?id=h2odragon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[System76 Lemur Pro Linux笔记本电脑，电池寿命14小时
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32033037</id>
-        <link href="https://news.ycombinator.com/item?id=32033037"/>
-        <updated>2022-07-09T08:16:43.000Z</updated>
-        <summary type="html"><![CDATA[System76 Lemur Pro Linux laptop with 14 hours of battery life]]></summary>
-        <author>
-            <name>MasterYoda</name>
-            <uri>https://news.ycombinator.com/user?id=MasterYoda</uri>
         </author>
     </entry>
 </feed>
