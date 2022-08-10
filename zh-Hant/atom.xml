@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-09T23:30:12.443Z</updated>
+    <updated>2022-08-10T06:38:02.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[漁具在海洋中造成的塑料數量驚人（2021年）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32403471</id>
+        <link href="https://news.ycombinator.com/item?id=32403471"/>
+        <updated>2022-08-09T20:03:36.000Z</updated>
+        <summary type="html"><![CDATA[Fishing gear accounts for an alarming amount of plastic in oceans (2021)]]></summary>
+        <author>
+            <name>sweetheart</name>
+            <uri>https://news.ycombinator.com/user?id=sweetheart</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["誰應該寫Terraform？"
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32396892</id>
+        <link href="https://news.ycombinator.com/item?id=32396892"/>
+        <updated>2022-08-09T12:24:16.000Z</updated>
+        <summary type="html"><![CDATA[“Who Should Write the Terraform?”]]></summary>
+        <author>
+            <name>zwischenzug</name>
+            <uri>https://news.ycombinator.com/user?id=zwischenzug</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["現在是蘋果公司修復短信的時候了"
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>sohkamyung</name>
             <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亞馬遜存在圖書盜版問題
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32026663</id>
-        <link href="https://news.ycombinator.com/item?id=32026663"/>
-        <updated>2022-07-08T20:38:32.000Z</updated>
-        <summary type="html"><![CDATA[Amazon has a book piracy problem]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[圍棋的通用性並不差
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32027855</id>
-        <link href="https://news.ycombinator.com/item?id=32027855"/>
-        <updated>2022-07-08T21:55:56.000Z</updated>
-        <summary type="html"><![CDATA[Go generics are not bad]]></summary>
-        <author>
-            <name>ibobev</name>
-            <uri>https://news.ycombinator.com/user?id=ibobev</uri>
         </author>
     </entry>
 </feed>
