@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32412170",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32412170",
+            "title": "雇员太多，但工作很少。皮查伊和扎克伯格敲响了警钟\n",
+            "summary": "'Too many employees, but few work': Pichai, Zuckerberg sound the alarm",
+            "date_modified": "2022-08-10T14:06:03.000Z",
+            "author": {
+                "name": "quaffapint",
+                "url": "https://news.ycombinator.com/user?id=quaffapint"
+            },
+            "_original_headline": "'Too many employees, but few work': Pichai, Zuckerberg sound the alarm",
+            "_original_url": "https://www.business-standard.com/article/international/too-many-employees-but-few-work-pichai-zuckerberg-sound-the-alarm-122080801425_1.html",
+            "_sensitive": false,
+            "_score": 205
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32409632",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32409632",
+            "title": "2022年有哪些最好的网络搜刮工具？\n",
+            "summary": "Ask HN: What are the best tools for web scraping in 2022?",
+            "date_modified": "2022-08-10T09:46:10.000Z",
+            "author": {
+                "name": "pablohoffman",
+                "url": "https://news.ycombinator.com/user?id=pablohoffman"
+            },
+            "_original_headline": "Ask HN: What are the best tools for web scraping in 2022?",
+            "_original_url": "https://news.ycombinator.com/item?id=32409632",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32415470",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32415470",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://www.pnas.org/doi/10.1073/pnas.2102061118",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32035875",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32035875",
-            "title": "LG 28英寸16:18双屏显示器\n",
-            "summary": "LG 28-inch 16:18 DualUp Monitor",
-            "date_modified": "2022-07-09T15:22:34.000Z",
-            "author": {
-                "name": "jqcoffey",
-                "url": "https://news.ycombinator.com/user?id=jqcoffey"
-            },
-            "_original_headline": "LG 28-inch 16:18 DualUp Monitor",
-            "_original_url": "https://www.lg.com/us/monitors/lg-28mq780-b",
-            "_sensitive": false,
-            "_score": 209
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32035538",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32035538",
-            "title": "美国80%的尿液样本中发现与癌症有关的除草剂成分\n",
-            "summary": "Weedkiller ingredient tied to cancer found in 80% of US urine samples",
-            "date_modified": "2022-07-09T14:43:31.000Z",
-            "author": {
-                "name": "mindracer",
-                "url": "https://news.ycombinator.com/user?id=mindracer"
-            },
-            "_original_headline": "Weedkiller ingredient tied to cancer found in 80% of US urine samples",
-            "_original_url": "https://www.theguardian.com/us-news/2022/jul/09/weedkiller-glyphosate-cdc-study-urine-samples",
-            "_sensitive": false,
-            "_score": 215
         }
     ]
 }
