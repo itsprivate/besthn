@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-10T12:55:56.574Z</updated>
+    <updated>2022-08-10T14:47:18.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[男子自建ISP而不向康卡斯特公司支付5萬美元 拓展至數百個家庭
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32411493</id>
+        <link href="https://news.ycombinator.com/item?id=32411493"/>
+        <updated>2022-08-10T13:23:54.000Z</updated>
+        <summary type="html"><![CDATA[Man who built ISP instead of paying Comcast $50K expands to hundreds of homes]]></summary>
+        <author>
+            <name>carride</name>
+            <uri>https://news.ycombinator.com/user?id=carride</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[實施零信任架構
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>danso</name>
             <uri>https://news.ycombinator.com/user?id=danso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ed是標準的文本編輯器（2014）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32013779</id>
-        <link href="https://news.ycombinator.com/item?id=32013779"/>
-        <updated>2022-07-07T13:25:43.000Z</updated>
-        <summary type="html"><![CDATA[Ed is the standard text editor (2014)]]></summary>
-        <author>
-            <name>harporoeder</name>
-            <uri>https://news.ycombinator.com/user?id=harporoeder</uri>
         </author>
     </entry>
 </feed>
