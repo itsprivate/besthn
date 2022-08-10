@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-10T10:01:52.950Z</updated>
+    <updated>2022-08-10T12:55:56.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[實施零信任架構
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32402630</id>
+        <link href="https://news.ycombinator.com/item?id=32402630"/>
+        <updated>2022-08-09T19:13:15.000Z</updated>
+        <summary type="html"><![CDATA[Implementing a Zero Trust Architecture]]></summary>
+        <author>
+            <name>justinludwig</name>
+            <uri>https://news.ycombinator.com/user?id=justinludwig</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[薩斯卡通凍死人
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>harporoeder</name>
             <uri>https://news.ycombinator.com/user?id=harporoeder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼BART使用非標準的寬軌距
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32031131</id>
-        <link href="https://news.ycombinator.com/item?id=32031131"/>
-        <updated>2022-07-09T03:03:38.000Z</updated>
-        <summary type="html"><![CDATA[Why BART uses a nonstandard broad gauge]]></summary>
-        <author>
-            <name>runarberg</name>
-            <uri>https://news.ycombinator.com/user?id=runarberg</uri>
         </author>
     </entry>
 </feed>

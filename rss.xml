@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 10 Aug 2022 10:01:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 12:55:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[实施零信任架构
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32402630</link>
+            <guid>https://news.ycombinator.com/item?id=32402630</guid>
+            <pubDate>Tue, 09 Aug 2022 19:13:15 GMT</pubDate>
+            <description><![CDATA[Implementing a Zero Trust Architecture]]></description>
+        </item>
         <item>
             <title><![CDATA[萨斯卡通冻死人
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32013779</guid>
             <pubDate>Thu, 07 Jul 2022 13:25:43 GMT</pubDate>
             <description><![CDATA[Ed is the standard text editor (2014)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么BART使用非标准的宽轨距
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32031131</link>
-            <guid>https://news.ycombinator.com/item?id=32031131</guid>
-            <pubDate>Sat, 09 Jul 2022 03:03:38 GMT</pubDate>
-            <description><![CDATA[Why BART uses a nonstandard broad gauge]]></description>
         </item>
     </channel>
 </rss>
