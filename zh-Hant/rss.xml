@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 10 Aug 2022 06:38:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 10:01:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[薩斯卡通凍死人
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32398923</link>
+            <guid>https://news.ycombinator.com/item?id=32398923</guid>
+            <pubDate>Tue, 09 Aug 2022 14:57:49 GMT</pubDate>
+            <description><![CDATA[Saskatoon Freezing Deaths]]></description>
+        </item>
         <item>
             <title><![CDATA[漁具在海洋中造成的塑料數量驚人（2021年）
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32031131</guid>
             <pubDate>Sat, 09 Jul 2022 03:03:38 GMT</pubDate>
             <description><![CDATA[Why BART uses a nonstandard broad gauge]]></description>
-        </item>
-        <item>
-            <title><![CDATA[瑞士推進地下自動貨物運輸
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32029033</link>
-            <guid>https://news.ycombinator.com/item?id=32029033</guid>
-            <pubDate>Fri, 08 Jul 2022 23:10:40 GMT</pubDate>
-            <description><![CDATA[Switzerland moves ahead with underground autonomous cargo delivery]]></description>
         </item>
     </channel>
 </rss>

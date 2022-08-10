@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-10T06:38:02.565Z</updated>
+    <updated>2022-08-10T10:01:52.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[薩斯卡通凍死人
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32398923</id>
+        <link href="https://news.ycombinator.com/item?id=32398923"/>
+        <updated>2022-08-09T14:57:49.000Z</updated>
+        <summary type="html"><![CDATA[Saskatoon Freezing Deaths]]></summary>
+        <author>
+            <name>some_random</name>
+            <uri>https://news.ycombinator.com/user?id=some_random</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[漁具在海洋中造成的塑料數量驚人（2021年）
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>runarberg</name>
             <uri>https://news.ycombinator.com/user?id=runarberg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瑞士推進地下自動貨物運輸
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32029033</id>
-        <link href="https://news.ycombinator.com/item?id=32029033"/>
-        <updated>2022-07-08T23:10:40.000Z</updated>
-        <summary type="html"><![CDATA[Switzerland moves ahead with underground autonomous cargo delivery]]></summary>
-        <author>
-            <name>sohkamyung</name>
-            <uri>https://news.ycombinator.com/user?id=sohkamyung</uri>
         </author>
     </entry>
 </feed>

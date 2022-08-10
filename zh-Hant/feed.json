@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32398923",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32398923",
+            "title": "薩斯卡通凍死人\n",
+            "summary": "Saskatoon Freezing Deaths",
+            "date_modified": "2022-08-09T14:57:49.000Z",
+            "author": {
+                "name": "some_random",
+                "url": "https://news.ycombinator.com/user?id=some_random"
+            },
+            "_original_headline": "Saskatoon Freezing Deaths",
+            "_original_url": "https://en.wikipedia.org/wiki/Saskatoon_freezing_deaths",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32403471",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32403471",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.bart.gov/news/articles/2022/news20220708-2",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32029033",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32029033",
-            "title": "瑞士推進地下自動貨物運輸\n",
-            "summary": "Switzerland moves ahead with underground autonomous cargo delivery",
-            "date_modified": "2022-07-08T23:10:40.000Z",
-            "author": {
-                "name": "sohkamyung",
-                "url": "https://news.ycombinator.com/user?id=sohkamyung"
-            },
-            "_original_headline": "Switzerland moves ahead with underground autonomous cargo delivery",
-            "_original_url": "https://spectrum.ieee.org/cargo-sous-terrain",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }
