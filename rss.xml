@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 10 Aug 2022 20:48:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 22:29:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[诉讼称OnlyFans贿赂Meta公司，将许多色情明星列入恐怖观察名单
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32416424</link>
+            <guid>https://news.ycombinator.com/item?id=32416424</guid>
+            <pubDate>Wed, 10 Aug 2022 18:27:15 GMT</pubDate>
+            <description><![CDATA[OnlyFans bribed Meta to put many porn stars on terror watchlist, suits claim]]></description>
+        </item>
         <item>
             <title><![CDATA[SQLite如何帮助你做ACID
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32035569</guid>
             <pubDate>Sat, 09 Jul 2022 14:46:09 GMT</pubDate>
             <description><![CDATA[Elon’s Out]]></description>
-        </item>
-        <item>
-            <title><![CDATA[从任何网站复制React代码
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32037740</link>
-            <guid>https://news.ycombinator.com/item?id=32037740</guid>
-            <pubDate>Sat, 09 Jul 2022 18:06:56 GMT</pubDate>
-            <description><![CDATA[Show HN: Copy React code from any site]]></description>
         </item>
     </channel>
 </rss>
