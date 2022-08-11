@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 11 Aug 2022 15:53:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 17:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个17岁的孩子设计了一个新颖的同步磁阻电机
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32426777</link>
+            <guid>https://news.ycombinator.com/item?id=32426777</guid>
+            <pubDate>Thu, 11 Aug 2022 15:00:23 GMT</pubDate>
+            <description><![CDATA[A 17-year-old designed a novel synchronous reluctance motor]]></description>
+        </item>
         <item>
             <title><![CDATA[Hetzner价格调整
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32047230</guid>
             <pubDate>Sun, 10 Jul 2022 18:09:23 GMT</pubDate>
             <description><![CDATA[Irwin – the protector of Lichess from all chess players villainous]]></description>
-        </item>
-        <item>
-            <title><![CDATA[随着TikTok的发展，人们的怀疑也在增加
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32045339</link>
-            <guid>https://news.ycombinator.com/item?id=32045339</guid>
-            <pubDate>Sun, 10 Jul 2022 14:56:39 GMT</pubDate>
-            <description><![CDATA[As TikTok grows, so does suspicion]]></description>
         </item>
     </channel>
 </rss>

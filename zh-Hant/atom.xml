@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-11T15:53:28.182Z</updated>
+    <updated>2022-08-11T17:13:35.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個17歲的孩子設計了一個新穎的同步磁阻電機
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32426777</id>
+        <link href="https://news.ycombinator.com/item?id=32426777"/>
+        <updated>2022-08-11T15:00:23.000Z</updated>
+        <summary type="html"><![CDATA[A 17-year-old designed a novel synchronous reluctance motor]]></summary>
+        <author>
+            <name>evo_9</name>
+            <uri>https://news.ycombinator.com/user?id=evo_9</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hetzner價格調整
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>myle</name>
             <uri>https://news.ycombinator.com/user?id=myle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隨著TikTok的發展，人們的懷疑也在增加
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32045339</id>
-        <link href="https://news.ycombinator.com/item?id=32045339"/>
-        <updated>2022-07-10T14:56:39.000Z</updated>
-        <summary type="html"><![CDATA[As TikTok grows, so does suspicion]]></summary>
-        <author>
-            <name>samizdis</name>
-            <uri>https://news.ycombinator.com/user?id=samizdis</uri>
         </author>
     </entry>
 </feed>
