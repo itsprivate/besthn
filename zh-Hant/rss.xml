@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 11 Aug 2022 04:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 05:45:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA["自閉症患者不能承認自己的錯誤"
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32410355</link>
+            <guid>https://news.ycombinator.com/item?id=32410355</guid>
+            <pubDate>Wed, 10 Aug 2022 11:44:31 GMT</pubDate>
+            <description><![CDATA[“Autistic people can’t acknowledge when they’re wrong”]]></description>
+        </item>
         <item>
             <title><![CDATA[世界Excel錦標賽將在ESPN上播出
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32040506</guid>
             <pubDate>Sat, 09 Jul 2022 23:58:43 GMT</pubDate>
             <description><![CDATA[Why do so many brands change their logos and look like everyone else?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用GPT-3來解釋代碼的工作原理
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32036224</link>
-            <guid>https://news.ycombinator.com/item?id=32036224</guid>
-            <pubDate>Sat, 09 Jul 2022 15:53:35 GMT</pubDate>
-            <description><![CDATA[Using GPT-3 to explain how code works]]></description>
         </item>
     </channel>
 </rss>

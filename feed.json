@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32410355",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32410355",
+            "title": "\"自闭症患者不能承认自己的错误\"\n",
+            "summary": "“Autistic people can’t acknowledge when they’re wrong”",
+            "date_modified": "2022-08-10T11:44:31.000Z",
+            "author": {
+                "name": "larve",
+                "url": "https://news.ycombinator.com/user?id=larve"
+            },
+            "_original_headline": "“Autistic people can’t acknowledge when they’re wrong”",
+            "_original_url": "https://the.scapegoat.dev/autistic-people-cant-acknowledge-when-they-are-wrong/",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32417534",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32417534",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else",
             "_sensitive": false,
             "_score": 207
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32036224",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32036224",
-            "title": "使用GPT-3来解释代码的工作原理\n",
-            "summary": "Using GPT-3 to explain how code works",
-            "date_modified": "2022-07-09T15:53:35.000Z",
-            "author": {
-                "name": "simonw",
-                "url": "https://news.ycombinator.com/user?id=simonw"
-            },
-            "_original_headline": "Using GPT-3 to explain how code works",
-            "_original_url": "https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/",
-            "_sensitive": false,
-            "_score": 209
         }
     ]
 }
