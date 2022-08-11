@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32409966",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32409966",
+            "title": "用284行C++语言实现最先进的德语语音识别\n",
+            "summary": "Show HN: State-of-the-art German speech recognition in 284 lines of C++",
+            "date_modified": "2022-08-10T10:45:41.000Z",
+            "author": {
+                "name": "fxtentacle",
+                "url": "https://news.ycombinator.com/user?id=fxtentacle"
+            },
+            "_original_headline": "Show HN: State-of-the-art German speech recognition in 284 lines of C++",
+            "_original_url": "https://github.com/DeutscheKI/tevr-asr-tool",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32400849",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32400849",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://shingetsunewsagency.com/2022/07/10/the-crime-that-killed-shinzo-abe/",
             "_sensitive": false,
             "_score": 204
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32042249",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32042249",
-            "title": "为什么世界需要一个非营利性的搜索引擎\n",
-            "summary": "Why the world needs a non-profit search engine",
-            "date_modified": "2022-07-10T06:02:55.000Z",
-            "author": {
-                "name": "daoudc",
-                "url": "https://news.ycombinator.com/user?id=daoudc"
-            },
-            "_original_headline": "Why the world needs a non-profit search engine",
-            "_original_url": "https://daoudclarke.net/search%20engines/2022/07/10/non-profit-search-engine",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }
