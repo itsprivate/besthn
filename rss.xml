@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 11 Aug 2022 10:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 11:27:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[亚马逊MOBI电子书文件格式的退役
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32421350</link>
+            <guid>https://news.ycombinator.com/item?id=32421350</guid>
+            <pubDate>Thu, 11 Aug 2022 03:47:54 GMT</pubDate>
+            <description><![CDATA[Retirement of Amazon MOBI eBook file format]]></description>
+        </item>
         <item>
             <title><![CDATA[点击爪子
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32043433</guid>
             <pubDate>Sun, 10 Jul 2022 10:29:57 GMT</pubDate>
             <description><![CDATA[CS101: Introduction to Computing Principles]]></description>
-        </item>
-        <item>
-            <title><![CDATA[监测微小的网络服务
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32037356</link>
-            <guid>https://news.ycombinator.com/item?id=32037356</guid>
-            <pubDate>Sat, 09 Jul 2022 17:29:02 GMT</pubDate>
-            <description><![CDATA[Monitoring tiny web services]]></description>
         </item>
     </channel>
 </rss>
