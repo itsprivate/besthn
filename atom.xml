@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-11T13:00:20.861Z</updated>
+    <updated>2022-08-11T13:59:23.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[暗物质并不存在
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32414870</id>
+        <link href="https://news.ycombinator.com/item?id=32414870"/>
+        <updated>2022-08-10T16:41:53.000Z</updated>
+        <summary type="html"><![CDATA[Dark Matter Doesn't Exist]]></summary>
+        <author>
+            <name>elsewhen</name>
+            <uri>https://news.ycombinator.com/user?id=elsewhen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mindustry - 开源游戏
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Jimmc414</name>
             <uri>https://news.ycombinator.com/user?id=Jimmc414</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lichess: 自由和开源的国际象棋服务器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32045763</id>
-        <link href="https://news.ycombinator.com/item?id=32045763"/>
-        <updated>2022-07-10T15:46:18.000Z</updated>
-        <summary type="html"><![CDATA[Lichess: The free and open source chess server]]></summary>
-        <author>
-            <name>perihelions</name>
-            <uri>https://news.ycombinator.com/user?id=perihelions</uri>
         </author>
     </entry>
 </feed>
