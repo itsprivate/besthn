@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-11T19:48:36.430Z</updated>
+    <updated>2022-08-11T20:50:46.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[花了15美元在DALL-E 2的學分，創造了這個AI圖像
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32428583</id>
+        <link href="https://news.ycombinator.com/item?id=32428583"/>
+        <updated>2022-08-11T16:53:43.000Z</updated>
+        <summary type="html"><![CDATA[Spent $15 in DALL·E 2 credits creating this AI image]]></summary>
+        <author>
+            <name>pat-jay</name>
+            <uri>https://news.ycombinator.com/user?id=pat-jay</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌的種姓偏見問題
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>zaik</name>
             <uri>https://news.ycombinator.com/user?id=zaik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[致好市多的情歌
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32049672</id>
-        <link href="https://news.ycombinator.com/item?id=32049672"/>
-        <updated>2022-07-10T22:16:59.000Z</updated>
-        <summary type="html"><![CDATA[Love Song to Costco]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
         </author>
     </entry>
 </feed>

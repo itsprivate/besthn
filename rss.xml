@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 11 Aug 2022 19:48:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 20:50:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[花了15美元在DALL-E 2的学分，创造了这个AI图像
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32428583</link>
+            <guid>https://news.ycombinator.com/item?id=32428583</guid>
+            <pubDate>Thu, 11 Aug 2022 16:53:43 GMT</pubDate>
+            <description><![CDATA[Spent $15 in DALL·E 2 credits creating this AI image]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌的种姓偏见问题
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32049469</guid>
             <pubDate>Sun, 10 Jul 2022 21:53:13 GMT</pubDate>
             <description><![CDATA[On-device browser translations with Firefox Translations]]></description>
-        </item>
-        <item>
-            <title><![CDATA[致好市多的情歌
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32049672</link>
-            <guid>https://news.ycombinator.com/item?id=32049672</guid>
-            <pubDate>Sun, 10 Jul 2022 22:16:59 GMT</pubDate>
-            <description><![CDATA[Love Song to Costco]]></description>
         </item>
     </channel>
 </rss>
