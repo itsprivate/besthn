@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-11T18:01:33.463Z</updated>
+    <updated>2022-08-11T18:38:10.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[锈 1.63
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32426835</id>
+        <link href="https://news.ycombinator.com/item?id=32426835"/>
+        <updated>2022-08-11T15:03:13.000Z</updated>
+        <summary type="html"><![CDATA[Rust 1.63]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Redis的解释
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jsnell</name>
             <uri>https://news.ycombinator.com/user?id=jsnell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刺客信条解放》退市，9月1日起连业主都不能玩了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32049508</id>
-        <link href="https://news.ycombinator.com/item?id=32049508"/>
-        <updated>2022-07-10T21:58:14.000Z</updated>
-        <summary type="html"><![CDATA[Assassin’s Creed Liberation delisted, unplayable even to owners starting Sept 1]]></summary>
-        <author>
-            <name>josephcsible</name>
-            <uri>https://news.ycombinator.com/user?id=josephcsible</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 11 Aug 2022 18:01:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 18:38:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[锈 1.63
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32426835</link>
+            <guid>https://news.ycombinator.com/item?id=32426835</guid>
+            <pubDate>Thu, 11 Aug 2022 15:03:13 GMT</pubDate>
+            <description><![CDATA[Rust 1.63]]></description>
+        </item>
         <item>
             <title><![CDATA[Redis的解释
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32045779</guid>
             <pubDate>Sun, 10 Jul 2022 15:48:20 GMT</pubDate>
             <description><![CDATA[Triangle Grids]]></description>
-        </item>
-        <item>
-            <title><![CDATA[刺客信条解放》退市，9月1日起连业主都不能玩了
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32049508</link>
-            <guid>https://news.ycombinator.com/item?id=32049508</guid>
-            <pubDate>Sun, 10 Jul 2022 21:58:14 GMT</pubDate>
-            <description><![CDATA[Assassin’s Creed Liberation delisted, unplayable even to owners starting Sept 1]]></description>
         </item>
     </channel>
 </rss>

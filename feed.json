@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32426835",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32426835",
+            "title": "锈 1.63\n",
+            "summary": "Rust 1.63",
+            "date_modified": "2022-08-11T15:03:13.000Z",
+            "author": {
+                "name": "todsacerdoti",
+                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
+            },
+            "_original_headline": "Rust 1.63",
+            "_original_url": "https://blog.rust-lang.org/2022/08/11/Rust-1.63.0.html",
+            "_sensitive": false,
+            "_score": 211
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32426879",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32426879",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://kvachev.com/blog/posts/triangular-grid/",
             "_sensitive": false,
             "_score": 203
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32049508",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32049508",
-            "title": "刺客信条解放》退市，9月1日起连业主都不能玩了\n",
-            "summary": "Assassin’s Creed Liberation delisted, unplayable even to owners starting Sept 1",
-            "date_modified": "2022-07-10T21:58:14.000Z",
-            "author": {
-                "name": "josephcsible",
-                "url": "https://news.ycombinator.com/user?id=josephcsible"
-            },
-            "_original_headline": "Assassin’s Creed Liberation delisted, unplayable even to owners starting Sept 1",
-            "_original_url": "https://mp1st.com/news/report-assassins-creed-liberation-delisted-to-be-unplayable-even-to-owners-starting-september-1-on-steam",
-            "_sensitive": false,
-            "_score": 215
         }
     ]
 }
