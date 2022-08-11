@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32425308",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32425308",
+            "title": "谷歌的种姓偏见问题\n",
+            "summary": "Google’s caste-bias problem",
+            "date_modified": "2022-08-11T13:33:15.000Z",
+            "author": {
+                "name": "frb",
+                "url": "https://news.ycombinator.com/user?id=frb"
+            },
+            "_original_headline": "Google’s caste-bias problem",
+            "_original_url": "https://www.newyorker.com/news/q-and-a/googles-caste-bias-problem",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32426835",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32426835",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "Love Song to Costco",
             "_original_url": "https://longreads.com/2022/06/16/love-song-to-costco/",
-            "_sensitive": false,
-            "_score": 203
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32045779",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32045779",
-            "title": "三角形网格\n",
-            "summary": "Triangle Grids",
-            "date_modified": "2022-07-10T15:48:20.000Z",
-            "author": {
-                "name": "jsnell",
-                "url": "https://news.ycombinator.com/user?id=jsnell"
-            },
-            "_original_headline": "Triangle Grids",
-            "_original_url": "https://kvachev.com/blog/posts/triangular-grid/",
             "_sensitive": false,
             "_score": 203
         }
