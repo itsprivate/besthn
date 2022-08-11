@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-11T17:13:35.547Z</updated>
+    <updated>2022-08-11T18:01:33.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Redis的解釋
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32426879</id>
+        <link href="https://news.ycombinator.com/item?id=32426879"/>
+        <updated>2022-08-11T15:06:24.000Z</updated>
+        <summary type="html"><![CDATA[Redis explained]]></summary>
+        <author>
+            <name>mgrouchy</name>
+            <uri>https://news.ycombinator.com/user?id=mgrouchy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何向高管介紹情況(2021年)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32409842</id>
+        <link href="https://news.ycombinator.com/item?id=32409842"/>
+        <updated>2022-08-10T10:22:57.000Z</updated>
+        <summary type="html"><![CDATA[How to present to executives (2021)]]></summary>
+        <author>
+            <name>alexzeitler</name>
+            <uri>https://news.ycombinator.com/user?id=alexzeitler</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個17歲的孩子設計了一個新穎的同步磁阻電機
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>josephcsible</name>
             <uri>https://news.ycombinator.com/user?id=josephcsible</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[固態硬盤在開機4萬小時後會失效（2021年）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32048148</id>
-        <link href="https://news.ycombinator.com/item?id=32048148"/>
-        <updated>2022-07-10T19:36:58.000Z</updated>
-        <summary type="html"><![CDATA[SSD will fail at 40k power-on hours (2021)]]></summary>
-        <author>
-            <name>dredmorbius</name>
-            <uri>https://news.ycombinator.com/user?id=dredmorbius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歐文--保護Lichess不受所有國際象棋選手的反派影響的人
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32047230</id>
-        <link href="https://news.ycombinator.com/item?id=32047230"/>
-        <updated>2022-07-10T18:09:23.000Z</updated>
-        <summary type="html"><![CDATA[Irwin – the protector of Lichess from all chess players villainous]]></summary>
-        <author>
-            <name>myle</name>
-            <uri>https://news.ycombinator.com/user?id=myle</uri>
         </author>
     </entry>
 </feed>
