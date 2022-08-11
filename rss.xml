@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 11 Aug 2022 21:01:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 22:01:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[国税局对最贫困家庭的审计率是其他人的五倍
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32430032</link>
+            <guid>https://news.ycombinator.com/item?id=32430032</guid>
+            <pubDate>Thu, 11 Aug 2022 18:44:01 GMT</pubDate>
+            <description><![CDATA[IRS audits poorest families at five times the rate for everyone else]]></description>
+        </item>
         <item>
             <title><![CDATA[隐藏Dotfiles是UNIXv2的一个错误 (2012)
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32052669</guid>
             <pubDate>Mon, 11 Jul 2022 05:49:22 GMT</pubDate>
             <description><![CDATA[New in Calibre 6.0]]></description>
-        </item>
-        <item>
-            <title><![CDATA[石脑油项目
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32051736</link>
-            <guid>https://news.ycombinator.com/item?id=32051736</guid>
-            <pubDate>Mon, 11 Jul 2022 03:06:29 GMT</pubDate>
-            <description><![CDATA[Project Naptha]]></description>
         </item>
     </channel>
 </rss>

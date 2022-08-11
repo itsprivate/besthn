@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-11T21:01:11.190Z</updated>
+    <updated>2022-08-11T22:01:09.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[国税局对最贫困家庭的审计率是其他人的五倍
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32430032</id>
+        <link href="https://news.ycombinator.com/item?id=32430032"/>
+        <updated>2022-08-11T18:44:01.000Z</updated>
+        <summary type="html"><![CDATA[IRS audits poorest families at five times the rate for everyone else]]></summary>
+        <author>
+            <name>heavyset_go</name>
+            <uri>https://news.ycombinator.com/user?id=heavyset_go</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隐藏Dotfiles是UNIXv2的一个错误 (2012)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>anotherevan</name>
             <uri>https://news.ycombinator.com/user?id=anotherevan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[石脑油项目
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32051736</id>
-        <link href="https://news.ycombinator.com/item?id=32051736"/>
-        <updated>2022-07-11T03:06:29.000Z</updated>
-        <summary type="html"><![CDATA[Project Naptha]]></summary>
-        <author>
-            <name>workah0lic</name>
-            <uri>https://news.ycombinator.com/user?id=workah0lic</uri>
         </author>
     </entry>
 </feed>
