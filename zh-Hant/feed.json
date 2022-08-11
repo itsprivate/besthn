@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32414215",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32414215",
+            "title": "審查/e/ - 基於安卓系統的手機替代品\n",
+            "summary": "Review of /e/ – Android-based alternative for mobile phones",
+            "date_modified": "2022-08-10T16:01:53.000Z",
+            "author": {
+                "name": "ivanvas",
+                "url": "https://news.ycombinator.com/user?id=ivanvas"
+            },
+            "_original_headline": "Review of /e/ – Android-based alternative for mobile phones",
+            "_original_url": "https://thenewleafjournal.com/review-of-e-an-android-alternative-for-mobile-phones/",
+            "_sensitive": false,
+            "_score": 206
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32416424",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32416424",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://reverbmachine.com/blog/kate-bush-running-up-that-hill-synth-sounds/",
             "_sensitive": false,
             "_score": 213
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32035569",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32035569",
-            "title": "埃隆出局\n",
-            "summary": "Elon’s Out",
-            "date_modified": "2022-07-09T14:46:09.000Z",
-            "author": {
-                "name": "jaxonrice",
-                "url": "https://news.ycombinator.com/user?id=jaxonrice"
-            },
-            "_original_headline": "Elon’s Out",
-            "_original_url": "https://www.bloomberg.com/opinion/articles/2022-07-09/elon-s-out",
-            "_sensitive": false,
-            "_score": 203
         }
     ]
 }
