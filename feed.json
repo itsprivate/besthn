@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32422522",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32422522",
+            "title": "Mindustry - 开源游戏\n",
+            "summary": "Mindustry – Open-Source Game",
+            "date_modified": "2022-08-11T07:19:43.000Z",
+            "author": {
+                "name": "gigel82",
+                "url": "https://news.ycombinator.com/user?id=gigel82"
+            },
+            "_original_headline": "Mindustry – Open-Source Game",
+            "_original_url": "https://mindustrygame.github.io/",
+            "_sensitive": false,
+            "_score": 244
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32408163",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32408163",
+            "title": "Freeciv - 开源的《文明》克隆版\n",
+            "summary": "Freeciv – open-source Civilization clone",
+            "date_modified": "2022-08-10T05:46:20.000Z",
+            "author": {
+                "name": "modinfo",
+                "url": "https://news.ycombinator.com/user?id=modinfo"
+            },
+            "_original_headline": "Freeciv – open-source Civilization clone",
+            "_original_url": "http://www.freeciv.org/",
+            "_sensitive": false,
+            "_score": 222
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32421350",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32421350",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://github.com/lichess-org/",
             "_sensitive": false,
             "_score": 203
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32045906",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32045906",
-            "title": "泄密者透露：Uber违反法律，欺骗警方，建立秘密游说行动\n",
-            "summary": "Uber broke laws, duped police and built secret lobbying operation, leak reveals",
-            "date_modified": "2022-07-10T16:02:56.000Z",
-            "author": {
-                "name": "colin_jack",
-                "url": "https://news.ycombinator.com/user?id=colin_jack"
-            },
-            "_original_headline": "Uber broke laws, duped police and built secret lobbying operation, leak reveals",
-            "_original_url": "https://www.theguardian.com/news/2022/jul/10/uber-files-leak-reveals-global-lobbying-campaign",
-            "_sensitive": false,
-            "_score": 261
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32043433",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32043433",
-            "title": "CS101: 计算机原理介绍\n",
-            "summary": "CS101: Introduction to Computing Principles",
-            "date_modified": "2022-07-10T10:29:57.000Z",
-            "author": {
-                "name": "tosh",
-                "url": "https://news.ycombinator.com/user?id=tosh"
-            },
-            "_original_headline": "CS101: Introduction to Computing Principles",
-            "_original_url": "https://web.stanford.edu/class/cs101/",
-            "_sensitive": false,
-            "_score": 214
         }
     ]
 }

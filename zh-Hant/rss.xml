@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 11 Aug 2022 11:27:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 13:00:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Mindustry - 開源遊戲
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32422522</link>
+            <guid>https://news.ycombinator.com/item?id=32422522</guid>
+            <pubDate>Thu, 11 Aug 2022 07:19:43 GMT</pubDate>
+            <description><![CDATA[Mindustry – Open-Source Game]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Freeciv - 開源的《文明》克隆版
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32408163</link>
+            <guid>https://news.ycombinator.com/item?id=32408163</guid>
+            <pubDate>Wed, 10 Aug 2022 05:46:20 GMT</pubDate>
+            <description><![CDATA[Freeciv – open-source Civilization clone]]></description>
+        </item>
         <item>
             <title><![CDATA[亞馬遜MOBI電子書文件格式的退役
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32045763</guid>
             <pubDate>Sun, 10 Jul 2022 15:46:18 GMT</pubDate>
             <description><![CDATA[Lichess: The free and open source chess server]]></description>
-        </item>
-        <item>
-            <title><![CDATA[洩密者透露：Uber違反法律，欺騙警方，建立秘密遊說行動
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32045906</link>
-            <guid>https://news.ycombinator.com/item?id=32045906</guid>
-            <pubDate>Sun, 10 Jul 2022 16:02:56 GMT</pubDate>
-            <description><![CDATA[Uber broke laws, duped police and built secret lobbying operation, leak reveals]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CS101: 計算機原理介紹
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32043433</link>
-            <guid>https://news.ycombinator.com/item?id=32043433</guid>
-            <pubDate>Sun, 10 Jul 2022 10:29:57 GMT</pubDate>
-            <description><![CDATA[CS101: Introduction to Computing Principles]]></description>
         </item>
     </channel>
 </rss>

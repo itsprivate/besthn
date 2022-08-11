@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-11T11:27:55.228Z</updated>
+    <updated>2022-08-11T13:00:20.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mindustry - 开源游戏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32422522</id>
+        <link href="https://news.ycombinator.com/item?id=32422522"/>
+        <updated>2022-08-11T07:19:43.000Z</updated>
+        <summary type="html"><![CDATA[Mindustry – Open-Source Game]]></summary>
+        <author>
+            <name>gigel82</name>
+            <uri>https://news.ycombinator.com/user?id=gigel82</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freeciv - 开源的《文明》克隆版
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32408163</id>
+        <link href="https://news.ycombinator.com/item?id=32408163"/>
+        <updated>2022-08-10T05:46:20.000Z</updated>
+        <summary type="html"><![CDATA[Freeciv – open-source Civilization clone]]></summary>
+        <author>
+            <name>modinfo</name>
+            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亚马逊MOBI电子书文件格式的退役
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>perihelions</name>
             <uri>https://news.ycombinator.com/user?id=perihelions</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泄密者透露：Uber违反法律，欺骗警方，建立秘密游说行动
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32045906</id>
-        <link href="https://news.ycombinator.com/item?id=32045906"/>
-        <updated>2022-07-10T16:02:56.000Z</updated>
-        <summary type="html"><![CDATA[Uber broke laws, duped police and built secret lobbying operation, leak reveals]]></summary>
-        <author>
-            <name>colin_jack</name>
-            <uri>https://news.ycombinator.com/user?id=colin_jack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CS101: 计算机原理介绍
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32043433</id>
-        <link href="https://news.ycombinator.com/item?id=32043433"/>
-        <updated>2022-07-10T10:29:57.000Z</updated>
-        <summary type="html"><![CDATA[CS101: Introduction to Computing Principles]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
         </author>
     </entry>
 </feed>
