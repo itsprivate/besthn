@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-11T20:50:46.870Z</updated>
+    <updated>2022-08-11T21:01:11.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[隱藏Dotfiles是UNIXv2的一個錯誤 (2012)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32427834</id>
+        <link href="https://news.ycombinator.com/item?id=32427834"/>
+        <updated>2022-08-11T16:08:50.000Z</updated>
+        <summary type="html"><![CDATA[Dotfiles being hidden is a UNIXv2 mistake (2012)]]></summary>
+        <author>
+            <name>varbhat</name>
+            <uri>https://news.ycombinator.com/user?id=varbhat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[花了15美元在DALL-E 2的學分，創造了這個AI圖像
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>workah0lic</name>
             <uri>https://news.ycombinator.com/user?id=workah0lic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用火狐翻譯的設備上的瀏覽器翻譯
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32049469</id>
-        <link href="https://news.ycombinator.com/item?id=32049469"/>
-        <updated>2022-07-10T21:53:13.000Z</updated>
-        <summary type="html"><![CDATA[On-device browser translations with Firefox Translations]]></summary>
-        <author>
-            <name>zaik</name>
-            <uri>https://news.ycombinator.com/user?id=zaik</uri>
         </author>
     </entry>
 </feed>

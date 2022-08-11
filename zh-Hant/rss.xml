@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 11 Aug 2022 20:50:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 21:01:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[隱藏Dotfiles是UNIXv2的一個錯誤 (2012)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32427834</link>
+            <guid>https://news.ycombinator.com/item?id=32427834</guid>
+            <pubDate>Thu, 11 Aug 2022 16:08:50 GMT</pubDate>
+            <description><![CDATA[Dotfiles being hidden is a UNIXv2 mistake (2012)]]></description>
+        </item>
         <item>
             <title><![CDATA[花了15美元在DALL-E 2的學分，創造了這個AI圖像
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32051736</guid>
             <pubDate>Mon, 11 Jul 2022 03:06:29 GMT</pubDate>
             <description><![CDATA[Project Naptha]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用火狐翻譯的設備上的瀏覽器翻譯
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32049469</link>
-            <guid>https://news.ycombinator.com/item?id=32049469</guid>
-            <pubDate>Sun, 10 Jul 2022 21:53:13 GMT</pubDate>
-            <description><![CDATA[On-device browser translations with Firefox Translations]]></description>
         </item>
     </channel>
 </rss>
