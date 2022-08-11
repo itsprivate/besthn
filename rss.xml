@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 11 Aug 2022 02:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 03:39:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[让网站从本机应用中框架化
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32418679</link>
+            <guid>https://news.ycombinator.com/item?id=32418679</guid>
+            <pubDate>Wed, 10 Aug 2022 21:27:07 GMT</pubDate>
+            <description><![CDATA[Let websites framebust out of native apps]]></description>
+        </item>
+        <item>
+            <title><![CDATA[语义网已死 - 语义网万岁
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32412803</link>
+            <guid>https://news.ycombinator.com/item?id=32412803</guid>
+            <pubDate>Wed, 10 Aug 2022 14:42:05 GMT</pubDate>
+            <description><![CDATA[The semantic web is dead – Long live the semantic web]]></description>
+        </item>
+        <item>
+            <title><![CDATA[攀岩必备绳结
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32408393</link>
+            <guid>https://news.ycombinator.com/item?id=32408393</guid>
+            <pubDate>Wed, 10 Aug 2022 06:26:29 GMT</pubDate>
+            <description><![CDATA[Essential Climbing Knots]]></description>
+        </item>
         <item>
             <title><![CDATA[审查/e/ - 基于安卓系统的手机替代品
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32040251</guid>
             <pubDate>Sat, 09 Jul 2022 23:21:26 GMT</pubDate>
             <description><![CDATA[Help me identify possible tracking device found in my car]]></description>
-        </item>
-        <item>
-            <title><![CDATA[恭喜你。我们现在对你的开放源码贡献有意见了
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32037562</link>
-            <guid>https://news.ycombinator.com/item?id=32037562</guid>
-            <pubDate>Sat, 09 Jul 2022 17:48:55 GMT</pubDate>
-            <description><![CDATA[Congratulations: We now have opinions on your open source contributions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Shopify的黑暗面
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32034643</link>
-            <guid>https://news.ycombinator.com/item?id=32034643</guid>
-            <pubDate>Sat, 09 Jul 2022 12:57:06 GMT</pubDate>
-            <description><![CDATA[The dark side of Shopify]]></description>
-        </item>
-        <item>
-            <title><![CDATA[凯特-布什的 "Running Up That Hill "合成器声音
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32038081</link>
-            <guid>https://news.ycombinator.com/item?id=32038081</guid>
-            <pubDate>Sat, 09 Jul 2022 18:43:53 GMT</pubDate>
-            <description><![CDATA[Kate Bush’s “Running Up That Hill” synth sounds]]></description>
         </item>
     </channel>
 </rss>
