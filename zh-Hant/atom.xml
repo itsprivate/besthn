@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-11T05:45:04.504Z</updated>
+    <updated>2022-08-11T06:36:56.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[練習如何更清晰地思考，然後說話？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32411586</id>
+        <link href="https://news.ycombinator.com/item?id=32411586"/>
+        <updated>2022-08-10T13:31:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Exercises to think, then speak, more clearly?]]></summary>
+        <author>
+            <name>treyfitty</name>
+            <uri>https://news.ycombinator.com/user?id=treyfitty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["自閉症患者不能承認自己的錯誤"
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>LinuxBender</name>
             <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼這麼多品牌要改變他們的標誌，看起來像其他人一樣？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32040506</id>
-        <link href="https://news.ycombinator.com/item?id=32040506"/>
-        <updated>2022-07-09T23:58:43.000Z</updated>
-        <summary type="html"><![CDATA[Why do so many brands change their logos and look like everyone else?]]></summary>
-        <author>
-            <name>herbertl</name>
-            <uri>https://news.ycombinator.com/user?id=herbertl</uri>
         </author>
     </entry>
 </feed>

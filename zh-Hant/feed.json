@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32411586",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32411586",
+            "title": "練習如何更清晰地思考，然後說話？\n",
+            "summary": "Ask HN: Exercises to think, then speak, more clearly?",
+            "date_modified": "2022-08-10T13:31:05.000Z",
+            "author": {
+                "name": "treyfitty",
+                "url": "https://news.ycombinator.com/user?id=treyfitty"
+            },
+            "_original_headline": "Ask HN: Exercises to think, then speak, more clearly?",
+            "_original_url": "https://news.ycombinator.com/item?id=32411586",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32410355",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32410355",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://edition.cnn.com/2022/07/08/health/phage-superbug-killer-life-itself-wellness/index.html",
             "_sensitive": false,
             "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32040506",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32040506",
-            "title": "為什麼這麼多品牌要改變他們的標誌，看起來像其他人一樣？\n",
-            "summary": "Why do so many brands change their logos and look like everyone else?",
-            "date_modified": "2022-07-09T23:58:43.000Z",
-            "author": {
-                "name": "herbertl",
-                "url": "https://news.ycombinator.com/user?id=herbertl"
-            },
-            "_original_headline": "Why do so many brands change their logos and look like everyone else?",
-            "_original_url": "https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else",
-            "_sensitive": false,
-            "_score": 207
         }
     ]
 }

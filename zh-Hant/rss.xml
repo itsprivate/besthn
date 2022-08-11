@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 11 Aug 2022 05:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 06:36:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[練習如何更清晰地思考，然後說話？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32411586</link>
+            <guid>https://news.ycombinator.com/item?id=32411586</guid>
+            <pubDate>Wed, 10 Aug 2022 13:31:05 GMT</pubDate>
+            <description><![CDATA[Ask HN: Exercises to think, then speak, more clearly?]]></description>
+        </item>
         <item>
             <title><![CDATA["自閉症患者不能承認自己的錯誤"
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32036825</guid>
             <pubDate>Sat, 09 Jul 2022 16:41:31 GMT</pubDate>
             <description><![CDATA[No antibiotics worked, so this woman turned to phage scientists]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼這麼多品牌要改變他們的標誌，看起來像其他人一樣？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32040506</link>
-            <guid>https://news.ycombinator.com/item?id=32040506</guid>
-            <pubDate>Sat, 09 Jul 2022 23:58:43 GMT</pubDate>
-            <description><![CDATA[Why do so many brands change their logos and look like everyone else?]]></description>
         </item>
     </channel>
 </rss>
