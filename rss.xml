@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 11 Aug 2022 03:39:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 04:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[世界Excel锦标赛将在ESPN上播出
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32417534</link>
+            <guid>https://news.ycombinator.com/item?id=32417534</guid>
+            <pubDate>Wed, 10 Aug 2022 19:54:50 GMT</pubDate>
+            <description><![CDATA[The World Excel Championship is being broadcast on ESPN]]></description>
+        </item>
         <item>
             <title><![CDATA[让网站从本机应用中框架化
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32036224</guid>
             <pubDate>Sat, 09 Jul 2022 15:53:35 GMT</pubDate>
             <description><![CDATA[Using GPT-3 to explain how code works]]></description>
-        </item>
-        <item>
-            <title><![CDATA[帮助我识别在我的车上发现的可能的跟踪装置
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32040251</link>
-            <guid>https://news.ycombinator.com/item?id=32040251</guid>
-            <pubDate>Sat, 09 Jul 2022 23:21:26 GMT</pubDate>
-            <description><![CDATA[Help me identify possible tracking device found in my car]]></description>
         </item>
     </channel>
 </rss>
