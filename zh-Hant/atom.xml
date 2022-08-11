@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-11T06:36:56.661Z</updated>
+    <updated>2022-08-11T07:30:59.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[啟動HN：大風車（YC S22）--將腳本變成內部應用程序和工作流程
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32400849</id>
+        <link href="https://news.ycombinator.com/item?id=32400849"/>
+        <updated>2022-08-09T17:19:18.000Z</updated>
+        <summary type="html"><![CDATA[Launch HN: Windmill (YC S22) – Turn scripts into internal apps and workflows]]></summary>
+        <author>
+            <name>rubenfiszel</name>
+            <uri>https://news.ycombinator.com/user?id=rubenfiszel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[練習如何更清晰地思考，然後說話？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>daoudc</name>
             <uri>https://news.ycombinator.com/user?id=daoudc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沒有抗生素起作用，所以這個女人轉向了噬菌體科學家
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32036825</id>
-        <link href="https://news.ycombinator.com/item?id=32036825"/>
-        <updated>2022-07-09T16:41:31.000Z</updated>
-        <summary type="html"><![CDATA[No antibiotics worked, so this woman turned to phage scientists]]></summary>
-        <author>
-            <name>LinuxBender</name>
-            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
         </author>
     </entry>
 </feed>

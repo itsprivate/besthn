@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 11 Aug 2022 06:36:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 07:30:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[启动HN：大风车（YC S22）--将脚本变成内部应用程序和工作流程
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32400849</link>
+            <guid>https://news.ycombinator.com/item?id=32400849</guid>
+            <pubDate>Tue, 09 Aug 2022 17:19:18 GMT</pubDate>
+            <description><![CDATA[Launch HN: Windmill (YC S22) – Turn scripts into internal apps and workflows]]></description>
+        </item>
         <item>
             <title><![CDATA[练习如何更清晰地思考，然后说话？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32042249</guid>
             <pubDate>Sun, 10 Jul 2022 06:02:55 GMT</pubDate>
             <description><![CDATA[Why the world needs a non-profit search engine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[没有抗生素起作用，所以这个女人转向了噬菌体科学家
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32036825</link>
-            <guid>https://news.ycombinator.com/item?id=32036825</guid>
-            <pubDate>Sat, 09 Jul 2022 16:41:31 GMT</pubDate>
-            <description><![CDATA[No antibiotics worked, so this woman turned to phage scientists]]></description>
         </item>
     </channel>
 </rss>
