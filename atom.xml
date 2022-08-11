@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-11T13:59:23.204Z</updated>
+    <updated>2022-08-11T14:31:37.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[波德曼4.2.0
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32421793</id>
+        <link href="https://news.ycombinator.com/item?id=32421793"/>
+        <updated>2022-08-11T05:06:34.000Z</updated>
+        <summary type="html"><![CDATA[Podman 4.2.0]]></summary>
+        <author>
+            <name>timost</name>
+            <uri>https://news.ycombinator.com/user?id=timost</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的研究推翻了100年前对色彩感知的理解
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32419873</id>
+        <link href="https://news.ycombinator.com/item?id=32419873"/>
+        <updated>2022-08-10T23:43:19.000Z</updated>
+        <summary type="html"><![CDATA[New study overturns 100-year-old understanding of color perception]]></summary>
+        <author>
+            <name>beefman</name>
+            <uri>https://news.ycombinator.com/user?id=beefman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗物质并不存在
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>latchkey</name>
             <uri>https://news.ycombinator.com/user?id=latchkey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蚂蚁沙箱--蚂蚁模拟器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32043229</id>
-        <link href="https://news.ycombinator.com/item?id=32043229"/>
-        <updated>2022-07-10T09:48:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ants Sandbox - an ants simulator]]></summary>
-        <author>
-            <name>tulustul</name>
-            <uri>https://news.ycombinator.com/user?id=tulustul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[儿童时期的抗生素是克罗恩病的一个风险因素。队列研究
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32037105</id>
-        <link href="https://news.ycombinator.com/item?id=32037105"/>
-        <updated>2022-07-09T17:05:38.000Z</updated>
-        <summary type="html"><![CDATA[Childhood antibiotics as a risk factor for Crohn's disease: Cohort study]]></summary>
-        <author>
-            <name>Jimmc414</name>
-            <uri>https://news.ycombinator.com/user?id=Jimmc414</uri>
         </author>
     </entry>
 </feed>
