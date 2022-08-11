@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-11T09:31:06.911Z</updated>
+    <updated>2022-08-11T10:37:12.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[点击爪子
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32420986</id>
+        <link href="https://news.ycombinator.com/item?id=32420986"/>
+        <updated>2022-08-11T02:51:20.000Z</updated>
+        <summary type="html"><![CDATA[Click the Paw]]></summary>
+        <author>
+            <name>metadat</name>
+            <uri>https://news.ycombinator.com/user?id=metadat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FCC取消了Starlink和LTD的农村发展拨款
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mfrw</name>
             <uri>https://news.ycombinator.com/user?id=mfrw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是Qubes操作系统？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32036899</id>
-        <link href="https://news.ycombinator.com/item?id=32036899"/>
-        <updated>2022-07-09T16:47:52.000Z</updated>
-        <summary type="html"><![CDATA[What Is Qubes OS?]]></summary>
-        <author>
-            <name>LinuxBender</name>
-            <uri>https://news.ycombinator.com/user?id=LinuxBender</uri>
         </author>
     </entry>
 </feed>
