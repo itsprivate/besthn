@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-12T09:30:03.817Z</updated>
+    <updated>2022-08-12T13:00:51.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Windows10Debloater。移除Windows 10臃肿软件的脚本（2021）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32434934</id>
+        <link href="https://news.ycombinator.com/item?id=32434934"/>
+        <updated>2022-08-12T05:17:22.000Z</updated>
+        <summary type="html"><![CDATA[Windows10Debloater: Script to remove Windows 10 bloatware (2021)]]></summary>
+        <author>
+            <name>prvt</name>
+            <uri>https://news.ycombinator.com/user?id=prvt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit的数据库有两个表(2012)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32407873</id>
+        <link href="https://news.ycombinator.com/item?id=32407873"/>
+        <updated>2022-08-10T04:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Reddit’s database has two tables (2012)]]></summary>
+        <author>
+            <name>swyx</name>
+            <uri>https://news.ycombinator.com/user?id=swyx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[山羊出租 - 租用山羊
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>perfectjob</name>
             <uri>https://news.ycombinator.com/user?id=perfectjob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Common Lisp开发的游戏和游戏引擎--Kandria的技术概述
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32043026</id>
-        <link href="https://news.ycombinator.com/item?id=32043026"/>
-        <updated>2022-07-10T09:08:47.000Z</updated>
-        <summary type="html"><![CDATA[Technical overview of Kandria, a game and game engine developed in Common Lisp]]></summary>
-        <author>
-            <name>trocado</name>
-            <uri>https://news.ycombinator.com/user?id=trocado</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCC Rust 由GCC指导委员会批准
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32057116</id>
-        <link href="https://news.ycombinator.com/item?id=32057116"/>
-        <updated>2022-07-11T15:05:20.000Z</updated>
-        <summary type="html"><![CDATA[GCC Rust Approved by GCC Steering Committee]]></summary>
-        <author>
-            <name>edelsohn</name>
-            <uri>https://news.ycombinator.com/user?id=edelsohn</uri>
         </author>
     </entry>
 </feed>

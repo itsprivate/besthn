@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 12 Aug 2022 09:30:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 13:00:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Windows10Debloater。移除Windows 10臃腫軟件的腳本（2021）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32434934</link>
+            <guid>https://news.ycombinator.com/item?id=32434934</guid>
+            <pubDate>Fri, 12 Aug 2022 05:17:22 GMT</pubDate>
+            <description><![CDATA[Windows10Debloater: Script to remove Windows 10 bloatware (2021)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Reddit的數據庫有兩個表(2012)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32407873</link>
+            <guid>https://news.ycombinator.com/item?id=32407873</guid>
+            <pubDate>Wed, 10 Aug 2022 04:30:51 GMT</pubDate>
+            <description><![CDATA[Reddit’s database has two tables (2012)]]></description>
+        </item>
         <item>
             <title><![CDATA[山羊出租 - 租用山羊
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32059666</guid>
             <pubDate>Mon, 11 Jul 2022 18:15:08 GMT</pubDate>
             <description><![CDATA[Tell HN: I have the perfect job, why is it not enough?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Common Lisp開發的遊戲和遊戲引擎--Kandria的技術概述
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32043026</link>
-            <guid>https://news.ycombinator.com/item?id=32043026</guid>
-            <pubDate>Sun, 10 Jul 2022 09:08:47 GMT</pubDate>
-            <description><![CDATA[Technical overview of Kandria, a game and game engine developed in Common Lisp]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GCC Rust 由GCC指導委員會批准
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32057116</link>
-            <guid>https://news.ycombinator.com/item?id=32057116</guid>
-            <pubDate>Mon, 11 Jul 2022 15:05:20 GMT</pubDate>
-            <description><![CDATA[GCC Rust Approved by GCC Steering Committee]]></description>
         </item>
     </channel>
 </rss>
