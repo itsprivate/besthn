@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32415378",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32415378",
+            "title": "破解享乐主义的跑步机\n",
+            "summary": "Hacking the Hedonic Treadmill",
+            "date_modified": "2022-08-10T17:12:13.000Z",
+            "author": {
+                "name": "highfrequency",
+                "url": "https://news.ycombinator.com/user?id=highfrequency"
+            },
+            "_original_headline": "Hacking the Hedonic Treadmill",
+            "_original_url": "https://experimentalhistory.substack.com/p/the-five-tools-of-hedonic-design",
+            "_sensitive": false,
+            "_score": 206
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32439934",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32439934",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-delivers-deepest-infrared-image-of-universe-yet/",
             "_sensitive": false,
             "_score": 238
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32041917",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32041917",
-            "title": "普拉诺人保持百视通的活力\n",
-            "summary": "Plano man keeping Blockbuster alive",
-            "date_modified": "2022-07-10T04:40:53.000Z",
-            "author": {
-                "name": "cereallarceny",
-                "url": "https://news.ycombinator.com/user?id=cereallarceny"
-            },
-            "_original_headline": "Plano man keeping Blockbuster alive",
-            "_original_url": "https://www.dallasnews.com/arts-entertainment/2022/07/06/meet-the-plano-man-keeping-blockbuster-alive/",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }
