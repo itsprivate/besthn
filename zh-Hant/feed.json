@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32425178",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32425178",
+            "title": "通用汽車強制要求GMC、別克、凱迪拉克車型繳納1500美元的會費\n",
+            "summary": "GM makes $1,500 subscription mandatory on GMC, Buick, Cadillac Models",
+            "date_modified": "2022-08-11T13:21:16.000Z",
+            "author": {
+                "name": "seitzej",
+                "url": "https://news.ycombinator.com/user?id=seitzej"
+            },
+            "_original_headline": "GM makes $1,500 subscription mandatory on GMC, Buick, Cadillac Models",
+            "_original_url": "https://www.thedrive.com/news/gm-makes-1500-onstar-subscription-mandatory-on-gmc-buick-cadillac-models",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32429848",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32429848",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.themarginalian.org/2014/10/24/how-to-do-nothing-with-nobody-all-alone-by-yourself/",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32055756",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32055756",
-            "title": "歡迎來到地獄；或英國在線安全法案合規義務\n",
-            "summary": "Welcome to hell; or UK online safety bill compliance obligations",
-            "date_modified": "2022-07-11T13:19:06.000Z",
-            "author": {
-                "name": "Arkanum",
-                "url": "https://news.ycombinator.com/user?id=Arkanum"
-            },
-            "_original_headline": "Welcome to hell; or UK online safety bill compliance obligations",
-            "_original_url": "https://webdevlaw.uk/2022/07/11/your-compliance-obligations-under-the-uks-online-safety-bill/",
-            "_sensitive": false,
-            "_score": 221
         }
     ]
 }
