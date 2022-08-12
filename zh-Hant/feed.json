@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32437078",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32437078",
+            "title": "告訴HN：無償家務勞動是不允許的\n",
+            "summary": "Tell HN: Unpaid home assignments are not ok",
+            "date_modified": "2022-08-12T11:51:30.000Z",
+            "author": {
+                "name": "mathverse",
+                "url": "https://news.ycombinator.com/user?id=mathverse"
+            },
+            "_original_headline": "Tell HN: Unpaid home assignments are not ok",
+            "_original_url": "https://news.ycombinator.com/item?id=32437078",
+            "_sensitive": false,
+            "_score": 212
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32434412",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32434412",
+            "title": "Rob Pike在Go中的簡單C語言重碼匹配器\n",
+            "summary": "Rob Pike's simple C regex matcher in Go",
+            "date_modified": "2022-08-12T03:23:15.000Z",
+            "author": {
+                "name": "todsacerdoti",
+                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
+            },
+            "_original_headline": "Rob Pike's simple C regex matcher in Go",
+            "_original_url": "https://benhoyt.com/writings/rob-pike-regex/",
+            "_sensitive": false,
+            "_score": 219
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32434934",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32434934",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://www.bloomberg.com/news/articles/2022-07-08/why-the-euro-has-tumbled-near-parity-to-the-us-dollar-quicktake",
             "_sensitive": false,
             "_score": 229
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32053816",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32053816",
-            "title": "Colorvote.io - 按受歡迎程度對所有16,777,216種sRGB網絡顏色進行排名\n",
-            "summary": "Show HN: Colorvote.io – ranking all 16,777,216 sRGB web colors by popularity",
-            "date_modified": "2022-07-11T09:05:44.000Z",
-            "author": {
-                "name": "gcuth",
-                "url": "https://news.ycombinator.com/user?id=gcuth"
-            },
-            "_original_headline": "Show HN: Colorvote.io – ranking all 16,777,216 sRGB web colors by popularity",
-            "_original_url": "https://www.colorvote.io",
-            "_sensitive": false,
-            "_score": 214
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32059666",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32059666",
-            "title": "告訴HN：我有一份完美的工作，為什麼還不夠呢？\n",
-            "summary": "Tell HN: I have the perfect job, why is it not enough?",
-            "date_modified": "2022-07-11T18:15:08.000Z",
-            "author": {
-                "name": "perfectjob",
-                "url": "https://news.ycombinator.com/user?id=perfectjob"
-            },
-            "_original_headline": "Tell HN: I have the perfect job, why is it not enough?",
-            "_original_url": "https://news.ycombinator.com/item?id=32059666",
-            "_sensitive": false,
-            "_score": 204
         }
     ]
 }

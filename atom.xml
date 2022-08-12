@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-12T13:00:51.031Z</updated>
+    <updated>2022-08-12T13:56:02.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：无偿家务劳动是不允许的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32437078</id>
+        <link href="https://news.ycombinator.com/item?id=32437078"/>
+        <updated>2022-08-12T11:51:30.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Unpaid home assignments are not ok]]></summary>
+        <author>
+            <name>mathverse</name>
+            <uri>https://news.ycombinator.com/user?id=mathverse</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rob Pike在Go中的简单C语言重码匹配器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32434412</id>
+        <link href="https://news.ycombinator.com/item?id=32434412"/>
+        <updated>2022-08-12T03:23:15.000Z</updated>
+        <summary type="html"><![CDATA[Rob Pike's simple C regex matcher in Go]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows10Debloater。移除Windows 10臃肿软件的脚本（2021）。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>systemvoltage</name>
             <uri>https://news.ycombinator.com/user?id=systemvoltage</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colorvote.io - 按受欢迎程度对所有16,777,216种sRGB网络颜色进行排名
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32053816</id>
-        <link href="https://news.ycombinator.com/item?id=32053816"/>
-        <updated>2022-07-11T09:05:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Colorvote.io – ranking all 16,777,216 sRGB web colors by popularity]]></summary>
-        <author>
-            <name>gcuth</name>
-            <uri>https://news.ycombinator.com/user?id=gcuth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：我有一份完美的工作，为什么还不够呢？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32059666</id>
-        <link href="https://news.ycombinator.com/item?id=32059666"/>
-        <updated>2022-07-11T18:15:08.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: I have the perfect job, why is it not enough?]]></summary>
-        <author>
-            <name>perfectjob</name>
-            <uri>https://news.ycombinator.com/user?id=perfectjob</uri>
         </author>
     </entry>
 </feed>
