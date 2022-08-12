@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-12T21:02:12.037Z</updated>
+    <updated>2022-08-12T21:48:12.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[研究發現炊具中的 "永遠的化學物質 "與肝癌之間存在聯繫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32438368</id>
+        <link href="https://news.ycombinator.com/item?id=32438368"/>
+        <updated>2022-08-12T13:32:17.000Z</updated>
+        <summary type="html"><![CDATA[Study finds link between 'forever chemicals' in cookware and liver cancer]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黑客對星聯終端的攻擊已經開始
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nitnelave</name>
             <uri>https://news.ycombinator.com/user?id=nitnelave</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於馬鈴薯飲食的思考
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32058674</id>
-        <link href="https://news.ycombinator.com/item?id=32058674"/>
-        <updated>2022-07-11T16:58:39.000Z</updated>
-        <summary type="html"><![CDATA[Thoughts on the potato diet]]></summary>
-        <author>
-            <name>mediocregopher</name>
-            <uri>https://news.ycombinator.com/user?id=mediocregopher</uri>
         </author>
     </entry>
 </feed>

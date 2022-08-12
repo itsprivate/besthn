@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 12 Aug 2022 21:02:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 21:48:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[研究发现炊具中的 "永远的化学物质 "与肝癌之间存在联系
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32438368</link>
+            <guid>https://news.ycombinator.com/item?id=32438368</guid>
+            <pubDate>Fri, 12 Aug 2022 13:32:17 GMT</pubDate>
+            <description><![CDATA[Study finds link between 'forever chemicals' in cookware and liver cancer]]></description>
+        </item>
         <item>
             <title><![CDATA[黑客对星联终端的攻击已经开始
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32053961</guid>
             <pubDate>Mon, 11 Jul 2022 09:29:18 GMT</pubDate>
             <description><![CDATA[Show HN: Lldap, a Simplified LDAP Server]]></description>
-        </item>
-        <item>
-            <title><![CDATA[关于马铃薯饮食的思考
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32058674</link>
-            <guid>https://news.ycombinator.com/item?id=32058674</guid>
-            <pubDate>Mon, 11 Jul 2022 16:58:39 GMT</pubDate>
-            <description><![CDATA[Thoughts on the potato diet]]></description>
         </item>
     </channel>
 </rss>
