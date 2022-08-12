@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 12 Aug 2022 15:40:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 18:39:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[印度火車票被多收20盧比的男子贏得了長達22年的法律鬥爭
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32436624</link>
+            <guid>https://news.ycombinator.com/item?id=32436624</guid>
+            <pubDate>Fri, 12 Aug 2022 10:42:20 GMT</pubDate>
+            <description><![CDATA[Man overcharged 20 rupees for India train ticket wins 22-year legal battle]]></description>
+        </item>
         <item>
             <title><![CDATA[逮捕涉嫌開發龍捲風現金的人
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32034320</guid>
             <pubDate>Sat, 09 Jul 2022 12:12:57 GMT</pubDate>
             <description><![CDATA[U.S. News pulls Columbia University from its 2022 rankings]]></description>
-        </item>
-        <item>
-            <title><![CDATA[1.0歐元現在價值1.0美元
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32061587</link>
-            <guid>https://news.ycombinator.com/item?id=32061587</guid>
-            <pubDate>Mon, 11 Jul 2022 20:46:19 GMT</pubDate>
-            <description><![CDATA[1.0 Euro is now worth $1.0 USD]]></description>
         </item>
     </channel>
 </rss>

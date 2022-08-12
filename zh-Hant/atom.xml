@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-12T15:40:11.489Z</updated>
+    <updated>2022-08-12T18:39:21.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[印度火車票被多收20盧比的男子贏得了長達22年的法律鬥爭
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32436624</id>
+        <link href="https://news.ycombinator.com/item?id=32436624"/>
+        <updated>2022-08-12T10:42:20.000Z</updated>
+        <summary type="html"><![CDATA[Man overcharged 20 rupees for India train ticket wins 22-year legal battle]]></summary>
+        <author>
+            <name>nigerian1981</name>
+            <uri>https://news.ycombinator.com/user?id=nigerian1981</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[逮捕涉嫌開發龍捲風現金的人
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>selimthegrim</name>
             <uri>https://news.ycombinator.com/user?id=selimthegrim</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1.0歐元現在價值1.0美元
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32061587</id>
-        <link href="https://news.ycombinator.com/item?id=32061587"/>
-        <updated>2022-07-11T20:46:19.000Z</updated>
-        <summary type="html"><![CDATA[1.0 Euro is now worth $1.0 USD]]></summary>
-        <author>
-            <name>dezmou</name>
-            <uri>https://news.ycombinator.com/user?id=dezmou</uri>
         </author>
     </entry>
 </feed>
