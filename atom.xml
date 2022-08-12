@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-11T23:30:30.069Z</updated>
+    <updated>2022-08-12T02:33:00.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么努力思考会让我们感到疲惫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32430395</id>
+        <link href="https://news.ycombinator.com/item?id=32430395"/>
+        <updated>2022-08-11T19:15:15.000Z</updated>
+        <summary type="html"><![CDATA[Why thinking hard makes us feel tired]]></summary>
+        <author>
+            <name>rntn</name>
+            <uri>https://news.ycombinator.com/user?id=rntn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[参加系统设计面试前应了解的算法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32429533</id>
+        <link href="https://news.ycombinator.com/item?id=32429533"/>
+        <updated>2022-08-11T18:02:03.000Z</updated>
+        <summary type="html"><![CDATA[Algorithms you should know before you take system design interviews]]></summary>
+        <author>
+            <name>code007</name>
+            <uri>https://news.ycombinator.com/user?id=code007</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从示波器到Wireshark。一个UDP的故事
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32428032</id>
+        <link href="https://news.ycombinator.com/item?id=32428032"/>
+        <updated>2022-08-11T16:21:12.000Z</updated>
+        <summary type="html"><![CDATA[From Oscilloscope to Wireshark: A UDP Story]]></summary>
+        <author>
+            <name>mkeeter</name>
+            <uri>https://news.ycombinator.com/user?id=mkeeter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我从单口相声中学到的东西
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32424228</id>
+        <link href="https://news.ycombinator.com/item?id=32424228"/>
+        <updated>2022-08-11T11:43:05.000Z</updated>
+        <summary type="html"><![CDATA[Things I learnt doing stand-up comedy]]></summary>
+        <author>
+            <name>NesquikMike</name>
+            <uri>https://news.ycombinator.com/user?id=NesquikMike</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这是社交网络的终点吗？
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>firstSpeaker</name>
             <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Replibyte - 用真实的数据作为你的数据库的种子
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32047535</id>
-        <link href="https://news.ycombinator.com/item?id=32047535"/>
-        <updated>2022-07-10T18:39:08.000Z</updated>
-        <summary type="html"><![CDATA[Replibyte – Seed your database with real data]]></summary>
-        <author>
-            <name>evoxmusic</name>
-            <uri>https://news.ycombinator.com/user?id=evoxmusic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postgres 15改进了UNIQUE和NULL
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32053293</id>
-        <link href="https://news.ycombinator.com/item?id=32053293"/>
-        <updated>2022-07-11T07:29:47.000Z</updated>
-        <summary type="html"><![CDATA[Postgres 15 improves UNIQUE and NULL]]></summary>
-        <author>
-            <name>Twisell</name>
-            <uri>https://news.ycombinator.com/user?id=Twisell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[益百利公司，你有一些解释工作要做
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32052140</id>
-        <link href="https://news.ycombinator.com/item?id=32052140"/>
-        <updated>2022-07-11T04:18:24.000Z</updated>
-        <summary type="html"><![CDATA[Experian, you have some explaining to do]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据显示，来自精英背景的人在学术界越来越占优势
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32051703</id>
-        <link href="https://news.ycombinator.com/item?id=32051703"/>
-        <updated>2022-07-11T03:00:26.000Z</updated>
-        <summary type="html"><![CDATA[People from elite backgrounds increasingly dominate academia, data shows]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
         </author>
     </entry>
 </feed>
