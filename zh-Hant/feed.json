@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32440850",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32440850",
+            "title": "韓國最高法院表示，搜刮公開數據是合法的\n",
+            "summary": "The Supreme Korean court says that scraping publicly available data is legal",
+            "date_modified": "2022-08-12T16:31:15.000Z",
+            "author": {
+                "name": "PigiVinci83",
+                "url": "https://news.ycombinator.com/user?id=PigiVinci83"
+            },
+            "_original_headline": "The Supreme Korean court says that scraping publicly available data is legal",
+            "_original_url": "https://www.lexology.com/library/detail.aspx?g=1ae8c0a9-660b-45b7-9ef6-030f387d6e29",
+            "_sensitive": false,
+            "_score": 206
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32438368",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32438368",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database",
             "_sensitive": false,
             "_score": 209
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32053961",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32053961",
-            "title": "Lldap，一個簡化的LDAP服務器\n",
-            "summary": "Show HN: Lldap, a Simplified LDAP Server",
-            "date_modified": "2022-07-11T09:29:18.000Z",
-            "author": {
-                "name": "nitnelave",
-                "url": "https://news.ycombinator.com/user?id=nitnelave"
-            },
-            "_original_headline": "Show HN: Lldap, a Simplified LDAP Server",
-            "_original_url": "https://github.com/nitnelave/lldap",
-            "_sensitive": false,
-            "_score": 204
         }
     ]
 }
