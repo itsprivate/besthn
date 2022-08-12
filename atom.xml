@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-12T13:56:02.362Z</updated>
+    <updated>2022-08-12T15:40:11.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[逮捕涉嫌开发龙卷风现金的人
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32436413</id>
+        <link href="https://news.ycombinator.com/item?id=32436413"/>
+        <updated>2022-08-12T10:05:40.000Z</updated>
+        <summary type="html"><![CDATA[Arrest of suspected developer of Tornado Cash]]></summary>
+        <author>
+            <name>langitbiru</name>
+            <uri>https://news.ycombinator.com/user?id=langitbiru</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告诉HN：无偿家务劳动是不允许的
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dezmou</name>
             <uri>https://news.ycombinator.com/user?id=dezmou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧元跌至与美元平价附近
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32059109</id>
-        <link href="https://news.ycombinator.com/item?id=32059109"/>
-        <updated>2022-07-11T17:34:42.000Z</updated>
-        <summary type="html"><![CDATA[The euro has tumbled near parity to the US dollar]]></summary>
-        <author>
-            <name>systemvoltage</name>
-            <uri>https://news.ycombinator.com/user?id=systemvoltage</uri>
         </author>
     </entry>
 </feed>
