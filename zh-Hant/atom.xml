@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-12T02:33:00.618Z</updated>
+    <updated>2022-08-12T07:28:30.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[System.css: 一個用於構建復古蘋果界面的設計系統
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32429848</id>
+        <link href="https://news.ycombinator.com/item?id=32429848"/>
+        <updated>2022-08-11T18:29:50.000Z</updated>
+        <summary type="html"><![CDATA[System.css: A design system for building retro Apple interfaces]]></summary>
+        <author>
+            <name>surrTurr</name>
+            <uri>https://news.ycombinator.com/user?id=surrTurr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼努力思考會讓我們感到疲憊
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Arkanum</name>
             <uri>https://news.ycombinator.com/user?id=Arkanum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在軟件行業工作，大約在1989年
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32054181</id>
-        <link href="https://news.ycombinator.com/item?id=32054181"/>
-        <updated>2022-07-11T10:02:45.000Z</updated>
-        <summary type="html"><![CDATA[Working in the software industry, circa 1989]]></summary>
-        <author>
-            <name>firstSpeaker</name>
-            <uri>https://news.ycombinator.com/user?id=firstSpeaker</uri>
         </author>
     </entry>
 </feed>

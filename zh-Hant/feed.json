@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32429848",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32429848",
+            "title": "System.css: 一個用於構建復古蘋果界面的設計系統\n",
+            "summary": "System.css: A design system for building retro Apple interfaces",
+            "date_modified": "2022-08-11T18:29:50.000Z",
+            "author": {
+                "name": "surrTurr",
+                "url": "https://news.ycombinator.com/user?id=surrTurr"
+            },
+            "_original_headline": "System.css: A design system for building retro Apple interfaces",
+            "_original_url": "https://sakofchit.github.io/system.css/",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32430395",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32430395",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://webdevlaw.uk/2022/07/11/your-compliance-obligations-under-the-uks-online-safety-bill/",
             "_sensitive": false,
             "_score": 221
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32054181",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32054181",
-            "title": "在軟件行業工作，大約在1989年\n",
-            "summary": "Working in the software industry, circa 1989",
-            "date_modified": "2022-07-11T10:02:45.000Z",
-            "author": {
-                "name": "firstSpeaker",
-                "url": "https://news.ycombinator.com/user?id=firstSpeaker"
-            },
-            "_original_headline": "Working in the software industry, circa 1989",
-            "_original_url": "https://dev.jimgrey.net/2022/07/05/working-in-the-software-industry-circa-1989/",
-            "_sensitive": false,
-            "_score": 203
         }
     ]
 }
