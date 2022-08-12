@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-12T07:44:58.094Z</updated>
+    <updated>2022-08-12T09:30:03.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[山羊出租 - 租用山羊
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32434351</id>
+        <link href="https://news.ycombinator.com/item?id=32434351"/>
+        <updated>2022-08-12T03:10:05.000Z</updated>
+        <summary type="html"><![CDATA[Goat Rental – Hire Goats]]></summary>
+        <author>
+            <name>deanstag</name>
+            <uri>https://news.ycombinator.com/user?id=deanstag</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通用汽車強制要求GMC、別克、凱迪拉克車型繳納1500美元的會費
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>edelsohn</name>
             <uri>https://news.ycombinator.com/user?id=edelsohn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在沒有人的情況下獨自一人做任何事 (2014)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32053175</id>
-        <link href="https://news.ycombinator.com/item?id=32053175"/>
-        <updated>2022-07-11T07:09:13.000Z</updated>
-        <summary type="html"><![CDATA[How to Do Nothing with Nobody All Alone by Yourself (2014)]]></summary>
-        <author>
-            <name>fbn79</name>
-            <uri>https://news.ycombinator.com/user?id=fbn79</uri>
         </author>
     </entry>
 </feed>

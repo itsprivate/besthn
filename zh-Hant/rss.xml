@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 12 Aug 2022 07:44:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 09:30:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[山羊出租 - 租用山羊
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32434351</link>
+            <guid>https://news.ycombinator.com/item?id=32434351</guid>
+            <pubDate>Fri, 12 Aug 2022 03:10:05 GMT</pubDate>
+            <description><![CDATA[Goat Rental – Hire Goats]]></description>
+        </item>
         <item>
             <title><![CDATA[通用汽車強制要求GMC、別克、凱迪拉克車型繳納1500美元的會費
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32057116</guid>
             <pubDate>Mon, 11 Jul 2022 15:05:20 GMT</pubDate>
             <description><![CDATA[GCC Rust Approved by GCC Steering Committee]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何在沒有人的情況下獨自一人做任何事 (2014)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32053175</link>
-            <guid>https://news.ycombinator.com/item?id=32053175</guid>
-            <pubDate>Mon, 11 Jul 2022 07:09:13 GMT</pubDate>
-            <description><![CDATA[How to Do Nothing with Nobody All Alone by Yourself (2014)]]></description>
         </item>
     </channel>
 </rss>
