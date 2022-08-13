@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-13T14:45:04.894Z</updated>
+    <updated>2022-08-13T14:58:25.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[约翰-卡马克：最佳编程设置和IDE - Lex Fridman播客剪辑
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32447569</id>
+        <link href="https://news.ycombinator.com/item?id=32447569"/>
+        <updated>2022-08-13T07:04:31.000Z</updated>
+        <summary type="html"><![CDATA[John Carmack: Best Programming Setup and IDE – Lex Fridman Podcast Clips]]></summary>
+        <author>
+            <name>branko_d</name>
+            <uri>https://news.ycombinator.com/user?id=branko_d</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[现代汽车软件更新的私钥来自于谷歌上容易找到的样本代码
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pdxdmz</name>
             <uri>https://news.ycombinator.com/user?id=pdxdmz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[詹姆斯-韦伯望远镜面临的深刻的数据挑战
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32067945</id>
-        <link href="https://news.ycombinator.com/item?id=32067945"/>
-        <updated>2022-07-12T10:38:03.000Z</updated>
-        <summary type="html"><![CDATA[The James Webb Telescope’s Profound Data Challenges]]></summary>
-        <author>
-            <name>MindGods</name>
-            <uri>https://news.ycombinator.com/user?id=MindGods</uri>
         </author>
     </entry>
 </feed>
