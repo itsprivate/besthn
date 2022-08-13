@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32451024",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32451024",
+            "title": "雨中的PFAS：即使在南极洲和西藏，雨水也不安全，无法饮用\n",
+            "summary": "It’s raining PFAS: rainwater is unsafe to drink even in Antarctica and Tibet",
+            "date_modified": "2022-08-13T15:54:30.000Z",
+            "author": {
+                "name": "nabla9",
+                "url": "https://news.ycombinator.com/user?id=nabla9"
+            },
+            "_original_headline": "It’s raining PFAS: rainwater is unsafe to drink even in Antarctica and Tibet",
+            "_original_url": "https://www.su.se/english/news/it-s-raining-pfas-even-in-antarctica-and-on-the-tibetan-plateau-rainwater-is-unsafe-to-drink-1.620735",
+            "_sensitive": false,
+            "_score": 237
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32447569",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32447569",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://webbtelescope.org/news/news-releases?Collection=First%20Images",
             "_sensitive": false,
             "_score": 293
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32068647",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32068647",
-            "title": "不加控制的AB测试破坏了它所接触的一切\n",
-            "summary": "Unchecked AB testing destroys everything it touches",
-            "date_modified": "2022-07-12T12:05:46.000Z",
-            "author": {
-                "name": "pdxdmz",
-                "url": "https://news.ycombinator.com/user?id=pdxdmz"
-            },
-            "_original_headline": "Unchecked AB testing destroys everything it touches",
-            "_original_url": "https://www.zumsteg.net/2022/07/05/unchecked-ab-testing-destroys-everything-it-touches/",
-            "_sensitive": false,
-            "_score": 242
         }
     ]
 }

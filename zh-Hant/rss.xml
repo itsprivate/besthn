@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 13 Aug 2022 14:58:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 18:34:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[雨中的PFAS：即使在南極洲和西藏，雨水也不安全，無法飲用
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32451024</link>
+            <guid>https://news.ycombinator.com/item?id=32451024</guid>
+            <pubDate>Sat, 13 Aug 2022 15:54:30 GMT</pubDate>
+            <description><![CDATA[It’s raining PFAS: rainwater is unsafe to drink even in Antarctica and Tibet]]></description>
+        </item>
         <item>
             <title><![CDATA[約翰-卡馬克：最佳編程設置和IDE - Lex Fridman播客剪輯
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32071020</guid>
             <pubDate>Tue, 12 Jul 2022 15:03:49 GMT</pubDate>
             <description><![CDATA[James Webb first images – complete set of high resolution shots now live]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不加控制的AB測試破壞了它所接觸的一切
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32068647</link>
-            <guid>https://news.ycombinator.com/item?id=32068647</guid>
-            <pubDate>Tue, 12 Jul 2022 12:05:46 GMT</pubDate>
-            <description><![CDATA[Unchecked AB testing destroys everything it touches]]></description>
         </item>
     </channel>
 </rss>
