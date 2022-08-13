@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-13T18:34:25.783Z</updated>
+    <updated>2022-08-13T18:53:28.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[欧特克被35位知名建筑师批评（2020年）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32446907</id>
+        <link href="https://news.ycombinator.com/item?id=32446907"/>
+        <updated>2022-08-13T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Autodesk criticised by 35 named architects (2020)]]></summary>
+        <author>
+            <name>nsoonhui</name>
+            <uri>https://news.ycombinator.com/user?id=nsoonhui</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[雨中的PFAS：即使在南极洲和西藏，雨水也不安全，无法饮用
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[詹姆斯-韦伯的第一张图片--全套高分辨率照片现已上线
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32071020</id>
-        <link href="https://news.ycombinator.com/item?id=32071020"/>
-        <updated>2022-07-12T15:03:49.000Z</updated>
-        <summary type="html"><![CDATA[James Webb first images – complete set of high resolution shots now live]]></summary>
-        <author>
-            <name>crhulls</name>
-            <uri>https://news.ycombinator.com/user?id=crhulls</uri>
         </author>
     </entry>
 </feed>

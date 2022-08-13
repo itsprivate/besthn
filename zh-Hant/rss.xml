@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 13 Aug 2022 18:34:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 18:53:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[歐特克被35位知名建築師批評（2020年）
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32446907</link>
+            <guid>https://news.ycombinator.com/item?id=32446907</guid>
+            <pubDate>Sat, 13 Aug 2022 04:30:00 GMT</pubDate>
+            <description><![CDATA[Autodesk criticised by 35 named architects (2020)]]></description>
+        </item>
         <item>
             <title><![CDATA[雨中的PFAS：即使在南極洲和西藏，雨水也不安全，無法飲用
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32065472</guid>
             <pubDate>Tue, 12 Jul 2022 04:03:32 GMT</pubDate>
             <description><![CDATA[Commander Keen in Keen Dreams]]></description>
-        </item>
-        <item>
-            <title><![CDATA[詹姆斯-韋伯的第一張圖片--全套高分辨率照片現已上線
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32071020</link>
-            <guid>https://news.ycombinator.com/item?id=32071020</guid>
-            <pubDate>Tue, 12 Jul 2022 15:03:49 GMT</pubDate>
-            <description><![CDATA[James Webb first images – complete set of high resolution shots now live]]></description>
         </item>
     </channel>
 </rss>
