@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-13T21:00:31.607Z</updated>
+    <updated>2022-08-13T22:47:48.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["物流"，一部857小时的电影，追踪一个计步器从商店回到工厂的过程
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32449846</id>
+        <link href="https://news.ycombinator.com/item?id=32449846"/>
+        <updated>2022-08-13T13:48:14.000Z</updated>
+        <summary type="html"><![CDATA[“Logistics”, an 857-hour movie, tracks a pedometer from shop back to factory]]></summary>
+        <author>
+            <name>dzuc</name>
+            <uri>https://news.ycombinator.com/user?id=dzuc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个用于eInk设备的VNC浏览器，在书写文本时能够达到30FPS
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pimterry</name>
             <uri>https://news.ycombinator.com/user?id=pimterry</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：我们正在努力将尾部调用纳入WebAssembly标准。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32069418</id>
-        <link href="https://news.ycombinator.com/item?id=32069418"/>
-        <updated>2022-07-12T13:14:23.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: We are trying to get tail calls into the WebAssembly standard]]></summary>
-        <author>
-            <name>apignotti</name>
-            <uri>https://news.ycombinator.com/user?id=apignotti</uri>
         </author>
     </entry>
 </feed>

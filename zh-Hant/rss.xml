@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 13 Aug 2022 21:00:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 22:47:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA["物流"，一部857小時的電影，追蹤一個計步器從商店回到工廠的過程
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32449846</link>
+            <guid>https://news.ycombinator.com/item?id=32449846</guid>
+            <pubDate>Sat, 13 Aug 2022 13:48:14 GMT</pubDate>
+            <description><![CDATA[“Logistics”, an 857-hour movie, tracks a pedometer from shop back to factory]]></description>
+        </item>
         <item>
             <title><![CDATA[一個用於eInk設備的VNC瀏覽器，在書寫文本時能夠達到30FPS
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32071349</guid>
             <pubDate>Tue, 12 Jul 2022 15:28:10 GMT</pubDate>
             <description><![CDATA[Giving a shit as a service]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告訴HN：我們正在努力將尾部調用納入WebAssembly標準。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32069418</link>
-            <guid>https://news.ycombinator.com/item?id=32069418</guid>
-            <pubDate>Tue, 12 Jul 2022 13:14:23 GMT</pubDate>
-            <description><![CDATA[Tell HN: We are trying to get tail calls into the WebAssembly standard]]></description>
         </item>
     </channel>
 </rss>
