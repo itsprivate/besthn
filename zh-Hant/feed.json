@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32445203",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32445203",
+            "title": "本地模擬功能將從所有Autodesk Fusion 360版本中刪除\n",
+            "summary": "Local simulation feature to be removed from all Autodesk Fusion 360 versions",
+            "date_modified": "2022-08-12T23:31:22.000Z",
+            "author": {
+                "name": "d4a",
+                "url": "https://news.ycombinator.com/user?id=d4a"
+            },
+            "_original_headline": "Local simulation feature to be removed from all Autodesk Fusion 360 versions",
+            "_original_url": "https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/Updates-to-the-Fusion-360-Simulation-Extension.html",
+            "_sensitive": false,
+            "_score": 206
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32443544",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32443544",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://twitter.com/FatManTerra/status/1546791981032030208",
             "_sensitive": false,
             "_score": 213
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32068479",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32068479",
-            "title": "Uber洩密事件暴露了全球對工人的戰爭\n",
-            "summary": "The Uber leak exposes the global war on workers",
-            "date_modified": "2022-07-12T11:46:48.000Z",
-            "author": {
-                "name": "jrepinc",
-                "url": "https://news.ycombinator.com/user?id=jrepinc"
-            },
-            "_original_headline": "The Uber leak exposes the global war on workers",
-            "_original_url": "https://tribunemag.co.uk/2022/07/uber-files-leak-gig-economy",
-            "_sensitive": false,
-            "_score": 264
         }
     ]
 }

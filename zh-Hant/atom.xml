@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-13T03:39:34.430Z</updated>
+    <updated>2022-08-13T04:51:34.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[本地模擬功能將從所有Autodesk Fusion 360版本中刪除
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32445203</id>
+        <link href="https://news.ycombinator.com/item?id=32445203"/>
+        <updated>2022-08-12T23:31:22.000Z</updated>
+        <summary type="html"><![CDATA[Local simulation feature to be removed from all Autodesk Fusion 360 versions]]></summary>
+        <author>
+            <name>d4a</name>
+            <uri>https://news.ycombinator.com/user?id=d4a</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[流星或外星技術：哈佛大學教授計劃進行UFO考察
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mathgenius</name>
             <uri>https://news.ycombinator.com/user?id=mathgenius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uber洩密事件暴露了全球對工人的戰爭
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32068479</id>
-        <link href="https://news.ycombinator.com/item?id=32068479"/>
-        <updated>2022-07-12T11:46:48.000Z</updated>
-        <summary type="html"><![CDATA[The Uber leak exposes the global war on workers]]></summary>
-        <author>
-            <name>jrepinc</name>
-            <uri>https://news.ycombinator.com/user?id=jrepinc</uri>
         </author>
     </entry>
 </feed>
