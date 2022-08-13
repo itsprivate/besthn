@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32447339",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32447339",
+            "title": "ZOOM安裝程序讓研究人員黑進了macOS上的root權限\n",
+            "summary": "The Zoom installer let a researcher hack his way to root access on macOS",
+            "date_modified": "2022-08-13T06:05:47.000Z",
+            "author": {
+                "name": "neodypsis",
+                "url": "https://news.ycombinator.com/user?id=neodypsis"
+            },
+            "_original_headline": "The Zoom installer let a researcher hack his way to root access on macOS",
+            "_original_url": "https://www.theverge.com/2022/8/12/23303411/zoom-defcon-root-access-privilege-escalation-hack-patrick-wardle",
+            "_sensitive": false,
+            "_score": 312
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32440479",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32440479",
+            "title": "物流，他們是如何做到的，第三部分：行動中\n",
+            "summary": "Logistics, How Did They Do It, Part III: On the Move",
+            "date_modified": "2022-08-12T16:00:17.000Z",
+            "author": {
+                "name": "Tomte",
+                "url": "https://news.ycombinator.com/user?id=Tomte"
+            },
+            "_original_headline": "Logistics, How Did They Do It, Part III: On the Move",
+            "_original_url": "https://acoup.blog/2022/08/12/collections-logistics-how-did-they-do-it-part-iii-on-the-move/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32445192",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32445192",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://old.reddit.com/r/antiwork/comments/sqnla7/dominos_spent_504_million_and_counting_on_tv_ads/",
             "_sensitive": false,
             "_score": 206
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32069578",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32069578",
-            "title": "照片總是指著指針\n",
-            "summary": "Photos Always Pointing at the Pointer",
-            "date_modified": "2022-07-12T13:27:23.000Z",
-            "author": {
-                "name": "Gedxx",
-                "url": "https://news.ycombinator.com/user?id=Gedxx"
-            },
-            "_original_headline": "Photos Always Pointing at the Pointer",
-            "_original_url": "https://pointerpointer.com/",
-            "_sensitive": false,
-            "_score": 229
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32065026",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32065026",
-            "title": "在韓國，寶馬加熱座椅訂閱費用為每月18美元\n",
-            "summary": "BMW heated seats subscription costs $18 per month in South Korea",
-            "date_modified": "2022-07-12T02:54:04.000Z",
-            "author": {
-                "name": "ra7",
-                "url": "https://news.ycombinator.com/user?id=ra7"
-            },
-            "_original_headline": "BMW heated seats subscription costs $18 per month in South Korea",
-            "_original_url": "https://www.motor1.com/news/597376/bmw-heated-seats-subscription/",
-            "_sensitive": false,
-            "_score": 212
         }
     ]
 }

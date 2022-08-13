@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-13T05:04:54.241Z</updated>
+    <updated>2022-08-13T13:46:27.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ZOOM安裝程序讓研究人員黑進了macOS上的root權限
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32447339</id>
+        <link href="https://news.ycombinator.com/item?id=32447339"/>
+        <updated>2022-08-13T06:05:47.000Z</updated>
+        <summary type="html"><![CDATA[The Zoom installer let a researcher hack his way to root access on macOS]]></summary>
+        <author>
+            <name>neodypsis</name>
+            <uri>https://news.ycombinator.com/user?id=neodypsis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[物流，他們是如何做到的，第三部分：行動中
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32440479</id>
+        <link href="https://news.ycombinator.com/item?id=32440479"/>
+        <updated>2022-08-12T16:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Logistics, How Did They Do It, Part III: On the Move]]></summary>
+        <author>
+            <name>Tomte</name>
+            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CEO影子計劃
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ushakov</name>
             <uri>https://news.ycombinator.com/user?id=ushakov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[照片總是指著指針
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32069578</id>
-        <link href="https://news.ycombinator.com/item?id=32069578"/>
-        <updated>2022-07-12T13:27:23.000Z</updated>
-        <summary type="html"><![CDATA[Photos Always Pointing at the Pointer]]></summary>
-        <author>
-            <name>Gedxx</name>
-            <uri>https://news.ycombinator.com/user?id=Gedxx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在韓國，寶馬加熱座椅訂閱費用為每月18美元
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32065026</id>
-        <link href="https://news.ycombinator.com/item?id=32065026"/>
-        <updated>2022-07-12T02:54:04.000Z</updated>
-        <summary type="html"><![CDATA[BMW heated seats subscription costs $18 per month in South Korea]]></summary>
-        <author>
-            <name>ra7</name>
-            <uri>https://news.ycombinator.com/user?id=ra7</uri>
         </author>
     </entry>
 </feed>
