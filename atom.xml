@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-13T22:47:48.737Z</updated>
+    <updated>2022-08-13T23:27:58.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Zellij。一个包含电池的终端工作区
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32444564</id>
+        <link href="https://news.ycombinator.com/item?id=32444564"/>
+        <updated>2022-08-12T22:11:23.000Z</updated>
+        <summary type="html"><![CDATA[Zellij: A terminal workspace with batteries included]]></summary>
+        <author>
+            <name>cassepipe</name>
+            <uri>https://news.ycombinator.com/user?id=cassepipe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["物流"，一部857小时的电影，追踪一个计步器从商店回到工厂的过程
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jgrahamc</name>
             <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给人以粪便作为一种服务
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32071349</id>
-        <link href="https://news.ycombinator.com/item?id=32071349"/>
-        <updated>2022-07-12T15:28:10.000Z</updated>
-        <summary type="html"><![CDATA[Giving a shit as a service]]></summary>
-        <author>
-            <name>pimterry</name>
-            <uri>https://news.ycombinator.com/user?id=pimterry</uri>
         </author>
     </entry>
 </feed>
