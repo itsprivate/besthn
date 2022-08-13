@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 13 Aug 2022 18:53:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 21:00:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个用于eInk设备的VNC浏览器，在书写文本时能够达到30FPS
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32449857</link>
+            <guid>https://news.ycombinator.com/item?id=32449857</guid>
+            <pubDate>Sat, 13 Aug 2022 13:49:21 GMT</pubDate>
+            <description><![CDATA[Show HN: A VNC viewer for eInk devices capable of 30 FPS when writing text]]></description>
+        </item>
         <item>
             <title><![CDATA[欧特克被35位知名建筑师批评（2020年）
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32069418</guid>
             <pubDate>Tue, 12 Jul 2022 13:14:23 GMT</pubDate>
             <description><![CDATA[Tell HN: We are trying to get tail calls into the WebAssembly standard]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基恩梦想中的基恩指挥官
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32065472</link>
-            <guid>https://news.ycombinator.com/item?id=32065472</guid>
-            <pubDate>Tue, 12 Jul 2022 04:03:32 GMT</pubDate>
-            <description><![CDATA[Commander Keen in Keen Dreams]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-13T18:53:28.743Z</updated>
+    <updated>2022-08-13T21:00:31.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個用於eInk設備的VNC瀏覽器，在書寫文本時能夠達到30FPS
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32449857</id>
+        <link href="https://news.ycombinator.com/item?id=32449857"/>
+        <updated>2022-08-13T13:49:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A VNC viewer for eInk devices capable of 30 FPS when writing text]]></summary>
+        <author>
+            <name>dailyanchovy</name>
+            <uri>https://news.ycombinator.com/user?id=dailyanchovy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[歐特克被35位知名建築師批評（2020年）
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>apignotti</name>
             <uri>https://news.ycombinator.com/user?id=apignotti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基恩夢想中的基恩指揮官
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32065472</id>
-        <link href="https://news.ycombinator.com/item?id=32065472"/>
-        <updated>2022-07-12T04:03:32.000Z</updated>
-        <summary type="html"><![CDATA[Commander Keen in Keen Dreams]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
