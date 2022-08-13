@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32447650",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32447650",
+            "title": "现代汽车软件更新的私钥来自于谷歌上容易找到的样本代码\n",
+            "summary": "Hyundai car software update private keys came from easily Googleable sample code",
+            "date_modified": "2022-08-13T07:22:39.000Z",
+            "author": {
+                "name": "ytpete",
+                "url": "https://news.ycombinator.com/user?id=ytpete"
+            },
+            "_original_headline": "Hyundai car software update private keys came from easily Googleable sample code",
+            "_original_url": "https://programmingwithstyle.com/posts/howihackedmycar/",
+            "_sensitive": false,
+            "_score": 216
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32448825",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32448825",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://spectrum.ieee.org/james-webb-telescope-communications",
             "_sensitive": false,
             "_score": 204
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32067019",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32067019",
-            "title": "用Rust编程一个类似流氓的东西\n",
-            "summary": "Programming a Rogue-Like with Rust",
-            "date_modified": "2022-07-12T08:29:20.000Z",
-            "author": {
-                "name": "wsc981",
-                "url": "https://news.ycombinator.com/user?id=wsc981"
-            },
-            "_original_headline": "Programming a Rogue-Like with Rust",
-            "_original_url": "https://bfnightly.bracketproductions.com/rustbook/chapter_0.html",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-13T14:26:54.963Z</updated>
+    <updated>2022-08-13T14:45:04.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[现代汽车软件更新的私钥来自于谷歌上容易找到的样本代码
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32447650</id>
+        <link href="https://news.ycombinator.com/item?id=32447650"/>
+        <updated>2022-08-13T07:22:39.000Z</updated>
+        <summary type="html"><![CDATA[Hyundai car software update private keys came from easily Googleable sample code]]></summary>
+        <author>
+            <name>ytpete</name>
+            <uri>https://news.ycombinator.com/user?id=ytpete</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[还有人觉得房地产的商品化是不道德的吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>MindGods</name>
             <uri>https://news.ycombinator.com/user?id=MindGods</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Rust编程一个类似流氓的东西
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32067019</id>
-        <link href="https://news.ycombinator.com/item?id=32067019"/>
-        <updated>2022-07-12T08:29:20.000Z</updated>
-        <summary type="html"><![CDATA[Programming a Rogue-Like with Rust]]></summary>
-        <author>
-            <name>wsc981</name>
-            <uri>https://news.ycombinator.com/user?id=wsc981</uri>
         </author>
     </entry>
 </feed>

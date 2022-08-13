@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 13 Aug 2022 14:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 14:45:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[現代汽車軟件更新的私鑰來自於谷歌上容易找到的樣本代碼
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32447650</link>
+            <guid>https://news.ycombinator.com/item?id=32447650</guid>
+            <pubDate>Sat, 13 Aug 2022 07:22:39 GMT</pubDate>
+            <description><![CDATA[Hyundai car software update private keys came from easily Googleable sample code]]></description>
+        </item>
         <item>
             <title><![CDATA[還有人覺得房地產的商品化是不道德的嗎？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32067945</guid>
             <pubDate>Tue, 12 Jul 2022 10:38:03 GMT</pubDate>
             <description><![CDATA[The James Webb Telescope’s Profound Data Challenges]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Rust編程一個類似流氓的東西
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32067019</link>
-            <guid>https://news.ycombinator.com/item?id=32067019</guid>
-            <pubDate>Tue, 12 Jul 2022 08:29:20 GMT</pubDate>
-            <description><![CDATA[Programming a Rogue-Like with Rust]]></description>
         </item>
     </channel>
 </rss>
