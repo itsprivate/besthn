@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-13T02:17:58.915Z</updated>
+    <updated>2022-08-13T03:39:34.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[流星或外星技术：哈佛大学教授计划进行UFO考察
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32443544</id>
+        <link href="https://news.ycombinator.com/item?id=32443544"/>
+        <updated>2022-08-12T20:33:30.000Z</updated>
+        <summary type="html"><![CDATA[A meteor or alien tech: Harvard professor plans UFO expedition]]></summary>
+        <author>
+            <name>metadat</name>
+            <uri>https://news.ycombinator.com/user?id=metadat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寒冷中的癌症
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32440688</id>
+        <link href="https://news.ycombinator.com/item?id=32440688"/>
+        <updated>2022-08-12T16:17:53.000Z</updated>
+        <summary type="html"><![CDATA[Cancer in the Cold]]></summary>
+        <author>
+            <name>_Microft</name>
+            <uri>https://news.ycombinator.com/user?id=_Microft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VLC媒体播放器在印度被禁
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>jrepinc</name>
             <uri>https://news.ycombinator.com/user?id=jrepinc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对UEFI安全启动生态系统进行负责任的管理
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32066919</id>
-        <link href="https://news.ycombinator.com/item?id=32066919"/>
-        <updated>2022-07-12T08:12:54.000Z</updated>
-        <summary type="html"><![CDATA[Responsible stewardship of the UEFI Secure Boot ecosystem]]></summary>
-        <author>
-            <name>Harvesterify</name>
-            <uri>https://news.ycombinator.com/user?id=Harvesterify</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[莫-法拉赫爵士透露他曾用另一个孩子的名字被贩卖到英国
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32063341</id>
-        <link href="https://news.ycombinator.com/item?id=32063341"/>
-        <updated>2022-07-11T23:08:13.000Z</updated>
-        <summary type="html"><![CDATA[Sir Mo Farah reveals he was trafficked into the UK using another child’s name]]></summary>
-        <author>
-            <name>nigerian1981</name>
-            <uri>https://news.ycombinator.com/user?id=nigerian1981</uri>
         </author>
     </entry>
 </feed>
