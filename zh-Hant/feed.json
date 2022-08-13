@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32445192",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32445192",
+            "title": "CEO影子計劃\n",
+            "summary": "CEO Shadow Program",
+            "date_modified": "2022-08-12T23:29:19.000Z",
+            "author": {
+                "name": "romanzubenko",
+                "url": "https://news.ycombinator.com/user?id=romanzubenko"
+            },
+            "_original_headline": "CEO Shadow Program",
+            "_original_url": "https://about.gitlab.com/handbook/ceo/shadow/",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32445203",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32445203",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.motor1.com/news/597376/bmw-heated-seats-subscription/",
             "_sensitive": false,
             "_score": 212
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32068164",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32068164",
-            "title": "我看到我的一個朋友通過購買廣告牌在Binance上抽出一個狗屎幣。\n",
-            "summary": "I watched a friend of mine pump a shitcoin on Binance by buying billboards",
-            "date_modified": "2022-07-12T11:06:46.000Z",
-            "author": {
-                "name": "mathgenius",
-                "url": "https://news.ycombinator.com/user?id=mathgenius"
-            },
-            "_original_headline": "I watched a friend of mine pump a shitcoin on Binance by buying billboards",
-            "_original_url": "https://twitter.com/FatManTerra/status/1546791981032030208",
-            "_sensitive": false,
-            "_score": 213
         }
     ]
 }
