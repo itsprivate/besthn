@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-13T13:46:27.881Z</updated>
+    <updated>2022-08-13T14:26:55.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[還有人覺得房地產的商品化是不道德的嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32448825</id>
+        <link href="https://news.ycombinator.com/item?id=32448825"/>
+        <updated>2022-08-13T11:24:52.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Anyone else feels the commoditization of real estate is unethical?]]></summary>
+        <author>
+            <name>newbie578</name>
+            <uri>https://news.ycombinator.com/user?id=newbie578</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZOOM安裝程序讓研究人員黑進了macOS上的root權限
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>wsc981</name>
             <uri>https://news.ycombinator.com/user?id=wsc981</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多米諾公司花5040萬美元做電視廣告，吹噓10萬美元的捐款
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32070067</id>
-        <link href="https://news.ycombinator.com/item?id=32070067"/>
-        <updated>2022-07-12T14:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Domino's spent $50.4M on TV ads to brag about $100k donation]]></summary>
-        <author>
-            <name>ushakov</name>
-            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
         </author>
     </entry>
 </feed>

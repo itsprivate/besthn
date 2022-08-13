@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 13 Aug 2022 13:46:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 14:26:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[还有人觉得房地产的商品化是不道德的吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32448825</link>
+            <guid>https://news.ycombinator.com/item?id=32448825</guid>
+            <pubDate>Sat, 13 Aug 2022 11:24:52 GMT</pubDate>
+            <description><![CDATA[Ask HN: Anyone else feels the commoditization of real estate is unethical?]]></description>
+        </item>
         <item>
             <title><![CDATA[ZOOM安装程序让研究人员黑进了macOS上的root权限
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32067019</guid>
             <pubDate>Tue, 12 Jul 2022 08:29:20 GMT</pubDate>
             <description><![CDATA[Programming a Rogue-Like with Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[多米诺公司花5040万美元做电视广告，吹嘘10万美元的捐款
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32070067</link>
-            <guid>https://news.ycombinator.com/item?id=32070067</guid>
-            <pubDate>Tue, 12 Jul 2022 14:00:18 GMT</pubDate>
-            <description><![CDATA[Domino's spent $50.4M on TV ads to brag about $100k donation]]></description>
         </item>
     </channel>
 </rss>
