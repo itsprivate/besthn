@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-14T12:49:13.342Z</updated>
+    <updated>2022-08-14T17:58:44.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[人工智能编程范式 (1992)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32458048</id>
+        <link href="https://news.ycombinator.com/item?id=32458048"/>
+        <updated>2022-08-14T10:16:34.000Z</updated>
+        <summary type="html"><![CDATA[Paradigms of Artificial Intelligence Programming (1992)]]></summary>
+        <author>
+            <name>RafelMri</name>
+            <uri>https://news.ycombinator.com/user?id=RafelMri</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OctoPrint。为您的3D打印机提供快捷的网络界面
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pantalaimon</name>
             <uri>https://news.ycombinator.com/user?id=pantalaimon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯里兰卡正在发生一场教科书般的货币危机，由政策错误引发
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32077834</id>
-        <link href="https://news.ycombinator.com/item?id=32077834"/>
-        <updated>2022-07-13T01:06:56.000Z</updated>
-        <summary type="html"><![CDATA[Sri Lanka is having a textbook currency crisis, triggered by policy mistakes]]></summary>
-        <author>
-            <name>paulpauper</name>
-            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
         </author>
     </entry>
 </feed>

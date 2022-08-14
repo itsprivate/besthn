@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32458048",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32458048",
+            "title": "人工智能編程範式 (1992)\n",
+            "summary": "Paradigms of Artificial Intelligence Programming (1992)",
+            "date_modified": "2022-08-14T10:16:34.000Z",
+            "author": {
+                "name": "RafelMri",
+                "url": "https://news.ycombinator.com/user?id=RafelMri"
+            },
+            "_original_headline": "Paradigms of Artificial Intelligence Programming (1992)",
+            "_original_url": "https://github.com/norvig/paip-lisp",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32455408",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32455408",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://dmitry.gr/?r=05.Projects&proj=33.%20LinuxCard",
             "_sensitive": false,
             "_score": 208
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32077834",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32077834",
-            "title": "斯里蘭卡正在發生一場教科書般的貨幣危機，由政策錯誤引發\n",
-            "summary": "Sri Lanka is having a textbook currency crisis, triggered by policy mistakes",
-            "date_modified": "2022-07-13T01:06:56.000Z",
-            "author": {
-                "name": "paulpauper",
-                "url": "https://news.ycombinator.com/user?id=paulpauper"
-            },
-            "_original_headline": "Sri Lanka is having a textbook currency crisis, triggered by policy mistakes",
-            "_original_url": "https://noahpinion.substack.com/p/why-sri-lanka-is-having-an-economic",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }

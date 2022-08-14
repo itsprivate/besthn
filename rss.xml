@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 14 Aug 2022 12:49:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 17:58:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[人工智能编程范式 (1992)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32458048</link>
+            <guid>https://news.ycombinator.com/item?id=32458048</guid>
+            <pubDate>Sun, 14 Aug 2022 10:16:34 GMT</pubDate>
+            <description><![CDATA[Paradigms of Artificial Intelligence Programming (1992)]]></description>
+        </item>
         <item>
             <title><![CDATA[OctoPrint。为您的3D打印机提供快捷的网络界面
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32077823</guid>
             <pubDate>Wed, 13 Jul 2022 01:03:51 GMT</pubDate>
             <description><![CDATA[My business card runs Linux]]></description>
-        </item>
-        <item>
-            <title><![CDATA[斯里兰卡正在发生一场教科书般的货币危机，由政策错误引发
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32077834</link>
-            <guid>https://news.ycombinator.com/item?id=32077834</guid>
-            <pubDate>Wed, 13 Jul 2022 01:06:56 GMT</pubDate>
-            <description><![CDATA[Sri Lanka is having a textbook currency crisis, triggered by policy mistakes]]></description>
         </item>
     </channel>
 </rss>
