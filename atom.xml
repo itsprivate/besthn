@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-14T02:41:09.363Z</updated>
+    <updated>2022-08-14T03:49:45.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[古怪的计算机书籍
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32452673</id>
+        <link href="https://news.ycombinator.com/item?id=32452673"/>
+        <updated>2022-08-13T18:53:42.000Z</updated>
+        <summary type="html"><![CDATA[Quirky computing books]]></summary>
+        <author>
+            <name>llvm</name>
+            <uri>https://news.ycombinator.com/user?id=llvm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么是TTY？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Koffiepoeder</name>
             <uri>https://news.ycombinator.com/user?id=Koffiepoeder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将韦伯的图像与哈勃进行比较
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32074068</id>
-        <link href="https://news.ycombinator.com/item?id=32074068"/>
-        <updated>2022-07-12T18:41:32.000Z</updated>
-        <summary type="html"><![CDATA[Compare Webb's Images to Hubble]]></summary>
-        <author>
-            <name>hexomancer</name>
-            <uri>https://news.ycombinator.com/user?id=hexomancer</uri>
         </author>
     </entry>
 </feed>
