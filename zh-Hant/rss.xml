@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 14 Aug 2022 05:00:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 05:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[2022年奧德河環境災難
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32450020</link>
+            <guid>https://news.ycombinator.com/item?id=32450020</guid>
+            <pubDate>Sat, 13 Aug 2022 14:08:14 GMT</pubDate>
+            <description><![CDATA[2022 Oder Environmental Disaster]]></description>
+        </item>
+        <item>
+            <title><![CDATA[尼泊爾歷史遺蹟被影響者霸佔，歷史遺蹟禁止TikTok創作者使用
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32435027</link>
+            <guid>https://news.ycombinator.com/item?id=32435027</guid>
+            <pubDate>Fri, 12 Aug 2022 05:37:55 GMT</pubDate>
+            <description><![CDATA[Overrun by influencers, historic sites are banning TikTok creators in Nepal]]></description>
+        </item>
         <item>
             <title><![CDATA[星際爭霸之路的艱難時刻 (2012)
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32075032</guid>
             <pubDate>Tue, 12 Jul 2022 20:13:19 GMT</pubDate>
             <description><![CDATA[My experience writing and selling a short story]]></description>
-        </item>
-        <item>
-            <title><![CDATA[發表你的作品會增加你的運氣
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32071137</link>
-            <guid>https://news.ycombinator.com/item?id=32071137</guid>
-            <pubDate>Tue, 12 Jul 2022 15:12:41 GMT</pubDate>
-            <description><![CDATA[Publishing your work increases your luck]]></description>
-        </item>
-        <item>
-            <title><![CDATA[重讀。新的投機執行攻擊讓英特爾和AMD亂了陣腳
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32071949</link>
-            <guid>https://news.ycombinator.com/item?id=32071949</guid>
-            <pubDate>Tue, 12 Jul 2022 16:07:05 GMT</pubDate>
-            <description><![CDATA[Retbleed: New speculative execution attack sends Intel and AMD scrambling]]></description>
         </item>
     </channel>
 </rss>

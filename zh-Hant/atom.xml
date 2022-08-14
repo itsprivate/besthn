@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-14T05:00:40.609Z</updated>
+    <updated>2022-08-14T05:26:58.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年奧德河環境災難
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32450020</id>
+        <link href="https://news.ycombinator.com/item?id=32450020"/>
+        <updated>2022-08-13T14:08:14.000Z</updated>
+        <summary type="html"><![CDATA[2022 Oder Environmental Disaster]]></summary>
+        <author>
+            <name>Red_Tarsius</name>
+            <uri>https://news.ycombinator.com/user?id=Red_Tarsius</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尼泊爾歷史遺蹟被影響者霸佔，歷史遺蹟禁止TikTok創作者使用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32435027</id>
+        <link href="https://news.ycombinator.com/item?id=32435027"/>
+        <updated>2022-08-12T05:37:55.000Z</updated>
+        <summary type="html"><![CDATA[Overrun by influencers, historic sites are banning TikTok creators in Nepal]]></summary>
+        <author>
+            <name>elsewhen</name>
+            <uri>https://news.ycombinator.com/user?id=elsewhen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[星際爭霸之路的艱難時刻 (2012)
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>superamit</name>
             <uri>https://news.ycombinator.com/user?id=superamit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[發表你的作品會增加你的運氣
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32071137</id>
-        <link href="https://news.ycombinator.com/item?id=32071137"/>
-        <updated>2022-07-12T15:12:41.000Z</updated>
-        <summary type="html"><![CDATA[Publishing your work increases your luck]]></summary>
-        <author>
-            <name>aarondf</name>
-            <uri>https://news.ycombinator.com/user?id=aarondf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重讀。新的投機執行攻擊讓英特爾和AMD亂了陣腳
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32071949</id>
-        <link href="https://news.ycombinator.com/item?id=32071949"/>
-        <updated>2022-07-12T16:07:05.000Z</updated>
-        <summary type="html"><![CDATA[Retbleed: New speculative execution attack sends Intel and AMD scrambling]]></summary>
-        <author>
-            <name>ndesaulniers</name>
-            <uri>https://news.ycombinator.com/user?id=ndesaulniers</uri>
         </author>
     </entry>
 </feed>

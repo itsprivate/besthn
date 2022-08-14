@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32450020",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32450020",
+            "title": "2022年奧德河環境災難\n",
+            "summary": "2022 Oder Environmental Disaster",
+            "date_modified": "2022-08-13T14:08:14.000Z",
+            "author": {
+                "name": "Red_Tarsius",
+                "url": "https://news.ycombinator.com/user?id=Red_Tarsius"
+            },
+            "_original_headline": "2022 Oder Environmental Disaster",
+            "_original_url": "https://en.wikipedia.org/wiki/2022_Oder_environmental_disaster",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32435027",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32435027",
+            "title": "尼泊爾歷史遺蹟被影響者霸佔，歷史遺蹟禁止TikTok創作者使用\n",
+            "summary": "Overrun by influencers, historic sites are banning TikTok creators in Nepal",
+            "date_modified": "2022-08-12T05:37:55.000Z",
+            "author": {
+                "name": "elsewhen",
+                "url": "https://news.ycombinator.com/user?id=elsewhen"
+            },
+            "_original_headline": "Overrun by influencers, historic sites are banning TikTok creators in Nepal",
+            "_original_url": "https://restofworld.org/2022/nepals-historic-sites-banning-tiktok-creators/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32446653",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32446653",
@@ -9575,38 +9607,6 @@
             },
             "_original_headline": "My experience writing and selling a short story",
             "_original_url": "https://superamit.substack.com/p/short-stories-how-much-do-you-make",
-            "_sensitive": false,
-            "_score": 203
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32071137",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32071137",
-            "title": "發表你的作品會增加你的運氣\n",
-            "summary": "Publishing your work increases your luck",
-            "date_modified": "2022-07-12T15:12:41.000Z",
-            "author": {
-                "name": "aarondf",
-                "url": "https://news.ycombinator.com/user?id=aarondf"
-            },
-            "_original_headline": "Publishing your work increases your luck",
-            "_original_url": "https://github.com/readme/guides/publishing-your-work",
-            "_sensitive": false,
-            "_score": 213
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32071949",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32071949",
-            "title": "重讀。新的投機執行攻擊讓英特爾和AMD亂了陣腳\n",
-            "summary": "Retbleed: New speculative execution attack sends Intel and AMD scrambling",
-            "date_modified": "2022-07-12T16:07:05.000Z",
-            "author": {
-                "name": "ndesaulniers",
-                "url": "https://news.ycombinator.com/user?id=ndesaulniers"
-            },
-            "_original_headline": "Retbleed: New speculative execution attack sends Intel and AMD scrambling",
-            "_original_url": "https://arstechnica.com/information-technology/2022/07/intel-and-amd-cpus-vulnerable-to-a-new-speculative-execution-attack/",
             "_sensitive": false,
             "_score": 203
         }
