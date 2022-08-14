@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-14T19:44:31.322Z</updated>
+    <updated>2022-08-14T20:29:42.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[三篇论文强调了创纪录产量的核聚变射击的结果
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32459189</id>
+        <link href="https://news.ycombinator.com/item?id=32459189"/>
+        <updated>2022-08-14T13:45:18.000Z</updated>
+        <summary type="html"><![CDATA[Three papers highlight results of record yield nuclear fusion shot]]></summary>
+        <author>
+            <name>signa11</name>
+            <uri>https://news.ycombinator.com/user?id=signa11</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[彬彬有礼的JavaScript能否夺取Node的桂冠
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jstanley</name>
             <uri>https://news.ycombinator.com/user?id=jstanley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[发酵辣椒 "开放酱"--我的最主要的 repo 中没有代码
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32079434</id>
-        <link href="https://news.ycombinator.com/item?id=32079434"/>
-        <updated>2022-07-13T05:57:06.000Z</updated>
-        <summary type="html"><![CDATA[Fermented Chili “Open Sauce” – My most starred repo has no code in it]]></summary>
-        <author>
-            <name>axiomdata316</name>
-            <uri>https://news.ycombinator.com/user?id=axiomdata316</uri>
         </author>
     </entry>
 </feed>
