@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-13T23:27:58.641Z</updated>
+    <updated>2022-08-14T02:41:09.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什么是TTY？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32449772</id>
+        <link href="https://news.ycombinator.com/item?id=32449772"/>
+        <updated>2022-08-13T13:39:40.000Z</updated>
+        <summary type="html"><![CDATA[What is TTY?]]></summary>
+        <author>
+            <name>arunc</name>
+            <uri>https://news.ycombinator.com/user?id=arunc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[铸铁网罩
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32448621</id>
+        <link href="https://news.ycombinator.com/item?id=32448621"/>
+        <updated>2022-08-13T10:55:54.000Z</updated>
+        <summary type="html"><![CDATA[Cast iron leet]]></summary>
+        <author>
+            <name>tsujp</name>
+            <uri>https://news.ycombinator.com/user?id=tsujp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zellij。一个包含电池的终端工作区
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>hexomancer</name>
             <uri>https://news.ycombinator.com/user?id=hexomancer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[调查发现，国家彩票将财富从贫困社区转移出去
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32064882</id>
-        <link href="https://news.ycombinator.com/item?id=32064882"/>
-        <updated>2022-07-12T02:31:40.000Z</updated>
-        <summary type="html"><![CDATA[State lotteries transfer wealth out of needy communities, investigation finds]]></summary>
-        <author>
-            <name>prostoalex</name>
-            <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用二维码的访客WiFi
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32069926</id>
-        <link href="https://news.ycombinator.com/item?id=32069926"/>
-        <updated>2022-07-12T13:52:44.000Z</updated>
-        <summary type="html"><![CDATA[Guest WiFi using a QR code]]></summary>
-        <author>
-            <name>jgrahamc</name>
-            <uri>https://news.ycombinator.com/user?id=jgrahamc</uri>
         </author>
     </entry>
 </feed>
