@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-14T06:33:55.851Z</updated>
+    <updated>2022-08-14T12:49:13.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[OctoPrint。為您的3D打印機提供快捷的網絡界面
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32455408</id>
+        <link href="https://news.ycombinator.com/item?id=32455408"/>
+        <updated>2022-08-14T01:17:54.000Z</updated>
+        <summary type="html"><![CDATA[OctoPrint: Snappy web interface for your 3D printer]]></summary>
+        <author>
+            <name>pabs3</name>
+            <uri>https://news.ycombinator.com/user?id=pabs3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[搶劫銀行以取回自己的錢的男子被譽為民族英雄
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>paulpauper</name>
             <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這裡有人從事過Windows內核的工作嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32076677</id>
-        <link href="https://news.ycombinator.com/item?id=32076677"/>
-        <updated>2022-07-12T22:40:10.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Has anyone here worked on the Windows kernel?]]></summary>
-        <author>
-            <name>maybekerneldev</name>
-            <uri>https://news.ycombinator.com/user?id=maybekerneldev</uri>
         </author>
     </entry>
 </feed>
