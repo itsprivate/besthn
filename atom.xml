@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-14T03:49:45.515Z</updated>
+    <updated>2022-08-14T05:00:40.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[星际争霸之路的艰难时刻 (2012)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32446653</id>
+        <link href="https://news.ycombinator.com/item?id=32446653"/>
+        <updated>2022-08-13T03:34:10.000Z</updated>
+        <summary type="html"><![CDATA[Tough times on the road to Starcraft (2012)]]></summary>
+        <author>
+            <name>davikr</name>
+            <uri>https://news.ycombinator.com/user?id=davikr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[古怪的计算机书籍
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ndesaulniers</name>
             <uri>https://news.ycombinator.com/user?id=ndesaulniers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISO对土耳其的改名
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32066453</id>
-        <link href="https://news.ycombinator.com/item?id=32066453"/>
-        <updated>2022-07-12T06:47:16.000Z</updated>
-        <summary type="html"><![CDATA[ISO name change for Türkiye]]></summary>
-        <author>
-            <name>Koffiepoeder</name>
-            <uri>https://news.ycombinator.com/user?id=Koffiepoeder</uri>
         </author>
     </entry>
 </feed>
