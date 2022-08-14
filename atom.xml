@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-14T05:26:58.372Z</updated>
+    <updated>2022-08-14T06:33:55.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[抢劫银行以取回自己的钱的男子被誉为民族英雄
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32453990</id>
+        <link href="https://news.ycombinator.com/item?id=32453990"/>
+        <updated>2022-08-13T21:32:39.000Z</updated>
+        <summary type="html"><![CDATA[Man who robbed bank to get his own money back hailed as national hero]]></summary>
+        <author>
+            <name>drexlspivey</name>
+            <uri>https://news.ycombinator.com/user?id=drexlspivey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年奥德河环境灾难
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>maybekerneldev</name>
             <uri>https://news.ycombinator.com/user?id=maybekerneldev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我写和卖短篇小说的经历
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32075032</id>
-        <link href="https://news.ycombinator.com/item?id=32075032"/>
-        <updated>2022-07-12T20:13:19.000Z</updated>
-        <summary type="html"><![CDATA[My experience writing and selling a short story]]></summary>
-        <author>
-            <name>superamit</name>
-            <uri>https://news.ycombinator.com/user?id=superamit</uri>
         </author>
     </entry>
 </feed>

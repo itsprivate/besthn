@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 14 Aug 2022 05:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 06:33:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[抢劫银行以取回自己的钱的男子被誉为民族英雄
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32453990</link>
+            <guid>https://news.ycombinator.com/item?id=32453990</guid>
+            <pubDate>Sat, 13 Aug 2022 21:32:39 GMT</pubDate>
+            <description><![CDATA[Man who robbed bank to get his own money back hailed as national hero]]></description>
+        </item>
         <item>
             <title><![CDATA[2022年奥德河环境灾难
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32076677</guid>
             <pubDate>Tue, 12 Jul 2022 22:40:10 GMT</pubDate>
             <description><![CDATA[Ask HN: Has anyone here worked on the Windows kernel?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我写和卖短篇小说的经历
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32075032</link>
-            <guid>https://news.ycombinator.com/item?id=32075032</guid>
-            <pubDate>Tue, 12 Jul 2022 20:13:19 GMT</pubDate>
-            <description><![CDATA[My experience writing and selling a short story]]></description>
         </item>
     </channel>
 </rss>
