@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-14T23:28:20.726Z</updated>
+    <updated>2022-08-14T23:46:26.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[消费级产品的质量下降--2009年冰箱压缩机尸检
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32462954</id>
+        <link href="https://news.ycombinator.com/item?id=32462954"/>
+        <updated>2022-08-14T21:09:45.000Z</updated>
+        <summary type="html"><![CDATA[Declining quality of consumer-grade products – 2009 fridge compressor autopsy]]></summary>
+        <author>
+            <name>userbinator</name>
+            <uri>https://news.ycombinator.com/user?id=userbinator</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[约翰迪尔拖拉机乘着 "维修权 "的浪潮实现新的越狱
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sylvain_kerkour</name>
             <uri>https://news.ycombinator.com/user?id=sylvain_kerkour</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌放慢招聘速度，只招聘 "技术和关键角色"。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32077029</id>
-        <link href="https://news.ycombinator.com/item?id=32077029"/>
-        <updated>2022-07-12T23:16:04.000Z</updated>
-        <summary type="html"><![CDATA[Google slowing hiring to “technical and critical roles” only]]></summary>
-        <author>
-            <name>obnauticus</name>
-            <uri>https://news.ycombinator.com/user?id=obnauticus</uri>
         </author>
     </entry>
 </feed>

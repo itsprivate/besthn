@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32462954",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32462954",
+            "title": "消费级产品的质量下降--2009年冰箱压缩机尸检\n",
+            "summary": "Declining quality of consumer-grade products – 2009 fridge compressor autopsy",
+            "date_modified": "2022-08-14T21:09:45.000Z",
+            "author": {
+                "name": "userbinator",
+                "url": "https://news.ycombinator.com/user?id=userbinator"
+            },
+            "_original_headline": "Declining quality of consumer-grade products – 2009 fridge compressor autopsy",
+            "_original_url": "https://www.automaticwasher.org/cgi-bin/TD/TD-VIEWTHREADM.cgi?91066_2",
+            "_sensitive": false,
+            "_score": 205
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32457590",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32457590",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.deepsouthventures.com/i-sell-onions-on-the-internet/",
             "_sensitive": false,
             "_score": 203
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32077029",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32077029",
-            "title": "谷歌放慢招聘速度，只招聘 \"技术和关键角色\"。\n",
-            "summary": "Google slowing hiring to “technical and critical roles” only",
-            "date_modified": "2022-07-12T23:16:04.000Z",
-            "author": {
-                "name": "obnauticus",
-                "url": "https://news.ycombinator.com/user?id=obnauticus"
-            },
-            "_original_headline": "Google slowing hiring to “technical and critical roles” only",
-            "_original_url": "https://www.theverge.com/2022/7/12/23206113/google-ceo-sundar-pichai-memo-hiring-slowdown-2022",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }
