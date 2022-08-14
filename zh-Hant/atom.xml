@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-14T23:46:26.133Z</updated>
+    <updated>2022-08-14T23:59:25.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Cloud.gov
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32459857</id>
+        <link href="https://news.ycombinator.com/item?id=32459857"/>
+        <updated>2022-08-14T15:05:49.000Z</updated>
+        <summary type="html"><![CDATA[Cloud.gov]]></summary>
+        <author>
+            <name>gmays</name>
+            <uri>https://news.ycombinator.com/user?id=gmays</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[消費級產品的質量下降--2009年冰箱壓縮機屍檢
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Luc</name>
             <uri>https://news.ycombinator.com/user?id=Luc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在網上賣洋蔥 (2019)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32053044</id>
-        <link href="https://news.ycombinator.com/item?id=32053044"/>
-        <updated>2022-07-11T06:48:32.000Z</updated>
-        <summary type="html"><![CDATA[I Sell Onions on the Internet (2019)]]></summary>
-        <author>
-            <name>sylvain_kerkour</name>
-            <uri>https://news.ycombinator.com/user?id=sylvain_kerkour</uri>
         </author>
     </entry>
 </feed>
