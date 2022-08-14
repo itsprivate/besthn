@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-14T20:29:42.398Z</updated>
+    <updated>2022-08-14T23:28:20.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[約翰迪爾拖拉機乘著 "維修權 "的浪潮實現新的越獄
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32457590</id>
+        <link href="https://news.ycombinator.com/item?id=32457590"/>
+        <updated>2022-08-14T08:40:36.000Z</updated>
+        <summary type="html"><![CDATA[A New Jailbreak for John Deere Tractors Rides the Right-to-Repair Wave]]></summary>
+        <author>
+            <name>WithinReason</name>
+            <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[魯弗斯。微軟正在阻止Windows ISO下載
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32448999</id>
+        <link href="https://news.ycombinator.com/item?id=32448999"/>
+        <updated>2022-08-13T11:48:24.000Z</updated>
+        <summary type="html"><![CDATA[Rufus: Microsoft is blocking Windows ISO downloads]]></summary>
+        <author>
+            <name>vanburen</name>
+            <uri>https://news.ycombinator.com/user?id=vanburen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三篇論文強調了創紀錄產量的核聚變射擊的結果
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>obnauticus</name>
             <uri>https://news.ycombinator.com/user?id=obnauticus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6月通脹率上升9.1%，甚至超過預期
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32081779</id>
-        <link href="https://news.ycombinator.com/item?id=32081779"/>
-        <updated>2022-07-13T12:38:03.000Z</updated>
-        <summary type="html"><![CDATA[Inflation rose 9.1% in June, even more than expected]]></summary>
-        <author>
-            <name>mfiguiere</name>
-            <uri>https://news.ycombinator.com/user?id=mfiguiere</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CP/M現在是開源的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32080741</id>
-        <link href="https://news.ycombinator.com/item?id=32080741"/>
-        <updated>2022-07-13T10:12:15.000Z</updated>
-        <summary type="html"><![CDATA[CP/M is open-source now]]></summary>
-        <author>
-            <name>jstanley</name>
-            <uri>https://news.ycombinator.com/user?id=jstanley</uri>
         </author>
     </entry>
 </feed>

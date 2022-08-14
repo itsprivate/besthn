@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 14 Aug 2022 20:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 23:28:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[约翰迪尔拖拉机乘着 "维修权 "的浪潮实现新的越狱
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32457590</link>
+            <guid>https://news.ycombinator.com/item?id=32457590</guid>
+            <pubDate>Sun, 14 Aug 2022 08:40:36 GMT</pubDate>
+            <description><![CDATA[A New Jailbreak for John Deere Tractors Rides the Right-to-Repair Wave]]></description>
+        </item>
+        <item>
+            <title><![CDATA[鲁弗斯。微软正在阻止Windows ISO下载
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32448999</link>
+            <guid>https://news.ycombinator.com/item?id=32448999</guid>
+            <pubDate>Sat, 13 Aug 2022 11:48:24 GMT</pubDate>
+            <description><![CDATA[Rufus: Microsoft is blocking Windows ISO downloads]]></description>
+        </item>
         <item>
             <title><![CDATA[三篇论文强调了创纪录产量的核聚变射击的结果
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32077029</guid>
             <pubDate>Tue, 12 Jul 2022 23:16:04 GMT</pubDate>
             <description><![CDATA[Google slowing hiring to “technical and critical roles” only]]></description>
-        </item>
-        <item>
-            <title><![CDATA[6月通胀率上升9.1%，甚至超过预期
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32081779</link>
-            <guid>https://news.ycombinator.com/item?id=32081779</guid>
-            <pubDate>Wed, 13 Jul 2022 12:38:03 GMT</pubDate>
-            <description><![CDATA[Inflation rose 9.1% in June, even more than expected]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CP/M现在是开源的
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32080741</link>
-            <guid>https://news.ycombinator.com/item?id=32080741</guid>
-            <pubDate>Wed, 13 Jul 2022 10:12:15 GMT</pubDate>
-            <description><![CDATA[CP/M is open-source now]]></description>
         </item>
     </channel>
 </rss>
