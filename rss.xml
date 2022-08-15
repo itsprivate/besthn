@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 15 Aug 2022 15:56:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 18:40:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何找到一个小城镇来迁移远程工作？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32465372</link>
+            <guid>https://news.ycombinator.com/item?id=32465372</guid>
+            <pubDate>Mon, 15 Aug 2022 02:57:34 GMT</pubDate>
+            <description><![CDATA[Ask HN: How to find a small town to relocate for remote work?]]></description>
+        </item>
         <item>
             <title><![CDATA[我可以看看你的剧本吗？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32088316</guid>
             <pubDate>Wed, 13 Jul 2022 20:26:44 GMT</pubDate>
             <description><![CDATA[PostgreSQL 14 Internals Book]]></description>
-        </item>
-        <item>
-            <title><![CDATA[多年来，我一直在我的API中滥用HTTP状态代码
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32081470</link>
-            <guid>https://news.ycombinator.com/item?id=32081470</guid>
-            <pubDate>Wed, 13 Jul 2022 12:00:18 GMT</pubDate>
-            <description><![CDATA[I've been abusing HTTP Status Codes in my APIs for years]]></description>
         </item>
     </channel>
 </rss>

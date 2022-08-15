@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-15T15:56:34.556Z</updated>
+    <updated>2022-08-15T18:40:09.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何找到一个小城镇来迁移远程工作？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32465372</id>
+        <link href="https://news.ycombinator.com/item?id=32465372"/>
+        <updated>2022-08-15T02:57:34.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: How to find a small town to relocate for remote work?]]></summary>
+        <author>
+            <name>Townley</name>
+            <uri>https://news.ycombinator.com/user?id=Townley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我可以看看你的剧本吗？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kelvich</name>
             <uri>https://news.ycombinator.com/user?id=kelvich</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多年来，我一直在我的API中滥用HTTP状态代码
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32081470</id>
-        <link href="https://news.ycombinator.com/item?id=32081470"/>
-        <updated>2022-07-13T12:00:18.000Z</updated>
-        <summary type="html"><![CDATA[I've been abusing HTTP Status Codes in my APIs for years]]></summary>
-        <author>
-            <name>that_james</name>
-            <uri>https://news.ycombinator.com/user?id=that_james</uri>
         </author>
     </entry>
 </feed>
