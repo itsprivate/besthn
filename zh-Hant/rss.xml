@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 15 Aug 2022 20:33:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 22:33:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[MacBook Air M1屏幕無緣無故開裂
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32474827</link>
+            <guid>https://news.ycombinator.com/item?id=32474827</guid>
+            <pubDate>Mon, 15 Aug 2022 20:16:20 GMT</pubDate>
+            <description><![CDATA[MacBook Air M1 screen crack for no apparent reason]]></description>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI的DALL-E開源對手在你的顯卡上運行
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32471199</link>
+            <guid>https://news.ycombinator.com/item?id=32471199</guid>
+            <pubDate>Mon, 15 Aug 2022 15:49:22 GMT</pubDate>
+            <description><![CDATA[Open-source rival for OpenAI’s DALL-E runs on your graphics card]]></description>
+        </item>
         <item>
             <title><![CDATA[告訴HN：經過10年的實驗，自定義用戶名的郵件沒有收到垃圾郵件
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32089522</guid>
             <pubDate>Wed, 13 Jul 2022 22:28:31 GMT</pubDate>
             <description><![CDATA[Volkswagen enters battery business with $20B investment]]></description>
-        </item>
-        <item>
-            <title><![CDATA[薩斯喀徹溫省和安大略省將推出小型核反應堆
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32091054</link>
-            <guid>https://news.ycombinator.com/item?id=32091054</guid>
-            <pubDate>Thu, 14 Jul 2022 01:50:48 GMT</pubDate>
-            <description><![CDATA[Saskatchewan, Ontario to roll out mini-nuclear reactors]]></description>
-        </item>
-        <item>
-            <title><![CDATA[睡眠負債的影響
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32089964</link>
-            <guid>https://news.ycombinator.com/item?id=32089964</guid>
-            <pubDate>Wed, 13 Jul 2022 23:21:22 GMT</pubDate>
-            <description><![CDATA[The effects of sleep debt]]></description>
         </item>
     </channel>
 </rss>

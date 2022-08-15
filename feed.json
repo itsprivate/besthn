@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32474827",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32474827",
+            "title": "MacBook Air M1屏幕无缘无故开裂\n",
+            "summary": "MacBook Air M1 screen crack for no apparent reason",
+            "date_modified": "2022-08-15T20:16:20.000Z",
+            "author": {
+                "name": "lewisl9029",
+                "url": "https://news.ycombinator.com/user?id=lewisl9029"
+            },
+            "_original_headline": "MacBook Air M1 screen crack for no apparent reason",
+            "_original_url": "https://origin-discussions2-us-dr-prz.apple.com/en/thread/252794122?page=49",
+            "_sensitive": false,
+            "_score": 232
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32471199",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32471199",
+            "title": "OpenAI的DALL-E开源对手在你的显卡上运行\n",
+            "summary": "Open-source rival for OpenAI’s DALL-E runs on your graphics card",
+            "date_modified": "2022-08-15T15:49:22.000Z",
+            "author": {
+                "name": "hardmaru",
+                "url": "https://news.ycombinator.com/user?id=hardmaru"
+            },
+            "_original_headline": "Open-source rival for OpenAI’s DALL-E runs on your graphics card",
+            "_original_url": "https://mixed-news.com/en/open-source-rival-for-openais-dall-e-runs-on-your-graphics-card/",
+            "_sensitive": false,
+            "_score": 207
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32470645",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32470645",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://www.arenaev.com/vw_creates_new_company_and_enters_global_battery_business-news-461.php",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32091054",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32091054",
-            "title": "萨斯喀彻温省和安大略省将推出小型核反应堆\n",
-            "summary": "Saskatchewan, Ontario to roll out mini-nuclear reactors",
-            "date_modified": "2022-07-14T01:50:48.000Z",
-            "author": {
-                "name": "voisin",
-                "url": "https://news.ycombinator.com/user?id=voisin"
-            },
-            "_original_headline": "Saskatchewan, Ontario to roll out mini-nuclear reactors",
-            "_original_url": "https://www.westerninvestor.com/british-columbia/saskatchewan-ontario-to-roll-out-mini-nuclear-reactors-5568249",
-            "_sensitive": false,
-            "_score": 203
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32089964",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32089964",
-            "title": "睡眠负债的影响\n",
-            "summary": "The effects of sleep debt",
-            "date_modified": "2022-07-13T23:21:22.000Z",
-            "author": {
-                "name": "bookofjoe",
-                "url": "https://news.ycombinator.com/user?id=bookofjoe"
-            },
-            "_original_headline": "The effects of sleep debt",
-            "_original_url": "https://www.nytimes.com/2022/06/24/health/sleep-debt-health.html",
-            "_sensitive": false,
-            "_score": 204
         }
     ]
 }
