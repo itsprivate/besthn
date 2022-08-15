@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 15 Aug 2022 13:58:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 14:34:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Tailscale改变其安卓应用以支持开源的Headscale服务器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32468430</link>
+            <guid>https://news.ycombinator.com/item?id=32468430</guid>
+            <pubDate>Mon, 15 Aug 2022 11:45:07 GMT</pubDate>
+            <description><![CDATA[Tailscale changes its Android app to support the open source Headscale server]]></description>
+        </item>
         <item>
             <title><![CDATA[二阶思考。聪明人用什么来超越自己
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32084617</guid>
             <pubDate>Wed, 13 Jul 2022 16:06:01 GMT</pubDate>
             <description><![CDATA[Someone is impersonating us in a recruiting scam]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一个地方选举的谷歌表格，它已经从谷歌驱动器中被删除了
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32084980</link>
-            <guid>https://news.ycombinator.com/item?id=32084980</guid>
-            <pubDate>Wed, 13 Jul 2022 16:31:05 GMT</pubDate>
-            <description><![CDATA[I made a Google sheet of local elections and it's been removed from Google Drive]]></description>
         </item>
     </channel>
 </rss>
