@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-15T05:24:50.710Z</updated>
+    <updated>2022-08-15T06:38:13.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[习惯性使用GPS对自助导航时的空间记忆产生负面影响
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32462721</id>
+        <link href="https://news.ycombinator.com/item?id=32462721"/>
+        <updated>2022-08-14T20:38:14.000Z</updated>
+        <summary type="html"><![CDATA[Habitual GPS use negatively impacts spatial memory during self-guided navigation]]></summary>
+        <author>
+            <name>goplayoutside</name>
+            <uri>https://news.ycombinator.com/user?id=goplayoutside</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黑客新闻的预测
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gc0119</name>
             <uri>https://news.ycombinator.com/user?id=gc0119</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通货膨胀调整后的股票图表--实际总回报率
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32081943</id>
-        <link href="https://news.ycombinator.com/item?id=32081943"/>
-        <updated>2022-07-13T12:55:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Inflation-adjusted stock charts – Total Real Returns]]></summary>
-        <author>
-            <name>compumike</name>
-            <uri>https://news.ycombinator.com/user?id=compumike</uri>
         </author>
     </entry>
 </feed>
