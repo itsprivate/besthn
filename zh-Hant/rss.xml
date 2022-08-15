@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 15 Aug 2022 18:40:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 19:45:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Twilio事件。Signal用戶需要知道的事情
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32472412</link>
+            <guid>https://news.ycombinator.com/item?id=32472412</guid>
+            <pubDate>Mon, 15 Aug 2022 17:12:04 GMT</pubDate>
+            <description><![CDATA[Twilio incident: What Signal users need to know]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Win32是Linux上唯一穩定的ABI
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32471624</link>
+            <guid>https://news.ycombinator.com/item?id=32471624</guid>
+            <pubDate>Mon, 15 Aug 2022 16:19:43 GMT</pubDate>
+            <description><![CDATA[Win32 Is the Only Stable ABI on Linux]]></description>
+        </item>
         <item>
             <title><![CDATA[如何找到一個小城鎮來遷移遠程工作？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32070661</guid>
             <pubDate>Tue, 12 Jul 2022 14:40:01 GMT</pubDate>
             <description><![CDATA[Nikon to stop making SLR cameras and focus on mirrorless models?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[安德烈-卡爾帕西離開特斯拉
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32089013</link>
-            <guid>https://news.ycombinator.com/item?id=32089013</guid>
-            <pubDate>Wed, 13 Jul 2022 21:32:30 GMT</pubDate>
-            <description><![CDATA[Andrej Karpathy leaves Tesla]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PostgreSQL 14內部手冊
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32088316</link>
-            <guid>https://news.ycombinator.com/item?id=32088316</guid>
-            <pubDate>Wed, 13 Jul 2022 20:26:44 GMT</pubDate>
-            <description><![CDATA[PostgreSQL 14 Internals Book]]></description>
         </item>
     </channel>
 </rss>
