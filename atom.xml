@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-15T14:50:08.332Z</updated>
+    <updated>2022-08-15T15:38:12.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：Godaddy取消了我的域名，给了我2小时的答复，然后收取150欧元的费用。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32470017</id>
+        <link href="https://news.ycombinator.com/item?id=32470017"/>
+        <updated>2022-08-15T14:21:15.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: Godaddy canceled my domain, gave me 2h to respond, then charged €150]]></summary>
+        <author>
+            <name>M0r13n</name>
+            <uri>https://news.ycombinator.com/user?id=M0r13n</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德诺未来的巨大变化
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ltratt</name>
             <uri>https://news.ycombinator.com/user?id=ltratt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[供应链问题正在扼杀合成物公司
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32086740</id>
-        <link href="https://news.ycombinator.com/item?id=32086740"/>
-        <updated>2022-07-13T18:21:23.000Z</updated>
-        <summary type="html"><![CDATA[Supply chain issues are killing synth companies]]></summary>
-        <author>
-            <name>anigbrowl</name>
-            <uri>https://news.ycombinator.com/user?id=anigbrowl</uri>
         </author>
     </entry>
 </feed>
