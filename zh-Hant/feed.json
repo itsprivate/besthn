@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32462725",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32462725",
+            "title": "在沒有任何衝刺的情況下交付了Chrome瀏覽器（2021年）。\n",
+            "summary": "Chrome was delivered without any sprints at all (2021)",
+            "date_modified": "2022-08-14T20:38:22.000Z",
+            "author": {
+                "name": "luu",
+                "url": "https://news.ycombinator.com/user?id=luu"
+            },
+            "_original_headline": "Chrome was delivered without any sprints at all (2021)",
+            "_original_url": "https://twitter.com/aboodman/status/1427137725119959046",
+            "_sensitive": false,
+            "_score": 244
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32462275",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32462275",
+            "title": "密爾沃基工具在美國新建工廠，提高了標準\n",
+            "summary": "Milwaukee Tool Raises the Bar with New USA Factory",
+            "date_modified": "2022-08-14T19:44:43.000Z",
+            "author": {
+                "name": "stacktrust",
+                "url": "https://news.ycombinator.com/user?id=stacktrust"
+            },
+            "_original_headline": "Milwaukee Tool Raises the Bar with New USA Factory",
+            "_original_url": "https://toolguyd.com/milwaukee-tool-new-usa-factory/",
+            "_sensitive": false,
+            "_score": 209
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32459857",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32459857",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://vitejs.dev/blog/announcing-vite3.html",
             "_sensitive": false,
             "_score": 210
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32081900",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32081900",
-            "title": "亞馬遜承認未經同意向警方提供戒指錄像\n",
-            "summary": "Amazon Admits Giving Police Ring Footage Without Consent",
-            "date_modified": "2022-07-13T12:52:06.000Z",
-            "author": {
-                "name": "Pakdef",
-                "url": "https://news.ycombinator.com/user?id=Pakdef"
-            },
-            "_original_headline": "Amazon Admits Giving Police Ring Footage Without Consent",
-            "_original_url": "https://theintercept.com/2022/07/13/amazon-ring-camera-footage-police-ed-markey/",
-            "_sensitive": false,
-            "_score": 240
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32081051",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32081051",
-            "title": "統一公司與IronSource公司合併\n",
-            "summary": "Unity merges with IronSource",
-            "date_modified": "2022-07-13T11:03:30.000Z",
-            "author": {
-                "name": "Luc",
-                "url": "https://news.ycombinator.com/user?id=Luc"
-            },
-            "_original_headline": "Unity merges with IronSource",
-            "_original_url": "https://blog.unity.com/news/welcome-ironsource",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }

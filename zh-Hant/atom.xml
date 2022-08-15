@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-14T23:59:25.869Z</updated>
+    <updated>2022-08-15T02:41:28.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在沒有任何衝刺的情況下交付了Chrome瀏覽器（2021年）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32462725</id>
+        <link href="https://news.ycombinator.com/item?id=32462725"/>
+        <updated>2022-08-14T20:38:22.000Z</updated>
+        <summary type="html"><![CDATA[Chrome was delivered without any sprints at all (2021)]]></summary>
+        <author>
+            <name>luu</name>
+            <uri>https://news.ycombinator.com/user?id=luu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[密爾沃基工具在美國新建工廠，提高了標準
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32462275</id>
+        <link href="https://news.ycombinator.com/item?id=32462275"/>
+        <updated>2022-08-14T19:44:43.000Z</updated>
+        <summary type="html"><![CDATA[Milwaukee Tool Raises the Bar with New USA Factory]]></summary>
+        <author>
+            <name>stacktrust</name>
+            <uri>https://news.ycombinator.com/user?id=stacktrust</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloud.gov
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>web2033</name>
             <uri>https://news.ycombinator.com/user?id=web2033</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亞馬遜承認未經同意向警方提供戒指錄像
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32081900</id>
-        <link href="https://news.ycombinator.com/item?id=32081900"/>
-        <updated>2022-07-13T12:52:06.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Admits Giving Police Ring Footage Without Consent]]></summary>
-        <author>
-            <name>Pakdef</name>
-            <uri>https://news.ycombinator.com/user?id=Pakdef</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[統一公司與IronSource公司合併
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32081051</id>
-        <link href="https://news.ycombinator.com/item?id=32081051"/>
-        <updated>2022-07-13T11:03:30.000Z</updated>
-        <summary type="html"><![CDATA[Unity merges with IronSource]]></summary>
-        <author>
-            <name>Luc</name>
-            <uri>https://news.ycombinator.com/user?id=Luc</uri>
         </author>
     </entry>
 </feed>
