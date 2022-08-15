@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-15T02:41:28.421Z</updated>
+    <updated>2022-08-15T04:17:42.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用一個漏洞打破了所有的macOS安全層
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32464034</id>
+        <link href="https://news.ycombinator.com/item?id=32464034"/>
+        <updated>2022-08-14T23:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Breaking all macOS security layers with a single vulnerability]]></summary>
+        <author>
+            <name>afrcnc</name>
+            <uri>https://news.ycombinator.com/user?id=afrcnc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在沒有任何衝刺的情況下交付了Chrome瀏覽器（2021年）。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>johndcook</name>
             <uri>https://news.ycombinator.com/user?id=johndcook</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite 3.0
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32082284</id>
-        <link href="https://news.ycombinator.com/item?id=32082284"/>
-        <updated>2022-07-13T13:20:38.000Z</updated>
-        <summary type="html"><![CDATA[Vite 3.0]]></summary>
-        <author>
-            <name>web2033</name>
-            <uri>https://news.ycombinator.com/user?id=web2033</uri>
         </author>
     </entry>
 </feed>
