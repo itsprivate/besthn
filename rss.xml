@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 15 Aug 2022 07:29:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 07:45:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[地平线Linux：arm64 Linux经过修补可运行任天堂Switch的程序
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32464955</link>
+            <guid>https://news.ycombinator.com/item?id=32464955</guid>
+            <pubDate>Mon, 15 Aug 2022 01:39:43 GMT</pubDate>
+            <description><![CDATA[Horizon Linux: arm64 Linux patched to run programs for the Nintendo Switch]]></description>
+        </item>
         <item>
             <title><![CDATA[一个网络文本编辑器，你可以在那里写作、计算和绘画
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32084023</guid>
             <pubDate>Wed, 13 Jul 2022 15:27:37 GMT</pubDate>
             <description><![CDATA[Teams is killing my Mac every day]]></description>
-        </item>
-        <item>
-            <title><![CDATA[轧制你自己的加密货币。从零开始构建AES所需的一切
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32078749</link>
-            <guid>https://news.ycombinator.com/item?id=32078749</guid>
-            <pubDate>Wed, 13 Jul 2022 03:30:52 GMT</pubDate>
-            <description><![CDATA[Rolling your own crypto: Everything you need to build AES from scratch]]></description>
         </item>
     </channel>
 </rss>
