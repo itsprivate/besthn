@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 15 Aug 2022 14:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 14:50:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[德诺未来的巨大变化
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32468613</link>
+            <guid>https://news.ycombinator.com/item?id=32468613</guid>
+            <pubDate>Mon, 15 Aug 2022 12:06:13 GMT</pubDate>
+            <description><![CDATA[Big Changes Ahead for Deno]]></description>
+        </item>
         <item>
             <title><![CDATA[Tailscale改变其安卓应用以支持开源的Headscale服务器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32086740</guid>
             <pubDate>Wed, 13 Jul 2022 18:21:23 GMT</pubDate>
             <description><![CDATA[Supply chain issues are killing synth companies]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有人冒充我们进行招聘诈骗
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32084617</link>
-            <guid>https://news.ycombinator.com/item?id=32084617</guid>
-            <pubDate>Wed, 13 Jul 2022 16:06:01 GMT</pubDate>
-            <description><![CDATA[Someone is impersonating us in a recruiting scam]]></description>
         </item>
     </channel>
 </rss>
