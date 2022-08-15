@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-15T06:38:13.158Z</updated>
+    <updated>2022-08-15T07:29:16.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个网络文本编辑器，你可以在那里写作、计算和绘画
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32449130</id>
+        <link href="https://news.ycombinator.com/item?id=32449130"/>
+        <updated>2022-08-13T12:05:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A web text-editor where you can write, compute and draw]]></summary>
+        <author>
+            <name>martyalain</name>
+            <uri>https://news.ycombinator.com/user?id=martyalain</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[习惯性使用GPS对自助导航时的空间记忆产生负面影响
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>prostoalex</name>
             <uri>https://news.ycombinator.com/user?id=prostoalex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只需拖动方框就能删除照片中不需要的物体
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32080469</id>
-        <link href="https://news.ycombinator.com/item?id=32080469"/>
-        <updated>2022-07-13T09:19:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Remove unwanted objects in photos simply by dragging boxes]]></summary>
-        <author>
-            <name>gc0119</name>
-            <uri>https://news.ycombinator.com/user?id=gc0119</uri>
         </author>
     </entry>
 </feed>

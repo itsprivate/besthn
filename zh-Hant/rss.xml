@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 15 Aug 2022 06:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 07:29:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個網絡文本編輯器，你可以在那裡寫作、計算和繪畫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32449130</link>
+            <guid>https://news.ycombinator.com/item?id=32449130</guid>
+            <pubDate>Sat, 13 Aug 2022 12:05:40 GMT</pubDate>
+            <description><![CDATA[Show HN: A web text-editor where you can write, compute and draw]]></description>
+        </item>
         <item>
             <title><![CDATA[習慣性使用GPS對自助導航時的空間記憶產生負面影響
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32078749</guid>
             <pubDate>Wed, 13 Jul 2022 03:30:52 GMT</pubDate>
             <description><![CDATA[Rolling your own crypto: Everything you need to build AES from scratch]]></description>
-        </item>
-        <item>
-            <title><![CDATA[只需拖動方框就能刪除照片中不需要的物體
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32080469</link>
-            <guid>https://news.ycombinator.com/item?id=32080469</guid>
-            <pubDate>Wed, 13 Jul 2022 09:19:31 GMT</pubDate>
-            <description><![CDATA[Show HN: Remove unwanted objects in photos simply by dragging boxes]]></description>
         </item>
     </channel>
 </rss>
