@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 15 Aug 2022 19:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 20:33:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[告訴HN：經過10年的實驗，自定義用戶名的郵件沒有收到垃圾郵件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32470645</link>
+            <guid>https://news.ycombinator.com/item?id=32470645</guid>
+            <pubDate>Mon, 15 Aug 2022 15:07:34 GMT</pubDate>
+            <description><![CDATA[Tell HN: After 10 years of experiments, custom username emails receive no spam]]></description>
+        </item>
         <item>
             <title><![CDATA[Twilio事件。Signal用戶需要知道的事情
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32089964</guid>
             <pubDate>Wed, 13 Jul 2022 23:21:22 GMT</pubDate>
             <description><![CDATA[The effects of sleep debt]]></description>
-        </item>
-        <item>
-            <title><![CDATA[尼康將停止生產單反相機並專注於無反光鏡機型？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32070661</link>
-            <guid>https://news.ycombinator.com/item?id=32070661</guid>
-            <pubDate>Tue, 12 Jul 2022 14:40:01 GMT</pubDate>
-            <description><![CDATA[Nikon to stop making SLR cameras and focus on mirrorless models?]]></description>
         </item>
     </channel>
 </rss>

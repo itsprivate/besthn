@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-15T19:45:54.481Z</updated>
+    <updated>2022-08-15T20:33:50.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[告诉HN：经过10年的实验，自定义用户名的邮件没有收到垃圾邮件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32470645</id>
+        <link href="https://news.ycombinator.com/item?id=32470645"/>
+        <updated>2022-08-15T15:07:34.000Z</updated>
+        <summary type="html"><![CDATA[Tell HN: After 10 years of experiments, custom username emails receive no spam]]></summary>
+        <author>
+            <name>sbf501</name>
+            <uri>https://news.ycombinator.com/user?id=sbf501</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twilio事件。Signal用户需要知道的事情
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bookofjoe</name>
             <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼康将停止生产单反相机并专注于无反光镜机型？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32070661</id>
-        <link href="https://news.ycombinator.com/item?id=32070661"/>
-        <updated>2022-07-12T14:40:01.000Z</updated>
-        <summary type="html"><![CDATA[Nikon to stop making SLR cameras and focus on mirrorless models?]]></summary>
-        <author>
-            <name>jmsflknr</name>
-            <uri>https://news.ycombinator.com/user?id=jmsflknr</uri>
         </author>
     </entry>
 </feed>
