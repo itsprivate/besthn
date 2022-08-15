@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-15T04:17:42.636Z</updated>
+    <updated>2022-08-15T05:24:50.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑客新闻的预测
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32460733</id>
+        <link href="https://news.ycombinator.com/item?id=32460733"/>
+        <updated>2022-08-14T16:50:42.000Z</updated>
+        <summary type="html"><![CDATA[Hacker News Predictions]]></summary>
+        <author>
+            <name>mercurybee</name>
+            <uri>https://news.ycombinator.com/user?id=mercurybee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用一个漏洞打破了所有的macOS安全层
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>compumike</name>
             <uri>https://news.ycombinator.com/user?id=compumike</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我希望看到的六种编程语言
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32081808</id>
-        <link href="https://news.ycombinator.com/item?id=32081808"/>
-        <updated>2022-07-13T12:41:13.000Z</updated>
-        <summary type="html"><![CDATA[Six programming languages I’d like to see]]></summary>
-        <author>
-            <name>johndcook</name>
-            <uri>https://news.ycombinator.com/user?id=johndcook</uri>
         </author>
     </entry>
 </feed>
