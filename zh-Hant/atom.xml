@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-15T15:38:12.842Z</updated>
+    <updated>2022-08-15T15:56:34.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我可以看看你的劇本嗎？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32467957</id>
+        <link href="https://news.ycombinator.com/item?id=32467957"/>
+        <updated>2022-08-15T10:32:05.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Can I see your scripts?]]></summary>
+        <author>
+            <name>fastily</name>
+            <uri>https://news.ycombinator.com/user?id=fastily</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告訴HN：Godaddy取消了我的域名，給了我2小時的答覆，然後收取150歐元的費用。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>that_james</name>
             <uri>https://news.ycombinator.com/user?id=that_james</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我如何清潔我的眼鏡
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32083753</id>
-        <link href="https://news.ycombinator.com/item?id=32083753"/>
-        <updated>2022-07-13T15:08:23.000Z</updated>
-        <summary type="html"><![CDATA[How I clean my glasses]]></summary>
-        <author>
-            <name>ltratt</name>
-            <uri>https://news.ycombinator.com/user?id=ltratt</uri>
         </author>
     </entry>
 </feed>
