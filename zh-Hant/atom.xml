@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-16T21:47:41.462Z</updated>
+    <updated>2022-08-16T22:31:00.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[筏子共識動畫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32484584</id>
+        <link href="https://news.ycombinator.com/item?id=32484584"/>
+        <updated>2022-08-16T15:57:02.000Z</updated>
+        <summary type="html"><![CDATA[Raft Consensus Animated]]></summary>
+        <author>
+            <name>pkilgore</name>
+            <uri>https://news.ycombinator.com/user?id=pkilgore</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Instagram, TikTok, 和三個趨勢
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>krnaveen14</name>
             <uri>https://news.ycombinator.com/user?id=krnaveen14</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是時候在Godot中製作那個獨立的C#遊戲了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32096575</id>
-        <link href="https://news.ycombinator.com/item?id=32096575"/>
-        <updated>2022-07-14T14:35:28.000Z</updated>
-        <summary type="html"><![CDATA[It’s time to make that indie C# game in Godot]]></summary>
-        <author>
-            <name>proxybop</name>
-            <uri>https://news.ycombinator.com/user?id=proxybop</uri>
         </author>
     </entry>
 </feed>
