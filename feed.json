@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32476348",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32476348",
+            "title": "与20多岁的婴儿潮一代相比，Z世代的购买力要低86%。\n",
+            "summary": "Gen Z have 86% less purchasing power compared to baby boomers in their twenties",
+            "date_modified": "2022-08-15T22:32:15.000Z",
+            "author": {
+                "name": "paulpauper",
+                "url": "https://news.ycombinator.com/user?id=paulpauper"
+            },
+            "_original_headline": "Gen Z have 86% less purchasing power compared to baby boomers in their twenties",
+            "_original_url": "https://www.consumeraffairs.com/finance/comparing-the-costs-of-generations.html",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32483979",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32483979",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://justine.lol/pledge/",
             "_sensitive": false,
             "_score": 222
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32097752",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32097752",
-            "title": "Unity首席执行官说，不参与货币化的游戏开发公司是 \"他妈的白痴\"。\n",
-            "summary": "Gamedevs not baking in monetization are “fucking idiots”, says Unity CEO",
-            "date_modified": "2022-07-14T15:59:35.000Z",
-            "author": {
-                "name": "OskarS",
-                "url": "https://news.ycombinator.com/user?id=OskarS"
-            },
-            "_original_headline": "Gamedevs not baking in monetization are “fucking idiots”, says Unity CEO",
-            "_original_url": "https://www.pocketgamer.biz/interview/79190/unity-ironsource-john-riccitiello-marc-whitten-merger/",
-            "_sensitive": false,
-            "_score": 239
         }
     ]
 }

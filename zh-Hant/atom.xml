@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-16T18:43:00.892Z</updated>
+    <updated>2022-08-16T19:26:47.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[與20多歲的嬰兒潮一代相比，Z世代的購買力要低86%。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32476348</id>
+        <link href="https://news.ycombinator.com/item?id=32476348"/>
+        <updated>2022-08-15T22:32:15.000Z</updated>
+        <summary type="html"><![CDATA[Gen Z have 86% less purchasing power compared to baby boomers in their twenties]]></summary>
+        <author>
+            <name>paulpauper</name>
+            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[十年來一直使用同一個Arch Linux裝置
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jart</name>
             <uri>https://news.ycombinator.com/user?id=jart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity首席執行官說，不參與貨幣化的遊戲開發公司是 "他媽的白痴"。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32097752</id>
-        <link href="https://news.ycombinator.com/item?id=32097752"/>
-        <updated>2022-07-14T15:59:35.000Z</updated>
-        <summary type="html"><![CDATA[Gamedevs not baking in monetization are “fucking idiots”, says Unity CEO]]></summary>
-        <author>
-            <name>OskarS</name>
-            <uri>https://news.ycombinator.com/user?id=OskarS</uri>
         </author>
     </entry>
 </feed>

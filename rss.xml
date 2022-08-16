@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 16 Aug 2022 18:43:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 19:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[与20多岁的婴儿潮一代相比，Z世代的购买力要低86%。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32476348</link>
+            <guid>https://news.ycombinator.com/item?id=32476348</guid>
+            <pubDate>Mon, 15 Aug 2022 22:32:15 GMT</pubDate>
+            <description><![CDATA[Gen Z have 86% less purchasing power compared to baby boomers in their twenties]]></description>
+        </item>
         <item>
             <title><![CDATA[十年来一直使用同一个Arch Linux装置
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32096801</guid>
             <pubDate>Thu, 14 Jul 2022 14:52:42 GMT</pubDate>
             <description><![CDATA[Show HN: Porting OpenBSD Pledge() to Linux]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Unity首席执行官说，不参与货币化的游戏开发公司是 "他妈的白痴"。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32097752</link>
-            <guid>https://news.ycombinator.com/item?id=32097752</guid>
-            <pubDate>Thu, 14 Jul 2022 15:59:35 GMT</pubDate>
-            <description><![CDATA[Gamedevs not baking in monetization are “fucking idiots”, says Unity CEO]]></description>
         </item>
     </channel>
 </rss>
