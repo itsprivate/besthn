@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32482523",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32482523",
+            "title": "Instagram, TikTok, 和三個趨勢\n",
+            "summary": "Instagram, TikTok, and the Three Trends",
+            "date_modified": "2022-08-16T13:37:27.000Z",
+            "author": {
+                "name": "kaboro",
+                "url": "https://news.ycombinator.com/user?id=kaboro"
+            },
+            "_original_headline": "Instagram, TikTok, and the Three Trends",
+            "_original_url": "https://stratechery.com/2022/instagram-tiktok-and-the-three-trends/",
+            "_sensitive": false,
+            "_score": 206
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32484008",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32484008",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://jolexxa.medium.com/its-time-to-make-that-indie-c-game-in-godot-cea383151470",
             "_sensitive": false,
             "_score": 207
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32095502",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32095502",
-            "title": "一個幽靈在困擾著統一代碼（2018）。\n",
-            "summary": "A Spectre Is Haunting Unicode (2018)",
-            "date_modified": "2022-07-14T13:00:12.000Z",
-            "author": {
-                "name": "EvanAnderson",
-                "url": "https://news.ycombinator.com/user?id=EvanAnderson"
-            },
-            "_original_headline": "A Spectre Is Haunting Unicode (2018)",
-            "_original_url": "https://www.dampfkraft.com/ghost-characters.html",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }
