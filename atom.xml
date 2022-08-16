@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-16T11:02:16.129Z</updated>
+    <updated>2022-08-16T13:30:28.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[删除jQuery对我们网站性能的影响
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32480755</id>
+        <link href="https://news.ycombinator.com/item?id=32480755"/>
+        <updated>2022-08-16T09:17:37.000Z</updated>
+        <summary type="html"><![CDATA[The impact of removing jQuery on our web performance]]></summary>
+        <author>
+            <name>kevinak</name>
+            <uri>https://news.ycombinator.com/user?id=kevinak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在2022年，进入机器/深度学习的正确方式是什么？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>edent</name>
             <uri>https://news.ycombinator.com/user?id=edent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[女子被未经同意拍摄的病毒性TikTok "剥夺人性
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32094798</id>
-        <link href="https://news.ycombinator.com/item?id=32094798"/>
-        <updated>2022-07-14T12:03:14.000Z</updated>
-        <summary type="html"><![CDATA[Woman ‘dehumanised’ by viral TikTok filmed without her consent]]></summary>
-        <author>
-            <name>phs318u</name>
-            <uri>https://news.ycombinator.com/user?id=phs318u</uri>
         </author>
     </entry>
 </feed>

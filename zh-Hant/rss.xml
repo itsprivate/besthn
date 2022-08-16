@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 16 Aug 2022 11:02:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 13:30:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[刪除jQuery對我們網站性能的影響
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32480755</link>
+            <guid>https://news.ycombinator.com/item?id=32480755</guid>
+            <pubDate>Tue, 16 Aug 2022 09:17:37 GMT</pubDate>
+            <description><![CDATA[The impact of removing jQuery on our web performance]]></description>
+        </item>
         <item>
             <title><![CDATA[在2022年，進入機器/深度學習的正確方式是什麼？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32094645</guid>
             <pubDate>Thu, 14 Jul 2022 11:45:33 GMT</pubDate>
             <description><![CDATA[DNS Esoterica – Why you can't dig Switzerland]]></description>
-        </item>
-        <item>
-            <title><![CDATA[女子被未經同意拍攝的病毒性TikTok "剝奪人性
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32094798</link>
-            <guid>https://news.ycombinator.com/item?id=32094798</guid>
-            <pubDate>Thu, 14 Jul 2022 12:03:14 GMT</pubDate>
-            <description><![CDATA[Woman ‘dehumanised’ by viral TikTok filmed without her consent]]></description>
         </item>
     </channel>
 </rss>
