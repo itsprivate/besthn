@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32484008",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32484008",
+            "title": "Docker Compose的開發和開發的最佳實踐\n",
+            "summary": "Docker Compose best practices for dev and prod",
+            "date_modified": "2022-08-16T15:22:02.000Z",
+            "author": {
+                "name": "brycefehmel",
+                "url": "https://news.ycombinator.com/user?id=brycefehmel"
+            },
+            "_original_headline": "Docker Compose best practices for dev and prod",
+            "_original_url": "https://prod.releasehub.com/blog/6-docker-compose-best-practices-for-dev-and-prod",
+            "_sensitive": false,
+            "_score": 207
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32486703",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32486703",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.dampfkraft.com/ghost-characters.html",
             "_sensitive": false,
             "_score": 201
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32093987",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32093987",
-            "title": "GoDaddy鎖定了Chrome的衍生產品\n",
-            "summary": "GoDaddy locks out derivatives of Chrome",
-            "date_modified": "2022-07-14T09:56:15.000Z",
-            "author": {
-                "name": "mrspence",
-                "url": "https://news.ycombinator.com/user?id=mrspence"
-            },
-            "_original_headline": "GoDaddy locks out derivatives of Chrome",
-            "_original_url": "https://news.ycombinator.com/item?id=32093987",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }
