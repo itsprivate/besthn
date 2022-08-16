@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32471208",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32471208",
+            "title": "如何用GPT-3和Hacker News的数据创建一个博客文章的标题优化器\n",
+            "summary": "How to create a blog post title optimizer with GPT-3 and Hacker News data",
+            "date_modified": "2022-08-15T15:49:51.000Z",
+            "author": {
+                "name": "minimaxir",
+                "url": "https://news.ycombinator.com/user?id=minimaxir"
+            },
+            "_original_headline": "How to create a blog post title optimizer with GPT-3 and Hacker News data",
+            "_original_url": "https://minimaxir.com/2022/08/gpt3-blog-title-optimizer/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32478907",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32478907",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.surgehq.ai//blog/30-percent-of-googles-reddit-emotions-dataset-is-mislabeled",
             "_sensitive": false,
             "_score": 221
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32088718",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32088718",
-            "title": "DALLE-2的提示性工程指南\n",
-            "summary": "A prompt engineering guide for DALLE-2",
-            "date_modified": "2022-07-13T21:02:40.000Z",
-            "author": {
-                "name": "keveman",
-                "url": "https://news.ycombinator.com/user?id=keveman"
-            },
-            "_original_headline": "A prompt engineering guide for DALLE-2",
-            "_original_url": "https://dallery.gallery/the-dalle-2-prompt-book/",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 16 Aug 2022 07:43:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 08:31:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何用GPT-3和Hacker News的數據創建一個博客文章的標題優化器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32471208</link>
+            <guid>https://news.ycombinator.com/item?id=32471208</guid>
+            <pubDate>Mon, 15 Aug 2022 15:49:51 GMT</pubDate>
+            <description><![CDATA[How to create a blog post title optimizer with GPT-3 and Hacker News data]]></description>
+        </item>
         <item>
             <title><![CDATA[SQLite不是玩具數據庫 (2021)
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32090389</guid>
             <pubDate>Thu, 14 Jul 2022 00:17:16 GMT</pubDate>
             <description><![CDATA[30% of Google's Emotions Dataset Is Mislabeled]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DALLE-2的提示性工程指南
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32088718</link>
-            <guid>https://news.ycombinator.com/item?id=32088718</guid>
-            <pubDate>Wed, 13 Jul 2022 21:02:40 GMT</pubDate>
-            <description><![CDATA[A prompt engineering guide for DALLE-2]]></description>
         </item>
     </channel>
 </rss>
