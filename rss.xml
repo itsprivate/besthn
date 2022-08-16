@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 16 Aug 2022 22:31:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 23:48:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[iOS上的VPN是个骗局
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32488308</link>
+            <guid>https://news.ycombinator.com/item?id=32488308</guid>
+            <pubDate>Tue, 16 Aug 2022 20:20:03 GMT</pubDate>
+            <description><![CDATA[VPNs on iOS are a scam]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何制作发酵的辣椒酱（2021年）
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32486504</link>
+            <guid>https://news.ycombinator.com/item?id=32486504</guid>
+            <pubDate>Tue, 16 Aug 2022 18:06:20 GMT</pubDate>
+            <description><![CDATA[How to make fermented hot sauce (2021)]]></description>
+        </item>
         <item>
             <title><![CDATA[筏子共识动画
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32094693</guid>
             <pubDate>Thu, 14 Jul 2022 11:53:00 GMT</pubDate>
             <description><![CDATA[The Preprocessor Iceberg Meme]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我为自己在网上会议中说得太多的时候做了一个应用程序
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32095592</link>
-            <guid>https://news.ycombinator.com/item?id=32095592</guid>
-            <pubDate>Thu, 14 Jul 2022 13:09:10 GMT</pubDate>
-            <description><![CDATA[Show HN: I built an app for when I talk too much in online meetings]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DynamoDB论文
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32094046</link>
-            <guid>https://news.ycombinator.com/item?id=32094046</guid>
-            <pubDate>Thu, 14 Jul 2022 10:09:06 GMT</pubDate>
-            <description><![CDATA[The DynamoDB Paper]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-16T22:31:00.877Z</updated>
+    <updated>2022-08-16T23:48:30.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[iOS上的VPN是个骗局
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32488308</id>
+        <link href="https://news.ycombinator.com/item?id=32488308"/>
+        <updated>2022-08-16T20:20:03.000Z</updated>
+        <summary type="html"><![CDATA[VPNs on iOS are a scam]]></summary>
+        <author>
+            <name>alexpc201</name>
+            <uri>https://news.ycombinator.com/user?id=alexpc201</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何制作发酵的辣椒酱（2021年）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32486504</id>
+        <link href="https://news.ycombinator.com/item?id=32486504"/>
+        <updated>2022-08-16T18:06:20.000Z</updated>
+        <summary type="html"><![CDATA[How to make fermented hot sauce (2021)]]></summary>
+        <author>
+            <name>Kaibeezy</name>
+            <uri>https://news.ycombinator.com/user?id=Kaibeezy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[筏子共识动画
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>camel-cdr</name>
             <uri>https://news.ycombinator.com/user?id=camel-cdr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我为自己在网上会议中说得太多的时候做了一个应用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32095592</id>
-        <link href="https://news.ycombinator.com/item?id=32095592"/>
-        <updated>2022-07-14T13:09:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built an app for when I talk too much in online meetings]]></summary>
-        <author>
-            <name>interleave</name>
-            <uri>https://news.ycombinator.com/user?id=interleave</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DynamoDB论文
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32094046</id>
-        <link href="https://news.ycombinator.com/item?id=32094046"/>
-        <updated>2022-07-14T10:09:06.000Z</updated>
-        <summary type="html"><![CDATA[The DynamoDB Paper]]></summary>
-        <author>
-            <name>krnaveen14</name>
-            <uri>https://news.ycombinator.com/user?id=krnaveen14</uri>
         </author>
     </entry>
 </feed>
