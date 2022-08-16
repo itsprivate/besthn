@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 15 Aug 2022 22:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 00:01:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Discord如何對網絡磁盤進行增壓以實現極低的延時
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32474093</link>
+            <guid>https://news.ycombinator.com/item?id=32474093</guid>
+            <pubDate>Mon, 15 Aug 2022 19:24:21 GMT</pubDate>
+            <description><![CDATA[How Discord supercharges network disks for extreme low latency]]></description>
+        </item>
         <item>
             <title><![CDATA[MacBook Air M1屏幕無緣無故開裂
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32084850</guid>
             <pubDate>Wed, 13 Jul 2022 16:23:37 GMT</pubDate>
             <description><![CDATA[You can‘t take the Bar exam if your laptop is too modern]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大眾汽車以200億美元的投資進入電池領域
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32089522</link>
-            <guid>https://news.ycombinator.com/item?id=32089522</guid>
-            <pubDate>Wed, 13 Jul 2022 22:28:31 GMT</pubDate>
-            <description><![CDATA[Volkswagen enters battery business with $20B investment]]></description>
         </item>
     </channel>
 </rss>
