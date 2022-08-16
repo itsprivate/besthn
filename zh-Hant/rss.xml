@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 16 Aug 2022 00:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 07:43:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[SQLite不是玩具數據庫 (2021)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32478907</link>
+            <guid>https://news.ycombinator.com/item?id=32478907</guid>
+            <pubDate>Tue, 16 Aug 2022 03:32:57 GMT</pubDate>
+            <description><![CDATA[SQLite is not a toy database (2021)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[準備工作的悖論
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32466346</link>
+            <guid>https://news.ycombinator.com/item?id=32466346</guid>
+            <pubDate>Mon, 15 Aug 2022 06:02:12 GMT</pubDate>
+            <description><![CDATA[Preparedness Paradox]]></description>
+        </item>
         <item>
             <title><![CDATA[Discord如何對網絡磁盤進行增壓以實現極低的延時
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32088718</guid>
             <pubDate>Wed, 13 Jul 2022 21:02:40 GMT</pubDate>
             <description><![CDATA[A prompt engineering guide for DALLE-2]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Niantic進行裁員，取消四款遊戲
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32090255</link>
-            <guid>https://news.ycombinator.com/item?id=32090255</guid>
-            <pubDate>Wed, 13 Jul 2022 23:57:46 GMT</pubDate>
-            <description><![CDATA[Niantic undergoes layoffs, cancels four games]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果你的筆記本電腦太現代，你就不能參加律師考試
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32084850</link>
-            <guid>https://news.ycombinator.com/item?id=32084850</guid>
-            <pubDate>Wed, 13 Jul 2022 16:23:37 GMT</pubDate>
-            <description><![CDATA[You can‘t take the Bar exam if your laptop is too modern]]></description>
         </item>
     </channel>
 </rss>
