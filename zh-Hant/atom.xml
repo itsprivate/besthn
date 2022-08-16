@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-16T08:31:01.391Z</updated>
+    <updated>2022-08-16T11:02:16.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在2022年，進入機器/深度學習的正確方式是什麼？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32480009</id>
+        <link href="https://news.ycombinator.com/item?id=32480009"/>
+        <updated>2022-08-16T07:07:28.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: In 2022, what is the proper way to get into machine/deep learning?]]></summary>
+        <author>
+            <name>newsoul</name>
+            <uri>https://news.ycombinator.com/user?id=newsoul</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每天做一點運動比每週做一次大運動更能改善肌肉的狀況
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32479659</id>
+        <link href="https://news.ycombinator.com/item?id=32479659"/>
+        <updated>2022-08-16T06:05:21.000Z</updated>
+        <summary type="html"><![CDATA[A little exercise each day improves muscles more than one big weekly workout]]></summary>
+        <author>
+            <name>rajnathani</name>
+            <uri>https://news.ycombinator.com/user?id=rajnathani</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何用GPT-3和Hacker News的數據創建一個博客文章的標題優化器
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>phs318u</name>
             <uri>https://news.ycombinator.com/user?id=phs318u</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瞭解金融犯罪需要閱讀的書籍
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32091288</id>
-        <link href="https://news.ycombinator.com/item?id=32091288"/>
-        <updated>2022-07-14T02:24:17.000Z</updated>
-        <summary type="html"><![CDATA[Books to read to understand financial crime]]></summary>
-        <author>
-            <name>pseudolus</name>
-            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌30%的情感數據集被誤標了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32090389</id>
-        <link href="https://news.ycombinator.com/item?id=32090389"/>
-        <updated>2022-07-14T00:17:16.000Z</updated>
-        <summary type="html"><![CDATA[30% of Google's Emotions Dataset Is Mislabeled]]></summary>
-        <author>
-            <name>echen</name>
-            <uri>https://news.ycombinator.com/user?id=echen</uri>
         </author>
     </entry>
 </feed>

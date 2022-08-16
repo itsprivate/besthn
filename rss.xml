@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 16 Aug 2022 08:31:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 11:02:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在2022年，进入机器/深度学习的正确方式是什么？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32480009</link>
+            <guid>https://news.ycombinator.com/item?id=32480009</guid>
+            <pubDate>Tue, 16 Aug 2022 07:07:28 GMT</pubDate>
+            <description><![CDATA[Ask HN: In 2022, what is the proper way to get into machine/deep learning?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[每天做一点运动比每周做一次大运动更能改善肌肉的状况
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32479659</link>
+            <guid>https://news.ycombinator.com/item?id=32479659</guid>
+            <pubDate>Tue, 16 Aug 2022 06:05:21 GMT</pubDate>
+            <description><![CDATA[A little exercise each day improves muscles more than one big weekly workout]]></description>
+        </item>
         <item>
             <title><![CDATA[如何用GPT-3和Hacker News的数据创建一个博客文章的标题优化器
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32094798</guid>
             <pubDate>Thu, 14 Jul 2022 12:03:14 GMT</pubDate>
             <description><![CDATA[Woman ‘dehumanised’ by viral TikTok filmed without her consent]]></description>
-        </item>
-        <item>
-            <title><![CDATA[了解金融犯罪需要阅读的书籍
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32091288</link>
-            <guid>https://news.ycombinator.com/item?id=32091288</guid>
-            <pubDate>Thu, 14 Jul 2022 02:24:17 GMT</pubDate>
-            <description><![CDATA[Books to read to understand financial crime]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌30%的情感数据集被误标了
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32090389</link>
-            <guid>https://news.ycombinator.com/item?id=32090389</guid>
-            <pubDate>Thu, 14 Jul 2022 00:17:16 GMT</pubDate>
-            <description><![CDATA[30% of Google's Emotions Dataset Is Mislabeled]]></description>
         </item>
     </channel>
 </rss>
