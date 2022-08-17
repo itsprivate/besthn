@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-17T19:24:16.073Z</updated>
+    <updated>2022-08-17T21:02:47.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[箭牌研究
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32495896</id>
+        <link href="https://news.ycombinator.com/item?id=32495896"/>
+        <updated>2022-08-17T13:13:23.000Z</updated>
+        <summary type="html"><![CDATA[JetBrains Research]]></summary>
+        <author>
+            <name>davidbarker</name>
+            <uri>https://news.ycombinator.com/user?id=davidbarker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們需要的編程突破
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Soupy</name>
             <uri>https://news.ycombinator.com/user?id=Soupy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[陪審團認定前中情局程序員犯有洩露中情局黑客資料罪
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32106063</id>
-        <link href="https://news.ycombinator.com/item?id=32106063"/>
-        <updated>2022-07-15T08:34:45.000Z</updated>
-        <summary type="html"><![CDATA[Jury finds former CIA programmer guilty of leaking CIA hacking materials]]></summary>
-        <author>
-            <name>Trouble_007</name>
-            <uri>https://news.ycombinator.com/user?id=Trouble_007</uri>
         </author>
     </entry>
 </feed>
