@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32497116",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32497116",
+            "title": "迷你ITX主板上的6個樹莓Pis、6個SSDs\n",
+            "summary": "6 Raspberry Pis, 6 SSDs on a Mini ITX Motherboard",
+            "date_modified": "2022-08-17T14:45:00.000Z",
+            "author": {
+                "name": "ingve",
+                "url": "https://news.ycombinator.com/user?id=ingve"
+            },
+            "_original_headline": "6 Raspberry Pis, 6 SSDs on a Mini ITX Motherboard",
+            "_original_url": "https://www.jeffgeerling.com/blog/2022/6-raspberry-pis-6-ssds-on-mini-itx-motherboard",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32495724",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32495724",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "Show HN: tere – A Faster Alternative to cd+ls",
             "_original_url": "https://github.com/mgunyho/tere",
-            "_sensitive": false,
-            "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32104669",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32104669",
-            "title": "從想法到1個月內有1千的收入\n",
-            "summary": "From idea to 1k revenue in 1 month",
-            "date_modified": "2022-07-15T04:40:42.000Z",
-            "author": {
-                "name": "cheeseblubber",
-                "url": "https://news.ycombinator.com/user?id=cheeseblubber"
-            },
-            "_original_headline": "From idea to 1k revenue in 1 month",
-            "_original_url": "https://www.linen.dev/s/linen-community/t/545988/from-idea-to-paying-customers",
             "_sensitive": false,
             "_score": 202
         }
