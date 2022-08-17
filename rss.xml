@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 17 Aug 2022 14:09:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 14:36:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我为什么离开Pine64
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32494659</link>
+            <guid>https://news.ycombinator.com/item?id=32494659</guid>
+            <pubDate>Wed, 17 Aug 2022 11:05:48 GMT</pubDate>
+            <description><![CDATA[Why I left Pine64]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一个基于网络的记事本，里面有一个内置的单位计算器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32106136</guid>
             <pubDate>Fri, 15 Jul 2022 08:46:58 GMT</pubDate>
             <description><![CDATA[How I Experience the Web Today]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dhall配置语言
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32102203</link>
-            <guid>https://news.ycombinator.com/item?id=32102203</guid>
-            <pubDate>Thu, 14 Jul 2022 22:33:18 GMT</pubDate>
-            <description><![CDATA[The Dhall Configuration Language]]></description>
         </item>
     </channel>
 </rss>
