@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-17T21:02:47.850Z</updated>
+    <updated>2022-08-17T22:49:03.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[越南首次生产Apple Watch和MacBook
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32499298</id>
+        <link href="https://news.ycombinator.com/item?id=32499298"/>
+        <updated>2022-08-17T17:31:31.000Z</updated>
+        <summary type="html"><![CDATA[Vietnam to make Apple Watch and MacBook for first time ever]]></summary>
+        <author>
+            <name>jseliger</name>
+            <uri>https://news.ycombinator.com/user?id=jseliger</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[箭牌研究
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bpierre</name>
             <uri>https://news.ycombinator.com/user?id=bpierre</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前100万个网站中的10%已经死亡
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32110573</id>
-        <link href="https://news.ycombinator.com/item?id=32110573"/>
-        <updated>2022-07-15T17:22:40.000Z</updated>
-        <summary type="html"><![CDATA[10% of the top million sites are dead]]></summary>
-        <author>
-            <name>Soupy</name>
-            <uri>https://news.ycombinator.com/user?id=Soupy</uri>
         </author>
     </entry>
 </feed>
