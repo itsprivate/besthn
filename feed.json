@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32490953",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32490953",
+            "title": "澳大利亚高等法院裁定超链接不是出版 [pdf]\n",
+            "summary": "High Court of Australia rules hyperlinking is not publishing [pdf]",
+            "date_modified": "2022-08-17T00:45:48.000Z",
+            "author": {
+                "name": "caf",
+                "url": "https://news.ycombinator.com/user?id=caf"
+            },
+            "_original_headline": "High Court of Australia rules hyperlinking is not publishing [pdf]",
+            "_original_url": "https://eresources.hcourt.gov.au/downloadPdf/2022/HCA/27",
+            "_sensitive": false,
+            "_score": 220
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32485460",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32485460",
+            "title": "为什么React要重新渲染\n",
+            "summary": "Why React Re-Renders",
+            "date_modified": "2022-08-16T16:50:42.000Z",
+            "author": {
+                "name": "clessg",
+                "url": "https://news.ycombinator.com/user?id=clessg"
+            },
+            "_original_headline": "Why React Re-Renders",
+            "_original_url": "https://www.joshwcomeau.com/react/why-react-re-renders/",
+            "_sensitive": false,
+            "_score": 220
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32486031",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32486031",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://news.ycombinator.com/item?id=32096656",
             "_sensitive": false,
             "_score": 201
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32100035",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32100035",
-            "title": "99行C语言中的Lisp以及如何自己写一个[pdf]\n",
-            "summary": "Lisp in 99 lines of C and how to write one yourself [pdf]",
-            "date_modified": "2022-07-14T18:52:56.000Z",
-            "author": {
-                "name": "jstanley",
-                "url": "https://news.ycombinator.com/user?id=jstanley"
-            },
-            "_original_headline": "Lisp in 99 lines of C and how to write one yourself [pdf]",
-            "_original_url": "https://github.com/Robert-van-Engelen/tinylisp/blob/main/tinylisp.pdf",
-            "_sensitive": false,
-            "_score": 213
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32098112",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32098112",
-            "title": "Stripe将内部估值降低了28%。\n",
-            "summary": "Stripe cuts internal valuation by 28%",
-            "date_modified": "2022-07-14T16:25:29.000Z",
-            "author": {
-                "name": "nowherebeen",
-                "url": "https://news.ycombinator.com/user?id=nowherebeen"
-            },
-            "_original_headline": "Stripe cuts internal valuation by 28%",
-            "_original_url": "https://www.wsj.com/articles/stripe-cuts-internal-valuation-by-28-11657815625",
-            "_sensitive": false,
-            "_score": 209
         }
     ]
 }

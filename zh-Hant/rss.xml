@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 17 Aug 2022 02:51:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 05:33:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[澳大利亞高等法院裁定超鏈接不是出版 [pdf]
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32490953</link>
+            <guid>https://news.ycombinator.com/item?id=32490953</guid>
+            <pubDate>Wed, 17 Aug 2022 00:45:48 GMT</pubDate>
+            <description><![CDATA[High Court of Australia rules hyperlinking is not publishing [pdf]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為什麼React要重新渲染
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32485460</link>
+            <guid>https://news.ycombinator.com/item?id=32485460</guid>
+            <pubDate>Tue, 16 Aug 2022 16:50:42 GMT</pubDate>
+            <description><![CDATA[Why React Re-Renders]]></description>
+        </item>
         <item>
             <title><![CDATA[SSH技巧和竅門
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32096656</guid>
             <pubDate>Thu, 14 Jul 2022 14:42:00 GMT</pubDate>
             <description><![CDATA[Tell HN: Upwork has an impersonation problem]]></description>
-        </item>
-        <item>
-            <title><![CDATA[99行C語言中的Lisp以及如何自己寫一個[pdf]
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32100035</link>
-            <guid>https://news.ycombinator.com/item?id=32100035</guid>
-            <pubDate>Thu, 14 Jul 2022 18:52:56 GMT</pubDate>
-            <description><![CDATA[Lisp in 99 lines of C and how to write one yourself [pdf]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Stripe將內部估值降低了28%。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32098112</link>
-            <guid>https://news.ycombinator.com/item?id=32098112</guid>
-            <pubDate>Thu, 14 Jul 2022 16:25:29 GMT</pubDate>
-            <description><![CDATA[Stripe cuts internal valuation by 28%]]></description>
         </item>
     </channel>
 </rss>

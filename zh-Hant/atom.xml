@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-17T02:51:53.238Z</updated>
+    <updated>2022-08-17T05:33:08.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[澳大利亞高等法院裁定超鏈接不是出版 [pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32490953</id>
+        <link href="https://news.ycombinator.com/item?id=32490953"/>
+        <updated>2022-08-17T00:45:48.000Z</updated>
+        <summary type="html"><![CDATA[High Court of Australia rules hyperlinking is not publishing [pdf]]]></summary>
+        <author>
+            <name>caf</name>
+            <uri>https://news.ycombinator.com/user?id=caf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為什麼React要重新渲染
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32485460</id>
+        <link href="https://news.ycombinator.com/item?id=32485460"/>
+        <updated>2022-08-16T16:50:42.000Z</updated>
+        <summary type="html"><![CDATA[Why React Re-Renders]]></summary>
+        <author>
+            <name>clessg</name>
+            <uri>https://news.ycombinator.com/user?id=clessg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SSH技巧和竅門
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>aarbor989</name>
             <uri>https://news.ycombinator.com/user?id=aarbor989</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[99行C語言中的Lisp以及如何自己寫一個[pdf]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32100035</id>
-        <link href="https://news.ycombinator.com/item?id=32100035"/>
-        <updated>2022-07-14T18:52:56.000Z</updated>
-        <summary type="html"><![CDATA[Lisp in 99 lines of C and how to write one yourself [pdf]]]></summary>
-        <author>
-            <name>jstanley</name>
-            <uri>https://news.ycombinator.com/user?id=jstanley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe將內部估值降低了28%。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32098112</id>
-        <link href="https://news.ycombinator.com/item?id=32098112"/>
-        <updated>2022-07-14T16:25:29.000Z</updated>
-        <summary type="html"><![CDATA[Stripe cuts internal valuation by 28%]]></summary>
-        <author>
-            <name>nowherebeen</name>
-            <uri>https://news.ycombinator.com/user?id=nowherebeen</uri>
         </author>
     </entry>
 </feed>
