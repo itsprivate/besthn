@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 17 Aug 2022 05:33:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 07:31:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[与《DALL-E 2》的冒险游戏画面
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32490455</link>
+            <guid>https://news.ycombinator.com/item?id=32490455</guid>
+            <pubDate>Tue, 16 Aug 2022 23:35:18 GMT</pubDate>
+            <description><![CDATA[Adventure game graphics with DALL-E 2]]></description>
+        </item>
         <item>
             <title><![CDATA[澳大利亚高等法院裁定超链接不是出版 [pdf]
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32101794</guid>
             <pubDate>Thu, 14 Jul 2022 21:41:44 GMT</pubDate>
             <description><![CDATA[Celsius acknowledges $1.2B hole in balance sheet]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告诉HN：Upwork有一个冒名顶替的问题
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32096656</link>
-            <guid>https://news.ycombinator.com/item?id=32096656</guid>
-            <pubDate>Thu, 14 Jul 2022 14:42:00 GMT</pubDate>
-            <description><![CDATA[Tell HN: Upwork has an impersonation problem]]></description>
         </item>
     </channel>
 </rss>
