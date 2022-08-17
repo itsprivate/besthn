@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-16T23:48:30.571Z</updated>
+    <updated>2022-08-17T02:51:53.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SSH技巧和窍门
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32486031</id>
+        <link href="https://news.ycombinator.com/item?id=32486031"/>
+        <updated>2022-08-16T17:31:23.000Z</updated>
+        <summary type="html"><![CDATA[SSH Tips and Tricks]]></summary>
+        <author>
+            <name>feross</name>
+            <uri>https://news.ycombinator.com/user?id=feross</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[墨西哥贷款应用程序、勒索和谷歌应用商店
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32459222</id>
+        <link href="https://news.ycombinator.com/item?id=32459222"/>
+        <updated>2022-08-14T13:49:06.000Z</updated>
+        <summary type="html"><![CDATA[Mexican Loan Apps, Extortion, and the Google Play Store]]></summary>
+        <author>
+            <name>blopeur</name>
+            <uri>https://news.ycombinator.com/user?id=blopeur</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOS上的VPN是个骗局
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>nowherebeen</name>
             <uri>https://news.ycombinator.com/user?id=nowherebeen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[厄运黑客让厄运在厄运中运行
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32093469</id>
-        <link href="https://news.ycombinator.com/item?id=32093469"/>
-        <updated>2022-07-14T08:25:49.000Z</updated>
-        <summary type="html"><![CDATA[Doom hacker gets Doom running in Doom]]></summary>
-        <author>
-            <name>doener</name>
-            <uri>https://news.ycombinator.com/user?id=doener</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[预处理程序冰山备忘录
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32094693</id>
-        <link href="https://news.ycombinator.com/item?id=32094693"/>
-        <updated>2022-07-14T11:53:00.000Z</updated>
-        <summary type="html"><![CDATA[The Preprocessor Iceberg Meme]]></summary>
-        <author>
-            <name>camel-cdr</name>
-            <uri>https://news.ycombinator.com/user?id=camel-cdr</uri>
         </author>
     </entry>
 </feed>

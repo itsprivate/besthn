@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 16 Aug 2022 23:48:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 02:51:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[SSH技巧和窍门
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32486031</link>
+            <guid>https://news.ycombinator.com/item?id=32486031</guid>
+            <pubDate>Tue, 16 Aug 2022 17:31:23 GMT</pubDate>
+            <description><![CDATA[SSH Tips and Tricks]]></description>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥贷款应用程序、勒索和谷歌应用商店
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32459222</link>
+            <guid>https://news.ycombinator.com/item?id=32459222</guid>
+            <pubDate>Sun, 14 Aug 2022 13:49:06 GMT</pubDate>
+            <description><![CDATA[Mexican Loan Apps, Extortion, and the Google Play Store]]></description>
+        </item>
         <item>
             <title><![CDATA[iOS上的VPN是个骗局
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32098112</guid>
             <pubDate>Thu, 14 Jul 2022 16:25:29 GMT</pubDate>
             <description><![CDATA[Stripe cuts internal valuation by 28%]]></description>
-        </item>
-        <item>
-            <title><![CDATA[厄运黑客让厄运在厄运中运行
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32093469</link>
-            <guid>https://news.ycombinator.com/item?id=32093469</guid>
-            <pubDate>Thu, 14 Jul 2022 08:25:49 GMT</pubDate>
-            <description><![CDATA[Doom hacker gets Doom running in Doom]]></description>
-        </item>
-        <item>
-            <title><![CDATA[预处理程序冰山备忘录
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32094693</link>
-            <guid>https://news.ycombinator.com/item?id=32094693</guid>
-            <pubDate>Thu, 14 Jul 2022 11:53:00 GMT</pubDate>
-            <description><![CDATA[The Preprocessor Iceberg Meme]]></description>
         </item>
     </channel>
 </rss>
