@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32493946",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32493946",
+            "title": "我做了一個基於網絡的記事本，裡面有一個內置的單位計算器\n",
+            "summary": "Show HN: I made a web-based notepad with a built in unit calculator",
+            "date_modified": "2022-08-17T09:01:42.000Z",
+            "author": {
+                "name": "tonyonodi",
+                "url": "https://news.ycombinator.com/user?id=tonyonodi"
+            },
+            "_original_headline": "Show HN: I made a web-based notepad with a built in unit calculator",
+            "_original_url": "https://numpad.io/",
+            "_sensitive": false,
+            "_score": 231
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32486595",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32486595",
+            "title": "福特F-150 \"閃電\"。快速的卡車，緩慢的電腦\n",
+            "summary": "Ford F-150 Lightning: Fast Truck, Slow Computer",
+            "date_modified": "2022-08-16T18:14:14.000Z",
+            "author": {
+                "name": "stalfosknight",
+                "url": "https://news.ycombinator.com/user?id=stalfosknight"
+            },
+            "_original_headline": "Ford F-150 Lightning: Fast Truck, Slow Computer",
+            "_original_url": "https://www.theverge.com/23307298/ford-f-150-lightning-review",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32494497",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32494497",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://dhall-lang.org/",
             "_sensitive": false,
             "_score": 206
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32104764",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32104764",
-            "title": "我是如何去學習Rust的\n",
-            "summary": "How I went about learning Rust",
-            "date_modified": "2022-07-15T05:00:51.000Z",
-            "author": {
-                "name": "zdw",
-                "url": "https://news.ycombinator.com/user?id=zdw"
-            },
-            "_original_headline": "How I went about learning Rust",
-            "_original_url": "https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/",
-            "_sensitive": false,
-            "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32081288",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32081288",
-            "title": "我希望得到的教訓 (1996)\n",
-            "summary": "Lessons I wish I had been taught (1996)",
-            "date_modified": "2022-07-13T11:37:14.000Z",
-            "author": {
-                "name": "Tomte",
-                "url": "https://news.ycombinator.com/user?id=Tomte"
-            },
-            "_original_headline": "Lessons I wish I had been taught (1996)",
-            "_original_url": "https://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }

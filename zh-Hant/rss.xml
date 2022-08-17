@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 17 Aug 2022 13:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 14:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一個基於網絡的記事本，裡面有一個內置的單位計算器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32493946</link>
+            <guid>https://news.ycombinator.com/item?id=32493946</guid>
+            <pubDate>Wed, 17 Aug 2022 09:01:42 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a web-based notepad with a built in unit calculator]]></description>
+        </item>
+        <item>
+            <title><![CDATA[福特F-150 "閃電"。快速的卡車，緩慢的電腦
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32486595</link>
+            <guid>https://news.ycombinator.com/item?id=32486595</guid>
+            <pubDate>Tue, 16 Aug 2022 18:14:14 GMT</pubDate>
+            <description><![CDATA[Ford F-150 Lightning: Fast Truck, Slow Computer]]></description>
+        </item>
         <item>
             <title><![CDATA[測試發現新車中的物理按鈕明顯優於觸摸屏
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32102203</guid>
             <pubDate>Thu, 14 Jul 2022 22:33:18 GMT</pubDate>
             <description><![CDATA[The Dhall Configuration Language]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我是如何去學習Rust的
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32104764</link>
-            <guid>https://news.ycombinator.com/item?id=32104764</guid>
-            <pubDate>Fri, 15 Jul 2022 05:00:51 GMT</pubDate>
-            <description><![CDATA[How I went about learning Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我希望得到的教訓 (1996)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32081288</link>
-            <guid>https://news.ycombinator.com/item?id=32081288</guid>
-            <pubDate>Wed, 13 Jul 2022 11:37:14 GMT</pubDate>
-            <description><![CDATA[Lessons I wish I had been taught (1996)]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-17T13:06:36.528Z</updated>
+    <updated>2022-08-17T14:09:17.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個基於網絡的記事本，裡面有一個內置的單位計算器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32493946</id>
+        <link href="https://news.ycombinator.com/item?id=32493946"/>
+        <updated>2022-08-17T09:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a web-based notepad with a built in unit calculator]]></summary>
+        <author>
+            <name>tonyonodi</name>
+            <uri>https://news.ycombinator.com/user?id=tonyonodi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福特F-150 "閃電"。快速的卡車，緩慢的電腦
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32486595</id>
+        <link href="https://news.ycombinator.com/item?id=32486595"/>
+        <updated>2022-08-16T18:14:14.000Z</updated>
+        <summary type="html"><![CDATA[Ford F-150 Lightning: Fast Truck, Slow Computer]]></summary>
+        <author>
+            <name>stalfosknight</name>
+            <uri>https://news.ycombinator.com/user?id=stalfosknight</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[測試發現新車中的物理按鈕明顯優於觸摸屏
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>bjourne</name>
             <uri>https://news.ycombinator.com/user?id=bjourne</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是如何去學習Rust的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32104764</id>
-        <link href="https://news.ycombinator.com/item?id=32104764"/>
-        <updated>2022-07-15T05:00:51.000Z</updated>
-        <summary type="html"><![CDATA[How I went about learning Rust]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我希望得到的教訓 (1996)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32081288</id>
-        <link href="https://news.ycombinator.com/item?id=32081288"/>
-        <updated>2022-07-13T11:37:14.000Z</updated>
-        <summary type="html"><![CDATA[Lessons I wish I had been taught (1996)]]></summary>
-        <author>
-            <name>Tomte</name>
-            <uri>https://news.ycombinator.com/user?id=Tomte</uri>
         </author>
     </entry>
 </feed>
