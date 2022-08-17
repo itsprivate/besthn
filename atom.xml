@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-17T09:01:09.407Z</updated>
+    <updated>2022-08-17T13:06:36.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[测试发现新车中的物理按钮明显优于触摸屏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32494497</id>
+        <link href="https://news.ycombinator.com/item?id=32494497"/>
+        <updated>2022-08-17T10:40:22.000Z</updated>
+        <summary type="html"><![CDATA[Physical buttons clearly outperform touchscreens in new cars, test finds]]></summary>
+        <author>
+            <name>eriksdh</name>
+            <uri>https://news.ycombinator.com/user?id=eriksdh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[精挑细选的免签工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32482211</id>
+        <link href="https://news.ycombinator.com/item?id=32482211"/>
+        <updated>2022-08-16T13:03:20.000Z</updated>
+        <summary type="html"><![CDATA[Handpicked No-Signup Tools]]></summary>
+        <author>
+            <name>scastiel</name>
+            <uri>https://news.ycombinator.com/user?id=scastiel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人工智能艺术启示录
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Tomte</name>
             <uri>https://news.ycombinator.com/user?id=Tomte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[搜索小屋
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32104609</id>
-        <link href="https://news.ycombinator.com/item?id=32104609"/>
-        <updated>2022-07-15T04:27:30.000Z</updated>
-        <summary type="html"><![CDATA[SearchHut]]></summary>
-        <author>
-            <name>tsujp</name>
-            <uri>https://news.ycombinator.com/user?id=tsujp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocky Linux 9.0
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32097950</id>
-        <link href="https://news.ycombinator.com/item?id=32097950"/>
-        <updated>2022-07-14T16:14:26.000Z</updated>
-        <summary type="html"><![CDATA[Rocky Linux 9.0]]></summary>
-        <author>
-            <name>TangerineDream</name>
-            <uri>https://news.ycombinator.com/user?id=TangerineDream</uri>
         </author>
     </entry>
 </feed>
