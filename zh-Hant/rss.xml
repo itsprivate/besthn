@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 17 Aug 2022 17:48:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 18:59:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在遊樂場學習Postgres - Postgres編譯成WASM在瀏覽器中運行
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32498435</link>
+            <guid>https://news.ycombinator.com/item?id=32498435</guid>
+            <pubDate>Wed, 17 Aug 2022 16:28:45 GMT</pubDate>
+            <description><![CDATA[Learn Postgres at the Playground – Postgres compiled to WASM running in browser]]></description>
+        </item>
+        <item>
+            <title><![CDATA[住房是富裕世界許多問題的根源 (2020)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32493549</link>
+            <guid>https://news.ycombinator.com/item?id=32493549</guid>
+            <pubDate>Wed, 17 Aug 2022 07:55:28 GMT</pubDate>
+            <description><![CDATA[Housing is at the root of many of the rich world’s problems (2020)]]></description>
+        </item>
         <item>
             <title><![CDATA[迷你ITX主板上的6個樹莓Pis、6個SSDs
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32087557</guid>
             <pubDate>Wed, 13 Jul 2022 19:20:37 GMT</pubDate>
             <description><![CDATA[Kurt Vonnegut on the “shapes” of stories]]></description>
-        </item>
-        <item>
-            <title><![CDATA[編寫編譯器的教訓
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32100880</link>
-            <guid>https://news.ycombinator.com/item?id=32100880</guid>
-            <pubDate>Thu, 14 Jul 2022 20:09:36 GMT</pubDate>
-            <description><![CDATA[Lessons from Writing a Compiler]]></description>
-        </item>
-        <item>
-            <title><![CDATA[tere - 一個更快替代cd+ls的方法
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32106126</link>
-            <guid>https://news.ycombinator.com/item?id=32106126</guid>
-            <pubDate>Fri, 15 Jul 2022 08:45:42 GMT</pubDate>
-            <description><![CDATA[Show HN: tere – A Faster Alternative to cd+ls]]></description>
         </item>
     </channel>
 </rss>

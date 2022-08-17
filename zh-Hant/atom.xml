@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-17T17:48:50.225Z</updated>
+    <updated>2022-08-17T18:59:55.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在遊樂場學習Postgres - Postgres編譯成WASM在瀏覽器中運行
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32498435</id>
+        <link href="https://news.ycombinator.com/item?id=32498435"/>
+        <updated>2022-08-17T16:28:45.000Z</updated>
+        <summary type="html"><![CDATA[Learn Postgres at the Playground – Postgres compiled to WASM running in browser]]></summary>
+        <author>
+            <name>samwillis</name>
+            <uri>https://news.ycombinator.com/user?id=samwillis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[住房是富裕世界許多問題的根源 (2020)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32493549</id>
+        <link href="https://news.ycombinator.com/item?id=32493549"/>
+        <updated>2022-08-17T07:55:28.000Z</updated>
+        <summary type="html"><![CDATA[Housing is at the root of many of the rich world’s problems (2020)]]></summary>
+        <author>
+            <name>ethor</name>
+            <uri>https://news.ycombinator.com/user?id=ethor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迷你ITX主板上的6個樹莓Pis、6個SSDs
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>aleyan</name>
             <uri>https://news.ycombinator.com/user?id=aleyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[編寫編譯器的教訓
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32100880</id>
-        <link href="https://news.ycombinator.com/item?id=32100880"/>
-        <updated>2022-07-14T20:09:36.000Z</updated>
-        <summary type="html"><![CDATA[Lessons from Writing a Compiler]]></summary>
-        <author>
-            <name>zetalyrae</name>
-            <uri>https://news.ycombinator.com/user?id=zetalyrae</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tere - 一個更快替代cd+ls的方法
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32106126</id>
-        <link href="https://news.ycombinator.com/item?id=32106126"/>
-        <updated>2022-07-15T08:45:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: tere – A Faster Alternative to cd+ls]]></summary>
-        <author>
-            <name>mgunyho</name>
-            <uri>https://news.ycombinator.com/user?id=mgunyho</uri>
         </author>
     </entry>
 </feed>
