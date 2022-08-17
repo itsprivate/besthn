@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-17T07:31:28.021Z</updated>
+    <updated>2022-08-17T08:37:05.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[RavynOS - macOS的精细度。FreeBSD的自由
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32492514</id>
+        <link href="https://news.ycombinator.com/item?id=32492514"/>
+        <updated>2022-08-17T04:55:34.000Z</updated>
+        <summary type="html"><![CDATA[RavynOS – Finesse of macOS. Freedom of FreeBSD]]></summary>
+        <author>
+            <name>behnamoh</name>
+            <uri>https://news.ycombinator.com/user?id=behnamoh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[与《DALL-E 2》的冒险游戏画面
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>themgt</name>
             <uri>https://news.ycombinator.com/user?id=themgt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蔚来汽车承认资产负债表有12亿美元的漏洞
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32101794</id>
-        <link href="https://news.ycombinator.com/item?id=32101794"/>
-        <updated>2022-07-14T21:41:44.000Z</updated>
-        <summary type="html"><![CDATA[Celsius acknowledges $1.2B hole in balance sheet]]></summary>
-        <author>
-            <name>T-A</name>
-            <uri>https://news.ycombinator.com/user?id=T-A</uri>
         </author>
     </entry>
 </feed>
