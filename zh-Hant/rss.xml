@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 17 Aug 2022 22:49:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 23:47:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谷歌物聯網核心將於2023年8月16日停產
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32475298</link>
+            <guid>https://news.ycombinator.com/item?id=32475298</guid>
+            <pubDate>Mon, 15 Aug 2022 20:59:01 GMT</pubDate>
+            <description><![CDATA[Google IoT Core will be discontinued on Aug. 16, 2023]]></description>
+        </item>
         <item>
             <title><![CDATA[越南首次生產Apple Watch和MacBook
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32110662</guid>
             <pubDate>Fri, 15 Jul 2022 17:29:28 GMT</pubDate>
             <description><![CDATA[I'm hosting a website on a RAID0 of 30 floppy drives]]></description>
-        </item>
-        <item>
-            <title><![CDATA[毀滅公爵II》的視差滾動是如何工作的
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32108503</link>
-            <guid>https://news.ycombinator.com/item?id=32108503</guid>
-            <pubDate>Fri, 15 Jul 2022 14:23:53 GMT</pubDate>
-            <description><![CDATA[How Duke Nukem II’s parallax scrolling worked]]></description>
         </item>
     </channel>
 </rss>

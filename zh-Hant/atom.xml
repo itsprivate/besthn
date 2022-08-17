@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-17T22:49:03.196Z</updated>
+    <updated>2022-08-17T23:47:47.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌物聯網核心將於2023年8月16日停產
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32475298</id>
+        <link href="https://news.ycombinator.com/item?id=32475298"/>
+        <updated>2022-08-15T20:59:01.000Z</updated>
+        <summary type="html"><![CDATA[Google IoT Core will be discontinued on Aug. 16, 2023]]></summary>
+        <author>
+            <name>borner791</name>
+            <uri>https://news.ycombinator.com/user?id=borner791</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[越南首次生產Apple Watch和MacBook
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>LarryPage</name>
             <uri>https://news.ycombinator.com/user?id=LarryPage</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毀滅公爵II》的視差滾動是如何工作的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32108503</id>
-        <link href="https://news.ycombinator.com/item?id=32108503"/>
-        <updated>2022-07-15T14:23:53.000Z</updated>
-        <summary type="html"><![CDATA[How Duke Nukem II’s parallax scrolling worked]]></summary>
-        <author>
-            <name>bpierre</name>
-            <uri>https://news.ycombinator.com/user?id=bpierre</uri>
         </author>
     </entry>
 </feed>
