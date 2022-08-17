@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32493217",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32493217",
+            "title": "Jank語言。LLVM託管的Clojure\n",
+            "summary": "The Jank Language: LLVM Hosted Clojure",
+            "date_modified": "2022-08-17T07:11:04.000Z",
+            "author": {
+                "name": "bobnamob",
+                "url": "https://news.ycombinator.com/user?id=bobnamob"
+            },
+            "_original_headline": "The Jank Language: LLVM Hosted Clojure",
+            "_original_url": "https://jank-lang.org/",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32494659",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32494659",
@@ -9593,22 +9609,6 @@
             "_original_url": "http://www.whicken.com/scorch/",
             "_sensitive": false,
             "_score": 208
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32106136",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32106136",
-            "title": "我今天如何體驗網絡\n",
-            "summary": "How I Experience the Web Today",
-            "date_modified": "2022-07-15T08:46:58.000Z",
-            "author": {
-                "name": "chynkm",
-                "url": "https://news.ycombinator.com/user?id=chynkm"
-            },
-            "_original_headline": "How I Experience the Web Today",
-            "_original_url": "https://how-i-experience-web-today.com/detail.html",
-            "_sensitive": false,
-            "_score": 228
         }
     ]
 }
