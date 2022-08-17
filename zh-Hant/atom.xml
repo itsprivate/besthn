@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-17T18:59:55.645Z</updated>
+    <updated>2022-08-17T19:24:16.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們需要的編程突破
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32495133</id>
+        <link href="https://news.ycombinator.com/item?id=32495133"/>
+        <updated>2022-08-17T12:03:25.000Z</updated>
+        <summary type="html"><![CDATA[Programming breakthroughs we need]]></summary>
+        <author>
+            <name>panstromek</name>
+            <uri>https://news.ycombinator.com/user?id=panstromek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在遊樂場學習Postgres - Postgres編譯成WASM在瀏覽器中運行
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Trouble_007</name>
             <uri>https://news.ycombinator.com/user?id=Trouble_007</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[庫爾特-馮內古特談故事的 "形狀"
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32087557</id>
-        <link href="https://news.ycombinator.com/item?id=32087557"/>
-        <updated>2022-07-13T19:20:37.000Z</updated>
-        <summary type="html"><![CDATA[Kurt Vonnegut on the “shapes” of stories]]></summary>
-        <author>
-            <name>aleyan</name>
-            <uri>https://news.ycombinator.com/user?id=aleyan</uri>
         </author>
     </entry>
 </feed>

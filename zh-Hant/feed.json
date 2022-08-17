@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32495133",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32495133",
+            "title": "我們需要的編程突破\n",
+            "summary": "Programming breakthroughs we need",
+            "date_modified": "2022-08-17T12:03:25.000Z",
+            "author": {
+                "name": "panstromek",
+                "url": "https://news.ycombinator.com/user?id=panstromek"
+            },
+            "_original_headline": "Programming breakthroughs we need",
+            "_original_url": "https://yoyo-code.com/programming-breakthroughs-we-need/",
+            "_sensitive": false,
+            "_score": 207
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32498435",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32498435",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://thedissenter.org/jury-guilty-cia-programmer-schulte-vault-7-wikileaks/",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32087557",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32087557",
-            "title": "庫爾特-馮內古特談故事的 \"形狀\"\n",
-            "summary": "Kurt Vonnegut on the “shapes” of stories",
-            "date_modified": "2022-07-13T19:20:37.000Z",
-            "author": {
-                "name": "aleyan",
-                "url": "https://news.ycombinator.com/user?id=aleyan"
-            },
-            "_original_headline": "Kurt Vonnegut on the “shapes” of stories",
-            "_original_url": "https://bigthink.com/high-culture/vonnegut-shapes/",
-            "_sensitive": false,
-            "_score": 202
         }
     ]
 }

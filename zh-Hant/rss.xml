@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 17 Aug 2022 18:59:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 19:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我們需要的編程突破
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32495133</link>
+            <guid>https://news.ycombinator.com/item?id=32495133</guid>
+            <pubDate>Wed, 17 Aug 2022 12:03:25 GMT</pubDate>
+            <description><![CDATA[Programming breakthroughs we need]]></description>
+        </item>
         <item>
             <title><![CDATA[在遊樂場學習Postgres - Postgres編譯成WASM在瀏覽器中運行
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32106063</guid>
             <pubDate>Fri, 15 Jul 2022 08:34:45 GMT</pubDate>
             <description><![CDATA[Jury finds former CIA programmer guilty of leaking CIA hacking materials]]></description>
-        </item>
-        <item>
-            <title><![CDATA[庫爾特-馮內古特談故事的 "形狀"
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32087557</link>
-            <guid>https://news.ycombinator.com/item?id=32087557</guid>
-            <pubDate>Wed, 13 Jul 2022 19:20:37 GMT</pubDate>
-            <description><![CDATA[Kurt Vonnegut on the “shapes” of stories]]></description>
         </item>
     </channel>
 </rss>
