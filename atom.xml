@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-18T21:29:42.645Z</updated>
+    <updated>2022-08-18T21:49:31.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[数据中心的呼喊 (2008)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32513240</id>
+        <link href="https://news.ycombinator.com/item?id=32513240"/>
+        <updated>2022-08-18T18:32:13.000Z</updated>
+        <summary type="html"><![CDATA[Shouting in the Datacenter (2008)]]></summary>
+        <author>
+            <name>mmastrac</name>
+            <uri>https://news.ycombinator.com/user?id=mmastrac</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Whytheluckystiff的原始域作为档案馆回来了
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>scrlk</name>
             <uri>https://news.ycombinator.com/user?id=scrlk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[facebook.com上的新网址是怎么回事？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32117489</id>
-        <link href="https://news.ycombinator.com/item?id=32117489"/>
-        <updated>2022-07-16T12:47:27.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: What is with the new URLs on facebook.com?]]></summary>
-        <author>
-            <name>thrusong</name>
-            <uri>https://news.ycombinator.com/user?id=thrusong</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 18 Aug 2022 21:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 21:49:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[数据中心的呼喊 (2008)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32513240</link>
+            <guid>https://news.ycombinator.com/item?id=32513240</guid>
+            <pubDate>Thu, 18 Aug 2022 18:32:13 GMT</pubDate>
+            <description><![CDATA[Shouting in the Datacenter (2008)]]></description>
+        </item>
         <item>
             <title><![CDATA[Whytheluckystiff的原始域作为档案馆回来了
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32118818</guid>
             <pubDate>Sat, 16 Jul 2022 15:04:39 GMT</pubDate>
             <description><![CDATA[Why rails buckle in Britain]]></description>
-        </item>
-        <item>
-            <title><![CDATA[facebook.com上的新网址是怎么回事？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32117489</link>
-            <guid>https://news.ycombinator.com/item?id=32117489</guid>
-            <pubDate>Sat, 16 Jul 2022 12:47:27 GMT</pubDate>
-            <description><![CDATA[Ask HN: What is with the new URLs on facebook.com?]]></description>
         </item>
     </channel>
 </rss>
