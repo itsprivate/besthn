@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 18 Aug 2022 21:49:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 23:02:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我对TDD有复杂的感受
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32509268</link>
+            <guid>https://news.ycombinator.com/item?id=32509268</guid>
+            <pubDate>Thu, 18 Aug 2022 13:28:16 GMT</pubDate>
+            <description><![CDATA[I have complicated feelings about TDD]]></description>
+        </item>
         <item>
             <title><![CDATA[数据中心的呼喊 (2008)
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32119636</guid>
             <pubDate>Sat, 16 Jul 2022 16:37:05 GMT</pubDate>
             <description><![CDATA[China mortgage boycott data erased by censors as crisis spreads]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英国的铁轨为什么会发生弯曲
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32118818</link>
-            <guid>https://news.ycombinator.com/item?id=32118818</guid>
-            <pubDate>Sat, 16 Jul 2022 15:04:39 GMT</pubDate>
-            <description><![CDATA[Why rails buckle in Britain]]></description>
         </item>
     </channel>
 </rss>
