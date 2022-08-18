@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-18T20:50:49.324Z</updated>
+    <updated>2022-08-18T21:29:42.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Whytheluckystiff的原始域作為檔案館回來了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32513020</id>
+        <link href="https://news.ycombinator.com/item?id=32513020"/>
+        <updated>2022-08-18T18:12:31.000Z</updated>
+        <summary type="html"><![CDATA[Whytheluckystiff's original domain back as an archive]]></summary>
+        <author>
+            <name>samlambert</name>
+            <uri>https://news.ycombinator.com/user?id=samlambert</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你不可能在蘇格蘭買一平方英尺的土地就成為蘇格蘭的領主
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>thrusong</name>
             <uri>https://news.ycombinator.com/user?id=thrusong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼蒸汽機沒有更早發明？第二部分
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32106467</id>
-        <link href="https://news.ycombinator.com/item?id=32106467"/>
-        <updated>2022-07-15T09:57:20.000Z</updated>
-        <summary type="html"><![CDATA[Why wasn't the steam engine invented earlier? Part II]]></summary>
-        <author>
-            <name>harscoat</name>
-            <uri>https://news.ycombinator.com/user?id=harscoat</uri>
         </author>
     </entry>
 </feed>

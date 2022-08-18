@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 18 Aug 2022 20:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 21:29:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Whytheluckystiff的原始域作为档案馆回来了
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32513020</link>
+            <guid>https://news.ycombinator.com/item?id=32513020</guid>
+            <pubDate>Thu, 18 Aug 2022 18:12:31 GMT</pubDate>
+            <description><![CDATA[Whytheluckystiff's original domain back as an archive]]></description>
+        </item>
         <item>
             <title><![CDATA[你不可能在苏格兰买一平方英尺的土地就成为苏格兰的领主
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32117489</guid>
             <pubDate>Sat, 16 Jul 2022 12:47:27 GMT</pubDate>
             <description><![CDATA[Ask HN: What is with the new URLs on facebook.com?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么蒸汽机没有更早发明？第二部分
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32106467</link>
-            <guid>https://news.ycombinator.com/item?id=32106467</guid>
-            <pubDate>Fri, 15 Jul 2022 09:57:20 GMT</pubDate>
-            <description><![CDATA[Why wasn't the steam engine invented earlier? Part II]]></description>
         </item>
     </channel>
 </rss>
