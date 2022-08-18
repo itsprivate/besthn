@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 18 Aug 2022 06:38:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 09:50:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[物理学二人组发现二维空间的魔力
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32491587</link>
+            <guid>https://news.ycombinator.com/item?id=32491587</guid>
+            <pubDate>Wed, 17 Aug 2022 02:24:56 GMT</pubDate>
+            <description><![CDATA[Physics duo finds magic in two dimensions]]></description>
+        </item>
         <item>
             <title><![CDATA[并非一无所获
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32112846</guid>
             <pubDate>Fri, 15 Jul 2022 21:09:54 GMT</pubDate>
             <description><![CDATA[Advice for the next dozen Rust GUIs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[令人难以置信的愚蠢的人
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32110366</link>
-            <guid>https://news.ycombinator.com/item?id=32110366</guid>
-            <pubDate>Fri, 15 Jul 2022 17:08:56 GMT</pubDate>
-            <description><![CDATA[The Incredibly Stupid One]]></description>
         </item>
     </channel>
 </rss>
