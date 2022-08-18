@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32508158",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32508158",
+            "title": "Julia 1.8\n",
+            "summary": "Julia 1.8",
+            "date_modified": "2022-08-18T11:42:39.000Z",
+            "author": {
+                "name": "shakow",
+                "url": "https://news.ycombinator.com/user?id=shakow"
+            },
+            "_original_headline": "Julia 1.8",
+            "_original_url": "https://julialang.org/blog/2022/08/julia-1.8-highlights/",
+            "_sensitive": false,
+            "_score": 210
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32507147",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32507147",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/",
             "_sensitive": false,
             "_score": 223
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32115059",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32115059",
-            "title": "学习精英班\n",
-            "summary": "Learning The Elite Class",
-            "date_modified": "2022-07-16T03:45:13.000Z",
-            "author": {
-                "name": "jseliger",
-                "url": "https://news.ycombinator.com/user?id=jseliger"
-            },
-            "_original_headline": "Learning The Elite Class",
-            "_original_url": "https://aella.substack.com/p/learning-the-elite-class",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }
