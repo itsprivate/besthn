@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-18T17:25:32.619Z</updated>
+    <updated>2022-08-18T17:56:54.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個筆記本硬盤型號在接觸到某種音頻頻率時可能會崩潰
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32507147</id>
+        <link href="https://news.ycombinator.com/item?id=32507147"/>
+        <updated>2022-08-18T09:20:13.000Z</updated>
+        <summary type="html"><![CDATA[A laptop hard drive model could crash when exposed to a certain audio frequency]]></summary>
+        <author>
+            <name>drKarl</name>
+            <uri>https://news.ycombinator.com/user?id=drKarl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[臺積電下月開始生產3納米芯片
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jseliger</name>
             <uri>https://news.ycombinator.com/user?id=jseliger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開放式無人機地圖
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32094603</id>
-        <link href="https://news.ycombinator.com/item?id=32094603"/>
-        <updated>2022-07-14T11:39:10.000Z</updated>
-        <summary type="html"><![CDATA[OpenDroneMap]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 18 Aug 2022 17:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 17:56:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個筆記本硬盤型號在接觸到某種音頻頻率時可能會崩潰
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32507147</link>
+            <guid>https://news.ycombinator.com/item?id=32507147</guid>
+            <pubDate>Thu, 18 Aug 2022 09:20:13 GMT</pubDate>
+            <description><![CDATA[A laptop hard drive model could crash when exposed to a certain audio frequency]]></description>
+        </item>
         <item>
             <title><![CDATA[臺積電下月開始生產3納米芯片
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32115059</guid>
             <pubDate>Sat, 16 Jul 2022 03:45:13 GMT</pubDate>
             <description><![CDATA[Learning The Elite Class]]></description>
-        </item>
-        <item>
-            <title><![CDATA[開放式無人機地圖
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32094603</link>
-            <guid>https://news.ycombinator.com/item?id=32094603</guid>
-            <pubDate>Thu, 14 Jul 2022 11:39:10 GMT</pubDate>
-            <description><![CDATA[OpenDroneMap]]></description>
         </item>
     </channel>
 </rss>
