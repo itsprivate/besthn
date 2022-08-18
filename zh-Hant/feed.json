@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32502072",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32502072",
+            "title": "維薩-萬事達卡的雙頭壟斷能被打破嗎？\n",
+            "summary": "Can the Visa-Mastercard duopoly be broken?",
+            "date_modified": "2022-08-17T21:40:56.000Z",
+            "author": {
+                "name": "pseudolus",
+                "url": "https://news.ycombinator.com/user?id=pseudolus"
+            },
+            "_original_headline": "Can the Visa-Mastercard duopoly be broken?",
+            "_original_url": "https://www.economist.com/finance-and-economics/2022/08/17/can-the-visa-mastercard-duopoly-be-broken",
+            "_sensitive": false,
+            "_score": 210
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32475298",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32475298",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.sciencedaily.com/releases/2022/07/220714145059.htm",
             "_sensitive": false,
             "_score": 203
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32110662",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32110662",
-            "title": "我在一個由30個軟盤組成的RAID0上託管一個網站\n",
-            "summary": "I'm hosting a website on a RAID0 of 30 floppy drives",
-            "date_modified": "2022-07-15T17:29:28.000Z",
-            "author": {
-                "name": "LarryPage",
-                "url": "https://news.ycombinator.com/user?id=LarryPage"
-            },
-            "_original_headline": "I'm hosting a website on a RAID0 of 30 floppy drives",
-            "_original_url": "http://totallynormalwebsite.ddns.net/",
-            "_sensitive": false,
-            "_score": 202
         }
     ]
 }

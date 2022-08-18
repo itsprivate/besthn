@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-17T23:47:47.696Z</updated>
+    <updated>2022-08-18T02:53:57.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[维萨-万事达卡的双头垄断能被打破吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32502072</id>
+        <link href="https://news.ycombinator.com/item?id=32502072"/>
+        <updated>2022-08-17T21:40:56.000Z</updated>
+        <summary type="html"><![CDATA[Can the Visa-Mastercard duopoly be broken?]]></summary>
+        <author>
+            <name>pseudolus</name>
+            <uri>https://news.ycombinator.com/user?id=pseudolus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌物联网核心将于2023年8月16日停产
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>FollowingTheDao</name>
             <uri>https://news.ycombinator.com/user?id=FollowingTheDao</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在一个由30个软盘组成的RAID0上托管一个网站
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32110662</id>
-        <link href="https://news.ycombinator.com/item?id=32110662"/>
-        <updated>2022-07-15T17:29:28.000Z</updated>
-        <summary type="html"><![CDATA[I'm hosting a website on a RAID0 of 30 floppy drives]]></summary>
-        <author>
-            <name>LarryPage</name>
-            <uri>https://news.ycombinator.com/user?id=LarryPage</uri>
         </author>
     </entry>
 </feed>
