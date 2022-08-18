@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-18T09:50:42.866Z</updated>
+    <updated>2022-08-18T11:29:24.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[食用昆蟲在向人類傳播寄生蟲病中的作用（2019年）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32505092</id>
+        <link href="https://news.ycombinator.com/item?id=32505092"/>
+        <updated>2022-08-18T03:58:37.000Z</updated>
+        <summary type="html"><![CDATA[Edible insects role in transmission of parasitic diseases to humans (2019)]]></summary>
+        <author>
+            <name>walterbell</name>
+            <uri>https://news.ycombinator.com/user?id=walterbell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[物理學二人組發現二維空間的魔力
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mjshashank</name>
             <uri>https://news.ycombinator.com/user?id=mjshashank</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對未來十幾個Rust GUI的建議
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32112846</id>
-        <link href="https://news.ycombinator.com/item?id=32112846"/>
-        <updated>2022-07-15T21:09:54.000Z</updated>
-        <summary type="html"><![CDATA[Advice for the next dozen Rust GUIs]]></summary>
-        <author>
-            <name>raphlinus</name>
-            <uri>https://news.ycombinator.com/user?id=raphlinus</uri>
         </author>
     </entry>
 </feed>

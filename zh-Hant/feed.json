@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32505092",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32505092",
+            "title": "食用昆蟲在向人類傳播寄生蟲病中的作用（2019年）\n",
+            "summary": "Edible insects role in transmission of parasitic diseases to humans (2019)",
+            "date_modified": "2022-08-18T03:58:37.000Z",
+            "author": {
+                "name": "walterbell",
+                "url": "https://news.ycombinator.com/user?id=walterbell"
+            },
+            "_original_headline": "Edible insects role in transmission of parasitic diseases to humans (2019)",
+            "_original_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219303",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32491587",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32491587",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://history.user-interface.io",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32112846",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32112846",
-            "title": "對未來十幾個Rust GUI的建議\n",
-            "summary": "Advice for the next dozen Rust GUIs",
-            "date_modified": "2022-07-15T21:09:54.000Z",
-            "author": {
-                "name": "raphlinus",
-                "url": "https://news.ycombinator.com/user?id=raphlinus"
-            },
-            "_original_headline": "Advice for the next dozen Rust GUIs",
-            "_original_url": "https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html",
-            "_sensitive": false,
-            "_score": 203
         }
     ]
 }
