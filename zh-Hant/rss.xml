@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 18 Aug 2022 11:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 13:02:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我花了一年的時間設計了一款低調、簡約的機械鍵盤
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32507172</link>
+            <guid>https://news.ycombinator.com/item?id=32507172</guid>
+            <pubDate>Thu, 18 Aug 2022 09:24:13 GMT</pubDate>
+            <description><![CDATA[Show HN: I spent a year designing a low profile, minimal mechanical keyboard]]></description>
+        </item>
         <item>
             <title><![CDATA[食用昆蟲在向人類傳播寄生蟲病中的作用（2019年）
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32109760</guid>
             <pubDate>Fri, 15 Jul 2022 16:22:44 GMT</pubDate>
             <description><![CDATA[Greg Robinson fixed NASA’s James Webb Space Telescope, reluctantly]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用戶界面的歷史
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32092804</link>
-            <guid>https://news.ycombinator.com/item?id=32092804</guid>
-            <pubDate>Thu, 14 Jul 2022 06:48:41 GMT</pubDate>
-            <description><![CDATA[The History of User Interfaces]]></description>
         </item>
     </channel>
 </rss>

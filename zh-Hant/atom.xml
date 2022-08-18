@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-18T11:29:24.012Z</updated>
+    <updated>2022-08-18T13:02:42.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我花了一年的時間設計了一款低調、簡約的機械鍵盤
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32507172</id>
+        <link href="https://news.ycombinator.com/item?id=32507172"/>
+        <updated>2022-08-18T09:24:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I spent a year designing a low profile, minimal mechanical keyboard]]></summary>
+        <author>
+            <name>aemerson_</name>
+            <uri>https://news.ycombinator.com/user?id=aemerson_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[食用昆蟲在向人類傳播寄生蟲病中的作用（2019年）
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>wallflower</name>
             <uri>https://news.ycombinator.com/user?id=wallflower</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用戶界面的歷史
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32092804</id>
-        <link href="https://news.ycombinator.com/item?id=32092804"/>
-        <updated>2022-07-14T06:48:41.000Z</updated>
-        <summary type="html"><![CDATA[The History of User Interfaces]]></summary>
-        <author>
-            <name>mjshashank</name>
-            <uri>https://news.ycombinator.com/user?id=mjshashank</uri>
         </author>
     </entry>
 </feed>

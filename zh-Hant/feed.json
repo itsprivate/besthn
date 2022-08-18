@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32507172",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32507172",
+            "title": "我花了一年的時間設計了一款低調、簡約的機械鍵盤\n",
+            "summary": "Show HN: I spent a year designing a low profile, minimal mechanical keyboard",
+            "date_modified": "2022-08-18T09:24:13.000Z",
+            "author": {
+                "name": "aemerson_",
+                "url": "https://news.ycombinator.com/user?id=aemerson_"
+            },
+            "_original_headline": "Show HN: I spent a year designing a low profile, minimal mechanical keyboard",
+            "_original_url": "https://electronicmaterialsoffice.com/",
+            "_sensitive": false,
+            "_score": 269
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32505092",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32505092",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "Greg Robinson fixed NASA’s James Webb Space Telescope, reluctantly",
             "_original_url": "https://www.nytimes.com/2022/07/11/science/greg-robinson-webb-telescope-nasa.html",
-            "_sensitive": false,
-            "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32092804",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32092804",
-            "title": "用戶界面的歷史\n",
-            "summary": "The History of User Interfaces",
-            "date_modified": "2022-07-14T06:48:41.000Z",
-            "author": {
-                "name": "mjshashank",
-                "url": "https://news.ycombinator.com/user?id=mjshashank"
-            },
-            "_original_headline": "The History of User Interfaces",
-            "_original_url": "https://history.user-interface.io",
             "_sensitive": false,
             "_score": 200
         }
