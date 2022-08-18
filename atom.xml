@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-18T05:20:52.276Z</updated>
+    <updated>2022-08-18T06:38:14.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[并非一无所获
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32491811</id>
+        <link href="https://news.ycombinator.com/item?id=32491811"/>
+        <updated>2022-08-17T03:01:53.000Z</updated>
+        <summary type="html"><![CDATA[It wasn't for nothing]]></summary>
+        <author>
+            <name>mbakke</name>
+            <uri>https://news.ycombinator.com/user?id=mbakke</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国食品和药物管理局采取行动，提供非处方助听器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>simonebrunozzi</name>
             <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go垃圾收集器指南
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32109301</id>
-        <link href="https://news.ycombinator.com/item?id=32109301"/>
-        <updated>2022-07-15T15:44:11.000Z</updated>
-        <summary type="html"><![CDATA[A Guide to the Go Garbage Collector]]></summary>
-        <author>
-            <name>ibraheemdev</name>
-            <uri>https://news.ycombinator.com/user?id=ibraheemdev</uri>
         </author>
     </entry>
 </feed>

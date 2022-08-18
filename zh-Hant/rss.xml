@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 18 Aug 2022 05:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 06:38:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[並非一無所獲
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32491811</link>
+            <guid>https://news.ycombinator.com/item?id=32491811</guid>
+            <pubDate>Wed, 17 Aug 2022 03:01:53 GMT</pubDate>
+            <description><![CDATA[It wasn't for nothing]]></description>
+        </item>
         <item>
             <title><![CDATA[美國食品和藥物管理局採取行動，提供非處方助聽器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32110366</guid>
             <pubDate>Fri, 15 Jul 2022 17:08:56 GMT</pubDate>
             <description><![CDATA[The Incredibly Stupid One]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Go垃圾收集器指南
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32109301</link>
-            <guid>https://news.ycombinator.com/item?id=32109301</guid>
-            <pubDate>Fri, 15 Jul 2022 15:44:11 GMT</pubDate>
-            <description><![CDATA[A Guide to the Go Garbage Collector]]></description>
         </item>
     </channel>
 </rss>
