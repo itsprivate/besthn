@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 18 Aug 2022 15:58:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 17:25:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[台积电下月开始生产3纳米芯片
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32509267</link>
+            <guid>https://news.ycombinator.com/item?id=32509267</guid>
+            <pubDate>Thu, 18 Aug 2022 13:28:11 GMT</pubDate>
+            <description><![CDATA[TSMC to begin 3nm chip production next month]]></description>
+        </item>
+        <item>
+            <title><![CDATA[敏捷项目已成为带有冲刺的瀑布项目
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32504492</link>
+            <guid>https://news.ycombinator.com/item?id=32504492</guid>
+            <pubDate>Thu, 18 Aug 2022 02:26:11 GMT</pubDate>
+            <description><![CDATA[Agile projects have become waterfall projects with sprints]]></description>
+        </item>
         <item>
             <title><![CDATA[学习缝制自己的户外装备
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32094603</guid>
             <pubDate>Thu, 14 Jul 2022 11:39:10 GMT</pubDate>
             <description><![CDATA[OpenDroneMap]]></description>
-        </item>
-        <item>
-            <title><![CDATA[康卡斯特。模拟低劣的网络连接，以便你能建立更好的系统
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32115791</link>
-            <guid>https://news.ycombinator.com/item?id=32115791</guid>
-            <pubDate>Sat, 16 Jul 2022 06:47:46 GMT</pubDate>
-            <description><![CDATA[Comcast: Simulating shitty network connections so you can build better systems]]></description>
-        </item>
-        <item>
-            <title><![CDATA[随着Starnix项目的进展，Android删除了许多与Fuchsia相关的代码
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32114194</link>
-            <guid>https://news.ycombinator.com/item?id=32114194</guid>
-            <pubDate>Sat, 16 Jul 2022 00:29:30 GMT</pubDate>
-            <description><![CDATA[Android removes much of Fuchsia-related code as Starnix project progresses]]></description>
         </item>
     </channel>
 </rss>

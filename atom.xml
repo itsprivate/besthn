@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-18T15:58:08.992Z</updated>
+    <updated>2022-08-18T17:25:32.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[台积电下月开始生产3纳米芯片
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32509267</id>
+        <link href="https://news.ycombinator.com/item?id=32509267"/>
+        <updated>2022-08-18T13:28:11.000Z</updated>
+        <summary type="html"><![CDATA[TSMC to begin 3nm chip production next month]]></summary>
+        <author>
+            <name>carlycue</name>
+            <uri>https://news.ycombinator.com/user?id=carlycue</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[敏捷项目已成为带有冲刺的瀑布项目
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32504492</id>
+        <link href="https://news.ycombinator.com/item?id=32504492"/>
+        <updated>2022-08-18T02:26:11.000Z</updated>
+        <summary type="html"><![CDATA[Agile projects have become waterfall projects with sprints]]></summary>
+        <author>
+            <name>PretzelFisch</name>
+            <uri>https://news.ycombinator.com/user?id=PretzelFisch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学习缝制自己的户外装备
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mooreds</name>
             <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[康卡斯特。模拟低劣的网络连接，以便你能建立更好的系统
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32115791</id>
-        <link href="https://news.ycombinator.com/item?id=32115791"/>
-        <updated>2022-07-16T06:47:46.000Z</updated>
-        <summary type="html"><![CDATA[Comcast: Simulating shitty network connections so you can build better systems]]></summary>
-        <author>
-            <name>olalonde</name>
-            <uri>https://news.ycombinator.com/user?id=olalonde</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[随着Starnix项目的进展，Android删除了许多与Fuchsia相关的代码
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32114194</id>
-        <link href="https://news.ycombinator.com/item?id=32114194"/>
-        <updated>2022-07-16T00:29:30.000Z</updated>
-        <summary type="html"><![CDATA[Android removes much of Fuchsia-related code as Starnix project progresses]]></summary>
-        <author>
-            <name>cpeterso</name>
-            <uri>https://news.ycombinator.com/user?id=cpeterso</uri>
         </author>
     </entry>
 </feed>
