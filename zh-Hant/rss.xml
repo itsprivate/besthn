@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 18 Aug 2022 02:53:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 05:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美國食品和藥物管理局採取行動，提供非處方助聽器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32503939</link>
+            <guid>https://news.ycombinator.com/item?id=32503939</guid>
+            <pubDate>Thu, 18 Aug 2022 01:05:42 GMT</pubDate>
+            <description><![CDATA[FDA moves to make over-the-counter hearing aids available]]></description>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉虛擬發電廠
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32500926</link>
+            <guid>https://news.ycombinator.com/item?id=32500926</guid>
+            <pubDate>Wed, 17 Aug 2022 19:52:38 GMT</pubDate>
+            <description><![CDATA[Tesla Virtual Power Plant]]></description>
+        </item>
         <item>
             <title><![CDATA[維薩-萬事達卡的雙頭壟斷能被打破嗎？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32109301</guid>
             <pubDate>Fri, 15 Jul 2022 15:44:11 GMT</pubDate>
             <description><![CDATA[A Guide to the Go Garbage Collector]]></description>
-        </item>
-        <item>
-            <title><![CDATA[FCC建議將最低寬帶速度提高到100Mbps
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32113263</link>
-            <guid>https://news.ycombinator.com/item?id=32113263</guid>
-            <pubDate>Fri, 15 Jul 2022 22:02:54 GMT</pubDate>
-            <description><![CDATA[FCC proposes to increase minimum broadband speeds to 100 Mbps]]></description>
-        </item>
-        <item>
-            <title><![CDATA[低BMI的人並不更活躍，他們只是不那麼餓，"跑得更熱"。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32108365</link>
-            <guid>https://news.ycombinator.com/item?id=32108365</guid>
-            <pubDate>Fri, 15 Jul 2022 14:06:27 GMT</pubDate>
-            <description><![CDATA[People with low BMI aren't more active, they are just less hungry, 'run hotter']]></description>
         </item>
     </channel>
 </rss>

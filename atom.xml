@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-18T02:53:57.239Z</updated>
+    <updated>2022-08-18T05:20:52.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国食品和药物管理局采取行动，提供非处方助听器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32503939</id>
+        <link href="https://news.ycombinator.com/item?id=32503939"/>
+        <updated>2022-08-18T01:05:42.000Z</updated>
+        <summary type="html"><![CDATA[FDA moves to make over-the-counter hearing aids available]]></summary>
+        <author>
+            <name>bookofjoe</name>
+            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉虚拟发电厂
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32500926</id>
+        <link href="https://news.ycombinator.com/item?id=32500926"/>
+        <updated>2022-08-17T19:52:38.000Z</updated>
+        <summary type="html"><![CDATA[Tesla Virtual Power Plant]]></summary>
+        <author>
+            <name>lawrenceyan</name>
+            <uri>https://news.ycombinator.com/user?id=lawrenceyan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[维萨-万事达卡的双头垄断能被打破吗？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ibraheemdev</name>
             <uri>https://news.ycombinator.com/user?id=ibraheemdev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FCC建议将最低宽带速度提高到100Mbps
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32113263</id>
-        <link href="https://news.ycombinator.com/item?id=32113263"/>
-        <updated>2022-07-15T22:02:54.000Z</updated>
-        <summary type="html"><![CDATA[FCC proposes to increase minimum broadband speeds to 100 Mbps]]></summary>
-        <author>
-            <name>happyopossum</name>
-            <uri>https://news.ycombinator.com/user?id=happyopossum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[低BMI的人并不更活跃，他们只是不那么饿，"跑得更热"。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32108365</id>
-        <link href="https://news.ycombinator.com/item?id=32108365"/>
-        <updated>2022-07-15T14:06:27.000Z</updated>
-        <summary type="html"><![CDATA[People with low BMI aren't more active, they are just less hungry, 'run hotter']]></summary>
-        <author>
-            <name>FollowingTheDao</name>
-            <uri>https://news.ycombinator.com/user?id=FollowingTheDao</uri>
         </author>
     </entry>
 </feed>
