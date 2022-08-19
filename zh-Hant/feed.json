@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32525721",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32525721",
+            "title": "約翰-卡馬克的新AGI公司Keen Technologies已經籌集了2000萬美元的資金\n",
+            "summary": "John Carmack's new AGI company, Keen Technologies, has raised a $20M round",
+            "date_modified": "2022-08-19T20:46:09.000Z",
+            "author": {
+                "name": "jasondavies",
+                "url": "https://news.ycombinator.com/user?id=jasondavies"
+            },
+            "_original_headline": "John Carmack's new AGI company, Keen Technologies, has raised a $20M round",
+            "_original_url": "https://twitter.com/ID_AA_Carmack/status/1560728042959507457",
+            "_sensitive": false,
+            "_score": 220
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32523584",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32523584",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://blog.archive.org/2022/07/08/internet-archive-seeks-summary-judgment-in-federal-lawsuit-filed-by-publishing-companies/",
             "_sensitive": false,
             "_score": 252
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32168299",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32168299",
-            "title": "巨型肖像。一拍即合的百萬像素神經頭像\n",
-            "summary": "MegaPortraits: One-Shot Megapixel Neural Head Avatars",
-            "date_modified": "2022-07-20T16:37:06.000Z",
-            "author": {
-                "name": "voydik",
-                "url": "https://news.ycombinator.com/user?id=voydik"
-            },
-            "_original_headline": "MegaPortraits: One-Shot Megapixel Neural Head Avatars",
-            "_original_url": "https://samsunglabs.github.io/MegaPortraits/",
-            "_sensitive": false,
-            "_score": 206
         }
     ]
 }

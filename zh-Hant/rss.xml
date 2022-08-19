@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 19 Aug 2022 21:03:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 22:50:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[約翰-卡馬克的新AGI公司Keen Technologies已經籌集了2000萬美元的資金
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32525721</link>
+            <guid>https://news.ycombinator.com/item?id=32525721</guid>
+            <pubDate>Fri, 19 Aug 2022 20:46:09 GMT</pubDate>
+            <description><![CDATA[John Carmack's new AGI company, Keen Technologies, has raised a $20M round]]></description>
+        </item>
         <item>
             <title><![CDATA["量子安全 "的加密貨幣被10歲的電腦黑掉了
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32173901</guid>
             <pubDate>Wed, 20 Jul 2022 23:41:25 GMT</pubDate>
             <description><![CDATA[Archive.org Seeks Summary Judgment in Lawsuit Filed by Publishing Companies]]></description>
-        </item>
-        <item>
-            <title><![CDATA[巨型肖像。一拍即合的百萬像素神經頭像
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32168299</link>
-            <guid>https://news.ycombinator.com/item?id=32168299</guid>
-            <pubDate>Wed, 20 Jul 2022 16:37:06 GMT</pubDate>
-            <description><![CDATA[MegaPortraits: One-Shot Megapixel Neural Head Avatars]]></description>
         </item>
     </channel>
 </rss>
