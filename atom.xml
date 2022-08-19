@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-19T17:49:05.745Z</updated>
+    <updated>2022-08-19T19:07:25.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果公司的广告网络年收入突破35亿美元
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32520894</id>
+        <link href="https://news.ycombinator.com/item?id=32520894"/>
+        <updated>2022-08-19T13:48:40.000Z</updated>
+        <summary type="html"><![CDATA[Apple surpassed $3.5B in annual revenue from its ad network]]></summary>
+        <author>
+            <name>redbell</name>
+            <uri>https://news.ycombinator.com/user?id=redbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LackRack：宜家最便宜的桌子的尺寸完全可以用来安装计算机的机架 (2020)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32520882</id>
+        <link href="https://news.ycombinator.com/item?id=32520882"/>
+        <updated>2022-08-19T13:47:09.000Z</updated>
+        <summary type="html"><![CDATA[LackRack: IKEA's cheapest table is perfectly sized to rackmount computers (2020)]]></summary>
+        <author>
+            <name>bluehatbrit</name>
+            <uri>https://news.ycombinator.com/user?id=bluehatbrit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RFC 9293: 传输控制协议（TCP）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32519206</id>
+        <link href="https://news.ycombinator.com/item?id=32519206"/>
+        <updated>2022-08-19T10:03:45.000Z</updated>
+        <summary type="html"><![CDATA[RFC 9293: Transmission Control Protocol (TCP)]]></summary>
+        <author>
+            <name>q-big</name>
+            <uri>https://news.ycombinator.com/user?id=q-big</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[提供和消费webhooks的最佳实践集合
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32517645</id>
+        <link href="https://news.ycombinator.com/item?id=32517645"/>
+        <updated>2022-08-19T04:49:33.000Z</updated>
+        <summary type="html"><![CDATA[Collection of best practices for providing and consuming webhooks]]></summary>
+        <author>
+            <name>m3h</name>
+            <uri>https://news.ycombinator.com/user?id=m3h</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[肥皂和溶剂的简单混合可以帮助销毁 "永远的化学品
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>brockwhittaker</name>
             <uri>https://news.ycombinator.com/user?id=brockwhittaker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我刚刚读完一本书，做了很多笔记。现在怎么办？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32123781</id>
-        <link href="https://news.ycombinator.com/item?id=32123781"/>
-        <updated>2022-07-17T02:05:13.000Z</updated>
-        <summary type="html"><![CDATA[I just finished reading a book and took lots of notes. Now what?]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纸飞机设计 (2013)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32134691</id>
-        <link href="https://news.ycombinator.com/item?id=32134691"/>
-        <updated>2022-07-18T04:32:47.000Z</updated>
-        <summary type="html"><![CDATA[Paper Airplane Designs (2013)]]></summary>
-        <author>
-            <name>kkwteh</name>
-            <uri>https://news.ycombinator.com/user?id=kkwteh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[罗温-阿特金森。视觉喜剧 (1992) [视频]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32131396</id>
-        <link href="https://news.ycombinator.com/item?id=32131396"/>
-        <updated>2022-07-17T21:18:02.000Z</updated>
-        <summary type="html"><![CDATA[Rowan Atkinson: Visual Comedy (1992) [video]]]></summary>
-        <author>
-            <name>swarmy</name>
-            <uri>https://news.ycombinator.com/user?id=swarmy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[坏咖啡的案例 (2015)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32130906</id>
-        <link href="https://news.ycombinator.com/item?id=32130906"/>
-        <updated>2022-07-17T20:29:28.000Z</updated>
-        <summary type="html"><![CDATA[The case for bad coffee (2015)]]></summary>
-        <author>
-            <name>srathi</name>
-            <uri>https://news.ycombinator.com/user?id=srathi</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 19 Aug 2022 17:49:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 19:07:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,38 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[苹果公司的广告网络年收入突破35亿美元
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32520894</link>
+            <guid>https://news.ycombinator.com/item?id=32520894</guid>
+            <pubDate>Fri, 19 Aug 2022 13:48:40 GMT</pubDate>
+            <description><![CDATA[Apple surpassed $3.5B in annual revenue from its ad network]]></description>
+        </item>
+        <item>
+            <title><![CDATA[LackRack：宜家最便宜的桌子的尺寸完全可以用来安装计算机的机架 (2020)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32520882</link>
+            <guid>https://news.ycombinator.com/item?id=32520882</guid>
+            <pubDate>Fri, 19 Aug 2022 13:47:09 GMT</pubDate>
+            <description><![CDATA[LackRack: IKEA's cheapest table is perfectly sized to rackmount computers (2020)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[RFC 9293: 传输控制协议（TCP）
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32519206</link>
+            <guid>https://news.ycombinator.com/item?id=32519206</guid>
+            <pubDate>Fri, 19 Aug 2022 10:03:45 GMT</pubDate>
+            <description><![CDATA[RFC 9293: Transmission Control Protocol (TCP)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[提供和消费webhooks的最佳实践集合
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32517645</link>
+            <guid>https://news.ycombinator.com/item?id=32517645</guid>
+            <pubDate>Fri, 19 Aug 2022 04:49:33 GMT</pubDate>
+            <description><![CDATA[Collection of best practices for providing and consuming webhooks]]></description>
+        </item>
         <item>
             <title><![CDATA[肥皂和溶剂的简单混合可以帮助销毁 "永远的化学品
 ]]></title>
@@ -4781,38 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32168521</guid>
             <pubDate>Wed, 20 Jul 2022 16:50:23 GMT</pubDate>
             <description><![CDATA[High property taxes are good]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我刚刚读完一本书，做了很多笔记。现在怎么办？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32123781</link>
-            <guid>https://news.ycombinator.com/item?id=32123781</guid>
-            <pubDate>Sun, 17 Jul 2022 02:05:13 GMT</pubDate>
-            <description><![CDATA[I just finished reading a book and took lots of notes. Now what?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[纸飞机设计 (2013)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32134691</link>
-            <guid>https://news.ycombinator.com/item?id=32134691</guid>
-            <pubDate>Mon, 18 Jul 2022 04:32:47 GMT</pubDate>
-            <description><![CDATA[Paper Airplane Designs (2013)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[罗温-阿特金森。视觉喜剧 (1992) [视频]
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32131396</link>
-            <guid>https://news.ycombinator.com/item?id=32131396</guid>
-            <pubDate>Sun, 17 Jul 2022 21:18:02 GMT</pubDate>
-            <description><![CDATA[Rowan Atkinson: Visual Comedy (1992) [video]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[坏咖啡的案例 (2015)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32130906</link>
-            <guid>https://news.ycombinator.com/item?id=32130906</guid>
-            <pubDate>Sun, 17 Jul 2022 20:29:28 GMT</pubDate>
-            <description><![CDATA[The case for bad coffee (2015)]]></description>
         </item>
     </channel>
 </rss>

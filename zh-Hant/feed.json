@@ -11,6 +11,70 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32520894",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32520894",
+            "title": "蘋果公司的廣告網絡年收入突破35億美元\n",
+            "summary": "Apple surpassed $3.5B in annual revenue from its ad network",
+            "date_modified": "2022-08-19T13:48:40.000Z",
+            "author": {
+                "name": "redbell",
+                "url": "https://news.ycombinator.com/user?id=redbell"
+            },
+            "_original_headline": "Apple surpassed $3.5B in annual revenue from its ad network",
+            "_original_url": "https://twitter.com/nathanbaugh27/status/1560247230057127937",
+            "_sensitive": false,
+            "_score": 205
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32520882",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32520882",
+            "title": "LackRack：宜家最便宜的桌子的尺寸完全可以用來安裝計算機的機架 (2020)\n",
+            "summary": "LackRack: IKEA's cheapest table is perfectly sized to rackmount computers (2020)",
+            "date_modified": "2022-08-19T13:47:09.000Z",
+            "author": {
+                "name": "bluehatbrit",
+                "url": "https://news.ycombinator.com/user?id=bluehatbrit"
+            },
+            "_original_headline": "LackRack: IKEA's cheapest table is perfectly sized to rackmount computers (2020)",
+            "_original_url": "https://boingboing.net/2020/08/14/lack-rack-ikeas-cheapest-ta.html",
+            "_sensitive": false,
+            "_score": 210
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32519206",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32519206",
+            "title": "RFC 9293: 傳輸控制協議（TCP）\n",
+            "summary": "RFC 9293: Transmission Control Protocol (TCP)",
+            "date_modified": "2022-08-19T10:03:45.000Z",
+            "author": {
+                "name": "q-big",
+                "url": "https://news.ycombinator.com/user?id=q-big"
+            },
+            "_original_headline": "RFC 9293: Transmission Control Protocol (TCP)",
+            "_original_url": "https://www.rfc-editor.org/rfc/rfc9293",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32517645",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32517645",
+            "title": "提供和消費webhooks的最佳實踐集合\n",
+            "summary": "Collection of best practices for providing and consuming webhooks",
+            "date_modified": "2022-08-19T04:49:33.000Z",
+            "author": {
+                "name": "m3h",
+                "url": "https://news.ycombinator.com/user?id=m3h"
+            },
+            "_original_headline": "Collection of best practices for providing and consuming webhooks",
+            "_original_url": "https://webhooks.fyi/",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32515511",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32515511",
@@ -9545,70 +9609,6 @@
             "_original_url": "http://brooock.com/a/property-taxes-are-good",
             "_sensitive": false,
             "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32123781",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32123781",
-            "title": "我剛剛讀完一本書，做了很多筆記。現在怎麼辦？\n",
-            "summary": "I just finished reading a book and took lots of notes. Now what?",
-            "date_modified": "2022-07-17T02:05:13.000Z",
-            "author": {
-                "name": "memorable",
-                "url": "https://news.ycombinator.com/user?id=memorable"
-            },
-            "_original_headline": "I just finished reading a book and took lots of notes. Now what?",
-            "_original_url": "https://writing.bobdoto.computer/question-i-just-finished-reading-a-book-and-took-lots-of-notes-now-what/",
-            "_sensitive": false,
-            "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32134691",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32134691",
-            "title": "紙飛機設計 (2013)\n",
-            "summary": "Paper Airplane Designs (2013)",
-            "date_modified": "2022-07-18T04:32:47.000Z",
-            "author": {
-                "name": "kkwteh",
-                "url": "https://news.ycombinator.com/user?id=kkwteh"
-            },
-            "_original_headline": "Paper Airplane Designs (2013)",
-            "_original_url": "https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2",
-            "_sensitive": false,
-            "_score": 217
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32131396",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32131396",
-            "title": "羅溫-阿特金森。視覺喜劇 (1992) [視頻]\n",
-            "summary": "Rowan Atkinson: Visual Comedy (1992) [video]",
-            "date_modified": "2022-07-17T21:18:02.000Z",
-            "author": {
-                "name": "swarmy",
-                "url": "https://news.ycombinator.com/user?id=swarmy"
-            },
-            "_original_headline": "Rowan Atkinson: Visual Comedy (1992) [video]",
-            "_original_url": "https://www.youtube.com/watch?v=LeuiFa9pI7c",
-            "_sensitive": false,
-            "_score": 206
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32130906",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32130906",
-            "title": "壞咖啡的案例 (2015)\n",
-            "summary": "The case for bad coffee (2015)",
-            "date_modified": "2022-07-17T20:29:28.000Z",
-            "author": {
-                "name": "srathi",
-                "url": "https://news.ycombinator.com/user?id=srathi"
-            },
-            "_original_headline": "The case for bad coffee (2015)",
-            "_original_url": "https://www.seriouseats.com/the-case-for-bad-coffee",
-            "_sensitive": false,
-            "_score": 212
         }
     ]
 }
