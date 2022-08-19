@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-19T20:00:03.474Z</updated>
+    <updated>2022-08-19T21:03:45.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["量子安全 "的加密貨幣被10歲的電腦黑掉了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32523584</id>
+        <link href="https://news.ycombinator.com/item?id=32523584"/>
+        <updated>2022-08-19T17:07:02.000Z</updated>
+        <summary type="html"><![CDATA[“Quantum-Safe” Crypto Hacked by 10-Year-Old PC]]></summary>
+        <author>
+            <name>oipoloi</name>
+            <uri>https://news.ycombinator.com/user?id=oipoloi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沙贊20歲了
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>voydik</name>
             <uri>https://news.ycombinator.com/user?id=voydik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這種食物並不存在
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32167704</id>
-        <link href="https://news.ycombinator.com/item?id=32167704"/>
-        <updated>2022-07-20T16:02:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: This Food Does Not Exist]]></summary>
-        <author>
-            <name>MasterScrat</name>
-            <uri>https://news.ycombinator.com/user?id=MasterScrat</uri>
         </author>
     </entry>
 </feed>

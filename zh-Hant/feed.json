@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32523584",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32523584",
+            "title": "\"量子安全 \"的加密貨幣被10歲的電腦黑掉了\n",
+            "summary": "“Quantum-Safe” Crypto Hacked by 10-Year-Old PC",
+            "date_modified": "2022-08-19T17:07:02.000Z",
+            "author": {
+                "name": "oipoloi",
+                "url": "https://news.ycombinator.com/user?id=oipoloi"
+            },
+            "_original_headline": "“Quantum-Safe” Crypto Hacked by 10-Year-Old PC",
+            "_original_url": "https://spectrum.ieee.org/quantum-safe-encryption-hacked",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32520593",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32520593",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://samsunglabs.github.io/MegaPortraits/",
             "_sensitive": false,
             "_score": 206
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32167704",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32167704",
-            "title": "這種食物並不存在\n",
-            "summary": "Show HN: This Food Does Not Exist",
-            "date_modified": "2022-07-20T16:02:52.000Z",
-            "author": {
-                "name": "MasterScrat",
-                "url": "https://news.ycombinator.com/user?id=MasterScrat"
-            },
-            "_original_headline": "Show HN: This Food Does Not Exist",
-            "_original_url": "https://nyx-ai.github.io/stylegan2-flax-tpu/",
-            "_sensitive": false,
-            "_score": 211
         }
     ]
 }
