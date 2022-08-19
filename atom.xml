@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-19T04:10:52.878Z</updated>
+    <updated>2022-08-19T05:57:48.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[丹麦转基因禁令对冠心病死亡率的益处
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32507345</id>
+        <link href="https://news.ycombinator.com/item?id=32507345"/>
+        <updated>2022-08-18T09:53:46.000Z</updated>
+        <summary type="html"><![CDATA[Benefits of the Danish transfat ban for coronary heart disease mortality]]></summary>
+        <author>
+            <name>kasperni</name>
+            <uri>https://news.ycombinator.com/user?id=kasperni</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我爱我的GPD微型电脑
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>p4bl0</name>
             <uri>https://news.ycombinator.com/user?id=p4bl0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[杀死但使它看起来像一场事故。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32125951</id>
-        <link href="https://news.ycombinator.com/item?id=32125951"/>
-        <updated>2022-07-17T11:38:06.000Z</updated>
-        <summary type="html"><![CDATA[Killbutmakeitlooklikeanaccident.sh]]></summary>
-        <author>
-            <name>app4soft</name>
-            <uri>https://news.ycombinator.com/user?id=app4soft</uri>
         </author>
     </entry>
 </feed>
