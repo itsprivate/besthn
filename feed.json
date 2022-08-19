@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32515511",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32515511",
+            "title": "肥皂和溶剂的简单混合可以帮助销毁 \"永远的化学品\n",
+            "summary": "Simple mix of soap and solvent could help destroy ‘forever chemicals’",
+            "date_modified": "2022-08-18T22:13:51.000Z",
+            "author": {
+                "name": "ckcheng",
+                "url": "https://news.ycombinator.com/user?id=ckcheng"
+            },
+            "_original_headline": "Simple mix of soap and solvent could help destroy ‘forever chemicals’",
+            "_original_url": "https://www.science.org/content/article/simple-mix-soap-and-solvent-could-help-destroy-forever-chemicals",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32515928",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32515928",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.seriouseats.com/the-case-for-bad-coffee",
             "_sensitive": false,
             "_score": 212
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32129478",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32129478",
-            "title": "在街上捡拾免费的锂电，并使其安全使用\n",
-            "summary": "Picking up free lithium cells off the street and making them safe for use",
-            "date_modified": "2022-07-17T18:19:08.000Z",
-            "author": {
-                "name": "iamflimflam1",
-                "url": "https://news.ycombinator.com/user?id=iamflimflam1"
-            },
-            "_original_headline": "Picking up free lithium cells off the street and making them safe for use",
-            "_original_url": "https://www.atomic14.com/2022/07/16/free-lithium-cells.html",
-            "_sensitive": false,
-            "_score": 223
         }
     ]
 }

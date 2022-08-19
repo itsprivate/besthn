@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-19T17:20:48.515Z</updated>
+    <updated>2022-08-19T17:49:05.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[肥皂和溶剂的简单混合可以帮助销毁 "永远的化学品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32515511</id>
+        <link href="https://news.ycombinator.com/item?id=32515511"/>
+        <updated>2022-08-18T22:13:51.000Z</updated>
+        <summary type="html"><![CDATA[Simple mix of soap and solvent could help destroy ‘forever chemicals’]]></summary>
+        <author>
+            <name>ckcheng</name>
+            <uri>https://news.ycombinator.com/user?id=ckcheng</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么OpenBSD的文档这么好？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>srathi</name>
             <uri>https://news.ycombinator.com/user?id=srathi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在街上捡拾免费的锂电，并使其安全使用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32129478</id>
-        <link href="https://news.ycombinator.com/item?id=32129478"/>
-        <updated>2022-07-17T18:19:08.000Z</updated>
-        <summary type="html"><![CDATA[Picking up free lithium cells off the street and making them safe for use]]></summary>
-        <author>
-            <name>iamflimflam1</name>
-            <uri>https://news.ycombinator.com/user?id=iamflimflam1</uri>
         </author>
     </entry>
 </feed>
