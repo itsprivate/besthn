@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-19T00:00:46.548Z</updated>
+    <updated>2022-08-19T02:45:41.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[让脸书见鬼去吧 (2021)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32514846</id>
+        <link href="https://news.ycombinator.com/item?id=32514846"/>
+        <updated>2022-08-18T21:01:57.000Z</updated>
+        <summary type="html"><![CDATA[To Hell with Facebook (2021)]]></summary>
+        <author>
+            <name>mrzool</name>
+            <uri>https://news.ycombinator.com/user?id=mrzool</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[看看哪些JavaScript命令是通过应用内浏览器注入的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32514793</id>
+        <link href="https://news.ycombinator.com/item?id=32514793"/>
+        <updated>2022-08-18T20:57:57.000Z</updated>
+        <summary type="html"><![CDATA[See what JavaScript commands get injected through an in-app browser]]></summary>
+        <author>
+            <name>krausefx</name>
+            <uri>https://news.ycombinator.com/user?id=krausefx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FedNow常见问题
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32510581</id>
+        <link href="https://news.ycombinator.com/item?id=32510581"/>
+        <updated>2022-08-18T14:58:43.000Z</updated>
+        <summary type="html"><![CDATA[FedNow FAQ]]></summary>
+        <author>
+            <name>hnburnsy</name>
+            <uri>https://news.ycombinator.com/user?id=hnburnsy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是否有del.icio.us的精神继承者？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32506168</id>
+        <link href="https://news.ycombinator.com/item?id=32506168"/>
+        <updated>2022-08-18T06:51:30.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Is there a spiritual successor to del.icio.us?]]></summary>
+        <author>
+            <name>tunnuz</name>
+            <uri>https://news.ycombinator.com/user?id=tunnuz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirTag导致从行李中偷窃15,000美元物品的航空公司工作人员被捕
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32503692</id>
+        <link href="https://news.ycombinator.com/item?id=32503692"/>
+        <updated>2022-08-18T00:31:01.000Z</updated>
+        <summary type="html"><![CDATA[AirTag leads to arrest of airline worker who stole $15,000 of items from luggage]]></summary>
+        <author>
+            <name>metadat</name>
+            <uri>https://news.ycombinator.com/user?id=metadat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[贝宝网络诈骗利用通过贝宝发送的发票
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>zdw</name>
             <uri>https://news.ycombinator.com/user?id=zdw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nyxt 3预发布1（一个由Lisp驱动的网络浏览器）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32097424</id>
-        <link href="https://news.ycombinator.com/item?id=32097424"/>
-        <updated>2022-07-14T15:37:04.000Z</updated>
-        <summary type="html"><![CDATA[Nyxt 3 Pre-release 1 (a Lisp powered web browser)]]></summary>
-        <author>
-            <name>arthureroberer</name>
-            <uri>https://news.ycombinator.com/user?id=arthureroberer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实验之书》（1958年）[pdf]。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32115354</id>
-        <link href="https://news.ycombinator.com/item?id=32115354"/>
-        <updated>2022-07-16T05:00:54.000Z</updated>
-        <summary type="html"><![CDATA[The Book of Experiments (1958) [pdf]]]></summary>
-        <author>
-            <name>snee</name>
-            <uri>https://news.ycombinator.com/user?id=snee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[成功案例是宣传（2017）
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32112595</id>
-        <link href="https://news.ycombinator.com/item?id=32112595"/>
-        <updated>2022-07-15T20:43:50.000Z</updated>
-        <summary type="html"><![CDATA[Success stories are propaganda (2017)]]></summary>
-        <author>
-            <name>paulpauper</name>
-            <uri>https://news.ycombinator.com/user?id=paulpauper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国过渡到988自杀和危机生命线周六开始
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32120478</id>
-        <link href="https://news.ycombinator.com/item?id=32120478"/>
-        <updated>2022-07-16T18:13:33.000Z</updated>
-        <summary type="html"><![CDATA[U.S. transition to 988 suicide and crisis lifeline begins Saturday]]></summary>
-        <author>
-            <name>fortran77</name>
-            <uri>https://news.ycombinator.com/user?id=fortran77</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EA：人类的故事 (2004)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32108852</id>
-        <link href="https://news.ycombinator.com/item?id=32108852"/>
-        <updated>2022-07-15T14:59:04.000Z</updated>
-        <summary type="html"><![CDATA[EA: The Human Story (2004)]]></summary>
-        <author>
-            <name>antiverse</name>
-            <uri>https://news.ycombinator.com/user?id=antiverse</uri>
         </author>
     </entry>
 </feed>

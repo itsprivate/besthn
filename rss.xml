@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 19 Aug 2022 00:00:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 02:45:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,46 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[让脸书见鬼去吧 (2021)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32514846</link>
+            <guid>https://news.ycombinator.com/item?id=32514846</guid>
+            <pubDate>Thu, 18 Aug 2022 21:01:57 GMT</pubDate>
+            <description><![CDATA[To Hell with Facebook (2021)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[看看哪些JavaScript命令是通过应用内浏览器注入的
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32514793</link>
+            <guid>https://news.ycombinator.com/item?id=32514793</guid>
+            <pubDate>Thu, 18 Aug 2022 20:57:57 GMT</pubDate>
+            <description><![CDATA[See what JavaScript commands get injected through an in-app browser]]></description>
+        </item>
+        <item>
+            <title><![CDATA[FedNow常见问题
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32510581</link>
+            <guid>https://news.ycombinator.com/item?id=32510581</guid>
+            <pubDate>Thu, 18 Aug 2022 14:58:43 GMT</pubDate>
+            <description><![CDATA[FedNow FAQ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[是否有del.icio.us的精神继承者？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32506168</link>
+            <guid>https://news.ycombinator.com/item?id=32506168</guid>
+            <pubDate>Thu, 18 Aug 2022 06:51:30 GMT</pubDate>
+            <description><![CDATA[Ask HN: Is there a spiritual successor to del.icio.us?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[AirTag导致从行李中偷窃15,000美元物品的航空公司工作人员被捕
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32503692</link>
+            <guid>https://news.ycombinator.com/item?id=32503692</guid>
+            <pubDate>Thu, 18 Aug 2022 00:31:01 GMT</pubDate>
+            <description><![CDATA[AirTag leads to arrest of airline worker who stole $15,000 of items from luggage]]></description>
+        </item>
         <item>
             <title><![CDATA[贝宝网络诈骗利用通过贝宝发送的发票
 ]]></title>
@@ -4773,46 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32123804</guid>
             <pubDate>Sun, 17 Jul 2022 02:10:48 GMT</pubDate>
             <description><![CDATA[An interactive mechanical contraption in pure CSS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nyxt 3预发布1（一个由Lisp驱动的网络浏览器）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32097424</link>
-            <guid>https://news.ycombinator.com/item?id=32097424</guid>
-            <pubDate>Thu, 14 Jul 2022 15:37:04 GMT</pubDate>
-            <description><![CDATA[Nyxt 3 Pre-release 1 (a Lisp powered web browser)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[实验之书》（1958年）[pdf]。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32115354</link>
-            <guid>https://news.ycombinator.com/item?id=32115354</guid>
-            <pubDate>Sat, 16 Jul 2022 05:00:54 GMT</pubDate>
-            <description><![CDATA[The Book of Experiments (1958) [pdf]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[成功案例是宣传（2017）
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32112595</link>
-            <guid>https://news.ycombinator.com/item?id=32112595</guid>
-            <pubDate>Fri, 15 Jul 2022 20:43:50 GMT</pubDate>
-            <description><![CDATA[Success stories are propaganda (2017)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国过渡到988自杀和危机生命线周六开始
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32120478</link>
-            <guid>https://news.ycombinator.com/item?id=32120478</guid>
-            <pubDate>Sat, 16 Jul 2022 18:13:33 GMT</pubDate>
-            <description><![CDATA[U.S. transition to 988 suicide and crisis lifeline begins Saturday]]></description>
-        </item>
-        <item>
-            <title><![CDATA[EA：人类的故事 (2004)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32108852</link>
-            <guid>https://news.ycombinator.com/item?id=32108852</guid>
-            <pubDate>Fri, 15 Jul 2022 14:59:04 GMT</pubDate>
-            <description><![CDATA[EA: The Human Story (2004)]]></description>
         </item>
     </channel>
 </rss>
