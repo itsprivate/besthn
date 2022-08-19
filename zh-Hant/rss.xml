@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 19 Aug 2022 14:41:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 15:01:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[向未來的僱主提出的開發商問題清單
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32519547</link>
+            <guid>https://news.ycombinator.com/item?id=32519547</guid>
+            <pubDate>Fri, 19 Aug 2022 11:01:55 GMT</pubDate>
+            <description><![CDATA[A list of developer questions to ask prospective employers]]></description>
+        </item>
         <item>
             <title><![CDATA[更多由人提供的內容，在搜索中為人服務
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32127363</guid>
             <pubDate>Sun, 17 Jul 2022 14:57:32 GMT</pubDate>
             <description><![CDATA[Bear Blog – A privacy-first, fast blogging platform]]></description>
-        </item>
-        <item>
-            <title><![CDATA[9.99美元/月
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32129574</link>
-            <guid>https://news.ycombinator.com/item?id=32129574</guid>
-            <pubDate>Sun, 17 Jul 2022 18:28:50 GMT</pubDate>
-            <description><![CDATA[$9.99/month]]></description>
         </item>
     </channel>
 </rss>
