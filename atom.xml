@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-19T16:49:43.101Z</updated>
+    <updated>2022-08-19T17:20:48.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么OpenBSD的文档这么好？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32515928</id>
+        <link href="https://news.ycombinator.com/item?id=32515928"/>
+        <updated>2022-08-18T23:10:42.000Z</updated>
+        <summary type="html"><![CDATA[Why is the OpenBSD documentation so good?]]></summary>
+        <author>
+            <name>zdw</name>
+            <uri>https://news.ycombinator.com/user?id=zdw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国联邦调查局特工承认抹掉了含有无罪证据的硬盘驱动器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>iamflimflam1</name>
             <uri>https://news.ycombinator.com/user?id=iamflimflam1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[脸书已开始加密链接，以应对改善隐私的URL Stripping
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32129100</id>
-        <link href="https://news.ycombinator.com/item?id=32129100"/>
-        <updated>2022-07-17T17:43:31.000Z</updated>
-        <summary type="html"><![CDATA[Facebook has started to encrypt links to counter privacy-improving URL Stripping]]></summary>
-        <author>
-            <name>ColinWright</name>
-            <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
         </author>
     </entry>
 </feed>
