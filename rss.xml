@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 19 Aug 2022 15:01:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 16:49:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[美国联邦调查局特工承认抹掉了含有无罪证据的硬盘驱动器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32521703</link>
+            <guid>https://news.ycombinator.com/item?id=32521703</guid>
+            <pubDate>Fri, 19 Aug 2022 14:49:51 GMT</pubDate>
+            <description><![CDATA[FBI agent pleads guilty to wiping hard-drive containing exculpatory evidence]]></description>
+        </item>
+        <item>
+            <title><![CDATA[以800Gb/s及以上速度为Netflix视频流量提供服务 [pdf]
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32519881</link>
+            <guid>https://news.ycombinator.com/item?id=32519881</guid>
+            <pubDate>Fri, 19 Aug 2022 11:53:43 GMT</pubDate>
+            <description><![CDATA[Serving Netflix Video Traffic at 800Gb/s and Beyond [pdf]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[夜间瓶颈
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32494485</link>
+            <guid>https://news.ycombinator.com/item?id=32494485</guid>
+            <pubDate>Wed, 17 Aug 2022 10:38:06 GMT</pubDate>
+            <description><![CDATA[Nocturnal bottleneck]]></description>
+        </item>
         <item>
             <title><![CDATA[向未来的雇主提出的开发商问题清单
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32129100</guid>
             <pubDate>Sun, 17 Jul 2022 17:43:31 GMT</pubDate>
             <description><![CDATA[Facebook has started to encrypt links to counter privacy-improving URL Stripping]]></description>
-        </item>
-        <item>
-            <title><![CDATA[好吧，谷歌。为了保护妇女，少收集每个人的数据
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32125731</link>
-            <guid>https://news.ycombinator.com/item?id=32125731</guid>
-            <pubDate>Sun, 17 Jul 2022 10:45:04 GMT</pubDate>
-            <description><![CDATA[Okay, Google: To protect women, collect less data about everyone]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Prose.sh - 一个黑客的博客平台
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32128013</link>
-            <guid>https://news.ycombinator.com/item?id=32128013</guid>
-            <pubDate>Sun, 17 Jul 2022 16:08:18 GMT</pubDate>
-            <description><![CDATA[Prose.sh – A blog platform for hackers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[小熊博客 - 一个隐私至上的快速博客平台
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32127363</link>
-            <guid>https://news.ycombinator.com/item?id=32127363</guid>
-            <pubDate>Sun, 17 Jul 2022 14:57:32 GMT</pubDate>
-            <description><![CDATA[Bear Blog – A privacy-first, fast blogging platform]]></description>
         </item>
     </channel>
 </rss>

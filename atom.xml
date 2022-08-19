@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-19T15:01:27.007Z</updated>
+    <updated>2022-08-19T16:49:43.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美国联邦调查局特工承认抹掉了含有无罪证据的硬盘驱动器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32521703</id>
+        <link href="https://news.ycombinator.com/item?id=32521703"/>
+        <updated>2022-08-19T14:49:51.000Z</updated>
+        <summary type="html"><![CDATA[FBI agent pleads guilty to wiping hard-drive containing exculpatory evidence]]></summary>
+        <author>
+            <name>codefreeordie</name>
+            <uri>https://news.ycombinator.com/user?id=codefreeordie</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以800Gb/s及以上速度为Netflix视频流量提供服务 [pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32519881</id>
+        <link href="https://news.ycombinator.com/item?id=32519881"/>
+        <updated>2022-08-19T11:53:43.000Z</updated>
+        <summary type="html"><![CDATA[Serving Netflix Video Traffic at 800Gb/s and Beyond [pdf]]]></summary>
+        <author>
+            <name>ksec</name>
+            <uri>https://news.ycombinator.com/user?id=ksec</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夜间瓶颈
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32494485</id>
+        <link href="https://news.ycombinator.com/item?id=32494485"/>
+        <updated>2022-08-17T10:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Nocturnal bottleneck]]></summary>
+        <author>
+            <name>Symmetry</name>
+            <uri>https://news.ycombinator.com/user?id=Symmetry</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[向未来的雇主提出的开发商问题清单
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>ColinWright</name>
             <uri>https://news.ycombinator.com/user?id=ColinWright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好吧，谷歌。为了保护妇女，少收集每个人的数据
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32125731</id>
-        <link href="https://news.ycombinator.com/item?id=32125731"/>
-        <updated>2022-07-17T10:45:04.000Z</updated>
-        <summary type="html"><![CDATA[Okay, Google: To protect women, collect less data about everyone]]></summary>
-        <author>
-            <name>johndfsgdgdfg</name>
-            <uri>https://news.ycombinator.com/user?id=johndfsgdgdfg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prose.sh - 一个黑客的博客平台
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32128013</id>
-        <link href="https://news.ycombinator.com/item?id=32128013"/>
-        <updated>2022-07-17T16:08:18.000Z</updated>
-        <summary type="html"><![CDATA[Prose.sh – A blog platform for hackers]]></summary>
-        <author>
-            <name>jstanley</name>
-            <uri>https://news.ycombinator.com/user?id=jstanley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小熊博客 - 一个隐私至上的快速博客平台
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32127363</id>
-        <link href="https://news.ycombinator.com/item?id=32127363"/>
-        <updated>2022-07-17T14:57:32.000Z</updated>
-        <summary type="html"><![CDATA[Bear Blog – A privacy-first, fast blogging platform]]></summary>
-        <author>
-            <name>janandonly</name>
-            <uri>https://news.ycombinator.com/user?id=janandonly</uri>
         </author>
     </entry>
 </feed>
