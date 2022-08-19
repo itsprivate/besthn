@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-19T07:03:11.783Z</updated>
+    <updated>2022-08-19T11:00:01.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你在哪里找到有趣的工作？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32507789</id>
+        <link href="https://news.ycombinator.com/item?id=32507789"/>
+        <updated>2022-08-18T10:59:15.000Z</updated>
+        <summary type="html"><![CDATA[Ask HN: Where do you find the interesting jobs?]]></summary>
+        <author>
+            <name>uVacCXNiiJCTnYB</name>
+            <uri>https://news.ycombinator.com/user?id=uVacCXNiiJCTnYB</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我从头开始建立了一个矢量地图
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Edmond</name>
             <uri>https://news.ycombinator.com/user?id=Edmond</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[焦虑驱动的拖延症的系统模型
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32125734</id>
-        <link href="https://news.ycombinator.com/item?id=32125734"/>
-        <updated>2022-07-17T10:45:32.000Z</updated>
-        <summary type="html"><![CDATA[A systems model of anxiety-driven procrastination]]></summary>
-        <author>
-            <name>CiceroCiceronis</name>
-            <uri>https://news.ycombinator.com/user?id=CiceroCiceronis</uri>
         </author>
     </entry>
 </feed>
