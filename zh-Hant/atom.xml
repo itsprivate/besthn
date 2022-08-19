@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-18T23:02:31.898Z</updated>
+    <updated>2022-08-19T00:00:46.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[貝寶網絡詐騙利用通過貝寶發送的發票
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32511086</id>
+        <link href="https://news.ycombinator.com/item?id=32511086"/>
+        <updated>2022-08-18T15:35:06.000Z</updated>
+        <summary type="html"><![CDATA[PayPal phishing scam uses invoices sent via PayPal]]></summary>
+        <author>
+            <name>shantanu_sharma</name>
+            <uri>https://news.ycombinator.com/user?id=shantanu_sharma</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我對TDD有複雜的感受
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>antiverse</name>
             <uri>https://news.ycombinator.com/user?id=antiverse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[危機蔓延，中國抵制房貸數據被審查員抹去
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32119636</id>
-        <link href="https://news.ycombinator.com/item?id=32119636"/>
-        <updated>2022-07-16T16:37:05.000Z</updated>
-        <summary type="html"><![CDATA[China mortgage boycott data erased by censors as crisis spreads]]></summary>
-        <author>
-            <name>throwaway_1928</name>
-            <uri>https://news.ycombinator.com/user?id=throwaway_1928</uri>
         </author>
     </entry>
 </feed>

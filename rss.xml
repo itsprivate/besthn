@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 18 Aug 2022 23:02:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 00:00:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[贝宝网络诈骗利用通过贝宝发送的发票
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32511086</link>
+            <guid>https://news.ycombinator.com/item?id=32511086</guid>
+            <pubDate>Thu, 18 Aug 2022 15:35:06 GMT</pubDate>
+            <description><![CDATA[PayPal phishing scam uses invoices sent via PayPal]]></description>
+        </item>
         <item>
             <title><![CDATA[我对TDD有复杂的感受
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32108852</guid>
             <pubDate>Fri, 15 Jul 2022 14:59:04 GMT</pubDate>
             <description><![CDATA[EA: The Human Story (2004)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[危机蔓延，中国抵制房贷数据被审查员抹去
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32119636</link>
-            <guid>https://news.ycombinator.com/item?id=32119636</guid>
-            <pubDate>Sat, 16 Jul 2022 16:37:05 GMT</pubDate>
-            <description><![CDATA[China mortgage boycott data erased by censors as crisis spreads]]></description>
         </item>
     </channel>
 </rss>

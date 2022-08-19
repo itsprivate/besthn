@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32511086",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32511086",
+            "title": "贝宝网络诈骗利用通过贝宝发送的发票\n",
+            "summary": "PayPal phishing scam uses invoices sent via PayPal",
+            "date_modified": "2022-08-18T15:35:06.000Z",
+            "author": {
+                "name": "shantanu_sharma",
+                "url": "https://news.ycombinator.com/user?id=shantanu_sharma"
+            },
+            "_original_headline": "PayPal phishing scam uses invoices sent via PayPal",
+            "_original_url": "https://krebsonsecurity.com/2022/08/paypal-phishing-scam-uses-invoices-sent-via-paypal/",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32509268",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32509268",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://ea-spouse.livejournal.com/274.html",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32119636",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32119636",
-            "title": "危机蔓延，中国抵制房贷数据被审查员抹去\n",
-            "summary": "China mortgage boycott data erased by censors as crisis spreads",
-            "date_modified": "2022-07-16T16:37:05.000Z",
-            "author": {
-                "name": "throwaway_1928",
-                "url": "https://news.ycombinator.com/user?id=throwaway_1928"
-            },
-            "_original_headline": "China mortgage boycott data erased by censors as crisis spreads",
-            "_original_url": "https://www.bloomberg.com/news/articles/2022-07-15/china-mortgage-boycott-data-erased-by-censors-as-crisis-spreads",
-            "_sensitive": false,
-            "_score": 210
         }
     ]
 }
