@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-19T11:00:01.073Z</updated>
+    <updated>2022-08-19T14:41:03.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[更多由人提供的內容，在搜索中為人服務
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32518536</id>
+        <link href="https://news.ycombinator.com/item?id=32518536"/>
+        <updated>2022-08-19T08:03:48.000Z</updated>
+        <summary type="html"><![CDATA[More content by people, for people in Search]]></summary>
+        <author>
+            <name>gingerlime</name>
+            <uri>https://news.ycombinator.com/user?id=gingerlime</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中年生活。哲學指南
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32506027</id>
+        <link href="https://news.ycombinator.com/item?id=32506027"/>
+        <updated>2022-08-18T06:29:02.000Z</updated>
+        <summary type="html"><![CDATA[Midlife: A Philosophical Guide]]></summary>
+        <author>
+            <name>herbertl</name>
+            <uri>https://news.ycombinator.com/user?id=herbertl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你在哪裡找到有趣的工作？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>sashk</name>
             <uri>https://news.ycombinator.com/user?id=sashk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從Python到Ruby
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32115809</id>
-        <link href="https://news.ycombinator.com/item?id=32115809"/>
-        <updated>2022-07-16T06:51:04.000Z</updated>
-        <summary type="html"><![CDATA[To Ruby from Python]]></summary>
-        <author>
-            <name>mariuz</name>
-            <uri>https://news.ycombinator.com/user?id=mariuz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[喬治-奧威爾1940年對《我的奮鬥》的評論
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32127622</id>
-        <link href="https://news.ycombinator.com/item?id=32127622"/>
-        <updated>2022-07-17T15:25:42.000Z</updated>
-        <summary type="html"><![CDATA[George Orwell’s 1940 Review of Mein Kampf]]></summary>
-        <author>
-            <name>Edmond</name>
-            <uri>https://news.ycombinator.com/user?id=Edmond</uri>
         </author>
     </entry>
 </feed>

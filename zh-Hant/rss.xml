@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 19 Aug 2022 11:00:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 14:41:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[更多由人提供的內容，在搜索中為人服務
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32518536</link>
+            <guid>https://news.ycombinator.com/item?id=32518536</guid>
+            <pubDate>Fri, 19 Aug 2022 08:03:48 GMT</pubDate>
+            <description><![CDATA[More content by people, for people in Search]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中年生活。哲學指南
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32506027</link>
+            <guid>https://news.ycombinator.com/item?id=32506027</guid>
+            <pubDate>Thu, 18 Aug 2022 06:29:02 GMT</pubDate>
+            <description><![CDATA[Midlife: A Philosophical Guide]]></description>
+        </item>
         <item>
             <title><![CDATA[你在哪裡找到有趣的工作？
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32129574</guid>
             <pubDate>Sun, 17 Jul 2022 18:28:50 GMT</pubDate>
             <description><![CDATA[$9.99/month]]></description>
-        </item>
-        <item>
-            <title><![CDATA[從Python到Ruby
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32115809</link>
-            <guid>https://news.ycombinator.com/item?id=32115809</guid>
-            <pubDate>Sat, 16 Jul 2022 06:51:04 GMT</pubDate>
-            <description><![CDATA[To Ruby from Python]]></description>
-        </item>
-        <item>
-            <title><![CDATA[喬治-奧威爾1940年對《我的奮鬥》的評論
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32127622</link>
-            <guid>https://news.ycombinator.com/item?id=32127622</guid>
-            <pubDate>Sun, 17 Jul 2022 15:25:42 GMT</pubDate>
-            <description><![CDATA[George Orwell’s 1940 Review of Mein Kampf]]></description>
         </item>
     </channel>
 </rss>
