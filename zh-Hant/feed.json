@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32526047",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32526047",
+            "title": "應用商店不接受 \"太簡單 \"的應用程序\n",
+            "summary": "App Store doesn't accept “too simple” apps",
+            "date_modified": "2022-08-19T21:20:58.000Z",
+            "author": {
+                "name": "alin23",
+                "url": "https://news.ycombinator.com/user?id=alin23"
+            },
+            "_original_headline": "App Store doesn't accept “too simple” apps",
+            "_original_url": "https://notes.alinpanaitiu.com/Dealing%20with%20App%20Store%20rejections",
+            "_sensitive": false,
+            "_score": 252
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32525721",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32525721",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://news.ycombinator.com/item?id=32174596",
             "_sensitive": false,
             "_score": 208
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32173901",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32173901",
-            "title": "Archive.org要求對出版公司提起的訴訟作出簡易判決\n",
-            "summary": "Archive.org Seeks Summary Judgment in Lawsuit Filed by Publishing Companies",
-            "date_modified": "2022-07-20T23:41:25.000Z",
-            "author": {
-                "name": "doener",
-                "url": "https://news.ycombinator.com/user?id=doener"
-            },
-            "_original_headline": "Archive.org Seeks Summary Judgment in Lawsuit Filed by Publishing Companies",
-            "_original_url": "https://blog.archive.org/2022/07/08/internet-archive-seeks-summary-judgment-in-federal-lawsuit-filed-by-publishing-companies/",
-            "_sensitive": false,
-            "_score": 252
         }
     ]
 }

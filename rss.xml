@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Fri, 19 Aug 2022 22:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 23:30:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[应用商店不接受 "太简单 "的应用程序
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32526047</link>
+            <guid>https://news.ycombinator.com/item?id=32526047</guid>
+            <pubDate>Fri, 19 Aug 2022 21:20:58 GMT</pubDate>
+            <description><![CDATA[App Store doesn't accept “too simple” apps]]></description>
+        </item>
         <item>
             <title><![CDATA[约翰-卡马克的新AGI公司Keen Technologies已经筹集了2000万美元的资金
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32174596</guid>
             <pubDate>Thu, 21 Jul 2022 01:10:53 GMT</pubDate>
             <description><![CDATA[Tell HN: Salesforce has globally revoked Slack's holiday shutdown benefit]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Archive.org要求对出版公司提起的诉讼作出简易判决
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32173901</link>
-            <guid>https://news.ycombinator.com/item?id=32173901</guid>
-            <pubDate>Wed, 20 Jul 2022 23:41:25 GMT</pubDate>
-            <description><![CDATA[Archive.org Seeks Summary Judgment in Lawsuit Filed by Publishing Companies]]></description>
         </item>
     </channel>
 </rss>
