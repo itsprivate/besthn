@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32529260",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32529260",
+            "title": "50年后，迈克尔-海泽尔终于准备好揭开城市的面纱，这是他一生的作品。\n",
+            "summary": "After 50 years, Michael Heizer is finally ready to unveil City, his life's work",
+            "date_modified": "2022-08-20T05:08:02.000Z",
+            "author": {
+                "name": "green-eclipse",
+                "url": "https://news.ycombinator.com/user?id=green-eclipse"
+            },
+            "_original_headline": "After 50 years, Michael Heizer is finally ready to unveil City, his life's work",
+            "_original_url": "https://news.artnet.com/art-world/city-michael-heizers-desert-masterpiece-2162720",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32530035",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32530035",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://mtlynch.io/tinypilot-redesign/",
             "_sensitive": false,
             "_score": 244
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32175328",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32175328",
-            "title": "一个关于 \"是 \"Unix命令的小故事\n",
-            "summary": "A little story about the `yes` Unix command",
-            "date_modified": "2022-07-21T03:10:01.000Z",
-            "author": {
-                "name": "derwiki",
-                "url": "https://news.ycombinator.com/user?id=derwiki"
-            },
-            "_original_headline": "A little story about the `yes` Unix command",
-            "_original_url": "https://endler.dev/2017/yes/",
-            "_sensitive": false,
-            "_score": 204
         }
     ]
 }
