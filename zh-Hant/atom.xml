@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-20T21:29:48.361Z</updated>
+    <updated>2022-08-20T22:48:31.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[應對副駕駛的問題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32532438</id>
+        <link href="https://news.ycombinator.com/item?id=32532438"/>
+        <updated>2022-08-20T14:49:41.000Z</updated>
+        <summary type="html"><![CDATA[Coping with Copilot]]></summary>
+        <author>
+            <name>lameda</name>
+            <uri>https://news.ycombinator.com/user?id=lameda</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brian Kernighan在Awk中增加了Unicode支持
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>fomine3</name>
             <uri>https://news.ycombinator.com/user?id=fomine3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前Coinbase總理被指控參與加密貨幣內幕交易小費計劃
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32180428</id>
-        <link href="https://news.ycombinator.com/item?id=32180428"/>
-        <updated>2022-07-21T15:19:41.000Z</updated>
-        <summary type="html"><![CDATA[Former Coinbase PM Charged in Cryptocurrency Insider Trading Tipping Scheme]]></summary>
-        <author>
-            <name>tempsy</name>
-            <uri>https://news.ycombinator.com/user?id=tempsy</uri>
         </author>
     </entry>
 </feed>

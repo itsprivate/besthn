@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32532438",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32532438",
+            "title": "應對副駕駛的問題\n",
+            "summary": "Coping with Copilot",
+            "date_modified": "2022-08-20T14:49:41.000Z",
+            "author": {
+                "name": "lameda",
+                "url": "https://news.ycombinator.com/user?id=lameda"
+            },
+            "_original_headline": "Coping with Copilot",
+            "_original_url": "https://www.sigarch.org/coping-with-copilot/",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32534173",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32534173",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://practical.engineering/blog/2022/6/20/4-myths-about-construction-debunked",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32180428",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32180428",
-            "title": "前Coinbase總理被指控參與加密貨幣內幕交易小費計劃\n",
-            "summary": "Former Coinbase PM Charged in Cryptocurrency Insider Trading Tipping Scheme",
-            "date_modified": "2022-07-21T15:19:41.000Z",
-            "author": {
-                "name": "tempsy",
-                "url": "https://news.ycombinator.com/user?id=tempsy"
-            },
-            "_original_headline": "Former Coinbase PM Charged in Cryptocurrency Insider Trading Tipping Scheme",
-            "_original_url": "https://www.justice.gov/usao-sdny/pr/three-charged-first-ever-cryptocurrency-insider-trading-tipping-scheme",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }
