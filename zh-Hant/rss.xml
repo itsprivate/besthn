@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 20 Aug 2022 13:59:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 17:57:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Zig現在默認為自我託管
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32529113</link>
+            <guid>https://news.ycombinator.com/item?id=32529113</guid>
+            <pubDate>Sat, 20 Aug 2022 04:35:36 GMT</pubDate>
+            <description><![CDATA[Zig is now self–hosted by default]]></description>
+        </item>
         <item>
             <title><![CDATA[50年後，邁克爾-海澤爾終於準備好揭開城市的面紗，這是他一生的作品。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32180555</guid>
             <pubDate>Thu, 21 Jul 2022 15:29:10 GMT</pubDate>
             <description><![CDATA[Former Coinbase Employee Charged in First Ever Crypto Insider Trading Scheme]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我對我的網站重新設計感到後悔
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32179563</link>
-            <guid>https://news.ycombinator.com/item?id=32179563</guid>
-            <pubDate>Thu, 21 Jul 2022 14:06:31 GMT</pubDate>
-            <description><![CDATA[I Regret my Website Redesign]]></description>
         </item>
     </channel>
 </rss>

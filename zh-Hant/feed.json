@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32529113",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32529113",
+            "title": "Zig現在默認為自我託管\n",
+            "summary": "Zig is now self–hosted by default",
+            "date_modified": "2022-08-20T04:35:36.000Z",
+            "author": {
+                "name": "BratishkaErik",
+                "url": "https://news.ycombinator.com/user?id=BratishkaErik"
+            },
+            "_original_headline": "Zig is now self–hosted by default",
+            "_original_url": "https://github.com/ziglang/zig/wiki/Self-Hosted-Compiler-Upgrade-Guide",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32529260",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32529260",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://stacker.news/items/47796",
             "_sensitive": false,
             "_score": 205
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32179563",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32179563",
-            "title": "我對我的網站重新設計感到後悔\n",
-            "summary": "I Regret my Website Redesign",
-            "date_modified": "2022-07-21T14:06:31.000Z",
-            "author": {
-                "name": "mtlynch",
-                "url": "https://news.ycombinator.com/user?id=mtlynch"
-            },
-            "_original_headline": "I Regret my Website Redesign",
-            "_original_url": "https://mtlynch.io/tinypilot-redesign/",
-            "_sensitive": false,
-            "_score": 244
         }
     ]
 }
