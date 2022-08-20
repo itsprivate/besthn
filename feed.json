@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32528769",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32528769",
+            "title": "长方体的视觉之和\n",
+            "summary": "Visual Sum of Cubes",
+            "date_modified": "2022-08-20T03:28:12.000Z",
+            "author": {
+                "name": "lnyan",
+                "url": "https://news.ycombinator.com/user?id=lnyan"
+            },
+            "_original_headline": "Visual Sum of Cubes",
+            "_original_url": "https://x.st/visual-sum-of-cubes/",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32528433",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32528433",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://jvns.ca/blog/2022/07/20/pseudoterminals/",
             "_sensitive": false,
             "_score": 205
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32170028",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32170028",
-            "title": "Gitlab和远程工作\n",
-            "summary": "Gitlab and remote work",
-            "date_modified": "2022-07-20T18:22:32.000Z",
-            "author": {
-                "name": "DougMellon",
-                "url": "https://news.ycombinator.com/user?id=DougMellon"
-            },
-            "_original_headline": "Gitlab and remote work",
-            "_original_url": "https://about.gitlab.com/company/culture/all-remote/",
-            "_sensitive": false,
-            "_score": 204
         }
     ]
 }
