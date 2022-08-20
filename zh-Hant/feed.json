@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32507596",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32507596",
+            "title": "管理四個人比管理一個人更容易\n",
+            "summary": "It's easier to manage four people than one",
+            "date_modified": "2022-08-18T10:32:03.000Z",
+            "author": {
+                "name": "staccatomeasure",
+                "url": "https://news.ycombinator.com/user?id=staccatomeasure"
+            },
+            "_original_headline": "It's easier to manage four people than one",
+            "_original_url": "https://staysaasy.com/management/2020/07/24/Managing-One-Person.html",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32521395",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32521395",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "Simon Tatham's Portable Puzzle Collection",
             "_original_url": "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/",
-            "_sensitive": false,
-            "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32170624",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32170624",
-            "title": "Python中的漂亮地圖\n",
-            "summary": "Pretty maps in Python",
-            "date_modified": "2022-07-20T19:04:14.000Z",
-            "author": {
-                "name": "todsacerdoti",
-                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
-            },
-            "_original_headline": "Pretty maps in Python",
-            "_original_url": "https://tech.marksblogg.com/pretty-maps-in-python.html",
             "_sensitive": false,
             "_score": 202
         }

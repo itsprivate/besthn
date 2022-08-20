@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 20 Aug 2022 05:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 05:36:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[管理四個人比管理一個人更容易
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32507596</link>
+            <guid>https://news.ycombinator.com/item?id=32507596</guid>
+            <pubDate>Thu, 18 Aug 2022 10:32:03 GMT</pubDate>
+            <description><![CDATA[It's easier to manage four people than one]]></description>
+        </item>
         <item>
             <title><![CDATA[SineRider - 一個由青少年建立的關於愛情、數學和繪圖的遊戲
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32170592</guid>
             <pubDate>Wed, 20 Jul 2022 19:02:23 GMT</pubDate>
             <description><![CDATA[Simon Tatham's Portable Puzzle Collection]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Python中的漂亮地圖
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32170624</link>
-            <guid>https://news.ycombinator.com/item?id=32170624</guid>
-            <pubDate>Wed, 20 Jul 2022 19:04:14 GMT</pubDate>
-            <description><![CDATA[Pretty maps in Python]]></description>
         </item>
     </channel>
 </rss>
