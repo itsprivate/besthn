@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32529412",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32529412",
+            "title": "AWS從gzip切換到zstd--壓縮的S3存儲量減少約30%。\n",
+            "summary": "AWS switch from gzip to zstd – about 30% reduction in compressed S3 storage",
+            "date_modified": "2022-08-20T05:34:41.000Z",
+            "author": {
+                "name": "luu",
+                "url": "https://news.ycombinator.com/user?id=luu"
+            },
+            "_original_headline": "AWS switch from gzip to zstd – about 30% reduction in compressed S3 storage",
+            "_original_url": "https://twitter.com/adrianco/status/1560854827810361345",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32528769",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32528769",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://blog.aaronkharris.com/vcs-are-scared-when-they-should-be-greedy",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32175100",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32175100",
-            "title": "當你在終端機上按下一個鍵時會發生什麼？\n",
-            "summary": "What happens when you press a key in your terminal?",
-            "date_modified": "2022-07-21T02:29:34.000Z",
-            "author": {
-                "name": "robenkleene",
-                "url": "https://news.ycombinator.com/user?id=robenkleene"
-            },
-            "_original_headline": "What happens when you press a key in your terminal?",
-            "_original_url": "https://jvns.ca/blog/2022/07/20/pseudoterminals/",
-            "_sensitive": false,
-            "_score": 205
         }
     ]
 }
