@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32521395",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32521395",
+            "title": "SineRider - 一个由青少年建立的关于爱情、数学和绘图的游戏\n",
+            "summary": "Show HN: SineRider - A game about love, math, and graphing built by teenagers",
+            "date_modified": "2022-08-19T14:29:02.000Z",
+            "author": {
+                "name": "ClaireBookworm",
+                "url": "https://news.ycombinator.com/user?id=ClaireBookworm"
+            },
+            "_original_headline": "Show HN: SineRider - A game about love, math, and graphing built by teenagers",
+            "_original_url": "https://sinerider.com/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32524702",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32524702",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://tech.marksblogg.com/pretty-maps-in-python.html",
             "_sensitive": false,
             "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32147968",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32147968",
-            "title": "你是如何提高你的用户体验技能的？\n",
-            "summary": "Ask HN: How did you increase your UX skills?",
-            "date_modified": "2022-07-19T05:48:24.000Z",
-            "author": {
-                "name": "staticBr",
-                "url": "https://news.ycombinator.com/user?id=staticBr"
-            },
-            "_original_headline": "Ask HN: How did you increase your UX skills?",
-            "_original_url": "https://news.ycombinator.com/item?id=32147968",
-            "_sensitive": false,
-            "_score": 205
         }
     ]
 }

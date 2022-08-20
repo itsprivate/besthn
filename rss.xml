@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sat, 20 Aug 2022 00:00:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 05:06:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[SineRider - 一个由青少年建立的关于爱情、数学和绘图的游戏
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32521395</link>
+            <guid>https://news.ycombinator.com/item?id=32521395</guid>
+            <pubDate>Fri, 19 Aug 2022 14:29:02 GMT</pubDate>
+            <description><![CDATA[Show HN: SineRider - A game about love, math, and graphing built by teenagers]]></description>
+        </item>
         <item>
             <title><![CDATA[解决一个不寻常的WiFi问题
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32170624</guid>
             <pubDate>Wed, 20 Jul 2022 19:04:14 GMT</pubDate>
             <description><![CDATA[Pretty maps in Python]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你是如何提高你的用户体验技能的？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32147968</link>
-            <guid>https://news.ycombinator.com/item?id=32147968</guid>
-            <pubDate>Tue, 19 Jul 2022 05:48:24 GMT</pubDate>
-            <description><![CDATA[Ask HN: How did you increase your UX skills?]]></description>
         </item>
     </channel>
 </rss>
