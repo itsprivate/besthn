@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 21 Aug 2022 07:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 07:57:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Cosmopolitan Libc v2.0
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32529526</link>
+            <guid>https://news.ycombinator.com/item?id=32529526</guid>
+            <pubDate>Sat, 20 Aug 2022 05:55:55 GMT</pubDate>
+            <description><![CDATA[Cosmopolitan Libc v2.0]]></description>
+        </item>
         <item>
             <title><![CDATA[我用DALL-E重塑了著名的專輯封面
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32180196</guid>
             <pubDate>Thu, 21 Jul 2022 15:00:13 GMT</pubDate>
             <description><![CDATA[Most Americans think NASA’s $10B space telescope is a good investment]]></description>
-        </item>
-        <item>
-            <title><![CDATA[玻璃門公司被勒令揭開發布批評意見的前玩具公司員工的面紗
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32179396</link>
-            <guid>https://news.ycombinator.com/item?id=32179396</guid>
-            <pubDate>Thu, 21 Jul 2022 13:52:57 GMT</pubDate>
-            <description><![CDATA[Glassdoor ordered to unmask former toy company employees who posted criticism]]></description>
         </item>
     </channel>
 </rss>

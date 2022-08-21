@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32529526",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32529526",
+            "title": "Cosmopolitan Libc v2.0\n",
+            "summary": "Cosmopolitan Libc v2.0",
+            "date_modified": "2022-08-20T05:55:55.000Z",
+            "author": {
+                "name": "Orochikaku",
+                "url": "https://news.ycombinator.com/user?id=Orochikaku"
+            },
+            "_original_headline": "Cosmopolitan Libc v2.0",
+            "_original_url": "https://github.com/jart/cosmopolitan/releases/tag/2.0",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32533986",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32533986",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.theverge.com/2022/7/19/23270396/nasa-james-webb-space-telescope-online-poll-investment",
             "_sensitive": false,
             "_score": 208
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32179396",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32179396",
-            "title": "玻璃門公司被勒令揭開發布批評意見的前玩具公司員工的面紗\n",
-            "summary": "Glassdoor ordered to unmask former toy company employees who posted criticism",
-            "date_modified": "2022-07-21T13:52:57.000Z",
-            "author": {
-                "name": "jackallis",
-                "url": "https://news.ycombinator.com/user?id=jackallis"
-            },
-            "_original_headline": "Glassdoor ordered to unmask former toy company employees who posted criticism",
-            "_original_url": "https://fortune.com/2022/07/19/glassdoor-court-order-reveal-employees-behind-anonymous-reviews/",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }
