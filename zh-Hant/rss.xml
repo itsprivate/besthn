@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 21 Aug 2022 17:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 17:59:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[將SQLite變成一個分佈式數據庫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32539360</link>
+            <guid>https://news.ycombinator.com/item?id=32539360</guid>
+            <pubDate>Sun, 21 Aug 2022 12:09:23 GMT</pubDate>
+            <description><![CDATA[Turning SQLite into a Distributed Database]]></description>
+        </item>
         <item>
             <title><![CDATA[黑客新聞官方API
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32177820</guid>
             <pubDate>Thu, 21 Jul 2022 10:52:28 GMT</pubDate>
             <description><![CDATA[Congress' push to regulate Big Tech is fizzling out]]></description>
-        </item>
-        <item>
-            <title><![CDATA[卡西歐F91智能手錶重啟
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32176603</link>
-            <guid>https://news.ycombinator.com/item?id=32176603</guid>
-            <pubDate>Thu, 21 Jul 2022 07:04:13 GMT</pubDate>
-            <description><![CDATA[Casio F91 smart watch reboot]]></description>
         </item>
     </channel>
 </rss>

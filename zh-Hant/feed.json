@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32539360",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32539360",
+            "title": "將SQLite變成一個分佈式數據庫\n",
+            "summary": "Turning SQLite into a Distributed Database",
+            "date_modified": "2022-08-21T12:09:23.000Z",
+            "author": {
+                "name": "losfair",
+                "url": "https://news.ycombinator.com/user?id=losfair"
+            },
+            "_original_headline": "Turning SQLite into a Distributed Database",
+            "_original_url": "https://univalence.me/posts/mvsqlite",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32540883",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32540883",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.axios.com/2022/07/21/big-tech-antitrust-senate-fizzle",
             "_sensitive": false,
             "_score": 204
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32176603",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32176603",
-            "title": "卡西歐F91智能手錶重啟\n",
-            "summary": "Casio F91 smart watch reboot",
-            "date_modified": "2022-07-21T07:04:13.000Z",
-            "author": {
-                "name": "rcarmo",
-                "url": "https://news.ycombinator.com/user?id=rcarmo"
-            },
-            "_original_headline": "Casio F91 smart watch reboot",
-            "_original_url": "https://gitlab.com/_Pegor/kepler_fw",
-            "_sensitive": false,
-            "_score": 232
         }
     ]
 }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-21T17:07:17.873Z</updated>
+    <updated>2022-08-21T17:59:33.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[將SQLite變成一個分佈式數據庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32539360</id>
+        <link href="https://news.ycombinator.com/item?id=32539360"/>
+        <updated>2022-08-21T12:09:23.000Z</updated>
+        <summary type="html"><![CDATA[Turning SQLite into a Distributed Database]]></summary>
+        <author>
+            <name>losfair</name>
+            <uri>https://news.ycombinator.com/user?id=losfair</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黑客新聞官方API
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>samizdis</name>
             <uri>https://news.ycombinator.com/user?id=samizdis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡西歐F91智能手錶重啟
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32176603</id>
-        <link href="https://news.ycombinator.com/item?id=32176603"/>
-        <updated>2022-07-21T07:04:13.000Z</updated>
-        <summary type="html"><![CDATA[Casio F91 smart watch reboot]]></summary>
-        <author>
-            <name>rcarmo</name>
-            <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
         </author>
     </entry>
 </feed>
