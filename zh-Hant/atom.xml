@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-21T18:37:36.028Z</updated>
+    <updated>2022-08-21T20:29:54.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英國超額死亡人數飆升的無聲危機只是冰山一角
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32539123</id>
+        <link href="https://news.ycombinator.com/item?id=32539123"/>
+        <updated>2022-08-21T11:24:45.000Z</updated>
+        <summary type="html"><![CDATA[Silent crisis of soaring excess deaths in Britain is only tip of the iceberg]]></summary>
+        <author>
+            <name>danboarder</name>
+            <uri>https://news.ycombinator.com/user?id=danboarder</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果正在建立一個廣告帝國，因為它的iPhone隱私打擊削弱了對手的實力
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>out_sider</name>
             <uri>https://news.ycombinator.com/user?id=out_sider</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亞馬遜將收購One Medical
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32178643</id>
-        <link href="https://news.ycombinator.com/item?id=32178643"/>
-        <updated>2022-07-21T12:45:04.000Z</updated>
-        <summary type="html"><![CDATA[Amazon to Acquire One Medical]]></summary>
-        <author>
-            <name>ejb999</name>
-            <uri>https://news.ycombinator.com/user?id=ejb999</uri>
         </author>
     </entry>
 </feed>
