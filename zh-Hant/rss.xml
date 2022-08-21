@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 21 Aug 2022 07:57:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 11:43:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[合併
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32535059</link>
+            <guid>https://news.ycombinator.com/item?id=32535059</guid>
+            <pubDate>Sat, 20 Aug 2022 20:51:08 GMT</pubDate>
+            <description><![CDATA[The Merge]]></description>
+        </item>
         <item>
             <title><![CDATA[Cosmopolitan Libc v2.0
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32183007</guid>
             <pubDate>Thu, 21 Jul 2022 18:31:39 GMT</pubDate>
             <description><![CDATA[Why We Ignore Thousands of Daily Car Crashes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大多數美國人認為美國宇航局100億美元的太空望遠鏡是一項好的投資
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32180196</link>
-            <guid>https://news.ycombinator.com/item?id=32180196</guid>
-            <pubDate>Thu, 21 Jul 2022 15:00:13 GMT</pubDate>
-            <description><![CDATA[Most Americans think NASA’s $10B space telescope is a good investment]]></description>
         </item>
     </channel>
 </rss>
