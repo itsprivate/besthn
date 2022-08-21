@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32522926",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32522926",
+            "title": "從Chrome中刪除HTTP/2服務器推送\n",
+            "summary": "Removing HTTP/2 Server Push from Chrome",
+            "date_modified": "2022-08-19T16:17:15.000Z",
+            "author": {
+                "name": "msoad",
+                "url": "https://news.ycombinator.com/user?id=msoad"
+            },
+            "_original_headline": "Removing HTTP/2 Server Push from Chrome",
+            "_original_url": "https://developer.chrome.com/blog/removing-push/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32539455",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32539455",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://statmodeling.stat.columbia.edu/2022/07/21/predicting-consumers-choices-in-the-age-of-the-internet-ai-and-almost-perfect-tracking-some-things-change-the-key-challenges-do-not/",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32179842",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32179842",
-            "title": "框架筆記本電腦（2022）回顧：可修復性的夢想\n",
-            "summary": "Framework Laptop (2022) review: the repairability dream",
-            "date_modified": "2022-07-21T14:30:26.000Z",
-            "author": {
-                "name": "Tomte",
-                "url": "https://news.ycombinator.com/user?id=Tomte"
-            },
-            "_original_headline": "Framework Laptop (2022) review: the repairability dream",
-            "_original_url": "https://www.theverge.com/23270191/framework-laptop-12th-gen-2022-review",
-            "_sensitive": false,
-            "_score": 205
         }
     ]
 }

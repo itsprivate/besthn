@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 21 Aug 2022 21:01:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 23:47:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[从Chrome中删除HTTP/2服务器推送
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32522926</link>
+            <guid>https://news.ycombinator.com/item?id=32522926</guid>
+            <pubDate>Fri, 19 Aug 2022 16:17:15 GMT</pubDate>
+            <description><![CDATA[Removing HTTP/2 Server Push from Chrome]]></description>
+        </item>
         <item>
             <title><![CDATA[LibGen的臃肿问题
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32181974</guid>
             <pubDate>Thu, 21 Jul 2022 17:13:16 GMT</pubDate>
             <description><![CDATA[ML is not that good at predicting consumers' choices]]></description>
-        </item>
-        <item>
-            <title><![CDATA[框架笔记本电脑（2022）回顾：可修复性的梦想
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32179842</link>
-            <guid>https://news.ycombinator.com/item?id=32179842</guid>
-            <pubDate>Thu, 21 Jul 2022 14:30:26 GMT</pubDate>
-            <description><![CDATA[Framework Laptop (2022) review: the repairability dream]]></description>
         </item>
     </channel>
 </rss>
