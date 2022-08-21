@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-21T15:51:23.228Z</updated>
+    <updated>2022-08-21T17:07:17.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑客新聞官方API
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32540883</id>
+        <link href="https://news.ycombinator.com/item?id=32540883"/>
+        <updated>2022-08-21T15:05:47.000Z</updated>
+        <summary type="html"><![CDATA[Hacker News Official API]]></summary>
+        <author>
+            <name>marchupfield</name>
+            <uri>https://news.ycombinator.com/user?id=marchupfield</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沒有人願意再去教書
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rcarmo</name>
             <uri>https://news.ycombinator.com/user?id=rcarmo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分析iOS 16鎖定模式。瀏覽器功能和性能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32177465</id>
-        <link href="https://news.ycombinator.com/item?id=32177465"/>
-        <updated>2022-07-21T09:58:58.000Z</updated>
-        <summary type="html"><![CDATA[Analyzing iOS 16 Lockdown Mode: Browser Features and Performance]]></summary>
-        <author>
-            <name>mjs</name>
-            <uri>https://news.ycombinator.com/user?id=mjs</uri>
         </author>
     </entry>
 </feed>

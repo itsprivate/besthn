@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 21 Aug 2022 15:51:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 17:07:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[黑客新聞官方API
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32540883</link>
+            <guid>https://news.ycombinator.com/item?id=32540883</guid>
+            <pubDate>Sun, 21 Aug 2022 15:05:47 GMT</pubDate>
+            <description><![CDATA[Hacker News Official API]]></description>
+        </item>
         <item>
             <title><![CDATA[沒有人願意再去教書
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32176603</guid>
             <pubDate>Thu, 21 Jul 2022 07:04:13 GMT</pubDate>
             <description><![CDATA[Casio F91 smart watch reboot]]></description>
-        </item>
-        <item>
-            <title><![CDATA[分析iOS 16鎖定模式。瀏覽器功能和性能
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32177465</link>
-            <guid>https://news.ycombinator.com/item?id=32177465</guid>
-            <pubDate>Thu, 21 Jul 2022 09:58:58 GMT</pubDate>
-            <description><![CDATA[Analyzing iOS 16 Lockdown Mode: Browser Features and Performance]]></description>
         </item>
     </channel>
 </rss>
