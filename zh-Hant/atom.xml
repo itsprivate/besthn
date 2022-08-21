@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-21T11:43:30.530Z</updated>
+    <updated>2022-08-21T11:57:08.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一位父親為醫生拍攝了他的裸體幼兒的照片，而谷歌對他進行了標記
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32538805</id>
+        <link href="https://news.ycombinator.com/item?id=32538805"/>
+        <updated>2022-08-21T10:15:42.000Z</updated>
+        <summary type="html"><![CDATA[A dad took photos of his naked toddler for the doctor and Google flagged him]]></summary>
+        <author>
+            <name>dklsf</name>
+            <uri>https://news.ycombinator.com/user?id=dklsf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[合併
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sogen</name>
             <uri>https://news.ycombinator.com/user?id=sogen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼我們忽視了每天數以千計的車禍？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32183007</id>
-        <link href="https://news.ycombinator.com/item?id=32183007"/>
-        <updated>2022-07-21T18:31:39.000Z</updated>
-        <summary type="html"><![CDATA[Why We Ignore Thousands of Daily Car Crashes]]></summary>
-        <author>
-            <name>oftenwrong</name>
-            <uri>https://news.ycombinator.com/user?id=oftenwrong</uri>
         </author>
     </entry>
 </feed>

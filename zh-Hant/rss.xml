@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 21 Aug 2022 11:43:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 11:57:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一位父親為醫生拍攝了他的裸體幼兒的照片，而谷歌對他進行了標記
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32538805</link>
+            <guid>https://news.ycombinator.com/item?id=32538805</guid>
+            <pubDate>Sun, 21 Aug 2022 10:15:42 GMT</pubDate>
+            <description><![CDATA[A dad took photos of his naked toddler for the doctor and Google flagged him]]></description>
+        </item>
         <item>
             <title><![CDATA[合併
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32184183</guid>
             <pubDate>Thu, 21 Jul 2022 19:59:58 GMT</pubDate>
             <description><![CDATA[Hertz paid Accenture $32M for a website that never went live]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為什麼我們忽視了每天數以千計的車禍？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32183007</link>
-            <guid>https://news.ycombinator.com/item?id=32183007</guid>
-            <pubDate>Thu, 21 Jul 2022 18:31:39 GMT</pubDate>
-            <description><![CDATA[Why We Ignore Thousands of Daily Car Crashes]]></description>
         </item>
     </channel>
 </rss>
