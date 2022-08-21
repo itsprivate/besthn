@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-21T13:48:48.793Z</updated>
+    <updated>2022-08-21T15:51:23.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[沒有人願意再去教書
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32539424</id>
+        <link href="https://news.ycombinator.com/item?id=32539424"/>
+        <updated>2022-08-21T12:18:38.000Z</updated>
+        <summary type="html"><![CDATA[Nobody wants to teach anymore]]></summary>
+        <author>
+            <name>grej</name>
+            <uri>https://news.ycombinator.com/user?id=grej</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為什麼我們不反過來做電子郵件驗證？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mjs</name>
             <uri>https://news.ycombinator.com/user?id=mjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究中的潛在捏造威脅著阿爾茨海默氏症的澱粉質理論
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32183302</id>
-        <link href="https://news.ycombinator.com/item?id=32183302"/>
-        <updated>2022-07-21T18:54:37.000Z</updated>
-        <summary type="html"><![CDATA[Potential fabrication in research threatens the amyloid theory of Alzheimer’s]]></summary>
-        <author>
-            <name>panabee</name>
-            <uri>https://news.ycombinator.com/user?id=panabee</uri>
         </author>
     </entry>
 </feed>

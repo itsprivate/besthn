@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32539424",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32539424",
+            "title": "沒有人願意再去教書\n",
+            "summary": "Nobody wants to teach anymore",
+            "date_modified": "2022-08-21T12:18:38.000Z",
+            "author": {
+                "name": "grej",
+                "url": "https://news.ycombinator.com/user?id=grej"
+            },
+            "_original_headline": "Nobody wants to teach anymore",
+            "_original_url": "https://jessicalexicus.medium.com/nobody-wants-to-teach-anymore-66f09b877b11",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32537565",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32537565",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.sevarg.net/2022/07/20/ios16-lockdown-mode-browser-analysis/",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32183302",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32183302",
-            "title": "研究中的潛在捏造威脅著阿爾茨海默氏症的澱粉質理論\n",
-            "summary": "Potential fabrication in research threatens the amyloid theory of Alzheimer’s",
-            "date_modified": "2022-07-21T18:54:37.000Z",
-            "author": {
-                "name": "panabee",
-                "url": "https://news.ycombinator.com/user?id=panabee"
-            },
-            "_original_headline": "Potential fabrication in research threatens the amyloid theory of Alzheimer’s",
-            "_original_url": "https://www.science.org/content/article/potential-fabrication-research-images-threatens-key-theory-alzheimers-disease",
-            "_sensitive": false,
-            "_score": 214
         }
     ]
 }
