@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-21T06:33:50.727Z</updated>
+    <updated>2022-08-21T07:44:42.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我用DALL-E重塑了著名的专辑封面
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32533986</id>
+        <link href="https://news.ycombinator.com/item?id=32533986"/>
+        <updated>2022-08-20T18:06:14.000Z</updated>
+        <summary type="html"><![CDATA[I recreated famous album covers with DALL-E]]></summary>
+        <author>
+            <name>lucytalksdata</name>
+            <uri>https://news.ycombinator.com/user?id=lucytalksdata</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[碎屑电路仿真器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32524577</id>
+        <link href="https://news.ycombinator.com/item?id=32524577"/>
+        <updated>2022-08-19T18:36:51.000Z</updated>
+        <summary type="html"><![CDATA[Crumb Circuit Simulator]]></summary>
+        <author>
+            <name>noyesno</name>
+            <uri>https://news.ycombinator.com/user?id=noyesno</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用。将Has()作为CSS父选择器等等
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>jackallis</name>
             <uri>https://news.ycombinator.com/user?id=jackallis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在哪里可以找到可以兼职的小公司？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32178328</id>
-        <link href="https://news.ycombinator.com/item?id=32178328"/>
-        <updated>2022-07-21T12:02:29.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: Where can I find small companies to work for part-time?]]></summary>
-        <author>
-            <name>ggktk</name>
-            <uri>https://news.ycombinator.com/user?id=ggktk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告诉HN：你不能雇用，因为你没有公布工资范围
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32181619</id>
-        <link href="https://news.ycombinator.com/item?id=32181619"/>
-        <updated>2022-07-21T16:46:57.000Z</updated>
-        <summary type="html"><![CDATA[Tell HN: You can't hire because you don't post salary ranges]]></summary>
-        <author>
-            <name>Carrok</name>
-            <uri>https://news.ycombinator.com/user?id=Carrok</uri>
         </author>
     </entry>
 </feed>

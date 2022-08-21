@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 21 Aug 2022 06:33:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 07:44:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我用DALL-E重塑了著名的专辑封面
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32533986</link>
+            <guid>https://news.ycombinator.com/item?id=32533986</guid>
+            <pubDate>Sat, 20 Aug 2022 18:06:14 GMT</pubDate>
+            <description><![CDATA[I recreated famous album covers with DALL-E]]></description>
+        </item>
+        <item>
+            <title><![CDATA[碎屑电路仿真器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32524577</link>
+            <guid>https://news.ycombinator.com/item?id=32524577</guid>
+            <pubDate>Fri, 19 Aug 2022 18:36:51 GMT</pubDate>
+            <description><![CDATA[Crumb Circuit Simulator]]></description>
+        </item>
         <item>
             <title><![CDATA[使用。将Has()作为CSS父选择器等等
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32179396</guid>
             <pubDate>Thu, 21 Jul 2022 13:52:57 GMT</pubDate>
             <description><![CDATA[Glassdoor ordered to unmask former toy company employees who posted criticism]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我在哪里可以找到可以兼职的小公司？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32178328</link>
-            <guid>https://news.ycombinator.com/item?id=32178328</guid>
-            <pubDate>Thu, 21 Jul 2022 12:02:29 GMT</pubDate>
-            <description><![CDATA[Ask HN: Where can I find small companies to work for part-time?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[告诉HN：你不能雇用，因为你没有公布工资范围
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32181619</link>
-            <guid>https://news.ycombinator.com/item?id=32181619</guid>
-            <pubDate>Thu, 21 Jul 2022 16:46:57 GMT</pubDate>
-            <description><![CDATA[Tell HN: You can't hire because you don't post salary ranges]]></description>
         </item>
     </channel>
 </rss>

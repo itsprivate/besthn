@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32533986",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32533986",
+            "title": "我用DALL-E重塑了著名的专辑封面\n",
+            "summary": "I recreated famous album covers with DALL-E",
+            "date_modified": "2022-08-20T18:06:14.000Z",
+            "author": {
+                "name": "lucytalksdata",
+                "url": "https://news.ycombinator.com/user?id=lucytalksdata"
+            },
+            "_original_headline": "I recreated famous album covers with DALL-E",
+            "_original_url": "https://lucytalksdata.com/i-receated-famous-album-covers-with-dalle/",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32524577",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32524577",
+            "title": "碎屑电路仿真器\n",
+            "summary": "Crumb Circuit Simulator",
+            "date_modified": "2022-08-19T18:36:51.000Z",
+            "author": {
+                "name": "noyesno",
+                "url": "https://news.ycombinator.com/user?id=noyesno"
+            },
+            "_original_headline": "Crumb Circuit Simulator",
+            "_original_url": "https://www.crumbsim.com",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32529838",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32529838",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://fortune.com/2022/07/19/glassdoor-court-order-reveal-employees-behind-anonymous-reviews/",
             "_sensitive": false,
             "_score": 201
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32178328",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32178328",
-            "title": "我在哪里可以找到可以兼职的小公司？\n",
-            "summary": "Ask HN: Where can I find small companies to work for part-time?",
-            "date_modified": "2022-07-21T12:02:29.000Z",
-            "author": {
-                "name": "ggktk",
-                "url": "https://news.ycombinator.com/user?id=ggktk"
-            },
-            "_original_headline": "Ask HN: Where can I find small companies to work for part-time?",
-            "_original_url": "https://news.ycombinator.com/item?id=32178328",
-            "_sensitive": false,
-            "_score": 205
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32181619",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32181619",
-            "title": "告诉HN：你不能雇用，因为你没有公布工资范围\n",
-            "summary": "Tell HN: You can't hire because you don't post salary ranges",
-            "date_modified": "2022-07-21T16:46:57.000Z",
-            "author": {
-                "name": "Carrok",
-                "url": "https://news.ycombinator.com/user?id=Carrok"
-            },
-            "_original_headline": "Tell HN: You can't hire because you don't post salary ranges",
-            "_original_url": "https://news.ycombinator.com/item?id=32181619",
-            "_sensitive": false,
-            "_score": 313
         }
     ]
 }
