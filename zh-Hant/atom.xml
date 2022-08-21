@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-21T11:57:08.577Z</updated>
+    <updated>2022-08-21T13:48:48.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為什麼我們不反過來做電子郵件驗證？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32537565</id>
+        <link href="https://news.ycombinator.com/item?id=32537565"/>
+        <updated>2022-08-21T05:08:56.000Z</updated>
+        <summary type="html"><![CDATA[Why don’t we do email verification in reverse?]]></summary>
+        <author>
+            <name>splash123</name>
+            <uri>https://news.ycombinator.com/user?id=splash123</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一位父親為醫生拍攝了他的裸體幼兒的照片，而谷歌對他進行了標記
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>panabee</name>
             <uri>https://news.ycombinator.com/user?id=panabee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赫茲為一個從未上線的網站支付埃森哲3200萬美元
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32184183</id>
-        <link href="https://news.ycombinator.com/item?id=32184183"/>
-        <updated>2022-07-21T19:59:58.000Z</updated>
-        <summary type="html"><![CDATA[Hertz paid Accenture $32M for a website that never went live]]></summary>
-        <author>
-            <name>sogen</name>
-            <uri>https://news.ycombinator.com/user?id=sogen</uri>
         </author>
     </entry>
 </feed>
