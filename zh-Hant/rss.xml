@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Sun, 21 Aug 2022 02:40:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 06:33:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用。將Has()作為CSS父選擇器等等
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32529838</link>
+            <guid>https://news.ycombinator.com/item?id=32529838</guid>
+            <pubDate>Sat, 20 Aug 2022 06:53:21 GMT</pubDate>
+            <description><![CDATA[Using: Has() as a CSS Parent Selector and much more]]></description>
+        </item>
         <item>
             <title><![CDATA[告訴HN：使用GPT-3生成代碼的新方法（和其他一切）。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32181619</guid>
             <pubDate>Thu, 21 Jul 2022 16:46:57 GMT</pubDate>
             <description><![CDATA[Tell HN: You can't hire because you don't post salary ranges]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Linux防火牆中的一個裂縫
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32178058</link>
-            <guid>https://news.ycombinator.com/item?id=32178058</guid>
-            <pubDate>Thu, 21 Jul 2022 11:24:10 GMT</pubDate>
-            <description><![CDATA[A Crack in the Linux Firewall]]></description>
         </item>
     </channel>
 </rss>

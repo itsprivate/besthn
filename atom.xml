@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-21T02:40:55.149Z</updated>
+    <updated>2022-08-21T06:33:50.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用。将Has()作为CSS父选择器等等
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32529838</id>
+        <link href="https://news.ycombinator.com/item?id=32529838"/>
+        <updated>2022-08-20T06:53:21.000Z</updated>
+        <summary type="html"><![CDATA[Using: Has() as a CSS Parent Selector and much more]]></summary>
+        <author>
+            <name>samwillis</name>
+            <uri>https://news.ycombinator.com/user?id=samwillis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告诉HN：使用GPT-3生成代码的新方法（和其他一切）。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Carrok</name>
             <uri>https://news.ycombinator.com/user?id=Carrok</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux防火墙中的一个裂缝
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32178058</id>
-        <link href="https://news.ycombinator.com/item?id=32178058"/>
-        <updated>2022-07-21T11:24:10.000Z</updated>
-        <summary type="html"><![CDATA[A Crack in the Linux Firewall]]></summary>
-        <author>
-            <name>emilburzo</name>
-            <uri>https://news.ycombinator.com/user?id=emilburzo</uri>
         </author>
     </entry>
 </feed>
