@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 22 Aug 2022 08:38:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 10:36:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用1961年的相機應用皮克斯的規則
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32546731</link>
+            <guid>https://news.ycombinator.com/item?id=32546731</guid>
+            <pubDate>Mon, 22 Aug 2022 02:44:53 GMT</pubDate>
+            <description><![CDATA[Applying a rule from Pixar with a camera from 1961]]></description>
+        </item>
         <item>
             <title><![CDATA[中斷的教堂 (2018)
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32193028</guid>
             <pubDate>Fri, 22 Jul 2022 15:29:19 GMT</pubDate>
             <description><![CDATA[Polio Detected in US]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有沒有想過為什麼淹沒在亞馬遜的廉價垃圾有MOFFBUZW這樣的品牌名稱？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32195987</link>
-            <guid>https://news.ycombinator.com/item?id=32195987</guid>
-            <pubDate>Fri, 22 Jul 2022 19:14:06 GMT</pubDate>
-            <description><![CDATA[Ever wonder why the cheap junk flooding Amazon has brand names like MOFFBUZW?]]></description>
         </item>
     </channel>
 </rss>
