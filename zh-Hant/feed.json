@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32541090",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32541090",
+            "title": "HBO最大限度地撤銷了近200集 \"芝麻街 \"節目\n",
+            "summary": "HBO Max pulls nearly 200 ‘Sesame Street’ episodes",
+            "date_modified": "2022-08-21T15:26:54.000Z",
+            "author": {
+                "name": "carride",
+                "url": "https://news.ycombinator.com/user?id=carride"
+            },
+            "_original_headline": "HBO Max pulls nearly 200 ‘Sesame Street’ episodes",
+            "_original_url": "https://www.nytimes.com/2022/08/20/arts/television/sesame-street-hbo-max.html",
+            "_sensitive": false,
+            "_score": 212
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32522926",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32522926",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://tutanota.com/blog/posts/dutch-schools-must-stop-using-google-email-and-cloud-services/",
             "_sensitive": false,
             "_score": 201
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32181974",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32181974",
-            "title": "ML在預測消費者的選擇方面並不那麼出色\n",
-            "summary": "ML is not that good at predicting consumers' choices",
-            "date_modified": "2022-07-21T17:13:16.000Z",
-            "author": {
-                "name": "macleginn",
-                "url": "https://news.ycombinator.com/user?id=macleginn"
-            },
-            "_original_headline": "ML is not that good at predicting consumers' choices",
-            "_original_url": "https://statmodeling.stat.columbia.edu/2022/07/21/predicting-consumers-choices-in-the-age-of-the-internet-ai-and-almost-perfect-tracking-some-things-change-the-key-challenges-do-not/",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }
