@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-22T15:37:22.272Z</updated>
+    <updated>2022-08-22T15:54:00.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苹果公司将自助维修服务扩展至Mac笔记本
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32550717</id>
+        <link href="https://news.ycombinator.com/item?id=32550717"/>
+        <updated>2022-08-22T13:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Apple Expands Self Service Repair to Mac Notebooks]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用带有2个GPIO引脚的Raspberry Pi Pico的10BASE-T
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lionheart</name>
             <uri>https://news.ycombinator.com/user?id=lionheart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贝宝驳回了我的主张，说我没有提供证据（然而我提供了）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32194373</id>
-        <link href="https://news.ycombinator.com/item?id=32194373"/>
-        <updated>2022-07-22T17:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: PayPal dismissed my claim, saying I didn't provide evidence (yet I did)]]></summary>
-        <author>
-            <name>fer</name>
-            <uri>https://news.ycombinator.com/user?id=fer</uri>
         </author>
     </entry>
 </feed>

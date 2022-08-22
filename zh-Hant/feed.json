@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32550717",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32550717",
+            "title": "蘋果公司將自助維修服務擴展至Mac筆記本\n",
+            "summary": "Apple Expands Self Service Repair to Mac Notebooks",
+            "date_modified": "2022-08-22T13:00:32.000Z",
+            "author": {
+                "name": "todsacerdoti",
+                "url": "https://news.ycombinator.com/user?id=todsacerdoti"
+            },
+            "_original_headline": "Apple Expands Self Service Repair to Mac Notebooks",
+            "_original_url": "https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/",
+            "_sensitive": false,
+            "_score": 218
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32548905",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32548905",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://caseyhandmer.wordpress.com/2022/07/22/were-going-to-need-a-lot-of-solar-panels/",
             "_sensitive": false,
             "_score": 269
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32194373",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32194373",
-            "title": "貝寶駁回了我的主張，說我沒有提供證據（然而我提供了）。\n",
-            "summary": "Ask HN: PayPal dismissed my claim, saying I didn't provide evidence (yet I did)",
-            "date_modified": "2022-07-22T17:06:00.000Z",
-            "author": {
-                "name": "fer",
-                "url": "https://news.ycombinator.com/user?id=fer"
-            },
-            "_original_headline": "Ask HN: PayPal dismissed my claim, saying I didn't provide evidence (yet I did)",
-            "_original_url": "https://news.ycombinator.com/item?id=32194373",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }
