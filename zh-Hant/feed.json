@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32549604",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32549604",
+            "title": "關於你的瀏覽在多大程度上反饋給了谷歌的聽覺反饋\n",
+            "summary": "Audible feedback on just how much your browsing feeds into Google",
+            "date_modified": "2022-08-22T10:35:38.000Z",
+            "author": {
+                "name": "zimmerfrei",
+                "url": "https://news.ycombinator.com/user?id=zimmerfrei"
+            },
+            "_original_headline": "Audible feedback on just how much your browsing feeds into Google",
+            "_original_url": "https://github.com/berthubert/googerteller",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32555028",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32555028",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://github.com/ValdikSS/GoodbyeDPI",
             "_sensitive": false,
             "_score": 206
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32197174",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32197174",
-            "title": "我不喜歡在遠程工作中的哪些方面\n",
-            "summary": "What I don’t like about working at a remote job",
-            "date_modified": "2022-07-22T21:11:36.000Z",
-            "author": {
-                "name": "priconceptions",
-                "url": "https://news.ycombinator.com/user?id=priconceptions"
-            },
-            "_original_headline": "What I don’t like about working at a remote job",
-            "_original_url": "https://www.priconceptions.com/notebook/remote-jobs-bad",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }

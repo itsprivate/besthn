@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 22 Aug 2022 19:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 20:48:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[关于你的浏览在多大程度上反馈给了谷歌的听觉反馈
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32549604</link>
+            <guid>https://news.ycombinator.com/item?id=32549604</guid>
+            <pubDate>Mon, 22 Aug 2022 10:35:38 GMT</pubDate>
+            <description><![CDATA[Audible feedback on just how much your browsing feeds into Google]]></description>
+        </item>
         <item>
             <title><![CDATA[稳定扩散的公开发布 - Stability.ai
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32199468</guid>
             <pubDate>Sat, 23 Jul 2022 02:00:10 GMT</pubDate>
             <description><![CDATA[GoodbyeDPI: Deep Packet Inspection circumvention utility]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我不喜欢在远程工作中的哪些方面
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32197174</link>
-            <guid>https://news.ycombinator.com/item?id=32197174</guid>
-            <pubDate>Fri, 22 Jul 2022 21:11:36 GMT</pubDate>
-            <description><![CDATA[What I don’t like about working at a remote job]]></description>
         </item>
     </channel>
 </rss>

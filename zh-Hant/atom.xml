@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-22T19:49:24.450Z</updated>
+    <updated>2022-08-22T20:48:44.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於你的瀏覽在多大程度上反饋給了谷歌的聽覺反饋
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32549604</id>
+        <link href="https://news.ycombinator.com/item?id=32549604"/>
+        <updated>2022-08-22T10:35:38.000Z</updated>
+        <summary type="html"><![CDATA[Audible feedback on just how much your browsing feeds into Google]]></summary>
+        <author>
+            <name>zimmerfrei</name>
+            <uri>https://news.ycombinator.com/user?id=zimmerfrei</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[穩定擴散的公開發布 - Stability.ai
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>davikr</name>
             <uri>https://news.ycombinator.com/user?id=davikr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我不喜歡在遠程工作中的哪些方面
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32197174</id>
-        <link href="https://news.ycombinator.com/item?id=32197174"/>
-        <updated>2022-07-22T21:11:36.000Z</updated>
-        <summary type="html"><![CDATA[What I don’t like about working at a remote job]]></summary>
-        <author>
-            <name>priconceptions</name>
-            <uri>https://news.ycombinator.com/user?id=priconceptions</uri>
         </author>
     </entry>
 </feed>
