@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-22T10:36:04.687Z</updated>
+    <updated>2022-08-22T14:29:48.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[智能電視的墮落。從無縫觀看的承諾到廣告工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32550211</id>
+        <link href="https://news.ycombinator.com/item?id=32550211"/>
+        <updated>2022-08-22T12:05:48.000Z</updated>
+        <summary type="html"><![CDATA[The downfall of smart TVs: From promises of seamless viewing to ad tool]]></summary>
+        <author>
+            <name>PretzelFisch</name>
+            <uri>https://news.ycombinator.com/user?id=PretzelFisch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用1961年的相機應用皮克斯的規則
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>wjSgoWPm5bWAhXB</name>
             <uri>https://news.ycombinator.com/user?id=wjSgoWPm5bWAhXB</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國檢測出脊髓灰質炎
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32193028</id>
-        <link href="https://news.ycombinator.com/item?id=32193028"/>
-        <updated>2022-07-22T15:29:19.000Z</updated>
-        <summary type="html"><![CDATA[Polio Detected in US]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>

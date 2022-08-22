@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 22 Aug 2022 10:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 14:29:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[智能电视的堕落。从无缝观看的承诺到广告工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32550211</link>
+            <guid>https://news.ycombinator.com/item?id=32550211</guid>
+            <pubDate>Mon, 22 Aug 2022 12:05:48 GMT</pubDate>
+            <description><![CDATA[The downfall of smart TVs: From promises of seamless viewing to ad tool]]></description>
+        </item>
         <item>
             <title><![CDATA[用1961年的相机应用皮克斯的规则
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32177141</guid>
             <pubDate>Thu, 21 Jul 2022 08:59:12 GMT</pubDate>
             <description><![CDATA[Strange new phase of matter acts like it has two time dimensions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美国检测出脊髓灰质炎
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32193028</link>
-            <guid>https://news.ycombinator.com/item?id=32193028</guid>
-            <pubDate>Fri, 22 Jul 2022 15:29:19 GMT</pubDate>
-            <description><![CDATA[Polio Detected in US]]></description>
         </item>
     </channel>
 </rss>
