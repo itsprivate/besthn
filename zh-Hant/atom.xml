@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-22T18:37:00.745Z</updated>
+    <updated>2022-08-22T19:49:24.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[穩定擴散的公開發布 - Stability.ai
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32555028</id>
+        <link href="https://news.ycombinator.com/item?id=32555028"/>
+        <updated>2022-08-22T18:08:23.000Z</updated>
+        <summary type="html"><![CDATA[Stable Diffusion Public Release – Stability.ai]]></summary>
+        <author>
+            <name>flimsythoughts</name>
+            <uri>https://news.ycombinator.com/user?id=flimsythoughts</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國熔鹽研究反應堆的申請已經提交
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32553574</id>
+        <link href="https://news.ycombinator.com/item?id=32553574"/>
+        <updated>2022-08-22T16:18:24.000Z</updated>
+        <summary type="html"><![CDATA[Application submitted for US molten salt research reactor]]></summary>
+        <author>
+            <name>PaulHoule</name>
+            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maps.earth - 免費和開源的網絡地圖
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>priconceptions</name>
             <uri>https://news.ycombinator.com/user?id=priconceptions</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[青少年正在改寫競技俄羅斯方塊世界的可能性
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32196129</id>
-        <link href="https://news.ycombinator.com/item?id=32196129"/>
-        <updated>2022-07-22T19:29:05.000Z</updated>
-        <summary type="html"><![CDATA[Teens are rewriting what is possible in the world of competitive Tetris]]></summary>
-        <author>
-            <name>danso</name>
-            <uri>https://news.ycombinator.com/user?id=danso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌解僱了稱其人工智能為有知覺的工程師Blake Lemoine
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32198214</id>
-        <link href="https://news.ycombinator.com/item?id=32198214"/>
-        <updated>2022-07-22T23:09:51.000Z</updated>
-        <summary type="html"><![CDATA[Google Fires Blake Lemoine, Engineer Who Called Its AI Sentient]]></summary>
-        <author>
-            <name>minimaxir</name>
-            <uri>https://news.ycombinator.com/user?id=minimaxir</uri>
         </author>
     </entry>
 </feed>
