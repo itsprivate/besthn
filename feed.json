@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32545785",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32545785",
+            "title": "Inky Impression 5.7\" - 用于Raspberry Pi的彩色电子墨水显示器\n",
+            "summary": "Inky Impression 5.7“ – Colour e-ink display for Raspberry Pi",
+            "date_modified": "2022-08-22T00:05:15.000Z",
+            "author": {
+                "name": "kristianp",
+                "url": "https://news.ycombinator.com/user?id=kristianp"
+            },
+            "_original_headline": "Inky Impression 5.7“ – Colour e-ink display for Raspberry Pi",
+            "_original_url": "https://core-electronics.com.au/guides/colour-e-ink-display-raspberry-pi/",
+            "_sensitive": false,
+            "_score": 215
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32544315",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32544315",
+            "title": "有谁在这里每周工作4天，作为雇员？\n",
+            "summary": "Ask HN: Anyone working 4 day week here, as an employee?",
+            "date_modified": "2022-08-21T20:54:30.000Z",
+            "author": {
+                "name": "akudha",
+                "url": "https://news.ycombinator.com/user?id=akudha"
+            },
+            "_original_headline": "Ask HN: Anyone working 4 day week here, as an employee?",
+            "_original_url": "https://news.ycombinator.com/item?id=32544315",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32542968",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32542968",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://www.theregister.com/2022/07/22/british_encryption_scanning/",
             "_sensitive": false,
             "_score": 211
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32188805",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32188805",
-            "title": "2000年中期关于Etsy主页的怪异史诗般的漫谈\n",
-            "summary": "A weird epic ramble about Etsy homepages from the middle 2000’s",
-            "date_modified": "2022-07-22T05:23:05.000Z",
-            "author": {
-                "name": "youcould",
-                "url": "https://news.ycombinator.com/user?id=youcould"
-            },
-            "_original_headline": "A weird epic ramble about Etsy homepages from the middle 2000’s",
-            "_original_url": "https://twitter.com/mcfunley/status/1550219636464967680",
-            "_sensitive": false,
-            "_score": 204
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32177091",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32177091",
-            "title": "将大象吞入Blender\n",
-            "summary": "Swallowing the elephant into Blender",
-            "date_modified": "2022-07-21T08:48:44.000Z",
-            "author": {
-                "name": "ibobev",
-                "url": "https://news.ycombinator.com/user?id=ibobev"
-            },
-            "_original_headline": "Swallowing the elephant into Blender",
-            "_original_url": "https://aras-p.info/blog/2022/07/20/Swallowing-the-elephant-into-Blender/",
-            "_sensitive": false,
-            "_score": 204
         }
     ]
 }
