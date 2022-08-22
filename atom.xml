@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-22T15:54:00.905Z</updated>
+    <updated>2022-08-22T18:01:50.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么 "雪花 "这么贵
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32551212</id>
+        <link href="https://news.ycombinator.com/item?id=32551212"/>
+        <updated>2022-08-22T13:41:04.000Z</updated>
+        <summary type="html"><![CDATA[Why is Snowflake so expensive]]></summary>
+        <author>
+            <name>eyeball</name>
+            <uri>https://news.ycombinator.com/user?id=eyeball</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果公司将自助维修服务扩展至Mac笔记本
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>wolfgang42</name>
             <uri>https://news.ycombinator.com/user?id=wolfgang42</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们将需要大量的太阳能电池板
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32197012</id>
-        <link href="https://news.ycombinator.com/item?id=32197012"/>
-        <updated>2022-07-22T20:54:53.000Z</updated>
-        <summary type="html"><![CDATA[We're going to need a lot of solar panels]]></summary>
-        <author>
-            <name>lionheart</name>
-            <uri>https://news.ycombinator.com/user?id=lionheart</uri>
         </author>
     </entry>
 </feed>
