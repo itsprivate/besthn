@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32545023",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32545023",
+            "title": "中斷的教堂 (2018)\n",
+            "summary": "The Church of Interruption (2018)",
+            "date_modified": "2022-08-21T22:15:47.000Z",
+            "author": {
+                "name": "wallflower",
+                "url": "https://news.ycombinator.com/user?id=wallflower"
+            },
+            "_original_headline": "The Church of Interruption (2018)",
+            "_original_url": "https://sambleckley.com/writing/church-of-interruption.html",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32542828",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32542828",
+            "title": "因提及蘋果預發佈的軟件而被拒絕，但我不是\n",
+            "summary": "Got a rejection for mentioning Apple pre-release software, but I am not",
+            "date_modified": "2022-08-21T18:13:03.000Z",
+            "author": {
+                "name": "tosh",
+                "url": "https://news.ycombinator.com/user?id=tosh"
+            },
+            "_original_headline": "Got a rejection for mentioning Apple pre-release software, but I am not",
+            "_original_url": "https://twitter.com/eternalstorms/status/1559794943673122818",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32547912",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32547912",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://twitter.com/ColeSouth/status/1550230795230781440",
             "_sensitive": false,
             "_score": 231
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32191615",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32191615",
-            "title": "如何向開發者做廣告：深入瞭解付費開發者營銷\n",
-            "summary": "How to advertise to developers: deep dive into paid developer marketing",
-            "date_modified": "2022-07-22T13:20:47.000Z",
-            "author": {
-                "name": "mooreds",
-                "url": "https://news.ycombinator.com/user?id=mooreds"
-            },
-            "_original_headline": "How to advertise to developers: deep dive into paid developer marketing",
-            "_original_url": "https://www.developermarkepear.com/blog/paid-advertising-developer-marketing",
-            "_sensitive": false,
-            "_score": 204
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32192318",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32192318",
-            "title": "Airbnb將把對最後一刻取消的房東的處罰從100美元提高到1千美元\n",
-            "summary": "Airbnb will up its penalty for hosts who cancel last-minute from $100 to $1k",
-            "date_modified": "2022-07-22T14:38:55.000Z",
-            "author": {
-                "name": "post_break",
-                "url": "https://news.ycombinator.com/user?id=post_break"
-            },
-            "_original_headline": "Airbnb will up its penalty for hosts who cancel last-minute from $100 to $1k",
-            "_original_url": "https://www.businessinsider.com/airbnb-ups-host-cancellation-fee-from-100-to-1000-dollars-2022-7",
-            "_sensitive": false,
-            "_score": 208
         }
     ]
 }

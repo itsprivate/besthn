@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 22 Aug 2022 07:59:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 08:38:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[中断的教堂 (2018)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32545023</link>
+            <guid>https://news.ycombinator.com/item?id=32545023</guid>
+            <pubDate>Sun, 21 Aug 2022 22:15:47 GMT</pubDate>
+            <description><![CDATA[The Church of Interruption (2018)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[因提及苹果预发布的软件而被拒绝，但我不是
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32542828</link>
+            <guid>https://news.ycombinator.com/item?id=32542828</guid>
+            <pubDate>Sun, 21 Aug 2022 18:13:03 GMT</pubDate>
+            <description><![CDATA[Got a rejection for mentioning Apple pre-release software, but I am not]]></description>
+        </item>
         <item>
             <title><![CDATA[告诉HN：谷歌云在周六凌晨1点暂停了我们的生产项目
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32195987</guid>
             <pubDate>Fri, 22 Jul 2022 19:14:06 GMT</pubDate>
             <description><![CDATA[Ever wonder why the cheap junk flooding Amazon has brand names like MOFFBUZW?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何向开发者做广告：深入了解付费开发者营销
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32191615</link>
-            <guid>https://news.ycombinator.com/item?id=32191615</guid>
-            <pubDate>Fri, 22 Jul 2022 13:20:47 GMT</pubDate>
-            <description><![CDATA[How to advertise to developers: deep dive into paid developer marketing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Airbnb将把对最后一刻取消的房东的处罚从100美元提高到1千美元
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32192318</link>
-            <guid>https://news.ycombinator.com/item?id=32192318</guid>
-            <pubDate>Fri, 22 Jul 2022 14:38:55 GMT</pubDate>
-            <description><![CDATA[Airbnb will up its penalty for hosts who cancel last-minute from $100 to $1k]]></description>
         </item>
     </channel>
 </rss>
