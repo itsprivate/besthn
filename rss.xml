@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 22 Aug 2022 02:41:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 05:36:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[uBlock Origin在Firefox上的效果最好
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32542968</link>
+            <guid>https://news.ycombinator.com/item?id=32542968</guid>
+            <pubDate>Sun, 21 Aug 2022 18:26:00 GMT</pubDate>
+            <description><![CDATA[uBlock Origin works best on Firefox]]></description>
+        </item>
+        <item>
+            <title><![CDATA[复杂社会的崩溃》（书评）
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32530180</link>
+            <guid>https://news.ycombinator.com/item?id=32530180</guid>
+            <pubDate>Sat, 20 Aug 2022 07:55:57 GMT</pubDate>
+            <description><![CDATA[The Collapse of Complex Societies (Book Review)]]></description>
+        </item>
         <item>
             <title><![CDATA[HBO最大限度地撤销了近200集 "芝麻街 "节目
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32177091</guid>
             <pubDate>Thu, 21 Jul 2022 08:48:44 GMT</pubDate>
             <description><![CDATA[Swallowing the elephant into Blender]]></description>
-        </item>
-        <item>
-            <title><![CDATA[面向编码员的实用深度学习2022
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32186647</link>
-            <guid>https://news.ycombinator.com/item?id=32186647</guid>
-            <pubDate>Thu, 21 Jul 2022 23:41:09 GMT</pubDate>
-            <description><![CDATA[Practical Deep Learning for Coders 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由于隐私问题，荷兰学校必须停止使用谷歌的电子邮件和云服务
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32184007</link>
-            <guid>https://news.ycombinator.com/item?id=32184007</guid>
-            <pubDate>Thu, 21 Jul 2022 19:48:02 GMT</pubDate>
-            <description><![CDATA[Dutch schools must stop using Google's email and cloud due to privacy concerns]]></description>
         </item>
     </channel>
 </rss>

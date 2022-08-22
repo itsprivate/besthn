@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-22T02:41:28.893Z</updated>
+    <updated>2022-08-22T05:36:06.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[uBlock Origin在Firefox上的效果最好
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32542968</id>
+        <link href="https://news.ycombinator.com/item?id=32542968"/>
+        <updated>2022-08-21T18:26:00.000Z</updated>
+        <summary type="html"><![CDATA[uBlock Origin works best on Firefox]]></summary>
+        <author>
+            <name>Ayesh</name>
+            <uri>https://news.ycombinator.com/user?id=Ayesh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[复杂社会的崩溃》（书评）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32530180</id>
+        <link href="https://news.ycombinator.com/item?id=32530180"/>
+        <updated>2022-08-20T07:55:57.000Z</updated>
+        <summary type="html"><![CDATA[The Collapse of Complex Societies (Book Review)]]></summary>
+        <author>
+            <name>simonebrunozzi</name>
+            <uri>https://news.ycombinator.com/user?id=simonebrunozzi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HBO最大限度地撤销了近200集 "芝麻街 "节目
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ibobev</name>
             <uri>https://news.ycombinator.com/user?id=ibobev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面向编码员的实用深度学习2022
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32186647</id>
-        <link href="https://news.ycombinator.com/item?id=32186647"/>
-        <updated>2022-07-21T23:41:09.000Z</updated>
-        <summary type="html"><![CDATA[Practical Deep Learning for Coders 2022]]></summary>
-        <author>
-            <name>tmabraham</name>
-            <uri>https://news.ycombinator.com/user?id=tmabraham</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由于隐私问题，荷兰学校必须停止使用谷歌的电子邮件和云服务
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32184007</id>
-        <link href="https://news.ycombinator.com/item?id=32184007"/>
-        <updated>2022-07-21T19:48:02.000Z</updated>
-        <summary type="html"><![CDATA[Dutch schools must stop using Google's email and cloud due to privacy concerns]]></summary>
-        <author>
-            <name>starsep</name>
-            <uri>https://news.ycombinator.com/user?id=starsep</uri>
         </author>
     </entry>
 </feed>
