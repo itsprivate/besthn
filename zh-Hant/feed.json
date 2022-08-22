@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32548905",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32548905",
+            "title": "使用帶有2個GPIO引腳的Raspberry Pi Pico的10BASE-T\n",
+            "summary": "10BASE-T using Raspberry Pi Pico with 2 GPIO pins",
+            "date_modified": "2022-08-22T08:47:21.000Z",
+            "author": {
+                "name": "sleepy_keita",
+                "url": "https://news.ycombinator.com/user?id=sleepy_keita"
+            },
+            "_original_headline": "10BASE-T using Raspberry Pi Pico with 2 GPIO pins",
+            "_original_url": "https://github.com/kingyoPiyo/Pico-10BASE-T",
+            "_sensitive": false,
+            "_score": 208
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32548671",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32548671",
+            "title": "使用CrowdStrike Falcon Sensor的荒謬的漏洞披露過程\n",
+            "summary": "Ridiculous vulnerability disclosure process with CrowdStrike Falcon Sensor",
+            "date_modified": "2022-08-22T08:12:28.000Z",
+            "author": {
+                "name": "detaro",
+                "url": "https://news.ycombinator.com/user?id=detaro"
+            },
+            "_original_headline": "Ridiculous vulnerability disclosure process with CrowdStrike Falcon Sensor",
+            "_original_url": "https://www.modzero.com/modlog/archives/2022/08/22/ridiculous_vulnerability_disclosure_process_with_crowdstrike_falcon_sensor/index.html",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32550336",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32550336",
@@ -9575,38 +9607,6 @@
             },
             "_original_headline": "Ask HN: PayPal dismissed my claim, saying I didn't provide evidence (yet I did)",
             "_original_url": "https://news.ycombinator.com/item?id=32194373",
-            "_sensitive": false,
-            "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32190032",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32190032",
-            "title": "符號鏈接的麻煩\n",
-            "summary": "The trouble with symbolic links",
-            "date_modified": "2022-07-22T09:04:10.000Z",
-            "author": {
-                "name": "jwilk",
-                "url": "https://news.ycombinator.com/user?id=jwilk"
-            },
-            "_original_headline": "The trouble with symbolic links",
-            "_original_url": "https://lwn.net/Articles/899543/",
-            "_sensitive": false,
-            "_score": 201
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32177405",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32177405",
-            "title": "\"電子表格心態 \"很糟糕，並扼殺了工作的效力\n",
-            "summary": "The “spreadsheet mentality” sucks, and kills the efficacy of jobs",
-            "date_modified": "2022-07-21T09:50:44.000Z",
-            "author": {
-                "name": "hunglee2",
-                "url": "https://news.ycombinator.com/user?id=hunglee2"
-            },
-            "_original_headline": "The “spreadsheet mentality” sucks, and kills the efficacy of jobs",
-            "_original_url": "https://tedbauer2003.medium.com/the-spreadsheet-mentality-sucks-and-kills-the-efficacy-of-jobs-697b9f2e83b8",
             "_sensitive": false,
             "_score": 200
         }
