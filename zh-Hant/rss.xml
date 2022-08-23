@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 23 Aug 2022 09:31:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 09:50:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[利用太陽的力量來烤制綠辣椒
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32556523</link>
+            <guid>https://news.ycombinator.com/item?id=32556523</guid>
+            <pubDate>Mon, 22 Aug 2022 20:08:17 GMT</pubDate>
+            <description><![CDATA[Using the power of the sun to roast green chile]]></description>
+        </item>
         <item>
             <title><![CDATA[金牛座與電子座--現實世界的應用
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32204600</guid>
             <pubDate>Sat, 23 Jul 2022 16:07:36 GMT</pubDate>
             <description><![CDATA[Efficient Dehumidifier Makes Air Conditioning a Breeze]]></description>
-        </item>
-        <item>
-            <title><![CDATA[西班牙將實行免費火車旅行
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32204256</link>
-            <guid>https://news.ycombinator.com/item?id=32204256</guid>
-            <pubDate>Sat, 23 Jul 2022 15:33:16 GMT</pubDate>
-            <description><![CDATA[Spain will introduce free train travel]]></description>
         </item>
     </channel>
 </rss>
