@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 23 Aug 2022 19:45:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 22:49:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[H1B被拒--建造独角兽回国
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32563949</link>
+            <guid>https://news.ycombinator.com/item?id=32563949</guid>
+            <pubDate>Tue, 23 Aug 2022 12:35:23 GMT</pubDate>
+            <description><![CDATA[H1B rejected – builds unicorn back home]]></description>
+        </item>
         <item>
             <title><![CDATA[投资者购买了去年售出的美国房屋的四分之一
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32210438</guid>
             <pubDate>Sun, 24 Jul 2022 04:52:02 GMT</pubDate>
             <description><![CDATA[Xz format considered inadequate for long-term archiving (2016)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[联邦调查局调查确定华为设备可能破坏美国核通讯
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32200371</link>
-            <guid>https://news.ycombinator.com/item?id=32200371</guid>
-            <pubDate>Sat, 23 Jul 2022 04:29:07 GMT</pubDate>
-            <description><![CDATA[FBI investigation determined Huawei equipment could disrupt US nuclear comms]]></description>
         </item>
     </channel>
 </rss>

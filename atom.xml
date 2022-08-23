@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-23T19:45:05.037Z</updated>
+    <updated>2022-08-23T22:49:31.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[H1B被拒--建造独角兽回国
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32563949</id>
+        <link href="https://news.ycombinator.com/item?id=32563949"/>
+        <updated>2022-08-23T12:35:23.000Z</updated>
+        <summary type="html"><![CDATA[H1B rejected – builds unicorn back home]]></summary>
+        <author>
+            <name>kumarm</name>
+            <uri>https://news.ycombinator.com/user?id=kumarm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[投资者购买了去年售出的美国房屋的四分之一
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pcr910303</name>
             <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联邦调查局调查确定华为设备可能破坏美国核通讯
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32200371</id>
-        <link href="https://news.ycombinator.com/item?id=32200371"/>
-        <updated>2022-07-23T04:29:07.000Z</updated>
-        <summary type="html"><![CDATA[FBI investigation determined Huawei equipment could disrupt US nuclear comms]]></summary>
-        <author>
-            <name>tusslewake</name>
-            <uri>https://news.ycombinator.com/user?id=tusslewake</uri>
         </author>
     </entry>
 </feed>
