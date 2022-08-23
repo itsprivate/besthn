@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 23 Aug 2022 04:40:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 07:09:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[男子拍下儿子腹股沟的医疗图片后，谷歌拒绝恢复账户资格
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32560361</link>
+            <guid>https://news.ycombinator.com/item?id=32560361</guid>
+            <pubDate>Tue, 23 Aug 2022 04:07:18 GMT</pubDate>
+            <description><![CDATA[Google refuses to reinstate account after man took medical images of son’s groin]]></description>
+        </item>
         <item>
             <title><![CDATA[Spotify上的一个奇怪的发现
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32192645</guid>
             <pubDate>Fri, 22 Jul 2022 15:02:29 GMT</pubDate>
             <description><![CDATA[Migratory monarch butterfly now endangered]]></description>
-        </item>
-        <item>
-            <title><![CDATA[散热垫 "模型 "使M2 MacBook Air比13英寸M2 Pro更快
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32194269</link>
-            <guid>https://news.ycombinator.com/item?id=32194269</guid>
-            <pubDate>Fri, 22 Jul 2022 16:57:28 GMT</pubDate>
-            <description><![CDATA[Thermal Pad ‘Mod’ Makes M2 MacBook Air Faster Than 13″ M2 Pro]]></description>
         </item>
     </channel>
 </rss>
