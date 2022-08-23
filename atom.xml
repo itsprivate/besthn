@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-23T11:57:47.624Z</updated>
+    <updated>2022-08-23T12:57:46.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA["10%的错误率是可以的"--泄露的欧盟委员会关于聊天控制的文件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32562294</id>
+        <link href="https://news.ycombinator.com/item?id=32562294"/>
+        <updated>2022-08-23T09:15:07.000Z</updated>
+        <summary type="html"><![CDATA[“10% error rate is okay“ – Leaked EU Commission document regarding Chat Control]]></summary>
+        <author>
+            <name>monort</name>
+            <uri>https://news.ycombinator.com/user?id=monort</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我达到了4千美元/月。但有多少伟大的创业理念已经死亡？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bilsbie</name>
             <uri>https://news.ycombinator.com/user?id=bilsbie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌搜索结果被垃圾".it "域名所困扰
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32201420</id>
-        <link href="https://news.ycombinator.com/item?id=32201420"/>
-        <updated>2022-07-23T08:19:10.000Z</updated>
-        <summary type="html"><![CDATA[Google Search Results Plagued with spam “.it” domains]]></summary>
-        <author>
-            <name>pyinstallwoes</name>
-            <uri>https://news.ycombinator.com/user?id=pyinstallwoes</uri>
         </author>
     </entry>
 </feed>
