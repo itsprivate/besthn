@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-23T12:57:46.367Z</updated>
+    <updated>2022-08-23T13:53:50.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[前Twitter执行官吹响哨子，指称网络安全政策鲁莽
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32562815</id>
+        <link href="https://news.ycombinator.com/item?id=32562815"/>
+        <updated>2022-08-23T10:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Ex-Twitter exec blows the whistle, alleging reckless cybersecurity policies]]></summary>
+        <author>
+            <name>razin</name>
+            <uri>https://news.ycombinator.com/user?id=razin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[风险一切 (2007)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32560466</id>
+        <link href="https://news.ycombinator.com/item?id=32560466"/>
+        <updated>2022-08-23T04:27:13.000Z</updated>
+        <summary type="html"><![CDATA[Risk Everything (2007)]]></summary>
+        <author>
+            <name>sutro</name>
+            <uri>https://news.ycombinator.com/user?id=sutro</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于main()之前发生的事情的总体概述（2019年）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32556048</id>
+        <link href="https://news.ycombinator.com/item?id=32556048"/>
+        <updated>2022-08-22T19:27:14.000Z</updated>
+        <summary type="html"><![CDATA[A general overview of what happens before main() (2019)]]></summary>
+        <author>
+            <name>xept</name>
+            <uri>https://news.ycombinator.com/user?id=xept</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["10%的错误率是可以的"--泄露的欧盟委员会关于聊天控制的文件
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>api</name>
             <uri>https://news.ycombinator.com/user?id=api</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用groff写我的博士论文
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32202209</id>
-        <link href="https://news.ycombinator.com/item?id=32202209"/>
-        <updated>2022-07-23T11:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Writing my PhD using groff]]></summary>
-        <author>
-            <name>yockyrr</name>
-            <uri>https://news.ycombinator.com/user?id=yockyrr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解决微分方程的懒人方法
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32191372</id>
-        <link href="https://news.ycombinator.com/item?id=32191372"/>
-        <updated>2022-07-22T12:52:11.000Z</updated>
-        <summary type="html"><![CDATA[A lazy way to solve differential equations]]></summary>
-        <author>
-            <name>cosmic_quanta</name>
-            <uri>https://news.ycombinator.com/user?id=cosmic_quanta</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[过去12个月对核聚变的投资比过去十年多
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32207152</id>
-        <link href="https://news.ycombinator.com/item?id=32207152"/>
-        <updated>2022-07-23T20:11:55.000Z</updated>
-        <summary type="html"><![CDATA[More invested in nuclear fusion in last 12 months than past decade]]></summary>
-        <author>
-            <name>bilsbie</name>
-            <uri>https://news.ycombinator.com/user?id=bilsbie</uri>
         </author>
     </entry>
 </feed>

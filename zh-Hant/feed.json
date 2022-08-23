@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32562815",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32562815",
+            "title": "前Twitter執行官吹響哨子，指稱網絡安全政策魯莽\n",
+            "summary": "Ex-Twitter exec blows the whistle, alleging reckless cybersecurity policies",
+            "date_modified": "2022-08-23T10:36:53.000Z",
+            "author": {
+                "name": "razin",
+                "url": "https://news.ycombinator.com/user?id=razin"
+            },
+            "_original_headline": "Ex-Twitter exec blows the whistle, alleging reckless cybersecurity policies",
+            "_original_url": "https://www.cnn.com/2022/08/23/tech/twitter-whistleblower-peiter-zatko-security/index.html",
+            "_sensitive": false,
+            "_score": 213
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32560466",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32560466",
+            "title": "風險一切 (2007)\n",
+            "summary": "Risk Everything (2007)",
+            "date_modified": "2022-08-23T04:27:13.000Z",
+            "author": {
+                "name": "sutro",
+                "url": "https://news.ycombinator.com/user?id=sutro"
+            },
+            "_original_headline": "Risk Everything (2007)",
+            "_original_url": "http://web.archive.org/web/20150311145210/https://gigaom.com/2007/08/07/risk-everything/",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32556048",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32556048",
+            "title": "關於main()之前發生的事情的總體概述（2019年）。\n",
+            "summary": "A general overview of what happens before main() (2019)",
+            "date_modified": "2022-08-22T19:27:14.000Z",
+            "author": {
+                "name": "xept",
+                "url": "https://news.ycombinator.com/user?id=xept"
+            },
+            "_original_headline": "A general overview of what happens before main() (2019)",
+            "_original_url": "https://embeddedartistry.com/blog/2019/04/08/a-general-overview-of-what-happens-before-main/",
+            "_sensitive": false,
+            "_score": 200
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32562294",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32562294",
@@ -9561,54 +9609,6 @@
             "_original_url": "https://github.com/GetPublii/Publii",
             "_sensitive": false,
             "_score": 207
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32202209",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32202209",
-            "title": "用groff寫我的博士論文\n",
-            "summary": "Writing my PhD using groff",
-            "date_modified": "2022-07-23T11:01:42.000Z",
-            "author": {
-                "name": "yockyrr",
-                "url": "https://news.ycombinator.com/user?id=yockyrr"
-            },
-            "_original_headline": "Writing my PhD using groff",
-            "_original_url": "https://jstutter.netlify.app/",
-            "_sensitive": false,
-            "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32191372",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32191372",
-            "title": "解決微分方程的懶人方法\n",
-            "summary": "A lazy way to solve differential equations",
-            "date_modified": "2022-07-22T12:52:11.000Z",
-            "author": {
-                "name": "cosmic_quanta",
-                "url": "https://news.ycombinator.com/user?id=cosmic_quanta"
-            },
-            "_original_headline": "A lazy way to solve differential equations",
-            "_original_url": "https://iagoleal.com/posts/calculus-symbolic-ode/",
-            "_sensitive": false,
-            "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32207152",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32207152",
-            "title": "過去12個月對核聚變的投資比過去十年多\n",
-            "summary": "More invested in nuclear fusion in last 12 months than past decade",
-            "date_modified": "2022-07-23T20:11:55.000Z",
-            "author": {
-                "name": "bilsbie",
-                "url": "https://news.ycombinator.com/user?id=bilsbie"
-            },
-            "_original_headline": "More invested in nuclear fusion in last 12 months than past decade",
-            "_original_url": "https://www.growthbusiness.co.uk/more-invested-in-nuclear-fusion-in-last-12-months-than-past-decade-2560528/",
-            "_sensitive": false,
-            "_score": 205
         }
     ]
 }
