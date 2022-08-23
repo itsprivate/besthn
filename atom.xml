@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-23T07:09:39.662Z</updated>
+    <updated>2022-08-23T09:31:46.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[金牛座与电子座--现实世界的应用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32550267</id>
+        <link href="https://news.ycombinator.com/item?id=32550267"/>
+        <updated>2022-08-22T12:14:32.000Z</updated>
+        <summary type="html"><![CDATA[Tauri vs. Electron – Real world application]]></summary>
+        <author>
+            <name>Levminer</name>
+            <uri>https://news.ycombinator.com/user?id=Levminer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[男子拍下儿子腹股沟的医疗图片后，谷歌拒绝恢复账户资格
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>donohoe</name>
             <uri>https://news.ycombinator.com/user?id=donohoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迁徙的帝王斑蝶现在处于濒危状态
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32192645</id>
-        <link href="https://news.ycombinator.com/item?id=32192645"/>
-        <updated>2022-07-22T15:02:29.000Z</updated>
-        <summary type="html"><![CDATA[Migratory monarch butterfly now endangered]]></summary>
-        <author>
-            <name>gmays</name>
-            <uri>https://news.ycombinator.com/user?id=gmays</uri>
         </author>
     </entry>
 </feed>

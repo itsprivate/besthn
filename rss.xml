@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 23 Aug 2022 07:09:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 09:31:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[金牛座与电子座--现实世界的应用
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32550267</link>
+            <guid>https://news.ycombinator.com/item?id=32550267</guid>
+            <pubDate>Mon, 22 Aug 2022 12:14:32 GMT</pubDate>
+            <description><![CDATA[Tauri vs. Electron – Real world application]]></description>
+        </item>
         <item>
             <title><![CDATA[男子拍下儿子腹股沟的医疗图片后，谷歌拒绝恢复账户资格
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32204256</guid>
             <pubDate>Sat, 23 Jul 2022 15:33:16 GMT</pubDate>
             <description><![CDATA[Spain will introduce free train travel]]></description>
-        </item>
-        <item>
-            <title><![CDATA[迁徙的帝王斑蝶现在处于濒危状态
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32192645</link>
-            <guid>https://news.ycombinator.com/item?id=32192645</guid>
-            <pubDate>Fri, 22 Jul 2022 15:02:29 GMT</pubDate>
-            <description><![CDATA[Migratory monarch butterfly now endangered]]></description>
         </item>
     </channel>
 </rss>
