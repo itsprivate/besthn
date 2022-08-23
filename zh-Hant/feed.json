@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32564275",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32564275",
+            "title": "研究首次將除草劑Roundup與動物的抽搐聯繫起來\n",
+            "summary": "Study first to link weed killer Roundup to convulsions in animals",
+            "date_modified": "2022-08-23T13:00:44.000Z",
+            "author": {
+                "name": "pseudolus",
+                "url": "https://news.ycombinator.com/user?id=pseudolus"
+            },
+            "_original_headline": "Study first to link weed killer Roundup to convulsions in animals",
+            "_original_url": "https://phys.org/news/2022-08-link-weed-killer-roundup-convulsions.html",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32567147",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32567147",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://wallstreetpro.com/2022/07/23/two-decades-of-alzheimers-research-was-based-on-deliberate-fraud-by-2-scientists-that-has-cost-billions-of-dollars-and-millions-of-lives/",
             "_sensitive": false,
             "_score": 213
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32211576",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32211576",
-            "title": "如何趕走你最好的工程師\n",
-            "summary": "How to drive away your best engineers",
-            "date_modified": "2022-07-24T08:43:14.000Z",
-            "author": {
-                "name": "signa11",
-                "url": "https://news.ycombinator.com/user?id=signa11"
-            },
-            "_original_headline": "How to drive away your best engineers",
-            "_original_url": "https://blog.hulacorn.com/2021/09/08/how-to-drive-away-your-best-engineers/",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }

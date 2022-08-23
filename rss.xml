@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 23 Aug 2022 17:43:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 18:37:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[研究首次将除草剂Roundup与动物的抽搐联系起来
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32564275</link>
+            <guid>https://news.ycombinator.com/item?id=32564275</guid>
+            <pubDate>Tue, 23 Aug 2022 13:00:44 GMT</pubDate>
+            <description><![CDATA[Study first to link weed killer Roundup to convulsions in animals]]></description>
+        </item>
         <item>
             <title><![CDATA[设计下一代iPhone
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32212719</guid>
             <pubDate>Sun, 24 Jul 2022 12:18:41 GMT</pubDate>
             <description><![CDATA[Two decades of Alzheimer’s research was based on deliberate fraud]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何赶走你最好的工程师
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32211576</link>
-            <guid>https://news.ycombinator.com/item?id=32211576</guid>
-            <pubDate>Sun, 24 Jul 2022 08:43:14 GMT</pubDate>
-            <description><![CDATA[How to drive away your best engineers]]></description>
         </item>
     </channel>
 </rss>
