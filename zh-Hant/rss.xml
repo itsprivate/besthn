@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 23 Aug 2022 15:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 16:49:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[遠程初創企業將贏得頂級人才爭奪戰
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32565784</link>
+            <guid>https://news.ycombinator.com/item?id=32565784</guid>
+            <pubDate>Tue, 23 Aug 2022 14:53:57 GMT</pubDate>
+            <description><![CDATA[Remote Startups Will Win the War for Top Talent]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Crawlee - Node.js的網絡刮削和瀏覽器自動化庫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32561127</link>
+            <guid>https://news.ycombinator.com/item?id=32561127</guid>
+            <pubDate>Tue, 23 Aug 2022 06:25:39 GMT</pubDate>
+            <description><![CDATA[Show HN: Crawlee – The web scraping and browser automation library for Node.js]]></description>
+        </item>
         <item>
             <title><![CDATA[色彩已經從世界上消失了
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32209345</guid>
             <pubDate>Sun, 24 Jul 2022 01:31:45 GMT</pubDate>
             <description><![CDATA[A chess robot in Moscow has broken the finger of its human opponent]]></description>
-        </item>
-        <item>
-            <title><![CDATA[亞馬遜銷售的 "Deep Learning with Python "是假貨
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32210256</link>
-            <guid>https://news.ycombinator.com/item?id=32210256</guid>
-            <pubDate>Sun, 24 Jul 2022 04:10:04 GMT</pubDate>
-            <description><![CDATA[Amazon sales of “Deep Learning with Python” are counterfeit]]></description>
-        </item>
-        <item>
-            <title><![CDATA[推特數據洩露暴露540萬個賬戶的聯繫信息；以3萬美元出售
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32208096</link>
-            <guid>https://news.ycombinator.com/item?id=32208096</guid>
-            <pubDate>Sat, 23 Jul 2022 22:16:12 GMT</pubDate>
-            <description><![CDATA[Twitter data breach exposes contact details for 5.4M accounts; on sale for $30k]]></description>
         </item>
     </channel>
 </rss>

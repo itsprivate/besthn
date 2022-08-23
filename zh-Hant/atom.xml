@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-23T15:52:48.857Z</updated>
+    <updated>2022-08-23T16:49:46.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[遠程初創企業將贏得頂級人才爭奪戰
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32565784</id>
+        <link href="https://news.ycombinator.com/item?id=32565784"/>
+        <updated>2022-08-23T14:53:57.000Z</updated>
+        <summary type="html"><![CDATA[Remote Startups Will Win the War for Top Talent]]></summary>
+        <author>
+            <name>gmays</name>
+            <uri>https://news.ycombinator.com/user?id=gmays</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crawlee - Node.js的網絡刮削和瀏覽器自動化庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32561127</id>
+        <link href="https://news.ycombinator.com/item?id=32561127"/>
+        <updated>2022-08-23T06:25:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Crawlee – The web scraping and browser automation library for Node.js]]></summary>
+        <author>
+            <name>jancurn</name>
+            <uri>https://news.ycombinator.com/user?id=jancurn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[色彩已經從世界上消失了
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>jedberg</name>
             <uri>https://news.ycombinator.com/user?id=jedberg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亞馬遜銷售的 "Deep Learning with Python "是假貨
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32210256</id>
-        <link href="https://news.ycombinator.com/item?id=32210256"/>
-        <updated>2022-07-24T04:10:04.000Z</updated>
-        <summary type="html"><![CDATA[Amazon sales of “Deep Learning with Python” are counterfeit]]></summary>
-        <author>
-            <name>jmillikin</name>
-            <uri>https://news.ycombinator.com/user?id=jmillikin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特數據洩露暴露540萬個賬戶的聯繫信息；以3萬美元出售
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32208096</id>
-        <link href="https://news.ycombinator.com/item?id=32208096"/>
-        <updated>2022-07-23T22:16:12.000Z</updated>
-        <summary type="html"><![CDATA[Twitter data breach exposes contact details for 5.4M accounts; on sale for $30k]]></summary>
-        <author>
-            <name>arkadiyt</name>
-            <uri>https://news.ycombinator.com/user?id=arkadiyt</uri>
         </author>
     </entry>
 </feed>
