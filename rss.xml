@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 23 Aug 2022 13:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 14:04:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为什么苹果将转向基于ARM的Mac电脑（2014年）
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32559328</link>
+            <guid>https://news.ycombinator.com/item?id=32559328</guid>
+            <pubDate>Tue, 23 Aug 2022 01:03:52 GMT</pubDate>
+            <description><![CDATA[Why Apple Will Switch to ARM-Based Macs (2014)]]></description>
+        </item>
         <item>
             <title><![CDATA[前Twitter执行官吹响哨子，指称网络安全政策鲁莽
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32206579</guid>
             <pubDate>Sat, 23 Jul 2022 19:11:49 GMT</pubDate>
             <description><![CDATA[The tar archive format, and why GNU tar extracts in quadratic time]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Publii: 开源的本地所见即所得静态网站CMS
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32204408</link>
-            <guid>https://news.ycombinator.com/item?id=32204408</guid>
-            <pubDate>Sat, 23 Jul 2022 15:48:33 GMT</pubDate>
-            <description><![CDATA[Publii: Open-source local WYSIWYG static site CMS]]></description>
         </item>
     </channel>
 </rss>
