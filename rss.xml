@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 23 Aug 2022 22:49:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 23:00:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[举报人称印度强迫推特公司将代理人列入工资单
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32566507</link>
+            <guid>https://news.ycombinator.com/item?id=32566507</guid>
+            <pubDate>Tue, 23 Aug 2022 15:38:38 GMT</pubDate>
+            <description><![CDATA[India forced Twitter to put agent on payroll, whistleblower says]]></description>
+        </item>
+        <item>
+            <title><![CDATA[英格兰紧急医疗的崩溃可能会使每周有500人丧生
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32562497</link>
+            <guid>https://news.ycombinator.com/item?id=32562497</guid>
+            <pubDate>Tue, 23 Aug 2022 09:48:53 GMT</pubDate>
+            <description><![CDATA[Collapse of emergency healthcare in England may be costing 500 lives every week]]></description>
+        </item>
         <item>
             <title><![CDATA[H1B被拒--建造独角兽回国
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32207606</guid>
             <pubDate>Sat, 23 Jul 2022 21:10:25 GMT</pubDate>
             <description><![CDATA[OfficerBreaker – pptx/docx/xlsx password remover]]></description>
-        </item>
-        <item>
-            <title><![CDATA[维-哈特：六面体[视频] (2012)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32213825</link>
-            <guid>https://news.ycombinator.com/item?id=32213825</guid>
-            <pubDate>Sun, 24 Jul 2022 14:28:53 GMT</pubDate>
-            <description><![CDATA[Vi Hart: Hexaflexagons [video] (2012)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Xz格式被认为不适合长期归档 (2016)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32210438</link>
-            <guid>https://news.ycombinator.com/item?id=32210438</guid>
-            <pubDate>Sun, 24 Jul 2022 04:52:02 GMT</pubDate>
-            <description><![CDATA[Xz format considered inadequate for long-term archiving (2016)]]></description>
         </item>
     </channel>
 </rss>
