@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 23 Aug 2022 16:49:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 17:43:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[設計下一代iPhone
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32567147</link>
+            <guid>https://news.ycombinator.com/item?id=32567147</guid>
+            <pubDate>Tue, 23 Aug 2022 16:16:24 GMT</pubDate>
+            <description><![CDATA[Design the Next iPhone]]></description>
+        </item>
+        <item>
+            <title><![CDATA[對甲骨文公司的全球監控機器提起集體訴訟
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32565614</link>
+            <guid>https://news.ycombinator.com/item?id=32565614</guid>
+            <pubDate>Tue, 23 Aug 2022 14:42:29 GMT</pubDate>
+            <description><![CDATA[Class action against Oracle’s worldwide surveillance machine]]></description>
+        </item>
         <item>
             <title><![CDATA[遠程初創企業將贏得頂級人才爭奪戰
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32211576</guid>
             <pubDate>Sun, 24 Jul 2022 08:43:14 GMT</pubDate>
             <description><![CDATA[How to drive away your best engineers]]></description>
-        </item>
-        <item>
-            <title><![CDATA["燃燒的船 "分形圖
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32210140</link>
-            <guid>https://news.ycombinator.com/item?id=32210140</guid>
-            <pubDate>Sun, 24 Jul 2022 03:47:55 GMT</pubDate>
-            <description><![CDATA["Burning Ship" fractal]]></description>
-        </item>
-        <item>
-            <title><![CDATA[莫斯科的一個國際象棋機器人打斷了它的人類對手的手指
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32209345</link>
-            <guid>https://news.ycombinator.com/item?id=32209345</guid>
-            <pubDate>Sun, 24 Jul 2022 01:31:45 GMT</pubDate>
-            <description><![CDATA[A chess robot in Moscow has broken the finger of its human opponent]]></description>
         </item>
     </channel>
 </rss>

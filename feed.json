@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32567147",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32567147",
+            "title": "设计下一代iPhone\n",
+            "summary": "Design the Next iPhone",
+            "date_modified": "2022-08-23T16:16:24.000Z",
+            "author": {
+                "name": "mkeeter",
+                "url": "https://news.ycombinator.com/user?id=mkeeter"
+            },
+            "_original_headline": "Design the Next iPhone",
+            "_original_url": "https://neal.fun/design-the-next-iphone/",
+            "_sensitive": false,
+            "_score": 245
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32565614",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32565614",
+            "title": "对甲骨文公司的全球监控机器提起集体诉讼\n",
+            "summary": "Class action against Oracle’s worldwide surveillance machine",
+            "date_modified": "2022-08-23T14:42:29.000Z",
+            "author": {
+                "name": "trasz",
+                "url": "https://news.ycombinator.com/user?id=trasz"
+            },
+            "_original_headline": "Class action against Oracle’s worldwide surveillance machine",
+            "_original_url": "https://www.iccl.ie/news/class-action-against-oracle/",
+            "_sensitive": false,
+            "_score": 213
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32565784",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32565784",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://blog.hulacorn.com/2021/09/08/how-to-drive-away-your-best-engineers/",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32210140",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32210140",
-            "title": "\"燃烧的船 \"分形图\n",
-            "summary": "\"Burning Ship\" fractal",
-            "date_modified": "2022-07-24T03:47:55.000Z",
-            "author": {
-                "name": "daqnal",
-                "url": "https://news.ycombinator.com/user?id=daqnal"
-            },
-            "_original_headline": "\"Burning Ship\" fractal",
-            "_original_url": "http://www.paulbourke.net/fractals/burnship/",
-            "_sensitive": false,
-            "_score": 205
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32209345",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32209345",
-            "title": "莫斯科的一个国际象棋机器人打断了它的人类对手的手指\n",
-            "summary": "A chess robot in Moscow has broken the finger of its human opponent",
-            "date_modified": "2022-07-24T01:31:45.000Z",
-            "author": {
-                "name": "jedberg",
-                "url": "https://news.ycombinator.com/user?id=jedberg"
-            },
-            "_original_headline": "A chess robot in Moscow has broken the finger of its human opponent",
-            "_original_url": "https://newsbeezer.com/czechrepubliceng/a-chess-robot-in-moscow-has-broken-the-finger-of-its-human-opponent/",
-            "_sensitive": false,
-            "_score": 204
         }
     ]
 }
