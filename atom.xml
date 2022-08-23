@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-23T09:50:16.351Z</updated>
+    <updated>2022-08-23T11:57:47.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我达到了4千美元/月。但有多少伟大的创业理念已经死亡？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32540478</id>
+        <link href="https://news.ycombinator.com/item?id=32540478"/>
+        <updated>2022-08-21T14:22:48.000Z</updated>
+        <summary type="html"><![CDATA[I Reached $4k/Mo. But How Many Great Startup Ideas Have Died?]]></summary>
+        <author>
+            <name>raunometsa</name>
+            <uri>https://news.ycombinator.com/user?id=raunometsa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[利用太阳的力量来烤制绿辣椒
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pyinstallwoes</name>
             <uri>https://news.ycombinator.com/user?id=pyinstallwoes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高效除湿机让空调变得轻而易举
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32204600</id>
-        <link href="https://news.ycombinator.com/item?id=32204600"/>
-        <updated>2022-07-23T16:07:36.000Z</updated>
-        <summary type="html"><![CDATA[Efficient Dehumidifier Makes Air Conditioning a Breeze]]></summary>
-        <author>
-            <name>jonnycomputer</name>
-            <uri>https://news.ycombinator.com/user?id=jonnycomputer</uri>
         </author>
     </entry>
 </feed>

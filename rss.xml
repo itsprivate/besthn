@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 23 Aug 2022 09:50:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 11:57:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我达到了4千美元/月。但有多少伟大的创业理念已经死亡？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32540478</link>
+            <guid>https://news.ycombinator.com/item?id=32540478</guid>
+            <pubDate>Sun, 21 Aug 2022 14:22:48 GMT</pubDate>
+            <description><![CDATA[I Reached $4k/Mo. But How Many Great Startup Ideas Have Died?]]></description>
+        </item>
         <item>
             <title><![CDATA[利用太阳的力量来烤制绿辣椒
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32201420</guid>
             <pubDate>Sat, 23 Jul 2022 08:19:10 GMT</pubDate>
             <description><![CDATA[Google Search Results Plagued with spam “.it” domains]]></description>
-        </item>
-        <item>
-            <title><![CDATA[高效除湿机让空调变得轻而易举
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32204600</link>
-            <guid>https://news.ycombinator.com/item?id=32204600</guid>
-            <pubDate>Sat, 23 Jul 2022 16:07:36 GMT</pubDate>
-            <description><![CDATA[Efficient Dehumidifier Makes Air Conditioning a Breeze]]></description>
         </item>
     </channel>
 </rss>
