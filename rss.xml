@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Mon, 22 Aug 2022 22:32:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 02:53:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[所有启用了Stripe Tax的用户，Stripe已经瘫痪了4个小时（还在继续）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32558191</link>
+            <guid>https://news.ycombinator.com/item?id=32558191</guid>
+            <pubDate>Mon, 22 Aug 2022 22:39:26 GMT</pubDate>
+            <description><![CDATA[Stripe down for 4 hours (and counting) for all those with Stripe Tax enabled]]></description>
+        </item>
+        <item>
+            <title><![CDATA[巴基斯坦前总理汗发表演讲时，YouTube受到干扰
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32555441</link>
+            <guid>https://news.ycombinator.com/item?id=32555441</guid>
+            <pubDate>Mon, 22 Aug 2022 18:41:39 GMT</pubDate>
+            <description><![CDATA[YouTube disrupted in Pakistan as former PM Khan streams speech]]></description>
+        </item>
         <item>
             <title><![CDATA[苹果GPU上的剪辑控制
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32201951</guid>
             <pubDate>Sat, 23 Jul 2022 10:09:44 GMT</pubDate>
             <description><![CDATA[Embed is in C23]]></description>
-        </item>
-        <item>
-            <title><![CDATA[流浪》的一个片段让我被禁止在Twitter上发表文章
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32202481</link>
-            <guid>https://news.ycombinator.com/item?id=32202481</guid>
-            <pubDate>Sat, 23 Jul 2022 11:52:17 GMT</pubDate>
-            <description><![CDATA[A clip from Stray got me banned from Twitter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[开箱的100美元的Chromebook
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32198762</link>
-            <guid>https://news.ycombinator.com/item?id=32198762</guid>
-            <pubDate>Sat, 23 Jul 2022 00:17:17 GMT</pubDate>
-            <description><![CDATA[Unboxing a $100 Chromebook]]></description>
         </item>
     </channel>
 </rss>

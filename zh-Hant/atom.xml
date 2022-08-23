@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-22T22:32:18.797Z</updated>
+    <updated>2022-08-23T02:53:53.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[所有啟用了Stripe Tax的用戶，Stripe已經癱瘓了4個小時（還在繼續）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32558191</id>
+        <link href="https://news.ycombinator.com/item?id=32558191"/>
+        <updated>2022-08-22T22:39:26.000Z</updated>
+        <summary type="html"><![CDATA[Stripe down for 4 hours (and counting) for all those with Stripe Tax enabled]]></summary>
+        <author>
+            <name>whyleym</name>
+            <uri>https://news.ycombinator.com/user?id=whyleym</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴基斯坦前總理汗發表演講時，YouTube受到干擾
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32555441</id>
+        <link href="https://news.ycombinator.com/item?id=32555441"/>
+        <updated>2022-08-22T18:41:39.000Z</updated>
+        <summary type="html"><![CDATA[YouTube disrupted in Pakistan as former PM Khan streams speech]]></summary>
+        <author>
+            <name>xbmcuser</name>
+            <uri>https://news.ycombinator.com/user?id=xbmcuser</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘋果GPU上的剪輯控制
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>aw1621107</name>
             <uri>https://news.ycombinator.com/user?id=aw1621107</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[流浪》的一個片段讓我被禁止在Twitter上發表文章
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32202481</id>
-        <link href="https://news.ycombinator.com/item?id=32202481"/>
-        <updated>2022-07-23T11:52:17.000Z</updated>
-        <summary type="html"><![CDATA[A clip from Stray got me banned from Twitter]]></summary>
-        <author>
-            <name>theshrike79</name>
-            <uri>https://news.ycombinator.com/user?id=theshrike79</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開箱的100美元的Chromebook
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32198762</id>
-        <link href="https://news.ycombinator.com/item?id=32198762"/>
-        <updated>2022-07-23T00:17:17.000Z</updated>
-        <summary type="html"><![CDATA[Unboxing a $100 Chromebook]]></summary>
-        <author>
-            <name>timsneath</name>
-            <uri>https://news.ycombinator.com/user?id=timsneath</uri>
         </author>
     </entry>
 </feed>
