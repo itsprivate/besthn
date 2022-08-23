@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-23T02:53:53.783Z</updated>
+    <updated>2022-08-23T04:40:20.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Spotify上的一个奇怪的发现
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32559119</id>
+        <link href="https://news.ycombinator.com/item?id=32559119"/>
+        <updated>2022-08-23T00:30:52.000Z</updated>
+        <summary type="html"><![CDATA[An odd discovery on Spotify]]></summary>
+        <author>
+            <name>breathenow</name>
+            <uri>https://news.ycombinator.com/user?id=breathenow</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重新发布受制裁的龙卷风现金库的分叉版本
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32558012</id>
+        <link href="https://news.ycombinator.com/item?id=32558012"/>
+        <updated>2022-08-22T22:19:19.000Z</updated>
+        <summary type="html"><![CDATA[Republishing a fork of the sanctioned Tornado Cash repositories]]></summary>
+        <author>
+            <name>Andrew_nenakhov</name>
+            <uri>https://news.ycombinator.com/user?id=Andrew_nenakhov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[所有启用了Stripe Tax的用户，Stripe已经瘫痪了4个小时（还在继续）。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>gnicholas</name>
             <uri>https://news.ycombinator.com/user?id=gnicholas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Confluence应用中的硬编码密码在Twitter上被泄露了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32195700</id>
-        <link href="https://news.ycombinator.com/item?id=32195700"/>
-        <updated>2022-07-22T18:48:22.000Z</updated>
-        <summary type="html"><![CDATA[Hardcoded password in Confluence app has been leaked on Twitter]]></summary>
-        <author>
-            <name>duxup</name>
-            <uri>https://news.ycombinator.com/user?id=duxup</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[嵌入在C23中
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32201951</id>
-        <link href="https://news.ycombinator.com/item?id=32201951"/>
-        <updated>2022-07-23T10:09:44.000Z</updated>
-        <summary type="html"><![CDATA[Embed is in C23]]></summary>
-        <author>
-            <name>aw1621107</name>
-            <uri>https://news.ycombinator.com/user?id=aw1621107</uri>
         </author>
     </entry>
 </feed>
