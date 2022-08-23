@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 23 Aug 2022 18:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 19:45:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[投資者購買了去年售出的美國房屋的四分之一
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32568858</link>
+            <guid>https://news.ycombinator.com/item?id=32568858</guid>
+            <pubDate>Tue, 23 Aug 2022 18:14:32 GMT</pubDate>
+            <description><![CDATA[Investors bought a quarter of US homes sold last year]]></description>
+        </item>
         <item>
             <title><![CDATA[研究首次將除草劑Roundup與動物的抽搐聯繫起來
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32200371</guid>
             <pubDate>Sat, 23 Jul 2022 04:29:07 GMT</pubDate>
             <description><![CDATA[FBI investigation determined Huawei equipment could disrupt US nuclear comms]]></description>
-        </item>
-        <item>
-            <title><![CDATA[二十年的阿爾茨海默氏症研究是建立在故意欺詐的基礎上的
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32212719</link>
-            <guid>https://news.ycombinator.com/item?id=32212719</guid>
-            <pubDate>Sun, 24 Jul 2022 12:18:41 GMT</pubDate>
-            <description><![CDATA[Two decades of Alzheimer’s research was based on deliberate fraud]]></description>
         </item>
     </channel>
 </rss>
