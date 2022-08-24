@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32580016",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32580016",
+            "title": "開發商的會計，第二部分\n",
+            "summary": "Accounting for Developers, Part II",
+            "date_modified": "2022-08-24T14:36:11.000Z",
+            "author": {
+                "name": "qin",
+                "url": "https://news.ycombinator.com/user?id=qin"
+            },
+            "_original_headline": "Accounting for Developers, Part II",
+            "_original_url": "https://www.moderntreasury.com/journal/accounting-for-developers-part-ii",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32578743",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32578743",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://blog.gruntwork.io/the-docker-kubernetes-terraform-and-aws-crash-course-series-dca343ba1274?gi=96ef3b8ffd04",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32224725",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32224725",
-            "title": "兩週以來，韋伯太空望遠鏡正在重塑天文學的面貌\n",
-            "summary": "Two weeks in, the Webb Space Telescope is reshaping astronomy",
-            "date_modified": "2022-07-25T14:24:53.000Z",
-            "author": {
-                "name": "theafh",
-                "url": "https://news.ycombinator.com/user?id=theafh"
-            },
-            "_original_headline": "Two weeks in, the Webb Space Telescope is reshaping astronomy",
-            "_original_url": "https://www.quantamagazine.org/two-weeks-in-the-webb-space-telescope-is-reshaping-astronomy-20220725/",
-            "_sensitive": false,
-            "_score": 229
         }
     ]
 }

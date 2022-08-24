@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-24T16:45:16.978Z</updated>
+    <updated>2022-08-24T19:06:11.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開發商的會計，第二部分
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32580016</id>
+        <link href="https://news.ycombinator.com/item?id=32580016"/>
+        <updated>2022-08-24T14:36:11.000Z</updated>
+        <summary type="html"><![CDATA[Accounting for Developers, Part II]]></summary>
+        <author>
+            <name>qin</name>
+            <uri>https://news.ycombinator.com/user?id=qin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拉斯特--一個艱難的決定得到了回報
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kiyanwang</name>
             <uri>https://news.ycombinator.com/user?id=kiyanwang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[兩週以來，韋伯太空望遠鏡正在重塑天文學的面貌
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32224725</id>
-        <link href="https://news.ycombinator.com/item?id=32224725"/>
-        <updated>2022-07-25T14:24:53.000Z</updated>
-        <summary type="html"><![CDATA[Two weeks in, the Webb Space Telescope is reshaping astronomy]]></summary>
-        <author>
-            <name>theafh</name>
-            <uri>https://news.ycombinator.com/user?id=theafh</uri>
         </author>
     </entry>
 </feed>
