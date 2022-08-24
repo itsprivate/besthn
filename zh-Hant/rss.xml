@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Tue, 23 Aug 2022 23:00:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 02:52:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,38 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Pornpen.ai，人工智能生成的色情作品
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32572770</link>
+            <guid>https://news.ycombinator.com/item?id=32572770</guid>
+            <pubDate>Tue, 23 Aug 2022 23:06:43 GMT</pubDate>
+            <description><![CDATA[Show HN: Pornpen.ai, AI-Generated Porn]]></description>
+        </item>
+        <item>
+            <title><![CDATA[TypeScript對於庫的開發者來說是很糟糕的
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32569112</link>
+            <guid>https://news.ycombinator.com/item?id=32569112</guid>
+            <pubDate>Tue, 23 Aug 2022 18:31:24 GMT</pubDate>
+            <description><![CDATA[TypeScript is terrible for library developers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你的每一個行動都是對你希望成為的那種人的投票。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32567637</link>
+            <guid>https://news.ycombinator.com/item?id=32567637</guid>
+            <pubDate>Tue, 23 Aug 2022 16:50:21 GMT</pubDate>
+            <description><![CDATA[Every action you take is a vote for the type of person you wish to become]]></description>
+        </item>
+        <item>
+            <title><![CDATA[全氟辛烷（如你所料）是一種奇怪的東西。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32566743</link>
+            <guid>https://news.ycombinator.com/item?id=32566743</guid>
+            <pubDate>Tue, 23 Aug 2022 15:52:11 GMT</pubDate>
+            <description><![CDATA[Perfluorocubane is (as you would expect) weird]]></description>
+        </item>
         <item>
             <title><![CDATA[舉報人稱印度強迫推特公司將代理人列入工資單
 ]]></title>
@@ -4781,38 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32214419</guid>
             <pubDate>Sun, 24 Jul 2022 15:31:23 GMT</pubDate>
             <description><![CDATA[Performance comparison: counting words in Python, C/C++, Awk, Rust, and more]]></description>
-        </item>
-        <item>
-            <title><![CDATA[沃達豐和德國電信將引入持久性用戶追蹤功能
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32207577</link>
-            <guid>https://news.ycombinator.com/item?id=32207577</guid>
-            <pubDate>Sat, 23 Jul 2022 21:07:05 GMT</pubDate>
-            <description><![CDATA[Vodafone and Deutsche Telekom to introduce persistent user tracking]]></description>
-        </item>
-        <item>
-            <title><![CDATA[拍攝更多屏幕截圖
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32215277</link>
-            <guid>https://news.ycombinator.com/item?id=32215277</guid>
-            <pubDate>Sun, 24 Jul 2022 16:55:16 GMT</pubDate>
-            <description><![CDATA[Take more screenshots]]></description>
-        </item>
-        <item>
-            <title><![CDATA[標準電子書
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32215324</link>
-            <guid>https://news.ycombinator.com/item?id=32215324</guid>
-            <pubDate>Sun, 24 Jul 2022 16:59:30 GMT</pubDate>
-            <description><![CDATA[Standard Ebooks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[OfficerBreaker - pptx/docx/xlsx密碼去除器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32207606</link>
-            <guid>https://news.ycombinator.com/item?id=32207606</guid>
-            <pubDate>Sat, 23 Jul 2022 21:10:25 GMT</pubDate>
-            <description><![CDATA[OfficerBreaker – pptx/docx/xlsx password remover]]></description>
         </item>
     </channel>
 </rss>

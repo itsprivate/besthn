@@ -11,6 +11,70 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32572770",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32572770",
+            "title": "Pornpen.ai，人工智能生成的色情作品\n",
+            "summary": "Show HN: Pornpen.ai, AI-Generated Porn",
+            "date_modified": "2022-08-23T23:06:43.000Z",
+            "author": {
+                "name": "dreampen",
+                "url": "https://news.ycombinator.com/user?id=dreampen"
+            },
+            "_original_headline": "Show HN: Pornpen.ai, AI-Generated Porn",
+            "_original_url": "https://pornpen.ai/",
+            "_sensitive": false,
+            "_score": 276
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32569112",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32569112",
+            "title": "TypeScript對於庫的開發者來說是很糟糕的\n",
+            "summary": "TypeScript is terrible for library developers",
+            "date_modified": "2022-08-23T18:31:24.000Z",
+            "author": {
+                "name": "qudat",
+                "url": "https://news.ycombinator.com/user?id=qudat"
+            },
+            "_original_headline": "TypeScript is terrible for library developers",
+            "_original_url": "https://erock.prose.sh/typescript-terrible-for-library-developers",
+            "_sensitive": false,
+            "_score": 225
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32567637",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32567637",
+            "title": "你的每一個行動都是對你希望成為的那種人的投票。\n",
+            "summary": "Every action you take is a vote for the type of person you wish to become",
+            "date_modified": "2022-08-23T16:50:21.000Z",
+            "author": {
+                "name": "jeremyeder",
+                "url": "https://news.ycombinator.com/user?id=jeremyeder"
+            },
+            "_original_headline": "Every action you take is a vote for the type of person you wish to become",
+            "_original_url": "https://jeremyeder.com/2022/08/16/every-action-you-take-is-a-vote-for-the-type-of-person-you-wish-to-become/",
+            "_sensitive": false,
+            "_score": 210
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32566743",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32566743",
+            "title": "全氟辛烷（如你所料）是一種奇怪的東西。\n",
+            "summary": "Perfluorocubane is (as you would expect) weird",
+            "date_modified": "2022-08-23T15:52:11.000Z",
+            "author": {
+                "name": "kens",
+                "url": "https://news.ycombinator.com/user?id=kens"
+            },
+            "_original_headline": "Perfluorocubane is (as you would expect) weird",
+            "_original_url": "https://www.science.org/content/blog-post/perfluorocubane-you-would-expect-weird",
+            "_sensitive": false,
+            "_score": 218
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32566507",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32566507",
@@ -9545,70 +9609,6 @@
             "_original_url": "https://benhoyt.com/writings/count-words/",
             "_sensitive": false,
             "_score": 202
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32207577",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32207577",
-            "title": "沃達豐和德國電信將引入持久性用戶追蹤功能\n",
-            "summary": "Vodafone and Deutsche Telekom to introduce persistent user tracking",
-            "date_modified": "2022-07-23T21:07:05.000Z",
-            "author": {
-                "name": "mmazzarolo",
-                "url": "https://news.ycombinator.com/user?id=mmazzarolo"
-            },
-            "_original_headline": "Vodafone and Deutsche Telekom to introduce persistent user tracking",
-            "_original_url": "https://blog.simpleanalytics.com/vodafone-deutsche-telekom-to-introduce-persistent-user-tracking",
-            "_sensitive": false,
-            "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32215277",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32215277",
-            "title": "拍攝更多屏幕截圖\n",
-            "summary": "Take more screenshots",
-            "date_modified": "2022-07-24T16:55:16.000Z",
-            "author": {
-                "name": "pcr910303",
-                "url": "https://news.ycombinator.com/user?id=pcr910303"
-            },
-            "_original_headline": "Take more screenshots",
-            "_original_url": "https://alexwlchan.net/2022/07/screenshots/",
-            "_sensitive": false,
-            "_score": 206
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32215324",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32215324",
-            "title": "標準電子書\n",
-            "summary": "Standard Ebooks",
-            "date_modified": "2022-07-24T16:59:30.000Z",
-            "author": {
-                "name": "tosh",
-                "url": "https://news.ycombinator.com/user?id=tosh"
-            },
-            "_original_headline": "Standard Ebooks",
-            "_original_url": "https://standardebooks.org/",
-            "_sensitive": false,
-            "_score": 227
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32207606",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32207606",
-            "title": "OfficerBreaker - pptx/docx/xlsx密碼去除器\n",
-            "summary": "OfficerBreaker – pptx/docx/xlsx password remover",
-            "date_modified": "2022-07-23T21:10:25.000Z",
-            "author": {
-                "name": "Anonymous4272",
-                "url": "https://news.ycombinator.com/user?id=Anonymous4272"
-            },
-            "_original_headline": "OfficerBreaker – pptx/docx/xlsx password remover",
-            "_original_url": "https://github.com/nedlir/OfficerBreaker",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }

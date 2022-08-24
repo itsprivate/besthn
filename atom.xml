@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-23T23:00:40.923Z</updated>
+    <updated>2022-08-24T02:52:38.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Pornpen.ai，人工智能生成的色情作品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32572770</id>
+        <link href="https://news.ycombinator.com/item?id=32572770"/>
+        <updated>2022-08-23T23:06:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pornpen.ai, AI-Generated Porn]]></summary>
+        <author>
+            <name>dreampen</name>
+            <uri>https://news.ycombinator.com/user?id=dreampen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript对于库的开发者来说是很糟糕的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32569112</id>
+        <link href="https://news.ycombinator.com/item?id=32569112"/>
+        <updated>2022-08-23T18:31:24.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript is terrible for library developers]]></summary>
+        <author>
+            <name>qudat</name>
+            <uri>https://news.ycombinator.com/user?id=qudat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的每一个行动都是对你希望成为的那种人的投票。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32567637</id>
+        <link href="https://news.ycombinator.com/item?id=32567637"/>
+        <updated>2022-08-23T16:50:21.000Z</updated>
+        <summary type="html"><![CDATA[Every action you take is a vote for the type of person you wish to become]]></summary>
+        <author>
+            <name>jeremyeder</name>
+            <uri>https://news.ycombinator.com/user?id=jeremyeder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全氟辛烷（如你所料）是一种奇怪的东西。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32566743</id>
+        <link href="https://news.ycombinator.com/item?id=32566743"/>
+        <updated>2022-08-23T15:52:11.000Z</updated>
+        <summary type="html"><![CDATA[Perfluorocubane is (as you would expect) weird]]></summary>
+        <author>
+            <name>kens</name>
+            <uri>https://news.ycombinator.com/user?id=kens</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[举报人称印度强迫推特公司将代理人列入工资单
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>pcr910303</name>
             <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沃达丰和德国电信将引入持久性用户追踪功能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32207577</id>
-        <link href="https://news.ycombinator.com/item?id=32207577"/>
-        <updated>2022-07-23T21:07:05.000Z</updated>
-        <summary type="html"><![CDATA[Vodafone and Deutsche Telekom to introduce persistent user tracking]]></summary>
-        <author>
-            <name>mmazzarolo</name>
-            <uri>https://news.ycombinator.com/user?id=mmazzarolo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拍摄更多屏幕截图
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32215277</id>
-        <link href="https://news.ycombinator.com/item?id=32215277"/>
-        <updated>2022-07-24T16:55:16.000Z</updated>
-        <summary type="html"><![CDATA[Take more screenshots]]></summary>
-        <author>
-            <name>pcr910303</name>
-            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[标准电子书
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32215324</id>
-        <link href="https://news.ycombinator.com/item?id=32215324"/>
-        <updated>2022-07-24T16:59:30.000Z</updated>
-        <summary type="html"><![CDATA[Standard Ebooks]]></summary>
-        <author>
-            <name>tosh</name>
-            <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OfficerBreaker - pptx/docx/xlsx密码去除器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32207606</id>
-        <link href="https://news.ycombinator.com/item?id=32207606"/>
-        <updated>2022-07-23T21:10:25.000Z</updated>
-        <summary type="html"><![CDATA[OfficerBreaker – pptx/docx/xlsx password remover]]></summary>
-        <author>
-            <name>Anonymous4272</name>
-            <uri>https://news.ycombinator.com/user?id=Anonymous4272</uri>
         </author>
     </entry>
 </feed>
