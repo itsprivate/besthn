@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 24 Aug 2022 06:06:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 06:50:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Nginx的未来。回到我们的开源根基
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32572153</link>
+            <guid>https://news.ycombinator.com/item?id=32572153</guid>
+            <pubDate>Tue, 23 Aug 2022 22:00:45 GMT</pubDate>
+            <description><![CDATA[The future of Nginx: Getting back to our open source roots]]></description>
+        </item>
+        <item>
+            <title><![CDATA[常见的技术工作被描述为中美洲巫师的小团体
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32571970</link>
+            <guid>https://news.ycombinator.com/item?id=32571970</guid>
+            <pubDate>Tue, 23 Aug 2022 21:43:35 GMT</pubDate>
+            <description><![CDATA[Common tech jobs described as cabals of Mesoamerican wizards]]></description>
+        </item>
         <item>
             <title><![CDATA[框架笔记本电脑上的FreeBSD
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32216363</guid>
             <pubDate>Sun, 24 Jul 2022 18:43:07 GMT</pubDate>
             <description><![CDATA[Samsung asks for planning permission for 11 fabs in Texas]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AWS开源了AWS控制台设计系统
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32214622</link>
-            <guid>https://news.ycombinator.com/item?id=32214622</guid>
-            <pubDate>Sun, 24 Jul 2022 15:51:32 GMT</pubDate>
-            <description><![CDATA[AWS open sourced the AWS console design system]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在调整了出版偏倚后，没有证据表明有推波助澜的作用
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32213587</link>
-            <guid>https://news.ycombinator.com/item?id=32213587</guid>
-            <pubDate>Sun, 24 Jul 2022 14:02:26 GMT</pubDate>
-            <description><![CDATA[No evidence for nudging after adjusting for publication bias]]></description>
         </item>
     </channel>
 </rss>
