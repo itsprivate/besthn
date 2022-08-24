@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32575668",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32575668",
+            "title": "人們指責自行車的事情\n",
+            "summary": "Things people blamed on bicycles",
+            "date_modified": "2022-08-24T06:43:06.000Z",
+            "author": {
+                "name": "the-archivist",
+                "url": "https://news.ycombinator.com/user?id=the-archivist"
+            },
+            "_original_headline": "Things people blamed on bicycles",
+            "_original_url": "https://twitter.com/paulisci/status/1561848479470694403",
+            "_sensitive": false,
+            "_score": 206
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32571893",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32571893",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://ghuntley.com/mcdonalds/",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32217968",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32217968",
-            "title": "德州電網的Datadog儀表板\n",
-            "summary": "Datadog dashboard for the Texas power grid",
-            "date_modified": "2022-07-24T21:32:48.000Z",
-            "author": {
-                "name": "finiteseries",
-                "url": "https://news.ycombinator.com/user?id=finiteseries"
-            },
-            "_original_headline": "Datadog dashboard for the Texas power grid",
-            "_original_url": "https://p.datadoghq.com/sb/5c2fc00be-393be929c9c55c3b80b557d08c30787a?from_ts=1658093527470&to_ts=1658698327470&live=true",
-            "_sensitive": false,
-            "_score": 216
         }
     ]
 }
