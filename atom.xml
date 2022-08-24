@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-24T19:46:24.345Z</updated>
+    <updated>2022-08-24T20:49:13.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个接近100%可再生能源的电网是完全可以实现的，而且只需很少的存储。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32580844</id>
+        <link href="https://news.ycombinator.com/item?id=32580844"/>
+        <updated>2022-08-24T15:39:18.000Z</updated>
+        <summary type="html"><![CDATA[A near 100% renewables grid is well within reach, and with little storage]]></summary>
+        <author>
+            <name>guerby</name>
+            <uri>https://news.ycombinator.com/user?id=guerby</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["我们根据元数据杀人 "和其他元数据的东西
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>hprotagonist</name>
             <uri>https://news.ycombinator.com/user?id=hprotagonist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机械师发明了一种可实现转向角达80度的车轴
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32224235</id>
-        <link href="https://news.ycombinator.com/item?id=32224235"/>
-        <updated>2022-07-25T13:49:16.000Z</updated>
-        <summary type="html"><![CDATA[Mechanics invent an axle that can achieve steering angles of up to 80 degrees]]></summary>
-        <author>
-            <name>tnorthcutt</name>
-            <uri>https://news.ycombinator.com/user?id=tnorthcutt</uri>
         </author>
     </entry>
 </feed>

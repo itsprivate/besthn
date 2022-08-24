@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32580844",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32580844",
+            "title": "一个接近100%可再生能源的电网是完全可以实现的，而且只需很少的存储。\n",
+            "summary": "A near 100% renewables grid is well within reach, and with little storage",
+            "date_modified": "2022-08-24T15:39:18.000Z",
+            "author": {
+                "name": "guerby",
+                "url": "https://news.ycombinator.com/user?id=guerby"
+            },
+            "_original_headline": "A near 100% renewables grid is well within reach, and with little storage",
+            "_original_url": "https://reneweconomy.com.au/a-near-100-per-cent-renewables-grid-is-well-within-reach-and-with-little-storage/",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32582802",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32582802",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.science.org/content/blog-post/faked-beta-amyloid-data-what-does-it-mean",
             "_sensitive": false,
             "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32224235",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32224235",
-            "title": "机械师发明了一种可实现转向角达80度的车轴\n",
-            "summary": "Mechanics invent an axle that can achieve steering angles of up to 80 degrees",
-            "date_modified": "2022-07-25T13:49:16.000Z",
-            "author": {
-                "name": "tnorthcutt",
-                "url": "https://news.ycombinator.com/user?id=tnorthcutt"
-            },
-            "_original_headline": "Mechanics invent an axle that can achieve steering angles of up to 80 degrees",
-            "_original_url": "https://interestingengineering.com/axle-steering-angles-80-degrees",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }

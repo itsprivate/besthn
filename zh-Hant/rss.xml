@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 24 Aug 2022 19:46:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 20:49:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個接近100%可再生能源的電網是完全可以實現的，而且只需很少的存儲。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32580844</link>
+            <guid>https://news.ycombinator.com/item?id=32580844</guid>
+            <pubDate>Wed, 24 Aug 2022 15:39:18 GMT</pubDate>
+            <description><![CDATA[A near 100% renewables grid is well within reach, and with little storage]]></description>
+        </item>
         <item>
             <title><![CDATA["我們根據元數據殺人 "和其他元數據的東西
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32224823</guid>
             <pubDate>Mon, 25 Jul 2022 14:31:37 GMT</pubDate>
             <description><![CDATA[Faked Beta-Amyloid Data. What Does It Mean?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[機械師發明了一種可實現轉向角達80度的車軸
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32224235</link>
-            <guid>https://news.ycombinator.com/item?id=32224235</guid>
-            <pubDate>Mon, 25 Jul 2022 13:49:16 GMT</pubDate>
-            <description><![CDATA[Mechanics invent an axle that can achieve steering angles of up to 80 degrees]]></description>
         </item>
     </channel>
 </rss>
