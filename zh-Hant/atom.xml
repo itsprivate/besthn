@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-24T15:53:06.585Z</updated>
+    <updated>2022-08-24T16:45:16.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[拉斯特--一個艱難的決定得到了回報
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32578743</id>
+        <link href="https://news.ycombinator.com/item?id=32578743"/>
+        <updated>2022-08-24T12:50:40.000Z</updated>
+        <summary type="html"><![CDATA[Rust – A hard decision pays off]]></summary>
+        <author>
+            <name>muizelaar</name>
+            <uri>https://news.ycombinator.com/user?id=muizelaar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[主網合併公告
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32578569</id>
+        <link href="https://news.ycombinator.com/item?id=32578569"/>
+        <updated>2022-08-24T12:36:32.000Z</updated>
+        <summary type="html"><![CDATA[Mainnet Merge Announcement]]></summary>
+        <author>
+            <name>bowsamic</name>
+            <uri>https://news.ycombinator.com/user?id=bowsamic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何用你的開源項目支付你的租金（2020）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32577513</id>
+        <link href="https://news.ycombinator.com/item?id=32577513"/>
+        <updated>2022-08-24T10:38:22.000Z</updated>
+        <summary type="html"><![CDATA[How to pay your rent with your open source project (2020)]]></summary>
+        <author>
+            <name>gregnavis</name>
+            <uri>https://news.ycombinator.com/user?id=gregnavis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Plex：關於潛在數據洩露的重要通知
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>theafh</name>
             <uri>https://news.ycombinator.com/user?id=theafh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金日成的身份》（1949年） [pdf]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32219776</id>
-        <link href="https://news.ycombinator.com/item?id=32219776"/>
-        <updated>2022-07-25T01:56:25.000Z</updated>
-        <summary type="html"><![CDATA[The Identity of Kim Il Sung (1949) [pdf]]]></summary>
-        <author>
-            <name>CSMastermind</name>
-            <uri>https://news.ycombinator.com/user?id=CSMastermind</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNU 名稱系統
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32222360</id>
-        <link href="https://news.ycombinator.com/item?id=32222360"/>
-        <updated>2022-07-25T09:49:17.000Z</updated>
-        <summary type="html"><![CDATA[The GNU Name System]]></summary>
-        <author>
-            <name>p4bl0</name>
-            <uri>https://news.ycombinator.com/user?id=p4bl0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[非明顯的Docker用途
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32213950</id>
-        <link href="https://news.ycombinator.com/item?id=32213950"/>
-        <updated>2022-07-24T14:44:10.000Z</updated>
-        <summary type="html"><![CDATA[Non-Obvious Docker Uses]]></summary>
-        <author>
-            <name>zdw</name>
-            <uri>https://news.ycombinator.com/user?id=zdw</uri>
         </author>
     </entry>
 </feed>
