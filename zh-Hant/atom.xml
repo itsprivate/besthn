@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-24T08:37:18.562Z</updated>
+    <updated>2022-08-24T09:28:38.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Godot 4.0將停止使用可視化腳本
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32571893</id>
+        <link href="https://news.ycombinator.com/item?id=32571893"/>
+        <updated>2022-08-23T21:37:23.000Z</updated>
+        <summary type="html"><![CDATA[Godot 4.0 will discontinue visual scripting]]></summary>
+        <author>
+            <name>arduinomancer</name>
+            <uri>https://news.ycombinator.com/user?id=arduinomancer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[開源的Canva克隆
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>finiteseries</name>
             <uri>https://news.ycombinator.com/user?id=finiteseries</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為好奇心強的人提供的YouTube頻道
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32220192</id>
-        <link href="https://news.ycombinator.com/item?id=32220192"/>
-        <updated>2022-07-25T03:19:43.000Z</updated>
-        <summary type="html"><![CDATA[Ask HN: YouTube Channels for the Intellectually Curious]]></summary>
-        <author>
-            <name>maxutility</name>
-            <uri>https://news.ycombinator.com/user?id=maxutility</uri>
         </author>
     </entry>
 </feed>
