@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-24T02:52:39.008Z</updated>
+    <updated>2022-08-24T04:29:06.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於Corpspeak
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32562025</id>
+        <link href="https://news.ycombinator.com/item?id=32562025"/>
+        <updated>2022-08-23T08:30:46.000Z</updated>
+        <summary type="html"><![CDATA[On Corpspeak]]></summary>
+        <author>
+            <name>signa11</name>
+            <uri>https://news.ycombinator.com/user?id=signa11</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pornpen.ai，人工智能生成的色情作品
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>maxmunzel</name>
             <uri>https://news.ycombinator.com/user?id=maxmunzel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[性能比較：在Python、C/C++、Awk、Rust等語言中計算單詞
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32214419</id>
-        <link href="https://news.ycombinator.com/item?id=32214419"/>
-        <updated>2022-07-24T15:31:23.000Z</updated>
-        <summary type="html"><![CDATA[Performance comparison: counting words in Python, C/C++, Awk, Rust, and more]]></summary>
-        <author>
-            <name>pcr910303</name>
-            <uri>https://news.ycombinator.com/user?id=pcr910303</uri>
         </author>
     </entry>
 </feed>
