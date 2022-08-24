@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32568423",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32568423",
+            "title": "開源的Canva克隆\n",
+            "summary": "Show HN: Open Source Canva Clone",
+            "date_modified": "2022-08-23T17:44:36.000Z",
+            "author": {
+                "name": "chloe-bm",
+                "url": "https://news.ycombinator.com/user?id=chloe-bm"
+            },
+            "_original_headline": "Show HN: Open Source Canva Clone",
+            "_original_url": "https://github.com/layerhub-io/react-design-editor",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32567874",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32567874",
+            "title": "現在支持SSH提交驗證\n",
+            "summary": "SSH commit verification now supported",
+            "date_modified": "2022-08-23T17:07:11.000Z",
+            "author": {
+                "name": "rainworld",
+                "url": "https://news.ycombinator.com/user?id=rainworld"
+            },
+            "_original_headline": "SSH commit verification now supported",
+            "_original_url": "https://github.blog/changelog/2022-08-23-ssh-commit-verification-now-supported/",
+            "_sensitive": false,
+            "_score": 202
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32572153",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32572153",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://news.ycombinator.com/item?id=32220192",
             "_sensitive": false,
             "_score": 205
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32214809",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32214809",
-            "title": "讚揚堆積的PR\n",
-            "summary": "In Praise of Stacked PRs",
-            "date_modified": "2022-07-24T16:12:36.000Z",
-            "author": {
-                "name": "kiyanwang",
-                "url": "https://news.ycombinator.com/user?id=kiyanwang"
-            },
-            "_original_headline": "In Praise of Stacked PRs",
-            "_original_url": "https://benjamincongdon.me/blog/2022/07/17/In-Praise-of-Stacked-PRs/",
-            "_sensitive": false,
-            "_score": 201
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32216363",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32216363",
-            "title": "三星要求為其在德克薩斯州的11個工廠申請規劃許可\n",
-            "summary": "Samsung asks for planning permission for 11 fabs in Texas",
-            "date_modified": "2022-07-24T18:43:07.000Z",
-            "author": {
-                "name": "WaitWaitWha",
-                "url": "https://news.ycombinator.com/user?id=WaitWaitWha"
-            },
-            "_original_headline": "Samsung asks for planning permission for 11 fabs in Texas",
-            "_original_url": "https://www.electronicsweekly.com/uncategorised/802190-2022-07/",
-            "_sensitive": false,
-            "_score": 201
         }
     ]
 }
