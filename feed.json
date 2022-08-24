@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32569547",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32569547",
+            "title": "框架笔记本电脑上的FreeBSD\n",
+            "summary": "FreeBSD on the Framework Laptop",
+            "date_modified": "2022-08-23T18:56:45.000Z",
+            "author": {
+                "name": "throw0101a",
+                "url": "https://news.ycombinator.com/user?id=throw0101a"
+            },
+            "_original_headline": "FreeBSD on the Framework Laptop",
+            "_original_url": "https://xyinn.org/md/freebsd/framework_laptop",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32562025",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32562025",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.pnas.org/doi/10.1073/pnas.2200300119",
             "_sensitive": false,
             "_score": 210
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32212235",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32212235",
-            "title": "Kvass，一个个人键值存储器\n",
-            "summary": "Show HN: Kvass, a personal key-value store",
-            "date_modified": "2022-07-24T11:05:49.000Z",
-            "author": {
-                "name": "maxmunzel",
-                "url": "https://news.ycombinator.com/user?id=maxmunzel"
-            },
-            "_original_headline": "Show HN: Kvass, a personal key-value store",
-            "_original_url": "https://github.com/maxmunzel/kvass",
-            "_sensitive": false,
-            "_score": 209
         }
     ]
 }
