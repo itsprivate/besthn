@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 24 Aug 2022 20:49:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 21:28:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[蝶變的Chromium將默認搜索引擎改為DDG
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32582260</link>
+            <guid>https://news.ycombinator.com/item?id=32582260</guid>
+            <pubDate>Wed, 24 Aug 2022 16:55:30 GMT</pubDate>
+            <description><![CDATA[Debian's Chromium changes default search engine to DDG]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為什麼數組從0開始？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32581721</link>
+            <guid>https://news.ycombinator.com/item?id=32581721</guid>
+            <pubDate>Wed, 24 Aug 2022 16:25:22 GMT</pubDate>
+            <description><![CDATA[Why do arrays start at 0?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[從GitHub克隆Git存儲庫的IPv6支持
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32579914</link>
+            <guid>https://news.ycombinator.com/item?id=32579914</guid>
+            <pubDate>Wed, 24 Aug 2022 14:28:19 GMT</pubDate>
+            <description><![CDATA[IPv6 support for cloning Git repositories from GitHub]]></description>
+        </item>
         <item>
             <title><![CDATA[一個接近100%可再生能源的電網是完全可以實現的，而且只需很少的存儲。
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32226001</guid>
             <pubDate>Mon, 25 Jul 2022 15:44:42 GMT</pubDate>
             <description><![CDATA[I remember feeling derisive about marketing as a young techie]]></description>
-        </item>
-        <item>
-            <title><![CDATA[電影院最偉大的場景：《卡薩布蘭卡》和《馬賽曲》（2015）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32223721</link>
-            <guid>https://news.ycombinator.com/item?id=32223721</guid>
-            <pubDate>Mon, 25 Jul 2022 13:07:15 GMT</pubDate>
-            <description><![CDATA[Cinema’s greatest scene: ‘Casablanca’ and ‘La Marseillaise’ (2015)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[六邊形網格上的管道拼圖（又稱網）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32216436</link>
-            <guid>https://news.ycombinator.com/item?id=32216436</guid>
-            <pubDate>Sun, 24 Jul 2022 18:50:58 GMT</pubDate>
-            <description><![CDATA[Show HN: Pipes puzzle (a.k.a. Net) on a hexagonal grid]]></description>
-        </item>
-        <item>
-            <title><![CDATA[偽造的β-澱粉樣蛋白數據。這意味著什麼？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32224823</link>
-            <guid>https://news.ycombinator.com/item?id=32224823</guid>
-            <pubDate>Mon, 25 Jul 2022 14:31:37 GMT</pubDate>
-            <description><![CDATA[Faked Beta-Amyloid Data. What Does It Mean?]]></description>
         </item>
     </channel>
 </rss>

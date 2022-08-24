@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-24T20:49:13.028Z</updated>
+    <updated>2022-08-24T21:28:44.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[蝶变的Chromium将默认搜索引擎改为DDG
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32582260</id>
+        <link href="https://news.ycombinator.com/item?id=32582260"/>
+        <updated>2022-08-24T16:55:30.000Z</updated>
+        <summary type="html"><![CDATA[Debian's Chromium changes default search engine to DDG]]></summary>
+        <author>
+            <name>nobodyCloak</name>
+            <uri>https://news.ycombinator.com/user?id=nobodyCloak</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么数组从0开始？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32581721</id>
+        <link href="https://news.ycombinator.com/item?id=32581721"/>
+        <updated>2022-08-24T16:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Why do arrays start at 0?]]></summary>
+        <author>
+            <name>snikolaev</name>
+            <uri>https://news.ycombinator.com/user?id=snikolaev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从GitHub克隆Git存储库的IPv6支持
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32579914</id>
+        <link href="https://news.ycombinator.com/item?id=32579914"/>
+        <updated>2022-08-24T14:28:19.000Z</updated>
+        <summary type="html"><![CDATA[IPv6 support for cloning Git repositories from GitHub]]></summary>
+        <author>
+            <name>stargrave</name>
+            <uri>https://news.ycombinator.com/user?id=stargrave</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个接近100%可再生能源的电网是完全可以实现的，而且只需很少的存储。
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>tosh</name>
             <uri>https://news.ycombinator.com/user?id=tosh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电影院最伟大的场景：《卡萨布兰卡》和《马赛曲》（2015）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32223721</id>
-        <link href="https://news.ycombinator.com/item?id=32223721"/>
-        <updated>2022-07-25T13:07:15.000Z</updated>
-        <summary type="html"><![CDATA[Cinema’s greatest scene: ‘Casablanca’ and ‘La Marseillaise’ (2015)]]></summary>
-        <author>
-            <name>mooreds</name>
-            <uri>https://news.ycombinator.com/user?id=mooreds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[六边形网格上的管道拼图（又称网）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32216436</id>
-        <link href="https://news.ycombinator.com/item?id=32216436"/>
-        <updated>2022-07-24T18:50:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pipes puzzle (a.k.a. Net) on a hexagonal grid]]></summary>
-        <author>
-            <name>gereleth</name>
-            <uri>https://news.ycombinator.com/user?id=gereleth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伪造的β-淀粉样蛋白数据。这意味着什么？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32224823</id>
-        <link href="https://news.ycombinator.com/item?id=32224823"/>
-        <updated>2022-07-25T14:31:37.000Z</updated>
-        <summary type="html"><![CDATA[Faked Beta-Amyloid Data. What Does It Mean?]]></summary>
-        <author>
-            <name>hprotagonist</name>
-            <uri>https://news.ycombinator.com/user?id=hprotagonist</uri>
         </author>
     </entry>
 </feed>

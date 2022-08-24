@@ -11,6 +11,54 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32582260",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32582260",
+            "title": "蝶變的Chromium將默認搜索引擎改為DDG\n",
+            "summary": "Debian's Chromium changes default search engine to DDG",
+            "date_modified": "2022-08-24T16:55:30.000Z",
+            "author": {
+                "name": "nobodyCloak",
+                "url": "https://news.ycombinator.com/user?id=nobodyCloak"
+            },
+            "_original_headline": "Debian's Chromium changes default search engine to DDG",
+            "_original_url": "https://www.mail-archive.com/debian-devel-changes@lists.debian.org/msg760508.html",
+            "_sensitive": false,
+            "_score": 221
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32581721",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32581721",
+            "title": "為什麼數組從0開始？\n",
+            "summary": "Why do arrays start at 0?",
+            "date_modified": "2022-08-24T16:25:22.000Z",
+            "author": {
+                "name": "snikolaev",
+                "url": "https://news.ycombinator.com/user?id=snikolaev"
+            },
+            "_original_headline": "Why do arrays start at 0?",
+            "_original_url": "https://buttondown.email/hillelwayne/archive/why-do-arrays-start-at-0/",
+            "_sensitive": false,
+            "_score": 209
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32579914",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32579914",
+            "title": "從GitHub克隆Git存儲庫的IPv6支持\n",
+            "summary": "IPv6 support for cloning Git repositories from GitHub",
+            "date_modified": "2022-08-24T14:28:19.000Z",
+            "author": {
+                "name": "stargrave",
+                "url": "https://news.ycombinator.com/user?id=stargrave"
+            },
+            "_original_headline": "IPv6 support for cloning Git repositories from GitHub",
+            "_original_url": "https://github.com/orgs/community/discussions/10539",
+            "_sensitive": false,
+            "_score": 201
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32580844",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32580844",
@@ -9561,54 +9609,6 @@
             "_original_url": "https://twitter.com/id_aa_carmack/status/1551587190395789312",
             "_sensitive": false,
             "_score": 217
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32223721",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32223721",
-            "title": "電影院最偉大的場景：《卡薩布蘭卡》和《馬賽曲》（2015）。\n",
-            "summary": "Cinema’s greatest scene: ‘Casablanca’ and ‘La Marseillaise’ (2015)",
-            "date_modified": "2022-07-25T13:07:15.000Z",
-            "author": {
-                "name": "mooreds",
-                "url": "https://news.ycombinator.com/user?id=mooreds"
-            },
-            "_original_headline": "Cinema’s greatest scene: ‘Casablanca’ and ‘La Marseillaise’ (2015)",
-            "_original_url": "https://seveninchesofyourtime.com/cinemas-greatest-scene-casablanca-and-la-marseillaise/",
-            "_sensitive": false,
-            "_score": 208
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32216436",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32216436",
-            "title": "六邊形網格上的管道拼圖（又稱網）。\n",
-            "summary": "Show HN: Pipes puzzle (a.k.a. Net) on a hexagonal grid",
-            "date_modified": "2022-07-24T18:50:58.000Z",
-            "author": {
-                "name": "gereleth",
-                "url": "https://news.ycombinator.com/user?id=gereleth"
-            },
-            "_original_headline": "Show HN: Pipes puzzle (a.k.a. Net) on a hexagonal grid",
-            "_original_url": "https://hexapipes.vercel.app/hexagonal/5/1",
-            "_sensitive": false,
-            "_score": 270
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32224823",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32224823",
-            "title": "偽造的β-澱粉樣蛋白數據。這意味著什麼？\n",
-            "summary": "Faked Beta-Amyloid Data. What Does It Mean?",
-            "date_modified": "2022-07-25T14:31:37.000Z",
-            "author": {
-                "name": "hprotagonist",
-                "url": "https://news.ycombinator.com/user?id=hprotagonist"
-            },
-            "_original_headline": "Faked Beta-Amyloid Data. What Does It Mean?",
-            "_original_url": "https://www.science.org/content/blog-post/faked-beta-amyloid-data-what-does-it-mean",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }
