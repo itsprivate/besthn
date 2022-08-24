@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 24 Aug 2022 09:49:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 11:28:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[炉子：馒头背后的公司
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32574015</link>
+            <guid>https://news.ycombinator.com/item?id=32574015</guid>
+            <pubDate>Wed, 24 Aug 2022 01:39:14 GMT</pubDate>
+            <description><![CDATA[Oven: The Company Behind Bun]]></description>
+        </item>
+        <item>
+            <title><![CDATA[大型车辆对行人和骑车人伤害严重程度的影响
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32572753</link>
+            <guid>https://news.ycombinator.com/item?id=32572753</guid>
+            <pubDate>Tue, 23 Aug 2022 23:04:28 GMT</pubDate>
+            <description><![CDATA[Effects of large vehicles on pedestrian and pedal-cyclist injury severity]]></description>
+        </item>
         <item>
             <title><![CDATA[人们指责自行车的事情
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32220514</guid>
             <pubDate>Mon, 25 Jul 2022 04:34:20 GMT</pubDate>
             <description><![CDATA[Finishing what you start makes teams more productive and predictable]]></description>
-        </item>
-        <item>
-            <title><![CDATA[C#和.NET的案例
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32219836</link>
-            <guid>https://news.ycombinator.com/item?id=32219836</guid>
-            <pubDate>Mon, 25 Jul 2022 02:05:33 GMT</pubDate>
-            <description><![CDATA[The Case for C# and .NET]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为什么麦当劳的自助服务机如此容易被黑？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32218232</link>
-            <guid>https://news.ycombinator.com/item?id=32218232</guid>
-            <pubDate>Sun, 24 Jul 2022 22:03:39 GMT</pubDate>
-            <description><![CDATA[Why are McDonald’s Self Service Kiosks so hackable?]]></description>
         </item>
     </channel>
 </rss>

@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32574015",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32574015",
+            "title": "炉子：馒头背后的公司\n",
+            "summary": "Oven: The Company Behind Bun",
+            "date_modified": "2022-08-24T01:39:14.000Z",
+            "author": {
+                "name": "mostafah",
+                "url": "https://news.ycombinator.com/user?id=mostafah"
+            },
+            "_original_headline": "Oven: The Company Behind Bun",
+            "_original_url": "https://oven.sh",
+            "_sensitive": false,
+            "_score": 205
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=32572753",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32572753",
+            "title": "大型车辆对行人和骑车人伤害严重程度的影响\n",
+            "summary": "Effects of large vehicles on pedestrian and pedal-cyclist injury severity",
+            "date_modified": "2022-08-23T23:04:28.000Z",
+            "author": {
+                "name": "kitkat_new",
+                "url": "https://news.ycombinator.com/user?id=kitkat_new"
+            },
+            "_original_headline": "Effects of large vehicles on pedestrian and pedal-cyclist injury severity",
+            "_original_url": "https://www.sciencedirect.com/science/article/abs/pii/S0022437522000810",
+            "_sensitive": false,
+            "_score": 204
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32575668",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32575668",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://lucasfcosta.com/2022/07/19/finish-what-you-start.html",
             "_sensitive": false,
             "_score": 205
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32219836",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32219836",
-            "title": "C#和.NET的案例\n",
-            "summary": "The Case for C# and .NET",
-            "date_modified": "2022-07-25T02:05:33.000Z",
-            "author": {
-                "name": "greenSunglass",
-                "url": "https://news.ycombinator.com/user?id=greenSunglass"
-            },
-            "_original_headline": "The Case for C# and .NET",
-            "_original_url": "https://chrlschn.medium.com/the-case-for-c-and-net-72ee933da304",
-            "_sensitive": false,
-            "_score": 200
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32218232",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32218232",
-            "title": "为什么麦当劳的自助服务机如此容易被黑？\n",
-            "summary": "Why are McDonald’s Self Service Kiosks so hackable?",
-            "date_modified": "2022-07-24T22:03:39.000Z",
-            "author": {
-                "name": "ghuntley",
-                "url": "https://news.ycombinator.com/user?id=ghuntley"
-            },
-            "_original_headline": "Why are McDonald’s Self Service Kiosks so hackable?",
-            "_original_url": "https://ghuntley.com/mcdonalds/",
-            "_sensitive": false,
-            "_score": 200
         }
     ]
 }
