@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Wed, 24 Aug 2022 19:06:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 19:46:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA["我们根据元数据杀人 "和其他元数据的东西
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32582802</link>
+            <guid>https://news.ycombinator.com/item?id=32582802</guid>
+            <pubDate>Wed, 24 Aug 2022 17:30:59 GMT</pubDate>
+            <description><![CDATA[“We kill people based on metadata” and other metadata things]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Rustle: 用Rust重写的Svelte编译器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32575086</link>
+            <guid>https://news.ycombinator.com/item?id=32575086</guid>
+            <pubDate>Wed, 24 Aug 2022 04:43:10 GMT</pubDate>
+            <description><![CDATA[Rustle: Svelte compiler rewritten in Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[开发商的会计，第二部分
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32224235</guid>
             <pubDate>Mon, 25 Jul 2022 13:49:16 GMT</pubDate>
             <description><![CDATA[Mechanics invent an axle that can achieve steering angles of up to 80 degrees]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是时候把闰秒留在过去了
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32226414</link>
-            <guid>https://news.ycombinator.com/item?id=32226414</guid>
-            <pubDate>Mon, 25 Jul 2022 16:08:55 GMT</pubDate>
-            <description><![CDATA[It’s time to leave the leap second in the past]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Docker、Kubernetes、Terraform和AWS速成课程系列
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32213066</link>
-            <guid>https://news.ycombinator.com/item?id=32213066</guid>
-            <pubDate>Sun, 24 Jul 2022 13:01:22 GMT</pubDate>
-            <description><![CDATA[Docker, Kubernetes, Terraform, and AWS crash course series]]></description>
         </item>
     </channel>
 </rss>
