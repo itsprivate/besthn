@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-25T11:29:02.823Z</updated>
+    <updated>2022-08-25T12:00:24.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你可以用不到15美元的價格3D打印並建造一個164毫米的f/2.5鏡頭
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32579005</id>
+        <link href="https://news.ycombinator.com/item?id=32579005"/>
+        <updated>2022-08-24T13:13:23.000Z</updated>
+        <summary type="html"><![CDATA[You can 3D print and build a 164mm f/2.5 lens for less than $15]]></summary>
+        <author>
+            <name>bookofjoe</name>
+            <uri>https://news.ycombinator.com/user?id=bookofjoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[修復它，叉開它，滾開
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>starsep</name>
             <uri>https://news.ycombinator.com/user?id=starsep</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[換工作的人比留下來的人掙得多得多
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32234117</id>
-        <link href="https://news.ycombinator.com/item?id=32234117"/>
-        <updated>2022-07-26T04:04:15.000Z</updated>
-        <summary type="html"><![CDATA[Job Switchers Are Earning a Lot More Than Those Who Stay]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-            <uri>https://news.ycombinator.com/user?id=Brajeshwar</uri>
         </author>
     </entry>
 </feed>
