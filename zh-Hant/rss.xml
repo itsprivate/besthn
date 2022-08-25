@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 25 Aug 2022 02:50:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 05:53:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個14kb的頁面可以比一個15kb的頁面加載得更快
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32587740</link>
+            <guid>https://news.ycombinator.com/item?id=32587740</guid>
+            <pubDate>Thu, 25 Aug 2022 00:24:46 GMT</pubDate>
+            <description><![CDATA[A 14kb page can load much faster than a 15kb page]]></description>
+        </item>
+        <item>
+            <title><![CDATA[SQLite如何擴展讀取併發性
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32579866</link>
+            <guid>https://news.ycombinator.com/item?id=32579866</guid>
+            <pubDate>Wed, 24 Aug 2022 14:24:54 GMT</pubDate>
+            <description><![CDATA[How SQLite scales read concurrency]]></description>
+        </item>
         <item>
             <title><![CDATA[專利巨頭來襲。我們的第一起訴訟
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32234022</guid>
             <pubDate>Tue, 26 Jul 2022 03:46:19 GMT</pubDate>
             <description><![CDATA[The Dangers of Microsoft Pluton]]></description>
-        </item>
-        <item>
-            <title><![CDATA[是的，8086希望能從8080中進行機械轉換，但
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32229806</link>
-            <guid>https://news.ycombinator.com/item?id=32229806</guid>
-            <pubDate>Mon, 25 Jul 2022 19:35:15 GMT</pubDate>
-            <description><![CDATA[Yes, the 8086 wanted to be mechanically translatable from the 8080, but]]></description>
-        </item>
-        <item>
-            <title><![CDATA[腐蝕的全球成本
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32226267</link>
-            <guid>https://news.ycombinator.com/item?id=32226267</guid>
-            <pubDate>Mon, 25 Jul 2022 15:58:47 GMT</pubDate>
-            <description><![CDATA[The Global Cost of Corrosion]]></description>
         </item>
     </channel>
 </rss>
