@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 25 Aug 2022 10:54:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 11:29:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[修复它，叉开它，滚开
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32591265</link>
+            <guid>https://news.ycombinator.com/item?id=32591265</guid>
+            <pubDate>Thu, 25 Aug 2022 08:55:20 GMT</pubDate>
+            <description><![CDATA[Fix it, Fork it, Fuck off]]></description>
+        </item>
         <item>
             <title><![CDATA[韩国打破了自己的世界最低生育率纪录
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32234117</guid>
             <pubDate>Tue, 26 Jul 2022 04:04:15 GMT</pubDate>
             <description><![CDATA[Job Switchers Are Earning a Lot More Than Those Who Stay]]></description>
-        </item>
-        <item>
-            <title><![CDATA[作为软件工程师成为全职创造者
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32233437</link>
-            <guid>https://news.ycombinator.com/item?id=32233437</guid>
-            <pubDate>Tue, 26 Jul 2022 02:08:48 GMT</pubDate>
-            <description><![CDATA[Becoming a Full-Time Creator as a Software Engineer]]></description>
         </item>
     </channel>
 </rss>
