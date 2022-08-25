@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-25T09:52:04.085Z</updated>
+    <updated>2022-08-25T10:54:13.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[韓國打破了自己的世界最低生育率紀錄
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32580631</id>
+        <link href="https://news.ycombinator.com/item?id=32580631"/>
+        <updated>2022-08-24T15:24:36.000Z</updated>
+        <summary type="html"><![CDATA[Korea shatters its own record for world’s lowest fertility rate]]></summary>
+        <author>
+            <name>lalaland1125</name>
+            <uri>https://news.ycombinator.com/user?id=lalaland1125</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[約翰-卡馬克關於避免分心的問題
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nassimsoftware</name>
             <uri>https://news.ycombinator.com/user?id=nassimsoftware</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VRchat禁止Mods，擁抱EAC
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32232974</id>
-        <link href="https://news.ycombinator.com/item?id=32232974"/>
-        <updated>2022-07-26T00:52:33.000Z</updated>
-        <summary type="html"><![CDATA[VRchat bans mods, embraces EAC]]></summary>
-        <author>
-            <name>cowtools</name>
-            <uri>https://news.ycombinator.com/user?id=cowtools</uri>
         </author>
     </entry>
 </feed>

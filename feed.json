@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32580631",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32580631",
+            "title": "韩国打破了自己的世界最低生育率纪录\n",
+            "summary": "Korea shatters its own record for world’s lowest fertility rate",
+            "date_modified": "2022-08-24T15:24:36.000Z",
+            "author": {
+                "name": "lalaland1125",
+                "url": "https://news.ycombinator.com/user?id=lalaland1125"
+            },
+            "_original_headline": "Korea shatters its own record for world’s lowest fertility rate",
+            "_original_url": "https://www.bloomberg.com/news/articles/2022-08-24/fastest-aging-wealthy-economy-breaks-own-fertility-record-again",
+            "_sensitive": false,
+            "_score": 203
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32583257",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32583257",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/",
             "_sensitive": false,
             "_score": 203
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32232974",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32232974",
-            "title": "VRchat禁止Mods，拥抱EAC\n",
-            "summary": "VRchat bans mods, embraces EAC",
-            "date_modified": "2022-07-26T00:52:33.000Z",
-            "author": {
-                "name": "cowtools",
-                "url": "https://news.ycombinator.com/user?id=cowtools"
-            },
-            "_original_headline": "VRchat bans mods, embraces EAC",
-            "_original_url": "https://hello.vrchat.com/blog/vrchat-security-update",
-            "_sensitive": false,
-            "_score": 204
         }
     ]
 }

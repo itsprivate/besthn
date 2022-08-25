@@ -4,7 +4,7 @@
         <title>👋 Best HN!</title>
         <link>https://besthn.buzzing.cc</link>
         <description>用中文浏览Hacker News 热门文章</description>
-        <lastBuildDate>Thu, 25 Aug 2022 09:52:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 10:54:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://besthn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[韓國打破了自己的世界最低生育率紀錄
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32580631</link>
+            <guid>https://news.ycombinator.com/item?id=32580631</guid>
+            <pubDate>Wed, 24 Aug 2022 15:24:36 GMT</pubDate>
+            <description><![CDATA[Korea shatters its own record for world’s lowest fertility rate]]></description>
+        </item>
         <item>
             <title><![CDATA[約翰-卡馬克關於避免分心的問題
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32233437</guid>
             <pubDate>Tue, 26 Jul 2022 02:08:48 GMT</pubDate>
             <description><![CDATA[Becoming a Full-Time Creator as a Software Engineer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[VRchat禁止Mods，擁抱EAC
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32232974</link>
-            <guid>https://news.ycombinator.com/item?id=32232974</guid>
-            <pubDate>Tue, 26 Jul 2022 00:52:33 GMT</pubDate>
-            <description><![CDATA[VRchat bans mods, embraces EAC]]></description>
         </item>
     </channel>
 </rss>
