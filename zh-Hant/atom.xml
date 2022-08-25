@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-25T05:53:17.738Z</updated>
+    <updated>2022-08-25T06:22:58.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[電子郵件並不糟糕--需要改進的是電子郵件客戶端
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32577993</id>
+        <link href="https://news.ycombinator.com/item?id=32577993"/>
+        <updated>2022-08-24T11:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Email doesn't suck – it's email clients that need improving]]></summary>
+        <author>
+            <name>WithinReason</name>
+            <uri>https://news.ycombinator.com/user?id=WithinReason</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何傳達你的創業公司值得加入的原因
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32566123</id>
+        <link href="https://news.ycombinator.com/item?id=32566123"/>
+        <updated>2022-08-23T15:15:59.000Z</updated>
+        <summary type="html"><![CDATA[How to communicate why your startup is worth joining]]></summary>
+        <author>
+            <name>flreln</name>
+            <uri>https://news.ycombinator.com/user?id=flreln</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個14kb的頁面可以比一個15kb的頁面加載得更快
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>herbertl</name>
             <uri>https://news.ycombinator.com/user?id=herbertl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在獲得A16Z的3.65億美元投資後，Helium的收入為6.5千美元/月
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32234509</id>
-        <link href="https://news.ycombinator.com/item?id=32234509"/>
-        <updated>2022-07-26T05:13:25.000Z</updated>
-        <summary type="html"><![CDATA[Helium has revenues of $6.5k/month after $365M investment from A16Z]]></summary>
-        <author>
-            <name>Archio</name>
-            <uri>https://news.ycombinator.com/user?id=Archio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微軟Pluton的危險
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32234022</id>
-        <link href="https://news.ycombinator.com/item?id=32234022"/>
-        <updated>2022-07-26T03:46:19.000Z</updated>
-        <summary type="html"><![CDATA[The Dangers of Microsoft Pluton]]></summary>
-        <author>
-            <name>gjsman-1000</name>
-            <uri>https://news.ycombinator.com/user?id=gjsman-1000</uri>
         </author>
     </entry>
 </feed>
