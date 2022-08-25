@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://besthn.buzzing.cc</id>
     <title>👋 Best HN!</title>
-    <updated>2022-08-24T21:59:46.644Z</updated>
+    <updated>2022-08-25T02:50:14.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://besthn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[专利巨头来袭。我们的第一起诉讼
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32586898</id>
+        <link href="https://news.ycombinator.com/item?id=32586898"/>
+        <updated>2022-08-24T22:51:13.000Z</updated>
+        <summary type="html"><![CDATA[Patent Trolls Inbound: Our First Lawsuit]]></summary>
+        <author>
+            <name>arduinomancer</name>
+            <uri>https://news.ycombinator.com/user?id=arduinomancer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EPB推出美国首个社区范围内的25千兆互联网服务
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32585535</id>
+        <link href="https://news.ycombinator.com/item?id=32585535"/>
+        <updated>2022-08-24T20:47:48.000Z</updated>
+        <summary type="html"><![CDATA[EPB launches America’s first community-wide 25 gig internet service]]></summary>
+        <author>
+            <name>Scottopherson</name>
+            <uri>https://news.ycombinator.com/user?id=Scottopherson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[容器编排者的情况
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>apatil</name>
             <uri>https://news.ycombinator.com/user?id=apatil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[表情符号厨房
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32232546</id>
-        <link href="https://news.ycombinator.com/item?id=32232546"/>
-        <updated>2022-07-25T23:56:19.000Z</updated>
-        <summary type="html"><![CDATA[Emoji Kitchen]]></summary>
-        <author>
-            <name>liberia</name>
-            <uri>https://news.ycombinator.com/user?id=liberia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我从阿里巴巴买了一辆便宜的电动皮卡 (2021)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32231209</id>
-        <link href="https://news.ycombinator.com/item?id=32231209"/>
-        <updated>2022-07-25T21:31:53.000Z</updated>
-        <summary type="html"><![CDATA[I bought a cheap electric pickup truck from Alibaba (2021)]]></summary>
-        <author>
-            <name>qzervaas</name>
-            <uri>https://news.ycombinator.com/user?id=qzervaas</uri>
         </author>
     </entry>
 </feed>
